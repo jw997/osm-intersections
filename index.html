@@ -1,0 +1,167 @@
+<!doctype html>
+
+<head>
+
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no">
+	<style>
+		
+		body {
+			background-color: white;
+		}
+
+		.sansserif {
+			font-family: Verdana, Arial, Helvetica, sans-serif;
+		}
+
+		label,
+		select,
+		input,
+		#summary {
+			margin-left: 10px;
+		}
+
+		
+
+		
+
+		.info {
+			padding: 6px 8px;
+			font: 14px/16px Arial, Helvetica, sans-serif;
+			background: white;
+			background: rgba(255, 255, 255, 0.8);
+			box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+			border-radius: 5px;
+		}
+
+		.info h4 {
+			margin: 0 0 5px;
+			color: #777;
+		}
+
+		.legend {
+			line-height: 18px;
+			color: #555;
+		}
+
+		.legend i {
+			width: 18px;
+			height: 18px;
+			float: left;
+			margin-right: 8px;
+			opacity: 0.8;
+		}
+
+		#query-stuff {
+
+			background-color: rgb(96 139 168 / 0.5);
+
+			overflow-y: scroll;
+			border: 1px solid black;
+			/*
+			padding: 1em;
+			border: 5px solid red;
+*/
+		}
+
+		#osm-map {
+			border: 1px solid black;
+		}
+
+		#selectStreet {
+			display: block;
+		}
+
+		.grid-container {
+			display: grid;
+
+			grid-gap: 20px;
+			overflow-y: auto;
+
+		}
+
+		/* small devices */
+		@media only screen and (max-width: 991px) and (orientation: portrait) {
+			#osm-map {
+				grid-column: 1;
+				grid-row: 1;
+				max-height: 40vh;
+				max-width: 100vh;
+			}
+
+			#query-stuff {
+				grid-column: 1;
+				grid-row: 2;
+			}
+
+			.grid-container {
+				grid-template-rows: 40% 57%;
+				height: 98vh;
+			}
+		}
+
+	
+		@media only screen and (max-width: 991px) and (orientation: landscape) {
+			#osm-map {
+				grid-column: 1;
+				grid-row: 1;
+				max-height: 50vh;
+				max-width: 100vh;
+			}
+
+			#query-stuff {
+				grid-column: 1;
+				grid-row: 2;
+			}
+
+			.grid-container {
+				grid-template-rows: 50vh 1fr;
+				height: 85vh;
+			}
+		}
+
+		/* Large devices (laptops/desktops, 992px and up) */
+		@media only screen and (min-width: 992px) {
+			#osm-map {
+				grid-column: 2;
+				grid-row: 1;
+			}
+
+			#query-stuff {
+				grid-column: 1;
+				grid-row: 1;
+			}
+
+			.grid-container {
+				grid-template-columns: max(20rem, 25%) auto;
+				height: 98vh;
+			}
+
+			/*
+			.grid-container {
+				grid-template-columns: 20rem 1fr;
+				height: 98vh;
+			}*/
+		}
+	</style>
+
+	<script src="./dependencies/leaflet/1.9.4/leaflet.js"></script>
+	<link href="./dependencies/leaflet/1.9.4/leaflet.css" rel="stylesheet" />
+
+<!---	<link rel="stylesheet" href="./dependencies/legend/leaflet.legend.css" />
+	<script type="text/javascript" src="./dependencies/legend/leaflet.legend.js"></script>
+--->
+</head>
+
+<body class="sansserif body-container">
+	<div class="grid-container">
+		<div id="osm-map"></div>
+	</div>
+
+
+	<script type="module">
+		import {
+			 map
+		} from "./js/util.js";
+	</script>
+</body>
