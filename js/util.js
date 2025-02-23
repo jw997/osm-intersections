@@ -263,7 +263,7 @@ function addMarkers(intersections) {
 
 
 		markersAtLocation.set(JSON.stringify(loc), ct + 1);
-		var msg = intersection.streets;
+		var msg = intersection.streets + ' raw: ' + intersection.raw;
 
 
 
