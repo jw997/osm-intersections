@@ -174,7 +174,15 @@ function initWayData(obj) {
 
 		const nodes = way.nodes; // list of node ids
 
+		// make a list of motorway links, and name them from their adjacent motorways
+		// ?????
+
 		var fakeNames = new Set(['JUNCTION']); // not working for motorway_linnks
+		const MOTORWAY_LINK = 'motorway_link';
+
+		if (MOTORWAY_LINK == tags.highway ) {
+			fakeNames = new Set([MOTORWAY_LINK]);
+		}
 		for (var i = 0; i < nodes.length; i++) {
 			mapNodeIdToGps.set(nodes[i], geometry[i])
 			const n = mapNodeIdToNames.get(nodes[i]);
@@ -256,12 +264,19 @@ function isDeadEnd(nodeid) {
 	return retval;
 }
 
+const metersPerDegree = 100000;
+
+// approx dist in meters between two coords
 function distGpsGps(gps1, gps2) {//  { "lat": 37.8655316, "lon": -122.3100479 },
 	const dLat = Math.abs(gps1.lat - gps2.lat);
 	const dLon = Math.abs(gps1.lon - gps2.lon);
-	const retval = dLat + dLon;
+	const retval = metersPerDegree*(dLat + dLon);
 	return retval;
 }
+
+
+
+
 
 const mapNodeidToName = new Map();
 const mapNodeidToNameArray = new Map();
@@ -341,12 +356,12 @@ function avgGps(iter) {
 
 // averageJunctionDuplicates is used for coalescing roundabouts which start out as several intersections into one point
 function averageJunctionDuplicates(obj) {
-	const junction = 'JUNCTION';
+	const JUNCTION = 'JUNCTION';
 
-	const simpleIntersections = obj.intersections.filter((elt) => !elt.streets.includes(junction));
+	const simpleIntersections = obj.intersections.filter((elt) => !elt.streets.includes(JUNCTION));
 	console.log('simple', simpleIntersections.length);
 
-	const junctionIntersections = obj.intersections.filter((elt) => elt.streets.includes(junction)).sort((a, b) => strComp(a.streets, b.streets));
+	const junctionIntersections = obj.intersections.filter((elt) => elt.streets.includes(JUNCTION)).sort((a, b) => strComp(a.streets, b.streets));
 	console.log('junction', junctionIntersections.length);
 
 	// make a list of the unique streets
@@ -377,6 +392,19 @@ function incrementMap(m, k) {
 // if a node is the end of street X where it crosses Y, only average it with other nodes on
 // the same way of X 
 
+function arrayToGps(arr) {
+	const lat = arr[0];
+	const lon = arr[1];
+	const retval = {lat: lat, lon, lon};
+	return retval;
+}
+
+function distArrArr(a1, a2) {
+	const g1 = arrayToGps(a1);
+	const g2 = arrayToGps(a2);
+	const retval = distGpsGps( g1, g2);
+	return retval;
+}
 function averageBoulevardDuplicates(obj) {
 	const intersections = obj.intersections;
 	const mapStreetsToCount = new Map();
@@ -401,11 +429,14 @@ function averageBoulevardDuplicates(obj) {
 		}
 	}
 
-
 	// TODO filter out the sets the contain deadends
 
 	// average the dupeStreets!
 	for (const str of dupeStreetSet) {
+		console.log("AVG", str);
+		if (str.includes("Regal")) {
+			console.log("stop here")
+		}
 
 		// get the matching intersections
 		const matches = intersections.filter((elt) => elt.streets == str);
@@ -430,9 +461,18 @@ function averageBoulevardDuplicates(obj) {
 		// 2 nodes 1 dead end is a street dead ending at a boulevard
 		if (matches.length == 2) {
 			if (deadEndCount == 1) {
-				const avg = avgGps(matches);
-				output.push(avg);
-				continue;
+				// fix Regal / Cragmont with a 50 meter width limit for boulevards????
+				if (distArrArr( matches[0].coordinates, matches[1].coordinates) < 50) {
+					const avg = avgGps(matches);
+					output.push(avg);
+					continue;
+				} else {
+					// too far
+					console.log("Not coalescing ", matches[0].streets);
+					output.push(matches[0]);
+					output.push(matches[1]);
+					continue;
+				}
 			}
 			// 2 nodes 2 dead end is a street offset crossing another street
 			if (deadEndCount == 2) {
