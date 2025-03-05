@@ -132,56 +132,38 @@ async function getCityBoundary() {
 const cityGeoJson = await getCityBoundary();
 
 async function getIntersections() {
-	const file = './data/intersections.json';
+	const file = './data/intersections.geojson';
 	const interJson = await getJson(file);
 	return interJson;
 }
 
 const interJson = await getIntersections();
 
+/*
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2450524,
+          37.8584661
+        ]
+      },
+      "properties": {
+        "streets": [
+          "Claremont Avenue",
+          "Claremont Boulevard"
+        ]
+      }
+    },
+*/
 
 
-const popupFields = ['Date',
-	'Time', 'Hour',
-	//'Day_of_Week',
-	'Case_Number',
-	'Case_ID',
-	'Local_Report_Number',
-	'Accident_Location',
-	'Latitude',
-	'Longitude',
-	'Collision_Classification_Descri',
-	'Collision_Type',
-	'Primary_Collision_Factor_Code',
-	'PCF_Description',
-	//	'PCF_Category',
-	'Involved_Objects',
-	'Involved_Parties',
-	'Party_at_Fault',
-	'Number_of_Injuries',
-	'Number_of_Fatalities',
-	'Suspected_Serious_Injury',
-	'Injury_Severity',
-	"Injury_Ages",
-	"url",
-	"Traffic_Violation_Offense_Code_",
-	"Type_Of_Stop", "bGeoPointAddress", "bGeneralLocationDesc",
-	"ReasonForStopNarrative",
-	"Result_of_Stop_text",
-	"Stop_Location"
 
 
-];
-function collisionPopup(obj) {
-	var msg = "";
-	for (const k of popupFields) {
-		const v = obj[k];
-		if (v) {
-			msg += (k + ': ' + v + '<br>');
-		}
-	}
-	return msg;
-}
 
 var map;
 
@@ -235,13 +217,25 @@ const LatitudeDefault = 37.868412;
 const LongitudeDefault = -122.349938;
 
 /*
- {
-	  "coordinates": [
-		37.868524,
-		-122.2454645
-	  ],
-	  "streets": "Dwight Way/Panoramic Way"
-	},
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2450524,
+          37.8584661
+        ]
+      },
+      "properties": {
+        "streets": [
+          "Claremont Avenue",
+          "Claremont Boulevard"
+        ]
+      }
+    },
 
 */
 
@@ -253,43 +247,37 @@ function addMarkers(intersections) {
 	const markersAtLocation = new Map();
 	// add collisions to map
 	var markerCount = 0
-	var skipped = 0, plotted = 0;
+	//var skipped = 0, plotted = 0;
 
-	var arrMappedCollisions = [];
 
 	for (const intersection of intersections) {
 
-		plotted++;
-		//arrMappedCollisions.push(attr); // add to array for export function
+		//plotted++;
 
-
-
-
-		const loc = intersection.coordinates;
-		const lat = intersection.coordinates[0];
-		const long = intersection.coordinates[1];
+		const loc = intersection.geometry.coordinates;
+		const lat = loc[1];
+		const long = loc[0];
 
 		//	const roundLoc = loc.map((c) => c.toFixed(3));
-		const ct = markersAtLocation.get(JSON.stringify(loc)) ?? 0;
+	/*	const ct = markersAtLocation.get(JSON.stringify(loc)) ?? 0;
 
 		if (ct > 0) {
 			console.log("adjusting marker")
-		}
+		}*/
 
 		const opt = getMarkerOpt();
 
-		var marker;
+		var marker = L.circleMarker([lat , long ], opt
 
-		marker = L.circleMarker([lat + ct * 0.0001, long - ct * 0.0001], opt
+			);
 
-		);
-
-
-
-		markersAtLocation.set(JSON.stringify(loc), ct + 1);
-		var msg = intersection.streets + ' raw: ' + intersection.raw;
+		//marker = L.circleMarker([lat + ct * 0.0001, long - ct * 0.0001], opt	);
 
 
+
+	//	markersAtLocation.set(JSON.stringify(loc), ct + 1);
+	const slash = '/';
+		var msg = intersection.properties.streets.join(slash);
 
 		if (pointerFine) {
 
@@ -304,13 +292,13 @@ function addMarkers(intersections) {
 		markerCount++;
 
 	}
-	console.log('Skipped', skipped);
-	console.log('Plotted', plotted);
+	//console.log('Skipped', skipped);
+	//console.log('Plotted', plotted);
 	console.log("markerCount ", markerCount)
 
 }
 
-addMarkers(interJson.intersections);
+addMarkers(interJson.features);
 
 export {
 
