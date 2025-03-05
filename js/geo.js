@@ -4,6 +4,31 @@ import { polygon, point } from "@turf/helpers";
 import { booleanWithin } from "@turf/boolean-within";
 import { booleanPointInPolygon } from "@turf/boolean-point-in-polygon";
 
+function makePointFeature(arrCoordLonLat, mapProperties) {
+	const feature = {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": arrCoordLonLat
+		},
+		"properties": mapProperties
+	};
+
+	return feature;
+}
+
+function makeFeatureSet(arrFeatures) {
+	const featureSet = {
+		"type": "FeatureCollection",
+		"features": arrFeatures
+
+	};
+	return featureSet;
+}
+
+
+
+
 /*
 var p = polygon(
 	[
@@ -287,6 +312,9 @@ function makeIntersectionString(s) {
 	return retval;
 }
 
+const slash = '/';
+const underscore = '_';
+
 function clean(raw) {
 	//console.log('raw',raw)
 	// split raw on / 
@@ -294,8 +322,7 @@ function clean(raw) {
 	// remove blanks and dupes
 	// sort
 	// reassemble with / 
-	const slash = '/';
-	const underscore = '_';
+
 
 	const regex = /_[0-9]/;
 	const trimmed = raw.replace(regex, '');
@@ -668,6 +695,43 @@ const obj = findintersections(wayData);
 var json = JSON.stringify(obj);
 
 writeFileSync('./data/intersections.json', json);
+
+/* obj is an array of 
+ {
+      "coordinates": [
+        37.8779186,
+        -122.3077791
+      ],
+      "raw": "Gilman Street/West Frontage Road_2",
+      "streets": "Gilman Street/West Frontage Road",
+      "nodeId": 12449832925
+    }
+
+*/
+
+function makeIntersectionGeoJson(intersections){
+
+	const arrFeatures = [];
+	for (const intersection of intersections) {
+		const lat = intersection.coordinates[0];
+		const lon = intersection.coordinates[1];
+
+		const coords = [lon, lat]
+
+		const streets = intersection.streets.split(slash);
+		const properties = {'streets': streets};
+		const feature = makePointFeature(coords,  properties);
+		arrFeatures.push( feature);
+	}
+
+	const geoJson = makeFeatureSet(arrFeatures);
+	return geoJson;
+}
+
+const geoJson = makeIntersectionGeoJson( obj.intersections);
+writeFileSync('./data/intersections.geojson', JSON.stringify(geoJson));
+
+
 
 
 

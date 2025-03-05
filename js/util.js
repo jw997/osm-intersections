@@ -4,6 +4,27 @@ import { getJson } from "./utils_helper.js";
 let mql = window.matchMedia("(pointer: fine)");
 const pointerFine = mql.matches;
 
+/*
+"features": [
+	{
+	  "type": "Feature",
+	  "geometry": {
+		"type": "Point",
+		"coordinates": [
+		  -122.2450524,
+		  37.8584661
+		]
+	  },
+	  "properties": {
+		"streets": ["Claremont Avenue","Claremont Boulevard"]
+	  }
+	},
+
+	*/
+
+
+
+
 
 function getMarkerOpt() {
 	const colorValue = w3_highway_red;
@@ -224,6 +245,9 @@ const LongitudeDefault = -122.349938;
 
 */
 
+
+
+
 function addMarkers(intersections) {
 	removeAllMakers();
 	const markersAtLocation = new Map();
@@ -234,7 +258,7 @@ function addMarkers(intersections) {
 	var arrMappedCollisions = [];
 
 	for (const intersection of intersections) {
-		
+
 		plotted++;
 		//arrMappedCollisions.push(attr); // add to array for export function
 
@@ -269,7 +293,7 @@ function addMarkers(intersections) {
 
 		if (pointerFine) {
 
-			marker.bindTooltip(msg).openTooltip(); 
+			marker.bindTooltip(msg).openTooltip();
 			marker.bindPopup(msg).openPopup();
 		} else {
 			marker.bindPopup(msg).openPopup();
