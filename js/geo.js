@@ -413,6 +413,25 @@ function incrementMap(m, k) {
 	const newVal = 1 + (m.get(k) ?? 0);
 	m.set(k, newVal);
 }
+const JUNCTION = 'JUNCTION';
+function removeJUNCTIONS(obj) {
+	const intersections = obj.intersections;
+	const output = [];
+
+	for (const int of intersections) {
+
+		const streets = int.streets;
+		var arrStreets = streets.split(slash).filter( (e) => !(e==JUNCTION))
+		if (arrStreets.length > 1) {
+			int.streets = arrStreets.join(slash);
+			output.push(int);
+		}
+		
+	}
+	obj.intersections = output;
+	return obj;
+
+}
 // averageBoulevardDuplicates is used for coalescing intersections at boulevard crossings
 // this algorithm is wrong for offset intersections and loop side roads
 //
@@ -688,6 +707,9 @@ function findintersections(ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
 	// filter out identically named intersections at boulevard crossings
 	averageBoulevardDuplicates(obj);
 
+	// remove JUNCTIONS
+	removeJUNCTIONS(obj);
+
 	return obj;
 }
 
@@ -729,11 +751,7 @@ function makeIntersectionGeoJson(intersections){
 }
 
 const geoJson = makeIntersectionGeoJson( obj.intersections);
-writeFileSync('./data/intersections.geojson', JSON.stringify(geoJson));
-
-
-
-
+writeFileSync('./data/intersections.geojson', JSON.stringify(geoJson, null, ' '));
 
 /*
 function distGpsGeometry(gps, geom) {  // geom is array of gps points
