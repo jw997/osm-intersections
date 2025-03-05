@@ -4,28 +4,6 @@ import { getJson } from "./utils_helper.js";
 let mql = window.matchMedia("(pointer: fine)");
 const pointerFine = mql.matches;
 
-/*
-"features": [
-	{
-	  "type": "Feature",
-	  "geometry": {
-		"type": "Point",
-		"coordinates": [
-		  -122.2450524,
-		  37.8584661
-		]
-	  },
-	  "properties": {
-		"streets": ["Claremont Avenue","Claremont Boulevard"]
-	  }
-	},
-
-	*/
-
-
-
-
-
 function getMarkerOpt() {
 	const colorValue = w3_highway_red;
 	var rad = 3;
@@ -39,75 +17,6 @@ function getMarkerOpt() {
 	};
 	return retval;
 }
-function getOptionsForSeverity(sev) {
-	var colorValue;
-	var rad = 6;
-	var opa = 0.5;
-
-	switch (sev) {
-		case 'Fatal':
-			colorValue = w3_highway_red;
-			rad = 10;
-			opa = 1;
-			break;
-		case "Serious Injury":
-			colorValue = w3_highway_orange;
-			rad = 8;
-			opa = 1;
-			break;
-		case "Minor Injury":
-			colorValue = w3_highway_brown;
-			opa = 1;
-			break;
-		case "Possible Injury":
-			colorValue = w3_highway_yellow;
-			break;
-		case "No Injury":
-			colorValue = w3_highway_blue;
-			break;
-		case "Unspecified Injury":
-			colorValue = violet;
-			break;
-		default:
-			console.error("Unexpected Injury severity ", sev);
-	}
-	if (!pointerFine) {
-		rad *= 1.5;
-	}
-	const retval = {
-		color: colorValue,
-		radius: rad,
-		fill: true,
-		fillOpacity: opa
-	};
-	return retval;
-
-}
-
-function getIcon(name) {
-	const icon = new L.Icon({
-		//	iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/' + name,
-		iconUrl: './images/' + name,
-		//	shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
-		shadowUrl: './images/marker-shadow.png',
-		iconSize: [25, 41],
-		iconAnchor: [12, 41],
-		popupAnchor: [1, -34],
-		shadowSize: [41, 41]
-	});
-	return icon;
-
-}
-
-const greenIcon = getIcon('marker-highway-green.png');
-const redIcon = getIcon('marker-highway-red.png');
-const orangeIcon = getIcon('marker-highway-orange.png');
-const yellowIcon = getIcon('marker-highway-yellow.png');
-const goldIcon = getIcon('marker-highway-brown.png');
-const blueIcon = getIcon('marker-highway-blue.png');
-const violetIcon = getIcon('marker-icon-violet.png');
-
-
 
 const w3_highway_brown = '#633517';
 const w3_highway_red = '#a6001a';
@@ -118,9 +27,7 @@ const w3_highway_green = '#004d33';
 const w3_highway_blue = '#00477e';
 
 const violet = "#9400d3";//"#EE82EE";
-
 const black = "#000000";
-
 const grey = "#101010";
 
 async function getCityBoundary() {
@@ -138,32 +45,6 @@ async function getIntersections() {
 }
 
 const interJson = await getIntersections();
-
-/*
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.2450524,
-          37.8584661
-        ]
-      },
-      "properties": {
-        "streets": [
-          "Claremont Avenue",
-          "Claremont Boulevard"
-        ]
-      }
-    },
-*/
-
-
-
-
 
 var map;
 
@@ -187,11 +68,7 @@ function createMap() {
 	// add geojson precincts to map
 }
 
-
-
-
 createMap();
-
 
 // add city boundary to map
 L.geoJSON(cityGeoJson, { fillOpacity: 0.05 }).addTo(map);
@@ -203,7 +80,6 @@ const resizeObserver = new ResizeObserver(() => {
 
 resizeObserver.observe(document.getElementById('osm-map'));
 
-
 // keep track of markers for removal
 const markers = [];
 
@@ -213,29 +89,29 @@ function removeAllMakers() {
 	}
 }
 
-const LatitudeDefault = 37.868412;
-const LongitudeDefault = -122.349938;
+//const LatitudeDefault = 37.868412;
+//const LongitudeDefault = -122.349938;
 
 /*
 {
   "type": "FeatureCollection",
   "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.2450524,
-          37.8584661
-        ]
-      },
-      "properties": {
-        "streets": [
-          "Claremont Avenue",
-          "Claremont Boulevard"
-        ]
-      }
-    },
+	{
+	  "type": "Feature",
+	  "geometry": {
+		"type": "Point",
+		"coordinates": [
+		  -122.2450524,
+		  37.8584661
+		]
+	  },
+	  "properties": {
+		"streets": [
+		  "Claremont Avenue",
+		  "Claremont Boulevard"
+		]
+	  }
+	},
 
 */
 
@@ -244,7 +120,7 @@ const LongitudeDefault = -122.349938;
 
 function addMarkers(intersections) {
 	removeAllMakers();
-	const markersAtLocation = new Map();
+	//const markersAtLocation = new Map();
 	// add collisions to map
 	var markerCount = 0
 	//var skipped = 0, plotted = 0;
@@ -252,31 +128,17 @@ function addMarkers(intersections) {
 
 	for (const intersection of intersections) {
 
-		//plotted++;
-
 		const loc = intersection.geometry.coordinates;
 		const lat = loc[1];
 		const long = loc[0];
 
-		//	const roundLoc = loc.map((c) => c.toFixed(3));
-	/*	const ct = markersAtLocation.get(JSON.stringify(loc)) ?? 0;
-
-		if (ct > 0) {
-			console.log("adjusting marker")
-		}*/
-
 		const opt = getMarkerOpt();
 
-		var marker = L.circleMarker([lat , long ], opt
+		var marker = L.circleMarker([lat, long], opt
 
-			);
+		);
 
-		//marker = L.circleMarker([lat + ct * 0.0001, long - ct * 0.0001], opt	);
-
-
-
-	//	markersAtLocation.set(JSON.stringify(loc), ct + 1);
-	const slash = '/';
+		const slash = '/';
 		var msg = intersection.properties.streets.join(slash);
 
 		if (pointerFine) {
@@ -292,15 +154,11 @@ function addMarkers(intersections) {
 		markerCount++;
 
 	}
-	//console.log('Skipped', skipped);
-	//console.log('Plotted', plotted);
 	console.log("markerCount ", markerCount)
-
 }
 
 addMarkers(interJson.features);
 
 export {
-
 	map
 };
