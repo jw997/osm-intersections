@@ -1,5 +1,7 @@
 import { getJson } from "./utils_helper.js";
 
+const slash = '/';
+
 // touch or mouse?
 let mql = window.matchMedia("(pointer: fine)");
 const pointerFine = mql.matches;
@@ -44,6 +46,33 @@ async function getIntersections() {
 	return interJson;
 }
 
+// Berkeley
+const LatitudeDefault = 37.87;
+const LongitudeDefault = -122.27;
+
+/* interesections geojson sample
+{
+  "type": "FeatureCollection",
+  "features": [
+	{
+	  "type": "Feature",
+	  "geometry": {
+		"type": "Point",
+		"coordinates": [
+		  -122.2450524,
+		  37.8584661
+		]
+	  },
+	  "properties": {
+		"streets": [
+		  "Claremont Avenue",
+		  "Claremont Boulevard"
+		]
+	  }
+	},
+
+*/
+
 const interJson = await getIntersections();
 
 var map;
@@ -62,7 +91,7 @@ function createMap() {
 		attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 	}).addTo(map);
 	// Target's GPS coordinates.
-	var target = L.latLng('37.87', '-122.27'); // berkeley 37°52′18″N 122°16′22″W
+	var target = L.latLng(LatitudeDefault, LongitudeDefault); // berkeley 37°52′18″N 122°16′22″W
 	// Set map's center to target with zoom 14.
 	map.setView(target, 14);
 	// add geojson precincts to map
@@ -89,35 +118,6 @@ function removeAllMakers() {
 	}
 }
 
-//const LatitudeDefault = 37.868412;
-//const LongitudeDefault = -122.349938;
-
-/*
-{
-  "type": "FeatureCollection",
-  "features": [
-	{
-	  "type": "Feature",
-	  "geometry": {
-		"type": "Point",
-		"coordinates": [
-		  -122.2450524,
-		  37.8584661
-		]
-	  },
-	  "properties": {
-		"streets": [
-		  "Claremont Avenue",
-		  "Claremont Boulevard"
-		]
-	  }
-	},
-
-*/
-
-
-
-
 function addMarkers(intersections) {
 	removeAllMakers();
 	//const markersAtLocation = new Map();
@@ -138,7 +138,7 @@ function addMarkers(intersections) {
 
 		);
 
-		const slash = '/';
+
 		var msg = intersection.properties.streets.join(slash);
 
 		if (pointerFine) {
