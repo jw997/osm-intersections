@@ -1,12 +1,24 @@
+/*
+IMPORTS 
+*/
 //import * as Turf from "@turf/turf";
-
 import { polygon, point } from "@turf/helpers";
 //import { booleanWithin } from "@turf/boolean-within";
 import { booleanPointInPolygon } from "@turf/boolean-point-in-polygon";
+import { readFileSync, writeFileSync } from 'fs';
 
+/* 
+CONSTANTS
+*/
 const slash = '/';
 const underscore = '_';
+const JUNCTION = 'JUNCTION';
+const metersPerDegree = 100000;
 
+
+/* 
+Function to generate geojson
+*/
 function makePointFeature(arrCoordLonLat, mapProperties) {
 	const feature = {
 		"type": "Feature",
@@ -24,68 +36,26 @@ function makeFeatureSet(arrFeatures) {
 	const featureSet = {
 		"type": "FeatureCollection",
 		"features": arrFeatures
-
 	};
 	return featureSet;
 }
 
+
+
 /*
-var p = polygon(
-	[
-		[
-			[-5, 52],
-			[-4, 56],
-			[-2, 51],
-			[-7, 54],
-			[-5, 52],
-		],
-	],
-	{ name: "poly1" },
-);
-
-var pt = point([-2, 57]);
-
-const inside = booleanPointInPolygon(pt, p); */
-//console.log('inside: ', inside)
-
-
-
-//import { polygon } from "@turf/helpers";
-
-//import { point, greatCircle } from "https://unpkg.com/@turf/turf?module";
-//import turf from '@turf/turf';
-
-
-//console.log(greatCircle([0, 0], [100, 10]));
-//console.log(point([100, 0]));
-//const result = turf.pointToLineDistance(...);
-
-
-
-import { readFileSync, writeFileSync } from 'fs';
-
-// read city boundary
-const landBoundaryJson = JSON.parse(readFileSync('./data/cityboundary/Land_Boundary.geojson', 'utf8'));
-const cityBoundaryFeature = landBoundaryJson.features[0];  // geojson feature
-
-var cityPoly = polygon(cityBoundaryFeature.geometry.coordinates);
-
+Trim the intersection list to match the city
+*/
 function inBerkeley(gps) {
-	//	var pt = point([-2,57]);
-
-	//const inside = booleanPointInPolygon(pt, p);
 	var pt = point([gps.lon, gps.lat]);
 	const inside = booleanPointInPolygon(pt, cityPoly);
 	return inside;
-
-	//console.log('inside: ', inside)
-
 }
 
-//inBerkeley({ lat: 37.90944, lon: -122.31672 }) // false
-//inBerkeley({ lat: 37.87605, lon: -122.28037 }) // true
 
 /*
+
+Read ways data downloaded from open street map
+
 data/ways.json is ways exported from open street map
 
 include I80
@@ -98,14 +68,8 @@ wget -O ways.json 'https://www.overpass-api.de/api/interpreter?data=[out:json][t
 wget -O ways.json 'https://www.overpass-api.de/api/interpreter?data=[out:json][timeout:25][bbox:37.83975,-122.32538,37.91495,-122.21329];way["highway"~"^(trunk|primary|secondary|tertiary|unclassified|residential)$"]->.streets;.streets out geom;'
 */
 
-var wayJson = JSON.parse(readFileSync('./data/ways.json', 'utf8'));
-var wayData = [];
 
-const mapNodeIdToGps = new Map();
-//258761343
-// make up fake names for traffic circles which include all the names of ways that connect to it
-const mapNodeIdToNames = new Map();
-//const mapNodeIdToWays = new Map(); // from nodeid to a set of way ids, used to figure out if 2 interscetion nodeIds are a way together
+
 
 
 function onSameWay(ways, n1, n2, strSet) {
@@ -113,7 +77,7 @@ function onSameWay(ways, n1, n2, strSet) {
 	for (const w of ways) {
 		const nodeArray = w.nodes;
 
-		if (nodeArray.includes(n1) && nodeArray.includes(n2) && strSet.has( w.name)) {
+		if (nodeArray.includes(n1) && nodeArray.includes(n2) && strSet.has(w.name)) {
 			console.log("way ", w.name, " include nodes ", n1, ' ', n2);
 			return true;
 		}
@@ -126,7 +90,7 @@ function onSameWay(ways, n1, n2, strSet) {
 // find another node which is not a deadEnd and is on the same way as deadEndNode
 function findNeighbor(nodeArray, deadEndNode) {
 	// what street is deadEndNode a dead end of?
-	const strSet = mapNodeidToStreetEnds.get (deadEndNode);
+	const strSet = mapNodeidToStreetEnds.get(deadEndNode);
 
 	for (const n of nodeArray) {
 		if (onSameWay(wayData, n.nodeId, deadEndNode, strSet)) {
@@ -136,7 +100,12 @@ function findNeighbor(nodeArray, deadEndNode) {
 	return undefined;
 }
 
+/* 
+returns wayData array
+*/
 function initWayData(obj) {
+	const mapNodeIdToNames = new Map(); // populated by initWayData
+	var wayData = [];
 	// loop through all the named ways
 	for (const way of obj.elements) {
 		const tags = way.tags;
@@ -151,7 +120,6 @@ function initWayData(obj) {
 			continue;
 		}
 		const geometry = way.geometry; // list of lat long 
-
 		const nodes = way.nodes; // list of node ids
 
 		for (let i = 0; i < nodes.length; i++) {
@@ -160,15 +128,14 @@ function initWayData(obj) {
 			if (n) {
 				n.add(name);
 			} else {
-
 				mapNodeIdToNames.set(nodes[i], new Set([name]));
 			}
 		}
-
 		wayData.push({ 'name': name, 'geometry': geometry, 'nodes': nodes });
-
-		//console.log(name, geometry.length);
 	}
+	/* 
+	traffic circles in Berkeley are modeled with unnamed ways 
+	*/
 	// loop through all the unnamed ways
 	for (const way of obj.elements) {
 		const tags = way.tags;
@@ -178,15 +145,11 @@ function initWayData(obj) {
 			continue;
 		}
 
-
 		if (tags.name) {
 			continue;
 		}
-		//tags.name = "Fake"
-		//const name = tags.name;
 
 		const geometry = way.geometry; // list of lat long 
-
 		const nodes = way.nodes; // list of node ids
 
 		// make a list of motorway links, and name them from their adjacent motorways
@@ -195,7 +158,8 @@ function initWayData(obj) {
 		var fakeNames = new Set(['JUNCTION']); // not working for motorway_linnks
 		const MOTORWAY_LINK = 'motorway_link';
 
-		if (MOTORWAY_LINK == tags.highway ) {
+		// on off ramps are also unnamed
+		if (MOTORWAY_LINK == tags.highway) {
 			fakeNames = new Set([MOTORWAY_LINK]);
 		}
 		for (let i = 0; i < nodes.length; i++) {
@@ -208,19 +172,14 @@ function initWayData(obj) {
 
 		const sorted = Array.from(fakeNames).sort();;
 		const name = sorted.join(slash);
-
 		// later use the JUNCTION to identify nodes around a traffic circle and combine them
-
 		wayData.push({ 'name': name, 'geometry': geometry, 'nodes': nodes });
-
 		//console.log(name, geometry.length);
 	}
-
+	return wayData;
 }
 
-initWayData(wayJson);
 
-const mapNodeidToStreetEnds = new Map(); // maps nodeids to sets of street names which dead end on that node
 
 function toggleValueSet(m, e, n) {
 	if (!m.has(e)) {
@@ -235,6 +194,9 @@ function toggleValueSet(m, e, n) {
 	}
 }
 
+/*
+initialize mapNodeidToStreetEnds to find street deadend nodes
+*/
 function findDeadEnds(obj) {
 	// loop through all the named ways
 	for (const way of obj.elements) {
@@ -246,7 +208,7 @@ function findDeadEnds(obj) {
 		}
 		const name = tags.name;
 		if (!name) {
-		//	console.log("Undefined name for way id:", way.id, ' ', way.geometry[0]);
+			//	console.log("Undefined name for way id:", way.id, ' ', way.geometry[0]);
 			continue;
 		}
 
@@ -267,42 +229,31 @@ function findDeadEnds(obj) {
 				console.log("NodeId:", nodeid, " deadends ", n);
 			}
 		}
-
 	}
-
 }
-
-findDeadEnds(wayJson);
 
 function isDeadEnd(nodeid) {
 	const retval = mapNodeidToStreetEnds.has(nodeid);
 	return retval;
 }
 
-const metersPerDegree = 100000;
+
 
 // approx dist in meters between two coords
 function distGpsGps(gps1, gps2) {//  { "lat": 37.8655316, "lon": -122.3100479 },
 	const dLat = Math.abs(gps1.lat - gps2.lat);
 	const dLon = Math.abs(gps1.lon - gps2.lon);
-	const retval = metersPerDegree*(dLat + dLon);
+	const retval = metersPerDegree * (dLat + dLon);
 	return retval;
 }
 
 
-
-
-
-const mapNodeidToName = new Map();
-//const mapNodeidToNameArray = new Map();
 
 function makeIntersectionString(s) {
 	const sorted = Array.from(s).sort();;
 	const retval = sorted.join(slash);
 	return retval;
 }
-
-
 
 function clean(raw) {
 	//console.log('raw',raw)
@@ -321,27 +272,8 @@ function clean(raw) {
 	const retval = Array.from(set).sort().join(slash);
 
 	return retval;
-
-
-	/*
-		const names = raw.split(slash);
-		const nameSet = new Set();
-		for (var i =0; i< names.length;i++) {
-			const trimmed = names[i].replace(regex, '');
-			nameSet.add([trimmed]);
-		}
-	
-		const sorted = Array.from(nameSet).sort();;
-		const retval = sorted.join('/');
-	 
-		console.log(retval);*/
-
 }
 
-/*
-obj = { intersections: [] }
-{ coordinates: [gps.lat, gps.lon], raw: int, streets: clean(int) };
-*/
 
 function strComp(nameA, nameB) {
 
@@ -356,6 +288,11 @@ function strComp(nameA, nameB) {
 	return 0;
 
 }
+
+/* 
+compute the avg coordinate of some nodes
+used to create a fake node at the center of a traffic circle
+*/
 function avgGps(iter) {
 	console.log(iter.length);
 
@@ -370,7 +307,10 @@ function avgGps(iter) {
 	return avg;
 }
 
-// averageJunctionDuplicates is used for coalescing roundabouts which start out as several intersections into one point
+/*
+averageJunctionDuplicates is used for coalescing roundabouts which start out as several intersections into one point
+updates obj.intersections
+*/
 function averageJunctionDuplicates(obj) {
 	const JUNCTION = 'JUNCTION';
 
@@ -402,7 +342,12 @@ function incrementMap(m, k) {
 	const newVal = 1 + (m.get(k) ?? 0);
 	m.set(k, newVal);
 }
-const JUNCTION = 'JUNCTION';
+
+
+/*
+remove fake street name JUNCTION
+updates obj.intersections
+*/
 function removeJUNCTIONS(obj) {
 	const intersections = obj.intersections;
 	const output = [];
@@ -410,14 +355,14 @@ function removeJUNCTIONS(obj) {
 	for (const int of intersections) {
 
 		const streets = int.streets;
-		var arrStreets = streets.split(slash).filter( (e) => !(e==JUNCTION))
+		var arrStreets = streets.split(slash).filter((e) => !(e == JUNCTION))
 		if (arrStreets.length > 1) {
 			int.streets = arrStreets.join(slash);
 			output.push(int);
 		} else {
 			console.log("Removing JUNCTION at ", int.streets, int);
 		}
-		
+
 	}
 	obj.intersections = output;
 	return obj;
@@ -432,16 +377,21 @@ function removeJUNCTIONS(obj) {
 function arrayToGps(arr) {
 	const lat = arr[0];
 	const lon = arr[1];
-	const retval = {lat: lat, lon: lon};
+	const retval = { lat: lat, lon: lon };
 	return retval;
 }
 
 function distArrArr(a1, a2) {
 	const g1 = arrayToGps(a1);
 	const g2 = arrayToGps(a2);
-	const retval = distGpsGps( g1, g2);
+	const retval = distGpsGps(g1, g2);
 	return retval;
 }
+/*
+	When a street crosses a boulevard, you get an intersection on both sides
+	average them
+	updates obj.intersections
+*/
 function averageBoulevardDuplicates(obj) {
 	const intersections = obj.intersections;
 	const mapStreetsToCount = new Map();
@@ -499,7 +449,7 @@ function averageBoulevardDuplicates(obj) {
 		if (matches.length == 2) {
 			if (deadEndCount == 1) {
 				// fix Regal / Cragmont with a 50 meter width limit for boulevards????
-				if (distArrArr( matches[0].coordinates, matches[1].coordinates) < 50) {
+				if (distArrArr(matches[0].coordinates, matches[1].coordinates) < 50) {
 					const avg = avgGps(matches);
 					output.push(avg);
 					continue;
@@ -520,20 +470,8 @@ function averageBoulevardDuplicates(obj) {
 			}
 		}
 
-// temp
-/*
-		for (const inter of matches) {
-			output.push(inter);
-		}
-		continue; 
-
-		*/
-
-
 		for (const m of matches) {
 			if (isDeadEnd(m.nodeId)) {
-
-
 				const other = findNeighbor(matches, m.nodeId);
 				if (other) {
 					const avg = avgGps([other, m]);
@@ -543,55 +481,13 @@ function averageBoulevardDuplicates(obj) {
 				} else {
 					output.push(m);
 				}
-
 			}
 		}
-
-
-
-
-
-		//for (const inter of matches) {
-			//	output.push(inter);
-		//}
-
-
-
-
 	}
 	console.log(intersections.length)
 	console.log(output.length);
 	obj.intersections = output;
 
-
-
-
-	/*
-	const junction = 'JUNCTION';
-
-	const simpleIntersections = obj.intersections.filter((elt) => !elt.streets.includes(junction));
-	console.log('simple', simpleIntersections.length);
-
-	const junctionIntersections = obj.intersections.filter((elt) => elt.streets.includes(junction)).sort((a, b) => strComp(a.streets, b.streets));
-	console.log('junction', junctionIntersections.length);
-
-	// make a list of the unique streets
-	const junctionSet = new Set();
-
-	for (const int of junctionIntersections) {
-		junctionSet.add(int.streets);
-	}
-
-	for (const str of junctionSet) {
-
-		// get the matching intersections
-		const matches = junctionIntersections.filter((elt) => elt.streets == str);
-		
-		const avg = avgGps(matches);
-		simpleIntersections.push(avg);
-	}
-	obj.intersections = simpleIntersections;
-	*/
 }
 
 /* 
@@ -623,16 +519,14 @@ Freeways are tagged as hightway motorway, and the on and off ramps are motorway_
 
 function findintersections(ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
 {
-	
+	const mapNodeidToName = new Map(); // populated by findIntersections
 
-
-	// make a map of node id to streets which contain that node
+	// make a map of node id to set of street names which contain that node
 	for (const w of ways) {
 		const name = w.name;
 		const nodes = w.nodes;
 		for (const n of nodes) {
 			const s = mapNodeidToName.get(n);
-			//const a = mapNodeidToNameArray.get(n);
 
 			if (!s) {
 
@@ -640,13 +534,6 @@ function findintersections(ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
 			} else {
 				s.add(name);
 			}
-			/*
-			if (!a) {
-
-				mapNodeidToNameArray.set(n, [name]);
-			} else {
-				a.push(name);
-			}*/
 		}
 	}
 
@@ -700,25 +587,22 @@ function findintersections(ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
 	return obj;
 }
 
-const obj = findintersections(wayData);
-var json = JSON.stringify(obj);
 
-writeFileSync('./data/intersections.json', json);
 
 /* obj is an array of 
  {
-      "coordinates": [
-        37.8779186,
-        -122.3077791
-      ],
-      "raw": "Gilman Street/West Frontage Road_2",
-      "streets": "Gilman Street/West Frontage Road",
-      "nodeId": 12449832925
-    }
+	  "coordinates": [
+		37.8779186,
+		-122.3077791
+	  ],
+	  "raw": "Gilman Street/West Frontage Road_2",
+	  "streets": "Gilman Street/West Frontage Road",
+	  "nodeId": 12449832925
+	}
 
 */
 
-function makeIntersectionGeoJson(intersections){
+function makeIntersectionGeoJson(intersections) {
 
 	const arrFeatures = [];
 	for (const intersection of intersections) {
@@ -728,16 +612,45 @@ function makeIntersectionGeoJson(intersections){
 		const coords = [lon, lat]
 
 		const streets = intersection.streets.split(slash);
-		const properties = {'streets': streets};
-		const feature = makePointFeature(coords,  properties);
-		arrFeatures.push( feature);
+		const properties = { 'streets': streets };
+		const feature = makePointFeature(coords, properties);
+		arrFeatures.push(feature);
 	}
 
 	const geoJson = makeFeatureSet(arrFeatures);
 	return geoJson;
 }
 
-const geoJson = makeIntersectionGeoJson( obj.intersections);
+/*
+MAIN
+
+read the ways.json
+do some stuff
+write the intersection geojson
+*/
+
+const mapNodeIdToGps = new Map();
+// make up fake names for traffic circles which include all the names of ways that connect to it
+// map the nodeId to the set of street names of ways that touch it
+
+
+//const mapNodeidToNameArray = new Map();
+
+const mapNodeidToStreetEnds = new Map(); // maps nodeids to sets of street names which dead end on that node
+
+
+// read city boundary
+const landBoundaryJson = JSON.parse(readFileSync('./data/cityboundary/Land_Boundary.geojson', 'utf8'));
+const cityBoundaryFeature = landBoundaryJson.features[0];  // geojson feature
+var cityPoly = polygon(cityBoundaryFeature.geometry.coordinates); // turf polygon
+
+var wayJson = JSON.parse(readFileSync('./data/ways.json', 'utf8'));
+var wayData = initWayData(wayJson);
+findDeadEnds(wayJson);
+
+const obj = findintersections(wayData);
+
+const geoJson = makeIntersectionGeoJson(obj.intersections);
 writeFileSync('./data/intersections.geojson', JSON.stringify(geoJson, null, ' '));
 
 /*
