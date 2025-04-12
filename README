@@ -1,0 +1,103 @@
+Poor mans reverse geocoder for Berkeley.
+
+1) Download map data from osm
+2) extract node lat long
+3) extract street name -> node mapping
+4) for a give lat long, find the nearest node
+5) find the streets that use that node
+6) if there is only one, that is the street
+7) if there is > 1, then check distance from segments coming out of that node
+
+Node and way counts
+way 89873
+node 678030
+
+
+
+downloaded using overpass from https://www.openstreetmap.org/export#map=13/37.89430/-122.24221
+
+
+37.91495  37.83975  -122.32538  -122.21329
+nwr(37.83975,-122.32538,37.91495,-122.21329);
+out;
+
+wget -O out.json 'https://www.overpass-api.de/api/interpreter?data=[out:json];nwr(37.83975,-122.32538,37.91495,-122.21329);out;' 
+
+wget -O ways.json 'https://www.overpass-api.de/api/interpreter?data=[out:json][timeout:25][bbox:37.83975,-122.32538,37.91495,-122.21329];way["highway"~"^(trunk|primary|secondary|tertiary|unclassified|residential)$"]->.streets;.streets out geom;'
+
+https://www.overpass-api.de/api/interpreter?data=[out:json];node[highway=speed_camera](43.46669501043081,-5.708215989569187,43.588927989569186,-5.605835010430813);out%20meta;
+
+wget -O out.json 'https://www.overpass-api.de/api/interpreter?data=[out:json];node[highway=speed_camera](43.46669501043081,-5.708215989569187,43.588927989569186,-5.605835010430813);out%20meta;' 
+
+
+
+Nodes have lat long
+ <node id="53030914" lat="37.8660015" lon="-122.2838052" ..
+ 
+ 
+ways have names and node refs e.g. Acroft
+e.g.
+
+ <way id="6330570" version="8" timestamp="2020-08-15T18:47:54Z" changeset="89453760" uid="1556219" user="tbo47">
+    <nd ref="53030914"/>
+    <nd ref="53030915"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Acroft Court"/>
+    
+
+ 
+ Long or curvy ways have many nd refs e.g. Acton or Queens
+   <way id="164658208" version="17" timestamp="2024-09-30T20:56:01Z" changeset="157314611" uid="9755853" user="mapadu">
+    <nd ref="53047335"/>
+    <nd ref="4225376439"/>
+    <nd ref="343627840"/>
+    <nd ref="4225376429"/>
+    <nd ref="53047336"/>
+    <nd ref="4225376426"/>
+    <nd ref="53042648"/>
+    <nd ref="2229285718"/>
+    <nd ref="2229285698"/>
+    <nd ref="2229285660"/>
+    <nd ref="4225376401"/>
+    <nd ref="53047340"/>
+    <nd ref="240448888"/>
+    <nd ref="4225376394"/>
+    <nd ref="12212649694"/>
+    <nd ref="431026571"/>
+    <nd ref="4227851468"/>
+    <nd ref="53047341"/>
+    <nd ref="4227851465"/>
+    <nd ref="53047343"/>
+    <nd ref="6344499030"/>
+    <nd ref="5483224421"/>
+    <nd ref="3540785717"/>
+    <nd ref="53047345"/>
+    <nd ref="4227851449"/>
+    <nd ref="53047346"/>
+    <nd ref="4227851446"/>
+    <nd ref="6353997561"/>
+    <nd ref="6353997531"/>
+    <nd ref="53030914"/>
+    <nd ref="53047347"/>
+    <nd ref="55939657"/>
+    <nd ref="2215072728"/>
+    <nd ref="431026412"/>
+    <nd ref="2215072725"/>
+    <nd ref="431026413"/>
+    <nd ref="55939667"/>
+    <nd ref="431026414"/>
+    <nd ref="2215072703"/>
+    <nd ref="4227851418"/>
+    <nd ref="53047348"/>
+    <nd ref="4227851413"/>
+    <nd ref="2215072695"/>
+    <nd ref="2205390678"/>
+    <nd ref="9936541529"/>
+    <nd ref="53020951"/>
+    <tag k="addr:city" v="Berkeley"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Acton Street"/>
