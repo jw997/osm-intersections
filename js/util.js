@@ -117,7 +117,10 @@ for (const boundaryFeature of countyBoundariesGeoJson.features) {
 	const prop = boundaryFeature.properties;
 	const name = prop.name;
 	if (prop.boundary == 'administrative') {
-		L.geoJSON(boundaryFeature, { fillOpacity: 0.05 }).bindPopup(name).addTo(map);
+		console.log("level ", prop.admin_level, name);
+		if (8 == prop.admin_level) { // cities only
+			L.geoJSON(boundaryFeature, { fillOpacity: 0.05 }).bindPopup(name).addTo(map);
+		}
 	}
 }
 
