@@ -1,0 +1,6272 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1499347,
+     37.6758412
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corte Enano",
+     "Via Represa"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1393067,
+     37.6692748
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bandoni Avenue",
+     "Via Melina"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1390493,
+     37.6683947
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Carreta",
+     "Via Melina"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1388909,
+     37.6667641
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Melina",
+     "Via Mesa"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1387356,
+     37.6649583
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Buena Vista",
+     "Via Melina"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1385571,
+     37.6629151
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Melina",
+     "Via Sarita"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1394579,
+     37.6761992
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Devonwood Way",
+     "George Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1387922,
+     37.6764764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Way",
+     "Nielson Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1391347,
+     37.6702524
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Keller Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1418589,
+     37.668903
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ganley Street",
+     "Keller Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1454549,
+     37.6671098
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Keller Avenue",
+     "Via Catherine"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1250238,
+     37.680065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Rodriguez",
+     "Via Segundo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1224318,
+     37.6782453
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Lucero",
+     "Via Segundo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1200021,
+     37.6763768
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Coches",
+     "Via Segundo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1196279,
+     37.6757404
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hacienda Avenue",
+     "Via Segundo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1101805,
+     37.6746695
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lucot Street",
+     "Times Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1107665,
+     37.6742468
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lucot Court",
+     "Lucot Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.111534,
+     37.6736895
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hathaway Avenue",
+     "Lucot Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1345911,
+     37.6670128
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Mesa",
+     "Via el Cerrito"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1354575,
+     37.666963
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Mesa",
+     "Via la Jolla"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1363204,
+     37.6669063
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Mesa",
+     "Via del Rey"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1371917,
+     37.666857
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Mesa",
+     "Via Susana"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1380253,
+     37.6668099
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Julia",
+     "Via Mesa"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1396913,
+     37.6667201
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Frances",
+     "Via Mesa"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1351806,
+     37.6721881
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Manzanas",
+     "Via del Rey"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1365894,
+     37.6700294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Via del Rey"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1364764,
+     37.6686976
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Sonya",
+     "Via del Rey"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1363788,
+     37.6675762
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Coralla",
+     "Via del Rey"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1361533,
+     37.6651062
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Buena Vista",
+     "Via del Rey"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1201674,
+     37.6710477
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Galton Lane",
+     "Whittington Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1198073,
+     37.6711884
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sonnet Lane",
+     "Whittington Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1187797,
+     37.6716054
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kentfield Lane",
+     "Whittington Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.135359,
+     37.6755865
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Lupine",
+     "Via Vista"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1361645,
+     37.6752966
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Chiquita",
+     "Via Vista"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1376936,
+     37.6746694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Nielson Avenue",
+     "Via Vista"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1401757,
+     37.6736801
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Channel Street",
+     "Via Vista"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1443727,
+     37.6792631
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Esmond",
+     "Via Hermana"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1454113,
+     37.6787604
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Hermana",
+     "Via Seco"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.149113,
+     37.676951
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Hermana",
+     "Via Nueva"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1503833,
+     37.6764057
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Hermana",
+     "Via Represa"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1159327,
+     37.6796795
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Valencia",
+     "Via Verde"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1176273,
+     37.6786534
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Toledo",
+     "Via Verde"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1184476,
+     37.6781375
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Arroyo",
+     "Via Verde"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1153921,
+     37.6770752
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ardis Street",
+     "Hacienda Avenue",
+     "Hathaway Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1162663,
+     37.6770562
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hacienda Avenue",
+     "Via Toledo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11849,
+     37.6819099
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Linares",
+     "Via Valencia"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1193162,
+     37.6813686
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Corona",
+     "Via Linares"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1199616,
+     37.6809985
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Linares",
+     "Via Toledo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.120611,
+     37.6806008
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Linares",
+     "Via Tomar"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1212886,
+     37.6805829
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Granada",
+     "Via Linares"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1217006,
+     37.6801754
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Arroyo",
+     "Via Linares"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.136956,
+     37.6643755
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Helena",
+     "Via Susana"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.141787,
+     37.6733164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Amigos",
+     "Via Sonora"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1413224,
+     37.6727123
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Sonora",
+     "Via Toyon"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1407586,
+     37.6711454
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Lucas",
+     "Via Sonora"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1408945,
+     37.670538
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Via Redondo",
+     "Via Sonora"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1250141,
+     37.6845407
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Granada",
+     "Via Marlin"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1219906,
+     37.6830931
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Marlin",
+     "Via Toledo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1284366,
+     37.6677102
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Esperanza",
+     "Via Los Trancos"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1312008,
+     37.6675609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Alamitos",
+     "Via Esperanza"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1276824,
+     37.6790101
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Grande",
+     "Via Arriba"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1270611,
+     37.678073
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Arriba",
+     "Via Mercado"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1262415,
+     37.6767815
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Arriba",
+     "Via Mirabel"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1258677,
+     37.6761735
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Arriba",
+     "Via Manzanas"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1245632,
+     37.6738128
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hacienda Avenue",
+     "Via Arriba"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1241694,
+     37.6731926
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Alamo",
+     "Via Arriba"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1233374,
+     37.671901
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Aires",
+     "Via Arriba"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1229741,
+     37.6712331
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Via Arriba"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1226227,
+     37.6702561
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Arriba",
+     "Via Poudre"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1438082,
+     37.6767484
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grant Avenue",
+     "Via Seco"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1435043,
+     37.6763406
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Rancho",
+     "Via Seco"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1430441,
+     37.6757532
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Lacqua",
+     "Via Seco"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1139097,
+     37.6757656
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hathaway Avenue",
+     "Louette Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.121856,
+     37.6787612
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Descanso",
+     "Via Lucero"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1286624,
+     37.6757858
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Mirabel",
+     "Via Paro"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.123709,
+     37.6830691
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Granada",
+     "Via Viento"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1462748,
+     37.670249
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Amigos",
+     "Via Milos"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1445495,
+     37.668528
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Milos",
+     "Via Natal"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1111619,
+     37.6754812
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Times Avenue",
+     "West Blossom Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1124974,
+     37.6745176
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hathaway Avenue",
+     "West Blossom Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1423806,
+     37.6767869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Channel Street",
+     "Jacqueline Place"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.142079,
+     37.6762348
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Channel Street",
+     "Via Lacqua"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1417292,
+     37.6757646
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Channel Street",
+     "Culver Place"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1412985,
+     37.6751653
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Channel Street",
+     "Via Escondido"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1406527,
+     37.6743259
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Channel Street",
+     "Via la Paloma"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1409514,
+     37.6815263
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corte Enrico",
+     "Via Enrico"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1250722,
+     37.6848454
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Peach Drive",
+     "Via Granada"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1274973,
+     37.6842206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Peach Drive",
+     "Via Arroyo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1397555,
+     37.6779836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Devonwood Way",
+     "Nielson Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.128496,
+     37.6684558
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Coralla",
+     "Via Palma"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1313303,
+     37.66904
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Alamitos",
+     "Via Palma"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1357339,
+     37.6745887
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Chiquita",
+     "Via el Monte"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.134869,
+     37.6732478
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Chiquita",
+     "Via Lucas"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1344385,
+     37.6725755
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Chiquita",
+     "Via Manzanas"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1334192,
+     37.6709384
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Chiquita",
+     "Via Margarita"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1332966,
+     37.6703506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Via Chiquita"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1331158,
+     37.6698229
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cobblestone Loop",
+     "Via Chiquita"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1330688,
+     37.6693854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Chiquita",
+     "Via Madera"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1329718,
+     37.6681688
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Chiquita",
+     "Via Coralla"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1327029,
+     37.6652985
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Buena Vista",
+     "Via Chiquita"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1198239,
+     37.6789473
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Arroyo",
+     "Via Palos"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1213135,
+     37.6743491
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ginger Avenue",
+     "Hunter Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1198594,
+     37.6720498
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hunter Avenue",
+     "Perkins Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1079601,
+     37.6726716
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mero Street",
+     "Times Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1085544,
+     37.6722412
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gribben Avenue",
+     "Mero Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1092774,
+     37.6717133
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hathaway Avenue",
+     "Mero Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1314366,
+     37.6739049
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Manzanas",
+     "Via Piedras"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1299913,
+     37.6713761
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hacienda Avenue",
+     "Via Piedras"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1361654,
+     37.679935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grant Avenue",
+     "Via del Prado"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.141114,
+     37.67361
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Amigos",
+     "Via Vecinos"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1436246,
+     37.6723989
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Amigos",
+     "Via Lucas"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1449232,
+     37.6717965
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Amigos",
+     "Via Nueva"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1454365,
+     37.6712458
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Via Amigos"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1456327,
+     37.6705863
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Amigos",
+     "Via Owen"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1469872,
+     37.6699297
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Amigos",
+     "Via Walter"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.147691,
+     37.6696104
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Amigos",
+     "Via Catherine"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1483949,
+     37.6692911
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Amigos",
+     "Via Harriet"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1322414,
+     37.6697348
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Estrella",
+     "Via Honda"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1321158,
+     37.6682543
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Coralla",
+     "Via Estrella"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1318496,
+     37.6652872
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Estrella",
+     "Via Nube"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1165668,
+     37.6775395
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corte Eulalia",
+     "Via Toledo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1377212,
+     37.6700307
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bandoni Avenue",
+     "Bockman Road",
+     "Channel Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1414225,
+     37.6682879
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bandoni Avenue",
+     "Ganley Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1450038,
+     37.666507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bandoni Avenue",
+     "Via Catherine"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1452566,
+     37.6746492
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corte Ulisse",
+     "Via Lacqua"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1482937,
+     37.6716942
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Via Catherine"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1485124,
+     37.6710677
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Catherine",
+     "Via Harriet"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1459586,
+     37.6678667
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Catherine",
+     "Via Natal"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1503444,
+     37.6720343
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corte Hornitos",
+     "Via Hornitos"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1530422,
+     37.675312
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Murietta",
+     "Via Sonata"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1538069,
+     37.6749769
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Murietta",
+     "Via Sorrento"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1311349,
+     37.6668193
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Alamitos",
+     "Via Los Trancos"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1452961,
+     37.6702608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Karl",
+     "Via Owen"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1438372,
+     37.6688563
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Natal",
+     "Via Owen"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1153987,
+     37.6792321
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Times Avenue",
+     "Via Hermosa"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.116064,
+     37.6788192
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Hermosa",
+     "Via Pequena"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1171263,
+     37.6781469
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Hermosa",
+     "Via Toledo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1405186,
+     37.667846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Annette",
+     "Via Carreta"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1402531,
+     37.6648697
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Annette",
+     "Via Buena Vista"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1400812,
+     37.6629852
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Annette",
+     "Via Sarita"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1445273,
+     37.6750131
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corte Angelo",
+     "Via Lacqua"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.140657,
+     37.6730319
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Toyon",
+     "Via del Robles"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1431976,
+     37.6718345
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Lucas",
+     "Via Toyon"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1442177,
+     37.6710559
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Via Toyon"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1142395,
+     37.6734857
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ricardo Avenue",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1172229,
+     37.6723023
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Royal Avenue",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1337006,
+     37.6729625
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Manzanas",
+     "Via Margarita"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1329043,
+     37.6712676
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Margarita",
+     "Via Margarita Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.122175,
+     37.681531
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Granada",
+     "Via Malaga"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1437873,
+     37.6753824
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corte Yolanda",
+     "Via Lacqua"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1460138,
+     37.6742713
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corte Geraldo",
+     "Via Lacqua"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1467398,
+     37.673909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Lacqua",
+     "Via Nueva"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.147482,
+     37.6735386
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corte Mariana",
+     "Via Lacqua"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1482249,
+     37.6731679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corte Francesa",
+     "Via Lacqua"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1489644,
+     37.6727989
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Eduardo",
+     "Via Lacqua"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.123058,
+     37.6824265
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Bellita",
+     "Via Granada"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1238635,
+     37.6817377
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Arroyo",
+     "Via Bellita"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1261022,
+     37.6729179
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hacienda Avenue",
+     "Via Encinas"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1294864,
+     37.6754665
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Mariposa",
+     "Via Media"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.131759,
+     37.6745462
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo del Campo",
+     "Via Mariposa"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.132562,
+     37.674221
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Mariposa",
+     "Via Olinda"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1333136,
+     37.6739166
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Alamitos",
+     "Via Mariposa"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1539318,
+     37.671686
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grant Avenue",
+     "Worthley Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1515053,
+     37.6690729
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Baumann Avenue",
+     "Worthley Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1390797,
+     37.6841049
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lorenzo Avenue",
+     "Via Bregani"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1390264,
+     37.6822657
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lorenzo Avenue",
+     "Via Enrico"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.137409,
+     37.6794043
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grant Avenue",
+     "Lorenzo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1282023,
+     37.67086
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Via Media"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1287009,
+     37.6708121
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Via Honda"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1342691,
+     37.6769281
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Grande",
+     "Via Olinda"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1457002,
+     37.6778825
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Lobos",
+     "Via Teresa"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1486694,
+     37.6763961
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Lobos",
+     "Via Nueva"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1134771,
+     37.6729625
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ricardo Avenue",
+     "Shirley Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1168117,
+     37.6716502
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Royal Avenue",
+     "Shirley Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1420264,
+     37.6748287
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Escondido",
+     "Via Vecinos"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1458631,
+     37.6730207
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Escondido",
+     "Via Nueva"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1205784,
+     37.6746365
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ginger Avenue",
+     "Melrose Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1191166,
+     37.6723443
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Melrose Avenue",
+     "Perkins Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1333564,
+     37.6834427
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Colusa",
+     "Via Regio"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1325535,
+     37.682183
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Pacheco",
+     "Via Regio"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1520967,
+     37.6731316
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Barrett",
+     "Via Sorrento"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1420777,
+     37.6700588
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Natal",
+     "Via Redondo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1434292,
+     37.6709345
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Via Redondo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1339356,
+     37.6693329
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Madera",
+     "Via San Ardo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1348072,
+     37.6692798
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Madera",
+     "Via el Cerrito"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1356514,
+     37.6692364
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Madera",
+     "Via la Jolla"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.133087,
+     37.6795726
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Conejo",
+     "Via Media"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1310998,
+     37.6780081
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Grande",
+     "Via Media"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1290814,
+     37.6748589
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Manzanas",
+     "Via Media"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1283043,
+     37.6715478
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hacienda Avenue",
+     "Via Media"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1282341,
+     37.6654899
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Dolorosa",
+     "Via Nube"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1310726,
+     37.6660795
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Alamitos",
+     "Via Dolorosa"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1242965,
+     37.6785846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Andeta",
+     "Via Primero"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.122975,
+     37.675231
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Andeta",
+     "Via Coches"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1319262,
+     37.6777902
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Grande",
+     "Via Conejo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1314101,
+     37.6754574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Conejo",
+     "Via Pinale"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1147359,
+     37.6775593
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ardis Street",
+     "Waverly Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1123882,
+     37.675519
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Newcomb Street",
+     "Waverly Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1455164,
+     37.6764123
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Barrett",
+     "Via Chorro"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1482469,
+     37.6758386
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Chorro",
+     "Via Nueva"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.113235,
+     37.6713845
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bartlett Avenue",
+     "Garden Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.121659,
+     37.6809977
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Granada",
+     "Via San Marino"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1123125,
+     37.674367
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bunny Court",
+     "Hathaway Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1431677,
+     37.669174
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Karl",
+     "Via Natal"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1399596,
+     37.6838862
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Bregani",
+     "Via Vega"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1400426,
+     37.6818998
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Enrico",
+     "Via Vega"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1195963,
+     37.6708333
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Burnley Lane",
+     "Sonnet Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1185625,
+     37.6712551
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Burnley Lane",
+     "Kentfield Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1513776,
+     37.6734902
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Barrett",
+     "Via Sonata"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1398237,
+     37.6681682
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Carreta",
+     "Via Frances"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1395317,
+     37.6649156
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Buena Vista",
+     "Via Frances"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1393506,
+     37.6628676
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Frances",
+     "Via Sarita"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1236593,
+     37.6698431
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Jose",
+     "Via Poudre"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.130289,
+     37.6830946
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Largavista",
+     "Via Pacheco"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.131043,
+     37.6827808
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Lunado",
+     "Via Pacheco"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1317964,
+     37.6824748
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Colusa",
+     "Via Pacheco"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1333515,
+     37.6818798
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Corta",
+     "Via Pacheco"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1340957,
+     37.6815754
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo del Campo",
+     "Via Pacheco"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1198739,
+     37.6749117
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bengal Avenue",
+     "Ginger Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1220604,
+     37.6740568
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ginger Avenue",
+     "Robscott Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1229456,
+     37.6777615
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Anacapa",
+     "Via Lucero"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1217911,
+     37.6764202
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Anacapa",
+     "Via Pecoro"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1214053,
+     37.675836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Anacapa",
+     "Via Coches"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1204931,
+     37.6793454
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Arroyo",
+     "Via Bolsa"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1191821,
+     37.6766018
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Elevado",
+     "Via Rincon"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1202487,
+     37.6754901
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bengal Avenue",
+     "Hacienda Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1367532,
+     37.6834149
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferro Drive",
+     "Soto Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1379223,
+     37.6839425
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferro Drive",
+     "Ronconi Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1228064,
+     37.6821659
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Grande",
+     "Via Granada",
+     "Via Mirlo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1312421,
+     37.6846474
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Largavista",
+     "Paseo del Rio"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1321867,
+     37.6845357
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo del Rio",
+     "Via Lunado"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1345322,
+     37.6838706
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo del Rio",
+     "Via Corta"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1352875,
+     37.683799
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo del Campo",
+     "Paseo del Rio",
+     "Via Punta"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1381141,
+     37.6753623
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Nielson Avenue",
+     "Via la Paloma"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1398952,
+     37.6746416
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Anade",
+     "Via la Paloma"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1207071,
+     37.6700274
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hesperian Boulevard",
+     "Penny Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1193764,
+     37.6704906
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Penny Lane",
+     "Sonnet Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1183459,
+     37.6709031
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kentfield Lane",
+     "Penny Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1348294,
+     37.6631211
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Sarita",
+     "Via la Jolla"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1368273,
+     37.66302
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Sarita",
+     "Via Susana"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1376893,
+     37.6629635
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Julia",
+     "Via Sarita"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.140828,
+     37.6631187
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Carmen",
+     "Via Sarita"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1378727,
+     37.6650074
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Buena Vista",
+     "Via Julia"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1190384,
+     37.6784774
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Arroyo",
+     "Via Conil"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1295196,
+     37.6808545
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Largavista",
+     "Via Acalanes"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1333924,
+     37.6803921
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo del Campo",
+     "Via Acalanes"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1379481,
+     37.6827431
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ronconi Drive",
+     "Via Enrico",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1380516,
+     37.6827058
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Enrico",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1170915,
+     37.680678
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Matero",
+     "Via Valencia"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.118678,
+     37.6797329
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Matero",
+     "Via Toledo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1189916,
+     37.6719387
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kentfield Lane",
+     "Yorton Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1203809,
+     37.6713865
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Galton Lane",
+     "Yorton Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1298954,
+     37.674535
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Manzanas",
+     "Via Pasatiempo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1292037,
+     37.6727763
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Pasatiempo",
+     "Via Perdido"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1291467,
+     37.6714618
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hacienda Avenue",
+     "Via Pasatiempo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1385938,
+     37.676126
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Nielson Avenue",
+     "Via Faisan"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.140423,
+     37.6753691
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Anade",
+     "Via Faisan"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1271804,
+     37.674892
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Magdalena",
+     "Via Potrero"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1313953,
+     37.6697735
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Alamitos",
+     "Via Honda"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1513655,
+     37.6723497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Hornitos",
+     "Via Rancho"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1495276,
+     37.6720155
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Via Hornitos"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1423011,
+     37.6818625
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Bregani",
+     "Via Madeline"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1418482,
+     37.6811725
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Enrico",
+     "Via Madeline"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1344478,
+     37.6795005
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo del Campo",
+     "Via Pinale"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1327341,
+     37.6775492
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Grande",
+     "Via Pinale"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1315267,
+     37.6801997
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Paro",
+     "Via del Sol"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1293942,
+     37.6783726
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Grande",
+     "Via del Sol"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1283177,
+     37.6767004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Largavista",
+     "Via del Sol"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1306805,
+     37.6742141
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Manzanas",
+     "Via Perdido"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.114089,
+     37.6780269
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ardis Street",
+     "Times Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1117416,
+     37.6759638
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Newcomb Street",
+     "Times Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.109657,
+     37.6741668
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Florence Street",
+     "Times Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1321938,
+     37.6735958
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Cielo",
+     "Via Manzanas"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1308248,
+     37.6712662
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hacienda Avenue",
+     "Via Cielo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.137017,
+     37.6650589
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Buena Vista",
+     "Via Susana"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1368902,
+     37.6636826
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Susana",
+     "Via Tovita"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1224247,
+     37.6746347
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hacienda Avenue",
+     "Robscott Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1205686,
+     37.6717687
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Perkins Drive",
+     "Robscott Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1312627,
+     37.6682983
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Alamitos",
+     "Via Coralla"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1338006,
+     37.6677838
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Coralla",
+     "Via San Ardo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1346486,
+     37.6676957
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Coralla",
+     "Via el Cerrito"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1355205,
+     37.6676451
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Coralla",
+     "Via la Jolla"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1181549,
+     37.6791941
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Morella",
+     "Via Toledo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1207898,
+     37.6830021
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Grande",
+     "Via Sevilla"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1244644,
+     37.6718588
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Aires",
+     "Via Rosas"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1150005,
+     37.6739789
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Perkins Drive",
+     "Ricardo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1176062,
+     37.6729256
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Perkins Drive",
+     "Royal Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1183878,
+     37.6726332
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bengal Avenue",
+     "Perkins Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1157408,
+     37.6744353
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oxford Street",
+     "Ricardo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1187842,
+     37.6732406
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bengal Avenue",
+     "Oxford Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1336905,
+     37.680936
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grant Avenue",
+     "Paseo del Campo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1334858,
+     37.677245
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Grande",
+     "Paseo del Campo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1221946,
+     37.6755318
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Coches",
+     "Via Primero"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1190022,
+     37.6823534
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Cordoba",
+     "Via Diego"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1204185,
+     37.6814784
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Diego",
+     "Via Toledo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1452503,
+     37.668206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Natal",
+     "Via Walter"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1466565,
+     37.6675399
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Harriet",
+     "Via Natal"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.128612,
+     37.6786431
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Grande",
+     "Paseo Largavista"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1341199,
+     37.6736204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Lucas",
+     "Via Lupine"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1472017,
+     37.6745027
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Nueva",
+     "Via Rancho"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1454047,
+     37.6724144
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Nueva",
+     "Via Ventana"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1362597,
+     37.6836219
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Soto Drive",
+     "William Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1376203,
+     37.6830686
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ronconi Drive",
+     "Soto Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1400065,
+     37.6783651
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grant Avenue",
+     "Nielson Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1335565,
+     37.6652511
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Buena Vista",
+     "Via San Ardo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1344394,
+     37.6652021
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Buena Vista",
+     "Via el Cerrito"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1352887,
+     37.6651535
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Buena Vista",
+     "Via la Jolla"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1409734,
+     37.6648291
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Buena Vista",
+     "Via Carmen"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.141769,
+     37.6713178
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lucas Court",
+     "Via Lucas"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1309993,
+     37.665344
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Alamitos",
+     "Via Nube"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1102655,
+     37.6725751
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dell Court",
+     "Hathaway Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1415738,
+     37.6742288
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Vecinos",
+     "Via Ventana"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1232179,
+     37.6825921
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Granada",
+     "Via San Carlos"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1186893,
+     37.6761014
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hacienda Avenue",
+     "Ricardo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1129325,
+     37.6724885
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Falgren Avenue",
+     "Ricardo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1348923,
+     37.663804
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Tovita",
+     "Via la Jolla"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1369403,
+     37.6795988
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grant Avenue",
+     "Via Alamitos",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.135039,
+     37.6766165
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Grande",
+     "Via Alamitos"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1102689,
+     37.67373
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Florence Street",
+     "Gribben Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1129432,
+     37.674914
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Flanders Court",
+     "Hathaway Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1243717,
+     37.6837666
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Granada",
+     "Via Toledo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1215311,
+     37.6825849
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Grande",
+     "Via Toledo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1257111,
+     37.6717997
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Aires",
+     "Via Alamo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1448358,
+     37.6767516
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Barrett",
+     "Via Teresa"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1109956,
+     37.6732124
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Florence Street",
+     "Hathaway Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.127555,
+     37.6754721
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Magdalena",
+     "Via Manzanas"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1253129,
+     37.6734858
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hacienda Avenue",
+     "Via Magdalena"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1141416,
+     37.6710341
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bartlett Avenue",
+     "Kennedy Park Place"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1159702,
+     37.6703272
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bartlett Avenue",
+     "Royal Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1179097,
+     37.6695721
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bartlett Avenue",
+     "Duke Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1116356,
+     37.6737754
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hathaway Avenue",
+     "Rondale Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.125667,
+     37.6798642
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Grande",
+     "Via Primero"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1234332,
+     37.6774879
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Lucero",
+     "Via Primero"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1282962,
+     37.6751794
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Flores",
+     "Via Manzanas"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1329511,
+     37.6732965
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Alamitos",
+     "Via Manzanas"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1379838,
+     37.6707455
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Channel Street",
+     "Via Manzanas"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1494662,
+     37.6752517
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corte Breve",
+     "Via Represa"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1490059,
+     37.6746726
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Barrett",
+     "Via Represa"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1250115,
+     37.6853207
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Cordoba",
+     "Via Granada"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1202013,
+     37.6834032
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Grande",
+     "Via Cordoba"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1357319,
+     37.670112
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Carriage Circle",
+     "Via la Jolla"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1365179,
+     37.6742484
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via San Juan",
+     "Via el Monte"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1390565,
+     37.6721602
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Channel Street",
+     "Via San Juan"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1380465,
+     37.6844384
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ronconi Drive",
+     "William Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1403226,
+     37.6725864
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via del Robles",
+     "Via el Monte"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1392105,
+     37.6711165
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Lucas",
+     "Via del Robles"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1432999,
+     37.6775173
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Barrett",
+     "Via Esmond"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1441106,
+     37.6771121
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Barrett",
+     "Via Seco"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1478051,
+     37.6752713
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Barrett",
+     "Via Nueva"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1431679,
+     37.6806284
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Bregani",
+     "Via Enrico"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1130507,
+     37.6750138
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hathaway Avenue",
+     "Newcomb Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1494451,
+     37.6733878
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Eduardo",
+     "Via Rancho"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1255522,
+     37.6799516
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Grande",
+     "Via Rodriguez"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1302278,
+     37.678178
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Grande",
+     "Via Paro"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1475193,
+     37.6715709
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Via Walter"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1412152,
+     37.6675185
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Carmen",
+     "Via Carreta"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1524031,
+     37.672457
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grant Avenue",
+     "Railroad Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1500362,
+     37.6730854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Via Rancho"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1270042,
+     37.6719653
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hacienda Avenue",
+     "Via Aires",
+     "Via Flores"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1465723,
+     37.6714327
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Boxer Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1396185,
+     37.6729012
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Channel Street",
+     "Via el Monte"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.123539,
+     37.6814996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Arroyo",
+     "Via Mirlo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1314908,
+     37.6710279
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hacienda Avenue",
+     "Via Alamitos"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1251859,
+     37.680274
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Paseo Grande",
+     "Via Segundo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1347477,
+     37.6699015
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cobblestone Lane",
+     "Crier Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1337859,
+     37.6700024
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cobblestone Lane",
+     "Cobblestone Loop"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1338372,
+     37.6702962
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Carriage Circle",
+     "Cobblestone Loop"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1347814,
+     37.6702009
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Carriage Lane",
+     "Crier Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.129886,
+     37.6824776
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grant Avenue",
+     "Paseo Largavista"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1426321,
+     37.6773354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Channel Street",
+     "Grant Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.150338,
+     37.6734684
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Grant Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1475171,
+     37.6748925
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grant Avenue",
+     "Via Nueva"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1506441,
+     37.6738558
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Via Barrett"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1313005,
+     37.6705499
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Via Alamitos"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1374887,
+     37.6699898
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Channel Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1385016,
+     37.6714369
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Channel Street",
+     "Via Lucas"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1348736,
+     37.670714
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carriage Circle",
+     "Carriage Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1217783,
+     37.6778064
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Rincon",
+     "Via Segundo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1198579,
+     37.6761248
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Rincon",
+     "Via Segundo"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1349366,
+     37.664485
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Helena",
+     "Via la Jolla"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1352368,
+     37.6644753
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Helena",
+     "Via la Jolla"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1242701,
+     37.6807889
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Descanso",
+     "Via Rodriguez"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1244805,
+     37.6805824
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Descanso",
+     "Via Rodriguez"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.126904,
+     37.6838138
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Arroyo",
+     "Via Rivera"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1246875,
+     37.6822811
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Via Arroyo",
+     "Via Rivera"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.120019,
+     37.668755000000004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bartlett Avenue",
+     "Hesperian Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1234823,
+     37.674244849999994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hacienda Avenue",
+     "Hesperian Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1268388,
+     37.6793547
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hesperian Boulevard",
+     "Paseo Grande"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.12895395000001,
+     37.6828187
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grant Avenue",
+     "Hesperian Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.12613694999999,
+     37.67844745
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hesperian Boulevard",
+     "Via Mercado"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1217115,
+     37.671473500000005
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bockman Road",
+     "Hesperian Boulevard"
+    ]
+   }
+  }
+ ]
+}

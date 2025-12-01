@@ -1,0 +1,536 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8726934,
+     37.6391504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Mockingbird Lane",
+     "Laura Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9056762,
+     37.5625849
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mission Road",
+     "Sheridan Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.926021,
+     37.5680424
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Tecado Common",
+     "Tecado Terrace"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8783429,
+     37.605738
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carver Lane",
+     "Foothill Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8863384,
+     37.5959171
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bond Street",
+     "Foothill Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8861146,
+     37.5957596
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bond Street",
+     "Railroad Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8493599,
+     37.6061359
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alpha Lane",
+     "Little Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8493841,
+     37.6097968
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Little Valley Road",
+     "Sigerson Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8494296,
+     37.6143966
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Little Valley Road",
+     "Strachan Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8926492,
+     37.594081
+    ]
+   },
+   "properties": {
+    "streets": [
+     "A Street",
+     "Foothill Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.893202,
+     37.5941238
+    ]
+   },
+   "properties": {
+    "streets": [
+     "B Street",
+     "Foothill Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8887669,
+     37.594403
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Foothill Road",
+     "Kilkare Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8774778,
+     37.6399192
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Amber Lane",
+     "Mockingbird Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8822367,
+     37.5928917
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Niles Canyon Road",
+     "Paloma Road",
+     "Pleasanton Sunol Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8941781,
+     37.5942223
+    ]
+   },
+   "properties": {
+    "streets": [
+     "C Street",
+     "Foothill Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8711108,
+     37.6385695
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alisal Street",
+     "East Mockingbird Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8704495,
+     37.6410801
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alisal Street",
+     "Minnie Street",
+     "Sycamore Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.871032,
+     37.6389845
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alisal Street",
+     "Byrd Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.870544,
+     37.6349763
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alisa Court",
+     "Alisal Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.86938,
+     37.6326889
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alisal Street",
+     "Happy Valley Road",
+     "Westbridge Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8736734,
+     37.6011808
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Koopman Road",
+     "Pleasanton Sunol Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8530681,
+     37.5357974
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Calaveras Road",
+     "Welch Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8850659,
+     37.5736304
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Andrade Road",
+     "Athenour Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8530513,
+     37.5305335
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Calaveras Road",
+     "Pat Geary Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8693587,
+     37.5878108
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Calaveras Road",
+     "Paloma Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8857664,
+     37.5751187
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Andrade Road",
+     "Mission Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8848033,
+     37.5926285
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "Niles Canyon Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.885538,
+     37.5936125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bond Street",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8885148,
+     37.5940717
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kilkare Road",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8651393,
+     37.5771225
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Calaveras Road",
+     "Indian Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8220764,
+     37.6109284
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old Vallecitos Road",
+     "Vallecitos Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8864103,
+     37.5563375
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Andrade Road",
+     "Sheridan Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.873536,
+     37.633757
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Happy Valley Road",
+     "Larkson Lane"
+    ]
+   }
+  }
+ ]
+}

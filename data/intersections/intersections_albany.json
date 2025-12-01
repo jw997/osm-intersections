@@ -1,0 +1,3207 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3040845,
+     37.8892912
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Solano Avenue",
+     "Taylor Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2975924,
+     37.8974181
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brighton Avenue",
+     "Talbot Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3025792,
+     37.895704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clay Street",
+     "Madison Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3017476,
+     37.895876
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Adams Street",
+     "Clay Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2958949,
+     37.8977549
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brighton Avenue",
+     "Masonic Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.295371,
+     37.8961329
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Garfield Avenue",
+     "Masonic Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2948534,
+     37.8945094
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Masonic Avenue",
+     "Portland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2943303,
+     37.8928793
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Masonic Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2875536,
+     37.8909161
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Curtis Street",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2870676,
+     37.8890616
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Curtis Street",
+     "Marin Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2874392,
+     37.8879458
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Curtis Street",
+     "Sonoma Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2887583,
+     37.8847289
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Curtis Street",
+     "Francis Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3005115,
+     37.895094
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Garfield Avenue",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2995848,
+     37.8952841
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Garfield Avenue",
+     "Kains Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2987474,
+     37.8954543
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Garfield Avenue",
+     "Stannage Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2979105,
+     37.8956219
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cornell Avenue",
+     "Garfield Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2970734,
+     37.8957902
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Garfield Avenue",
+     "Talbot Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2962325,
+     37.8959575
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evelyn Avenue",
+     "Garfield Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.291921,
+     37.8906728
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pomona Avenue",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29106,
+     37.8880654
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marin Avenue",
+     "Pomona Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2901369,
+     37.8852512
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dartmouth Street",
+     "Pomona Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2916969,
+     37.89673
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pomona Avenue",
+     "Thousand Oaks Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2874276,
+     37.8858526
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Neilson Street",
+     "Terrace Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2865991,
+     37.8856549
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Terrace Street",
+     "Tevlin Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2967531,
+     37.8975804
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brighton Avenue",
+     "Evelyn Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2957081,
+     37.8943367
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evelyn Avenue",
+     "Portland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2951852,
+     37.8927122
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evelyn Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2944823,
+     37.8905286
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evelyn Avenue",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2935337,
+     37.8875665
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evelyn Avenue",
+     "Marin Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2926181,
+     37.884704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dartmouth Street",
+     "Evelyn Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2900195,
+     37.8948264
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carmel Avenue",
+     "Portland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2901038,
+     37.8929554
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carmel Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2890801,
+     37.8884675
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carmel Avenue",
+     "Marin Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2863018,
+     37.8981673
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Neilson Street",
+     "Visalia Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2863626,
+     37.896579
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Neilson Street",
+     "Thousand Oaks Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28654,
+     37.892827
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Neilson Street",
+     "San Lorenzo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2866099,
+     37.8909698
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Neilson Street",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2861444,
+     37.8894124
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marin Avenue",
+     "Neilson Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3019849,
+     37.8938405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Castro Street",
+     "Madison Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3013835,
+     37.8919824
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Madison Street",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3007377,
+     37.8899636
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Madison Street",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3000337,
+     37.8877547
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Buchanan Street",
+     "Madison Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.304839,
+     37.889927
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gateview Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2945716,
+     37.8977769
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brighton Avenue",
+     "San Gabriel Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2943938,
+     37.8946002
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Portland Avenue",
+     "San Gabriel Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3023171,
+     37.8831102
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kinkead Way",
+     "Red Oak Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3030085,
+     37.8851206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kinkead Way",
+     "Ohlone Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3011703,
+     37.8833736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gooding Way",
+     "Red Oak Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3018634,
+     37.8853743
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gooding Way",
+     "Ohlone Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3057776,
+     37.8889549
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pierce Street",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3072753,
+     37.888664
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cleveland Avenue",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2984311,
+     37.8972461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brighton Avenue",
+     "Cornell Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.297386,
+     37.8939949
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cornell Avenue",
+     "Portland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2968683,
+     37.8923753
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cornell Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2962425,
+     37.8904307
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cornell Avenue",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2952142,
+     37.8872317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cornell Avenue",
+     "Marin Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2942956,
+     37.8843657
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cornell Avenue",
+     "Dartmouth Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3035671,
+     37.8903569
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Polk Street",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3032508,
+     37.889461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Polk Street",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2852928,
+     37.8874093
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Peralta Avenue",
+     "Sonoma Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2842809,
+     37.8871756
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ordway Street",
+     "Sonoma Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2871673,
+     37.8841453
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Francis Street",
+     "Tevlin Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2837758,
+     37.8862721
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beverly Place",
+     "Ventura Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2834696,
+     37.8911451
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Solano Avenue",
+     "Ventura Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2827853,
+     37.8891478
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marin Avenue",
+     "Ventura Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3034565,
+     37.8928878
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cerrito Street",
+     "Hillside Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3071044,
+     37.8879693
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cleveland Avenue",
+     "Johnson Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3055607,
+     37.8882798
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Johnson Street",
+     "Pierce Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2998505,
+     37.884112
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jackson Street",
+     "Monroe Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2871661,
+     37.898185
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Curtis Street",
+     "Visalia Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2908878,
+     37.8948443
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Portland Avenue",
+     "Ramona Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2909736,
+     37.8929781
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ramona Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2908085,
+     37.8967025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ramona Avenue",
+     "Thousand Oaks Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.290025,
+     37.8882761
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marin Avenue",
+     "Ramona Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2881569,
+     37.8966246
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Fe Avenue",
+     "Thousand Oaks Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2882373,
+     37.8947814
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Portland Avenue",
+     "Santa Fe Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2883198,
+     37.8929045
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Fe Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.298552,
+     37.8920357
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kains Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2977078,
+     37.8922065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Stannage Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2960275,
+     37.8925485
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Talbot Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2939251,
+     37.8928845
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Spokane Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3030526,
+     37.8916429
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cerrito Street",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3022269,
+     37.8918116
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jackson Street",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3005449,
+     37.89215
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Adams Street",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2992706,
+     37.8970778
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brighton Avenue",
+     "Stannage Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2982287,
+     37.8938305
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Portland Avenue",
+     "Stannage Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2971191,
+     37.8903812
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Solano Avenue",
+     "Stannage Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2960567,
+     37.8870576
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marin Avenue",
+     "Stannage Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2951376,
+     37.884197
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dartmouth Street",
+     "Stannage Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2968392,
+     37.8838564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dartmouth Street",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2959717,
+     37.8840294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dartmouth Street",
+     "Kains Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2934535,
+     37.8845397
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dartmouth Street",
+     "Talbot Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2999907,
+     37.8934728
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Portland Avenue",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2990685,
+     37.8936589
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kains Avenue",
+     "Portland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2965496,
+     37.8941677
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Portland Avenue",
+     "Talbot Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.293707,
+     37.8977519
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brighton Avenue",
+     "Spokane Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2938428,
+     37.8947133
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Portland Avenue",
+     "Spokane Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2833423,
+     37.8847408
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Posen Avenue",
+     "West Place"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2896374,
+     37.8849396
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Francis Street",
+     "Santa Fe Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3049321,
+     37.8891185
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fillmore Street",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3044554,
+     37.8875396
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Buchanan Street",
+     "Fillmore Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3028266,
+     37.8936769
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Castro Street",
+     "Jackson Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3011444,
+     37.8940116
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Adams Street",
+     "Castro Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3002231,
+     37.8941963
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Castro Street",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2870832,
+     37.8867562
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Albany Terrace",
+     "Neilson Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2862427,
+     37.8865564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Albany Terrace",
+     "Tevlin Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3030462,
+     37.8943751
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hillside Avenue",
+     "Jackson Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2844871,
+     37.8910897
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ordway Street",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3038137,
+     37.8923685
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hillside Avenue",
+     "Taft Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2890771,
+     37.8966512
+    ]
+   },
+   "properties": {
+    "streets": [
+     "San Carlos Avenue",
+     "Thousand Oaks Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.289157,
+     37.894807
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Portland Avenue",
+     "San Carlos Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2892378,
+     37.8929335
+    ]
+   },
+   "properties": {
+    "streets": [
+     "San Carlos Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2893282,
+     37.8908146
+    ]
+   },
+   "properties": {
+    "streets": [
+     "San Carlos Avenue",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2866103,
+     37.8840239
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Francis Street",
+     "Peralta Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.300276,
+     37.8857212
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jackson Street",
+     "Ohlone Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2920815,
+     37.8878625
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Key Route Boulevard",
+     "Marin Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.291153,
+     37.8850093
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dartmouth Street",
+     "Key Route Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.300292,
+     37.8832384
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Eighth Street",
+     "Jackson Street",
+     "Red Oak Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3025042,
+     37.883075
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Red Oak Avenue",
+     "Sixth Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3039285,
+     37.8849201
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kula Gulf Way",
+     "Ohlone Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3047319,
+     37.8847486
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Liberty Ship Way",
+     "Ohlone Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3053271,
+     37.884619
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ohlone Avenue",
+     "West End Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3033599,
+     37.8833294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kula Gulf Way",
+     "Red Oak Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2887648,
+     37.890844
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Fe Avenue",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2856355,
+     37.8910239
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Peralta Avenue",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.284312,
+     37.8910995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Solano Avenue",
+     "Tacoma Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3074799,
+     37.8871121
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Buchanan Street",
+     "Eastshore Highway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2953614,
+     37.8904791
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Solano Avenue",
+     "Talbot Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.294371,
+     37.8873993
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marin Avenue",
+     "Talbot Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3052776,
+     37.8874049
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Buchanan Avenue",
+     "Buchanan Street",
+     "Pierce Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.284436,
+     37.8842342
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Posen Avenue",
+     "Ventura Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3047651,
+     37.8830001
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Red Oak Avenue",
+     "West End Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3041727,
+     37.8831423
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Liberty Ship Way",
+     "Red Oak Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2998884,
+     37.890131
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Adams Street",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.298158,
+     37.8878194
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Buchanan Street",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3010324,
+     37.8967189
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brighton Avenue",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3001078,
+     37.8969085
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brighton Avenue",
+     "Kains Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3015778,
+     37.889795
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jackson Street",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2968909,
+     37.8868919
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kains Avenue",
+     "Marin Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2971497,
+     37.8846228
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Monroe Street",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3069433,
+     37.8875128
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Buchanan Avenue",
+     "Cleveland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3024148,
+     37.8896274
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cerrito Street",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3074465,
+     37.8893352
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cleveland Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3053097,
+     37.8875033
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Buchanan Street",
+     "Pierce Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3059925,
+     37.8896249
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pierce Street",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2991304,
+     37.8877749
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Adams Street",
+     "Buchanan Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2874068,
+     37.8928751
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Curtis Street",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2869549,
+     37.8928599
+    ]
+   },
+   "properties": {
+    "streets": [
+     "San Lorenzo Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2989613,
+     37.8902653
+    ]
+   },
+   "properties": {
+    "streets": [
+     "San Pablo Avenue",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2926716,
+     37.8877413
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marin Avenue",
+     "Masonic Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2851201,
+     37.8895112
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marin Avenue",
+     "Peralta Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2882302,
+     37.8886517
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marin Avenue",
+     "Santa Fe Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2979951,
+     37.8903316
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kains Avenue",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2935872,
+     37.8905777
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Masonic Avenue",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3008244,
+     37.8960633
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clay Street",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2917596,
+     37.8848803
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dartmouth Street",
+     "Masonic Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.287239,
+     37.8965991
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Curtis Street",
+     "Thousand Oaks Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2873211,
+     37.8947561
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Curtis Street",
+     "Portland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2917672,
+     37.8948805
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pomona Avenue",
+     "Portland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2899425,
+     37.8966744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carmel Avenue",
+     "Thousand Oaks Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30355275,
+     37.8875191
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Buchanan Street",
+     "Taylor Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.291863,
+     37.8928345
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pomona Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2918536,
+     37.8929985
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pomona Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2901892,
+     37.8907683
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carmel Avenue",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2898022,
+     37.89079
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carmel Avenue",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2863613,
+     37.8876606
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Neilson Street",
+     "Sonoma Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2867167,
+     37.8877416
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Neilson Street",
+     "Sonoma Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30267169999999,
+     37.887560449999995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Buchanan Street",
+     "Polk Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2835088,
+     37.8869957
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sonoma Avenue",
+     "Ventura Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2832596,
+     37.8869395
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sonoma Avenue",
+     "Ventura Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2910516,
+     37.8907182
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ramona Avenue",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2908126,
+     37.8907321
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ramona Avenue",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2870145,
+     37.8829575
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Peralta Avenue",
+     "Posen Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2869215,
+     37.8832045
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Peralta Avenue",
+     "Posen Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2994698,
+     37.8918476
+    ]
+   },
+   "properties": {
+    "streets": [
+     "San Pablo Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.299626,
+     37.8923371
+    ]
+   },
+   "properties": {
+    "streets": [
+     "San Pablo Avenue",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29294379999999,
+     37.89286365
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Key Route Boulevard",
+     "Washington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.287943,
+     37.8845369
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Francis Street",
+     "Neilson Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2880374,
+     37.8842768
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Francis Street",
+     "Neilson Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2927703,
+     37.89675345
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Key Route Boulevard",
+     "Thousand Oaks Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2841239,
+     37.8893496
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marin Avenue",
+     "Ordway Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2835464,
+     37.8891913
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marin Avenue",
+     "Ordway Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2928166,
+     37.8983173
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ashbury Avenue",
+     "Key Route Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2925252,
+     37.8983793
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ashbury Avenue",
+     "Key Route Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2927273,
+     37.897720899999996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brighton Avenue",
+     "Key Route Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29285615,
+     37.8948944
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Key Route Boulevard",
+     "Portland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29300715,
+     37.8906126
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Key Route Boulevard",
+     "Solano Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3008916,
+     37.887631799999994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Buchanan Street",
+     "Jackson Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29782395000001,
+     37.8867502
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marin Avenue",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2897334,
+     37.8847137
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pomona Avenue",
+     "Santa Fe Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2897946,
+     37.8845573
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pomona Avenue",
+     "Santa Fe Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2903077,
+     37.883116
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Key Route Boulevard",
+     "Santa Fe Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2901973,
+     37.8834705
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Key Route Boulevard",
+     "Santa Fe Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2891321,
+     37.8862953
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ramona Avenue",
+     "Santa Fe Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2892289,
+     37.8860108
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ramona Avenue",
+     "Santa Fe Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3061244,
+     37.890026
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Calhoun Street",
+     "Pierce Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3062108,
+     37.8902947
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Calhoun Street",
+     "Pierce Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3017748,
+     37.887594899999996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Buchanan Street",
+     "Cerrito Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2998709,
+     37.8875392
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Buchanan Street",
+     "Marin Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3000515,
+     37.8876571
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Buchanan Street",
+     "Marin Avenue"
+    ]
+   }
+  }
+ ]
+}

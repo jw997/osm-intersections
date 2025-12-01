@@ -1,0 +1,2218 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2770662,
+     37.834389
+    ]
+   },
+   "properties": {
+    "streets": [
+     "44th Street",
+     "Adeline Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2924606,
+     37.8370675
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bay Street",
+     "Christie Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2923442,
+     37.8358378
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bay Street",
+     "Brunswig Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2922486,
+     37.8346076
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bay Street",
+     "Ohlone Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2865243,
+     37.8297207
+    ]
+   },
+   "properties": {
+    "streets": [
+     "40th Street",
+     "Holden Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2869231,
+     37.8309822
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Holden Street",
+     "Park Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2875252,
+     37.8327296
+    ]
+   },
+   "properties": {
+    "streets": [
+     "45th Street",
+     "Holden Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2814728,
+     37.8320846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Emery Street",
+     "Park Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2773506,
+     37.8336455
+    ]
+   },
+   "properties": {
+    "streets": [
+     "43rd Street",
+     "Adeline Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2893741,
+     37.8460236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Doyle Street",
+     "Ocean Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2902172,
+     37.8303261
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Halleck Street",
+     "Park Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2905897,
+     37.8314327
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Halleck Street",
+     "Sherwin Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2883954,
+     37.8319661
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Horton Street",
+     "Sherwin Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2894838,
+     37.8317082
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hubbard Street",
+     "Sherwin Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2907758,
+     37.8387374
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Haruff Street",
+     "Horton Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2899096,
+     37.8389111
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Haruff Street",
+     "Peladeau Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2890878,
+     37.8305468
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hubbard Street",
+     "Park Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2802678,
+     37.8365953
+    ]
+   },
+   "properties": {
+    "streets": [
+     "48th Street",
+     "Salem Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2789635,
+     37.8293838
+    ]
+   },
+   "properties": {
+    "streets": [
+     "39th Street",
+     "Adeline Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2937466,
+     37.8440107
+    ]
+   },
+   "properties": {
+    "streets": [
+     "64th Street",
+     "Shellmound Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2948718,
+     37.8437872
+    ]
+   },
+   "properties": {
+    "streets": [
+     "64th Street",
+     "Market Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2957426,
+     37.8436143
+    ]
+   },
+   "properties": {
+    "streets": [
+     "64th Street",
+     "Christie Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2858587,
+     37.8378428
+    ]
+   },
+   "properties": {
+    "streets": [
+     "55th Street",
+     "Beaudry Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2866954,
+     37.8377003
+    ]
+   },
+   "properties": {
+    "streets": [
+     "55th Street",
+     "Doyle Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2775895,
+     37.8330144
+    ]
+   },
+   "properties": {
+    "streets": [
+     "42nd Street",
+     "Adeline Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2932616,
+     37.8441224
+    ]
+   },
+   "properties": {
+    "streets": [
+     "64th Street",
+     "Overland Avenue",
+     "Overland Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2927152,
+     37.8424571
+    ]
+   },
+   "properties": {
+    "streets": [
+     "62nd Street",
+     "Overland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2929914,
+     37.8432731
+    ]
+   },
+   "properties": {
+    "streets": [
+     "63rd Street",
+     "Overland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2881469,
+     37.8468194
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Peabody Lane",
+     "Vallejo Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2883391,
+     37.8474248
+    ]
+   },
+   "properties": {
+    "streets": [
+     "65th Street",
+     "Vallejo Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2886837,
+     37.8484574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "66th Street",
+     "Vallejo Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.280024,
+     37.8358966
+    ]
+   },
+   "properties": {
+    "streets": [
+     "47th Street",
+     "Salem Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2930695,
+     37.8371567
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Christie Avenue",
+     "Shellmound Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2842106,
+     37.8335257
+    ]
+   },
+   "properties": {
+    "streets": [
+     "45th Street",
+     "Doyle Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2864604,
+     37.8330078
+    ]
+   },
+   "properties": {
+    "streets": [
+     "45th Street",
+     "Hollis Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2871774,
+     37.8390793
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Doyle Street",
+     "Stanford Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2880228,
+     37.8416402
+    ]
+   },
+   "properties": {
+    "streets": [
+     "59th Street",
+     "Doyle Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2903232,
+     37.8430791
+    ]
+   },
+   "properties": {
+    "streets": [
+     "62nd Street",
+     "Hollis Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2919384,
+     37.8426397
+    ]
+   },
+   "properties": {
+    "streets": [
+     "62nd Street",
+     "Horton Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2847276,
+     37.8350009
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Doyle Street",
+     "Steve Dain Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2971539,
+     37.8434029
+    ]
+   },
+   "properties": {
+    "streets": [
+     "64th Street",
+     "La Coste Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2975511,
+     37.8461656
+    ]
+   },
+   "properties": {
+    "streets": [
+     "65th Street",
+     "La Coste Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3035207,
+     37.8384794
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Captain Drive",
+     "Ensign Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.294965,
+     37.8393035
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Christie Avenue",
+     "Shellmound Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2819243,
+     37.8371558
+    ]
+   },
+   "properties": {
+    "streets": [
+     "53rd Street",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2876495,
+     37.8360452
+    ]
+   },
+   "properties": {
+    "streets": [
+     "53rd Street",
+     "Hollis Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2844173,
+     37.8301463
+    ]
+   },
+   "properties": {
+    "streets": [
+     "40th Street",
+     "Haven Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2847618,
+     37.831417
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Haven Street",
+     "Park Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2863547,
+     37.8394165
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beaudry Street",
+     "Stanford Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2871209,
+     37.8418225
+    ]
+   },
+   "properties": {
+    "streets": [
+     "59th Street",
+     "Beaudry Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2821844,
+     37.8306055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "40th Street",
+     "Watts Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2825776,
+     37.8318574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Park Avenue",
+     "Watts Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2813474,
+     37.8280448
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Watts Street",
+     "West MacArthur Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2810523,
+     37.8275305
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Peralta Street",
+     "Watts Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.276549,
+     37.8357612
+    ]
+   },
+   "properties": {
+    "streets": [
+     "46th Street",
+     "Adeline Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2921813,
+     37.8488655
+    ]
+   },
+   "properties": {
+    "streets": [
+     "67th Street",
+     "Hollis Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2918396,
+     37.8478222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "66th Street",
+     "Hollis Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2850445,
+     37.8286632
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hollis Street",
+     "Yerba Buena Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2804753,
+     37.8282475
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Peralta Street",
+     "West MacArthur Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2793476,
+     37.828366
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Adeline Street",
+     "West MacArthur Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2880138,
+     37.8307663
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Horton Street",
+     "Park Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2928921,
+     37.8358481
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brunswig Lane",
+     "Shellmound Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2888459,
+     37.8384039
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hollis Street",
+     "Stanford Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2911028,
+     37.8455274
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hollis Street",
+     "Ocean Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2891825,
+     37.8452789
+    ]
+   },
+   "properties": {
+    "streets": [
+     "64th Street",
+     "Doyle Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2908714,
+     37.8448013
+    ]
+   },
+   "properties": {
+    "streets": [
+     "64th Street",
+     "Hollis Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2803716,
+     37.8284845
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Emery Street",
+     "Peralta Street",
+     "West MacArthur Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2948379,
+     37.8472103
+    ]
+   },
+   "properties": {
+    "streets": [
+     "66th Street",
+     "Shellmound Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2951375,
+     37.8482436
+    ]
+   },
+   "properties": {
+    "streets": [
+     "67th Street",
+     "Shellmound Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2930199,
+     37.8347677
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ohlone Way",
+     "Shellmound Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2906232,
+     37.8411121
+    ]
+   },
+   "properties": {
+    "streets": [
+     "59th Street",
+     "Peladeau Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2935059,
+     37.8335906
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bay Street",
+     "Shellmound Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2897477,
+     37.8412951
+    ]
+   },
+   "properties": {
+    "streets": [
+     "59th Street",
+     "Hollis Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2934779,
+     37.8431757
+    ]
+   },
+   "properties": {
+    "streets": [
+     "63rd Street",
+     "Shellmound Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.295479,
+     37.8427694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "63rd Street",
+     "Christie Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.288487,
+     37.8430555
+    ]
+   },
+   "properties": {
+    "streets": [
+     "61st Street",
+     "Doyle Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2858306,
+     37.8312019
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hollis Street",
+     "Park Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2914536,
+     37.8409382
+    ]
+   },
+   "properties": {
+    "streets": [
+     "59th Street",
+     "Horton Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2786669,
+     37.8301645
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Adeline Street",
+     "Yerba Buena Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2964845,
+     37.8461922
+    ]
+   },
+   "properties": {
+    "streets": [
+     "65th Street",
+     "Christie Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2915041,
+     37.8467815
+    ]
+   },
+   "properties": {
+    "streets": [
+     "65th Street",
+     "Hollis Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2896294,
+     37.8379997
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Peladeau Street",
+     "Stanford Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2762196,
+     37.8366246
+    ]
+   },
+   "properties": {
+    "streets": [
+     "47th Street",
+     "Adeline Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2778574,
+     37.8322978
+    ]
+   },
+   "properties": {
+    "streets": [
+     "41st Street",
+     "Adeline Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2782235,
+     37.8313395
+    ]
+   },
+   "properties": {
+    "streets": [
+     "40th Street",
+     "Adeline Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2786244,
+     37.8350302
+    ]
+   },
+   "properties": {
+    "streets": [
+     "45th Street",
+     "Essex Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2885939,
+     37.8324724
+    ]
+   },
+   "properties": {
+    "streets": [
+     "45th Street",
+     "Horton Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2890083,
+     37.8335285
+    ]
+   },
+   "properties": {
+    "streets": [
+     "46th Street",
+     "Horton Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.289784,
+     37.8354996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "53rd Street",
+     "Horton Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2800814,
+     37.83186
+    ]
+   },
+   "properties": {
+    "streets": [
+     "41st Street",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2791362,
+     37.828915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Adeline Street",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2792027,
+     37.8287139
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Adeline Street",
+     "San Pablo Avenue",
+     "West MacArthur Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.297887,
+     37.8400395
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Frontage Road",
+     "West Frontage Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2934699,
+     37.839364
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Shellmound Street",
+     "Shellmound Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2945797,
+     37.8461943
+    ]
+   },
+   "properties": {
+    "streets": [
+     "65th Street",
+     "Shellmound Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2906036,
+     37.8439531
+    ]
+   },
+   "properties": {
+    "streets": [
+     "63rd Street",
+     "Hollis Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2812817,
+     37.835593
+    ]
+   },
+   "properties": {
+    "streets": [
+     "47th Street",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2815331,
+     37.8363694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "48th Street",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2939591,
+     37.8462922
+    ]
+   },
+   "properties": {
+    "streets": [
+     "65th Street",
+     "Overland Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2888979,
+     37.8444355
+    ]
+   },
+   "properties": {
+    "streets": [
+     "63rd Street",
+     "Doyle Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2836879,
+     37.8316328
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Harlan Street",
+     "Park Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2886364,
+     37.8435515
+    ]
+   },
+   "properties": {
+    "streets": [
+     "62nd Street",
+     "Doyle Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2901644,
+     37.8425981
+    ]
+   },
+   "properties": {
+    "streets": [
+     "61st Street",
+     "Hollis Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2900787,
+     37.8332669
+    ]
+   },
+   "properties": {
+    "streets": [
+     "46th Street",
+     "Hubbard Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2904015,
+     37.8372879
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Horton Street",
+     "Stanford Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2900602,
+     37.837627
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Horton Street",
+     "Stanford Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2864056,
+     37.8363376
+    ]
+   },
+   "properties": {
+    "streets": [
+     "53rd Street",
+     "Emery Bay Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2845883,
+     37.8367017
+    ]
+   },
+   "properties": {
+    "streets": [
+     "53rd Street",
+     "Emery Bay Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28656995,
+     37.84004085
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beaudry Street",
+     "Powell Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28744155000001,
+     37.83986415
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Doyle Street",
+     "Powell Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.306052,
+     37.83711995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Admiral Drive",
+     "Powell Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2845273,
+     37.8365154
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Emery Bay Drive",
+     "Temescal Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2843643,
+     37.8360151
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Emery Bay Drive",
+     "Temescal Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28326795000001,
+     37.8303279
+    ]
+   },
+   "properties": {
+    "streets": [
+     "40th Street",
+     "Harlan Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30450214999999,
+     37.83712165
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Commodore Drive",
+     "Powell Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28090675,
+     37.8342253
+    ]
+   },
+   "properties": {
+    "streets": [
+     "45th Street",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2766491,
+     37.8354885
+    ]
+   },
+   "properties": {
+    "streets": [
+     "45th Street",
+     "Adeline Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2768078,
+     37.8350724
+    ]
+   },
+   "properties": {
+    "streets": [
+     "45th Street",
+     "Adeline Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30745685,
+     37.83712045
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Anchor Drive",
+     "Powell Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30296154999999,
+     37.8371153
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Captain Drive",
+     "Powell Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.27882595,
+     37.827766
+    ]
+   },
+   "properties": {
+    "streets": [
+     "37th Street",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2789657,
+     37.8283979
+    ]
+   },
+   "properties": {
+    "streets": [
+     "San Pablo Avenue",
+     "West MacArthur Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2790271,
+     37.8285877
+    ]
+   },
+   "properties": {
+    "streets": [
+     "San Pablo Avenue",
+     "West MacArthur Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28919435,
+     37.839516950000004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hollis Street",
+     "Powell Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2967813,
+     37.8381639
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Frontage Road",
+     "Powell Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2899939,
+     37.839393
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Peladeau Street",
+     "Powell Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2900009,
+     37.8393119
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Peladeau Street",
+     "Powell Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2875914,
+     37.82944835
+    ]
+   },
+   "properties": {
+    "streets": [
+     "40th Street",
+     "Horton Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.27987820000001,
+     37.8310331
+    ]
+   },
+   "properties": {
+    "streets": [
+     "40th Street",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28543385,
+     37.82988775
+    ]
+   },
+   "properties": {
+    "streets": [
+     "40th Street",
+     "Hollis Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2946027,
+     37.8429473
+    ]
+   },
+   "properties": {
+    "streets": [
+     "63rd Street",
+     "Market Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.294928,
+     37.8428812
+    ]
+   },
+   "properties": {
+    "streets": [
+     "63rd Street",
+     "Market Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2810837,
+     37.8308449
+    ]
+   },
+   "properties": {
+    "streets": [
+     "40th Street",
+     "Emery Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2947135,
+     37.8384651
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Christie Avenue",
+     "Powell Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28049333333333,
+     37.8330085
+    ]
+   },
+   "properties": {
+    "streets": [
+     "43rd Street",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28029910000001,
+     37.8323424
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Park Avenue",
+     "San Pablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2814217,
+     37.8356166
+    ]
+   },
+   "properties": {
+    "streets": [
+     "47th Street",
+     "San Pablo Avenue",
+     "Steve Dain Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2813074,
+     37.8356685
+    ]
+   },
+   "properties": {
+    "streets": [
+     "47th Street",
+     "San Pablo Avenue",
+     "Steve Dain Drive"
+    ]
+   }
+  }
+ ]
+}

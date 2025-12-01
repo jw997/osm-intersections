@@ -1,0 +1,4751 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2476037,
+     37.8262501
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Echo Avenue",
+     "Rose Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2461131,
+     37.8248998
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Howard Avenue",
+     "Lake Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2453379,
+     37.8254056
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lake Avenue",
+     "Nace Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2444669,
+     37.8259478
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenbank Avenue",
+     "Lake Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2485517,
+     37.8227801
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lake Avenue",
+     "Olive Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2479691,
+     37.8232859
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lake Avenue",
+     "Sunnyside Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2303409,
+     37.8210859
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hazel Lane",
+     "Requa Place",
+     "Requa Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2332423,
+     37.8198958
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Requa Road",
+     "Wildwood Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2303224,
+     37.8210034
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hazel Lane",
+     "Requa Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2348794,
+     37.8238898
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hillside Avenue",
+     "Vista Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2335275,
+     37.8243487
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bonita Avenue",
+     "Vista Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2321195,
+     37.8248262
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highland Avenue",
+     "Vista Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2322396,
+     37.8271611
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hardwick Avenue",
+     "Langdon Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.226868,
+     37.8217266
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lakeview Avenue",
+     "Sheridan Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2268764,
+     37.8212368
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lincoln Avenue",
+     "Sheridan Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2440787,
+     37.8182398
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Boulevard Way",
+     "Sylvan Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2392908,
+     37.8178455
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Boulevard Way",
+     "Warfield Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2305163,
+     37.8246617
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highland Avenue",
+     "Piedmont Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2253469,
+     37.8269817
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bell Avenue",
+     "Blair Avenue",
+     "Mountain Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2255549,
+     37.828779
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bell Avenue",
+     "Scenic Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2294839,
+     37.8235859
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highland Avenue",
+     "Sierra Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2282731,
+     37.8220912
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sheridan Avenue",
+     "Sierra Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2492076,
+     37.8259513
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Linda Avenue",
+     "Monte Cresta Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2493362,
+     37.823668
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kingston Avenue",
+     "Monte Cresta Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2377658,
+     37.8245813
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Cerrito Avenue",
+     "Oakland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2402614,
+     37.8279425
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lorita Avenue",
+     "Monticello Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2373988,
+     37.8263178
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "Carmel Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2368123,
+     37.8248969
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carmel Avenue",
+     "Oakland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2264697,
+     37.8241949
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sharon Avenue",
+     "Sharon Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2208983,
+     37.8132997
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Trestle Glen Road",
+     "Valant Place"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2256904,
+     37.8211924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Crocker Avenue",
+     "Lincoln Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2252276,
+     37.8200253
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Crocker Avenue",
+     "Wildwood Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2252231,
+     37.8171025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Crocker Avenue",
+     "Lafayette Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.226454,
+     37.8172015
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lafayette Avenue",
+     "Muir Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2277511,
+     37.8172157
+    ]
+   },
+   "properties": {
+    "streets": [
+     "La Salle Avenue",
+     "Lafayette Avenue",
+     "Woodland Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2470417,
+     37.8217
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oakland Avenue",
+     "Olive Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2452112,
+     37.8209874
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Olive Avenue",
+     "Sunnyside Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2285133,
+     37.8265169
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pacific Avenue",
+     "Scenic Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2285844,
+     37.8268347
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oakland Avenue",
+     "Scenic Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2191991,
+     37.8144208
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Saint James Drive",
+     "Saint James Place"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2377708,
+     37.8288993
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dracena Avenue",
+     "Park Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2367363,
+     37.8288474
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hillside Avenue",
+     "Park Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.235687,
+     37.828796
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bonita Avenue",
+     "Park Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2349639,
+     37.8287615
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Park Way",
+     "Waldo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.234299,
+     37.8287777
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highland Avenue",
+     "Park Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2460947,
+     37.8219782
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oakland Avenue",
+     "Sunnyside Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2441166,
+     37.8207638
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grand Avenue",
+     "Sunnyside Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2187545,
+     37.813472
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cavanagh Court",
+     "Trestle Glen Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2182903,
+     37.8186737
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Crest Road",
+     "Hampton Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2157909,
+     37.821602
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Crest Road",
+     "Somerset Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2455221,
+     37.8275035
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenbank Avenue",
+     "Rose Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2448105,
+     37.8265536
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenbank Avenue",
+     "Kingston Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.242929,
+     37.8244748
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Way",
+     "Grand Avenue",
+     "Greenbank Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2430768,
+     37.8240471
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grand Avenue",
+     "Greenbank Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2411101,
+     37.8234635
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenbank Avenue",
+     "Oakland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2267688,
+     37.8307469
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Abbott Way",
+     "Maxwelton Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2351532,
+     37.8168315
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Annerley Road",
+     "Portsmouth Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2348018,
+     37.8181111
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Harvard Road",
+     "Portsmouth Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2340514,
+     37.8188938
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oakmont Avenue",
+     "Prospect Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2332362,
+     37.8166783
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Harvard Road",
+     "Oakmont Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2288475,
+     37.8125596
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clarendon Crescent",
+     "Mandana Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2239683,
+     37.8143421
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ashmount Avenue",
+     "Clarendon Crescent"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2308026,
+     37.8246361
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highland Avenue",
+     "Highland Way",
+     "Mountain Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2278932,
+     37.8256172
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dormidera Avenue",
+     "Sharon Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2275276,
+     37.8239692
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mountain Avenue",
+     "Sharon Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2411698,
+     37.819794
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sylvan Way",
+     "Wildwood Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2234184,
+     37.8219943
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lakeview Avenue",
+     "Sea View Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2251561,
+     37.8219954
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lakeview Avenue",
+     "Poplar Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2258692,
+     37.8219975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lakeview Avenue",
+     "Richardson Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2364149,
+     37.8172925
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Harvard Road",
+     "Ranleigh Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2349374,
+     37.8188312
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Portsmouth Road",
+     "Ranleigh Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2180911,
+     37.8171491
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Saint James Circle",
+     "Saint James Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2479932,
+     37.8251999
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kingston Avenue",
+     "Linda Avenue",
+     "Rose Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2445433,
+     37.828124
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brandon Street",
+     "Rose Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24336,
+     37.8282456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arroyo Avenue",
+     "Lower Grand Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.243075,
+     37.8282859
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arroyo Avenue",
+     "Manor Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2426318,
+     37.8283479
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arroyo Avenue",
+     "York Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2414795,
+     37.8285048
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arroyo Avenue",
+     "Ricardo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2424558,
+     37.8230644
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arbor Drive",
+     "Oakland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2382571,
+     37.8221978
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arbor Drive",
+     "Jerome Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2338566,
+     37.8279908
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highland Avenue",
+     "Pala Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2328149,
+     37.8282533
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mesa Avenue",
+     "Pala Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2317836,
+     37.8285076
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Monte Avenue",
+     "Pala Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2313252,
+     37.8297895
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pala Avenue",
+     "Park Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2458081,
+     37.8239177
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Howard Avenue",
+     "Nace Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2191966,
+     37.8187674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "La Salle Avenue",
+     "La Salle Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2403994,
+     37.8253164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Way",
+     "Latham Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2396656,
+     37.8239304
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Latham Street",
+     "Oakland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.235316,
+     37.823041
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hillside Court",
+     "Magnolia Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2345186,
+     37.8232019
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hillside Avenue",
+     "Magnolia Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2394367,
+     37.8202283
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mackinnon Place",
+     "Magnolia Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2383663,
+     37.8205019
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Magnolia Avenue",
+     "Park View Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2380425,
+     37.8215346
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Larmer Court",
+     "Magnolia Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2451187,
+     37.8232667
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Way",
+     "Howard Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2447022,
+     37.8223909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Howard Avenue",
+     "Oakland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2329099,
+     37.8262499
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highland Avenue",
+     "Oakland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2193222,
+     37.8196949
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Alpine Road",
+     "Hampton Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2204687,
+     37.8220686
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Alpine Road",
+     "Indian Gulch Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2368032,
+     37.8204243
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Palm Drive",
+     "Park View Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2366058,
+     37.8202192
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Park View Avenue",
+     "Winsor Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2151031,
+     37.8179051
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marlborough Court",
+     "Sandringham Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2336212,
+     37.8169542
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Annerley Road",
+     "Harvard Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2228754,
+     37.8152582
+    ]
+   },
+   "properties": {
+    "streets": [
+     "La Salle Avenue",
+     "Sea View Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2239865,
+     37.8152613
+    ]
+   },
+   "properties": {
+    "streets": [
+     "King Avenue",
+     "La Salle Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2252349,
+     37.8152545
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Crocker Avenue",
+     "La Salle Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2264595,
+     37.8155176
+    ]
+   },
+   "properties": {
+    "streets": [
+     "La Salle Avenue",
+     "Muir Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2278103,
+     37.8159278
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Florada Avenue",
+     "La Salle Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2199142,
+     37.8175161
+    ]
+   },
+   "properties": {
+    "streets": [
+     "La Salle Avenue",
+     "Saint James Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2185499,
+     37.8192494
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hampton Road",
+     "La Salle Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2163966,
+     37.8225273
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Crest Road",
+     "La Salle Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2325297,
+     37.8277145
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "Hardwick Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2269162,
+     37.8278095
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alta Avenue",
+     "Blair Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2398609,
+     37.8194094
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Palm Drive",
+     "Wildwood Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2384621,
+     37.8194317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Palm Drive",
+     "Wallace Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2231941,
+     37.8271061
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "Blair Place"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2227395,
+     37.8271728
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Place",
+     "Calvert Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2292825,
+     37.825313
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dormidera Avenue",
+     "Mountain Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.227065,
+     37.8256534
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dormidera Avenue",
+     "Pacific Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2477663,
+     37.8250015
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kingston Avenue",
+     "Linda Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2256917,
+     37.8310368
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Maxwelton Road",
+     "Nellie Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2330567,
+     37.8308152
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Monte Avenue",
+     "Moraga Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2322968,
+     37.8294433
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Monte Avenue",
+     "Park Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2252259,
+     37.8185338
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Crocker Avenue",
+     "Woodland Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2257757,
+     37.8184692
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Wildwood Gardens",
+     "Woodland Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2260013,
+     37.8180631
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Wistaria Way",
+     "Woodland Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.232017,
+     37.8265015
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hardwick Avenue",
+     "Oakland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.224495,
+     37.8230828
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bellevue Avenue",
+     "Mountain Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2253064,
+     37.8252078
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bellevue Avenue",
+     "Pacific Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2384165,
+     37.8293352
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Estrella Avenue",
+     "Ramona Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2365223,
+     37.8305657
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bonita Avenue",
+     "Estrella Avenue",
+     "Moraga Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2148121,
+     37.8127499
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Leimert Boulevard",
+     "Park Boulevard",
+     "Saint James Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2234677,
+     37.8270584
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "Dudley Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2228033,
+     37.8256687
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dudley Avenue",
+     "Dudley Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2227475,
+     37.8240987
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dudley Avenue",
+     "Littlewood Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2229366,
+     37.8234069
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dudley Avenue",
+     "Mountain Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2429917,
+     37.8242927
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Way",
+     "Grand Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2405393,
+     37.8263044
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Artuna Avenue",
+     "Ricardo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.237608,
+     37.8184652
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Warfield Avenue",
+     "Winsor Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2339243,
+     37.8181618
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Harvard Road",
+     "Prospect Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2337456,
+     37.819347
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Prospect Drive",
+     "Prospect Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2171603,
+     37.8164526
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sandringham Road",
+     "Selborne Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2143876,
+     37.8157308
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Estates Drive",
+     "Selborne Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2307172,
+     37.824906
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highland Avenue",
+     "Mountain Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2300063,
+     37.825685
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Craig Avenue",
+     "Mountain Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.229673,
+     37.8256909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mountain Avenue",
+     "Pacific Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.226976,
+     37.8233217
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Caperton Avenue",
+     "Mountain Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2269118,
+     37.8304106
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Echo Lane",
+     "Maxwelton Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2252103,
+     37.8299617
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Maxwelton Road",
+     "Moraga Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2344452,
+     37.8273527
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "Waldo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2252329,
+     37.8143464
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ashmount Avenue",
+     "Mandana Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2231824,
+     37.8143517
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ashmount Avenue",
+     "Sea View Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2339662,
+     37.8200567
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Prospect Road",
+     "Wildwood Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.242265,
+     37.8259388
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Holly Place",
+     "Manor Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2416922,
+     37.8248382
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Way",
+     "Manor Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2237316,
+     37.8228539
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mountain Avenue",
+     "Sea View Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2234332,
+     37.8215536
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lincoln Avenue",
+     "Sea View Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2228672,
+     37.8177115
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hampton Road",
+     "Sea View Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2228681,
+     37.8165834
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Farragut Avenue",
+     "Sea View Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2428398,
+     37.8255579
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Holly Place",
+     "Lower Grand Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2415897,
+     37.8261488
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Holly Place",
+     "York Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2141488,
+     37.8151044
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Estates Drive",
+     "Wyngaard Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2160995,
+     37.8147119
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sandringham Road",
+     "Wyngaard Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2208905,
+     37.818523
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hampton Road",
+     "Saint James Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2404033,
+     37.8260793
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Cerrito Avenue",
+     "Ricardo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2400375,
+     37.8254519
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Way",
+     "Ricardo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2398835,
+     37.8252155
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "Ricardo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.224614,
+     37.8213727
+    ]
+   },
+   "properties": {
+    "streets": [
+     "King Avenue",
+     "Lincoln Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2420203,
+     37.8247177
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Way",
+     "Jerome Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2401768,
+     37.8237482
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jerome Avenue",
+     "Oakland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2400802,
+     37.8235117
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fairview Avenue",
+     "Jerome Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2393532,
+     37.8227652
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jerome Avenue",
+     "Nova Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2360252,
+     37.822009
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Cerrito Avenue",
+     "Jerome Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2239795,
+     37.8181413
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hampton Road",
+     "King Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2239889,
+     37.8165863
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Farragut Avenue",
+     "King Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2387462,
+     37.8226566
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jerome Avenue",
+     "Keefer Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2272957,
+     37.8223452
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Caperton Avenue",
+     "Richardson Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2351615,
+     37.8271204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "Bonita Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2343141,
+     37.8257645
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bonita Avenue",
+     "Oakland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2426525,
+     37.8295098
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ramona Avenue",
+     "Ronada Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2394151,
+     37.8298877
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Monticello Avenue",
+     "Ronada Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2225727,
+     37.814189
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Indian Road",
+     "Sunnyhills Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2410263,
+     37.8250861
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Way",
+     "York Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2340056,
+     37.8304223
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mesa Avenue",
+     "Moraga Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2332964,
+     37.8291125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mesa Avenue",
+     "Park Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2257288,
+     37.8188336
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Wildwood Gardens",
+     "Wistaria Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2162229,
+     37.8174718
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sandringham Place",
+     "Sandringham Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.214735,
+     37.8181721
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hampton Road",
+     "Sandringham Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2170302,
+     37.8158031
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambrian Avenue",
+     "Sandringham Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2139826,
+     37.8144439
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Estates Drive",
+     "Sandringham Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2248383,
+     37.8265637
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hagar Avenue",
+     "Mountain Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2398975,
+     37.8272636
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Monticello Avenue",
+     "Park Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2364236,
+     37.8270175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "Hillside Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2356447,
+     37.8253016
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hillside Avenue",
+     "Oakland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2325369,
+     37.8255702
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Craig Avenue",
+     "Highland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2252253,
+     37.8165846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Crocker Avenue",
+     "Farragut Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2315277,
+     37.8164697
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oak Road",
+     "Park Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2185578,
+     37.8144682
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Croydon Circle",
+     "Saint James Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2447207,
+     37.8188327
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grand Avenue",
+     "Wildwood Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2127561,
+     37.8177515
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Estates Drive",
+     "Hampton Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2393035,
+     37.825465
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "San Carlos Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2387629,
+     37.8242391
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oakland Avenue",
+     "San Carlos Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2243843,
+     37.8230463
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mountain Avenue",
+     "Poplar Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2285673,
+     37.8200198
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Wildwood Avenue",
+     "Wildwood Gardens"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2407119,
+     37.8227568
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dale Avenue",
+     "Fairview Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2400519,
+     37.8218178
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dale Avenue",
+     "Nova Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.222832,
+     37.8273052
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "Calvert Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2135729,
+     37.8168525
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Estates Drive",
+     "Inverleith Terrace"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2312447,
+     37.8314674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Moraga Avenue",
+     "Pala Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2434861,
+     37.8227496
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grand Avenue",
+     "Oakland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2295268,
+     37.8200266
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highland Avenue",
+     "Wildwood Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2270828,
+     37.8200158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sheridan Avenue",
+     "Wildwood Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2252192,
+     37.8188728
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Crocker Avenue",
+     "Hampton Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2252326,
+     37.8147033
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Crocker Avenue",
+     "Mandana Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2315209,
+     37.8243982
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highland Avenue",
+     "Magnolia Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2442486,
+     37.8283608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grand Avenue",
+     "Pleasant Valley Avenue",
+     "Ronada Avenue",
+     "Rose Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2251515,
+     37.8268344
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "Mountain Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2400983,
+     37.8291107
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Monticello Avenue",
+     "Ramona Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2223827,
+     37.8275873
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "Harbord Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2151674,
+     37.8122894
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Park Boulevard",
+     "Trestle Glen Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2442009,
+     37.8284981
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Parkside Drive",
+     "Ronada Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2330851,
+     37.8235942
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bonita Avenue",
+     "Magnolia Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2438586,
+     37.8215789
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grand Avenue",
+     "Linda Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.229524,
+     37.821304
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Caperton Avenue",
+     "Highland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2352849,
+     37.830573
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highland Avenue",
+     "Moraga Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.232251,
+     37.8250608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highland Avenue",
+     "Highland Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2444108,
+     37.8198256
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fairview Avenue",
+     "Grand Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2376419,
+     37.8186877
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Wallace Road",
+     "Winsor Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2388298,
+     37.8305408
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Monticello Avenue",
+     "Moraga Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2431734,
+     37.8300408
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Moraga Avenue",
+     "Ramona Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2295143,
+     37.8220724
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highland Avenue",
+     "Sheridan Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.221839,
+     37.8179684
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hampton Road",
+     "Indian Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23834,
+     37.8258815
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "El Cerrito Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.236999,
+     37.8266162
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "Dracena Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2360455,
+     37.8295447
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bonita Avenue",
+     "Ramona Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2111107,
+     37.8198175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Estates Drive",
+     "Somerset Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.247198,
+     37.8242201
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lake Avenue",
+     "Linda Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2469627,
+     37.8239377
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lake Avenue",
+     "Linda Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2295234,
+     37.8210923
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hazel Lane",
+     "Highland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2295235,
+     37.8210021
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hazel Lane",
+     "Highland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22751654999999,
+     37.822058299999995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Caperton Avenue",
+     "Sheridan Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2433149,
+     37.8181343
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Boulevard Way",
+     "Crofton Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2400125,
+     37.8184846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Boulevard Way",
+     "Crofton Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2138585,
+     37.8185311
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hampton Road",
+     "Inverleith Terrace"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2139202,
+     37.8183966
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hampton Road",
+     "Inverleith Terrace"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2364282,
+     37.8230566
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Cerrito Avenue",
+     "Magnolia Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2365132,
+     37.8227743
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Cerrito Avenue",
+     "Magnolia Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2185562,
+     37.8154516
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambrian Avenue",
+     "Saint James Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2184569,
+     37.8156228
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambrian Avenue",
+     "Saint James Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2292657,
+     37.8278325
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "Scenic Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2287105,
+     37.8276842
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "Scenic Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2244134,
+     37.8269448
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "Scenic Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2322533,
+     37.8174977
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oak Road",
+     "Oakmont Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2320681,
+     37.8172705
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oak Road",
+     "Oakmont Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2415849,
+     37.8223191
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arbor Drive",
+     "Fairview Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2414718,
+     37.8219832
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arbor Drive",
+     "Fairview Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2406723,
+     37.821263
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arbor Drive",
+     "Circle Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24034,
+     37.8211717
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arbor Drive",
+     "Circle Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2196024,
+     37.820226
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Alpine Road",
+     "Sotelo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.219283,
+     37.8236695
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Alpine Road",
+     "Sotelo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21942865,
+     37.8219911
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Alpine Road",
+     "Sotelo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2411585,
+     37.8202367
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Magnolia Avenue",
+     "Nova Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2409528,
+     37.8202652
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Magnolia Avenue",
+     "Nova Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2378379,
+     37.8217963
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jerome Avenue",
+     "Magnolia Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2374466,
+     37.8219843
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jerome Avenue",
+     "Magnolia Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2336477,
+     37.8276069
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "Highland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.233577,
+     37.8274773
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blair Avenue",
+     "Highland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2217678,
+     37.8152582
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Indian Road",
+     "La Salle Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2215947,
+     37.8156659
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Indian Road",
+     "La Salle Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2428238,
+     37.8248315
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grand Avenue",
+     "Lower Grand Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2429065,
+     37.8251308
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grand Avenue",
+     "Lower Grand Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23759394999999,
+     37.8184674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Wildwood Avenue",
+     "Winsor Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2162166,
+     37.8200465
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Huntleigh Road",
+     "Lexford Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2137875,
+     37.8191403
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Huntleigh Road",
+     "Lexford Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2280234,
+     37.8287374
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alta Avenue",
+     "Scenic Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2293604,
+     37.8295932
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alta Avenue",
+     "Scenic Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2267373,
+     37.8252301
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hagar Avenue",
+     "Pacific Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2253144,
+     37.8264906
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hagar Avenue",
+     "Pacific Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22948,
+     37.8231964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Guilford Road",
+     "Highland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2294932,
+     37.8224993
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Guilford Road",
+     "Highland Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2404107,
+     37.8285882
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arroyo Avenue",
+     "Monticello Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2404472,
+     37.8287578
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arroyo Avenue",
+     "Monticello Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2155483,
+     37.8188712
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hampton Road",
+     "Huntleigh Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2153351,
+     37.8188151
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hampton Road",
+     "Huntleigh Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2424344,
+     37.8198802
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Nova Drive",
+     "Wildwood Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.241595,
+     37.8201368
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Nova Drive",
+     "Wildwood Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2406209,
+     37.8210813
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Circle Road",
+     "Nova Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.240431,
+     37.8213191
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Circle Road",
+     "Nova Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2174245,
+     37.8186668
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hampton Road",
+     "Lexford Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2169847,
+     37.818707
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hampton Road",
+     "Lexford Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24386899999999,
+     37.828156199999995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arroyo Avenue",
+     "Grand Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2170769,
+     37.8229461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "La Salle Avenue",
+     "Tyson Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2167127,
+     37.8227055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "La Salle Avenue",
+     "Tyson Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2368676,
+     37.8224637
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Magnolia Avenue",
+     "San Carlos Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.236954,
+     37.8223819
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Magnolia Avenue",
+     "San Carlos Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2290392,
+     37.8308162
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Moraga Avenue",
+     "Red Rock Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2287727,
+     37.8306103
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Moraga Avenue",
+     "Red Rock Road"
+    ]
+   }
+  }
+ ]
+}

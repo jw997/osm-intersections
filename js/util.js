@@ -40,8 +40,19 @@ async function getCityBoundary() {
 
 const cityGeoJson = await getCityBoundary();
 
+const countyBoundariesGeoJson = await getJson('./data/osm-boundaries/AlamedaCounty_And_Children.geojson');
+
+/*
+
+
+*/
+
+
 async function getIntersections() {
-	const file = './data/intersections.geojson';
+	//const file = './data/intersections.geojson';
+	//const file = './data/intersections_berkeley.geojson';
+	//const file = './data/intersections_oakland.geojson';
+	const file = './data/intersections/intersections_alamedacounty.geojson';
 	const interJson = await getJson(file);
 	return interJson;
 }
@@ -100,7 +111,15 @@ function createMap() {
 createMap();
 
 // add city boundary to map
-L.geoJSON(cityGeoJson, { fillOpacity: 0.05 }).addTo(map);
+//L.geoJSON(cityGeoJson, { fillOpacity: 0.05 }).addTo(map);
+
+for (const boundaryFeature of countyBoundariesGeoJson.features) {
+	const prop = boundaryFeature.properties;
+	const name = prop.name;
+	if (prop.boundary == 'administrative') {
+		L.geoJSON(boundaryFeature, { fillOpacity: 0.05 }).bindPopup(name).addTo(map);
+	}
+}
 
 const resizeObserver = new ResizeObserver(() => {
 	console.log("resize observer fired");

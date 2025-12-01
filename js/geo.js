@@ -16,6 +16,11 @@ const JUNCTION = 'JUNCTION';
 const metersPerDegree = 100000;
 
 
+// commmand line args
+const inputFile = process.argv[2]
+const outputFile = process.argv[3]
+
+console.log("input:" ,inputFile, "output:", outputFile)
 /* 
 Function to generate geojson
 */
@@ -565,7 +570,7 @@ function findintersections(ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
 	var obj = { intersections: [] }
 	for (const [int, data] of setOfIntersections) {
 
-		if (inBerkeley({ lon: data.lon, lat: data.lat })) {
+		if (true || inBerkeley({ lon: data.lon, lat: data.lat })) {
 			//console.log(gps, int);
 			const intersection = { coordinates: [data.lat, data.lon], raw: int, streets: clean(int), nodeId: data.nodeId };
 			obj.intersections.push(intersection);
@@ -644,14 +649,16 @@ const landBoundaryJson = JSON.parse(readFileSync('./data/cityboundary/Land_Bound
 const cityBoundaryFeature = landBoundaryJson.features[0];  // geojson feature
 var cityPoly = polygon(cityBoundaryFeature.geometry.coordinates); // turf polygon
 
-var wayJson = JSON.parse(readFileSync('./data/ways.json', 'utf8'));
+//var wayJson = JSON.parse(readFileSync('./data/ways_alamedacounty.json', 'utf8'));
+var wayJson = JSON.parse(readFileSync(inputFile, 'utf8'));
 var wayData = initWayData(wayJson);
 findDeadEnds(wayJson);
 
 const obj = findintersections(wayData);
 
 const geoJson = makeIntersectionGeoJson(obj.intersections);
-writeFileSync('./data/intersections.geojson', JSON.stringify(geoJson, null, ' '));
+//writeFileSync('./data/intersections_alamedacounty.geojson', JSON.stringify(geoJson, null, ' '));
+writeFileSync(outputFile, JSON.stringify(geoJson, null, ' '));
 
 /*
 function distGpsGeometry(gps, geom) {  // geom is array of gps points
