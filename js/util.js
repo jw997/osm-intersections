@@ -48,11 +48,11 @@ const countyBoundariesGeoJson = await getJson('./data/osm-boundaries/AlamedaCoun
 */
 
 
-async function getIntersections() {
+async function getIntersections(name) {
 	//const file = './data/intersections.geojson';
 	//const file = './data/intersections_berkeley.geojson';
 	//const file = './data/intersections_oakland.geojson';
-	const file = './data/intersections/intersections_alamedacounty.geojson';
+	const file = './data/intersections/intersections_'+name+'.json';
 	const interJson = await getJson(file);
 	return interJson;
 }
@@ -84,9 +84,12 @@ const LongitudeDefault = -122.27;
 
 */
 
-const interJson = await getIntersections();
+const interJson = await getIntersections('albany');
 
 var map;
+
+const overlays=[];
+var layerControl ;
 
 function createMap() {
 	// Where you want to render the map.
@@ -106,22 +109,45 @@ function createMap() {
 	// Set map's center to target with zoom 14.
 	map.setView(target, 14);
 	// add geojson precincts to map
+
+	layerControl=L.control.layers(null, overlays, { collapsed: true, position: 'topright' }).addTo(map);
+
 }
 
 createMap();
 
 // add city boundary to map
 //L.geoJSON(cityGeoJson, { fillOpacity: 0.05 }).addTo(map);
+const cityNames = new Set();
+const mapCityToLayerGroup = new Map();
 
+function stdizeCityName(name) {
+	return name.toLowerCase().trim().replaceAll(' ','');
+}
 for (const boundaryFeature of countyBoundariesGeoJson.features) {
 	const prop = boundaryFeature.properties;
 	const name = prop.name;
+
+
+
 	if (prop.boundary == 'administrative') {
 		console.log("level ", prop.admin_level, name);
-		if (8 == prop.admin_level) { // cities only
-			L.geoJSON(boundaryFeature, { fillOpacity: 0.05 }).bindPopup(name).addTo(map);
+		if (8 == prop.admin_level || 6 == prop.admin_level) { // cities and county only	
+			var markerLayer = L.layerGroup();
+			mapCityToLayerGroup.set(stdizeCityName(name), markerLayer);
+
+			//layerControl.addOverlay( markerLayer, name);
+			
+
+			L.geoJSON(boundaryFeature, { fillOpacity: 0.05 }).bindPopup(name).addTo(markerLayer);
+			cityNames.add(name);
 		}
 	}
+}
+
+const markerCities = Array.from(mapCityToLayerGroup.keys()).sort();
+for (const name of markerCities) {
+	layerControl.addOverlay( mapCityToLayerGroup.get(name), name);
 }
 
 const resizeObserver = new ResizeObserver(() => {
@@ -140,8 +166,8 @@ function removeAllMakers() {
 	}
 }
 
-function addMarkers(intersections) {
-	removeAllMakers();
+function addMarkers(intersections, layerGroup) {
+	//removeAllMakers();
 	//const markersAtLocation = new Map();
 	// add collisions to map
 	var markerCount = 0
@@ -170,8 +196,11 @@ function addMarkers(intersections) {
 		} else {
 			marker.bindPopup(msg).openPopup();
 		}
-
-		marker.addTo(map);
+        if (layerGroup ) {
+			marker.addTo(layerGroup);
+		} else {
+			marker.addTo(map)
+		}
 		markers.push(marker);
 		markerCount++;
 
@@ -179,7 +208,22 @@ function addMarkers(intersections) {
 	console.log("markerCount ", markerCount)
 }
 
-addMarkers(interJson.features);
+//addMarkers(interJson.features);
+
+for (const name of cityNames) {
+	const intersectionsGeoJson = await getIntersections( stdizeCityName(name));
+	if (intersectionsGeoJson) {
+		console.log("name", name , intersectionsGeoJson.features.length)
+		const lg = mapCityToLayerGroup.get(stdizeCityName(name))
+		addMarkers(intersectionsGeoJson.features,lg);
+	} else {
+		console.log("no intersections found for ", name)
+	}
+
+}
+
+mapCityToLayerGroup.get("berkeley").addTo(map);
+
 
 export {
 	map
