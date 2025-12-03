@@ -1,0 +1,5306 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2496331,
+     39.708051
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beckwith Road",
+     "Sierra Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8252227,
+     39.5670409
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Bluff Road",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4459476,
+     39.6635262
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cedar Lane",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5899527,
+     39.6159951
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Edna Drive",
+     "Green Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5866107,
+     39.6168258
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Edna Drive",
+     "Patrica Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.885023,
+     39.5400008
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mountain House Road",
+     "Old Toll Bridge Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.883117,
+     39.541692
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old Toll Bridge Road",
+     "Pebble Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8513662,
+     39.490279
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "School Street",
+     "Water Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8423857,
+     39.4732791
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hells Half Acre",
+     "Mammoth Springs Road",
+     "North Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9238583,
+     39.4930837
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Henness Pass Road",
+     "Miller Ranch Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8196217,
+     39.5077267
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Henness Pass Road",
+     "Ridge Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5304499,
+     39.5058723
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Henness Pass Road",
+     "Pass Creek Loop Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0067855,
+     39.5247165
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Deer Water Drive",
+     "Dog Valley Road",
+     "Hill Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0105447,
+     39.5242551
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dog Valley Road",
+     "Feenune Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0128245,
+     39.5243544
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dog Valley Road",
+     "Sunrise Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.285356,
+     39.4908058
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Henness Pass Road",
+     "Old Fibreboard Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.838096,
+     39.466226
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kanaka Creek Road",
+     "Plumbago Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4418546,
+     39.6631257
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mount View Drive",
+     "Mount View Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8492462,
+     39.4832474
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hells Half Acre",
+     "Pliocene Ridge Road",
+     "Ridge Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.827956,
+     39.497437
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pliocene Ridge Road",
+     "Ridge Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6316751,
+     39.6538524
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Lake Highway",
+     "Salmon Lake Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6319553,
+     39.6538278
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Salmon Lake Road",
+     "Van Ness Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2466269,
+     39.6745799
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Granite Avenue",
+     "Taylor Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2498019,
+     39.6745777
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Granite Avenue",
+     "Hill Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8433706,
+     39.4716191
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "Plaza Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9894401,
+     39.5434288
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cal Ida-Scales Road",
+     "Eureka Mine Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.01758,
+     39.526268
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brandy City Road",
+     "Eureka Mine Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.522787,
+     39.657528
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chapman Saddle Road",
+     "Haskell Peak Road",
+     "Mohawk-Chapman Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.628842,
+     39.650846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Lake Highway",
+     "Haskell Peak Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.617648,
+     39.680402
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Church Creek Road",
+     "Howard Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.389687,
+     39.485585
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fibreboard Road",
+     "Lake of the Woods Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4105148,
+     39.5078215
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lake of the Woods Road",
+     "South Bonta Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.915539,
+     39.740362
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gibson Creek",
+     "Quincy la Porte Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9101361,
+     39.7424198
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Johnsville-McRae Road",
+     "Quincy la Porte Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4287371,
+     39.4907679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Henness Pass Road",
+     "Meadow Lake Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0067737,
+     39.5271635
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Deer Water Drive",
+     "Pine Cone Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.359227,
+     39.588359
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street",
+     "Lemon Canyon Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.238756,
+     39.675598
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alleghany Street",
+     "East Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.239716,
+     39.675662
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allegany Street",
+     "East Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.240026,
+     39.675677
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alexander Lane",
+     "East Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0078959,
+     39.4219175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pike Short Cut",
+     "Ridge Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.013432,
+     39.4242919
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pike City Road",
+     "Pike Short Cut"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2466051,
+     39.6757593
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "Willow Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.247979,
+     39.6757308
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gulling Avenue",
+     "Main Street",
+     "Willow Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4356641,
+     39.6625145
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meadow Ranch Court",
+     "Meadow Ranch Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.238779,
+     39.674003
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alleghany Street",
+     "Mill Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.238794,
+     39.674838
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alleghany Street",
+     "East Lewis Street",
+     "Lewis Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3670589,
+     39.5895759
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street",
+     "South Lincoln Street",
+     "West Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2460677,
+     39.6758135
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "West Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.245105,
+     39.675918
+    ]
+   },
+   "properties": {
+    "streets": [
+     "4th Street",
+     "West Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.244077,
+     39.676019
+    ]
+   },
+   "properties": {
+    "streets": [
+     "3rd Street",
+     "Main Street",
+     "West Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.245509,
+     39.673697
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Patterson Avenue",
+     "Patterson Gr"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4337344,
+     39.6631777
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meadow Ranch Road",
+     "Wanda Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2498056,
+     39.6736769
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hill Street",
+     "Patterson Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2466313,
+     39.6736751
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Patterson Avenue",
+     "Taylor Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6337217,
+     39.5672225
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hansen Lane",
+     "Sacred Mound Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4489283,
+     39.6630151
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Aspen Court",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3680198,
+     39.5866571
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jean Lane",
+     "South Lincoln Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8249239,
+     39.5630616
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East River Street",
+     "Pearl Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8243509,
+     39.5642296
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bailey Ranch Road",
+     "East River Street",
+     "Johnson Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6197559,
+     39.5735719
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lewis Lane",
+     "Nevada Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6185209,
+     39.5725886
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Nevada Drive",
+     "Rainbow Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6176734,
+     39.5714976
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Nevada Drive",
+     "Tamarack Bend"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.210025,
+     39.641465
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Smithneck Road",
+     "West Sierra Brooks Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2111605,
+     39.6403263
+    ]
+   },
+   "properties": {
+    "streets": [
+     "West Sierra Brooks Drive",
+     "Wrangler Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.216364,
+     39.6383396
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pinto Trail",
+     "Roundup Drive",
+     "West Sierra Brooks Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.224074,
+     39.647823
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Antelope Valley Road",
+     "West Sierra Brooks Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6152594,
+     39.5717581
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forty-Niner Drive",
+     "Ostrom Way",
+     "Wild Plum Ridge Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.615632,
+     39.5743023
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forty-Niner Drive",
+     "Valhalla Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6158924,
+     39.5745079
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forty-Niner Drive",
+     "Squirrel-Hollow"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6162343,
+     39.5747853
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forty-Niner Drive",
+     "Mya Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6164691,
+     39.5750061
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forty-Niner Drive",
+     "Lewis Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.925946,
+     39.6088
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cal Ida-Scales Road",
+     "Magnolia Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.673218,
+     39.6165927
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Valley Road",
+     "Pauley Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3663497,
+     39.5894346
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street",
+     "Firehouse Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4440862,
+     39.6635221
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "Sierra Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.24171,
+     39.679151
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "Pine Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.240708,
+     39.679142
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North East Railroad Avenue",
+     "Pine Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0184799,
+     39.4181712
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pike City Road",
+     "Ridge Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.241728,
+     39.673978
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "Mill Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.241729,
+     39.674844
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "East Lewis Street",
+     "Lewis Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.241726,
+     39.675284
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "Lewis Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.241725,
+     39.675793
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.241718,
+     39.676534
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "School Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.241715,
+     39.677803
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "Church Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.241707,
+     39.67869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "Meeker Street",
+     "North 4th Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.241709,
+     39.67963
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "North 5th Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.241698,
+     39.680079
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "Cedar Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.241682,
+     39.680471
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "Court Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9230366,
+     39.4350164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Magnus Orchard Road",
+     "Tyler Foote Crossing Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.848418,
+     39.46399
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lower Road",
+     "Miners Street",
+     "Tyler Foote Crossing Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8484781,
+     39.4647477
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "Tyler Foote Crossing Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.932442,
+     39.472695
+    ]
+   },
+   "properties": {
+    "streets": [
+     "19N92",
+     "Tippie Canoe Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.63032,
+     39.5658593
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Busch Street",
+     "Church",
+     "Lake Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6308531,
+     39.5669183
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Church",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9170911,
+     39.5620753
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fiddle-Eureka Road",
+     "Forest Route 27"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4421839,
+     39.6634734
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Calpine Avenue",
+     "Mount View Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4398043,
+     39.6644419
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Calpine Avenue",
+     "Farrar Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4362139,
+     39.6655579
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Calpine Avenue",
+     "County Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.209055,
+     39.638468
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pinto Trail",
+     "Wrangler Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.241172,
+     39.674824
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Lewis Street",
+     "Front Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.240656,
+     39.675292
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Front Street",
+     "Lewis Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.240663,
+     39.675787
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Front Street",
+     "Main Street",
+     "Railroad Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8296973,
+     39.558707
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Galloway Street",
+     "Nevada Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.241183,
+     39.673968
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Front Street",
+     "Mill Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4323496,
+     39.520995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Nichols Mill Road",
+     "Yuba Pass Road",
+     "Yuba Pass-Webber Lake Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.492783,
+     39.570873
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forest Route 54",
+     "Yuba Pass Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6155303,
+     39.6219655
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Packer Lake Road",
+     "Sardine Lake Rd;Packer Lake Rd",
+     "Sardine Lake Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2151239,
+     39.541885
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lemmon Canyon Road",
+     "Lemon Canyon Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2374366,
+     39.5570584
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cottonwood Road",
+     "Lemon Canyon Road",
+     "Windmill Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.34882,
+     39.585935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Campbell Hot Springs Road",
+     "Lemon Canyon Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.002986,
+     39.506114
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pine Road",
+     "Poplar Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.884514,
+     39.552731
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Coca Cola Avenue",
+     "Goodyear Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.443483,
+     39.66488
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Catfish Lane",
+     "Coates Avenue",
+     "Mount View Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0126152,
+     39.4173973
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Our House Dam Road",
+     "Ridge Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8340919,
+     39.557878
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "Saddleback Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2428156,
+     39.6758891
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2nd Street",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2498232,
+     39.6755474
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hill Street",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2466329,
+     39.6757561
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "Taylor Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.244014,
+     39.675623
+    ]
+   },
+   "properties": {
+    "streets": [
+     "3rd Street",
+     "Haggard Hagg",
+     "Haggard Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.242822,
+     39.675697
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2nd Street",
+     "Haggard Hagg"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.826247,
+     39.558342
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Belle Street",
+     "Commercial Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.239693,
+     39.674836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Lewis Street",
+     "Lewis Street",
+     "Railroad Avenue",
+     "South East Railroad Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.239715,
+     39.675637
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allegany Street",
+     "South East Railroad Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.248424,
+     39.678019
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jones Street",
+     "White Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6160533,
+     39.5687747
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ostrom Way",
+     "Wild Plum Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8270372,
+     39.560816
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Maiden Lane",
+     "Main Street",
+     "School Street",
+     "White Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8286747,
+     39.5605833
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Maiden Lane",
+     "Sunnyside Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8434406,
+     39.4695702
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "Miners Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6164369,
+     39.5729532
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Rainbow Circle",
+     "Tamarack Bend"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.907615,
+     39.6059415
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Eureka Road",
+     "Forest Route 27"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2498101,
+     39.6731055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cemetery Road",
+     "Hill Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3769226,
+     39.5793925
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cemetery Road",
+     "West Willow Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6340438,
+     39.5658883
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "Spring Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6317872,
+     39.5654953
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Busch Street",
+     "Spring Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7849799,
+     39.6025625
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Craycroft Ridge Road",
+     "Lavezzola Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6349201,
+     39.5674701
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Butte Avenue",
+     "Sacred Mound Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5897721,
+     39.6149903
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forest Route 54",
+     "Green Road",
+     "Patrica Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.921599,
+     39.460842
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Magnus Orchard Road",
+     "Ridge Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.237029,
+     39.558097
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Windmill Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.884981,
+     39.553619
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Goodyear Creek Road",
+     "Winnie Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9682323,
+     39.4448203
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Camptonville Road",
+     "Ridge Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8108729,
+     39.5083731
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Galloway Road",
+     "Henness Pass Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.205832,
+     39.63714
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mustang Trail",
+     "Wrangler Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.242805,
+     39.673994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2nd Street",
+     "Mill Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.242838,
+     39.674858
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2nd Street",
+     "Lewis Avenue",
+     "Lewis Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8433019,
+     39.4727727
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kanaka Creek Road",
+     "Main Street",
+     "North Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8538335,
+     39.4892638
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "Mountain House Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9301902,
+     39.4698922
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oregon Creek Road",
+     "Tippie Canoe Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.939042,
+     39.4586866
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oregon Creek Road",
+     "Ridge Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6290447,
+     39.5671138
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Maple Grove Lane",
+     "Oak Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.245086,
+     39.678693
+    ]
+   },
+   "properties": {
+    "streets": [
+     "4th Street",
+     "Meeker Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.245286,
+     39.677806
+    ]
+   },
+   "properties": {
+    "streets": [
+     "4th Street",
+     "Church Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.245267,
+     39.676742
+    ]
+   },
+   "properties": {
+    "streets": [
+     "4th Street",
+     "Beckwith Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.245003,
+     39.675602
+    ]
+   },
+   "properties": {
+    "streets": [
+     "4th Street",
+     "Haggard Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.242824,
+     39.676973
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2nd Street",
+     "Beckwith Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.240696,
+     39.677789
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Church Street",
+     "Railroad Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.241292,
+     39.677808
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beckwith",
+     "Church Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.242813,
+     39.677797
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2nd Street",
+     "Church Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2439338,
+     39.6778017
+    ]
+   },
+   "properties": {
+    "streets": [
+     "3rd Street",
+     "Church Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.246739,
+     39.677495
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Church Street",
+     "Zollinger Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.828731,
+     39.5609765
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Church Street",
+     "Sunnyside Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.776971,
+     39.498785
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Henness Pass Road",
+     "Lafayette Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.829559,
+     39.559042
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Durgan Flat Way",
+     "Nevada Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8294928,
+     39.5593363
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Nevada Street",
+     "River Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.242805,
+     39.67869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2nd Street",
+     "Meeker Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2439244,
+     39.6786849
+    ]
+   },
+   "properties": {
+    "streets": [
+     "3rd Street",
+     "Meeker Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.247328,
+     39.678696
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meeker Street",
+     "Zollinger Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.243876,
+     39.674954
+    ]
+   },
+   "properties": {
+    "streets": [
+     "3rd Street",
+     "Lewis Avenue",
+     "West 3rd Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3874943,
+     39.5815042
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Amodei Ranch Road",
+     "West Willow Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8256948,
+     39.5659306
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "Oxford Mine Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.204619,
+     39.637787
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Smithneck Road",
+     "Wrangler Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.207463,
+     39.637117
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Buckskin Trail",
+     "Wrangler Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2981489,
+     39.4922663
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fibreboard Road",
+     "Old Fibreboard Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4122188,
+     39.4973995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fibreboard Road",
+     "Yuba Pass-Webber Lake Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.26116,
+     39.682775
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Poole Lane",
+     "Selma Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6107452,
+     39.62099
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Lake Highway",
+     "Sardine Lake Rd;Packer Lake Rd"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.24882,
+     39.677898
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beckwith Road",
+     "Jones Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.247183,
+     39.678408
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jones Street",
+     "Zollinger Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0963036,
+     39.4831396
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dog Valley Road",
+     "Stampede Dam Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.827704,
+     39.559512
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Commercial Street",
+     "Pearl Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2752063,
+     39.6672654
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Moss Drive",
+     "Woods Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.249669,
+     39.682767
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beckwith Road",
+     "Poole Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2745035,
+     39.6706576
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Moss Drive",
+     "Sage Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3688493,
+     39.5747826
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old Truckee Road",
+     "South Lincoln Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.240199,
+     39.67484
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Lewis Street",
+     "Lewis Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9409987,
+     39.6649359
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Port Wine Ridge Road",
+     "Queen City Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.930741,
+     39.6948514
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Port Wine Ridge Road",
+     "Saint Louis Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8789274,
+     39.716924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Poker Flat Road",
+     "Port Wine Ridge Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4412552,
+     39.6657872
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Coates Avenue",
+     "Farrar Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4401648,
+     39.6667059
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Civic Way",
+     "Coates Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4390973,
+     39.6675669
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Coates Avenue",
+     "County Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2437,
+     39.673988
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mill Street",
+     "West 3rd Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.884849,
+     39.553271
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Goodyear Creek Road",
+     "Hogan Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0027715,
+     39.5054241
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sierra Lane",
+     "Trelease Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8857147,
+     39.5422422
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Goodyear Creek Road",
+     "Mountain House Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.885389,
+     39.544687
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Goodyear Creek Road",
+     "Post Office Spur Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.884212,
+     39.551573
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Goodyear Creek Road",
+     "Rollins Ranch Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.442223,
+     39.651661
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mount Quail Road",
+     "Mtn Quail Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.629972,
+     39.68199
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Church Meadow Road",
+     "Mills Peak Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6535766,
+     39.6236461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Valley Road",
+     "Packer Lake Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4122406,
+     39.4998817
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Bonta Road",
+     "Yuba Pass-Webber Lake Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.409136,
+     39.6651
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Calpine Road",
+     "Westside Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03111,
+     39.498446
+    ]
+   },
+   "properties": {
+    "streets": [
+     "47 Road",
+     "Oak Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.828286,
+     39.56133
+    ]
+   },
+   "properties": {
+    "streets": [
+     "School Street",
+     "Sunnyside Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8278135,
+     39.5620573
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ponta Ranch Road",
+     "Sunnyside Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8286626,
+     39.5603352
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "Sunnyside Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.240636,
+     39.676962
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beckwith",
+     "Railroad Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6226142,
+     39.6796453
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Church Creek Road",
+     "Church Meadow Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8519315,
+     39.4644445
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "Ridge Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.785355,
+     39.551848
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jim Crow Canyon Creek Road",
+     "Jim Crow Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2496902,
+     39.6970326
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alexander Road",
+     "Beckwith Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2783927,
+     39.6724785
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pine Drive",
+     "Sage Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0062343,
+     39.6429001
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Green Gulch Road",
+     "Long Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.635447,
+     39.5656618
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Butte Street",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6355262,
+     39.5668228
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Butte Alley",
+     "Butte Avenue",
+     "Butte Street",
+     "Sierra Buttes Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.240624,
+     39.679612
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North 5th Street",
+     "North East Railroad Avenue",
+     "Railroad Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.249773,
+     39.67217
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hill Street",
+     "Holden Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5874324,
+     39.6161802
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Patrica Lane",
+     "Sierra Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0397244,
+     39.5489538
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dog Valley Road",
+     "Henness Pass Road",
+     "Long Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8489418,
+     39.4638545
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lower Road",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.240641,
+     39.67653
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Railroad Avenue",
+     "School Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.242821,
+     39.676539
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2nd Street",
+     "School Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3654426,
+     39.5903235
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mead Street",
+     "North Battelle Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.636357,
+     39.5655083
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Castagna Alley",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6364109,
+     39.5666319
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Butte Alley",
+     "Castagna Alley"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.239676,
+     39.673992
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mill Street",
+     "Railroad Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5913917,
+     39.6170799
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Lake Highway",
+     "Green Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4394406,
+     39.6662558
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Civic Way",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2171445,
+     39.642328
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Longhorn Drive",
+     "Roundup Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4394031,
+     39.6641415
+    ]
+   },
+   "properties": {
+    "streets": [
+     "B Street",
+     "Farrar Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.1434311,
+     39.5118843
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Henness Pass Road",
+     "Smithneck Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3700439,
+     39.577579
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Willow Street",
+     "South Lincoln Street",
+     "West Willow Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2824895,
+     39.5057635
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cottonwood Road",
+     "Fibreboard Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8533511,
+     39.4896125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "School Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6286436,
+     39.5676313
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Butte Avenue",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6378345,
+     39.5654313
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Butte Alley",
+     "Cemetery Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6292047,
+     39.5674425
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "Maple Grove Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6288511,
+     39.5666694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cedar Lane",
+     "Maple Grove Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6424194,
+     39.6881836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Frazier Falls Road",
+     "Gold Lake Highway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6216484,
+     39.5693762
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Wild Plum Ridge Road",
+     "Wild Plum Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.207433,
+     39.634863
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Longhorn Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0019079,
+     39.5199309
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hill Lane",
+     "Sylvan Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8256371,
+     39.5631588
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East River Street",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8227484,
+     39.5697257
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lavezzola Road",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3814342,
+     39.592692
+    ]
+   },
+   "properties": {
+    "streets": [
+     "West Main Street",
+     "Wilson Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6371997,
+     39.5653625
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cemetery Road",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6360659,
+     39.5655581
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hayes Road",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6268649,
+     39.5688192
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "Wild Plum Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8281342,
+     39.5603252
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Commercial Street",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8293222,
+     39.5603819
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "Nevada Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3622455,
+     39.5631795
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Nichols Mill Road",
+     "Old Truckee Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8818672,
+     39.7526573
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Johnsville-McRae Road",
+     "Poker Flat Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.221554,
+     39.651605
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Antelope Valley Road",
+     "Smithneck Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2027018,
+     39.6355497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Smithneck Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9600332,
+     39.5640376
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Eureka Mine Road",
+     "Fiddle-Eureka Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9107798,
+     39.604813
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Eureka Mine Road",
+     "Eureka Road",
+     "Magnolia Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.284016,
+     39.4859332
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Independence Lake Road",
+     "Old Fibreboard Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2828218,
+     39.4931928
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Henness Pass Road",
+     "Independence Lake Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4919976,
+     39.6607674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chapman Saddle Road",
+     "Chapman-Calpine Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6462094,
+     39.6774373
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Lake Campground Road",
+     "Gold Lake Shore Trail"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6509223,
+     39.6924098
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Boy Scout Road",
+     "Gold Lake Highway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0921804,
+     39.5067537
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Henness Pass Road",
+     "Stampede Dam Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0108013,
+     39.5234135
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Feenune Road",
+     "Mallcrinn Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5537347,
+     39.5095766
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Graniteville Road",
+     "Henness Pass Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4428899,
+     39.6642485
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Main Street",
+     "Mount View Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4386681,
+     39.6669082
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6246176,
+     39.5691737
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old Highway 49",
+     "Wild Plum Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8634321,
+     39.6300875
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Poker Flat-Downieville Road",
+     "Saddleback Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8833849,
+     39.6283389
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Eureka Road",
+     "Saddleback Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.1768606,
+     39.5113474
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Henness Pass Road",
+     "Lemmon Canyon Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2830288,
+     39.5054019
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fibreboard Road",
+     "Treasure Mountain Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3657719,
+     39.5893214
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Battelle Street",
+     "East Main Street",
+     "North Battelle Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8275107,
+     39.5569428
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Galloway Road",
+     "Galloway Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.1461077,
+     39.5594402
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Babbitt Road",
+     "Smithneck Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6793106,
+     39.6325248
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pauley Creek Road",
+     "Pauley Creek Spur"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8913271,
+     39.500095
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Henness Pass Road",
+     "Mountain House Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8882651,
+     39.4979874
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Henness Pass Road",
+     "Mountain House Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.438286,
+     39.500515
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fibreboard Road",
+     "Henness Pass Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4338133,
+     39.4989689
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fibreboard Road",
+     "Henness Pass Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9275731,
+     39.4707359
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Miller Ranch Road",
+     "Oregon Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.92818205,
+     39.47057345
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Miller Ranch Road",
+     "Oregon Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9289245,
+     39.470307
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Miller Ranch Road",
+     "Oregon Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0065964,
+     39.5290114
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beaver Creek Circle",
+     "Deer Water Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0067225,
+     39.5274722
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beaver Creek Circle",
+     "Deer Water Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2378543,
+     39.6755287
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.240236,
+     39.675696
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6187344,
+     39.5729473
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brady Drive",
+     "Nevada Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6180596,
+     39.5719008
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brady Drive",
+     "Nevada Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2123805,
+     39.6390735
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Longhorn Drive",
+     "West Sierra Brooks Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2191964,
+     39.6422784
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Longhorn Drive",
+     "West Sierra Brooks Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0299759,
+     39.69919590000001
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evans Ranch Road",
+     "Route 395"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9991318,
+     39.4392215
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Camptonville Road",
+     "Pike City Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.005451,
+     39.4338852
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Camptonville Road",
+     "Pike City Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0035252,
+     39.4374504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Camptonville Road",
+     "Pike City Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.859476,
+     39.487733
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mountain House Road",
+     "Oregon Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.872187,
+     39.483955
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mountain House Road",
+     "Oregon Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.872093,
+     39.483984500000005
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mountain House Road",
+     "Oregon Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8595505,
+     39.4877575
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mountain House Road",
+     "Oregon Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.240491,
+     39.680436
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Court Lane",
+     "Railroad Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.240435,
+     39.680476999999996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Court Lane",
+     "Railroad Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.240633,
+     39.680426
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Court Lane",
+     "Railroad Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.240508,
+     39.680433
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Court Lane",
+     "Railroad Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.242122,
+     39.677802
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beckwith Road",
+     "Church Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.247643,
+     39.677227
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beckwith Road",
+     "Church Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.244239,
+     39.676851
+    ]
+   },
+   "properties": {
+    "streets": [
+     "3rd Street",
+     "Beckwith Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2439437,
+     39.676884
+    ]
+   },
+   "properties": {
+    "streets": [
+     "3rd Street",
+     "Beckwith Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.276668,
+     39.520315
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Cottonwood Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.274676,
+     39.5253935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Cottonwood Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.263369,
+     39.533613
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Cottonwood Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2540195,
+     39.536811
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Cottonwood Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.826704,
+     39.558276
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Commercial Street",
+     "Old Highway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8277601,
+     39.5596145
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Commercial Street",
+     "Old Highway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6842419,
+     39.6082815
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forest Route 93",
+     "Gold Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7531732,
+     39.5810324
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forest Route 93",
+     "Gold Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6412017,
+     39.6841802
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Church Meadow Road",
+     "Gold Lake Highway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.624094,
+     39.666381
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Church Meadow Road",
+     "Gold Lake Highway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8739183,
+     39.4712952
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mountain House Road",
+     "Ridge Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8736862,
+     39.4717462
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mountain House Road",
+     "Ridge Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.218906,
+     39.648362
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Rancho Circle Drive",
+     "Smithneck Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.220205,
+     39.650281
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Rancho Circle Drive",
+     "Smithneck Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.983884,
+     39.605024
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Port Wine Ridge Road",
+     "Poverty Hill Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.983411,
+     39.606182
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Port Wine Ridge Road",
+     "Poverty Hill Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4407657,
+     39.6651636
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Farrar Avenue",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.440594,
+     39.6653184
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Farrar Avenue",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.836996,
+     39.454841
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lafayette Road",
+     "Plumbago Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.837932,
+     39.45447
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lafayette Road",
+     "Plumbago Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6412889,
+     39.6795625
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Lake Campground Road",
+     "Gold Lake Highway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6411494,
+     39.6837261
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Lake Campground Road",
+     "Gold Lake Highway"
+    ]
+   }
+  }
+ ]
+}

@@ -40,7 +40,8 @@ async function getCityBoundary() {
 
 const cityGeoJson = await getCityBoundary();
 
-const countyBoundariesGeoJson = await getJson('./data/osm-boundaries/AlamedaCounty_And_Children.geojson');
+//const countyBoundariesGeoJson = await getJson('./data/osm-boundaries/AlamedaCounty_And_Children.geojson');
+const countyBoundariesGeoJson = await getJson('./data/osm-boundaries/CaliforniaAndCounties.geojson');
 
 /*
 
@@ -52,7 +53,7 @@ async function getIntersections(name) {
 	//const file = './data/intersections.geojson';
 	//const file = './data/intersections_berkeley.geojson';
 	//const file = './data/intersections_oakland.geojson';
-	const file = './data/intersections/intersections_'+name+'.json';
+	const file = './data/intersections/intersections_' + name + '.json';
 	const interJson = await getJson(file);
 	return interJson;
 }
@@ -61,35 +62,14 @@ async function getIntersections(name) {
 const LatitudeDefault = 37.87;
 const LongitudeDefault = -122.27;
 
-/* interesections geojson sample
-{
-  "type": "FeatureCollection",
-  "features": [
-	{
-	  "type": "Feature",
-	  "geometry": {
-		"type": "Point",
-		"coordinates": [
-		  -122.2450524,
-		  37.8584661
-		]
-	  },
-	  "properties": {
-		"streets": [
-		  "Claremont Avenue",
-		  "Claremont Boulevard"
-		]
-	  }
-	},
 
-*/
 
 const interJson = await getIntersections('albany');
 
 var map;
 
-const overlays=[];
-var layerControl ;
+const overlays = [];
+var layerControl;
 
 function createMap() {
 	// Where you want to render the map.
@@ -110,7 +90,7 @@ function createMap() {
 	map.setView(target, 14);
 	// add geojson precincts to map
 
-	layerControl=L.control.layers(null, overlays, { collapsed: true, position: 'topright' }).addTo(map);
+	layerControl = L.control.layers(null, overlays, { collapsed: true, position: 'topright' }).addTo(map);
 
 }
 
@@ -122,7 +102,7 @@ const cityNames = new Set();
 const mapCityToLayerGroup = new Map();
 
 function stdizeCityName(name) {
-	return name.toLowerCase().trim().replaceAll(' ','');
+	return name.toLowerCase().trim().replaceAll(' ', '');
 }
 for (const boundaryFeature of countyBoundariesGeoJson.features) {
 	const prop = boundaryFeature.properties;
@@ -137,7 +117,7 @@ for (const boundaryFeature of countyBoundariesGeoJson.features) {
 			mapCityToLayerGroup.set(stdizeCityName(name), markerLayer);
 
 			//layerControl.addOverlay( markerLayer, name);
-			
+
 
 			L.geoJSON(boundaryFeature, { fillOpacity: 0.05 }).bindPopup(name).addTo(markerLayer);
 			cityNames.add(name);
@@ -145,9 +125,13 @@ for (const boundaryFeature of countyBoundariesGeoJson.features) {
 	}
 }
 
+
+
 const markerCities = Array.from(mapCityToLayerGroup.keys()).sort();
 for (const name of markerCities) {
-	layerControl.addOverlay( mapCityToLayerGroup.get(name), name);
+	if (name.includes('county') || name.includes('francisco')) {
+		layerControl.addOverlay(mapCityToLayerGroup.get(name), name);
+	}
 }
 
 const resizeObserver = new ResizeObserver(() => {
@@ -196,7 +180,7 @@ function addMarkers(intersections, layerGroup) {
 		} else {
 			marker.bindPopup(msg).openPopup();
 		}
-        if (layerGroup ) {
+		if (layerGroup) {
 			marker.addTo(layerGroup);
 		} else {
 			marker.addTo(map)
@@ -210,20 +194,72 @@ function addMarkers(intersections, layerGroup) {
 
 //addMarkers(interJson.features);
 
+const mapCityToJson = new Map();
+
 for (const name of cityNames) {
-	const intersectionsGeoJson = await getIntersections( stdizeCityName(name));
+	const intersectionsGeoJson = await getIntersections(stdizeCityName(name));
 	if (intersectionsGeoJson) {
-		console.log("name", name , intersectionsGeoJson.features.length)
+		console.log("name", name, intersectionsGeoJson.features.length)
 		const lg = mapCityToLayerGroup.get(stdizeCityName(name))
-		addMarkers(intersectionsGeoJson.features,lg);
+		mapCityToJson.set(stdizeCityName(name), intersectionsGeoJson);
+
+		addMarkers(intersectionsGeoJson.features, lg);
 	} else {
 		console.log("no intersections found for ", name)
 	}
+}
+
+mapCityToLayerGroup.get("Alameda County").addTo(map);
+
+/* BEGIN UNINCORPORATED
+const countyJson = mapCityToJson.get("alamedacounty");
+const cityJsons = [];
+for (const k of mapCityToJson.keys()) {
+	if (!k.includes("county")) {
+		cityJsons.push(mapCityToJson.get(k));
+	}
+}
+
+
+
+
+
+
+// set of strings of lon, lat
+const cityCoords = new Set();
+
+for (const json of cityJsons) {
+	for (const f of json.features) {
+		const coords = f.geometry.coordinates;
+		cityCoords.add(''+coords);
+	}
+}
+
+
+// compute the Unincorporated areas intersections by removing the city intersections from the county intersections
+function subtract(county, cityCoords) {
+	const newFeatures = county.features.filter( f => (!cityCoords.has(''+f.geometry.coordinates)));
+	const retval = {features: newFeatures};
+	return retval
 
 }
 
-mapCityToLayerGroup.get("berkeley").addTo(map);
+const unincorporatedJson = subtract( countyJson, cityCoords);
+const unName = 'Unincorporated'
 
+var markerLayer = L.layerGroup();
+addMarkers(unincorporatedJson.features, markerLayer);
+layerControl.addOverlay( markerLayer, unName);
+
+
+
+
+
+
+
+
+END UNINCORPORSATED
+*/
 
 export {
 	map

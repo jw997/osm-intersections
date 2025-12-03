@@ -1,0 +1,2089 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2871618,
+     37.8983689
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Berkeley Park Boulevard",
+     "Curtis Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.269524,
+     37.9043312
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grizzly Peak Boulevard",
+     "Spruce Street",
+     "Wildcat Canyon Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2853049,
+     37.9099374
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Franciscan Way",
+     "Reed Place"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2868654,
+     37.9141904
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highgate Road",
+     "Jessen Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2762207,
+     37.9126737
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dewey Road",
+     "Purdue Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2696529,
+     37.9063798
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grizzly Peak Boulevard",
+     "Plateau Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2804339,
+     37.9147751
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlmont Drive",
+     "Marguerita Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.285679,
+     37.9161926
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Edwin Drive",
+     "Kerr Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2834922,
+     37.9147172
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kerr Avenue",
+     "Rincon Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2606863,
+     37.899656
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sunset Lane",
+     "Wildcat Canyon Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.26874,
+     37.9040165
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Wildcat Canyon Road",
+     "Woodmont Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2813126,
+     37.9173177
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cowper Avenue",
+     "Lawson Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.283943,
+     37.9010205
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Coventry Road",
+     "Eldridge Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2795215,
+     37.9024769
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Coventry Road",
+     "Eagle Hill"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2782629,
+     37.9038673
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Coventry Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2874676,
+     37.9019162
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Coventry Road",
+     "Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2828901,
+     37.9020896
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Coventry Road",
+     "Marchant Court",
+     "Willow Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2814803,
+     37.9025064
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Coventry Road",
+     "Stratford Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2814774,
+     37.9038291
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Coventry Road",
+     "Lenox Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2801206,
+     37.9024007
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ardmore Road",
+     "Coventry Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2718873,
+     37.908724
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kenyon Avenue",
+     "Lake Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2709264,
+     37.9069821
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beloit Avenue",
+     "Lake Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2795063,
+     37.9073787
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Wellesley Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2780184,
+     37.9086106
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Stanford Avenue",
+     "Wellesley Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.276624,
+     37.9086628
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Avenue",
+     "Wellesley Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2758425,
+     37.9091566
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kenyon Avenue",
+     "Wellesley Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2861283,
+     37.8990892
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Colusa Avenue",
+     "Ocean View Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2844954,
+     37.9003137
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oak View Avenue",
+     "Ocean View Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2847089,
+     37.9010188
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Coventry Road",
+     "Ocean View Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2861232,
+     37.9014435
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Berkeley Park Boulevard",
+     "Ocean View Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.284522,
+     37.9081891
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Franciscan Way",
+     "Sunset Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2842378,
+     37.90816
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sunset Drive",
+     "Sunset Terrace"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2822085,
+     37.9085746
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highgate Road",
+     "Sunset Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2830695,
+     37.9027996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marchant Gardens",
+     "Richardson Road",
+     "Willow Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.267471,
+     37.9077014
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beloit Avenue",
+     "Los Altos Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2753658,
+     37.9064505
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beloit Avenue",
+     "Cambridge Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2744795,
+     37.9065301
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beloit Avenue",
+     "Trinity Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2787903,
+     37.9075662
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Amherst Avenue",
+     "Oberlin Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2778422,
+     37.9056171
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Amherst Avenue",
+     "Princeton Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2880542,
+     37.9001686
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Colusa Avenue",
+     "Santa Fe Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2834811,
+     37.9124835
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Norwood Avenue",
+     "Norwood Place"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2880212,
+     37.914571
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Anson Way",
+     "Franciscan Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.286221,
+     37.9120274
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Eureka Avenue",
+     "Franciscan Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2751175,
+     37.9054903
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vassar Avenue",
+     "Yale Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2765369,
+     37.904856
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Yale Avenue",
+     "Yale Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2808274,
+     37.9177822
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kensington Court",
+     "Kensington Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2809489,
+     37.917875
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cowper Avenue",
+     "Kensington Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2788123,
+     37.9102214
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westminster Avenue",
+     "Windsor Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2876808,
+     37.9146643
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Edwin Drive",
+     "Highgate Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2800377,
+     37.9113154
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Arlington Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.284175,
+     37.9170023
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Lam Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2837057,
+     37.9098
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highgate Court",
+     "Highgate Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2855186,
+     37.9032493
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Berkeley Park Boulevard",
+     "Stratford Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.273696,
+     37.9090387
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Colgate Avenue",
+     "Kenyon Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2730982,
+     37.9074568
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Colgate Avenue",
+     "Columbia Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2726398,
+     37.9066308
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beloit Avenue",
+     "Colgate Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2841899,
+     37.9035832
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Richardson Road",
+     "Stratford Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2832313,
+     37.9160277
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Kenilworth Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.281917,
+     37.9155065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cowper Avenue",
+     "Kenilworth Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.288076,
+     37.8993117
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oak View Avenue",
+     "Santa Fe Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2755674,
+     37.9091425
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kenyon Avenue",
+     "Trinity Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2793425,
+     37.9070867
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Oberlin Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2781687,
+     37.9081015
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oberlin Avenue",
+     "Yale Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.277535,
+     37.908344
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oberlin Avenue",
+     "Stanford Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2770632,
+     37.9058872
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Princeton Avenue",
+     "Yale Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2832546,
+     37.9042747
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beverly Road",
+     "Camelot Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2820803,
+     37.9108449
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Norwood Avenue",
+     "Norwood Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28215,
+     37.9062753
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kingston Road",
+     "Lenox Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2754146,
+     37.9052399
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Stanford Avenue",
+     "Yale Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.287433,
+     37.9114924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Anson Way",
+     "Eureka Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2747641,
+     37.9057511
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Avenue",
+     "Yale Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2825263,
+     37.9050965
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beverly Road",
+     "Lenox Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2832439,
+     37.9046112
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avon Road",
+     "Beverly Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2845099,
+     37.9034599
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avon Road",
+     "Stratford Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2709687,
+     37.9088934
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grizzly Peak Boulevard",
+     "Los Altos Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2795837,
+     37.9103425
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westminster Avenue",
+     "York Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2815896,
+     37.914034
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Arlmont Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2827099,
+     37.9149989
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Cowper Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28128,
+     37.9159457
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cowper Avenue",
+     "Highland Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2833002,
+     37.9039731
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beverly Road",
+     "Stratford Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2692946,
+     37.9047274
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Canon Drive",
+     "Parkside Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2820995,
+     37.9102613
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Norwood Avenue",
+     "Norwood View"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2819094,
+     37.9146351
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Estates Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2757772,
+     37.9050722
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Rugby Avenue",
+     "Yale Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2824995,
+     37.9118582
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Court",
+     "Norwood Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2809224,
+     37.9120416
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Arlington Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2769129,
+     37.9094393
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kenyon Avenue",
+     "Willamette Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2761673,
+     37.9097552
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highland Boulevard",
+     "Willamette Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2734391,
+     37.9096988
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Purdue Avenue",
+     "Willamette Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2780634,
+     37.9103593
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Saint Alban's Road",
+     "Westminster Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.288562,
+     37.9018171
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Colusa Avenue",
+     "Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2553584,
+     37.8960997
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Park Drive",
+     "Wildcat Canyon Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2781617,
+     37.9123942
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highland Boulevard",
+     "Kenyon Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2776415,
+     37.9105316
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kenyon Avenue",
+     "Westminster Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2711417,
+     37.9090484
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grizzly Peak Boulevard",
+     "Kenyon Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2854483,
+     37.9026395
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Berkeley Park Boulevard",
+     "Lexington Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2845015,
+     37.9172285
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Arlington Boulevard",
+     "Highland Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2796572,
+     37.9153059
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlmont Drive",
+     "Highland Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.278369,
+     37.9042721
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ardmore Road",
+     "Arlington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2798832,
+     37.9053855
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ardmore Road",
+     "Kingston Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2882385,
+     37.9151549
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Contra Costa Drive",
+     "Franciscan Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2880485,
+     37.9149868
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Contra Costa Drive",
+     "Highgate Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2845305,
+     37.9104524
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highgate Road",
+     "Norwood Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2745114,
+     37.9090751
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Columbia Avenue",
+     "Kenyon Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2693673,
+     37.9042808
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Canon Drive",
+     "Wildcat Canyon Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2699902,
+     37.9070506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beloit Avenue",
+     "Grizzly Peak Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2814139,
+     37.9132601
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Kensington Park Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.274418,
+     37.9106463
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Garden Drive",
+     "Purdue Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.273091,
+     37.9090036
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kenyon Avenue",
+     "Purdue Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.282525,
+     37.9010736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Coventry Road",
+     "Kenilworth Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2717236,
+     37.9066834
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beloit Avenue",
+     "Purdue Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2865636,
+     37.9006265
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Berkeley Park Boulevard",
+     "Coventry Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2789242,
+     37.9029414
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Coventry Road",
+     "Edgecroft Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.279926,
+     37.9022895
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Coventry Road",
+     "Edgecroft Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2636841,
+     37.9071199
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Canon Drive",
+     "Central Park Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2637746,
+     37.9066866
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Canon Drive",
+     "Central Park Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2828975,
+     37.9082822
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sunset Court",
+     "Sunset Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2827718,
+     37.9080072
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sunset Court",
+     "Sunset Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2804822,
+     37.9082512
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Sunset Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2801906,
+     37.9080636
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Sunset Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2802784,
+     37.908086850000004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Sunset Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.27806380000001,
+     37.90331105
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Amherst Avenue",
+     "Arlington Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28066475,
+     37.9096836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Norwood Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28020775,
+     37.91058015
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Westminster Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.287226,
+     37.8995466
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Colusa Avenue",
+     "Oak View Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2869353,
+     37.8996162
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Colusa Avenue",
+     "Oak View Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2813941,
+     37.9130286
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Rincon Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2830562,
+     37.9156727
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arlington Avenue",
+     "Rincon Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2871024,
+     37.8994397
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Berkeley Park Boulevard",
+     "Colusa Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2870645,
+     37.8996811
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Berkeley Park Boulevard",
+     "Colusa Avenue"
+    ]
+   }
+  }
+ ]
+}

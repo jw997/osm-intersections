@@ -1,0 +1,1962 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7930418,
+     38.8107236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Emigrant Trail",
+     "Shakehill Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0471201,
+     38.4656783
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bloods Ridge Road",
+     "Quaking Aspen Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0475022,
+     38.4709008
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Bloods Ridge Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0458452,
+     38.4705859
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Lake Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0708598,
+     38.6960788
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Meadows Drive",
+     "Heather Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7538677,
+     38.7951242
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dutch Valley Road",
+     "Washoe Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7548167,
+     38.794959
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dutch Valley Road",
+     "Hung A Lel Ti Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7556519,
+     38.794148
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Awohopi Drive",
+     "Dutch Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8011082,
+     38.6892211
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ox Bow",
+     "Pleasant Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0701533,
+     38.6961768
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Larkspur Drive",
+     "Sorrel Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.801574,
+     38.687582
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pinon Road",
+     "Pleasant Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7787553,
+     38.8091206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carson River Road",
+     "Diamond Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9985339,
+     38.4264439
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forest Route 7N75C",
+     "Union Reservoir West Campground"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0661775,
+     38.6857531
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kirkwood Meadows Drive",
+     "Powerhouse Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0667138,
+     38.6870623
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Meadows Drive",
+     "Kirkwood Meadows Drive",
+     "Powerhouse Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0469469,
+     38.4602749
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Station House Road",
+     "Toll Gate Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8212937,
+     38.7622805
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Manzanita Lane",
+     "Zellmer Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0469476,
+     38.4705944
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Quaking Aspen Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0465359,
+     38.4638011
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Monte Wolf Road",
+     "Quaking Aspen Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0412317,
+     38.4627035
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Creekside Drive",
+     "Quaking Aspen Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0430073,
+     38.4750405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Creekside Drive",
+     "Flynn Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0407599,
+     38.464923
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Eberhardt Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8025502,
+     38.8043631
+    ]
+   },
+   "properties": {
+    "streets": [
+     "California Road",
+     "Carson View"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8025915,
+     38.8053204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carson View",
+     "Nevada Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8025872,
+     38.8069883
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carson View",
+     "Larson Canyon"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8014885,
+     38.685295
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lava Cap",
+     "Pleasant Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8184619,
+     38.774256
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Barber Road",
+     "Pine Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0470569,
+     38.460947
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lombardi Lane",
+     "Toll Gate Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7816268,
+     38.6941306
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Montgomery Street",
+     "School Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.782398,
+     38.693663
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hot Springs Road",
+     "Laramie Street",
+     "Montgomery Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0426169,
+     38.4661727
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Monte Wolf Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7550007,
+     38.7956541
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Galis Dungal",
+     "Hung A Lel Ti Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7964625,
+     38.8052803
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Emigrant Trail",
+     "Nevada Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8053016,
+     38.8043689
+    ]
+   },
+   "properties": {
+    "streets": [
+     "California Road",
+     "Diamond View"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8016672,
+     38.8037991
+    ]
+   },
+   "properties": {
+    "streets": [
+     "California Road",
+     "Topaz Place"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7992779,
+     38.8023556
+    ]
+   },
+   "properties": {
+    "streets": [
+     "California Road",
+     "Emigrant Trail"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0669489,
+     38.6877257
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cornice Court",
+     "East Meadows Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.045434,
+     38.469609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Schimke Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0456749,
+     38.4687689
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "John Ebbetts Road",
+     "Schimke Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9386306,
+     38.6293913
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blue Lakes Road",
+     "Forestdale Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7870991,
+     38.8287178
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Foothill Road",
+     "Fredericksburg Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0411753,
+     38.4716007
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Creekside Drive",
+     "Granite Vista Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.048961,
+     38.462202
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alpine Way",
+     "Monte Vista"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0416491,
+     38.4622912
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Tamarack Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.071528,
+     38.447807
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meadow Drive",
+     "Silvertip Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0710464,
+     38.6973366
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Aster Court",
+     "Larkspur Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.070201,
+     38.6849319
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kirkwood Meadows Drive",
+     "Palisades Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0711146,
+     38.6984811
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Columbine Circle",
+     "Larkspur Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8126918,
+     38.7673807
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bryan Way",
+     "Diamond Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.044863,
+     38.468504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "John Ebbetts Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0408127,
+     38.4651745
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "No Name Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.783043,
+     38.6932463
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Barrett Court",
+     "Montgomery Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8163703,
+     38.7737869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pine Avenue",
+     "Sage Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8172354,
+     38.7739055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Aspen Way",
+     "Pine Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8016206,
+     38.6867498
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Canon View",
+     "Pleasant Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7927994,
+     38.811046
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Emigrant Trail",
+     "Spring Canyon Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.038907,
+     38.4658679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Creekside Drive",
+     "No Name Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7791549,
+     38.8198678
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Emigrant Trail",
+     "River Ranch Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7831994,
+     38.819806
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Emigrant Trail",
+     "Foothill Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8106963,
+     38.7917355
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Emigrant Trail",
+     "Pioneer Trail"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7579113,
+     38.7543394
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Fork Road",
+     "Scossa Canyon Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0504451,
+     38.4593757
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alpine Way",
+     "Station House Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0427676,
+     38.4661912
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Cub Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0074354,
+     38.475934
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Slick Rock Road",
+     "West Lake Alpine Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.816351,
+     38.7743657
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cedar Lane",
+     "Sage Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9662979,
+     38.6989831
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forestdale Road",
+     "Red Vista Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7774721,
+     38.808777
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chambers Lane",
+     "Diamond Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7745293,
+     38.8198844
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chambers Lane",
+     "River Ranch Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8094968,
+     38.7676858
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Diamond Valley Road",
+     "Hawkside Court",
+     "Hawkside Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0506966,
+     38.4688929
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avalanche Road",
+     "Snowshoe Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8437981,
+     38.7667514
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Crystal Springs Road",
+     "Merk Creek Court"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7835195,
+     38.6929843
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cole Court",
+     "Montgomery Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8717295,
+     38.3632654
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clark Fork Road",
+     "Forest Route 6N06"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7960858,
+     38.6931106
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Raymond View Drive",
+     "Silver Peak Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7959651,
+     38.6907605
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hot Springs Road",
+     "Raymond View Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7898687,
+     38.8038146
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Rush Trail",
+     "Sunrise Trail"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8050366,
+     38.8069938
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chisholm Trail",
+     "Larson Canyon"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8243508,
+     38.3838371
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clark Fork Road",
+     "County Road 920"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7856429,
+     38.8260573
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Foothill Road",
+     "Jenny May Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0436315,
+     38.4767262
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Creekside Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8224243,
+     38.7742799
+    ]
+   },
+   "properties": {
+    "streets": [
+     "West Fork Lane",
+     "Woodfords Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7792358,
+     38.8092771
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Diamond Valley Road",
+     "Foothill Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8004095,
+     38.6899308
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pleasant Valley Road",
+     "Sawmill Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7971044,
+     38.6907889
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hot Springs Road",
+     "Pleasant Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.010236,
+     38.469549
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forest Route 7N17",
+     "Slick Rock Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0109819,
+     38.4691284
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forest Route 7N17",
+     "Slick Rock Reroute"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0074032,
+     38.4751865
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Slick Rock Reroute",
+     "Slick Rock Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.771238,
+     38.7589735
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Airport Road",
+     "Scossa Canyon Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7695871,
+     38.7728667
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Airport Road",
+     "Diamond Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9922939,
+     38.4283649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Union Reservior East Boat Launch",
+     "Union Reservoir East Campground"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0491204,
+     38.4666738
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bloods Ridge Road",
+     "Snowshoe Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0481985,
+     38.4693497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bloods Ridge Road",
+     "Snowshoe Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8269695,
+     38.6965138
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hot Springs Road",
+     "Shay Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8361633,
+     38.6953722
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hot Springs Road",
+     "Shay Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0688573,
+     38.6914606
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Meadows Drive",
+     "Larkspur Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.070586,
+     38.6967595
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Meadows Drive",
+     "Larkspur Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7990541,
+     38.6901166
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pleasant Valley Road",
+     "Timber Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.797604,
+     38.690143
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pleasant Valley Road",
+     "Timber Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9921652,
+     38.4280919
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forest Route 7N75",
+     "Union Reservoir East Campground"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9914544,
+     38.4283549
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forest Route 7N75",
+     "Union Reservoir East Campground"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7507335,
+     38.7972072
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Diamond Valley Road",
+     "Mud Lake Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7500273,
+     38.7960882
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Diamond Valley Road",
+     "Mud Lake Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0451629,
+     38.4646137
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fremont Road",
+     "Quaking Aspen Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0441961,
+     38.4638431
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fremont Road",
+     "Quaking Aspen Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0471751,
+     38.4623644
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alpine Way",
+     "Lombardi Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0505735,
+     38.4600948
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alpine Way",
+     "Lombardi Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0471594,
+     38.4754628
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Mule Ear Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0470575,
+     38.4741567
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Mule Ear Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7522636,
+     38.7971624
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Diamond Valley Road",
+     "Washoe Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.751865,
+     38.7935025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Diamond Valley Road",
+     "Washoe Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7536515,
+     38.795965
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Circle Drive",
+     "Washoe Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7525939,
+     38.7967001
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Circle Drive",
+     "Washoe Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0439756,
+     38.4676869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Orvis Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0416723,
+     38.4660573
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Orvis Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7867338,
+     38.8162367
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Emigrant Trail",
+     "Hawkins Peak Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.790163,
+     38.8133216
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Emigrant Trail",
+     "Hawkins Peak Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7958368,
+     38.8062598
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Emigrant Trail",
+     "Sunrise Trail"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7968728,
+     38.8046645
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Emigrant Trail",
+     "Sunrise Trail"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0448071,
+     38.4763174
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Spring Cliff Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0467061,
+     38.4759122
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bear Valley Road",
+     "Spring Cliff Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0076502,
+     38.4388528
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forest Route 7N17",
+     "Slick Rock Trail"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.011168,
+     38.468729
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forest Route 7N17",
+     "Slick Rock Trail"
+    ]
+   }
+  }
+ ]
+}
