@@ -12,6 +12,17 @@ Node and way counts
 way 89873
 node 678030
 
+Basic usage
+get the ways for a city
+ 2043  wget -O ways_piedmont.json 'https://www.overpass-api.de/api/interpreter?data=[out:json][timeout:25][bbox:37.4539161,-122.3738200,37.9066896,-121.4690903];area[name="Alameda County"]->.big;area[name="Piedmont"]->.small;way["highway"~"^(trunk|primary|secondary|tertiary|unclassified|residential)$"]["name"](area.small)(area.big)->.streets;.streets out geom;'
+ 2044  wget -O ways_oakland.json 'https://www.overpass-api.de/api/interpreter?data=[out:json][timeout:25][bbox:37.4539161,-122.3738200,37.9066896,-121.4690903];area[name="Alameda County"]->.big;area[name="Oakland"]->.small;way["highway"~"^(trunk|primary|secondary|tertiary|unclassified|residential)$"]["name"](area.small)(area.big)->.streets;.streets out geom;'
+ 2045  wget -O ways_alamedacounty.json 'https://www.overpass-api.de/api/interpreter?data=[out:json][timeout:25][bbox:37.4539161,-122.3738200,37.9066896,-121.4690903];area[name="Alameda County"]->.big;area[name="Oakland"]->.small;way["highway"~"^(trunk|primary|secondary|tertiary|unclassified|residential)$"]["name"](area.big)->.streets;.streets out geom;'
+ 2047  wget -O ways_alpinecounty.json 'https://www.overpass-api.de/api/interpreter?data=[out:json][timeout:25];area[name="California"]->.big;area[name="Alpine County"]->.small;way["highway"~"^(trunk|primary|secondary|tertiary|unclassified|residential)$"]["name"](area.small)(area.big)->.streets;.streets out geom;'
+ 2048  wget -O ways_california.json 'https://www.overpass-api.de/api/interpreter?data=[out:json][timeout:25];area[name="California"]->.big;area[name="Alpine County"]->.small;way["highway"~"^(trunk|primary|secondary|tertiary|unclassified|residential)$"]["name"](area.big)->.streets;.streets out geom;'
+ 2050  wget -O ways_california.json 'https://www.overpass-api.de/api/interpreter?data=[out:json][timeout:300];area[name="California"]->.big;area[name="Alpine County"]->.small;way["highway"~"^(trunk|primary|secondary|tertiary|unclassified|residential)$"]["name"](area.big)->.streets;.streets out geom;'
+
+run node js/geo.js on it to produce intersections.json for that city
+
 
 
 downloaded using overpass from https://www.openstreetmap.org/export#map=13/37.89430/-122.24221
@@ -101,3 +112,16 @@ e.g.
     <tag k="highway" v="residential"/>
     <tag k="maxspeed" v="25 mph"/>
     <tag k="name" v="Acton Street"/>
+
+
+include junctions, even w/o names and motorway links, highways without names, but having refs
+
+area[name="California"]->.big;
+area[name="Berkeley"]->.small;
+(
+way["highway"~"^(motorway|motorway_link|trunk|primary|secondary|tertiary|unclassified|residential)$"]["name"](area.big)(area.small);
+way["highway"~"^(motorway|motorway_link|trunk|primary|secondary|tertiary|unclassified|residential)$"]["ref"](area.big)(area.small);
+way["highway"~"^(motorway|motorway_link|trunk|primary|secondary|tertiary|unclassified|residential)$"]["junction"](area.big)(area.small);
+way["highway"="motorway_link"](area.big)(area.small);
+);
+ out geom;
