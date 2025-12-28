@@ -45,7 +45,26 @@ function makeFeatureSet(arrFeatures) {
 	return featureSet;
 }
 
-
+function getWayName(tags) {
+	
+	var refname
+	if (tags.ref) {
+		refname = tags.ref.split(';')[0];
+	}
+	const arrNames = [];
+	if (tags.name) {
+		arrNames.push(tags.name)
+	}
+	if (tags.ref) {
+		const refs =  tags.ref.split(';');
+		for (const r of refs ) {
+			arrNames.push(r)
+		}
+	}
+	//const retval = tags.name ?? refname;
+	const retval = arrNames.join(';')
+	return retval;
+}
 
 /*
 Trim the intersection list to match the city
@@ -119,7 +138,8 @@ function initWayData(obj) {
 			//console.log("skipping no tag way");
 			continue;
 		}
-		const name = tags.name;
+		//var name = tags.name;
+		const name = getWayName(tags)
 		if (!name) {
 			//console.log("Undefined name for way id:", way.id, ' ', way.geometry[0]);
 			continue;
@@ -149,8 +169,8 @@ function initWayData(obj) {
 			//console.log("skipping no tag way");
 			continue;
 		}
-
-		if (tags.name) {
+		if (getWayName(tags)) {
+		//if (tags.name) {
 			continue;
 		}
 
@@ -211,7 +231,8 @@ function findDeadEnds(obj) {
 			//console.log("skipping no tag way");
 			continue;
 		}
-		const name = tags.name;
+		const name = getWayName(tags)
+		//const name = tags.name;
 		if (!name) {
 			//	console.log("Undefined name for way id:", way.id, ' ', way.geometry[0]);
 			continue;
