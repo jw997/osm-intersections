@@ -20,7 +20,7 @@ const metersPerDegree = 100000;
 const inputFile = process.argv[2]
 const outputFile = process.argv[3]
 
-console.log("input:" ,inputFile, "output:", outputFile)
+console.log("input:", inputFile, "output:", outputFile)
 /* 
 Function to generate geojson
 */
@@ -46,7 +46,7 @@ function makeFeatureSet(arrFeatures) {
 }
 
 function getWayName(tags) {
-	
+
 	var refname
 	if (tags.ref) {
 		refname = tags.ref.split(';')[0];
@@ -56,11 +56,28 @@ function getWayName(tags) {
 		arrNames.push(tags.name)
 	}
 	if (tags.ref) {
-		const refs =  tags.ref.split(';');
-		for (const r of refs ) {
+		const refs = tags.ref.split(';');
+		for (const r of refs) {
 			arrNames.push(r)
 		}
 	}
+	/* didn;t fix all the freeway interchange problems
+	if (tags.highway == "motorway_link") {
+		const destRefStr  = tags['destination:ref'];
+		const dest = tags.destination;
+
+		if (destRefStr) {
+			const refs =  destRefStr.split(';');
+			for (const r of refs ) {
+				arrNames.push(r)
+			}
+		} else { // no destionation:refs
+			if (dest) {
+				arrNames.push(dest) // is this a street or city??
+			}
+		}
+
+	}*/
 	//const retval = tags.name ?? refname;
 	const retval = arrNames.join(';')
 	return retval;
@@ -93,6 +110,12 @@ wget -O ways.json 'https://www.overpass-api.de/api/interpreter?data=[out:json][t
 */
 
 
+
+const mapNodeIdToWays = new Map();
+
+const mapNodeIdToGps = new Map();
+
+const mapNodeIdToNames = new Map();
 
 
 
@@ -128,7 +151,24 @@ function findNeighbor(nodeArray, deadEndNode) {
 returns wayData array
 */
 function initWayData(obj) {
-	const mapNodeIdToNames = new Map(); // populated by initWayData
+
+	for (const way of obj.elements) {
+		if (!way.tags) {
+			//console.log("skipping no tag way");
+			continue;
+		}
+		const nodes = way.nodes; // list of node ids
+		for (const node of nodes) {
+			const n = mapNodeIdToWays.get(node);
+			if (n) {
+				n.add(way);
+			} else {
+				mapNodeIdToWays.set(node, new Set([way]));
+			}
+		}
+	}
+		
+	//const mapNodeIdToNames = new Map(); // populated by initWayData global
 	var wayData = [];
 	// loop through all the named ways
 	for (const way of obj.elements) {
@@ -147,6 +187,7 @@ function initWayData(obj) {
 		const geometry = way.geometry; // list of lat long 
 		const nodes = way.nodes; // list of node ids
 
+		// make a map of nodeid to all the names of roads it is part of
 		for (let i = 0; i < nodes.length; i++) {
 			mapNodeIdToGps.set(nodes[i], geometry[i])
 			const n = mapNodeIdToNames.get(nodes[i]);
@@ -158,6 +199,160 @@ function initWayData(obj) {
 		}
 		wayData.push({ 'name': name, 'geometry': geometry, 'nodes': nodes });
 	}
+
+	// loop through ways. for motorway_link, try to pick the name from the starting  (or ending) node that 
+	// joins it to a named motorway
+	const setMotorwayLinks = new Set();
+
+	for (const way of obj.elements) {
+		const tags = way.tags;
+
+		if (tags.highway == 'motorway_link' && !tags.name) {
+
+			setMotorwayLinks.add(way);
+		}
+	}
+
+	while (setMotorwayLinks.size > 0) {
+
+		const startSize = setMotorwayLinks.size;
+
+		/*  name from attached motorway */
+
+		for (const way of setMotorwayLinks) {
+			const geometry = way.geometry; // list of lat long 
+			const nodes = way.nodes; // list of node ids
+			const tags = way.tags
+			// can get a name from nodes[0]?
+			const firstNode = nodes[0]; const lastNode = nodes[nodes.length - 1];
+			const lastNodeWays =  mapNodeIdToWays.get(lastNode);
+			const firstNodeWays = mapNodeIdToWays.get(firstNode);
+
+			if (firstNodeWays) {
+				// is there a way meeting the begginning of this motorway_link that either is a motorway or a motrowy_link with a name?
+				let wayNamedFirst;
+				let wayNamedLast;
+				let wayNameFirst, wayNameLast
+
+				for (const wayIntersecting of firstNodeWays) {
+					const typeIntersecting = wayIntersecting.tags.highway;
+	
+					if ((typeIntersecting == 'motorway') && (wayIntersecting.tags.ref)) {
+						wayNameFirst = wayIntersecting.tags.ref;
+						break;
+					}
+					if ((typeIntersecting == 'motorway_link') && (wayIntersecting.tags.name)) {
+						wayNameFirst = wayIntersecting.tags.name
+						break;
+					}
+					
+					/*const nameIntersecting = wayIntersecting.tags.name;
+					const typeIntersecting = wayIntersecting.tags.highway;
+
+					if (nameIntersecting) {
+						if (typeIntersecting == 'motorway' || typeIntersecting == 'motorway_link') {
+							wayNamedFirst = wayIntersecting;
+							break;
+						}
+					}*/
+				}
+
+				
+				for (const wayIntersecting of lastNodeWays) {
+					const typeIntersecting = wayIntersecting.tags.highway;
+	
+					if ((typeIntersecting == 'motorway') && (wayIntersecting.tags.ref)) {
+						wayNameLast = wayIntersecting.tags.ref;
+						break;
+					}
+					if ((typeIntersecting == 'motorway_link') && (wayIntersecting.tags.name)) {
+						wayNameLast = wayIntersecting.tags.name
+						break;
+					}
+					/*const nameIntersecting = wayIntersecting.tags.name;
+					const typeIntersecting = wayIntersecting.tags.highway;
+
+					if (nameIntersecting) {
+						if (typeIntersecting == 'motorway' || typeIntersecting == 'motorway_link') {
+							wayNamedLast = wayIntersecting;
+							break;
+						}
+					}*/
+				}
+
+				const wayName = wayNameFirst ?? wayNameLast;
+
+				// couldn't match this one, try another
+				if (!wayName) {
+					continue;
+				}
+
+				//const name = Array.from(firstNodeNames)[0];
+				//const name = wayNamed.tags.name;
+				const name = wayName;
+
+				console.log( "naming motorway link ", name)
+				way.tags.name = name;
+
+				setMotorwayLinks.delete(way)
+
+				for (let i = 0; i < nodes.length; i++) {
+					mapNodeIdToGps.set(nodes[i], geometry[i])
+					const n = mapNodeIdToNames.get(nodes[i]);
+					if (n) {
+						n.add(name);
+					} else {
+						mapNodeIdToNames.set(nodes[i], new Set([name]));
+					}
+				}
+				wayData.push({ 'name': name, 'geometry': geometry, 'nodes': nodes, 'highway': tags.highway });
+			}
+
+		}
+
+
+		
+/*  name from first node 
+		for (const way of setMotorwayLinks) {
+			const geometry = way.geometry; // list of lat long 
+			const nodes = way.nodes; // list of node ids
+			const tags = way.tags
+			// can get a name from nodes[0]?
+			const firstNode = nodes[0]; const lastNode = nodes[nodes.length - 1];
+			const firstNodeNames = mapNodeIdToNames.get(firstNode);
+			if (firstNodeNames) {
+				const name = Array.from(firstNodeNames)[0];
+				console.log( "naming motorway link ", name)
+				way.tags.name = name;
+
+				setMotorwayLinks.delete(way)
+
+				for (let i = 0; i < nodes.length; i++) {
+					mapNodeIdToGps.set(nodes[i], geometry[i])
+					const n = mapNodeIdToNames.get(nodes[i]);
+					if (n) {
+						n.add(name);
+					} else {
+						mapNodeIdToNames.set(nodes[i], new Set([name]));
+					}
+				}
+				wayData.push({ 'name': name, 'geometry': geometry, 'nodes': nodes, 'highway': tags.highway });
+			}
+
+		}*/
+
+		const endSize = setMotorwayLinks.size;
+
+		if (endSize == startSize) {
+			// no progress, give up
+			break;
+		}
+	}
+
+
+
+
+
 	/* 
 	traffic circles in Berkeley are modeled with unnamed ways 
 	*/
@@ -170,7 +365,7 @@ function initWayData(obj) {
 			continue;
 		}
 		if (getWayName(tags)) {
-		//if (tags.name) {
+			//if (tags.name) {
 			continue;
 		}
 
@@ -198,7 +393,7 @@ function initWayData(obj) {
 		const sorted = Array.from(fakeNames).sort();;
 		const name = sorted.join(slash);
 		// later use the JUNCTION to identify nodes around a traffic circle and combine them
-		wayData.push({ 'name': name, 'geometry': geometry, 'nodes': nodes });
+		wayData.push({ 'name': name, 'geometry': geometry, 'nodes': nodes, highway: tags.highway });
 		//console.log(name, geometry.length);
 	}
 	return wayData;
@@ -272,8 +467,6 @@ function distGpsGps(gps1, gps2) {//  { "lat": 37.8655316, "lon": -122.3100479 },
 	const retval = metersPerDegree * (dLat + dLon);
 	return retval;
 }
-
-
 
 function makeIntersectionString(s) {
 	const sorted = Array.from(s).sort();;
@@ -542,7 +735,18 @@ Freeways are tagged as hightway motorway, and the on and off ramps are motorway_
 
 
 */
+// don't rreport those intersections thaat re along on and offramps
+function notAllMotorwayLinks(nodeId) {
 
+	const  setWays = mapNodeIdToWays.get(nodeId);
+
+	for (const way of setWays) {
+		if (way.tags.highway != 'motorway_link') {
+			return true
+		}
+	}
+	return false;
+}
 function findintersections(ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
 {
 	const mapNodeidToName = new Map(); // populated by findIntersections
@@ -567,6 +771,11 @@ function findintersections(ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
 
 	for (const [node, nameSet] of mapNodeidToName) {
 		if (nameSet.size > 1) {
+
+			// there are at least 2 streets, make sure they are not all motorway_links
+			if (!notAllMotorwayLinks(node)) {
+				continue;
+			}
 			//	console.log(node, nameSet);
 
 			// offsets can mean there are 2 intersections of the same streets!!!
@@ -655,7 +864,7 @@ do some stuff
 write the intersection geojson
 */
 
-const mapNodeIdToGps = new Map();
+
 // make up fake names for traffic circles which include all the names of ways that connect to it
 // map the nodeId to the set of street names of ways that touch it
 

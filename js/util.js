@@ -6,6 +6,12 @@ const slash = '/';
 let mql = window.matchMedia("(pointer: fine)");
 const pointerFine = mql.matches;
 
+const selectCounty = document.querySelector('#selectCounty');
+
+function fileNameIze(str) {
+	return str.replaceAll(' ', '_').replaceAll('/', '_');
+}
+
 function getMarkerOpt() {
 	const colorValue = w3_highway_red;
 	var rad = 3;
@@ -18,6 +24,25 @@ function getMarkerOpt() {
 		fillOpacity: opa
 	};
 	return retval;
+}
+
+
+// populate the city select
+function populateSelect(selectData, select) {
+
+	// remove any existing options
+	const optionCount = select.options.length;
+	for (let i = 0; i < optionCount; i++) {
+		select.options.remove(0)
+	}
+
+	for (const datum of selectData) {
+
+		const opt = document.createElement("option");
+		opt.value = datum;
+		opt.text = datum;  // name is first synonym from streetArray
+		select.add(opt, null);
+	}
 }
 
 const w3_highway_brown = '#633517';
@@ -43,10 +68,26 @@ const cityGeoJson = await getCityBoundary();
 //const countyBoundariesGeoJson = await getJson('./data/osm-boundaries/AlamedaCounty_And_Children.geojson');
 const countyBoundariesGeoJson = await getJson('./data/osm-boundaries/CaliforniaAndCounties.geojson');
 
-/*
+
+const countyCityJsonFile = './data/county_cities.json';
+const countyCityJSON = await getJson(countyCityJsonFile);
+
+const countyCityLocationsJsonFile = './data/CountyCityLocations.json';
+const countCityLocationsJson = await getJson(countyCityLocationsJsonFile);
+
+const mapNameToCenter = new Map();
 
 
-*/
+for (const row of countCityLocationsJson) {
+
+	const name = row.name;
+	const lat = row.lat;
+	const lng = row.lng;
+
+	if (name && lat && lng) {
+		mapNameToCenter.set(name, { lat: lat, lng: lng });  // ready to feed to Leafleft map.panTo()
+	}
+}
 
 
 async function getIntersections(name) {
@@ -62,9 +103,7 @@ async function getIntersections(name) {
 const LatitudeDefault = 37.87;
 const LongitudeDefault = -122.27;
 
-
-
-const interJson = await getIntersections('albany');
+var intersections = await getIntersections('Alameda_County');
 
 var map;
 
@@ -90,12 +129,30 @@ function createMap() {
 	map.setView(target, 14);
 	// add geojson precincts to map
 
-	layerControl = L.control.layers(null, overlays, { collapsed: true, position: 'topright' }).addTo(map);
+	//layerControl = L.control.layers(null, overlays, { collapsed: true, position: 'topright' }).addTo(map);
 
 }
 
 createMap();
 
+const arrCounties = [];
+const arrCountyCityKeys = [];
+
+const UNINCORPORATED = 'Unincorporated';
+
+for (const obj of countyCityJSON) {
+	arrCounties.push(obj.countyName);
+}
+
+populateSelect(arrCounties, selectCounty);
+
+
+
+
+
+
+
+/*
 // add city boundary to map
 //L.geoJSON(cityGeoJson, { fillOpacity: 0.05 }).addTo(map);
 const cityNames = new Set();
@@ -132,7 +189,7 @@ for (const name of markerCities) {
 	if (name.includes('county') || name.includes('francisco')) {
 		layerControl.addOverlay(mapCityToLayerGroup.get(name), name);
 	}
-}
+}*/
 
 const resizeObserver = new ResizeObserver(() => {
 	console.log("resize observer fired");
@@ -148,9 +205,10 @@ function removeAllMakers() {
 	for (const m of markers) {
 		m.remove();
 	}
+	markers.length = 0; // let the markers be gc'd
 }
 
-function addMarkers(intersections, layerGroup) {
+function addMarkers(intersections) {
 	//removeAllMakers();
 	//const markersAtLocation = new Map();
 	// add collisions to map
@@ -180,11 +238,9 @@ function addMarkers(intersections, layerGroup) {
 		} else {
 			marker.bindPopup(msg).openPopup();
 		}
-		if (layerGroup) {
-			marker.addTo(layerGroup);
-		} else {
-			marker.addTo(map)
-		}
+
+		marker.addTo(map)
+
 		markers.push(marker);
 		markerCount++;
 
@@ -192,8 +248,37 @@ function addMarkers(intersections, layerGroup) {
 	console.log("markerCount ", markerCount)
 }
 
-//addMarkers(interJson.features);
+async function loadIntersectionsForCount( county) {
 
+	intersections = await getIntersections( fileNameIze(county))
+
+}
+/* when county select changes, populate the city */
+async function handleSelectCountyChange(event) {
+	console.log("Select county changed to ", selectCounty.value);
+	const county = selectCounty.value;
+
+	if (map) {
+		const center = mapNameToCenter.get(county);
+		if (center) {
+			map.panTo(center);
+		}
+	}
+
+	removeAllMakers();
+	await loadIntersectionsForCount(county);
+
+	addMarkers(intersections.features);
+
+}
+selectCounty.addEventListener('change', (event) => {
+	handleSelectCountyChange(event);
+});
+
+
+
+//addMarkers(interJson.features);
+/*
 const mapCityToJson = new Map();
 
 for (const name of cityNames) {
@@ -209,7 +294,7 @@ for (const name of cityNames) {
 	}
 }
 
-mapCityToLayerGroup.get("Alameda County").addTo(map);
+mapCityToLayerGroup.get("Alameda County").addTo(map);*/
 
 /* BEGIN UNINCORPORATED
 const countyJson = mapCityToJson.get("alamedacounty");

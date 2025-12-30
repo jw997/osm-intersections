@@ -9,5 +9,5 @@ for file in ./input/ways_*.json; do
 	echo $outputFile
 	cmd="node js/geo.js $file $outputFile"
 	echo $cmd
-	#eval $cmd
+	eval $cmd
 done
