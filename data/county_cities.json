@@ -1,0 +1,946 @@
+[
+  {
+    "countyName": "Alameda County",
+    "cityNames": [
+      "Alameda",
+      "Albany",
+      "Berkeley",
+      "Dublin",
+      "Emeryville",
+      "Fremont",
+      "Hayward",
+      "Livermore",
+      "Newark",
+      "Oakland",
+      "Piedmont",
+      "Pleasanton",
+      "San Leandro",
+      "Union City"
+    ],
+    "countCode": 1
+  },
+  {
+    "countyName": "Alpine County",
+    "cityNames": [
+      "Markleeville"
+    ],
+    "countCode": 2
+  },
+  {
+    "countyName": "Amador County",
+    "cityNames": [
+      "Amador City",
+      "Ione",
+      "Jackson",
+      "Plymouth",
+      "Sutter Creek"
+    ],
+    "countCode": 3
+  },
+  {
+    "countyName": "Butte County",
+    "cityNames": [
+      "Biggs",
+      "Chico",
+      "Durham",
+      "Gridley",
+      "Oroville",
+      "Paradise"
+    ],
+    "countCode": 4
+  },
+  {
+    "countyName": "Calaveras County",
+    "cityNames": [
+      "Angels Camp",
+      "Mokelumne Hill"
+    ],
+    "countCode": 5
+  },
+  {
+    "countyName": "Colusa County",
+    "cityNames": [
+      "Colusa",
+      "Williams"
+    ],
+    "countCode": 6
+  },
+  {
+    "countyName": "Contra Costa County",
+    "cityNames": [
+      "Antioch",
+      "Brentwood",
+      "Clayton",
+      "Concord",
+      "Danville",
+      "El Cerrito",
+      "Hercules",
+      "Lafayette",
+      "Martinez",
+      "Moraga",
+      "Oakley",
+      "Orinda",
+      "Pinole",
+      "Pittsburg",
+      "Pleasant Hill",
+      "Richmond",
+      "San Pablo",
+      "San Ramon",
+      "Walnut Creek"
+    ],
+    "countCode": 7
+  },
+  {
+    "countyName": "Del Norte County",
+    "cityNames": [
+      "Crescent City"
+    ],
+    "countCode": 8
+  },
+  {
+    "countyName": "El Dorado County",
+    "cityNames": [
+      "Placerville",
+      "South Lake Tahoe"
+    ],
+    "countCode": 9
+  },
+  {
+    "countyName": "Fresno County",
+    "cityNames": [
+      "California Army National Guard - 1106 TASMG",
+      "Clovis",
+      "Coalinga",
+      "Firebaugh",
+      "Fowler",
+      "Fresno",
+      "Fresno Air Attack Base",
+      "Huron",
+      "Kerman",
+      "Kingsburg",
+      "Mendota",
+      "Orange Cove",
+      "Parlier",
+      "Reedley",
+      "San Joaquin",
+      "Sanger",
+      "Selma"
+    ],
+    "countCode": 10
+  },
+  {
+    "countyName": "Glenn County",
+    "cityNames": [
+      "Hamilton City",
+      "Orland",
+      "Willows"
+    ],
+    "countCode": 11
+  },
+  {
+    "countyName": "Humboldt County",
+    "cityNames": [
+      "Arcata",
+      "Bayview",
+      "Blank Rock",
+      "Blue Lake",
+      "Eureka",
+      "Ferndale",
+      "Flatiron Rock",
+      "Fortuna",
+      "Little River Rock",
+      "Myrtletown",
+      "Rio Dell",
+      "Trinidad"
+    ],
+    "countCode": 12
+  },
+  {
+    "countyName": "Imperial County",
+    "cityNames": [
+      "Brawley",
+      "Calexico",
+      "Calipatria",
+      "El Centro",
+      "Holtville",
+      "Imperial",
+      "Westmorland"
+    ],
+    "countCode": 13
+  },
+  {
+    "countyName": "Inyo County",
+    "cityNames": [
+      "Bishop",
+      "Charleston View"
+    ],
+    "countCode": 14
+  },
+  {
+    "countyName": "Kern County",
+    "cityNames": [
+      "Arvin",
+      "Bakersfield",
+      "California City",
+      "City of McFarland",
+      "Delano",
+      "Maricopa",
+      "McFarland",
+      "Ridgecrest",
+      "Rosamond",
+      "Rosedale",
+      "Shafter",
+      "Taft",
+      "Tehachapi",
+      "Wasco"
+    ],
+    "countCode": 15
+  },
+  {
+    "countyName": "Kings County",
+    "cityNames": [
+      "Avenal",
+      "Corcoran",
+      "Hanford",
+      "Lemoore"
+    ],
+    "countCode": 16
+  },
+  {
+    "countyName": "Lake County",
+    "cityNames": [
+      "Clearlake",
+      "Lakeport",
+      "Middletown"
+    ],
+    "countCode": 17
+  },
+  {
+    "countyName": "Lassen County",
+    "cityNames": [
+      "Susanville"
+    ],
+    "countCode": 18
+  },
+  {
+    "countyName": "Los Angeles County",
+    "cityNames": [
+      "Agoura Hills",
+      "Alhambra",
+      "Arcadia",
+      "Artesia",
+      "Avalon",
+      "Azusa",
+      "Baldwin Park",
+      "Bell",
+      "Bell Gardens",
+      "Bellflower",
+      "Beverly Hills",
+      "Bradbury",
+      "Burbank",
+      "Calabasas",
+      "Carson",
+      "Cerritos",
+      "City of Industry",
+      "Claremont",
+      "Commerce",
+      "Compton",
+      "Covina",
+      "Cudahy",
+      "Culver City",
+      "Diamond Bar",
+      "Downey",
+      "Duarte",
+      "East Hawthorne",
+      "El Monte",
+      "El Segundo",
+      "Florence-Graham",
+      "Gardena",
+      "Glendale",
+      "Glendora",
+      "Hawaiian Gardens",
+      "Hawthorne",
+      "Hermosa Beach",
+      "Hidden Hills",
+      "Huntington Park",
+      "Inglewood",
+      "Irwindale",
+      "La Cañada Flintridge",
+      "La Habra Heights",
+      "La Mirada",
+      "La Puente",
+      "La Verne",
+      "Lakewood",
+      "Lancaster",
+      "Lawndale",
+      "Lomita",
+      "Long Beach",
+      "Los Angeles",
+      "Lynwood",
+      "Malibu",
+      "Manhattan Beach",
+      "Maywood",
+      "Monrovia",
+      "Montebello",
+      "Monterey Park",
+      "Naples Islands",
+      "Norwalk",
+      "Palmdale",
+      "Palos Verdes Estates",
+      "Palos Verdes Peninsula",
+      "Paramount",
+      "Pasadena",
+      "Pico Rivera",
+      "Pomona",
+      "Rancho Palos Verdes",
+      "Redondo Beach",
+      "Rolling Hills",
+      "Rolling Hills Estates",
+      "San Dimas",
+      "San Fernando",
+      "San Gabriel",
+      "San Marino",
+      "Santa Clarita",
+      "Santa Fe Springs",
+      "Santa Monica",
+      "Sierra Madre",
+      "Signal Hill",
+      "South El Monte",
+      "South Gate",
+      "South Pasadena",
+      "Temple City",
+      "Torrance",
+      "Treasure Island",
+      "Unincorporated Chatsworth",
+      "Unincorporated Rolling Hills Estates",
+      "Unincorporated Santa Monica Mountains",
+      "Unincorporated Watts",
+      "Vernon",
+      "Veterans Administration",
+      "Walnut",
+      "West Covina",
+      "West Hollywood",
+      "Westhills",
+      "Westlake Village",
+      "Whittier"
+    ],
+    "countCode": 19
+  },
+  {
+    "countyName": "Madera County",
+    "cityNames": [
+      "Chowchilla",
+      "Madera",
+      "Yosemite Lakes"
+    ],
+    "countCode": 20
+  },
+  {
+    "countyName": "Marin County",
+    "cityNames": [
+      "Alta",
+      "Bayside Acres",
+      "Bel Marin Keys",
+      "Belvedere",
+      "Black Point-Green Point",
+      "California Park",
+      "Corte Madera",
+      "Country Club",
+      "Fairfax",
+      "Greenbrae Boardwalk",
+      "Kent Island",
+      "Larkspur",
+      "Loma Verde",
+      "Los Ranchitos",
+      "Lucas Valley-Marinwood",
+      "Marin City",
+      "Mill Valley",
+      "Novato",
+      "Paradise Cay",
+      "Point San Pedro",
+      "Ross",
+      "Saint Vincent",
+      "San Anselmo",
+      "San Francisco",
+      "San Quentin",
+      "San Rafael",
+      "Santa Venetia",
+      "Sausalito",
+      "Stormy Stack",
+      "Tiburon",
+      "Unincorporated Tiburon"
+    ],
+    "countCode": 21
+  },
+  {
+    "countyName": "Mariposa County",
+    "cityNames": [],
+    "countCode": 22
+  },
+  {
+    "countyName": "Mendocino County",
+    "cityNames": [
+      "Calpella",
+      "Covelo",
+      "Fort Bragg",
+      "Gunderson Rock",
+      "Kibesillah Rock",
+      "Point Arena",
+      "Potter Valley",
+      "Redwood Valley",
+      "Ukiah",
+      "Wharf Rock",
+      "Willits"
+    ],
+    "countCode": 23
+  },
+  {
+    "countyName": "Merced County",
+    "cityNames": [
+      "Atwater",
+      "Dos Palos",
+      "Gustine",
+      "Livingston",
+      "Los Banos",
+      "Merced"
+    ],
+    "countCode": 24
+  },
+  {
+    "countyName": "Modoc County",
+    "cityNames": [
+      "Alturas"
+    ],
+    "countCode": 25
+  },
+  {
+    "countyName": "Mono County",
+    "cityNames": [
+      "Mammoth Lakes"
+    ],
+    "countCode": 26
+  },
+  {
+    "countyName": "Monterey County",
+    "cityNames": [
+      "Carmel-by-the-Sea",
+      "Del Rey Oaks",
+      "Gonzales",
+      "Greenfield",
+      "King City",
+      "Marina",
+      "Monterey",
+      "Pacific Grove",
+      "Salinas",
+      "Sand City",
+      "Seaside",
+      "Soledad"
+    ],
+    "countCode": 27
+  },
+  {
+    "countyName": "Napa County",
+    "cityNames": [
+      "American Canyon",
+      "Calistoga",
+      "Napa",
+      "St. Helena",
+      "Yountville"
+    ],
+    "countCode": 28
+  },
+  {
+    "countyName": "Nevada County",
+    "cityNames": [
+      "Grass Valley",
+      "Nevada City",
+      "Truckee"
+    ],
+    "countCode": 29
+  },
+  {
+    "countyName": "Orange County",
+    "cityNames": [
+      "Aliso Viejo",
+      "Anaheim",
+      "Brea",
+      "Buena Park",
+      "Costa Mesa",
+      "Cypress",
+      "Dana Point",
+      "Fountain Valley",
+      "Fullerton",
+      "Garden Grove",
+      "Huntington Beach",
+      "Irvine",
+      "La Habra",
+      "La Palma",
+      "Laguna Beach",
+      "Laguna Hills",
+      "Laguna Niguel",
+      "Laguna Woods",
+      "Lake Forest",
+      "Los Alamitos",
+      "Mission Viejo",
+      "Newport Beach",
+      "Orange",
+      "Placentia",
+      "Rancho Santa Margarita",
+      "Rossmoor",
+      "San Clemente",
+      "San Juan Capistrano",
+      "Santa Ana",
+      "Seal Beach",
+      "Stanton",
+      "Tustin",
+      "Villa Park",
+      "Westminster",
+      "Westpark",
+      "Yorba Linda"
+    ],
+    "countCode": 30
+  },
+  {
+    "countyName": "Placer County",
+    "cityNames": [
+      "Auburn",
+      "Colfax",
+      "Lincoln",
+      "Loomis",
+      "Rocklin",
+      "Roseville"
+    ],
+    "countCode": 31
+  },
+  {
+    "countyName": "Plumas County",
+    "cityNames": [
+      "Portola"
+    ],
+    "countCode": 32
+  },
+  {
+    "countyName": "Riverside County",
+    "cityNames": [
+      "Banning",
+      "Beaumont",
+      "Blythe",
+      "Calimesa",
+      "Canyon Lake",
+      "Cathedral City",
+      "Cherry Valley",
+      "Coachella",
+      "Corona",
+      "Desert Hot Springs",
+      "Eastvale",
+      "Hemet",
+      "Indian Wells",
+      "Indio",
+      "Jurupa Valley",
+      "La Quinta",
+      "Lake Elsinore",
+      "Menifee",
+      "Moreno Valley",
+      "Murrieta",
+      "Norco",
+      "Palm Desert",
+      "Palm Springs",
+      "Perris",
+      "Rancho Mirage",
+      "Riverside",
+      "San Jacinto",
+      "Temecula",
+      "Wildomar",
+      "Winchester",
+      "Woodcrest"
+    ],
+    "countCode": 33
+  },
+  {
+    "countyName": "Sacramento County",
+    "cityNames": [
+      "Citrus Heights",
+      "Elk Grove",
+      "Folsom",
+      "Galt",
+      "Isleton",
+      "Rancho Cordova",
+      "Sacramento"
+    ],
+    "countCode": 34
+  },
+  {
+    "countyName": "San Benito County",
+    "cityNames": [
+      "Hollister",
+      "San Juan Bautista"
+    ],
+    "countCode": 35
+  },
+  {
+    "countyName": "San Bernardino County",
+    "cityNames": [
+      "Adelanto",
+      "Apple Valley",
+      "Barstow",
+      "Big Bear Lake",
+      "Bloomington",
+      "Bluewater",
+      "Chino",
+      "Chino Hills",
+      "Colton",
+      "El Mirage",
+      "Fontana",
+      "Grand Terrace",
+      "Helendale",
+      "Hesperia",
+      "Highland",
+      "Loma Linda",
+      "Lytle Creek",
+      "Mentone",
+      "Montclair",
+      "Needles",
+      "Oak Glen",
+      "Ontario",
+      "Oro Grande",
+      "Phelan",
+      "Piñon Hills",
+      "Rancho Cucamonga",
+      "Redlands",
+      "Rialto",
+      "San Bernardino",
+      "Twentynine Palms",
+      "Upland",
+      "Victorville",
+      "Wrightwood",
+      "Yucaipa",
+      "Yucca Valley"
+    ],
+    "countCode": 36
+  },
+  {
+    "countyName": "San Diego County",
+    "cityNames": [
+      "Carlsbad",
+      "Chula Vista",
+      "Coronado",
+      "Del Mar",
+      "El Cajon",
+      "Encinitas",
+      "Escondido",
+      "Imperial Beach",
+      "La Mesa",
+      "Lemon Grove",
+      "National City",
+      "Oceanside",
+      "Poway",
+      "San Diego",
+      "San Marcos",
+      "Santee",
+      "Solana Beach",
+      "Vista"
+    ],
+    "countCode": 37
+  },
+  {
+    "countyName": "San Francisco",
+    "cityNames": [
+      "San Francisco"
+    ],
+    "countCode": 38
+  },
+  {
+    "countyName": "San Joaquin County",
+    "cityNames": [
+      "August",
+      "Country Club",
+      "Escalon",
+      "French Camp",
+      "Lathrop",
+      "Lodi",
+      "Manteca",
+      "Mountain House",
+      "Ripon",
+      "Stockton",
+      "Tracy"
+    ],
+    "countCode": 39
+  },
+  {
+    "countyName": "San Luis Obispo County",
+    "cityNames": [
+      "Arroyo Grande",
+      "Atascadero",
+      "Cambria",
+      "Cayucos",
+      "Grover Beach",
+      "Lake Nacimiento",
+      "Lion Rock",
+      "Morro Bay",
+      "Paso Robles",
+      "Pecho Rock",
+      "Pismo Beach",
+      "San Luis Obispo"
+    ],
+    "countCode": 40
+  },
+  {
+    "countyName": "San Mateo County",
+    "cityNames": [
+      "Atherton",
+      "Belmont",
+      "Brisbane",
+      "Burlingame",
+      "Colma",
+      "Daly City",
+      "East Palo Alto",
+      "Foster City",
+      "Half Moon Bay",
+      "Hillsborough",
+      "Menlo Park",
+      "Millbrae",
+      "Pacifica",
+      "Portola Valley",
+      "Redwood City",
+      "San Bruno",
+      "San Carlos",
+      "San Mateo",
+      "Seal Rock",
+      "South San Francisco",
+      "Woodside"
+    ],
+    "countCode": 41
+  },
+  {
+    "countyName": "Santa Barbara County",
+    "cityNames": [
+      "Buellton",
+      "Carpinteria",
+      "Goleta",
+      "Guadalupe",
+      "Isla Vista",
+      "Santa Barbara",
+      "Santa Maria",
+      "Solvang",
+      "Summerland",
+      "Toro Canyon"
+    ],
+    "countCode": 42
+  },
+  {
+    "countyName": "Santa Clara County",
+    "cityNames": [
+      "Campbell",
+      "Cupertino",
+      "Gilroy",
+      "Los Altos",
+      "Los Altos Hills",
+      "Los Gatos",
+      "Milpitas",
+      "Monte Sereno",
+      "Morgan Hill",
+      "Mountain View",
+      "Palo Alto",
+      "San Jose",
+      "Santa Clara",
+      "Saratoga",
+      "Sunnyvale"
+    ],
+    "countCode": 43
+  },
+  {
+    "countyName": "Santa Cruz County",
+    "cityNames": [
+      "Capitola",
+      "Santa Cruz",
+      "Scotts Valley",
+      "Watsonville"
+    ],
+    "countCode": 44
+  },
+  {
+    "countyName": "Shasta County",
+    "cityNames": [
+      "Anderson",
+      "Cottonwood",
+      "Lakehead-Lakeshore",
+      "McArthur",
+      "Millville",
+      "Palo Cedro",
+      "Redding",
+      "Shasta Lake",
+      "Shingletown"
+    ],
+    "countCode": 45
+  },
+  {
+    "countyName": "Sierra County",
+    "cityNames": [
+      "Loyalton"
+    ],
+    "countCode": 46
+  },
+  {
+    "countyName": "Siskiyou County",
+    "cityNames": [
+      "Dorris",
+      "Dunsmuir",
+      "Etna",
+      "Fort Jones",
+      "Grenada",
+      "Montague",
+      "Mount Shasta",
+      "Tulelake",
+      "Weed",
+      "Yreka"
+    ],
+    "countCode": 47
+  },
+  {
+    "countyName": "Solano County",
+    "cityNames": [
+      "Benicia",
+      "Dixon",
+      "Fairfield",
+      "Rio Vista",
+      "Suisun City",
+      "Vacaville",
+      "Vallejo"
+    ],
+    "countCode": 48
+  },
+  {
+    "countyName": "Sonoma County",
+    "cityNames": [
+      "Black Point-Green Point",
+      "Cloverdale",
+      "Cotati",
+      "Healdsburg",
+      "Larkfield-Wikiup",
+      "Petaluma",
+      "Rohnert Park",
+      "Santa Rosa",
+      "Sebastopol",
+      "Sonoma",
+      "Windsor"
+    ],
+    "countCode": 49
+  },
+  {
+    "countyName": "Stanislaus County",
+    "cityNames": [
+      "Ceres",
+      "Hughson",
+      "Modesto",
+      "Newman",
+      "Oakdale",
+      "Patterson",
+      "Riverbank",
+      "Turlock",
+      "Waterford"
+    ],
+    "countCode": 50
+  },
+  {
+    "countyName": "Sutter County",
+    "cityNames": [
+      "Live Oak",
+      "Yuba City"
+    ],
+    "countCode": 51
+  },
+  {
+    "countyName": "Tehama County",
+    "cityNames": [
+      "Corning",
+      "Gerber",
+      "Los Molinos",
+      "Manton",
+      "Mineral",
+      "Rancho Tehama Reserve",
+      "Red Bluff",
+      "Tehama"
+    ],
+    "countCode": 52
+  },
+  {
+    "countyName": "Trinity County",
+    "cityNames": [],
+    "countCode": 53
+  },
+  {
+    "countyName": "Tulare County",
+    "cityNames": [
+      "Dinuba",
+      "Exeter",
+      "Farmersville",
+      "Lindsay",
+      "Porterville",
+      "Tulare",
+      "Visalia",
+      "Woodlake"
+    ],
+    "countCode": 54
+  },
+  {
+    "countyName": "Tuolumne County",
+    "cityNames": [
+      "Sonora"
+    ],
+    "countCode": 55
+  },
+  {
+    "countyName": "Ventura County",
+    "cityNames": [
+      "Bard Lake",
+      "Box Canyon",
+      "Camarillo",
+      "Casa Conejo",
+      "Channel Islands Beach",
+      "El Rio",
+      "Fillmore",
+      "Kelly Estates",
+      "Lynn Ranch",
+      "Miller Ranch",
+      "Moorpark",
+      "Nyeland Acres",
+      "Oak Park",
+      "Ojai",
+      "Old Malibu",
+      "Oxnard",
+      "Port Hueneme",
+      "Rolling Oaks Ranch",
+      "San Buenaventura (Ventura)",
+      "Santa Paula",
+      "Santa Susana",
+      "Saticoy",
+      "Simi Valley",
+      "Sinaloa",
+      "Thousand Oaks",
+      "Unincorporated Simi Valley",
+      "Ventu Park",
+      "Vista Lago Estates"
+    ],
+    "countCode": 56
+  },
+  {
+    "countyName": "Yolo County",
+    "cityNames": [
+      "Davis",
+      "Dunnigan",
+      "Guinda",
+      "West Sacramento",
+      "Winters",
+      "Woodland"
+    ],
+    "countCode": 57
+  },
+  {
+    "countyName": "Yuba County",
+    "cityNames": [
+      "Marysville",
+      "Wheatland"
+    ],
+    "countCode": 58
+  }
+]
