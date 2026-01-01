@@ -10,9 +10,13 @@ import { readFileSync, writeFileSync } from 'fs';
 /* 
 CONSTANTS
 */
-const slash = '/';
-const underscore = '_';
+const SLASH = '/';
+const UNDERSCORE = '_';
+const SEMICOLON = ';';
 const JUNCTION = 'JUNCTION';
+const MOTORWAY = 'motorway';
+const MOTORWAY_LINK = 'motorway_link';
+
 const metersPerDegree = 100000;
 
 
@@ -46,40 +50,19 @@ function makeFeatureSet(arrFeatures) {
 }
 
 function getWayName(tags) {
-
-	var refname
-	if (tags.ref) {
-		refname = tags.ref.split(';')[0];
-	}
 	const arrNames = [];
 	if (tags.name) {
 		arrNames.push(tags.name)
 	}
 	if (tags.ref) {
-		const refs = tags.ref.split(';');
+		const refs = tags.ref.split(SEMICOLON);
 		for (const r of refs) {
 			arrNames.push(r)
 		}
 	}
-	/* didn;t fix all the freeway interchange problems
-	if (tags.highway == "motorway_link") {
-		const destRefStr  = tags['destination:ref'];
-		const dest = tags.destination;
 
-		if (destRefStr) {
-			const refs =  destRefStr.split(';');
-			for (const r of refs ) {
-				arrNames.push(r)
-			}
-		} else { // no destionation:refs
-			if (dest) {
-				arrNames.push(dest) // is this a street or city??
-			}
-		}
-
-	}*/
 	//const retval = tags.name ?? refname;
-	const retval = arrNames.join(';')
+	const retval = arrNames.join(SEMICOLON)
 	return retval;
 }
 
@@ -207,7 +190,7 @@ function initWayData(obj) {
 	for (const way of obj.elements) {
 		const tags = way.tags;
 
-		if (tags.highway == 'motorway_link' && !tags.name) {
+		if (tags.highway == MOTORWAY_LINK && !tags.name) {
 
 			setMotorwayLinks.add(way);
 		}
@@ -237,47 +220,29 @@ function initWayData(obj) {
 				for (const wayIntersecting of firstNodeWays) {
 					const typeIntersecting = wayIntersecting.tags.highway;
 
-					if ((typeIntersecting == 'motorway') && (wayIntersecting.tags.ref)) {
+					if ((typeIntersecting == MOTORWAY) && (wayIntersecting.tags.ref)) {
 						wayNameFirst = wayIntersecting.tags.ref;
 						break;
 					}
-					if ((typeIntersecting == 'motorway_link') && (wayIntersecting.tags.name)) {
+					if ((typeIntersecting == MOTORWAY_LINK) && (wayIntersecting.tags.name)) {
 						wayNameFirst = wayIntersecting.tags.name
 						break;
 					}
-
-					/*const nameIntersecting = wayIntersecting.tags.name;
-					const typeIntersecting = wayIntersecting.tags.highway;
-
-					if (nameIntersecting) {
-						if (typeIntersecting == 'motorway' || typeIntersecting == 'motorway_link') {
-							wayNamedFirst = wayIntersecting;
-							break;
-						}
-					}*/
 				}
 
 
 				for (const wayIntersecting of lastNodeWays) {
 					const typeIntersecting = wayIntersecting.tags.highway;
 
-					if ((typeIntersecting == 'motorway') && (wayIntersecting.tags.ref)) {
+					if ((typeIntersecting == MOTORWAY) && (wayIntersecting.tags.ref)) {
 						wayNameLast = wayIntersecting.tags.ref;
 						break;
 					}
-					if ((typeIntersecting == 'motorway_link') && (wayIntersecting.tags.name)) {
+					if ((typeIntersecting == MOTORWAY_LINK) && (wayIntersecting.tags.name)) {
 						wayNameLast = wayIntersecting.tags.name
 						break;
 					}
-					/*const nameIntersecting = wayIntersecting.tags.name;
-					const typeIntersecting = wayIntersecting.tags.highway;
-
-					if (nameIntersecting) {
-						if (typeIntersecting == 'motorway' || typeIntersecting == 'motorway_link') {
-							wayNamedLast = wayIntersecting;
-							break;
-						}
-					}*/
+					
 				}
 
 				const wayName = wayNameFirst ?? wayNameLast;
@@ -310,36 +275,6 @@ function initWayData(obj) {
 
 		}
 
-
-
-		/*  name from first node 
-				for (const way of setMotorwayLinks) {
-					const geometry = way.geometry; // list of lat long 
-					const nodes = way.nodes; // list of node ids
-					const tags = way.tags
-					// can get a name from nodes[0]?
-					const firstNode = nodes[0]; const lastNode = nodes[nodes.length - 1];
-					const firstNodeNames = mapNodeIdToNames.get(firstNode);
-					if (firstNodeNames) {
-						const name = Array.from(firstNodeNames)[0];
-						console.log( "naming motorway link ", name)
-						way.tags.name = name;
-		
-						setMotorwayLinks.delete(way)
-		
-						for (let i = 0; i < nodes.length; i++) {
-							mapNodeIdToGps.set(nodes[i], geometry[i])
-							const n = mapNodeIdToNames.get(nodes[i]);
-							if (n) {
-								n.add(name);
-							} else {
-								mapNodeIdToNames.set(nodes[i], new Set([name]));
-							}
-						}
-						wayData.push({ 'name': name, 'geometry': geometry, 'nodes': nodes, 'highway': tags.highway });
-					}
-		
-				}*/
 
 		const endSize = setMotorwayLinks.size;
 
@@ -376,7 +311,7 @@ function initWayData(obj) {
 		// ?????
 
 		let fakeNames = new Set(['JUNCTION']); // not working for motorway_linnks
-		const MOTORWAY_LINK = 'motorway_link';
+		//const MOTORWAY_LINK = 'motorway_link';
 
 		// on off ramps are also unnamed
 		if (MOTORWAY_LINK == tags.highway) {
@@ -391,7 +326,7 @@ function initWayData(obj) {
 		}
 
 		const sorted = Array.from(fakeNames).sort();;
-		const name = sorted.join(slash);
+		const name = sorted.join(SLASH);
 		// later use the JUNCTION to identify nodes around a traffic circle and combine them
 		wayData.push({ 'name': name, 'geometry': geometry, 'nodes': nodes, highway: tags.highway });
 		//console.log(name, geometry.length);
@@ -470,7 +405,7 @@ function distGpsGps(gps1, gps2) {//  { "lat": 37.8655316, "lon": -122.3100479 },
 
 function makeIntersectionString(s) {
 	const sorted = Array.from(s).sort();;
-	const retval = sorted.join(slash);
+	const retval = sorted.join(SLASH);
 	return retval;
 }
 
@@ -485,10 +420,10 @@ function clean(raw) {
 
 	const regex = /_[0-9]/;
 	const trimmed = raw.replace(regex, '');
-	const set = new Set(trimmed.split(slash))
+	const set = new Set(trimmed.split(SLASH))
 	//  console.log( [...set].join(slash));
 
-	const retval = Array.from(set).sort().join(slash);
+	const retval = Array.from(set).sort().join(SLASH);
 
 	return retval;
 }
@@ -574,9 +509,9 @@ function removeJUNCTIONS(obj) {
 	for (const int of intersections) {
 
 		const streets = int.streets;
-		let arrStreets = streets.split(slash).filter((e) => !(e == JUNCTION))
+		let arrStreets = streets.split(SLASH).filter((e) => !(e == JUNCTION))
 		if (arrStreets.length > 1) {
-			int.streets = arrStreets.join(slash);
+			int.streets = arrStreets.join(SLASH);
 			output.push(int);
 		} else {
 			console.log("Removing JUNCTION at ", int.streets, int);
@@ -934,7 +869,7 @@ function findintersections(ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
 
 			if (setOfIntersections.has(intString)) {
 				for (let suffix = 2; suffix < 10; suffix++) {
-					const suffixName = intString + underscore + suffix;
+					const suffixName = intString + UNDERSCORE + suffix;
 					if (!setOfIntersections.has(suffixName)) {
 						intString = suffixName;
 						break;
@@ -1004,7 +939,7 @@ function makeIntersectionGeoJson(intersections) {
 
 		const coords = [lon, lat]
 
-		const streets = intersection.streets.split(slash);
+		const streets = intersection.streets.split(SLASH);
 		const properties = { 'streets': streets };
 		const feature = makePointFeature(coords, properties);
 		arrFeatures.push(feature);
@@ -1037,7 +972,6 @@ const landBoundaryJson = JSON.parse(readFileSync('./data/cityboundary/Land_Bound
 const cityBoundaryFeature = landBoundaryJson.features[0];  // geojson feature
 var cityPoly = polygon(cityBoundaryFeature.geometry.coordinates); // turf polygon
 
-//var wayJson = JSON.parse(readFileSync('./data/ways_alamedacounty.json', 'utf8'));
 var wayJson = JSON.parse(readFileSync(inputFile, 'utf8'));
 var wayData = initWayData(wayJson);
 findDeadEnds(wayJson);
@@ -1045,7 +979,7 @@ findDeadEnds(wayJson);
 const obj = findintersections(wayData);
 
 const geoJson = makeIntersectionGeoJson(obj.intersections);
-//writeFileSync('./data/intersections_alamedacounty.geojson', JSON.stringify(geoJson, null, ' '));
+
 writeFileSync(outputFile, JSON.stringify(geoJson, null, ' '));
 
 /*
