@@ -74131,8 +74131,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2236767,
-     37.1050248
+     -120.2802449,
+     37.144049
     ]
    },
    "properties": {
@@ -74163,8 +74163,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2802449,
-     37.144049
+     -120.2236767,
+     37.1050248
     ]
    },
    "properties": {
@@ -74227,8 +74227,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.1048105,
-     36.9993093
+     -120.1250191,
+     37.0159685
     ]
    },
    "properties": {
@@ -74243,8 +74243,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.1250191,
-     37.0159685
+     -120.1048105,
+     36.9993093
     ]
    },
    "properties": {
@@ -74663,8 +74663,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.5786627,
-     37.3330378
+     -119.5716842,
+     37.3321976
     ]
    },
    "properties": {
@@ -74679,8 +74679,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.5716266,
-     37.33213815
+     -119.5786627,
+     37.3330378
     ]
    },
    "properties": {
@@ -74745,54 +74745,6 @@
     "coordinates": [
      -120.100236,
      36.9582128
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cedar Creek Lane",
-     "Timberline Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.100245,
-     36.9579369
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cedar Creek Lane",
-     "Timberline Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.1002505,
-     36.9578429
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cedar Creek Lane",
-     "Timberline Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.100234,
-     36.9582551
     ]
    },
    "properties": {
@@ -75418,22 +75370,6 @@
     "coordinates": [
      -119.8046501,
      36.88793645
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Peck Boulevard",
-     "Valley Children's Place"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.8048565,
-     36.8878322
     ]
    },
    "properties": {
@@ -76160,8 +76096,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.6180597,
-     37.3012877
+     -119.6196635,
+     37.3000342
     ]
    },
    "properties": {
@@ -76176,8 +76112,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.62185745,
-     37.2987162
+     -119.6180597,
+     37.3012877
     ]
    },
    "properties": {
@@ -76321,8 +76257,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7059262,
-     37.207819
+     -119.7052814,
+     37.2072945
     ]
    },
    "properties": {
@@ -76839,8 +76775,25 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.15892525,
-     37.04262595
+     -120.1594648,
+     37.0422069
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Avenue 20 1",
+     "CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.1583857,
+     37.043045
     ]
    },
    "properties": {
@@ -77661,38 +77614,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.77645745000001,
-     36.9591122
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Road 204",
-     "Road 204 Enchanted HIlls Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.7763344,
-     36.9591979
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Road 204",
-     "Road 204 Enchanted HIlls Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.0788312,
      36.9536811
     ]
@@ -78065,8 +77986,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.79963605,
-     37.279730099999995
+     -119.801095,
+     37.281473
     ]
    },
    "properties": {
@@ -78081,8 +78002,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.79883305,
-     37.2731461
+     -119.799489,
+     37.268305
     ]
    },
    "properties": {
@@ -78823,8 +78744,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.037663,
-     36.9561933
+     -120.0376627,
+     36.9560857
     ]
    },
    "properties": {
@@ -78839,8 +78760,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.03766285,
-     36.956139500000006
+     -120.037663,
+     36.9561933
     ]
    },
    "properties": {
@@ -79225,8 +79146,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.56653829999999,
-     37.32602675
+     -119.5666478,
+     37.3263762
     ]
    },
    "properties": {
@@ -79241,8 +79162,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.5673858,
-     37.3256115
+     -119.5683428,
+     37.3255457
     ]
    },
    "properties": {
@@ -79323,8 +79244,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3706947,
-     37.415862149999995
+     -119.3707504,
+     37.4166603
     ]
    },
    "properties": {
@@ -79339,8 +79260,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.36346814999999,
-     37.4141683
+     -119.3811912,
+     37.416851
     ]
    },
    "properties": {
@@ -79355,8 +79276,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3759708,
-     37.41675565
+     -119.3562973,
+     37.4132726
     ]
    },
    "properties": {
@@ -79491,22 +79412,6 @@
     "streets": [
      "Accornero Street",
      "National Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.07071905000001,
-     36.9608224
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Park Lane",
-     "South Park Drive"
     ]
    }
   },
@@ -81340,8 +81245,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0716273,
-     36.9530002
+     -120.0712808,
+     36.9529947
     ]
    },
    "properties": {
@@ -81356,8 +81261,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0712808,
-     36.9529947
+     -120.0716273,
+     36.9530002
     ]
    },
    "properties": {
@@ -81422,22 +81327,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0860273,
-     36.9818748
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99;I 7–9 FUT",
-     "West Kennedy Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.0851773,
      36.9816066
     ]
@@ -81456,22 +81345,6 @@
     "coordinates": [
      -120.0856964,
      36.9817747
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99;I 7–9 FUT",
-     "West Kennedy Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.0858085,
-     36.9818024
     ]
    },
    "properties": {
@@ -81518,8 +81391,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0770801,
-     36.9746097
+     -120.0751696,
+     36.9745906
     ]
    },
    "properties": {
@@ -81534,8 +81407,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0751696,
-     36.9745906
+     -120.0770801,
+     36.9746097
     ]
    },
    "properties": {
@@ -81599,8 +81472,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0682451,
-     36.9646057
+     -120.0686609,
+     36.9653068
     ]
    },
    "properties": {
@@ -81615,8 +81488,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0629128,
-     36.9595231
+     -120.0682451,
+     36.9646057
     ]
    },
    "properties": {
@@ -81647,40 +81520,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0686609,
-     36.9653068
-    ]
-   },
-   "properties": {
-    "streets": [
-     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
-     "CA 99;I 7–9 FUT"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.0243025,
-     36.9267909
-    ]
-   },
-   "properties": {
-    "streets": [
-     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
-     "CA 99;I 7–9 FUT"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.0448013,
-     36.9467618
+     -120.0629128,
+     36.9595231
     ]
    },
    "properties": {
@@ -81727,6 +81568,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.0448013,
+     36.9467618
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0243025,
+     36.9267909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.7928685,
      36.8975131
     ]
@@ -81743,8 +81616,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7930009,
-     36.891894
+     -119.7923706,
+     36.9023326
     ]
    },
    "properties": {
@@ -81759,8 +81632,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7923706,
-     36.9023326
+     -119.7930009,
+     36.891894
     ]
    },
    "properties": {
@@ -81825,8 +81698,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2153265,
-     37.0982623
+     -120.2169456,
+     37.0982581
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 24",
+     "CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.215451,
+     37.098261
     ]
    },
    "properties": {
@@ -81941,8 +81830,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.22524580000001,
-     37.125219799999996
+     -120.2234451,
+     37.1247603
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Spanish Bay Way",
+     "Spyglass Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2270465,
+     37.1256793
     ]
    },
    "properties": {
@@ -82104,8 +82009,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0259748,
-     36.9237256
+     -120.02130315,
+     36.923833349999995
     ]
    },
    "properties": {
@@ -82122,6 +82027,22 @@
     "coordinates": [
      -120.02452305,
      36.92383065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 12",
+     "CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0259748,
+     36.9237256
     ]
    },
    "properties": {
@@ -82184,24 +82105,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.1012683,
-     36.9964897
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Avenue 17",
-     "CA 99;I 7–9 FUT"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.1015265,
-     36.9964883
+     -120.1037248,
+     36.9964907
     ]
    },
    "properties": {
@@ -82232,8 +82137,57 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.12907285,
-     37.01825045
+     -120.1015265,
+     36.9964883
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 17",
+     "CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.1012683,
+     36.9964897
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 17",
+     "CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.1279405,
+     37.0182551
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Avenue 18 1",
+     "CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.1302052,
+     37.0182458
     ]
    },
    "properties": {
@@ -82875,8 +82829,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.1012383,
-     36.95604345
+     -120.1011647,
+     36.9560437
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westberry Boulevard",
+     "Westgate Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.1013119,
+     36.9560432
     ]
    },
    "properties": {
@@ -82893,22 +82863,6 @@
     "coordinates": [
      -120.03761515,
      36.9493289
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Mira Loma Way",
-     "Tozer Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.0375629,
-     36.9494128
     ]
    },
    "properties": {
@@ -83117,7 +83071,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.803015425,
+     -119.80301542500001,
      36.921008975
     ]
    },
@@ -83257,73 +83211,6 @@
     "streets": [
      "Market Avenue",
      "South Riverwalk Boulevard;CA 41 Business",
-     "West Market Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.7988828,
-     36.9205289
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Market Avenue",
-     "South Riverwalk Boulevard;CA 41 Business",
-     "West Market Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.7989357,
-     36.9203985
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Market Avenue",
-     "South Riverwalk Boulevard;CA 41 Business",
-     "West Market Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.79882955,
-     36.92043725
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Market Avenue",
-     "South Riverwalk Boulevard;CA 41 Business",
-     "West Market Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.80043610000001,
-     36.9198613
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cascade Way",
      "West Market Avenue"
     ]
    }
@@ -83528,7 +83415,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.80755244999999,
+     -119.80755245,
      36.921023925
     ]
    },
@@ -83691,7 +83578,7 @@
     "type": "Point",
     "coordinates": [
      -119.81545742499999,
-     36.920521699999995
+     36.9205217
     ]
    },
    "properties": {
@@ -83914,8 +83801,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.81675575,
-     36.9219246
+     -119.8175872,
+     36.9219196
     ]
    },
    "properties": {
@@ -83946,8 +83833,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.81939105000001,
-     36.921419150000006
+     -119.8205923,
+     36.9214142
     ]
    },
    "properties": {
@@ -84026,8 +83913,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8193891,
-     36.9208128
+     -119.820589,
+     36.9208098
     ]
    },
    "properties": {

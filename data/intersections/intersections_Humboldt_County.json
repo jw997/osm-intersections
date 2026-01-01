@@ -74360,6 +74360,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -124.040645,
+     40.906938
+    ]
+   },
+   "properties": {
+    "streets": [
+     "3B",
+     "CA 299"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -124.033502,
      40.906808
     ]
@@ -74392,14 +74408,15 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.040645,
-     40.906938
+     -124.0373858,
+     40.9064059
     ]
    },
    "properties": {
     "streets": [
      "3B",
-     "CA 299"
+     "CA 299",
+     "Essex Lane"
     ]
    }
   },
@@ -74408,8 +74425,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.037348,
-     40.90689235
+     -124.0373102,
+     40.9073788
     ]
    },
    "properties": {
@@ -74476,8 +74493,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1487444,
-     40.5719396
+     -124.1737768,
+     40.6026162
     ]
    },
    "properties": {
@@ -74493,8 +74510,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1737768,
-     40.6026162
+     -124.1487444,
+     40.5719396
     ]
    },
    "properties": {
@@ -74559,15 +74576,14 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1130597,
-     40.9965654
+     -124.160021,
+     40.7960322
     ]
    },
    "properties": {
     "streets": [
-     "Redwood Highway;US 101",
-     "US 101",
-     "US 101 BUS"
+     "13th Street",
+     "J Street"
     ]
    }
   },
@@ -74576,8 +74592,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.0931036,
-     40.9164912
+     -124.1130597,
+     40.9965654
     ]
    },
    "properties": {
@@ -74627,88 +74643,25 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -124.0931036,
+     40.9164912
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "US 101",
+     "US 101 BUS"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -123.8609889,
      40.9303205
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Old California State Route 299",
-     "Trinity Highway;CA 299"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.85921345,
-     40.93020225
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Old California State Route 299",
-     "Trinity Highway;CA 299"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.916207,
-     40.904883
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Old California State Route 299",
-     "Trinity Highway;CA 299"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.9162805,
-     40.905660499999996
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Old California State Route 299",
-     "Trinity Highway;CA 299"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.825412,
-     40.912373
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Old California State Route 299",
-     "Trinity Highway;CA 299"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.915888,
-     40.9102
     ]
    },
    "properties": {
@@ -74739,6 +74692,102 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -123.857438,
+     40.930084
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old California State Route 299",
+     "Trinity Highway;CA 299"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.825412,
+     40.912373
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old California State Route 299",
+     "Trinity Highway;CA 299"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.797082,
+     40.922888
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old California State Route 299",
+     "Trinity Highway;CA 299"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.915888,
+     40.9102
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old California State Route 299",
+     "Trinity Highway;CA 299"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.916354,
+     40.906438
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old California State Route 299",
+     "Trinity Highway;CA 299"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.916207,
+     40.904883
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old California State Route 299",
+     "Trinity Highway;CA 299"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -124.0727398,
      40.9075417
     ]
@@ -74755,8 +74804,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.0754442,
-     40.9016535
+     -124.0752695,
+     40.9015882
     ]
    },
    "properties": {
@@ -74771,8 +74820,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.0752695,
-     40.9015882
+     -124.0754442,
+     40.9016535
     ]
    },
    "properties": {
@@ -74839,6 +74888,22 @@
     "coordinates": [
      -124.0870017,
      40.8715997
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Street",
+     "I Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1613441,
+     40.7967015
     ]
    },
    "properties": {
@@ -75061,8 +75126,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.2115441,
-     40.60211135
+     -124.211119,
+     40.602632
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 211",
+     "Old California State Route 211"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.2309814,
+     40.5977461
     ]
    },
    "properties": {
@@ -75157,40 +75238,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -123.688067,
+     40.764928
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Berry Summit-Mad River Road;NF 1; FR 6N01",
+     "Berry Summit-Mad River Road;NF 1;FR 6N01"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.5625511,
+     40.6139199
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Berry Summit-Mad River Road;NF 1; FR 6N01",
+     "Berry Summit-Mad River Road;NF 1;FR 6N01"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -123.5571545,
      40.606003
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Berry Summit-Mad River Road;NF 1; FR 6N01",
-     "Berry Summit-Mad River Road;NF 1;FR 6N01"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.6930885,
-     40.74230635
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Berry Summit-Mad River Road;NF 1; FR 6N01",
-     "Berry Summit-Mad River Road;NF 1;FR 6N01"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.55985279999999,
-     40.60996145
     ]
    },
    "properties": {
@@ -75605,8 +75686,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1236234,
-     40.8343448
+     -124.0874188,
+     40.8734707
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Street",
+     "J Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.159828,
+     40.7952189
     ]
    },
    "properties": {
@@ -75701,8 +75798,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1591428,
-     40.7923886
+     -124.1592448,
+     40.7928193
     ]
    },
    "properties": {
@@ -75717,8 +75814,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1592448,
-     40.7928193
+     -124.1591428,
+     40.7923886
     ]
    },
    "properties": {
@@ -75749,8 +75846,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12559645,
-     40.8344123
+     -124.0897999,
+     40.8671223
     ]
    },
    "properties": {
@@ -75765,8 +75862,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12534794999999,
-     40.83440135
+     -124.161393,
+     40.8017023
+    ]
+   },
+   "properties": {
+    "streets": [
+     "6th Street",
+     "J Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0895075,
+     40.8679014
     ]
    },
    "properties": {
@@ -75781,13 +75894,77 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12510839999999,
-     40.834401
+     -124.1611884,
+     40.8009013
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "J Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0892162,
+     40.8687125
     ]
    },
    "properties": {
     "streets": [
      "8th Street",
+     "J Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1610006,
+     40.8000895
+    ]
+   },
+   "properties": {
+    "streets": [
+     "8th Street",
+     "J Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0889067,
+     40.8694999
+    ]
+   },
+   "properties": {
+    "streets": [
+     "9th Street",
+     "J Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1608035,
+     40.7992818
+    ]
+   },
+   "properties": {
+    "streets": [
+     "9th Street",
      "J Street"
     ]
    }
@@ -75813,13 +75990,61 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.13527470000001,
-     40.754754933333324
+     -124.0886069,
+     40.8702974
     ]
    },
    "properties": {
     "streets": [
      "10th Street",
+     "J Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1606026,
+     40.7984617
+    ]
+   },
+   "properties": {
+    "streets": [
+     "10th Street",
+     "J Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1566146,
+     40.5955057
+    ]
+   },
+   "properties": {
+    "streets": [
+     "10th Street",
+     "J Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0883105,
+     40.8710863
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
      "J Street"
     ]
    }
@@ -75845,8 +76070,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1544877,
-     40.5954988
+     -124.1555568,
+     40.5955054
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "J Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0880087,
+     40.8718857
     ]
    },
    "properties": {
@@ -75863,6 +76104,22 @@
     "coordinates": [
      -124.1602247,
      40.7968565
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Street",
+     "J Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1544877,
+     40.5954988
     ]
    },
    "properties": {
@@ -76357,8 +76614,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1264587,
-     40.8337206
+     -124.0865308,
+     40.8638343
+    ]
+   },
+   "properties": {
+    "streets": [
+     "3rd Street",
+     "F Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1663866,
+     40.8036069
     ]
    },
    "properties": {
@@ -77093,8 +77366,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1592203,
-     40.5985596
+     -124.1567126,
+     40.8006873
     ]
    },
    "properties": {
@@ -77125,6 +77398,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -124.1592203,
+     40.5985596
+    ]
+   },
+   "properties": {
+    "streets": [
+     "8th Street",
+     "N Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -124.093069,
      40.8704031
     ]
@@ -77141,8 +77430,72 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.13523516666667,
-     40.756356966666665
+     -124.1565136,
+     40.799876
+    ]
+   },
+   "properties": {
+    "streets": [
+     "9th Street",
+     "N Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1575661,
+     40.5987642
+    ]
+   },
+   "properties": {
+    "streets": [
+     "9th Street",
+     "N Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0927635,
+     40.8712
+    ]
+   },
+   "properties": {
+    "streets": [
+     "10th Street",
+     "N Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1563116,
+     40.7990649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "10th Street",
+     "N Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1566304,
+     40.598806
     ]
    },
    "properties": {
@@ -77173,6 +77526,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -124.1561108,
+     40.7982424
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "N Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1555532,
+     40.598836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "N Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1523022,
+     40.5988136
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Street",
+     "N Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1555253,
+     40.7958237
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Street",
+     "N Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -124.1556381,
      40.7962209
     ]
@@ -77189,8 +77606,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.15455829999999,
-     40.697719649999996
+     -124.1533822,
+     40.5988138
     ]
    },
    "properties": {
@@ -77205,8 +77622,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1552037,
-     40.698138
+     -124.1557344,
+     40.7966255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "13th Street",
+     "N Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1544746,
+     40.5988304
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Street",
+     "N Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1559328,
+     40.7974456
     ]
    },
    "properties": {
@@ -77477,8 +77926,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.024075,
-     40.921713
+     -124.02402649999999,
+     40.921713999999994
     ]
    },
    "properties": {
@@ -77493,8 +77942,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.024,
-     40.922489
+     -124.024022,
+     40.923263
     ]
    },
    "properties": {
@@ -78069,8 +78518,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.906299,
-     40.184506
+     -123.911594,
+     40.202348
     ]
    },
    "properties": {
@@ -78101,8 +78550,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.91620649999999,
-     40.203022000000004
+     -123.906299,
+     40.184506
     ]
    },
    "properties": {
@@ -78293,8 +78742,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -124.098434,
+     40.9208908
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1143966,
+     40.9322271
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -124.1156157,
      40.9363499
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1161259,
+     40.9369812
     ]
    },
    "properties": {
@@ -78327,54 +78824,6 @@
     "coordinates": [
      -124.1159619,
      40.9583523
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -124.1161259,
-     40.9369812
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -124.1143966,
-     40.9322271
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -124.098434,
-     40.9208908
     ]
    },
    "properties": {
@@ -78983,8 +79432,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12911199999999,
-     40.5143128
+     -124.14287605,
+     40.5194939
     ]
    },
    "properties": {
@@ -78999,8 +79448,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.14287605,
-     40.5194939
+     -124.12911199999999,
+     40.5143128
     ]
    },
    "properties": {
@@ -79143,8 +79592,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1928929,
-     40.76527815
+     -124.2159981,
+     40.7265921
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2nd Street",
+     "C Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1697877,
+     40.8039642
     ]
    },
    "properties": {
@@ -79161,6 +79626,22 @@
     "coordinates": [
      -124.2156914,
      40.7273431
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2nd Street",
+     "D Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1687185,
+     40.8041141
     ]
    },
    "properties": {
@@ -79479,8 +79960,72 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1353077,
-     40.75414583333333
+     -124.1619248,
+     40.7991265
+    ]
+   },
+   "properties": {
+    "streets": [
+     "9th Street",
+     "I Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.087856,
+     40.869281
+    ]
+   },
+   "properties": {
+    "streets": [
+     "9th Street",
+     "I Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1566237,
+     40.5940631
+    ]
+   },
+   "properties": {
+    "streets": [
+     "10th Street",
+     "I Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1617313,
+     40.7983056
+    ]
+   },
+   "properties": {
+    "streets": [
+     "10th Street",
+     "I Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0875681,
+     40.8700688
     ]
    },
    "properties": {
@@ -79527,8 +80072,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12341475,
-     40.8341521
+     -124.0872721,
+     40.8708667
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "I Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0860788,
+     40.8740433
     ]
    },
    "properties": {
@@ -79543,8 +80104,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12316455,
-     40.83414055
+     -124.1607507,
+     40.7942609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "15th Street",
+     "I Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0857781,
+     40.8748334
+    ]
+   },
+   "properties": {
+    "streets": [
+     "16th Street",
+     "I Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.160551,
+     40.7934477
     ]
    },
    "properties": {
@@ -79591,8 +80184,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12390685,
-     40.83416305
+     -124.0866703,
+     40.8724514
+    ]
+   },
+   "properties": {
+    "streets": [
+     "13th Street",
+     "I Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1611434,
+     40.7958747
     ]
    },
    "properties": {
@@ -79943,8 +80552,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.826055,
-     40.114205
+     -123.828434,
+     40.116415
     ]
    },
    "properties": {
@@ -79959,8 +80568,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.8272445,
-     40.11531
+     -123.826055,
+     40.114205
     ]
    },
    "properties": {
@@ -79991,8 +80600,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.018434,
-     40.8018455
+     -124.018078,
+     40.802756
     ]
    },
    "properties": {
@@ -80007,8 +80616,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.017867,
-     40.8030165
+     -124.017656,
+     40.803277
     ]
    },
    "properties": {
@@ -80167,8 +80776,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.07699755,
-     40.8807245
+     -124.076025,
+     40.880561
+    ]
+   },
+   "properties": {
+    "streets": [
+     "California Avenue",
+     "Terrace Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0779701,
+     40.880888
     ]
    },
    "properties": {
@@ -80631,6 +81256,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -123.831282,
+     40.301456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kelsey Lane",
+     "Kelsy Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -123.841751,
      40.300502
     ]
@@ -80951,8 +81592,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.7722115,
-     40.065207
+     -123.773006,
+     40.064416
     ]
    },
    "properties": {
@@ -80967,8 +81608,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.770384,
-     40.063409500000006
+     -123.767762,
+     40.062403
     ]
    },
    "properties": {
@@ -81191,8 +81832,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.18574000000001,
-     40.711141
+     -124.188376,
+     40.703628
     ]
    },
    "properties": {
@@ -81207,8 +81848,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.18591900000001,
-     40.711228500000004
+     -124.183462,
+     40.718829
     ]
    },
    "properties": {
@@ -81543,8 +82184,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.084609,
-     40.803747
+     -124.082531,
+     40.803737
     ]
    },
    "properties": {
@@ -81559,8 +82200,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.082531,
-     40.803737
+     -124.084609,
+     40.803747
     ]
    },
    "properties": {
@@ -81655,6 +82296,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -124.1601046,
+     40.8010539
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "K Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0905648,
+     40.8681347
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "K Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1602253,
+     40.5971654
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "L Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1590421,
+     40.8012066
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "L Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -124.0915278,
      40.8683406
     ]
@@ -81703,8 +82408,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1254627,
-     40.8336507
+     -124.1655935,
+     40.8002858
     ]
    },
    "properties": {
@@ -81719,8 +82424,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12545045,
-     40.83383915
+     -124.0853319,
+     40.8670156
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "F Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1645245,
+     40.8004352
     ]
    },
    "properties": {
@@ -81735,8 +82456,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12543935,
-     40.8340278
+     -124.0863764,
+     40.8672431
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "G Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1634409,
+     40.8005866
     ]
    },
    "properties": {
@@ -81751,8 +82488,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12538935,
-     40.834214700000004
+     -124.0874378,
+     40.867469
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "H Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1623148,
+     40.8007439
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "I Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0884639,
+     40.8676855
     ]
    },
    "properties": {
@@ -81959,8 +82728,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1252099,
-     40.8338325
+     -124.1643238,
+     40.7996239
     ]
    },
    "properties": {
@@ -81975,8 +82744,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12517065,
-     40.834011849999996
+     -124.086096,
+     40.8680411
+    ]
+   },
+   "properties": {
+    "streets": [
+     "8th Street",
+     "G Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1632353,
+     40.7997688
     ]
    },
    "properties": {
@@ -81991,14 +82776,78 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12514505,
-     40.8341994
+     -124.087106,
+     40.8682549
+    ]
+   },
+   "properties": {
+    "streets": [
+     "8th Street",
+     "H Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1621224,
+     40.7999345
     ]
    },
    "properties": {
     "streets": [
      "8th Street",
      "I Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0881677,
+     40.8684643
+    ]
+   },
+   "properties": {
+    "streets": [
+     "8th Street",
+     "I Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1598984,
+     40.800238
+    ]
+   },
+   "properties": {
+    "streets": [
+     "8th Street",
+     "K Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0902549,
+     40.8689264
+    ]
+   },
+   "properties": {
+    "streets": [
+     "8th Street",
+     "K Street"
     ]
    }
   },
@@ -82023,8 +82872,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.13645306666668,
-     40.75555813333333
+     -124.1588456,
+     40.8003854
     ]
    },
    "properties": {
@@ -82039,8 +82888,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.15742574999999,
-     40.70009935
+     -124.0912569,
+     40.8691282
+    ]
+   },
+   "properties": {
+    "streets": [
+     "8th Street",
+     "L Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1592567,
+     40.5971608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "8th Street",
+     "L Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.155639,
+     40.8008289
+    ]
+   },
+   "properties": {
+    "streets": [
+     "8th Street",
+     "O Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1592125,
+     40.5993698
     ]
    },
    "properties": {
@@ -82151,8 +83048,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.11563426666667,
-     40.9688209
+     -124.1152096,
+     40.96881784999999
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Airport Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1164836,
+     40.968827
     ]
    },
    "properties": {
@@ -82231,8 +83144,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1587459,
-     40.700929349999996
+     -124.161468,
+     40.5994131
+    ]
+   },
+   "properties": {
+    "streets": [
+     "6th Street",
+     "O Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1560238,
+     40.8024456
     ]
    },
    "properties": {
@@ -82265,6 +83194,22 @@
     "coordinates": [
      -124.161578,
      40.6001889
+    ]
+   },
+   "properties": {
+    "streets": [
+     "6th Street",
+     "P Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1549622,
+     40.8025925
     ]
    },
    "properties": {
@@ -82343,8 +83288,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12570265,
-     40.833842700000005
+     -124.086689,
+     40.866447
     ]
    },
    "properties": {
@@ -82359,8 +83304,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.125681,
-     40.8340309
+     -124.1647163,
+     40.8012384
+    ]
+   },
+   "properties": {
+    "streets": [
+     "6th Street",
+     "G Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0877294,
+     40.8666721
     ]
    },
    "properties": {
@@ -82375,8 +83336,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12563575,
-     40.83422015
+     -124.1636326,
+     40.8013897
+    ]
+   },
+   "properties": {
+    "streets": [
+     "6th Street",
+     "H Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0887604,
+     40.8668941
+    ]
+   },
+   "properties": {
+    "streets": [
+     "6th Street",
+     "I Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1625111,
+     40.8015462
     ]
    },
    "properties": {
@@ -82519,8 +83512,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1249717,
-     40.83364445
+     -124.0847376,
+     40.8686169
     ]
    },
    "properties": {
@@ -82535,8 +83528,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1249696,
-     40.83381835
+     -124.1652058,
+     40.798672
+    ]
+   },
+   "properties": {
+    "streets": [
+     "9th Street",
+     "F Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1641353,
+     40.7988203
     ]
    },
    "properties": {
@@ -82551,14 +83560,78 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12493205,
-     40.8340058
+     -124.0858039,
+     40.8688164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "9th Street",
+     "G Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1630424,
+     40.7989717
     ]
    },
    "properties": {
     "streets": [
      "9th Street",
      "H Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0868217,
+     40.8690399
+    ]
+   },
+   "properties": {
+    "streets": [
+     "9th Street",
+     "H Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1597086,
+     40.7994334
+    ]
+   },
+   "properties": {
+    "streets": [
+     "9th Street",
+     "K Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0899548,
+     40.8697218
+    ]
+   },
+   "properties": {
+    "streets": [
+     "9th Street",
+     "K Street"
     ]
    }
   },
@@ -82583,14 +83656,62 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.13572536666668,
-     40.75555766666667
+     -124.1586484,
+     40.7995803
     ]
    },
    "properties": {
     "streets": [
      "9th Street",
      "L Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0909489,
+     40.869936
+    ]
+   },
+   "properties": {
+    "streets": [
+     "9th Street",
+     "L Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1575788,
+     40.5971567
+    ]
+   },
+   "properties": {
+    "streets": [
+     "9th Street",
+     "L Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1554461,
+     40.8000239
+    ]
+   },
+   "properties": {
+    "streets": [
+     "9th Street",
+     "O Street"
     ]
    }
   },
@@ -82983,8 +84104,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.05379785,
-     40.45418105
+     -124.0599457,
+     40.4541231
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Road",
+     "Stafford Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.05993,
+     40.45489
     ]
    },
    "properties": {
@@ -83175,8 +84312,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1097181,
-     40.506239
+     -124.1094156,
+     40.5053977
     ]
    },
    "properties": {
@@ -83191,8 +84328,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1094156,
-     40.5053977
+     -124.10967905,
+     40.506116
     ]
    },
    "properties": {
@@ -83895,6 +85032,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -124.1512577,
+     40.5971216
+    ]
+   },
+   "properties": {
+    "streets": [
+     "15th Street",
+     "L Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -124.1574902,
      40.7947268
     ]
@@ -83911,8 +85064,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1549966,
-     40.6963203
+     -124.0892117,
+     40.8746872
+    ]
+   },
+   "properties": {
+    "streets": [
+     "15th Street",
+     "L Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1523182,
+     40.5971229
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Street",
+     "L Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.157675,
+     40.7955177
     ]
    },
    "properties": {
@@ -83991,6 +85176,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -124.1555662,
+     40.5971476
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "L Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1582574,
+     40.7979489
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "L Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -124.0903608,
      40.8715145
     ]
@@ -84007,8 +85224,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.13524366666667,
-     40.755552466666664
+     -124.0906533,
+     40.8707386
+    ]
+   },
+   "properties": {
+    "streets": [
+     "10th Street",
+     "L Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1584468,
+     40.7987653
+    ]
+   },
+   "properties": {
+    "streets": [
+     "10th Street",
+     "L Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1566309,
+     40.5971535
     ]
    },
    "properties": {
@@ -84071,8 +85320,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1079855,
-     41.0135424
+     -124.1074213,
+     41.0133916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clam Beach Drive",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1085497,
+     41.0136932
     ]
    },
    "properties": {
@@ -84551,8 +85816,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.107041,
-     40.762349
+     -124.106043,
+     40.763774
     ]
    },
    "properties": {
@@ -84567,8 +85832,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.106043,
-     40.763774
+     -124.107041,
+     40.762349
     ]
    },
    "properties": {
@@ -84599,22 +85864,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.739777,
-     40.90502
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cedar Creek Road",
-     "Trinity Highway;CA 299"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -123.748166,
      40.906041
     ]
@@ -84631,8 +85880,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.74401549999999,
-     40.905504
+     -123.739865,
+     40.904967
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cedar Creek Road",
+     "Trinity Highway;CA 299"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.739777,
+     40.90502
     ]
    },
    "properties": {
@@ -84759,8 +86024,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1243811,
-     40.83287755
+     -124.0790731,
+     40.8716668
     ]
    },
    "properties": {
@@ -84775,8 +86040,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.09913904999999,
-     40.4992115
+     -124.1696891,
+     40.7940883
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Street",
+     "B Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1002747,
+     40.4992176
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Davis Street",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0980034,
+     40.4992054
     ]
    },
    "properties": {
@@ -84935,8 +86232,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1242186,
-     40.8336022
+     -124.1646052,
+     40.7962277
     ]
    },
    "properties": {
@@ -84951,8 +86248,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12421764999999,
-     40.8337919
+     -124.083832,
+     40.8709767
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Street",
+     "F Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1635466,
+     40.7963779
     ]
    },
    "properties": {
@@ -84967,8 +86280,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12419285,
-     40.83398675
+     -124.0848887,
+     40.8712059
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Street",
+     "G Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1624667,
+     40.796546
     ]
    },
    "properties": {
@@ -84983,8 +86312,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1217696,
-     40.734212150000005
+     -124.085919,
+     40.8714275
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Street",
+     "H Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0890581,
+     40.8721065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Street",
+     "K Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1544811,
+     40.5963178
     ]
    },
    "properties": {
@@ -85159,8 +86520,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12396795000001,
-     40.83378375
+     -124.1633492,
+     40.795571
     ]
    },
    "properties": {
@@ -85175,8 +86536,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12394330000001,
-     40.833973549999996
+     -124.0845867,
+     40.8719965
+    ]
+   },
+   "properties": {
+    "streets": [
+     "13th Street",
+     "G Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1622675,
+     40.7957256
+    ]
+   },
+   "properties": {
+    "streets": [
+     "13th Street",
+     "H Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0856191,
+     40.8722215
     ]
    },
    "properties": {
@@ -85223,8 +86616,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.13318613333333,
-     40.75511853333334
+     -124.0884755,
+     40.8736778
     ]
    },
    "properties": {
@@ -85239,8 +86632,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.13526293333332,
-     40.7551574
+     -124.1587389,
+     40.7953691
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Street",
+     "K Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.152344,
+     40.5963087
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Street",
+     "K Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1566251,
+     40.5963307
     ]
    },
    "properties": {
@@ -85255,8 +86680,72 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.13474576666665,
-     40.75514496666667
+     -124.1595136,
+     40.7986205
+    ]
+   },
+   "properties": {
+    "streets": [
+     "10th Street",
+     "K Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0896501,
+     40.870521
+    ]
+   },
+   "properties": {
+    "streets": [
+     "10th Street",
+     "K Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.15556,
+     40.5963265
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "K Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1593175,
+     40.7978034
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "K Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0893598,
+     40.871305
     ]
    },
    "properties": {
@@ -85415,8 +86904,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12345805,
-     40.8339601
+     -124.0839906,
+     40.8735849
+    ]
+   },
+   "properties": {
+    "streets": [
+     "15th Street",
+     "G Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0850299,
+     40.8738095
+    ]
+   },
+   "properties": {
+    "streets": [
+     "15th Street",
+     "H Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1618862,
+     40.7941107
     ]
    },
    "properties": {
@@ -85591,8 +87112,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12320105,
-     40.8339439
+     -124.1616702,
+     40.7932901
+    ]
+   },
+   "properties": {
+    "streets": [
+     "16th Street",
+     "H Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0847319,
+     40.8745977
     ]
    },
    "properties": {
@@ -85703,8 +87240,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.122958,
-     40.83394765
+     -124.0844278,
+     40.875395
+    ]
+   },
+   "properties": {
+    "streets": [
+     "17th Street",
+     "H Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1614882,
+     40.7925003
     ]
    },
    "properties": {
@@ -85767,8 +87320,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.15808905,
-     40.70051255
+     -124.0938407,
+     40.8714378
+    ]
+   },
+   "properties": {
+    "streets": [
+     "10th Street",
+     "O Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1566218,
+     40.5996664
+    ]
+   },
+   "properties": {
+    "streets": [
+     "10th Street",
+     "O Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1558383,
+     40.80165
     ]
    },
    "properties": {
@@ -85783,8 +87368,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -124.1603398,
+     40.5993751
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "O Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0935299,
+     40.8722142
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "O Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -124.1550573,
      40.7983989
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "O Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1555517,
+     40.5996607
     ]
    },
    "properties": {
@@ -85847,8 +87480,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.8996368,
-     40.638977
+     -123.89927,
+     40.638973
     ]
    },
    "properties": {
@@ -85863,8 +87496,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.89927,
-     40.638973
+     -123.8996368,
+     40.638977
     ]
    },
    "properties": {
@@ -85959,6 +87592,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -124.162843,
+     40.7981525
+    ]
+   },
+   "properties": {
+    "streets": [
+     "10th Street",
+     "H Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0865209,
+     40.8698392
+    ]
+   },
+   "properties": {
+    "streets": [
+     "10th Street",
+     "H Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -124.0854933,
      40.8696158
     ]
@@ -86039,8 +87704,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1244719,
-     40.833620249999996
+     -124.1648084,
+     40.7970611
     ]
    },
    "properties": {
@@ -86055,8 +87720,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.124469,
-     40.8338097
+     -124.0841354,
+     40.8701794
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "F Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1637476,
+     40.7972087
     ]
    },
    "properties": {
@@ -86071,8 +87752,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12443875,
-     40.83399755
+     -124.0851904,
+     40.8704107
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "G Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1626576,
+     40.7973604
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "H Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0862199,
+     40.8706347
     ]
    },
    "properties": {
@@ -86089,22 +87802,6 @@
     "coordinates": [
      -123.79511,
      40.0966882
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Drive",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.7961291,
-     40.104563
     ]
    },
    "properties": {
@@ -86153,6 +87850,22 @@
     "coordinates": [
      -123.7954002,
      40.1036996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Drive",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.7961291,
+     40.104563
     ]
    },
    "properties": {
@@ -86279,6 +87992,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -124.1139719,
+     40.9342979
+    ]
+   },
+   "properties": {
+    "streets": [
+     "School Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -124.1159505,
      40.9343152
     ]
@@ -86295,8 +88024,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.12372554999999,
-     40.8337423
+     -124.1164817,
+     40.9343332
+    ]
+   },
+   "properties": {
+    "streets": [
+     "School Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.084307,
+     40.8727877
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Street",
+     "G Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1631441,
+     40.7946969
     ]
    },
    "properties": {
@@ -86343,8 +88104,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.116118925,
-     40.956265699999996
+     -124.116655,
+     40.9562725
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Murray Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1172497,
+     40.9562678
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Murray Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1155519,
+     40.956263
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Murray Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1150191,
+     40.9562595
     ]
    },
    "properties": {
@@ -86375,8 +88184,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.0844604,
-     40.863401350000004
+     -124.0833395,
+     40.8627983
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Samoa Boulevard;CA 255",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0855813,
+     40.8640044
     ]
    },
    "properties": {
@@ -86407,8 +88232,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1236959,
-     40.833961650000006
+     -124.16207,
+     40.7949132
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Street",
+     "H Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0853218,
+     40.8730101
     ]
    },
    "properties": {
@@ -86759,54 +88600,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.0863547,
-     40.8644807
-    ]
-   },
-   "properties": {
-    "streets": [
-     "F Street",
-     "Samoa Boulevard;CA 255"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -124.0861814,
-     40.864359
-    ]
-   },
-   "properties": {
-    "streets": [
-     "F Street",
-     "Samoa Boulevard;CA 255"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -124.0864376,
-     40.8646953
-    ]
-   },
-   "properties": {
-    "streets": [
-     "F Street",
-     "Samoa Boulevard;CA 255"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -124.079501,
      40.8619407
     ]
@@ -86919,6 +88712,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -123.7923467,
+     40.8241858
+    ]
+   },
+   "properties": {
+    "streets": [
+     "High Prairie Road",
+     "High Prairie Road;CR 6K030"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -123.8021422,
      40.8238529
     ]
@@ -86935,24 +88744,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.78218115,
-     40.82796485
-    ]
-   },
-   "properties": {
-    "streets": [
-     "High Prairie Road",
-     "High Prairie Road;CR 6K030"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.80995275000001,
-     40.8305928
+     -123.8177633,
+     40.8373327
     ]
    },
    "properties": {

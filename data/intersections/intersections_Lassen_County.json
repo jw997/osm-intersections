@@ -22788,8 +22788,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.052096,
-     40.29724
+     -121.050925,
+     40.29752
     ]
    },
    "properties": {
@@ -23140,8 +23140,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.327326,
-     40.912999
+     -121.331132,
+     40.924939
     ]
    },
    "properties": {
@@ -23172,8 +23172,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.331193,
-     40.922591
+     -121.323398,
+     40.905755
     ]
    },
    "properties": {
@@ -23188,8 +23188,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.32183155,
-     40.903687649999995
+     -121.3202651,
+     40.9016203
     ]
    },
    "properties": {
@@ -23332,8 +23332,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.82710865,
-     40.3622173
+     -120.651021,
+     40.420221
     ]
    },
    "properties": {
@@ -23348,8 +23348,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.07164645,
-     40.71023315
+     -121.0031963,
+     40.3042136
+    ]
+   },
+   "properties": {
+    "streets": [
+     "4th Street",
+     "Cedar Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0031773,
+     40.3001297
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2nd Street",
+     "Cedar Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.1401156,
+     41.1203366
     ]
    },
    "properties": {
@@ -23396,8 +23428,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.894946,
-     40.769797
+     -120.651402,
+     40.419285
+    ]
+   },
+   "properties": {
+    "streets": [
+     "3rd Street",
+     "Cedar Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.13849,
+     41.120309
     ]
    },
    "properties": {
@@ -23684,8 +23732,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.12908200000001,
-     40.147214000000005
+     -120.129068,
+     40.147913
     ]
    },
    "properties": {
@@ -23748,8 +23796,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.323963,
-     40.377155
+     -120.3097,
+     40.384513
     ]
    },
    "properties": {
@@ -23764,8 +23812,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3168315,
-     40.380834
+     -120.323963,
+     40.377155
     ]
    },
    "properties": {
@@ -24100,6 +24148,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.459823,
+     40.404574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Juniper Ridge Road",
+     "Laura Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.459725,
      40.426402
     ]
@@ -24116,8 +24180,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.459668,
-     40.426399
+     -120.459611,
+     40.426396
     ]
    },
    "properties": {

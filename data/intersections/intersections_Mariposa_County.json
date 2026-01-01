@@ -15941,8 +15941,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.337856,
-     37.708971
+     -120.3397392,
+     37.7133206
     ]
    },
    "properties": {
@@ -15973,8 +15973,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.34039585,
-     37.715360700000005
+     -120.3406287,
+     37.7159034
     ]
    },
    "properties": {
@@ -15989,8 +15989,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3396271,
-     37.712532800000005
+     -120.337856,
+     37.708971
     ]
    },
    "properties": {
@@ -17077,8 +17077,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3654309,
-     37.6753636
+     -120.3693875,
+     37.6686039
     ]
    },
    "properties": {
@@ -17093,8 +17093,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3693875,
-     37.6686039
+     -120.3654309,
+     37.6753636
     ]
    },
    "properties": {
@@ -17253,8 +17253,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.6473274,
-     37.540584100000004
+     -119.6468559,
+     37.5410868
     ]
    },
    "properties": {
@@ -17269,8 +17269,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.6468559,
-     37.5410868
+     -119.64454,
+     37.542448
     ]
    },
    "properties": {
@@ -17431,6 +17431,22 @@
     "coordinates": [
      -120.2267706,
      37.7063107
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 132",
+     "Coulterville Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2197507,
+     37.7093202
     ]
    },
    "properties": {
@@ -17959,8 +17975,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7497346,
-     37.6983531
+     -119.749568,
+     37.698271
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dana Way",
+     "Yosemite National Park Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7516036,
+     37.6985415
     ]
    },
    "properties": {
@@ -18727,8 +18759,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.5834223,
-     37.7452409
+     -119.5835845,
+     37.7452319
     ]
    },
    "properties": {
@@ -18743,8 +18775,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.5835845,
-     37.7452319
+     -119.5834223,
+     37.7452409
     ]
    },
    "properties": {

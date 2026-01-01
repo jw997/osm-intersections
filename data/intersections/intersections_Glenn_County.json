@@ -20637,40 +20637,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7388806,
-     39.6502699
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 162",
-     "Road 307;CR 307"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.7104733,
-     39.658791949999994
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 162",
-     "Road 307;CR 307"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.591427,
-     39.656478
+     -122.682066,
+     39.667314
     ]
    },
    "properties": {
@@ -20687,6 +20655,38 @@
     "coordinates": [
      -122.6690026,
      39.6669914
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 162",
+     "Road 307;CR 307"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7388806,
+     39.6502699
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 162",
+     "Road 307;CR 307"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.591427,
+     39.656478
     ]
    },
    "properties": {
@@ -20957,38 +20957,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5396453,
-     39.6035812
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Church Street",
-     "Oak Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.5396325,
-     39.6037729
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Church Street",
-     "Oak Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.006577,
      39.74184
     ]
@@ -21053,8 +21021,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.103659,
-     39.6816367
+     -122.011922,
+     39.7415864
+    ]
+   },
+   "properties": {
+    "streets": [
+     "3rd Street",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.195396,
+     39.621687
     ]
    },
    "properties": {
@@ -21325,8 +21309,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.030243,
-     39.528827
+     -122.032592,
+     39.528519
     ]
    },
    "properties": {
@@ -22045,8 +22029,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.19579085000001,
-     39.40712285
+     -122.1937175,
+     39.4071226
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Road 68"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1978642,
+     39.4071231
     ]
    },
    "properties": {
@@ -22109,8 +22109,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.204536,
-     39.782882
+     -122.2043393,
+     39.7807301
     ]
    },
    "properties": {
@@ -22125,8 +22125,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2043393,
-     39.7807301
+     -122.204536,
+     39.782882
     ]
    },
    "properties": {
@@ -22157,40 +22157,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.194973,
-     39.403371
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Westside Freeway;I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.1951212,
-     39.4105248
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Westside Freeway;I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.1958916,
-     39.4913569
+     -122.1989642,
+     39.4984821
     ]
    },
    "properties": {
@@ -22221,8 +22189,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1989642,
-     39.4984821
+     -122.1958916,
+     39.4913569
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Westside Freeway;I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1951212,
+     39.4105248
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Westside Freeway;I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.194973,
+     39.403371
     ]
    },
    "properties": {
@@ -22367,8 +22367,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2164699,
-     39.5242436
+     -122.213177,
+     39.5242317
     ]
    },
    "properties": {
@@ -22385,6 +22385,22 @@
     "coordinates": [
      -122.2156568,
      39.5242396
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 162",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2164699,
+     39.5242436
     ]
    },
    "properties": {
@@ -22431,8 +22447,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1945802,
-     39.4949839
+     -122.19472354999999,
+     39.49498475
     ]
    },
    "properties": {
@@ -22495,8 +22511,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2092942,
-     39.5823477
+     -122.2088057,
+     39.5823542
     ]
    },
    "properties": {
@@ -22511,8 +22527,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2088057,
-     39.5823542
+     -122.2092942,
+     39.5823477
     ]
    },
    "properties": {
@@ -22543,22 +22559,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2064187,
-     39.6242923
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Road 33;33"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.2068045,
      39.6242983
     ]
@@ -22575,8 +22575,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2035032,
-     39.6242629
+     -122.2064187,
+     39.6242923
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Road 33;33"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2041655,
+     39.6242665
     ]
    },
    "properties": {
@@ -22607,8 +22623,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2041655,
-     39.6242665
+     -122.2035032,
+     39.6242629
     ]
    },
    "properties": {
@@ -22785,38 +22801,6 @@
     "coordinates": [
      -122.2044236,
      39.7403483
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "South Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2040323,
-     39.7403427
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "South Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2039438,
-     39.7403414
     ]
    },
    "properties": {

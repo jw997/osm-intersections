@@ -189611,38 +189611,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.116626,
-     36.101823499999995
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Avenue 172",
-     "Road 204"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.116512,
-     36.101701
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Avenue 172",
-     "Road 204"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.1082825,
      36.4925175
     ]
@@ -190635,8 +190603,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.78434899999999,
-     36.2910727
+     -118.7768646,
+     36.2832464
     ]
    },
    "properties": {
@@ -190651,8 +190619,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.77083239999999,
-     36.27652785
+     -118.7648002,
+     36.2698093
     ]
    },
    "properties": {
@@ -191723,22 +191691,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3139368,
-     36.3295267
-    ]
-   },
-   "properties": {
-    "streets": [
-     "South Mooney Boulevard",
-     "West Main Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.31410245000001,
      36.32836235
     ]
@@ -192635,22 +192587,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.315825,
-     36.3266643
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 198",
-     "West Noble Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.3336744,
      36.3269403
     ]
@@ -192669,6 +192605,22 @@
     "coordinates": [
      -119.349076,
      36.3266737
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "West Noble Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.315825,
+     36.3266643
     ]
    },
    "properties": {
@@ -193469,8 +193421,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8094014,
-     36.137635
+     -118.8104123,
+     36.1371123
     ]
    },
    "properties": {
@@ -193485,8 +193437,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8104123,
-     36.1371123
+     -118.8087688,
+     36.1380638
     ]
    },
    "properties": {
@@ -193997,6 +193949,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.2732842,
+     35.8889346
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.2595257,
      35.8304321
     ]
@@ -194029,22 +193997,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3249425,
-     36.1238882
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99;I 7–9 FUT",
-     "Golden State Highway;CA 99;I 7–9 FUT"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.3246185,
      36.1202818
     ]
@@ -194061,24 +194013,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.5440399,
-     36.5040626
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99;I 7–9 FUT",
-     "Golden State Highway;CA 99;I 7–9 FUT"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.5211154,
-     36.4914522
+     -119.3249425,
+     36.1238882
     ]
    },
    "properties": {
@@ -194109,8 +194045,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2732842,
-     35.8889346
+     -119.5211154,
+     36.4914522
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.5440399,
+     36.5040626
     ]
    },
    "properties": {
@@ -194254,7 +194206,7 @@
     "type": "Point",
     "coordinates": [
      -119.026288075,
-     36.05155135
+     36.051551350000004
     ]
    },
    "properties": {
@@ -194317,8 +194269,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.36765460000001,
-     36.32726805
+     -119.3676535,
+     36.3264656
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "North Shirk Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3676557,
+     36.3280705
     ]
    },
    "properties": {
@@ -194335,6 +194303,22 @@
     "coordinates": [
      -119.2759075,
      36.3273566
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "East Mineral King Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2757729,
+     36.3273552
     ]
    },
    "properties": {
@@ -194383,22 +194367,6 @@
     "coordinates": [
      -119.2591526,
      36.3282777
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 198",
-     "East Mineral King Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.2757729,
-     36.3273552
     ]
    },
    "properties": {
@@ -194477,8 +194445,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2691934,
-     35.8774176
+     -119.2699479,
+     35.8774182
     ]
    },
    "properties": {
@@ -194509,8 +194477,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2699479,
-     35.8774182
+     -119.2691934,
+     35.8774176
     ]
    },
    "properties": {
@@ -194525,24 +194493,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2732835,
-     35.8918934
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99;I 7–9 FUT",
-     "Sierra Avenue;J22"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.2733975,
-     35.8918928
+     -119.2745438,
+     35.8918883
     ]
    },
    "properties": {
@@ -194589,6 +194541,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.0385042,
+     36.0515684
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Poplar Avenue;CA 190"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.0394893,
      36.0517036
     ]
@@ -194621,8 +194589,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.0385042,
-     36.0515684
+     -119.0425606,
+     36.0517242
     ]
    },
    "properties": {
@@ -194653,8 +194621,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.0425606,
-     36.0517242
+     -119.0342478,
+     36.0516641
     ]
    },
    "properties": {
@@ -194671,22 +194639,6 @@
     "coordinates": [
      -119.0340888,
      36.0515311
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 65",
-     "West Poplar Avenue;CA 190"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.0342478,
-     36.0516641
     ]
    },
    "properties": {
@@ -194959,54 +194911,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3356112,
-     36.3564647
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North Kayenta Street",
-     "West Riggin Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.335579,
-     36.3564635
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North Kayenta Street",
-     "West Riggin Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.3355977,
-     36.3565841
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North Kayenta Street",
-     "West Riggin Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.3332941,
      36.3574766
     ]
@@ -195215,38 +195119,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.33364700000001,
-     36.359006300000004
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North Tilden Street",
-     "West Flagstaff Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.33376395,
-     36.3588455
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North Tilden Street",
-     "West Flagstaff Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.3241385,
      36.3577624
     ]
@@ -195425,38 +195297,6 @@
     "coordinates": [
      -119.3099273,
      36.3292591
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Linden Avenue",
-     "South Divisadero Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.3099658,
-     36.3292595
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Linden Avenue",
-     "South Divisadero Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.3098851,
-     36.3292586
     ]
    },
    "properties": {
@@ -195951,24 +195791,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3498109,
-     36.3439767
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North Akers Street",
-     "West Elowin Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.34989544999999,
-     36.344172
+     -119.3499803,
+     36.3444365
     ]
    },
    "properties": {
@@ -196865,22 +196689,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2607879,
-     36.3327048
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Mill Creek Parkway",
-     "North Lovers Lane;CA 216;J15"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.2581466,
      36.333493950000005
     ]
@@ -197129,22 +196937,6 @@
     "streets": [
      "East Saint John's Parkway",
      "North Maple Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.2520233,
-     36.34560365
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Saint John's Parkway",
-     "North McAuliff Road"
     ]
    }
   },
@@ -198567,38 +198359,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2984444,
-     36.3051618
-    ]
-   },
-   "properties": {
-    "streets": [
-     "South Johnson Street",
-     "West Monte Verde Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.2985366,
-     36.3051631
-    ]
-   },
-   "properties": {
-    "streets": [
-     "South Johnson Street",
-     "West Monte Verde Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.2978852,
      36.3129137
     ]
@@ -198679,8 +198439,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2927734,
-     36.3015247
+     -119.2942012,
+     36.2993533
     ]
    },
    "properties": {
@@ -198695,8 +198455,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2965074,
-     36.29937955
+     -119.2927734,
+     36.3015247
     ]
    },
    "properties": {
@@ -198824,7 +198584,7 @@
     "type": "Point",
     "coordinates": [
      -119.31369185,
-     36.2984877
+     36.298487699999995
     ]
    },
    "properties": {
@@ -198904,7 +198664,7 @@
     "type": "Point",
     "coordinates": [
      -119.33147472499999,
-     36.298385825000004
+     36.298385825
     ]
    },
    "properties": {
@@ -198919,8 +198679,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.33031735,
-     36.3146295
+     -119.3302068,
+     36.3132626
     ]
    },
    "properties": {
@@ -198935,8 +198695,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.33066905,
-     36.31353595
+     -119.3311313,
+     36.3138093
     ]
    },
    "properties": {
@@ -198951,8 +198711,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.32959965,
-     36.313521
+     -119.3289925,
+     36.3137794
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Royal Oaks Drive",
+     "West Royal Oaks Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3304279,
+     36.3159964
     ]
    },
    "properties": {
@@ -200187,8 +199963,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3323957,
-     36.3276572
+     -119.3292834,
+     36.327389
     ]
    },
    "properties": {
@@ -200203,8 +199979,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3292834,
-     36.327389
+     -119.3323957,
+     36.3276572
     ]
    },
    "properties": {
@@ -200347,8 +200123,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3294073,
-     36.2101944
+     -119.3294328,
+     36.21025365
     ]
    },
    "properties": {
@@ -200379,6 +200155,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.3299974,
+     36.2101054
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "East Tulare Avenue;CA 137"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.3280567,
      36.2107034
     ]
@@ -200395,8 +200187,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3271676,
-     36.2110331
+     -119.3276643,
+     36.2108564
     ]
    },
    "properties": {
@@ -200411,8 +200203,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3299974,
-     36.2101054
+     -119.3271676,
+     36.2110331
     ]
    },
    "properties": {
@@ -201163,54 +200955,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.0914812,
-     36.2050473
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CR J29",
-     "North Elmwood Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.0914205,
-     36.2048839
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CR J29",
-     "North Elmwood Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.0912769,
-     36.2049087
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CR J29",
-     "North Elmwood Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.0795221,
      36.2094748
     ]
@@ -201772,7 +201516,7 @@
     "type": "Point",
     "coordinates": [
      -119.39466035000001,
-     36.35635545
+     36.356355449999995
     ]
    },
    "properties": {
@@ -202879,8 +202623,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3626188,
-     36.2677205
+     -119.3627211,
+     36.26763215
     ]
    },
    "properties": {
@@ -202897,6 +202641,22 @@
     "coordinates": [
      -119.3632798,
      36.2671335
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "Road 92B"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3642993,
+     36.2662417
     ]
    },
    "properties": {
@@ -202959,24 +202719,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3405664,
-     36.2402849
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99;I 7–9 FUT",
-     "East Cartmill Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.3435637,
-     36.2402938
+     -119.346509,
+     36.2402122
     ]
    },
    "properties": {
@@ -202993,6 +202737,38 @@
     "coordinates": [
      -119.3448534,
      36.2401165
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "East Cartmill Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.34342095,
+     36.240193000000005
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "East Cartmill Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3405664,
+     36.2402849
     ]
    },
    "properties": {
@@ -203251,22 +203027,6 @@
     "coordinates": [
      -119.3310822,
      36.2330127
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Corvina Avenue",
-     "North Hillman Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.3310862,
-     36.2331675
     ]
    },
    "properties": {
@@ -203617,38 +203377,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3398583,
-     36.2220622
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Merritt Avenue",
-     "North Gem Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.3399464,
-     36.2220622
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Merritt Avenue",
-     "North Gem Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.3411639,
      36.2228347
     ]
@@ -203715,38 +203443,6 @@
     "coordinates": [
      -119.3033262,
      36.2110856
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Tulare Avenue;CA 137",
-     "Morrison Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.3032171,
-     36.2108269
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Tulare Avenue;CA 137",
-     "Morrison Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.3033904,
-     36.2108222
     ]
    },
    "properties": {
@@ -204273,8 +203969,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3285708,
-     36.1966695
+     -119.3279079,
+     36.1966723
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "East Bardsley Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3292337,
+     36.1966667
     ]
    },
    "properties": {
@@ -204833,8 +204545,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.314934,
-     36.0640867
+     -119.3120068,
+     36.0484488
     ]
    },
    "properties": {
@@ -204849,8 +204561,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3120068,
-     36.0484488
+     -119.314934,
+     36.0640867
     ]
    },
    "properties": {
@@ -204977,8 +204689,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.33628875,
-     36.326538549999995
+     -119.33623775000001,
+     36.32697265
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Chinowth Street",
+     "West Noble Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3362458,
+     36.3261037
     ]
    },
    "properties": {
@@ -205153,8 +204881,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.03932,
-     36.0804607
+     -119.03872774999999,
+     36.0804651
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Henderson Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03991225,
+     36.0804563
     ]
    },
    "properties": {
@@ -205687,22 +205431,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2636319,
-     36.3212246
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Tulare Avenue",
-     "Tulare Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.2658449,
      36.3204619
     ]
@@ -205719,8 +205447,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3319328,
-     36.33575775
+     -119.2636319,
+     36.3212246
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Tulare Avenue",
+     "Tulare Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3319239,
+     36.3350594
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Demaree Street",
+     "North Silvervale Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3319417,
+     36.3364561
     ]
    },
    "properties": {
@@ -205767,8 +205527,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.4306618,
-     36.3505204
+     -119.4267071,
+     36.3509577
     ]
    },
    "properties": {
@@ -205799,8 +205559,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.4267071,
-     36.3509577
+     -119.4306618,
+     36.3505204
     ]
    },
    "properties": {
@@ -207057,22 +206817,6 @@
     "coordinates": [
      -119.3793407,
      36.2981313
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Sequoia Gateway Drive",
-     "West Caldwell Avenue;J30"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.3791989,
-     36.2981316
     ]
    },
    "properties": {

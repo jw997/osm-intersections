@@ -143114,8 +143114,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9512043,
-     38.2773037
+     -121.9512274,
+     38.2810372
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fairchild Drive",
+     "Twin Peaks Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9512882,
+     38.2773033
     ]
    },
    "properties": {
@@ -143265,22 +143281,6 @@
    "properties": {
     "streets": [
      "Fairbanks Drive",
-     "Summerset Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.70986185000001,
-     38.18659205
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Palisades Drive",
      "Summerset Drive"
     ]
    }
@@ -143498,22 +143498,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9618372,
-     38.3658815
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Helen Power Drive",
-     "Nut Tree Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.269699,
      38.124392
     ]
@@ -143546,8 +143530,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.82833405,
-     38.4335511
+     -121.8300743,
+     38.4335486
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bello Drive",
+     "Folsom Downs Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8265938,
+     38.4335536
     ]
    },
    "properties": {
@@ -143564,22 +143564,6 @@
     "coordinates": [
      -121.70439415000001,
      38.1788645
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Diamond Hills Drive",
-     "Summerset Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.7044849,
-     38.1788106
     ]
    },
    "properties": {
@@ -143626,8 +143610,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.7077403,
-     38.1832756
+     -121.70776455000001,
+     38.18325815
     ]
    },
    "properties": {
@@ -143932,8 +143916,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.69580335,
-     38.15285485
+     -121.6958917,
+     38.1526479
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Riverview Street",
+     "South 3rd Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.695715,
+     38.1530618
     ]
    },
    "properties": {
@@ -144093,6 +144093,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.0711311,
+     38.2368307
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Courage Drive",
+     "North Watney Way",
+     "South Watney Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.0788816,
      38.2341923
     ]
@@ -144112,23 +144129,6 @@
     "coordinates": [
      -122.0790227,
      38.2343014
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Courage Drive",
-     "North Watney Way",
-     "South Watney Way"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.0711311,
-     38.2368307
     ]
    },
    "properties": {
@@ -144210,22 +144210,6 @@
     "coordinates": [
      -122.1445018,
      38.21656035
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Business Center Drive",
-     "Healthcare Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.14437735,
-     38.2166061
     ]
    },
    "properties": {
@@ -144416,8 +144400,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2285526,
-     38.1107532
+     -122.2286296,
+     38.11087795
     ]
    },
    "properties": {
@@ -144432,8 +144416,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.22805475,
-     38.124426400000004
+     -122.2279325,
+     38.1241803
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Admiral Callaghan Lane",
+     "I 80"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.228177,
+     38.1246725
     ]
    },
    "properties": {
@@ -144450,22 +144450,6 @@
     "coordinates": [
      -122.2548792,
      38.1469613
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Meadows Drive",
-     "Sonoma Boulevard;CA 29"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2549799,
-     38.146874499999996
     ]
    },
    "properties": {
@@ -144512,8 +144496,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0679505,
-     38.2585497
+     -122.0679917,
+     38.258478
     ]
    },
    "properties": {
@@ -144528,8 +144512,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.06774025,
-     38.2584108
+     -122.0679505,
+     38.2585497
     ]
    },
    "properties": {
@@ -144578,8 +144562,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.20008390000001,
-     38.16940565
+     -122.2006954,
+     38.169827
+    ]
+   },
+   "properties": {
+    "streets": [
+     "American Canyon Road",
+     "I 80"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1994724,
+     38.1689843
     ]
    },
    "properties": {
@@ -144610,8 +144610,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.932153,
-     38.381150000000005
+     -121.931728,
+     38.381148
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Del Loma Court",
+     "Del Loma Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.932578,
+     38.381152
     ]
    },
    "properties": {
@@ -145074,8 +145090,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.082468,
-     38.28576205
+     -122.0827689,
+     38.2843575
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pebble Beach Circle",
+     "Rancho Solano Parkway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0821671,
+     38.2871666
     ]
    },
    "properties": {
@@ -145282,8 +145314,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0276974,
-     38.3059218
+     -122.02776449999999,
+     38.3058718
     ]
    },
    "properties": {
@@ -145602,8 +145634,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0466874,
-     38.2730082
+     -122.0471451,
+     38.2731476
     ]
    },
    "properties": {
@@ -145618,8 +145650,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0471451,
-     38.2731476
+     -122.0466874,
+     38.2730082
     ]
    },
    "properties": {
@@ -145812,8 +145844,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.98579035,
-     38.2570225
+     -121.9857963,
+     38.2566698
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Charleston Street",
+     "Dover Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9857844,
+     38.2573752
     ]
    },
    "properties": {
@@ -145926,22 +145974,6 @@
     "coordinates": [
      -121.9412073,
      38.3878788
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Akerly Drive",
-     "New Horizons Way"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.9412047,
-     38.3879869
     ]
    },
    "properties": {
@@ -146244,8 +146276,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0750479,
-     38.23562045
+     -122.0788951,
+     38.2343084
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Courage Drive",
+     "North Watney Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0712007,
+     38.2369325
     ]
    },
    "properties": {
@@ -146292,22 +146340,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.72339245,
-     38.1817832
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 12",
-     "Summerset Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.7224338,
      38.182314250000005
     ]
@@ -146326,22 +146358,6 @@
     "coordinates": [
      -121.7198148,
      38.182865
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Summerset Drive",
-     "Summerset Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.7197882,
-     38.1830116
     ]
    },
    "properties": {
@@ -146676,8 +146692,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.03434135,
-     38.24144355
+     -122.034085,
+     38.2414413
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Driftwood Drive",
+     "Josiah Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0345977,
+     38.2414458
     ]
    },
    "properties": {
@@ -147638,7 +147670,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.84102299999999,
+     -121.841023,
      38.445728075000005
     ]
    },
@@ -148120,38 +148152,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0198346,
-     38.2561222
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Railroad Avenue",
-     "Sunset Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.01988485,
-     38.2538033
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Railroad Avenue",
-     "Sunset Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.0204717,
      38.24934355
     ]
@@ -148264,8 +148264,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.11121370000001,
-     38.148530199999996
+     -122.1120512,
+     38.1483155
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 680",
+     "Marshview Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1103762,
+     38.1487449
     ]
    },
    "properties": {
@@ -148521,7 +148537,7 @@
     "type": "Point",
     "coordinates": [
      -122.129606775,
-     38.227108199999996
+     38.2271082
     ]
    },
    "properties": {
@@ -149376,8 +149392,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9857679,
-     38.2584629
+     -121.9857694,
+     38.258102
     ]
    },
    "properties": {
@@ -149392,8 +149408,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.93877836666667,
-     38.2803268
+     -121.9857664,
+     38.2588238
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Charleston Street",
+     "Keesler Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9394398,
+     38.28071115
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bradley Boulevard",
+     "Cannon Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9374555,
+     38.2795581
     ]
    },
    "properties": {
@@ -149762,8 +149810,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.04991539999999,
-     38.258160375
+     -122.0499154,
+     38.258160374999996
     ]
    },
    "properties": {
@@ -150162,8 +150210,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9545423,
-     38.341093
+     -121.9538385,
+     38.342365349999994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bel Air Drive",
+     "Longview Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9552418,
+     38.3399519
     ]
    },
    "properties": {
@@ -150484,8 +150548,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.94533354999999,
-     38.37766845
+     -121.9507068,
+     38.37431875
     ]
    },
    "properties": {
@@ -150500,8 +150564,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9507068,
-     38.37431875
+     -121.94533354999999,
+     38.37766845
     ]
    },
    "properties": {
@@ -150540,6 +150604,22 @@
     "streets": [
      "Manchester Drive",
      "Sheffield Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0475543,
+     38.2889441
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hilborn Road",
+     "Hillridge Drive"
     ]
    }
   },
@@ -150932,8 +151012,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9858193,
-     38.25526905
+     -121.9858259,
+     38.2549221
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beale Circle",
+     "Charleston Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9858127,
+     38.255616
     ]
    },
    "properties": {
@@ -151100,6 +151196,22 @@
     "streets": [
      "Broadway Street",
      "Garibaldi Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.90359445,
+     38.22836505
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Denverton Road",
+     "Rio Vista Road;CA 12"
     ]
    }
   },
@@ -151382,8 +151494,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9770456,
-     38.2301108
+     -121.8747677,
+     38.2058659
     ]
    },
    "properties": {
@@ -151414,8 +151526,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.8747677,
-     38.2058659
+     -121.9770456,
+     38.2301108
     ]
    },
    "properties": {
@@ -151960,8 +152072,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0751279,
-     38.23548785
+     -122.0790087,
+     38.2341877
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Courage Drive",
+     "South Watney Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0712471,
+     38.236788
     ]
    },
    "properties": {
@@ -152618,8 +152746,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.95307129999999,
-     38.356816800000004
+     -121.9530713,
+     38.3568168
     ]
    },
    "properties": {
@@ -152666,8 +152794,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.6313238,
-     38.2928569
+     -121.6311292,
+     38.2925157
     ]
    },
    "properties": {
@@ -152682,8 +152810,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.6311292,
-     38.2925157
+     -121.6313238,
+     38.2928569
     ]
    },
    "properties": {
@@ -152746,22 +152874,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1988241,
-     38.1334756
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Columbus Parkway",
-     "Redwood Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.1678418,
      38.0544092
     ]
@@ -152810,8 +152922,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2357916,
-     38.0720152
+     -122.2361392,
+     38.0725356
     ]
    },
    "properties": {
@@ -152826,8 +152938,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2361392,
-     38.0725356
+     -122.2357916,
+     38.0720152
     ]
    },
    "properties": {
@@ -152906,6 +153018,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.2278194,
+     38.1235829
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Admiral Callaghan Lane",
+     "Redwood Parkway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.22642675,
      38.12334445
     ]
@@ -152922,7 +153050,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.21334619999999,
+     -122.2133462,
      38.13761493333333
     ]
    },
@@ -152988,6 +153116,22 @@
     "coordinates": [
      -122.1798489,
      38.0676572
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Southampton Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1643997,
+     38.0653129
     ]
    },
    "properties": {
@@ -153658,22 +153802,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1522364,
-     38.2228126
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Tuscany Drive",
-     "Vintage Valley Circle"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.1530062,
      38.2227894
     ]
@@ -153692,6 +153820,22 @@
     "coordinates": [
      -122.1522261,
      38.2226088
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Tuscany Drive",
+     "Vintage Valley Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1522364,
+     38.2228126
     ]
    },
    "properties": {
@@ -154315,29 +154459,13 @@
     "type": "Point",
     "coordinates": [
      -122.12618334999999,
-     38.228647675
+     38.228647675000005
     ]
    },
    "properties": {
     "streets": [
      "Business Center Drive",
      "Kaiser Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.05719149999999,
-     38.25940985
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Gateway Boulevard",
-     "Gateway Court"
     ]
    }
   },
@@ -154460,8 +154588,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1061819,
-     38.1158863
+     -122.1069729,
+     38.1159082
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 680",
+     "Parish Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1053909,
+     38.1158644
     ]
    },
    "properties": {
@@ -154960,22 +155104,6 @@
     "coordinates": [
      -122.2115685,
      38.1291629
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Ascot Parkway",
-     "Chantilly Court"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2114859,
-     38.129208649999995
     ]
    },
    "properties": {
@@ -155630,6 +155758,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.7889765,
+     38.5020991
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 113",
+     "I 80;CA 113"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.789677,
      38.5018577
     ]
@@ -155662,38 +155806,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.7889765,
-     38.5020991
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Dwight D. Eisenhower Highway;I 80;CA 113",
-     "I 80;CA 113"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.8079172,
-     38.4853845
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Dwight D. Eisenhower Highway;I 80;CA 113",
-     "I 80;CA 113"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.8024304,
      38.4897067
     ]
@@ -155712,6 +155824,22 @@
     "coordinates": [
      -121.8056878,
      38.4874026
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 113",
+     "I 80;CA 113"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8079172,
+     38.4853845
     ]
    },
    "properties": {
@@ -155888,8 +156016,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.03687045000001,
-     38.29710645
+     -122.0357887,
+     38.29986715
     ]
    },
    "properties": {
@@ -155904,8 +156032,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0357887,
-     38.29986715
+     -122.03687045000001,
+     38.29710645
     ]
    },
    "properties": {
@@ -156256,8 +156384,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.97369,
-     38.355429
+     -121.973669,
+     38.356025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sunset Circle",
+     "Sunset Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.973711,
+     38.354833
     ]
    },
    "properties": {
@@ -157152,22 +157296,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.22774000000001,
-     38.097424700000005
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Laurel Street",
-     "Steffan Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.227781,
      38.094753
     ]
@@ -157184,14 +157312,14 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9648474,
-     38.3630436
+     -122.22853,
+     38.0999994
     ]
    },
    "properties": {
     "streets": [
-     "Harbison Drive",
-     "Nut Tree Parkway"
+     "Laurel Street",
+     "Steffan Street"
     ]
    }
   },
@@ -157200,8 +157328,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.96470685,
-     38.36310985
+     -121.9648474,
+     38.3630436
     ]
    },
    "properties": {
@@ -157280,8 +157408,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.84107474999999,
-     38.443641549999995
+     -121.84106700000001,
+     38.44423315
     ]
    },
    "properties": {
@@ -157440,8 +157568,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0185534,
-     38.28935425
+     -122.0167235,
+     38.2888128
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dickson Hill Road",
+     "Mustang Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0203937,
+     38.28994925000001
     ]
    },
    "properties": {
@@ -157586,8 +157730,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.98567685,
-     38.2538258
+     -121.9856237,
+     38.2534798
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Andrews Circle",
+     "Charleston Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.98573,
+     38.2541718
     ]
    },
    "properties": {
@@ -157938,40 +158098,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2562272,
-     38.137282
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 37",
-     "Sonoma Boulevard;CA 29"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.2556413,
      38.1422126
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 37",
-     "Sonoma Boulevard;CA 29"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2562039,
-     38.1393798
     ]
    },
    "properties": {
@@ -158002,8 +158130,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2557161,
-     38.1423109
+     -122.2562039,
+     38.1393798
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2562279,
+     38.13741695
     ]
    },
    "properties": {
@@ -158226,40 +158370,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2306911,
-     38.1096026
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 80",
-     "Tennessee Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.2306554,
      38.1097053
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 80",
-     "Tennessee Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.231075,
-     38.109717
     ]
    },
    "properties": {
@@ -158530,72 +158642,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1294848,
-     38.0571654
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 680",
-     "Luther E Gibson Freeway;I 680"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.1059761,
-     38.1190178
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 680",
-     "Luther E Gibson Freeway;I 680"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.109974,
      38.145788
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 680",
-     "Luther E Gibson Freeway;I 680"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.1311109,
-     38.0604
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 680",
-     "Luther E Gibson Freeway;I 680"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.1327262,
-     38.1796741
     ]
    },
    "properties": {
@@ -158626,8 +158674,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1297624,
-     38.0559046
+     -122.1059761,
+     38.1190178
     ]
    },
    "properties": {
@@ -158644,6 +158692,70 @@
     "coordinates": [
      -122.1307379,
      38.0600339
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 680",
+     "Luther E Gibson Freeway;I 680"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1311109,
+     38.0604
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 680",
+     "Luther E Gibson Freeway;I 680"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1294848,
+     38.0571654
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 680",
+     "Luther E Gibson Freeway;I 680"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1297624,
+     38.0559046
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 680",
+     "Luther E Gibson Freeway;I 680"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1327262,
+     38.1796741
     ]
    },
    "properties": {
@@ -158722,6 +158834,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.8977926,
+     38.4174541
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 80",
+     "Oday Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.8977307,
      38.4174624
     ]
@@ -158740,22 +158868,6 @@
     "coordinates": [
      -121.8974402,
      38.4174983
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 80",
-     "Oday Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.8977926,
-     38.4174541
     ]
    },
    "properties": {
@@ -159125,7 +159237,7 @@
     "type": "Point",
     "coordinates": [
      -122.06635575,
-     38.240346575000004
+     38.240346575
     ]
    },
    "properties": {
@@ -159156,14 +159268,14 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.215301,
-     38.131472
+     -122.2259852,
+     38.0677214
     ]
    },
    "properties": {
     "streets": [
-     "Plaza Drive",
-     "Turner Parkway"
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 80"
     ]
    }
   },
@@ -159172,8 +159284,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2259852,
-     38.0677214
+     -122.2201855,
+     38.1391566
     ]
    },
    "properties": {
@@ -159236,8 +159348,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.7509888,
-     38.5303485
+     -121.7634505,
+     38.5258852
     ]
    },
    "properties": {
@@ -159284,24 +159396,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.7634505,
-     38.5258852
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Dwight D. Eisenhower Highway;I 80",
-     "I 80"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2201855,
-     38.1391566
+     -121.7509888,
+     38.5303485
     ]
    },
    "properties": {
@@ -159332,8 +159428,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2853017,
-     38.11861145
+     -122.2858884,
+     38.1183965
     ]
    },
    "properties": {
@@ -159380,8 +159476,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.28014525,
-     38.1205329
+     -122.2755308,
+     38.122165
     ]
    },
    "properties": {
@@ -159396,8 +159492,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.27646469999999,
-     38.121816300000006
+     -122.2755755,
+     38.1222394
     ]
    },
    "properties": {
@@ -159412,8 +159508,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.273158,
-     38.1184757
+     -122.27314519999999,
+     38.11849745
     ]
    },
    "properties": {
@@ -159460,24 +159556,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.8037872,
-     38.4908374
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 80;CA 113",
-     "Pedrick Road;E7"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.8038598,
-     38.4871317
+     -121.80380135,
+     38.4907309
     ]
    },
    "properties": {
@@ -159494,6 +159574,22 @@
     "coordinates": [
      -121.8038312,
      38.4903121
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 80;CA 113",
+     "Pedrick Road;E7"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8038598,
+     38.4871317
     ]
    },
    "properties": {
@@ -159642,8 +159738,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9418177,
-     38.453297649999996
+     -121.9422942,
+     38.4532977
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allendale Road",
+     "I 505"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9413412,
+     38.4532976
     ]
    },
    "properties": {
@@ -159690,24 +159802,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0253363,
-     38.326124
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cherry Glen Road",
-     "I 80"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.0251553,
-     38.3259659
+     -122.0247449,
+     38.325679
     ]
    },
    "properties": {
@@ -159738,8 +159834,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0247449,
-     38.325679
+     -122.0251553,
+     38.3259659
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cherry Glen Road",
+     "I 80"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0253363,
+     38.326124
     ]
    },
    "properties": {
@@ -159930,6 +160042,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.03348425,
+     38.2949584
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 80",
+     "Manuel Campos Parkway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.0330638,
      38.2946012
     ]
@@ -160042,6 +160170,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.9969786,
+     38.345683
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "I 80"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9969427,
+     38.3450964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "I 80"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.9969562,
      38.3445107
     ]
@@ -160060,22 +160220,6 @@
     "coordinates": [
      -121.9964297,
      38.3441785
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Alamo Drive",
-     "I 80"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.9969786,
-     38.345683
     ]
    },
    "properties": {
@@ -160171,7 +160315,7 @@
     "type": "Point",
     "coordinates": [
      -122.203546225,
-     38.105903225
+     38.105903225000006
     ]
    },
    "properties": {
@@ -160218,7 +160362,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.959038,
+     -121.95903799999999,
      38.370598175
     ]
    },
@@ -160330,22 +160474,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9337031,
-     38.3867319
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 80",
-     "Leisure Town Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.9437446,
      38.3923565
     ]
@@ -160396,40 +160524,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.9346711,
+     38.389463649999996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 80",
+     "Vaca Valley Parkway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.9353267,
      38.3897932
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 80",
-     "Vaca Valley Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.9347179,
-     38.3894217
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 80",
-     "Vaca Valley Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.9348624,
-     38.3897108
     ]
    },
    "properties": {
@@ -160574,8 +160686,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2332567,
-     38.1419977
+     -122.2329374,
+     38.1417264
     ]
    },
    "properties": {
@@ -160590,8 +160702,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.23309705,
-     38.14186205
+     -122.2332567,
+     38.1419977
     ]
    },
    "properties": {
@@ -160670,22 +160782,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1470324,
-     38.2150382
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Business Center Drive",
-     "Julia Berger Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.2320369,
      38.0878835
     ]
@@ -160734,8 +160830,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1129602,
-     38.0863149
+     -122.11282115,
+     38.0862527
     ]
    },
    "properties": {
@@ -160766,8 +160862,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.11295,
-     38.23108
+     -122.1258823,
+     38.2246075
     ]
    },
    "properties": {
@@ -160798,40 +160894,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1318259,
-     38.2207286
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Dwight D. Eisenhower Highway;I 80;CA 12",
-     "I 80;CA 12"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.1258823,
-     38.2246075
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Dwight D. Eisenhower Highway;I 80;CA 12",
-     "I 80;CA 12"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.119825,
      38.227841
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "I 80;CA 12"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11295,
+     38.23108
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "I 80;CA 12"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1318259,
+     38.2207286
     ]
    },
    "properties": {
@@ -160976,22 +161072,6 @@
     "coordinates": [
      -121.933861,
      38.3328375
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Leisure Town Road",
-     "Sparrowhawk Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.93392505,
-     38.3327527
     ]
    },
    "properties": {
@@ -161344,8 +161424,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.82830530000001,
-     38.4361665
+     -121.8270712,
+     38.4360848
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Duncan Street",
+     "Legion Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8295394,
+     38.4362482
     ]
    },
    "properties": {
@@ -161540,6 +161636,22 @@
     "coordinates": [
      -122.0053685,
      38.2431636
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Lawler Ranch Parkway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9899032,
+     38.24015405
     ]
    },
    "properties": {
@@ -162152,8 +162264,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0618068,
-     38.2583464
+     -122.0600251,
+     38.2581973
     ]
    },
    "properties": {
@@ -162168,8 +162280,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0646678,
-     38.2582168
+     -122.06065129999999,
+     38.258190799999994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 80",
+     "Travis Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0618068,
+     38.2583464
     ]
    },
    "properties": {
@@ -162200,40 +162328,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0607228,
-     38.2581424
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 80",
-     "Travis Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.0600251,
-     38.2581973
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 80",
-     "Travis Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.0643598,
      38.2583051
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 80",
+     "Travis Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0646678,
+     38.2582168
     ]
    },
    "properties": {
@@ -162377,29 +162489,13 @@
     "type": "Point",
     "coordinates": [
      -122.19657023333333,
-     38.097255100000005
+     38.0972551
     ]
    },
    "properties": {
     "streets": [
      "Regents Park Drive",
      "Waterstone Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.19816975,
-     38.0969075
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Columbus Parkway",
-     "Regents Park Drive"
     ]
    }
   },
@@ -162616,8 +162712,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.15704170000001,
-     38.2020494
+     -122.156642,
+     38.201769
     ]
    },
    "properties": {
@@ -162632,7 +162728,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.13225497500001,
+     -122.1574414,
+     38.2023298
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 80",
+     "Red Top Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.132254975,
      38.226407949999995
     ]
    },
@@ -162730,8 +162842,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.14874017499999,
-     38.218959174999995
+     -122.148740175,
+     38.218959175
     ]
    },
    "properties": {
@@ -162874,24 +162986,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.21772875,
-     38.1354536
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Admiral Callaghan Lane",
-     "Plaza Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.20780962500001,
-     38.121759700000005
+     38.1217597
     ]
    },
    "properties": {
@@ -162906,7 +163002,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.24935450000001,
+     -122.2493545,
      38.12243485
     ]
    },
@@ -162954,8 +163050,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2104677,
-     38.0853834
+     -122.2097537,
+     38.086397
     ]
    },
    "properties": {
@@ -162970,8 +163066,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2097537,
-     38.086397
+     -122.2104677,
+     38.0853834
     ]
    },
    "properties": {
@@ -163082,7 +163178,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.141369,
+     -122.14136900000001,
      38.2183615
     ]
    },
@@ -163220,6 +163316,22 @@
     "streets": [
      "Rio Vista Road;CA 12",
      "Scally Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13791535000001,
+     38.18151345
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Hill Road",
+     "Lopes Road"
     ]
    }
   },
@@ -163548,22 +163660,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9521743,
-     38.32592495
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cogburn Way",
-     "Nut Tree Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.9505188,
      38.3258805
     ]
@@ -163820,38 +163916,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.81945645,
-     38.4355469
-    ]
-   },
-   "properties": {
-    "streets": [
-     "College Way",
-     "Harvard Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.8195577,
-     38.43554775
-    ]
-   },
-   "properties": {
-    "streets": [
-     "College Way",
-     "Harvard Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.8135603,
      38.4311697
     ]
@@ -163876,22 +163940,6 @@
     "streets": [
      "East Parkway Boulevard",
      "Yale Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.8196194,
-     38.43118215
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Parkway Boulevard",
-     "Harvard Drive"
     ]
    }
   },
@@ -163996,8 +164044,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9683586,
-     38.2990614
+     -121.9679862,
+     38.2990595
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gramercy Circle",
+     "Midtown Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.968731,
+     38.2990633
     ]
    },
    "properties": {
@@ -164124,6 +164188,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.75695540000001,
+     38.52957785
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 80",
+     "Old Davis Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.1491222,
      38.0590331
     ]
@@ -164221,7 +164301,7 @@
     "type": "Point",
     "coordinates": [
      -122.04280270000001,
-     38.272959674999996
+     38.272959675
     ]
    },
    "properties": {
@@ -164276,38 +164356,6 @@
     "streets": [
      "Pinehurst Drive",
      "Rancho Solano Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.07932375,
-     38.2772164
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Pinehurst Drive",
-     "Rancho Solano Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.0781715,
-     38.2763399
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Rancho Solano Parkway",
-     "Saint Andrews Road"
     ]
    }
   },
@@ -164444,8 +164492,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1453448,
-     38.05300095
+     -122.1456316,
+     38.0526129
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 5th Street",
+     "I 780"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.145058,
+     38.053389
     ]
    },
    "properties": {
@@ -164588,8 +164652,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0203401,
-     38.292941049999996
+     -122.0203205,
+     38.2929977
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Manuel Campos Parkway",
+     "Paradise Valley Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0245112,
+     38.292671999999996
     ]
    },
    "properties": {
@@ -164994,8 +165074,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.94440955,
-     38.41704575
+     -121.944989,
+     38.417036
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Midway Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9438301,
+     38.4170555
     ]
    },
    "properties": {
@@ -165398,22 +165494,6 @@
     "coordinates": [
      -121.95463000000001,
      38.370275199999995
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 505",
-     "Orange Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.954681,
-     38.370219000000006
     ]
    },
    "properties": {

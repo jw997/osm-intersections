@@ -5455,8 +5455,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.92818205,
-     39.47057345
+     -120.928791,
+     39.470411
     ]
    },
    "properties": {
@@ -5471,8 +5471,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9289245,
-     39.470307
+     -120.929058,
+     39.470203
     ]
    },
    "properties": {
@@ -5615,8 +5615,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0299759,
-     39.69919590000001
+     -120.0302114,
+     39.6990448
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evans Ranch Road",
+     "Route 395;US 395"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0297404,
+     39.699347
     ]
    },
    "properties": {
@@ -5711,8 +5727,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.005451,
-     39.4338852
+     -121.0035252,
+     39.4374504
     ]
    },
    "properties": {
@@ -5727,8 +5743,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0035252,
-     39.4374504
+     -121.005451,
+     39.4338852
     ]
    },
    "properties": {
@@ -5759,6 +5775,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.859625,
+     39.487782
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mountain House Road",
+     "Oregon Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.871999,
+     39.484014
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mountain House Road",
+     "Oregon Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.872187,
      39.483955
     ]
@@ -5775,88 +5823,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.872093,
-     39.483984500000005
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Mountain House Road",
-     "Oregon Creek Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.8595505,
-     39.4877575
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Mountain House Road",
-     "Oregon Creek Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.240491,
      39.680436
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Court Lane",
-     "Railroad Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.240435,
-     39.680476999999996
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Court Lane",
-     "Railroad Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.240633,
-     39.680426
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Court Lane",
-     "Railroad Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.240508,
-     39.680433
     ]
    },
    "properties": {
@@ -5919,8 +5887,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.274676,
-     39.5253935
+     -120.272684,
+     39.530472
     ]
    },
    "properties": {
@@ -5935,8 +5903,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.263369,
-     39.533613
+     -120.254054,
+     39.536754
     ]
    },
    "properties": {
@@ -5951,8 +5919,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2540195,
-     39.536811
+     -120.253985,
+     39.536868
     ]
    },
    "properties": {

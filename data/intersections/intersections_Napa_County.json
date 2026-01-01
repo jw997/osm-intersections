@@ -51052,7 +51052,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.27381995000002,
+     -122.27381994999999,
      38.27832775
     ]
    },
@@ -51132,8 +51132,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2521893,
-     38.1553062
+     -122.2519751,
+     38.1634781
     ]
    },
    "properties": {
@@ -51148,8 +51148,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2519693,
-     38.163431849999995
+     -122.2521893,
+     38.1553062
     ]
    },
    "properties": {
@@ -51292,22 +51292,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2744184,
-     38.2493765
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Napa Valley Corporate Drive",
-     "Napa Valley Corporate Way"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.27459955,
      38.2563561
     ]
@@ -51326,22 +51310,6 @@
     "coordinates": [
      -122.2627966,
      38.3396196
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Atlas Peak Road",
-     "Hillcrest Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2627967,
-     38.339740199999994
     ]
    },
    "properties": {
@@ -52124,8 +52092,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.46943825,
-     38.49903745
+     -122.46896,
+     38.4997476
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mitchell Drive",
+     "Voorhees Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4699165,
+     38.4983273
     ]
    },
    "properties": {
@@ -52716,8 +52700,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3815375,
-     38.4114692
+     -122.3385752,
+     38.3668627
     ]
    },
    "properties": {
@@ -52734,6 +52718,22 @@
     "coordinates": [
      -122.326912,
      38.34418
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Saint Helena Highway;CA 29",
+     "Washington Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3815375,
+     38.4114692
     ]
    },
    "properties": {
@@ -52876,6 +52876,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.2694548,
+     38.2421744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 221",
+     "Napa-Vallejo Highway;CA 221"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.2695191,
      38.2412262
     ]
@@ -52894,54 +52910,6 @@
     "coordinates": [
      -122.269849,
      38.2413787
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 221",
-     "Napa-Vallejo Highway;CA 221"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2696519,
-     38.24177655
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 221",
-     "Napa-Vallejo Highway;CA 221"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.26934255,
-     38.2416023
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 221",
-     "Napa-Vallejo Highway;CA 221"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2692831,
-     38.2423071
     ]
    },
    "properties": {
@@ -53004,22 +52972,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.28699805,
-     38.244387
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 12;CA 29",
-     "Officer George Butler Bridge;CA 12;CA 29"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.283284,
      38.2435466
     ]
@@ -53036,8 +52988,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.28702245,
-     38.24431295
+     -122.2907609,
+     38.2450793
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12;CA 29",
+     "Officer George Butler Bridge;CA 12;CA 29"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2907275,
+     38.2451515
     ]
    },
    "properties": {
@@ -53100,8 +53068,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2156196,
-     38.15298345
+     -122.2169572,
+     38.1500666
     ]
    },
    "properties": {
@@ -53132,8 +53100,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3651945,
-     38.4029147
+     -122.3588711,
+     38.397523
     ]
    },
    "properties": {
@@ -53148,8 +53116,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3588711,
-     38.397523
+     -122.3651945,
+     38.4029147
     ]
    },
    "properties": {
@@ -53628,8 +53596,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3691321,
-     38.3969066
+     -122.3691864,
+     38.3965095
     ]
    },
    "properties": {
@@ -53644,8 +53612,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.36915925,
-     38.39670805
+     -122.3691321,
+     38.3969066
     ]
    },
    "properties": {
@@ -54224,22 +54192,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.23909320000001,
-     38.16233065
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Mentecarlo Way",
-     "Via Bellagio"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.2354852,
      38.1611974
     ]
@@ -54786,8 +54738,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3010101,
-     38.2988806
+     -122.3046082,
+     38.2998227
     ]
    },
    "properties": {
@@ -54818,54 +54770,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3012341,
-     38.2986715
-    ]
-   },
-   "properties": {
-    "streets": [
-     "1st Street",
-     "CA 29"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.3011241,
-     38.2985851
-    ]
-   },
-   "properties": {
-    "streets": [
-     "1st Street",
-     "CA 29"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.3046082,
-     38.2998227
-    ]
-   },
-   "properties": {
-    "streets": [
-     "1st Street",
-     "CA 29"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.3032931,
      38.3070408
     ]
@@ -54882,40 +54786,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3036746,
-     38.3069744
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 29",
-     "Lincoln Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.3025658,
      38.3071675
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 29",
-     "Lincoln Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.303048,
-     38.3070864
     ]
    },
    "properties": {

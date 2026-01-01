@@ -112863,8 +112863,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.77944880000001,
-     38.7329991
+     -120.7794585,
+     38.7333818
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Schnell School Road",
+     "US 50"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7794391,
+     38.7326164
     ]
    },
    "properties": {
@@ -113103,8 +113119,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6174181,
-     38.748457599999995
+     -120.6175964,
+     38.748816
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ridgeway Drive",
+     "US 50"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6172398,
+     38.7480992
     ]
    },
    "properties": {
@@ -113727,8 +113759,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.93919869999999,
-     38.9223399
+     -120.9406543,
+     38.9219456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Secret Lake Trail",
+     "Talking Mountain Trail"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9429466,
+     38.9248002
     ]
    },
    "properties": {
@@ -114047,22 +114095,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.86643845,
-     38.6661359
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Gold Country Drive",
-     "Goldorado Trail"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.8665625,
      38.661894
     ]
@@ -114079,8 +114111,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8688966,
-     38.66525475
+     -120.8662999,
+     38.6676458
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Country Drive",
+     "Goldorado Trail"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8712307,
+     38.6686155
     ]
    },
    "properties": {
@@ -114191,8 +114239,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.701681,
-     38.608364
+     -120.6606257,
+     38.5932335
     ]
    },
    "properties": {
@@ -114207,8 +114255,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6606257,
-     38.5932335
+     -120.701681,
+     38.608364
     ]
    },
    "properties": {
@@ -115055,8 +115103,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9876611,
-     38.8823346
+     -119.9863565,
+     38.8838352
     ]
    },
    "properties": {
@@ -115151,8 +115199,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9953302,
-     38.666069199999995
+     -120.999699,
+     38.670038
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kimberly Road",
+     "Knollwood Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9895987,
+     38.6700538
     ]
    },
    "properties": {
@@ -115503,8 +115567,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.7296278,
-     38.94028925
+     -120.7296779,
+     38.9385622
     ]
    },
    "properties": {
@@ -115519,8 +115583,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.7296779,
-     38.9385622
+     -120.7294743,
+     38.9384283
     ]
    },
    "properties": {
@@ -115759,8 +115823,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.856537,
-     38.7047327
+     -120.8564346,
+     38.7042556
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Road",
+     "US 50"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8566394,
+     38.7052098
     ]
    },
    "properties": {
@@ -115903,8 +115983,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.02105625,
-     38.8152767
+     -120.0210643,
+     38.8138556
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Panorama Drive",
+     "West River Park Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0210482,
+     38.8166978
     ]
    },
    "properties": {
@@ -119649,8 +119745,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8443769,
-     38.72337715
+     -120.8450297,
+     38.7227348
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Green Valley Road",
+     "Old Green Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0338184,
+     38.7051441
     ]
    },
    "properties": {
@@ -119683,22 +119795,6 @@
     "coordinates": [
      -121.0447713,
      38.7128787
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Green Valley Road",
-     "Old Green Valley Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.0338184,
-     38.7051441
     ]
    },
    "properties": {
@@ -120689,8 +120785,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.00695225,
-     38.86396585
+     -120.0057259,
+     38.8641628
     ]
    },
    "properties": {
@@ -121257,6 +121353,22 @@
     "streets": [
      "Black Bart Avenue",
      "Black Bart Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9381569,
+     38.663646
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Shingle Road",
+     "US 50"
     ]
    }
   },
@@ -123057,8 +123169,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.071468275,
-     38.655407575000005
+     -121.07185824999999,
+     38.65678565
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Hills Boulevard",
+     "Saratoga Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0710783,
+     38.6540295
     ]
    },
    "properties": {
@@ -123105,8 +123233,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.07031475,
-     38.65548105
+     -121.0701407,
+     38.6543758
     ]
    },
    "properties": {
@@ -123121,8 +123249,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0701407,
-     38.6543758
+     -121.0700647,
+     38.6542864
     ]
    },
    "properties": {
@@ -123777,8 +123905,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.91500005,
-     38.68032345
+     -120.9148607,
+     38.679589
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Shingle Springs Drive",
+     "US 50"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9151394,
+     38.6810579
     ]
    },
    "properties": {
@@ -123825,8 +123969,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.743304,
-     38.80251825
+     -120.7410147,
+     38.8020401
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Claim Street",
+     "Swansboro Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7455933,
+     38.8029964
     ]
    },
    "properties": {
@@ -124115,22 +124275,6 @@
     "coordinates": [
      -121.0846119,
      38.718818
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Francisco Drive",
-     "Kensington Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.0846908,
-     38.7188593
     ]
    },
    "properties": {
@@ -125251,22 +125395,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.841536,
-     38.7126639
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Missouri Flat Road",
-     "Plaza Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.8819981,
      38.6961018
     ]
@@ -125283,88 +125411,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.7628297,
-     38.7305048
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Route 50;US 50",
-     "US 50"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.0346949,
-     38.6552055
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Route 50;US 50",
-     "US 50"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.0247648,
-     38.6551665
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Route 50;US 50",
-     "US 50"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.7490759,
-     38.7310716
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Route 50;US 50",
-     "US 50"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.9701467,
-     38.6596036
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Route 50;US 50",
-     "US 50"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.9652292,
-     38.6593863
+     -120.9371142,
+     38.6625812
     ]
    },
    "properties": {
@@ -125395,8 +125443,88 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9371142,
-     38.6625812
+     -120.9652292,
+     38.6593863
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "US 50"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9701467,
+     38.6596036
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "US 50"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0247648,
+     38.6551665
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "US 50"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0346949,
+     38.6552055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "US 50"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7628297,
+     38.7305048
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "US 50"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7490759,
+     38.7310716
     ]
    },
    "properties": {
@@ -125445,6 +125573,38 @@
     "coordinates": [
      -120.8411167,
      38.712333
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Missouri Flat Road",
+     "US 50"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.83979500000001,
+     38.7116317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Missouri Flat Road",
+     "US 50"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8384748,
+     38.7108308
     ]
    },
    "properties": {
@@ -125571,24 +125731,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9690243,
-     38.6601058
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cameron Park Drive",
-     "US 50"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.9690783,
-     38.6604207
+     -120.96905075,
+     38.65892985
     ]
    },
    "properties": {
@@ -126147,8 +126291,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.033032,
-     38.679604499999996
+     -121.033206,
+     38.6789502
     ]
    },
    "properties": {
@@ -126163,8 +126307,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.03433565,
-     38.678884249999996
+     -121.0358133,
+     38.6775097
     ]
    },
    "properties": {
@@ -126213,22 +126357,6 @@
     "coordinates": [
      -121.0303845,
      38.6784983
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Preston Way",
-     "Serrano Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.0303554,
-     38.678353099999995
     ]
    },
    "properties": {
@@ -126565,22 +126693,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.05279125,
-     38.67871285
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Serrano Parkway",
-     "Terracina Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.0658187,
      38.66961285
     ]
@@ -126791,40 +126903,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0661422,
-     38.6231249
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Carson Crossing Drive",
-     "Palmdale Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.06921795,
      38.623090649999995
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Carson Crossing Drive",
-     "Heritage Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.06937984999999,
-     38.6230907
     ]
    },
    "properties": {
@@ -126863,22 +126943,6 @@
     "streets": [
      "Da Vinci Drive",
      "Pannini Way"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.0614238,
-     38.66606165
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Entrada Drive",
-     "Silva Valley Parkway"
     ]
    }
   },
@@ -126999,8 +127063,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0298303,
-     38.656119149999995
+     -121.0298585,
+     38.6564756
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bass Lake Road",
+     "US 50"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0298021,
+     38.6557627
     ]
    },
    "properties": {
@@ -127243,8 +127323,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.062126925,
-     38.634515125
+     -121.0656307,
+     38.6413553
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Foothill Parkway",
+     "Latrobe Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05862315,
+     38.62767495
     ]
    },
    "properties": {
@@ -127725,8 +127821,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.04869185000001,
-     38.6802514
+     -121.0322257,
+     38.680643
     ]
    },
    "properties": {
@@ -127741,8 +127837,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.048529,
-     38.6802367
+     -121.048557,
+     38.6802898
     ]
    },
    "properties": {
@@ -127759,38 +127855,6 @@
     "coordinates": [
      -121.0530561,
      38.642257
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Blackstone Parkway",
-     "Valley View Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.0531371,
-     38.6423045
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Blackstone Parkway",
-     "Valley View Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.05316450000001,
-     38.6422138
     ]
    },
    "properties": {
@@ -127855,22 +127919,6 @@
     "coordinates": [
      -121.0763097,
      38.6259233
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Carson Crossing Drive",
-     "Mission Canyon Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.0762552,
-     38.6257937
     ]
    },
    "properties": {
@@ -128031,22 +128079,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.06147385,
-     38.67153775
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Serrano Parkway",
-     "Village Green Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.019425,
      38.6976163
     ]
@@ -128080,7 +128112,7 @@
     "type": "Point",
     "coordinates": [
      -121.0853843,
-     38.70951555
+     38.709515550000006
     ]
    },
    "properties": {
@@ -128111,39 +128143,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.06226810000001,
-     38.63706715
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Latrobe Road",
-     "Suncast Lane"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.062115,
-     38.6369903
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Latrobe Road",
-     "Suncast Lane"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.06371467499999,
+     -121.063714675,
      38.670113275000006
     ]
    },
@@ -128239,8 +128239,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.04333845,
-     38.6281924
+     -121.0446168,
+     38.6293825
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Aspen Meadows Drive",
+     "Keystone Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0420601,
+     38.6270023
     ]
    },
    "properties": {
@@ -128465,22 +128481,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.04677625,
-     38.680693149999996
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Serrano Parkway",
-     "Villagio Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.0222995,
      38.8511307
     ]
@@ -128515,57 +128515,6 @@
     "coordinates": [
      -120.0226175,
      38.8509723
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 89",
-     "Route 50;US 50",
-     "Route 50;US 50;CA 89"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.0222041,
-     38.8509252
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 89",
-     "Route 50;US 50",
-     "Route 50;US 50;CA 89"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.02228865000001,
-     38.85087165
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 89",
-     "Route 50;US 50",
-     "Route 50;US 50;CA 89"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.022554,
-     38.8509024
     ]
    },
    "properties": {
@@ -128901,22 +128850,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0389323,
-     38.681322800000004
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Edgehill Drive",
-     "Serrano Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.0546922,
      38.6592331
     ]
@@ -129013,8 +128946,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5242353,
-     38.7599267
+     -120.5194348,
+     38.7594901
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forest Road",
+     "Route 50;US 50"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5290358,
+     38.7603633
     ]
    },
    "properties": {
@@ -129061,8 +129010,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.7599625,
-     38.7313531
+     -120.759862,
+     38.7310507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Point View Drive",
+     "US 50"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.760063,
+     38.7316555
     ]
    },
    "properties": {

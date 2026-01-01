@@ -247346,22 +247346,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.26113265000001,
-     38.03709895
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Diamond Bar Place",
-     "East Morada Lane"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.257384,
      38.1345575
     ]
@@ -247379,8 +247363,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2574442,
-     38.1195673
+     -121.2571676,
+     38.119893
     ]
    },
    "properties": {
@@ -247396,8 +247380,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2572758,
-     38.127225249999995
+     -121.2574442,
+     38.1195673
     ]
    },
    "properties": {
@@ -247541,8 +247525,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2489396,
-     37.9609465
+     -121.2843886,
+     37.9509257
     ]
    },
    "properties": {
@@ -247557,8 +247541,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2587881,
-     37.9584628
+     -121.2775651,
+     37.9520826
     ]
    },
    "properties": {
@@ -247621,6 +247605,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.2587881,
+     37.9584628
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 4;I 7–9 FUT",
+     "Crosstown Freeway;CA 4;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.2494831,
      37.9606084
     ]
@@ -247637,24 +247637,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2843886,
-     37.9509257
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 4;I 7–9 FUT",
-     "Crosstown Freeway;CA 4;I 7–9 FUT"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.2775651,
-     37.9520826
+     -121.2489396,
+     37.9609465
     ]
    },
    "properties": {
@@ -248633,22 +248617,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.44232535,
-     37.71060325
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cagney Way",
-     "Valpico Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.4347131,
      37.71852925
     ]
@@ -249196,7 +249164,7 @@
     "type": "Point",
     "coordinates": [
      -121.286386,
-     38.102307333333336
+     38.10230733333333
     ]
    },
    "properties": {
@@ -249421,8 +249389,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.29473999999999,
-     38.1752901
+     -121.294474,
+     38.1882302
     ]
    },
    "properties": {
@@ -249485,7 +249453,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.36411452500002,
+     -121.364114525,
      37.991549925
     ]
    },
@@ -249565,6 +249533,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.28843330000001,
+     37.7872517
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glacier Street",
+     "Guthmiller Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.2885195,
      37.7855609
     ]
@@ -249583,6 +249567,38 @@
     "coordinates": [
      -121.2878347,
      37.7884158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 120",
+     "Guthmiller Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.287552,
+     37.788816
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 120",
+     "Guthmiller Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2868595,
+     37.7898076
     ]
    },
    "properties": {
@@ -249893,6 +249909,22 @@
     "streets": [
      "California Street",
      "Mulholland Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.28083029999999,
+     37.93983755
+    ]
+   },
+   "properties": {
+    "streets": [
+     "California Street",
+     "Old U.S. Route 99W"
     ]
    }
   },
@@ -251475,8 +251507,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2620466,
-     37.811881
+     -121.217085,
+     37.811878
     ]
    },
    "properties": {
@@ -251491,8 +251523,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.217085,
-     37.811878
+     -121.2620466,
+     37.811881
     ]
    },
    "properties": {
@@ -251594,22 +251626,6 @@
    "properties": {
     "streets": [
      "Carmel Avenue",
-     "West Louise Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.2312703,
-     37.81191990000001
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Trailwood Avenue",
      "West Louise Avenue"
     ]
    }
@@ -252179,8 +252195,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4207535,
-     37.7082496
+     -121.4207576,
+     37.7086561
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glenbriar Drive",
+     "Quail Run Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.4207494,
+     37.7078431
     ]
    },
    "properties": {
@@ -252323,8 +252355,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.28205305,
-     37.855574624999996
+     -121.2828476,
+     37.85557675
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Roth Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2812585,
+     37.855572499999994
     ]
    },
    "properties": {
@@ -252947,22 +252995,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3599473,
-     37.98222505
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Lakemist Circle",
-     "West March Lane"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.360548,
      37.982573
     ]
@@ -253361,6 +253393,22 @@
     "streets": [
      "Acampo Road",
      "North Tretheway Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2632977,
+     38.1747074
+    ]
+   },
+   "properties": {
+    "streets": [
+     "99 Frontage Road",
+     "Acampo Road"
     ]
    }
   },
@@ -253804,7 +253852,7 @@
     "type": "Point",
     "coordinates": [
      -121.334713225,
-     37.984322375
+     37.984322375000005
     ]
    },
    "properties": {
@@ -254253,38 +254301,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.26708,
-     38.024361
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Daltry Drive",
-     "Wakeman Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.26709825,
-     38.0243478
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Daltry Drive",
-     "Wakeman Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.27124685000001,
      38.024103249999996
     ]
@@ -254525,22 +254541,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4511864,
-     37.7349723
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cypress Drive",
-     "Foxhollow Way"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.3982497,
      37.7542633
     ]
@@ -254575,8 +254575,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.44713687499998,
-     37.728722125000004
+     -121.447136875,
+     37.728722125
     ]
    },
    "properties": {
@@ -254641,22 +254641,6 @@
     "coordinates": [
      -121.5401129,
      37.78527525
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Arturo Boulevard",
-     "Central Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5401423,
-     37.78517445
     ]
    },
    "properties": {
@@ -254816,7 +254800,7 @@
     "type": "Point",
     "coordinates": [
      -121.43917956666667,
-     37.704845133333336
+     37.70484513333333
     ]
    },
    "properties": {
@@ -254847,8 +254831,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.28643600000001,
-     38.10293
+     -121.2864605,
+     38.1040435
     ]
    },
    "properties": {
@@ -254911,8 +254895,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3946424,
-     37.6344709
+     -121.4601998,
+     37.6738445
     ]
    },
    "properties": {
@@ -254927,8 +254911,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4601998,
-     37.6738445
+     -121.4595485,
+     37.6738267
     ]
    },
    "properties": {
@@ -254975,8 +254959,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4595485,
-     37.6738267
+     -121.3946424,
+     37.6344709
     ]
    },
    "properties": {
@@ -255519,6 +255503,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.2158402,
+     37.781323
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 120",
+     "South Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.317782,
      38.203603
     ]
@@ -255872,7 +255872,7 @@
     "type": "Point",
     "coordinates": [
      -121.43508865000001,
-     37.754186575000006
+     37.754186575
     ]
    },
    "properties": {
@@ -256527,40 +256527,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3143139,
-     37.9544751
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "West Fremont Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.3147728,
-     37.95453125
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "West Fremont Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.3153077,
      37.9546031
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "West Fremont Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3152317,
+     37.9545874
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "West Fremont Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3143139,
+     37.9544751
     ]
    },
    "properties": {
@@ -257103,8 +257103,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.27064580000001,
-     38.2183156
+     -121.2726707,
+     38.2183073
+    ]
+   },
+   "properties": {
+    "streets": [
+     "99 Frontage Road",
+     "Collier Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2686209,
+     38.2183239
     ]
    },
    "properties": {
@@ -257215,8 +257231,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4402649,
-     37.70677166666666
+     -121.44026489999999,
+     37.70677166666667
     ]
    },
    "properties": {
@@ -257295,22 +257311,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4396341,
-     37.7141104
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Sycamore Parkway",
-     "West Central Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.4396064,
      37.71403345
     ]
@@ -257359,7 +257359,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.43996274999998,
+     -121.43996275,
      37.719937675
     ]
    },
@@ -257391,7 +257391,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.44037633333335,
+     -121.44037633333333,
      37.72533716666667
     ]
    },
@@ -257553,8 +257553,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.26259475,
-     38.18921365
+     -121.264309,
+     38.189226
+    ]
+   },
+   "properties": {
+    "streets": [
+     "99 Frontage Road",
+     "East Peltier Road;J12"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2608805,
+     38.1892013
     ]
    },
    "properties": {
@@ -257649,7 +257665,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.45313694999999,
+     -121.45313695,
      37.747073400000005
     ]
    },
@@ -257889,22 +257905,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.53165,
-     37.7669482
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Mountain House Parkway",
-     "Mustang Way"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.5372854,
      37.7719047
     ]
@@ -258099,8 +258099,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.266953,
-     37.8173705
+     -121.26698,
+     37.817995
     ]
    },
    "properties": {
@@ -258115,7 +258115,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.54589339999998,
+     -121.266926,
+     37.816746
+    ]
+   },
+   "properties": {
+    "streets": [
+     "5th Street",
+     "Park Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5458934,
      37.773344725
     ]
    },
@@ -258484,7 +258500,7 @@
     "type": "Point",
     "coordinates": [
      -121.453114,
-     37.735060374999996
+     37.735060375
     ]
    },
    "properties": {
@@ -258755,8 +258771,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.43083705000001,
-     38.2261149
+     -121.4297263,
+     38.2261209
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "West Walnut Grove Road;J11"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.4319478,
+     38.2261089
     ]
    },
    "properties": {
@@ -258803,8 +258835,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3684967,
-     37.9774334
+     -121.36850150000001,
+     37.9774987
     ]
    },
    "properties": {
@@ -258819,8 +258851,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3551931,
-     37.9838608
+     -121.35521664999999,
+     37.98378595
     ]
    },
    "properties": {
@@ -258931,8 +258963,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.297415,
-     37.926169
+     -121.300018,
+     37.923177
     ]
    },
    "properties": {
@@ -258947,8 +258979,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2987165,
-     37.924673
+     -121.297415,
+     37.926169
     ]
    },
    "properties": {
@@ -259219,8 +259251,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2563525,
-     38.1161839
+     -121.2562021,
+     38.1161789
     ]
    },
    "properties": {
@@ -259235,8 +259267,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2562021,
-     38.1161789
+     -121.2563525,
+     38.1161839
     ]
    },
    "properties": {
@@ -260935,8 +260967,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3992431,
-     38.146005
+     -121.3987158,
+     38.1460029
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "West Turner Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3997704,
+     38.1460071
     ]
    },
    "properties": {
@@ -261031,8 +261079,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.44169343333334,
-     37.73966756666666
+     -121.44169343333333,
+     37.73966756666667
     ]
    },
    "properties": {
@@ -261383,8 +261431,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.29147555,
-     37.811785099999994
+     -121.2915203,
+     37.8118402
     ]
    },
    "properties": {
@@ -261689,7 +261737,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.27162494999999,
+     -121.27162495,
      38.02117425
     ]
    },
@@ -262171,8 +262219,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2678995,
-     37.81737
+     -121.267867,
+     37.816739
     ]
    },
    "properties": {
@@ -262187,8 +262235,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.26890325,
-     37.8173412
+     -121.267932,
+     37.818001
+    ]
+   },
+   "properties": {
+    "streets": [
+     "4th Street",
+     "Park Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.268819,
+     37.816733
+    ]
+   },
+   "properties": {
+    "streets": [
+     "3rd Street",
+     "Park Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2689875,
+     37.8179494
     ]
    },
    "properties": {
@@ -262251,22 +262331,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4393204,
-     37.7375837
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Beechnut Avenue",
-     "Palm Circle"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.4401947,
      37.7378459
     ]
@@ -262283,8 +262347,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.4393204,
+     37.7375837
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Beechnut Avenue",
+     "Palm Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.43620443333333,
-     37.7048144
+     37.704814400000004
     ]
    },
    "properties": {
@@ -262332,7 +262412,7 @@
     "type": "Point",
     "coordinates": [
      -121.45635887499999,
-     37.740727875000005
+     37.740727875
     ]
    },
    "properties": {
@@ -262493,22 +262573,6 @@
     "coordinates": [
      -121.5315437,
      37.7716776
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Mountain House Parkway",
-     "Wicklund Crossing"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5317115,
-     37.7718312
     ]
    },
    "properties": {
@@ -262779,8 +262843,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2804885,
-     37.8990294
+     -121.2805673,
+     37.8990559
     ]
    },
    "properties": {
@@ -262795,8 +262859,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.28085715,
-     37.89854245
+     -121.2804885,
+     37.8990294
     ]
    },
    "properties": {
@@ -263147,8 +263211,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.26000435,
-     38.087148600000006
+     -121.2584323,
+     38.0871781
+    ]
+   },
+   "properties": {
+    "streets": [
+     "99 Frontage Road",
+     "Armstrong Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2615764,
+     38.0871191
     ]
    },
    "properties": {
@@ -263227,8 +263307,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2514888,
-     37.9674871
+     -121.25151095000001,
+     37.9675231
     ]
    },
    "properties": {
@@ -263819,6 +263899,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.2722615,
+     37.883468
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "Ash Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.260405,
      37.934088
     ]
@@ -264155,8 +264251,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.22069110000001,
-     37.8176179
+     -121.2208645,
+     37.8172552
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Crestwood Avenue",
+     "Laurelwood Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2205177,
+     37.8179806
     ]
    },
    "properties": {
@@ -264219,8 +264331,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.258137,
-     38.055917
+     -121.25808295,
+     38.05599305
     ]
    },
    "properties": {
@@ -264395,22 +264507,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.43762455000001,
-     37.7145147
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cedrus Drive",
-     "West Central Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.4169066,
      38.0417472
     ]
@@ -264427,8 +264523,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4232437,
-     38.0412376
+     -121.416879,
+     38.0434773
     ]
    },
    "properties": {
@@ -264443,8 +264539,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4168928,
-     38.042612250000005
+     -121.4295808,
+     38.040728
     ]
    },
    "properties": {
@@ -264539,7 +264635,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.45486324999999,
+     -121.45486325,
      37.7350515
     ]
    },
@@ -265275,8 +265371,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.38245155,
-     38.0488045
+     -121.385819,
+     38.048625
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cosumnes Drive",
+     "Mokelumne Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3790841,
+     38.048984
     ]
    },
    "properties": {
@@ -266573,22 +266685,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.43641785,
-     37.7251482
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Morris Phelps Drive",
-     "West Schulte Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.2685782,
      38.2171038
     ]
@@ -266781,8 +266877,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.411176,
-     37.739977
+     -121.4145456,
+     37.7523978
     ]
    },
    "properties": {
@@ -266797,8 +266893,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4128608,
-     37.7461874
+     -121.411176,
+     37.739977
     ]
    },
    "properties": {
@@ -267807,8 +267903,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2610745,
-     37.9634123
+     -121.26109145000001,
+     37.9634549
     ]
    },
    "properties": {
@@ -268783,8 +268879,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.290024875,
-     37.8263478
+     -121.289046,
+     37.8263533
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Lathrop Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29100375,
+     37.8263423
     ]
    },
    "properties": {
@@ -268879,6 +268991,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.2612989,
+     38.1026818
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Cherokee Lane;CA 99 Business"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.2616049,
      38.1022804
     ]
@@ -268911,22 +269039,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.261594,
-     38.1448745
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99",
-     "Cherokee Lane;CA 99 Business"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.2610991,
      38.1429821
     ]
@@ -268943,8 +269055,120 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2688007,
-     38.2130167
+     -121.261594,
+     38.1448745
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Cherokee Lane;CA 99 Business"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2606778,
+     38.1513806
+    ]
+   },
+   "properties": {
+    "streets": [
+     "99 Frontage Road",
+     "CA 99"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2621942,
+     38.1525148
+    ]
+   },
+   "properties": {
+    "streets": [
+     "99 Frontage Road",
+     "CA 99"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2612083,
+     38.1763825
+    ]
+   },
+   "properties": {
+    "streets": [
+     "99 Frontage Road",
+     "CA 99"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2648796,
+     38.2059764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "99 Frontage Road",
+     "CA 99"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2685612,
+     38.2165295
+    ]
+   },
+   "properties": {
+    "streets": [
+     "99 Frontage Road",
+     "CA 99"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2727218,
+     38.220057
+    ]
+   },
+   "properties": {
+    "streets": [
+     "99 Frontage Road",
+     "CA 99"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2778743,
+     38.2323704
     ]
    },
    "properties": {
@@ -268975,8 +269199,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.27321774999999,
-     38.22444995
+     -121.259108,
+     38.1005205
     ]
    },
    "properties": {
@@ -269473,8 +269697,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.1533852,
-     38.1594449
+     -121.1533121,
+     38.1596025
     ]
    },
    "properties": {
@@ -269489,8 +269713,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.1533121,
-     38.1596025
+     -121.1533852,
+     38.1594449
     ]
    },
    "properties": {
@@ -269521,24 +269745,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2867194,
-     38.1045059
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Port Chelsea Circle",
-     "South Ham Lane"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.41470890000001,
-     37.761516775
+     -121.4147089,
+     37.761516775000004
     ]
    },
    "properties": {
@@ -269795,8 +270003,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.41643766666665,
-     37.71486883333333
+     -121.41643766666668,
+     37.714868833333334
     ]
    },
    "properties": {
@@ -269813,22 +270021,6 @@
     "coordinates": [
      -121.5315463,
      37.7758843
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Arnaudo Boulevard",
-     "Mountain House Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.53162815,
-     37.77577035
     ]
    },
    "properties": {
@@ -269987,23 +270179,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.55191205,
-     37.756481449999995
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Bancroft Way",
-     "West Grant Line Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.547231,
+     -121.54723100000001,
      37.75693585
     ]
    },
@@ -270019,7 +270195,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.54288475,
+     -121.54288475000001,
      37.7571313
     ]
    },
@@ -270115,22 +270291,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3095768,
-     37.9536274
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Westside Freeway;I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.3026639,
      37.7881909
     ]
@@ -270147,40 +270307,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3445982,
-     37.9870737
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Westside Freeway;I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.3717923,
-     38.0544772
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Westside Freeway;I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.3736755,
-     38.0616374
+     -121.3095768,
+     37.9536274
     ]
    },
    "properties": {
@@ -270197,6 +270325,22 @@
     "coordinates": [
      -121.342812,
      37.982496
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Westside Freeway;I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3445982,
+     37.9870737
     ]
    },
    "properties": {
@@ -270229,6 +270373,38 @@
     "coordinates": [
      -121.3506091,
      38.0022229
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Westside Freeway;I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3717923,
+     38.0544772
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Westside Freeway;I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3736755,
+     38.0616374
     ]
    },
    "properties": {
@@ -270295,6 +270471,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.2188557,
+     37.8656723
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2191011,
+     37.8657879
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2211468,
+     37.900729
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2244347,
+     37.9083733
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.234106,
      37.9354539
     ]
@@ -270327,70 +270567,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.235221,
-     37.9427664
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99;I 7–9 FUT",
-     "Golden State Highway;CA 99;I 7–9 FUT"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.2211468,
-     37.900729
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99;I 7–9 FUT",
-     "Golden State Highway;CA 99;I 7–9 FUT"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.2191011,
-     37.8657879
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99;I 7–9 FUT",
-     "Golden State Highway;CA 99;I 7–9 FUT"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.2188557,
-     37.8656723
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99;I 7–9 FUT",
-     "Golden State Highway;CA 99;I 7–9 FUT"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.2348516,
      37.9413826
     ]
@@ -270407,8 +270583,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2244347,
-     37.9083733
+     -121.235221,
+     37.9427664
     ]
    },
    "properties": {
@@ -270439,56 +270615,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.142838,
-     37.7532808
-    ]
-   },
-   "properties": {
-    "streets": [
-     "442nd Regimental Combat Team Memorial Highway;CA 99;I 7–9 FUT",
-     "CA 99;I 7–9 FUT"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.146605,
-     37.754698
-    ]
-   },
-   "properties": {
-    "streets": [
-     "442nd Regimental Combat Team Memorial Highway;CA 99;I 7–9 FUT",
-     "CA 99;I 7–9 FUT"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.1772558,
-     37.7731649
-    ]
-   },
-   "properties": {
-    "streets": [
-     "442nd Regimental Combat Team Memorial Highway;CA 99;I 7–9 FUT",
-     "CA 99;I 7–9 FUT"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.181925,
-     37.7768081
+     -121.192268,
+     37.8006353
     ]
    },
    "properties": {
@@ -270519,8 +270647,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.192268,
-     37.8006353
+     -121.181925,
+     37.7768081
     ]
    },
    "properties": {
@@ -270551,8 +270679,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.1772558,
+     37.7731649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "442nd Regimental Combat Team Memorial Highway;CA 99;I 7–9 FUT",
+     "CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.173507,
      37.770189
+    ]
+   },
+   "properties": {
+    "streets": [
+     "442nd Regimental Combat Team Memorial Highway;CA 99;I 7–9 FUT",
+     "CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.146605,
+     37.754698
+    ]
+   },
+   "properties": {
+    "streets": [
+     "442nd Regimental Combat Team Memorial Highway;CA 99;I 7–9 FUT",
+     "CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.142838,
+     37.7532808
     ]
    },
    "properties": {
@@ -270793,54 +270969,6 @@
     "coordinates": [
      -121.2722904,
      38.0015035
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cabin Creek Street",
-     "Gold Brook Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.272401,
-     38.0014391
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cabin Creek Street",
-     "Gold Brook Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.2722774,
-     38.0012738
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cabin Creek Street",
-     "Gold Brook Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.27215,
-     38.0013213
     ]
    },
    "properties": {
@@ -271337,6 +271465,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.40101735,
+     38.11610675
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.4005552,
      38.1159132
     ]
@@ -271353,8 +271497,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4012191,
-     38.1161079
+     -121.3979934,
+     38.1161107
     ]
    },
    "properties": {
@@ -271369,8 +271513,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3979934,
-     38.1161107
+     -121.3971128,
+     38.116017850000006
     ]
    },
    "properties": {
@@ -271531,8 +271675,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3088782,
-     37.9453129
+     -121.3082037,
+     37.9453425
     ]
    },
    "properties": {
@@ -271547,8 +271691,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3082037,
-     37.9453425
+     -121.3088782,
+     37.9453129
     ]
    },
    "properties": {
@@ -271595,8 +271739,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.253469,
-     37.9911938
+     -121.253808,
+     37.9907919
     ]
    },
    "properties": {
@@ -271611,8 +271755,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2512202,
-     37.994001
+     -121.2540932,
+     37.990436
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Cherokee Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.253469,
+     37.9911938
     ]
    },
    "properties": {
@@ -271643,8 +271803,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2540932,
-     37.990436
+     -121.2512202,
+     37.994001
     ]
    },
    "properties": {
@@ -271707,8 +271867,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.236124,
-     37.934751
+     -121.2356846,
+     37.934539
     ]
    },
    "properties": {
@@ -271723,8 +271883,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2356846,
-     37.934539
+     -121.236124,
+     37.934751
     ]
    },
    "properties": {
@@ -271805,8 +271965,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.404773,
-     38.189423000000005
+     -121.403618,
+     38.189433
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "West Peltier Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.405928,
+     38.189413
     ]
    },
    "properties": {
@@ -271823,6 +271999,86 @@
     "coordinates": [
      -121.3440424,
      37.6379226
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 132",
+     "Vernalis Freeway;CA 132"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3486568,
+     37.6379045
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 132",
+     "Vernalis Freeway;CA 132"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3562468,
+     37.6376638
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 132",
+     "Vernalis Freeway;CA 132"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3600583,
+     37.6379069
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 132",
+     "Vernalis Freeway;CA 132"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3662565,
+     37.6379216
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 132",
+     "Vernalis Freeway;CA 132"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3933872,
+     37.638302
     ]
    },
    "properties": {
@@ -271869,88 +272125,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3933872,
-     37.638302
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 132",
-     "Vernalis Freeway;CA 132"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.402769,
      37.639698
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 132",
-     "Vernalis Freeway;CA 132"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.3486568,
-     37.6379045
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 132",
-     "Vernalis Freeway;CA 132"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.3600583,
-     37.6379069
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 132",
-     "Vernalis Freeway;CA 132"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.3562468,
-     37.6376638
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 132",
-     "Vernalis Freeway;CA 132"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.3662565,
-     37.6379216
     ]
    },
    "properties": {
@@ -271983,54 +272159,6 @@
     "coordinates": [
      -121.4294249,
      37.7628157
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 205",
-     "Robert T. Monagan Freeway;I 205"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.467902,
-     37.7520199
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 205",
-     "Robert T. Monagan Freeway;I 205"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.4667556,
-     37.7527829
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 205",
-     "Robert T. Monagan Freeway;I 205"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.470003,
-     37.7514548
     ]
    },
    "properties": {
@@ -272093,8 +272221,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.46314135,
-     37.753963850000005
+     -121.4583807,
+     37.7559078
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 205",
+     "Robert T. Monagan Freeway;I 205"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.4667556,
+     37.7527829
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 205",
+     "Robert T. Monagan Freeway;I 205"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.467902,
+     37.7520199
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 205",
+     "Robert T. Monagan Freeway;I 205"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.470003,
+     37.7514548
     ]
    },
    "properties": {
@@ -272125,8 +272301,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3429171,
-     37.6410878
+     -121.3433137,
+     37.6383827
     ]
    },
    "properties": {
@@ -272141,8 +272317,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3433137,
-     37.6383827
+     -121.3429171,
+     37.6410878
     ]
    },
    "properties": {
@@ -272367,8 +272543,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.35984640000001,
-     38.021275849999995
+     -121.357771,
+     38.021263
     ]
    },
    "properties": {
@@ -272385,22 +272561,6 @@
     "coordinates": [
      -121.3570364,
      38.0212655
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "West Hammer Lane"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.357771,
-     38.021263
     ]
    },
    "properties": {
@@ -272433,22 +272593,6 @@
     "coordinates": [
      -121.5456424,
      37.7803046
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Estes Way",
-     "Main Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5455539,
-     37.78023365
     ]
    },
    "properties": {
@@ -272513,22 +272657,6 @@
     "coordinates": [
      -121.55702120000001,
      37.778394399999996
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Great Valley Parkway",
-     "Main Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5570989,
-     37.7782769
     ]
    },
    "properties": {
@@ -272639,7 +272767,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2907138,
+     -121.29071379999999,
      38.00206865
     ]
    },
@@ -272703,7 +272831,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.294896675,
+     -121.29489667499999,
      38.020942500000004
     ]
    },
@@ -272769,8 +272897,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2573419,
-     38.0212857
+     -121.2597493,
+     38.021093300000004
     ]
    },
    "properties": {
@@ -272785,8 +272913,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2597967,
-     38.0210949
+     -121.2573419,
+     38.0212857
     ]
    },
    "properties": {
@@ -272961,22 +273089,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.5313915,
-     37.73327955
-    ]
-   },
-   "properties": {
-    "streets": [
-     "International Parkway",
-     "Promontory Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.53606070000001,
      37.71931755
     ]
@@ -273009,8 +273121,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.21842,
-     37.8266438
+     -121.215834,
+     37.8266591
     ]
    },
    "properties": {
@@ -273025,8 +273137,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.215834,
-     37.8266591
+     -121.21842,
+     37.8266438
     ]
    },
    "properties": {
@@ -273057,8 +273169,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3976456,
-     37.63858915
+     -121.3976449,
+     37.6381086
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 132",
+     "South Chrisman Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3976463,
+     37.6390697
     ]
    },
    "properties": {
@@ -273138,7 +273266,7 @@
     "type": "Point",
     "coordinates": [
      -121.45309710000001,
-     37.739327875
+     37.739327874999994
     ]
    },
    "properties": {
@@ -273349,7 +273477,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.305644625,
+     -121.30564462500001,
      37.80961375
     ]
    },
@@ -273605,6 +273733,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.28689109999999,
+     37.826351249999995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lathrop Road",
+     "South Harlan Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.4164376,
      37.71830705
     ]
@@ -273749,22 +273893,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.55115495,
-     37.795087699999996
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Byron Road;J4",
-     "Great Valley Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.5553016,
      37.7924447
     ]
@@ -273877,8 +274005,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.5569974,
-     37.772841
+     -121.5569977,
+     37.77280595
     ]
    },
    "properties": {
@@ -273895,22 +274023,6 @@
     "coordinates": [
      -121.5571874,
      37.7680129
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Great Valley Parkway",
-     "Mustang Way"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.55711260000001,
-     37.76812325
     ]
    },
    "properties": {
@@ -273943,22 +274055,6 @@
     "coordinates": [
      -121.5501129,
      37.7671064
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Mustang Way",
-     "Walcott Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.55010435,
-     37.7671645
     ]
    },
    "properties": {
@@ -274101,56 +274197,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.5465909,
-     37.7735706
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Curioso Street",
-     "Legacy Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5465409,
-     37.7736509
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Curioso Street",
-     "Legacy Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.5472373,
      37.764302
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Aldrich Place",
-     "Central Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5472431,
-     37.7642232
     ]
    },
    "properties": {
@@ -274265,6 +274313,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.34415584999999,
+     37.9845271
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "West March Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3427036,
+     37.98462945
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "West March Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.3417857,
      37.9846062
     ]
@@ -274297,8 +274377,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2965483,
-     37.8118261
+     -121.2944281,
+     37.8118663
     ]
    },
    "properties": {
@@ -274313,8 +274393,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2944281,
-     37.8118663
+     -121.2965483,
+     37.8118261
     ]
    },
    "properties": {
@@ -274829,22 +274909,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2872368,
-     37.9427684
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Anderson Street",
-     "South El Dorado Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.1352452,
      37.744395
     ]
@@ -274909,22 +274973,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.44740809999999,
-     37.71053785
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Shoreline Avenue",
-     "Valpico Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.44780829999999,
      37.710537
     ]
@@ -274973,7 +275021,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.46418815000001,
+     -121.46418815,
      37.739301025
     ]
    },
@@ -275117,7 +275165,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.44355875000001,
+     -121.44355875,
      37.754160049999996
     ]
    },
@@ -275181,8 +275229,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.43505046666667,
-     37.76309593333334
+     -121.4350015,
+     37.7624715
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 205",
+     "North Tracy Boulevard;J13"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.43507495,
+     37.763408150000004
     ]
    },
    "properties": {
@@ -275229,8 +275293,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.222625,
-     37.9048305
+     -121.2221207,
+     37.9049524
     ]
    },
    "properties": {
@@ -275245,8 +275309,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2221207,
-     37.9049524
+     -121.22274949999999,
+     37.90479755
     ]
    },
    "properties": {
@@ -275423,6 +275487,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.372042,
+     38.0579027
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "West Eight Mile Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.3579993,
      37.9275794
     ]
@@ -275471,8 +275551,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.36117445,
-     37.6379189
+     -121.3611858,
+     37.6389291
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bird Road",
+     "CA 132"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3611631,
+     37.6369087
     ]
    },
    "properties": {
@@ -275504,7 +275600,7 @@
     "type": "Point",
     "coordinates": [
      -121.288019475,
-     38.10825282500001
+     38.108252825
     ]
    },
    "properties": {
@@ -275921,6 +276017,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.330367,
+     37.9570051
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Monte Diablo Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.3289353,
      37.9572454
     ]
@@ -276161,7 +276273,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.326066075,
+     -121.32606607499999,
      37.7931039
     ]
    },
@@ -276385,8 +276497,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.25218615,
-     37.7832372
+     -121.2521937,
+     37.7852376
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Airport Way;J3",
+     "CA 120"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2521786,
+     37.7812368
     ]
    },
    "properties": {
@@ -276417,88 +276545,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.280031,
-     37.9575439
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Aurora Street",
-     "East Miner Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.2803852,
-     37.9574852
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Aurora Street",
-     "East Miner Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.2803678,
-     37.9573964
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Aurora Street",
-     "East Miner Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.2760804,
      37.9582161
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Miner Avenue",
-     "North Pilgrim Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.2760936,
-     37.9581131
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Miner Avenue",
-     "North Pilgrim Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.2764805,
-     37.9581491
     ]
    },
    "properties": {
@@ -276657,6 +276705,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.5316675,
+     37.7412002
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 205",
+     "International Parkway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.5316961,
      37.7424527
     ]
@@ -276673,8 +276737,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3514045,
-     38.004803
+     -121.5316994,
+     37.7430272
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 205",
+     "International Parkway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.352119,
+     38.004727
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "West Benjamin Holt Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.35069,
+     38.004879
     ]
    },
    "properties": {
@@ -276755,6 +276851,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.461843,
+     37.754098
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 205",
+     "West Grant Line Road;J4"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.4600916,
      37.7541813
     ]
@@ -276787,8 +276899,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2231813,
-     37.9048267
+     -121.2248102,
+     37.9042693
     ]
    },
    "properties": {
@@ -276803,8 +276915,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2248102,
-     37.9042693
+     -121.22305145,
+     37.9048573
     ]
    },
    "properties": {
@@ -276947,8 +277059,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.28958595,
-     37.913048950000004
+     -121.2902134,
+     37.91298855
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Downing Avenue",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2889585,
+     37.91310935
     ]
    },
    "properties": {
@@ -276997,8 +277125,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.27882625000001,
-     37.882076549999994
+     -121.2780486,
+     37.8820036
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "West Mathews Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2796039,
+     37.8821495
     ]
    },
    "properties": {
@@ -277030,7 +277174,7 @@
     "type": "Point",
     "coordinates": [
      -121.26974655,
-     38.03705585
+     38.037055849999994
     ]
    },
    "properties": {
@@ -277207,8 +277351,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.45724039999999,
-     37.672244750000004
+     -121.4566483,
+     37.6727043
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corral Hollow Road;J2",
+     "I 580"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.4578325,
+     37.6717852
     ]
    },
    "properties": {
@@ -277319,7 +277479,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.54312097500001,
+     -121.543120975,
      37.77936205
     ]
    },
@@ -277351,40 +277511,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.5572495,
-     37.7587945
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Great Valley Parkway",
-     "Weller Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.5572014,
      37.7648569
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Great Valley Parkway",
-     "Hargrove Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.55712305,
-     37.7649445
     ]
    },
    "properties": {
@@ -277463,7 +277591,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.54748132499999,
+     -121.547481325,
      37.7668614
     ]
    },
@@ -277527,40 +277655,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.5345354,
-     37.7576965
-    ]
-   },
-   "properties": {
-    "streets": [
-     "De Anza Boulevard",
-     "West Grant Line Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.5333896,
      37.7618119
-    ]
-   },
-   "properties": {
-    "streets": [
-     "De Anza Boulevard",
-     "Teixeira Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5333874,
-     37.7619102
     ]
    },
    "properties": {
@@ -277624,7 +277720,7 @@
     "type": "Point",
     "coordinates": [
      -121.538819675,
-     37.76676594999999
+     37.76676595
     ]
    },
    "properties": {
@@ -277657,54 +277753,6 @@
     "coordinates": [
      -121.5483082,
      37.7642659
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Aldrich Place",
-     "Shields Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5483042,
-     37.7643231
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Aldrich Place",
-     "Shields Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5485302,
-     37.7643303
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Aldrich Place",
-     "Shields Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5485322,
-     37.7642721
     ]
    },
    "properties": {
@@ -277783,7 +277831,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.33776920000001,
+     -121.3377692,
      37.8016207
     ]
    },
@@ -278295,6 +278343,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.312799,
+     37.991327749999996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pacific Avenue",
+     "West March Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.3122982,
      37.9914956
     ]
@@ -278343,8 +278407,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2820955,
-     37.8970312
+     -121.2818884,
+     37.89702715
     ]
    },
    "properties": {
@@ -278391,22 +278455,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.45333,
-     37.7603974
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Corral Hollow Road",
-     "Corral Hollow Road;J2"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.4528354,
      37.6965734
     ]
@@ -278423,8 +278471,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.45331469999999,
-     37.7600863
+     -121.4532994,
+     37.7597752
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corral Hollow Road",
+     "Corral Hollow Road;J2"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.45333,
+     37.7603974
     ]
    },
    "properties": {
@@ -278441,22 +278505,6 @@
     "coordinates": [
      -121.5379573,
      37.7574422
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Prosperity Street",
-     "West Grant Line Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5378327,
-     37.7574515
     ]
    },
    "properties": {
@@ -278535,8 +278583,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.27055115,
-     37.7849809
+     -121.2705736,
+     37.7863957
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 120",
+     "McKinley Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2705287,
+     37.7835661
     ]
    },
    "properties": {
@@ -278663,8 +278727,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.46169605,
-     37.681393
+     -121.4639828,
+     37.68299495
     ]
    },
    "properties": {
@@ -278839,38 +278903,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.54124039999999,
-     37.74596045
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Central Parkway",
-     "Zinnia Way"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.54116065,
-     37.7460193
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Central Parkway",
-     "Zinnia Way"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.5458351,
      37.7450992
     ]
@@ -278887,40 +278919,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.54593745,
-     37.7451052
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Central Parkway",
-     "Nipoti Ranch Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.5498472,
      37.7465816
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Central Parkway",
-     "Funderburg Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.54988025,
-     37.7466498
     ]
    },
    "properties": {
@@ -279177,56 +279177,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.234278,
-     37.7837355
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 120",
-     "South Union Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.2343956,
-     37.7846828
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 120",
-     "South Union Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.234258,
      37.7827755
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 120",
-     "South Union Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.2340626,
-     37.7846405
     ]
    },
    "properties": {
@@ -279257,8 +279209,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.2339251,
-     37.7819067
+     -121.234278,
+     37.7837355
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 120",
+     "South Union Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2340626,
+     37.7846405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 120",
+     "South Union Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2343956,
+     37.7846828
     ]
    },
    "properties": {
@@ -279275,6 +279259,22 @@
     "coordinates": [
      -121.2342696,
      37.7819981
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 120",
+     "South Union Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2339251,
+     37.7819067
     ]
    },
    "properties": {
@@ -279627,7 +279627,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.51314075,
+     -121.51314074999999,
      37.733095225
     ]
    },
@@ -279901,8 +279901,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0508415,
-     38.2359079
+     -121.0507583,
+     38.2360775
     ]
    },
    "properties": {
@@ -279917,8 +279917,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0507583,
-     38.2360775
+     -121.0508415,
+     38.2359079
     ]
    },
    "properties": {
@@ -280333,38 +280333,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3463795,
-     37.8070605
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Gebardt Street",
-     "Scott Edwards Lane"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.346348,
-     37.8070967
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Gebardt Street",
-     "Scott Edwards Lane"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.3531918,
      37.8086958
     ]
@@ -280381,56 +280349,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3531375,
-     37.8087821
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Roll Tide Way",
-     "Winton Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.35326905,
-     37.8087836
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Roll Tide Way",
-     "Winton Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.3598126,
      37.811094
-    ]
-   },
-   "properties": {
-    "streets": [
-     "River Islands Parkway",
-     "Winton Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.35966055,
-     37.8111668
     ]
    },
    "properties": {

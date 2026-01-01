@@ -24681,8 +24681,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.74551435000001,
-     38.546542599999995
+     -120.7454768,
+     38.5465303
     ]
    },
    "properties": {
@@ -24697,8 +24697,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.74571835,
-     38.5461816
+     -120.7458848,
+     38.5458083
     ]
    },
    "properties": {
@@ -25561,6 +25561,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.8539184,
+     38.4403594
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Church Street",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.8254042,
      38.4191564
     ]
@@ -25579,22 +25595,6 @@
     "coordinates": [
      -120.8026193,
      38.3917027
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Church Street",
-     "Main Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.8539184,
-     38.4403594
     ]
    },
    "properties": {

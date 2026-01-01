@@ -79912,22 +79912,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5135381,
-     37.9026338
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Tiburon Boulevard;CA 131",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.51427045,
      37.9026389
     ]
@@ -79944,8 +79928,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5066829,
-     37.946643
+     -122.5135381,
+     37.9026338
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Tiburon Boulevard;CA 131",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5066267,
+     37.9466478
     ]
    },
    "properties": {
@@ -79960,8 +79960,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.50731110000001,
-     37.947145000000006
+     -122.5079393,
+     37.947647
     ]
    },
    "properties": {
@@ -80264,38 +80264,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.54761239999999,
-     37.90551215
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Miller Avenue",
-     "Sunnyside Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.54759655000001,
-     37.9054948
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Miller Avenue",
-     "Sunnyside Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.53610555,
      37.8966523
     ]
@@ -80410,6 +80378,22 @@
     "coordinates": [
      -122.8085018,
      38.0799342
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mesa Road",
+     "Shoreline Highway;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8062998,
+     38.0691678
     ]
    },
    "properties": {
@@ -81482,8 +81466,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5357412,
-     38.0104777
+     -122.5355379,
+     38.0106933
     ]
    },
    "properties": {
@@ -81498,8 +81482,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5355379,
-     38.0106933
+     -122.5357412,
+     38.0104777
     ]
    },
    "properties": {
@@ -81818,8 +81802,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5060598,
-     37.9684323
+     -122.50609505,
+     37.968477
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marina Boulevard",
+     "Point San Pedro Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5020046,
+     37.9701573
     ]
    },
    "properties": {
@@ -82622,8 +82622,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.693274,
-     38.04805935
+     -122.4807844,
+     37.8479519
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2nd Street",
+     "Valley Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9057636,
+     38.2481668
     ]
    },
    "properties": {
@@ -82814,8 +82830,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4824151,
-     37.9166106
+     -122.4827079,
+     37.9168273
     ]
    },
    "properties": {
@@ -82830,8 +82846,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4827079,
-     37.9168273
+     -122.4824151,
+     37.9166106
     ]
    },
    "properties": {
@@ -83070,8 +83086,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.60437615000001,
-     38.11922625
+     -122.6041106,
+     38.1208479
+    ]
+   },
+   "properties": {
+    "streets": [
+     "San Felipe Way",
+     "San Ramon Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6046417,
+     38.1176046
     ]
    },
    "properties": {
@@ -83438,6 +83470,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.59184465,
+     38.123960749999995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "San Carlos Way",
+     "San Marin Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.5981864,
      38.11833515
     ]
@@ -83744,8 +83792,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5459313,
-     37.9542844
+     -122.54587665,
+     37.9543262
     ]
    },
    "properties": {
@@ -83840,8 +83888,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5916961,
-     37.9901269
+     -122.54235295,
+     37.953786300000004
     ]
    },
    "properties": {
@@ -83856,8 +83904,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.54235295,
-     37.953786300000004
+     -122.5916961,
+     37.9901269
     ]
    },
    "properties": {
@@ -84400,22 +84448,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.55504995000001,
-     38.09359055
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Rowland Boulevard",
-     "Vintage Way"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.5436456,
      37.878538
     ]
@@ -84544,8 +84576,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5394387,
-     37.9319114
+     -122.5396323,
+     37.9341445
     ]
    },
    "properties": {
@@ -84560,8 +84592,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5395355,
-     37.933027949999996
+     -122.5394387,
+     37.9319114
     ]
    },
    "properties": {
@@ -85376,6 +85408,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.56290705,
+     38.105119200000004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "De Long Avenue",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.5833558,
      38.006116
     ]
@@ -86048,8 +86096,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5563978,
-     37.96335
+     -122.54070845000001,
+     37.95352389999999
     ]
    },
    "properties": {
@@ -86064,8 +86112,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.54070845000001,
-     37.95352389999999
+     -122.5563978,
+     37.96335
     ]
    },
    "properties": {
@@ -86662,38 +86710,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5285528,
-     37.9969579
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Civic Center Drive",
-     "Peter Behr Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.5286708,
-     37.9968343
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Civic Center Drive",
-     "Peter Behr Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.531508,
      37.9695467
     ]
@@ -86774,22 +86790,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4577008,
-     37.9922751
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Marin Bay Park Court",
-     "Point San Pedro Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.5287896,
      38.0072807
     ]
@@ -86838,8 +86838,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5663142,
-     37.9682925
+     -122.5668022,
+     37.9693406
     ]
    },
    "properties": {
@@ -86870,8 +86870,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5668022,
-     37.9693406
+     -122.5663142,
+     37.9682925
     ]
    },
    "properties": {
@@ -87670,8 +87670,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.63946695,
-     37.90019055
+     -122.6393124,
+     37.9010068
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Buena Vista Avenue",
+     "Calle del Mar"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6396215,
+     37.8993743
     ]
    },
    "properties": {
@@ -87784,38 +87800,6 @@
     "coordinates": [
      -122.5227528,
      37.9725287
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Fourth Street",
-     "Tamalpais Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.522949,
-     37.9724807
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Fourth Street",
-     "Tamalpais Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.5224683,
-     37.9724718
     ]
    },
    "properties": {
@@ -88070,22 +88054,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5384513,
-     38.02089
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Smith Ranch Road",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.5374482,
      38.020432
     ]
@@ -88104,6 +88072,22 @@
     "coordinates": [
      -122.5367118,
      38.0201353
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Smith Ranch Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5384513,
+     38.02089
     ]
    },
    "properties": {
@@ -88216,22 +88200,6 @@
     "coordinates": [
      -122.5403,
      37.9430019
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Bon Air Road",
-     "Magnolia Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.5403195,
-     37.9430777
     ]
    },
    "properties": {
@@ -88422,8 +88390,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.52195875,
-     37.94350905
+     -122.5215975,
+     37.9432766
     ]
    },
    "properties": {
@@ -89222,88 +89190,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4848428,
-     37.8356835
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101;CA 1",
-     "US 101;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4809568,
-     37.8325302
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101;CA 1",
-     "US 101;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.482419,
-     37.8333567
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101;CA 1",
-     "US 101;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.5098291,
      37.8751858
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101;CA 1",
-     "US 101;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.483074,
-     37.8337609
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101;CA 1",
-     "US 101;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.481009,
-     37.8324326
     ]
    },
    "properties": {
@@ -89334,8 +89222,88 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.4848428,
+     37.8356835
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101;CA 1",
+     "US 101;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.4845976,
      37.835603
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101;CA 1",
+     "US 101;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.483074,
+     37.8337609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101;CA 1",
+     "US 101;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.482419,
+     37.8333567
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101;CA 1",
+     "US 101;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4809568,
+     37.8325302
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101;CA 1",
+     "US 101;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.481009,
+     37.8324326
     ]
    },
    "properties": {
@@ -89622,40 +89590,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4767666,
-     37.9757797
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Marine Drive",
-     "Oak Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.47690689999999,
-     37.97555235
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Marine Drive",
-     "Oak Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.4770114,
      37.9758996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marine Drive",
+     "Oak Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4768572,
+     37.9753388
     ]
    },
    "properties": {
@@ -89782,8 +89734,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5162331,
-     37.9391476
+     -122.5546266,
+     38.087773
     ]
    },
    "properties": {
@@ -89814,8 +89766,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5546266,
-     38.087773
+     -122.509664,
+     37.9602892
     ]
    },
    "properties": {
@@ -89830,8 +89782,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.509664,
-     37.9602892
+     -122.509399,
+     37.9598434
     ]
    },
    "properties": {
@@ -89862,8 +89814,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.509399,
-     37.9598434
+     -122.5162331,
+     37.9391476
     ]
    },
    "properties": {
@@ -89942,8 +89894,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4882745,
-     37.9448616
+     -122.5077875,
+     37.961374
     ]
    },
    "properties": {
@@ -89974,24 +89926,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5077875,
-     37.961374
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 580",
-     "John T. Knox Freeway;I 580"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4790202,
-     37.942793
+     -122.4882745,
+     37.9448616
     ]
    },
    "properties": {
@@ -90054,6 +89990,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.4790202,
+     37.942793
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 580",
+     "John T. Knox Freeway;I 580"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.4859251,
      37.8431913
     ]
@@ -90086,8 +90038,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4859078,
-     37.8446065
+     -122.486261,
+     37.845962
     ]
    },
    "properties": {
@@ -90102,14 +90054,30 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.48627685,
-     37.84454425
+     -122.4866286,
+     37.8458972
     ]
    },
    "properties": {
     "streets": [
      "Redwood Highway;US 101;CA 1",
      "Robin Williams Tunnel;US 101;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.51422735,
+     37.944761299999996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sir Francis Drake Boulevard East",
+     "US 101"
     ]
    }
   },
@@ -90150,8 +90118,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5075991,
-     37.9453604
+     -122.50754319999999,
+     37.945396099999996
     ]
    },
    "properties": {
@@ -90166,40 +90134,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.51159945,
-     37.94575665
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Larkspur Landing Circle",
-     "Sir Francis Drake Boulevard East"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.511472,
-     37.94582915
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Larkspur Landing Circle",
-     "Sir Francis Drake Boulevard East"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.50762875000001,
-     37.94547905
+     -122.5114131,
+     37.9457825
     ]
    },
    "properties": {
@@ -90486,6 +90422,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.4839782,
+     37.8360403
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alexander Avenue",
+     "US 101;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.4833432,
      37.8364862
     ]
@@ -90502,8 +90454,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4846397,
-     37.8344241
+     -122.4843774,
+     37.8342731
     ]
    },
    "properties": {
@@ -90518,8 +90470,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4843774,
-     37.8342731
+     -122.4846397,
+     37.8344241
     ]
    },
    "properties": {
@@ -90614,8 +90566,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5169268,
-     37.8792207
+     -122.516252,
+     37.878671
     ]
    },
    "properties": {
@@ -90646,8 +90598,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.516252,
-     37.878671
+     -122.5169268,
+     37.8792207
     ]
    },
    "properties": {
@@ -90714,8 +90666,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.516056,
-     37.8882877
+     -122.5175416,
+     37.8895421
     ]
    },
    "properties": {
@@ -90746,8 +90698,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5175416,
-     37.8895421
+     -122.516056,
+     37.8882877
     ]
    },
    "properties": {
@@ -90810,22 +90762,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5433771,
-     38.0071089
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Manuel T Freitas Parkway",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.5399585,
      38.0064374
     ]
@@ -90844,6 +90780,22 @@
     "coordinates": [
      -122.5423232,
      38.0071139
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Manuel T Freitas Parkway",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5433771,
+     38.0071089
     ]
    },
    "properties": {
@@ -90906,24 +90858,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5307455,
-     38.0495396
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Nave Drive",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.5308681,
-     38.0484658
+     -122.53070729999999,
+     38.0493733
     ]
    },
    "properties": {
@@ -90970,40 +90906,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.5308681,
+     38.0484658
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Nave Drive",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.53520075,
+     38.0649041
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Nave Drive",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5353413,
+     38.0651667
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Nave Drive",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.5354891,
      38.0651307
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Nave Drive",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.5351048,
-     38.0648318
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Nave Drive",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.535319,
-     38.06507155
     ]
    },
    "properties": {
@@ -91114,8 +91066,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5752879,
-     38.1630143
+     -122.56434784999999,
+     38.1174372
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Atherton Avenue",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5747867,
+     38.1634561
+    ]
+   },
+   "properties": {
+    "streets": [
+     "San Antonio Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5757891,
+     38.1625725
     ]
    },
    "properties": {
@@ -91259,7 +91243,7 @@
     "type": "Point",
     "coordinates": [
      -122.5286669,
-     37.900410799999996
+     37.9004108
     ]
    },
    "properties": {
@@ -91418,6 +91402,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.5141925,
+     37.9261421
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Tamalpais Drive",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.5132863,
      37.9264937
     ]
@@ -91466,22 +91466,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5141925,
-     37.9261421
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Tamalpais Drive",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.5175053,
      37.9250924
     ]
@@ -91514,8 +91498,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5394016,
-     38.0337064
+     -122.5393702,
+     38.0336001
     ]
    },
    "properties": {
@@ -91530,8 +91514,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5393702,
-     38.0336001
+     -122.5394016,
+     38.0337064
     ]
    },
    "properties": {
@@ -91610,24 +91594,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5307081,
-     37.9947358
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North San Pedro Road",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.5317012,
-     37.9943273
+     -122.53070385000001,
+     37.994790699999996
     ]
    },
    "properties": {
@@ -91660,6 +91628,22 @@
     "coordinates": [
      -122.5295216,
      37.9957189
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North San Pedro Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5317012,
+     37.9943273
     ]
    },
    "properties": {
@@ -91786,22 +91770,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5183334,
-     37.9480748
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Eliseo Drive",
-     "Via Lerida"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.52021105,
      37.94570145
     ]
@@ -91820,22 +91788,6 @@
     "coordinates": [
      -122.5283012,
      37.9488094
-    ]
-   },
-   "properties": {
-    "streets": [
-     "El Portal Drive",
-     "Sir Francis Drake Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.52821475,
-     37.9487173
     ]
    },
    "properties": {
@@ -92672,8 +92624,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5093649,
-     37.8715454
+     -122.50934815,
+     37.87148785
     ]
    },
    "properties": {
@@ -93008,8 +92960,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5513939,
-     38.0201289
+     -122.55145205,
+     38.02014915
     ]
    },
    "properties": {
@@ -93024,8 +92976,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.57082199999999,
-     38.0286959
+     -122.5501374,
+     38.0223624
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Las Gallinas Avenue",
+     "Maple Hill Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.569171,
+     38.0283785
     ]
    },
    "properties": {
@@ -93040,8 +93008,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5692921,
-     38.0283421
+     -122.5725941,
+     38.0289769
     ]
    },
    "properties": {
@@ -93218,8 +93186,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4630223,
-     37.8729884
+     -122.46305105,
+     37.87304535
     ]
    },
    "properties": {
@@ -93252,38 +93220,6 @@
     "coordinates": [
      -122.472717,
      37.8790915
-    ]
-   },
-   "properties": {
-    "streets": [
-     "San Rafael Avenue",
-     "West Shore Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.472704,
-     37.8788807
-    ]
-   },
-   "properties": {
-    "streets": [
-     "San Rafael Avenue",
-     "West Shore Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4726803,
-     37.8788145
     ]
    },
    "properties": {
@@ -94146,8 +94082,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5407929,
-     38.0074087
+     -122.51592,
+     37.9383
     ]
    },
    "properties": {
@@ -94162,8 +94098,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.51592,
-     37.9383
+     -122.5407929,
+     38.0074087
     ]
    },
    "properties": {
@@ -94362,22 +94298,6 @@
     "streets": [
      "Belvedere Drive",
      "Redwood Highway Frontage Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.5294372,
-     38.0190052
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Smith Ranch Court",
-     "Smith Ranch Road"
     ]
    }
   },
@@ -94708,22 +94628,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.52536645,
-     37.94761255
-    ]
-   },
-   "properties": {
-    "streets": [
-     "La Cuesta Drive",
-     "Sir Francis Drake Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.52525305,
      37.9475688
     ]
@@ -94742,22 +94646,6 @@
     "coordinates": [
      -122.5250176,
      37.94797155
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Corte Morada",
-     "La Cuesta Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.52510290000001,
-     37.94797815
     ]
    },
    "properties": {
@@ -94884,8 +94772,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5331622,
-     38.0490649
+     -122.53306885,
+     38.04921225
     ]
    },
    "properties": {
@@ -94966,22 +94854,6 @@
     "coordinates": [
      -122.540804,
      38.0660306
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Alameda del Prado",
-     "Ignacio Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.54062325000001,
-     38.06597685
     ]
    },
    "properties": {
@@ -95460,24 +95332,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5301723,
-     37.8927532
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Camino Alto",
-     "Miller Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.5644337,
-     37.979331
+     -122.5644777,
+     37.97931505
     ]
    },
    "properties": {
@@ -95492,8 +95348,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.56508629999999,
-     37.9798122
+     -122.5656509,
+     37.9803253
     ]
    },
    "properties": {
@@ -95556,22 +95412,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5052669,
-     37.9601107
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Bellam Boulevard",
-     "I 580"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.51172505,
      37.960313549999995
     ]
@@ -95606,22 +95446,6 @@
     "coordinates": [
      -122.5090001,
      37.9586426
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Andersen Drive",
-     "Gary Place"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.5090607,
-     37.9584437
     ]
    },
    "properties": {

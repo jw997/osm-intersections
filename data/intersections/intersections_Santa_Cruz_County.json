@@ -84183,72 +84183,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0033087,
-     37.0635492
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 17",
-     "Santa Cruz Highway;CA 17"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.005018,
-     37.0600535
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 17",
-     "Santa Cruz Highway;CA 17"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.0194244,
-     37.0367635
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 17",
-     "Santa Cruz Highway;CA 17"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.0227105,
-     37.0325417
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 17",
-     "Santa Cruz Highway;CA 17"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.022512,
-     37.032297
+     -122.0208013,
+     37.00198
     ]
    },
    "properties": {
@@ -84279,8 +84215,72 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0208013,
-     37.00198
+     -122.022512,
+     37.032297
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 17",
+     "Santa Cruz Highway;CA 17"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0227105,
+     37.0325417
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 17",
+     "Santa Cruz Highway;CA 17"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0194244,
+     37.0367635
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 17",
+     "Santa Cruz Highway;CA 17"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.005018,
+     37.0600535
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 17",
+     "Santa Cruz Highway;CA 17"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0033087,
+     37.0635492
     ]
    },
    "properties": {
@@ -84439,6 +84439,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.7746136,
+     36.90745245
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lighthouse Drive",
+     "Ohlone Parkway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.7740766,
      36.9059312
     ]
@@ -84457,6 +84473,22 @@
     "coordinates": [
      -122.0219509,
      36.9993848
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 17",
+     "Pasatiempo Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0210342,
+     36.9994652
     ]
    },
    "properties": {
@@ -85001,14 +85033,14 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0526183,
-     36.9752298
+     -122.0537416,
+     36.97512125
     ]
    },
    "properties": {
     "streets": [
-     "Bay Drive",
-     "Meder Street"
+     "Meder Street",
+     "Nobel Drive"
     ]
    }
   },
@@ -85481,8 +85513,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9907192,
-     36.96109975
+     -121.9912437,
+     36.9602081
     ]
    },
    "properties": {
@@ -85497,8 +85529,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9912437,
-     36.9602081
+     -121.9901046,
+     36.9621763
     ]
    },
    "properties": {
@@ -85609,8 +85641,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0049076,
-     36.9854914
+     -122.00498055,
+     36.98549825
     ]
    },
    "properties": {
@@ -87913,22 +87945,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.02787085,
-     36.97693985
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Center Street",
-     "Mission Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.935569,
      37.018649
     ]
@@ -88249,8 +88265,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1482296,
-     36.9841985
+     -122.0733236,
+     36.9620976
     ]
    },
    "properties": {
@@ -88297,6 +88313,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.1482296,
+     36.9841985
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cabrillo Highway;CA 1",
+     "Coast Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.1242374,
      37.1531928
     ]
@@ -88313,8 +88345,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.12392115,
-     37.1538689
+     -122.1236049,
+     37.154545
     ]
    },
    "properties": {
@@ -88329,8 +88361,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.12359105,
-     37.154616000000004
+     -122.1235772,
+     37.154687
     ]
    },
    "properties": {
@@ -88505,38 +88537,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.8829152,
-     36.9703713
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Alta Drive",
-     "Vista del Mar Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.8827149,
-     36.9704392
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Alta Drive",
-     "Vista del Mar Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.133798,
      37.142388
     ]
@@ -88603,54 +88603,6 @@
     "coordinates": [
      -122.026138,
      36.9647775
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Depot Park Roundabout",
-     "Pacific Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.0261546,
-     36.9650228
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Depot Park Roundabout",
-     "Pacific Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.0260467,
-     36.9648586
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Depot Park Roundabout",
-     "Pacific Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.0260422,
-     36.9649225
     ]
    },
    "properties": {
@@ -89081,6 +89033,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.8111644,
+     36.9309969
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Buena Vista Drive",
+     "CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.8093733,
      36.9320941
     ]
@@ -89097,8 +89065,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.8085142,
-     36.9324462
+     -121.80868755,
+     36.9323781
     ]
    },
    "properties": {
@@ -89321,8 +89289,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.8592038,
-     36.9398571
+     -121.85915514999999,
+     36.93984675
     ]
    },
    "properties": {
@@ -89337,8 +89305,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.8597247,
-     36.9394436
+     -121.86018634999999,
+     36.93898765
     ]
    },
    "properties": {
@@ -89465,8 +89433,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.7970049,
-     36.9257416
+     -121.8620211,
+     36.9621596
     ]
    },
    "properties": {
@@ -89483,6 +89451,22 @@
     "coordinates": [
      -121.8623426,
      36.9613492
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Larkin Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7971973,
+     36.9257834
     ]
    },
    "properties": {
@@ -89545,8 +89529,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1395285,
-     37.1735205
+     -122.1404039,
+     37.1751963
     ]
    },
    "properties": {
@@ -89561,8 +89545,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1404039,
-     37.1751963
+     -122.1395285,
+     37.1735205
     ]
    },
    "properties": {
@@ -89609,8 +89593,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.81182885,
-     36.85484925
+     -121.8120745,
+     36.8556974
     ]
    },
    "properties": {
@@ -89643,22 +89627,6 @@
     "coordinates": [
      -122.0531003,
      36.9702386
-    ]
-   },
-   "properties": {
-    "streets": [
-     "McMillan Drive",
-     "Nobel Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.0530065,
-     36.9702424
     ]
    },
    "properties": {
@@ -90025,8 +89993,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.8535209,
-     36.92229885
+     -121.8527052,
+     36.9225411
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sand Dollar Drive",
+     "Sea Horse Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8543366,
+     36.9220566
     ]
    },
    "properties": {
@@ -90169,8 +90153,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.8709418,
-     36.96820285
+     -121.8705956,
+     36.9679258
     ]
    },
    "properties": {
@@ -90283,22 +90267,6 @@
     "coordinates": [
      -121.9626994,
      36.9736801
-    ]
-   },
-   "properties": {
-    "streets": [
-     "42nd Avenue",
-     "Capitola Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.962542,
-     36.9737038
     ]
    },
    "properties": {
@@ -91049,6 +91017,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.0246465,
+     36.966383
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Front Street",
+     "Pacific Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.0243752,
      36.9666978
     ]
@@ -91067,22 +91051,6 @@
     "coordinates": [
      -122.0269988,
      36.9768394
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Front Street",
-     "Pacific Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.0246465,
-     36.966383
     ]
    },
    "properties": {
@@ -91129,8 +91097,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0761292,
-     37.0585858
+     -122.0765411,
+     37.0590649
     ]
    },
    "properties": {
@@ -91321,8 +91289,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0260306,
-     37.000907
+     -122.0260902,
+     37.0010408
     ]
    },
    "properties": {
@@ -91881,8 +91849,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.7622632,
-     36.9206127
+     -121.7617509,
+     36.9205181
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Junipero Serra Drive",
+     "Portola Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7626104,
+     36.9202211
     ]
    },
    "properties": {
@@ -91945,8 +91929,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.8759311,
-     36.9717757
+     -121.8854108,
+     36.9765061
     ]
    },
    "properties": {
@@ -91961,8 +91945,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.8854108,
-     36.9765061
+     -121.8759311,
+     36.9717757
     ]
    },
    "properties": {
@@ -92937,22 +92921,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.96961429999999,
-     36.973727600000004
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Capitola Road",
-     "Clares Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.7394794,
      36.922848450000004
     ]
@@ -92969,8 +92937,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0329933,
-     36.9757244
+     -122.03304685,
+     36.97574195
     ]
    },
    "properties": {
@@ -93019,6 +92987,22 @@
     "coordinates": [
      -121.8505155,
      36.9506812
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Mar Monte Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8507254,
+     36.9503396
     ]
    },
    "properties": {
@@ -94395,54 +94379,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.7755448,
-     36.8968672
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 1",
-     "Cabrillo Highway;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.0266327,
-     36.9854285
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 1",
-     "Cabrillo Highway;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.9589523,
-     36.983092
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 1",
-     "Cabrillo Highway;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.9533179,
      36.983528
     ]
@@ -94459,24 +94395,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9407467,
-     36.9839149
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 1",
-     "Cabrillo Highway;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.7732421,
-     36.8898273
+     -121.9589523,
+     36.983092
     ]
    },
    "properties": {
@@ -94509,6 +94429,70 @@
     "coordinates": [
      -121.960046,
      36.9829895
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Cabrillo Highway;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9407467,
+     36.9839149
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Cabrillo Highway;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0266327,
+     36.9854285
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Cabrillo Highway;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7755448,
+     36.8968672
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Cabrillo Highway;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7732421,
+     36.8898273
     ]
    },
    "properties": {
@@ -94651,8 +94635,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9646478,
-     36.9836535
+     -121.9645785,
+     36.9834861
     ]
    },
    "properties": {
@@ -94667,8 +94651,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9645564,
-     36.9816663
+     -121.9646478,
+     36.9836535
     ]
    },
    "properties": {
@@ -94699,8 +94683,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9645917,
-     36.9815736
+     -121.9645564,
+     36.9816663
     ]
    },
    "properties": {
@@ -94715,8 +94699,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9645785,
-     36.9834861
+     -121.9645917,
+     36.9815736
     ]
    },
    "properties": {
@@ -94747,56 +94731,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.987714,
-     36.9859285
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Soquel Avenue",
-     "Soquel Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.9503694,
      36.9749406
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Escalona Drive",
-     "Monterey Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.9503443,
-     36.9750366
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Escalona Drive",
-     "Monterey Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.950305,
-     36.9751875
     ]
    },
    "properties": {
@@ -94923,6 +94859,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.9094881,
+     36.9789647
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "State Park Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.9108685,
      36.9774533
     ]
@@ -94939,8 +94891,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9115673,
-     36.9762852
+     -121.9115485,
+     36.9763608
     ]
    },
    "properties": {
@@ -94955,8 +94907,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9115485,
-     36.9763608
+     -121.9115673,
+     36.9762852
     ]
    },
    "properties": {
@@ -95005,38 +94957,6 @@
     "coordinates": [
      -122.0239918,
      36.962699
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Beach Street",
-     "Wharf Roundabout"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.0236883,
-     36.9628003
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Beach Street",
-     "Wharf Roundabout"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.0240433,
-     36.9628551
     ]
    },
    "properties": {
@@ -95611,8 +95531,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.7858397,
-     36.9148816
+     -121.7861451,
+     36.9147483
     ]
    },
    "properties": {
@@ -95627,8 +95547,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.7861451,
-     36.9147483
+     -121.7858397,
+     36.9148816
     ]
    },
    "properties": {
@@ -95707,6 +95627,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.872168,
+     36.9711409
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Freedom Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8727767,
+     36.9706325
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Freedom Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.8736549,
      36.9700954
     ]
@@ -95771,8 +95723,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.86299105,
-     36.9598827
+     -121.8631627,
+     36.9594849
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "San Andreas Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8628194,
+     36.9602805
     ]
    },
    "properties": {
@@ -95795,6 +95763,22 @@
     "streets": [
      "Main Street;CA 152",
      "South Green Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7721325,
+     36.8952036
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "West Riverside Drive;CA 129"
     ]
    }
   },
@@ -95852,7 +95836,7 @@
     "type": "Point",
     "coordinates": [
      -121.7578535,
-     36.905259975
+     36.90525997500001
     ]
    },
    "properties": {
@@ -95981,22 +95965,6 @@
     "coordinates": [
      -121.7716106,
      36.9164683
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Main Street;CA 152",
-     "Pennsylvania Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.77169155,
-     36.9165464
     ]
    },
    "properties": {
@@ -96251,22 +96219,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.99672659999999,
-     36.982251250000004
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Capitola Road",
-     "Soquel Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.0550041,
      36.954975
     ]
@@ -96381,24 +96333,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9290743,
-     36.9897851
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Perimeter Road",
-     "Soquel Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.929026,
-     36.9897481
+     -121.92897905,
+     36.9897874
     ]
    },
    "properties": {
@@ -96511,6 +96447,22 @@
     "coordinates": [
      -121.885736,
      36.9754827
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Rio del Mar Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8852806,
+     36.9759544
     ]
    },
    "properties": {
@@ -97183,8 +97135,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9370619,
-     36.984011100000004
+     -121.9371996,
+     36.9835644
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Park Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9369242,
+     36.9844578
     ]
    },
    "properties": {
@@ -97555,8 +97523,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.729623,
-     36.9171654
+     -121.7332479,
+     36.9163656
     ]
    },
    "properties": {
@@ -97571,8 +97539,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.7332479,
-     36.9163656
+     -121.729623,
+     36.9171654
     ]
    },
    "properties": {

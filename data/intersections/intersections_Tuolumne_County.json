@@ -40130,8 +40130,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.32858250000001,
-     37.7328315
+     -120.3293,
+     37.736467
     ]
    },
    "properties": {
@@ -40162,8 +40162,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.33803449999999,
-     37.709746499999994
+     -120.338213,
+     37.710522
     ]
    },
    "properties": {
@@ -40194,8 +40194,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.34039585,
-     37.715360700000005
+     -120.3406287,
+     37.7159034
     ]
    },
    "properties": {
@@ -40418,8 +40418,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.46201400000001,
-     37.9735395
+     -120.462495,
+     37.974321
     ]
    },
    "properties": {
@@ -40530,8 +40530,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2517905,
-     38.024077
+     -120.250518,
+     38.023875
     ]
    },
    "properties": {
@@ -40546,8 +40546,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2501965,
-     38.0240685
+     -120.249875,
+     38.024262
     ]
    },
    "properties": {
@@ -40610,8 +40610,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.450161,
-     37.990263
+     -120.4620633,
+     37.9902954
     ]
    },
    "properties": {
@@ -40626,8 +40626,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4620633,
-     37.9902954
+     -120.450161,
+     37.990263
     ]
    },
    "properties": {
@@ -40722,8 +40722,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3342245,
-     38.009076500000006
+     -120.334408,
+     38.008808
     ]
    },
    "properties": {
@@ -40738,8 +40738,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.334963,
-     38.0088145
+     -120.335885,
+     38.008284
     ]
    },
    "properties": {
@@ -40770,8 +40770,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.188947,
-     37.859769
+     -120.221094,
+     37.846722
     ]
    },
    "properties": {
@@ -40786,8 +40786,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.221094,
-     37.846722
+     -120.188947,
+     37.859769
     ]
    },
    "properties": {
@@ -41746,40 +41746,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.410374,
-     37.9074765
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Jacksonville Road",
-     "Old Jacksonville Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.4106625,
-     37.911462
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Jacksonville Road",
-     "Old Jacksonville Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.407592,
      37.90306
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jacksonville Road",
+     "Old Jacksonville Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.412795,
+     37.909584
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jacksonville Road",
+     "Old Jacksonville Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.413555,
+     37.918239
     ]
    },
    "properties": {
@@ -42194,8 +42194,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.957912,
-     37.84197
+     -119.916043,
+     37.857028
     ]
    },
    "properties": {
@@ -42210,8 +42210,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.907002,
-     37.852471
+     -119.957912,
+     37.84197
     ]
    },
    "properties": {
@@ -42338,6 +42338,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.278176,
+     37.989989
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allison Way",
+     "Park Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.278128,
      37.99038
     ]
@@ -42354,24 +42370,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.27839119999999,
-     37.9904676
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Allison Way",
-     "Park Circle"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.27826300000001,
-     37.989438
+     -120.2786544,
+     37.9905552
     ]
    },
    "properties": {
@@ -42418,8 +42418,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.269303,
-     38.020891
+     -120.26977,
+     38.024774
     ]
    },
    "properties": {
@@ -42482,8 +42482,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.41435815,
-     37.9546125
+     -120.4139103,
+     37.954227
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "9th Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4139234,
+     37.9535925
     ]
    },
    "properties": {
@@ -43026,8 +43042,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.14082825,
-     37.845325900000006
+     -120.1420966,
+     37.8451064
     ]
    },
    "properties": {
@@ -43042,8 +43058,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.14251105,
-     37.8453516
+     -120.138853,
+     37.844951
     ]
    },
    "properties": {
@@ -43058,8 +43074,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.138792,
-     37.845003000000005
+     -120.138731,
+     37.845055
     ]
    },
    "properties": {
@@ -43586,8 +43602,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3781925,
-     37.980811
+     -120.37786,
+     37.981002
     ]
    },
    "properties": {
@@ -44370,8 +44386,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2555449,
-     37.9980221
+     -120.256541,
+     37.997011
     ]
    },
    "properties": {
@@ -44386,8 +44402,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.25641300000001,
-     37.997127
+     -120.2555449,
+     37.9980221
     ]
    },
    "properties": {
@@ -44754,22 +44770,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2110375,
-     37.848902499999994
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Grizzly Circle",
-     "Pine Mountain Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.213891,
      37.84853
     ]
@@ -44786,8 +44786,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.21119150000001,
-     37.848657
+     -120.208492,
+     37.848784
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grizzly Circle",
+     "Pine Mountain Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.206997,
+     37.84907
     ]
    },
    "properties": {
@@ -44946,8 +44962,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.429485,
-     37.969519
+     -120.42395,
+     37.971231
     ]
    },
    "properties": {
@@ -44962,8 +44978,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.42395,
-     37.971231
+     -120.429485,
+     37.969519
     ]
    },
    "properties": {
@@ -45026,8 +45042,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3096725,
-     37.964307500000004
+     -120.308934,
+     37.96333
     ]
    },
    "properties": {
@@ -46002,8 +46018,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5953265,
-     37.886604000000005
+     -120.59569,
+     37.887362
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pioneer Circle Drive",
+     "Tulloch Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.594963,
+     37.885846
     ]
    },
    "properties": {
@@ -46338,8 +46370,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.397469,
-     37.966192
+     -120.39806,
+     37.967223
     ]
    },
    "properties": {
@@ -46354,8 +46386,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3977645,
-     37.9667075
+     -120.397469,
+     37.966192
     ]
    },
    "properties": {
@@ -46450,8 +46482,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.269302,
-     38.01234
+     -120.2695375,
+     38.0120657
     ]
    },
    "properties": {
@@ -46466,8 +46498,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2695375,
-     38.0120657
+     -120.269302,
+     38.01234
     ]
    },
    "properties": {
@@ -46530,8 +46562,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.33069950000001,
-     38.004332500000004
+     -120.330124,
+     38.003502
     ]
    },
    "properties": {
@@ -46562,8 +46594,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.15470425000001,
-     38.08753985
+     -120.1536318,
+     38.0874676
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lakeview Drive",
+     "Sunrise Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.153154,
+     38.088442
     ]
    },
    "properties": {
@@ -47490,8 +47538,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2286458,
-     38.0303069
+     -120.2284065,
+     38.0304803
     ]
    },
    "properties": {
@@ -47506,8 +47554,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2798342,
-     37.9901223
+     -120.2286458,
+     38.0303069
     ]
    },
    "properties": {
@@ -47538,24 +47586,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.24392735,
-     38.02178585
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Sonora Pass Highway;CA 108",
-     "State Highway 108;CA 108"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.22852615,
-     38.0303936
+     -120.2441387,
+     38.0217387
     ]
    },
    "properties": {
@@ -47586,8 +47618,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.20854875,
-     38.0486857
+     -120.2016051,
+     38.0554423
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sonora Pass Highway;CA 108",
+     "State Highway 108;CA 108"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2798342,
+     37.9901223
     ]
    },
    "properties": {
@@ -48306,24 +48354,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.365154,
-     37.872223950000006
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Tioga Pass Road",
-     "Tioga Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.7225416,
-     37.7926422
+     -119.3651382,
+     37.8722251
     ]
    },
    "properties": {
@@ -48354,8 +48386,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7226328,
-     37.792486100000005
+     -119.7225416,
+     37.7926422
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Tioga Pass Road",
+     "Tioga Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.722724,
+     37.79233
     ]
    },
    "properties": {

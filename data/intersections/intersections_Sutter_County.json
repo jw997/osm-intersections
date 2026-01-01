@@ -39444,8 +39444,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.61460675000001,
-     39.129684499999996
+     -121.6144016,
+     39.1297377
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Franklin Avenue",
+     "Plumas Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.6148119,
+     39.1296313
     ]
    },
    "properties": {
@@ -39620,8 +39636,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4840297,
-     38.7952182
+     -121.4881605,
+     38.7949318
     ]
    },
    "properties": {
@@ -39636,8 +39652,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.488023,
-     38.794827
+     -121.4840297,
+     38.7952182
     ]
    },
    "properties": {
@@ -41508,8 +41524,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.5488824,
-     38.9101107
+     -121.5515661,
+     38.9100515
     ]
    },
    "properties": {
@@ -41540,8 +41556,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.5515661,
-     38.9100515
+     -121.5488824,
+     38.9101107
     ]
    },
    "properties": {
@@ -42612,8 +42628,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.630254,
-     39.141751674999995
+     -121.63025400000001,
+     39.141751675
     ]
    },
    "properties": {
@@ -42644,8 +42660,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.6353947,
-     39.151629549999996
+     -121.6358822,
+     39.1516224
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Queens Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.6349072,
+     39.1516367
     ]
    },
    "properties": {
@@ -42708,6 +42740,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.6439989,
+     39.169433049999995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Stabler Lane",
+     "Tres Picos Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.6457841,
      39.1676193
     ]
@@ -42742,6 +42790,22 @@
     "coordinates": [
      -121.64400699999999,
      39.168399449999995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Parc West Drive",
+     "Stabler Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.6440582,
+     39.1662414
     ]
    },
    "properties": {
@@ -43076,8 +43140,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.5404916,
-     38.7416417
+     -121.5404367,
+     38.7460734
     ]
    },
    "properties": {
@@ -43092,8 +43156,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.54053225,
-     38.7387524
+     -121.5405931,
+     38.7496587
     ]
    },
    "properties": {
@@ -43156,8 +43220,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.5405931,
-     38.7496587
+     -121.5404916,
+     38.7416417
     ]
    },
    "properties": {
@@ -43172,8 +43236,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.5404367,
-     38.7460734
+     -121.5405729,
+     38.7358631
     ]
    },
    "properties": {
@@ -43220,22 +43284,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.6812862,
-     39.1412919
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Colusa Highway;CA 20",
-     "Western Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.6482354,
      39.1492777
     ]
@@ -43268,7 +43316,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.617723225,
+     -121.61772322499999,
      39.140670375
     ]
    },
@@ -43524,40 +43572,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.5385699,
+     38.7502726
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Riego Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.5388811,
      38.7505119
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99",
-     "Riego Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5415349,
-     38.7504675
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99",
-     "Riego Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5441633,
-     38.7501746
     ]
    },
    "properties": {
@@ -43588,8 +43620,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.5422035,
-     38.7503284
+     -121.5415349,
+     38.7504675
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Riego Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5420185,
+     38.7502062
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Riego Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5423885,
+     38.7504506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Riego Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5441633,
+     38.7501746
     ]
    },
    "properties": {

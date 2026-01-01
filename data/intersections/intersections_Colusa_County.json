@@ -17496,6 +17496,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.1459336,
+     39.1561019
+    ]
+   },
+   "properties": {
+    "streets": [
+     "E Street;CA 20 Business",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.509481,
      39.304106
     ]
@@ -17688,8 +17704,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0069397,
-     39.0082792
+     -122.0062784,
+     39.2146565
     ]
    },
    "properties": {
@@ -17720,8 +17736,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.00729895,
-     39.111354
+     -122.0069397,
+     39.0082792
+    ]
+   },
+   "properties": {
+    "streets": [
+     "4th Street",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.007637,
+     39.2149612
     ]
    },
    "properties": {
@@ -17736,8 +17768,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.00800659999999,
-     39.111021550000004
+     -122.0069609,
+     39.0077468
+    ]
+   },
+   "properties": {
+    "streets": [
+     "5th Street",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0090171,
+     39.2152717
+    ]
+   },
+   "properties": {
+    "streets": [
+     "6th Street",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0069961,
+     39.0067714
     ]
    },
    "properties": {
@@ -18264,8 +18328,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1824866,
-     39.27630585
+     -122.1804353,
+     39.2763218
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Maxwell Colusa Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1845379,
+     39.2762899
     ]
    },
    "properties": {
@@ -18568,8 +18648,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.078714,
-     39.124886
+     -122.078919,
+     39.109569
     ]
    },
    "properties": {
@@ -18584,8 +18664,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.078919,
-     39.109569
+     -122.078714,
+     39.124886
     ]
    },
    "properties": {
@@ -18712,24 +18792,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1816076,
-     39.2373568
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Westside Freeway;I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.1816998,
-     39.2430637
+     -122.18269,
+     39.2795814
     ]
    },
    "properties": {
@@ -18760,8 +18824,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.18269,
-     39.2795814
+     -122.1816998,
+     39.2430637
     ]
    },
    "properties": {
@@ -18776,8 +18840,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9977902,
-     38.9221801
+     -122.1816076,
+     39.2373568
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Westside Freeway;I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0532695,
+     39.0110133
     ]
    },
    "properties": {
@@ -18824,8 +18904,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0532695,
-     39.0110133
+     -121.9977902,
+     38.9221801
     ]
    },
    "properties": {
@@ -18840,8 +18920,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.0002593,
-     38.92550765
+     -121.9981349,
+     38.9255033
     ]
    },
    "properties": {
@@ -18856,13 +18936,61 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.08610635,
-     39.05689915
+     -122.0023837,
+     38.925512
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Yolo County Line Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0882079,
+     39.0569163
     ]
    },
    "properties": {
     "streets": [
      "Hahn Road",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0840048,
+     39.056882
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hahn Road",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1520263,
+     39.1657924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 20",
      "I 5"
     ]
    }
@@ -18888,8 +19016,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1949299,
-     39.3488733
+     -122.1478982,
+     39.1675679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 20",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1968522,
+     39.3488595
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Delevan Road",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1930076,
+     39.3488871
     ]
    },
    "properties": {

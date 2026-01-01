@@ -23428,8 +23428,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.3488605,
-     36.688382000000004
+     -121.343691,
+     36.688977
     ]
    },
    "properties": {
@@ -23492,8 +23492,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4345984,
-     36.8502766
+     -121.4371563,
+     36.8502751
     ]
    },
    "properties": {
@@ -23508,8 +23508,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4371563,
-     36.8502751
+     -121.4345984,
+     36.8502766
     ]
    },
    "properties": {
@@ -24244,8 +24244,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4109117,
-     36.8754345
+     -121.4093367,
+     36.872901
     ]
    },
    "properties": {
@@ -24612,8 +24612,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.62177700000001,
-     36.874743499999994
+     -121.621408,
+     36.87434
     ]
    },
    "properties": {
@@ -24820,6 +24820,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.5766959,
+     36.8638666
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5653957,
+     36.8781882
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5648913,
+     36.8787419
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.560017,
+     36.8850862
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5593448,
+     36.8866664
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.5565808,
      36.8972412
     ]
@@ -24854,86 +24934,6 @@
     "coordinates": [
      -121.5533568,
      36.9119339
-    ]
-   },
-   "properties": {
-    "streets": [
-     "El Camino Real;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5593448,
-     36.8866664
-    ]
-   },
-   "properties": {
-    "streets": [
-     "El Camino Real;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5653957,
-     36.8781882
-    ]
-   },
-   "properties": {
-    "streets": [
-     "El Camino Real;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.560017,
-     36.8850862
-    ]
-   },
-   "properties": {
-    "streets": [
-     "El Camino Real;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5766959,
-     36.8638666
-    ]
-   },
-   "properties": {
-    "streets": [
-     "El Camino Real;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5648913,
-     36.8787419
     ]
    },
    "properties": {
@@ -24998,38 +24998,6 @@
     "coordinates": [
      -121.3635357,
      36.8197567
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cielo Vista Drive",
-     "Fairview Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.3635357,
-     36.8198173
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cielo Vista Drive",
-     "Fairview Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.3635348,
-     36.8196794
     ]
    },
    "properties": {
@@ -25252,6 +25220,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.5626954,
+     36.8832338
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chittenden Road;CA 129",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5629797,
+     36.8835809
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chittenden Road;CA 129",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.5616193,
      36.882541
     ]
@@ -25444,8 +25444,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4272582,
-     36.895551125
+     -121.4274029,
+     36.89580125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bolsa Road;CA 25",
+     "CA 156"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.4271135,
+     36.895301
     ]
    },
    "properties": {
@@ -25476,8 +25492,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4907254,
-     36.8406898
+     -121.4902555,
+     36.8403303
     ]
    },
    "properties": {
@@ -25492,8 +25508,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4902555,
-     36.8403303
+     -121.4907254,
+     36.8406898
     ]
    },
    "properties": {

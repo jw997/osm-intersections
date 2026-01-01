@@ -171244,8 +171244,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.620752,
-     38.2386709
+     -122.712871,
+     38.3278918
     ]
    },
    "properties": {
@@ -171262,8 +171262,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.712871,
-     38.3278918
+     -122.620752,
+     38.2386709
     ]
    },
    "properties": {
@@ -171360,8 +171360,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.00946675,
-     38.7834681
+     -123.0086192,
+     38.7836369
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Cloverdale Boulevard",
+     "US 101;CA 128"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.0103143,
+     38.7832993
     ]
    },
    "properties": {
@@ -171970,8 +171986,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.73325034999999,
-     38.4371741
+     -122.7349259,
+     38.4370854
     ]
    },
    "properties": {
@@ -172562,8 +172578,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7448756,
-     38.336950900000005
+     -122.7434739,
+     38.3363036
     ]
    },
    "properties": {
@@ -173332,54 +173348,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.856106,
-     38.5966303
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.915618,
-     38.7102745
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.8867843,
-     38.6945574
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.894944,
      38.6999448
     ]
@@ -173396,8 +173364,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.8809287,
-     38.6836768
+     -122.8867843,
+     38.6945574
     ]
    },
    "properties": {
@@ -173444,8 +173412,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.8809287,
+     38.6836768
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.8807876,
      38.6765984
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.915618,
+     38.7102745
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.856106,
+     38.5966303
     ]
    },
    "properties": {
@@ -173556,8 +173572,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.59278315,
-     38.43029885
+     -122.5930285,
+     38.430317
     ]
    },
    "properties": {
@@ -174148,22 +174164,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.69566125,
-     38.34951705
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Country Club Drive",
-     "Racquet Club Circle"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.7033942,
      38.3344545
     ]
@@ -174486,8 +174486,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.58878895000001,
-     38.2377939
+     -122.5885803,
+     38.2380296
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lakeville Circle",
+     "Mariposa Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5880699,
+     38.2385778
     ]
    },
    "properties": {
@@ -174854,8 +174870,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.663166,
-     38.43309035
+     -122.6638647,
+     38.4337911
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alejandro Drive",
+     "Contra Costa Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6624673,
+     38.4323896
     ]
    },
    "properties": {
@@ -176790,8 +176822,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.54555149999999,
-     38.3026581
+     -122.548504,
+     38.302644
     ]
    },
    "properties": {
@@ -177158,8 +177190,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7252889,
-     38.4609316
+     -122.72522989999999,
+     38.4609778
     ]
    },
    "properties": {
@@ -177174,8 +177206,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.72570454999999,
-     38.46201655
+     -122.7260358,
+     38.463114950000005
     ]
    },
    "properties": {
@@ -177294,22 +177326,6 @@
     "streets": [
      "Monaco Circle",
      "Venezia Way"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.7409987,
-     38.4245593
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Mesa Way",
-     "Stony Point Road"
     ]
    }
   },
@@ -178250,38 +178266,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.8872176,
-     38.4911647
-    ]
-   },
-   "properties": {
-    "streets": [
-     "River Road",
-     "Trenton Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.8993462,
-     38.495731
-    ]
-   },
-   "properties": {
-    "streets": [
-     "River Road",
-     "Trenton Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.8719345,
      38.4895784
     ]
@@ -178300,6 +178284,38 @@
     "coordinates": [
      -122.8786968,
      38.4905788
+    ]
+   },
+   "properties": {
+    "streets": [
+     "River Road",
+     "Trenton Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8872176,
+     38.4911647
+    ]
+   },
+   "properties": {
+    "streets": [
+     "River Road",
+     "Trenton Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8993462,
+     38.495731
     ]
    },
    "properties": {
@@ -179034,22 +179050,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7210323,
-     38.4781007
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Fountaingrove Parkway",
-     "Round Barn Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.7239009,
      38.4792925
     ]
@@ -179082,8 +179082,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.63887725000001,
-     38.2637188
+     -122.6375856,
+     38.2626393
     ]
    },
    "properties": {
@@ -179098,8 +179098,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.63779084999999,
-     38.2627859
+     -122.6397584,
+     38.2645051
     ]
    },
    "properties": {
@@ -179546,8 +179546,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6201611,
-     38.2499607
+     -122.6201367,
+     38.2500907
     ]
    },
    "properties": {
@@ -179562,8 +179562,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6201367,
-     38.2500907
+     -122.6201611,
+     38.2499607
     ]
    },
    "properties": {
@@ -179594,8 +179594,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6693383,
-     38.2756069
+     -122.66925810000001,
+     38.27559805
     ]
    },
    "properties": {
@@ -180506,22 +180506,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7042047,
-     38.3446154
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Enterprise Drive",
-     "State Farm Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.74099605,
      38.42509375
     ]
@@ -181242,8 +181226,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6925574,
-     38.4867793
+     -122.691162,
+     38.4834814
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fountaingrove Parkway",
+     "Rincon Ridge"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6939528,
+     38.4900772
     ]
    },
    "properties": {
@@ -181466,8 +181466,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.90747975,
-     38.495467950000005
+     -122.907848,
+     38.49548
     ]
    },
    "properties": {
@@ -181882,8 +181882,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.87433419999999,
-     38.65953615
+     -122.8751067,
+     38.6596769
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lytton Springs Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8735617,
+     38.6593954
     ]
    },
    "properties": {
@@ -183114,8 +183130,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7145793,
-     38.3213347
+     -122.7131562,
+     38.3213285
     ]
    },
    "properties": {
@@ -183130,8 +183146,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7131562,
-     38.3213285
+     -122.7145793,
+     38.3213347
     ]
    },
    "properties": {
@@ -184282,8 +184298,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.67252245,
-     38.336618599999994
+     -122.6353471,
+     38.2327057
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2nd Street",
+     "E Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7096978,
+     38.4405315
     ]
    },
    "properties": {
@@ -185482,8 +185514,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.8109895,
-     38.5481363
+     -122.8110684,
+     38.5482819
     ]
    },
    "properties": {
@@ -185498,8 +185530,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.8110684,
-     38.5482819
+     -122.8109895,
+     38.5481363
     ]
    },
    "properties": {
@@ -186266,8 +186298,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6673531,
-     38.473091
+     -122.667046,
+     38.4753272
     ]
    },
    "properties": {
@@ -186458,24 +186490,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.86716225,
-     38.6039284
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Healdsburg Avenue",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.86780379999999,
-     38.60420085
+     -122.8532126,
+     38.595552999999995
     ]
    },
    "properties": {
@@ -186492,6 +186508,54 @@
     "coordinates": [
      -122.8535569,
      38.59604
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Healdsburg Avenue",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8667904,
+     38.6039341
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Healdsburg Avenue",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8675341,
+     38.6039227
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Healdsburg Avenue",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8680735,
+     38.604479
     ]
    },
    "properties": {
@@ -186578,6 +186642,22 @@
     "streets": [
      "Gate Way",
      "West 3rd Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7530639,
+     38.423433149999994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Challenger Way",
+     "Corporate Center Parkway"
     ]
    }
   },
@@ -186746,8 +186826,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6253198,
-     38.45470885
+     -122.6226645,
+     38.4534594
     ]
    },
    "properties": {
@@ -187018,8 +187098,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.8806385,
-     38.67991825
+     -122.8801364,
+     38.6799685
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Independence Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8811406,
+     38.679868
     ]
    },
    "properties": {
@@ -187548,8 +187644,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.71202295,
-     38.4065923
+     -122.7124569,
+     38.4067671
     ]
    },
    "properties": {
@@ -187564,8 +187660,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7123565,
-     38.406745900000004
+     -122.7117898,
+     38.4064599
     ]
    },
    "properties": {
@@ -188172,8 +188268,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.67345825000001,
-     38.336676499999996
+     -122.6361615,
+     38.2313952
     ]
    },
    "properties": {
@@ -188188,8 +188284,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.74530390000001,
-     38.4407186
+     -122.710755,
+     38.4419578
+    ]
+   },
+   "properties": {
+    "streets": [
+     "4th Street",
+     "E Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7446664,
+     38.4403367
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Stony Circle",
+     "Stony Point Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.74597790000001,
+     38.4410519
     ]
    },
    "properties": {
@@ -189616,8 +189744,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.9798572,
-     38.7602424
+     -122.991503,
+     38.7654727
     ]
    },
    "properties": {
@@ -189648,24 +189776,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.991503,
-     38.7654727
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101;CA 128",
-     "US 101;CA 128"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.9722501,
-     38.7564459
+     -122.9798572,
+     38.7602424
     ]
    },
    "properties": {
@@ -189682,6 +189794,22 @@
     "coordinates": [
      -122.972499,
      38.7569948
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101;CA 128",
+     "US 101;CA 128"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.9722501,
+     38.7564459
     ]
    },
    "properties": {
@@ -189746,24 +189874,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.9217103,
-     38.7163672
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 128",
-     "Redwood Highway;US 101",
-     "Redwood Highway;US 101;CA 128",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.9221529,
      38.7172483
     ]
@@ -189782,8 +189892,42 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.01310514999999,
-     38.800615275
+     -122.9217103,
+     38.7163672
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 128",
+     "Redwood Highway;US 101",
+     "Redwood Highway;US 101;CA 128",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.01388645,
+     38.801000900000005
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Citrus Fair Drive",
+     "US 101;CA 128"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.01232385,
+     38.80022965
     ]
    },
    "properties": {
@@ -189862,8 +190006,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.9947675,
-     38.76763835
+     -122.9943702,
+     38.7679053
     ]
    },
    "properties": {
@@ -189878,8 +190022,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.8909131,
-     38.69701165
+     -122.9951648,
+     38.7673714
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Theresa Drive",
+     "US 101;CA 128"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8905208,
+     38.6973573
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Geyserville Avenue",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8913054,
+     38.696666
     ]
    },
    "properties": {
@@ -189926,6 +190102,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.7115846,
+     38.4310287
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Luther Burbank Memorial Highway;CA 12"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.711543,
      38.4308316
     ]
@@ -189942,8 +190134,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7115846,
-     38.4310287
+     -122.715198,
+     38.4310044
     ]
    },
    "properties": {
@@ -189990,8 +190182,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.715198,
-     38.4310044
+     -122.7210156,
+     38.4331411
     ]
    },
    "properties": {
@@ -190022,14 +190214,14 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7210156,
-     38.4331411
+     -122.5999464,
+     38.2341349
     ]
    },
    "properties": {
     "streets": [
-     "CA 12",
-     "Luther Burbank Memorial Highway;CA 12"
+     "Lakeville Highway;CA 116",
+     "South McDowell Boulevard"
     ]
    }
   },
@@ -190150,8 +190342,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.8095132,
-     38.5474449
+     -122.80933404999999,
+     38.54741105
     ]
    },
    "properties": {
@@ -190166,8 +190358,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.8523467,
-     38.5936183
+     -122.8090927,
+     38.5472301
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old Redwood Highway",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.80757779999999,
+     38.54673
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old Redwood Highway",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8298161,
+     38.5653935
     ]
    },
    "properties": {
@@ -190198,8 +190422,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.8076765,
-     38.5467065
+     -122.8523467,
+     38.5936183
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old Redwood Highway",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.8523552,
+     38.5940678
     ]
    },
    "properties": {
@@ -190262,8 +190502,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7892964,
-     38.5258022
+     -122.7933168,
+     38.5257706
     ]
    },
    "properties": {
@@ -190278,8 +190518,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7868804,
-     38.5258037
+     -122.7892964,
+     38.5258022
     ]
    },
    "properties": {
@@ -190310,8 +190550,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7933168,
-     38.5257706
+     -122.7868804,
+     38.5258037
     ]
    },
    "properties": {
@@ -190390,8 +190630,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6697159,
-     38.27305835
+     -122.6696399,
+     38.2735822
     ]
    },
    "properties": {
@@ -190422,6 +190662,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.6702512,
+     38.270683250000005
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway North",
+     "US 101;CA 116"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.6293165,
      38.2478012
     ]
@@ -190438,24 +190694,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6704074,
-     38.2725048
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101;CA 116",
-     "US 101;CA 116"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.6245812,
-     38.2448025
+     -122.631299,
+     38.2486349
     ]
    },
    "properties": {
@@ -190486,24 +190726,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7142576,
-     38.3182863
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101;CA 116",
-     "US 101;CA 116"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.631299,
-     38.2486349
+     -122.6245812,
+     38.2448025
     ]
    },
    "properties": {
@@ -190550,6 +190774,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.6704074,
+     38.2725048
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101;CA 116",
+     "US 101;CA 116"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.6726958,
      38.2740169
     ]
@@ -190566,14 +190806,14 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7287804,
-     38.3492658
+     -122.7142576,
+     38.3182863
     ]
    },
    "properties": {
     "streets": [
-     "Rancho Verde Circle",
-     "Rohnert Park Expressway"
+     "Redwood Highway;US 101;CA 116",
+     "US 101;CA 116"
     ]
    }
   },
@@ -190582,8 +190822,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7285822,
-     38.3492056
+     -122.7287804,
+     38.3492658
     ]
    },
    "properties": {
@@ -190630,8 +190870,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7123757,
-     38.3483231
+     -122.7148198,
+     38.3484406
     ]
    },
    "properties": {
@@ -190662,24 +190902,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7107878,
-     38.3484914
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Rohnert Park Expressway",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.7148198,
-     38.3484406
+     -122.7123757,
+     38.3483231
     ]
    },
    "properties": {
@@ -190696,6 +190920,22 @@
     "coordinates": [
      -122.7111483,
      38.3483231
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Rohnert Park Expressway",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7107878,
+     38.3484914
     ]
    },
    "properties": {
@@ -190954,8 +191194,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6406274,
-     38.2686777
+     -122.6394325,
+     38.2679992
     ]
    },
    "properties": {
@@ -190970,8 +191210,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6394325,
-     38.2679992
+     -122.64058845,
+     38.26871645
     ]
    },
    "properties": {
@@ -191260,6 +191500,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.7326193,
+     38.4599928
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Range Avenue",
+     "West Steele Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.7317611,
      38.4599693
     ]
@@ -191292,22 +191548,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7326193,
-     38.4599928
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Range Avenue",
-     "West Steele Lane"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.7315444,
      38.459357
     ]
@@ -191326,6 +191566,22 @@
     "coordinates": [
      -122.7314249,
      38.459408
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Guerneville Road",
+     "Range Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7325841,
+     38.458858500000005
     ]
    },
    "properties": {
@@ -191582,22 +191838,6 @@
     "coordinates": [
      -122.7172835,
      38.4133811
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Corby Avenue",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.7171799,
-     38.4132929
     ]
    },
    "properties": {
@@ -191886,8 +192126,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.04477425,
-     38.332540800000004
+     -123.0445953,
+     38.3324603
     ]
    },
    "properties": {
@@ -191902,8 +192142,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.04463655,
-     38.3321587
+     -123.0448707,
+     38.3332245
     ]
    },
    "properties": {
@@ -191966,8 +192206,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6748519,
-     38.336522849999994
+     -122.6373139,
+     38.2318236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "4th Street",
+     "D Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7123899,
+     38.4412221
     ]
    },
    "properties": {
@@ -192016,22 +192272,6 @@
     "coordinates": [
      -122.7200939,
      38.4797524
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Fountaingrove Parkway",
-     "Thomas Lake Harris Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.7201379,
-     38.479711
     ]
    },
    "properties": {
@@ -192110,22 +192350,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5952585,
-     38.24316185
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Ely Boulevard South",
-     "Spanish Bay Court"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.5951896,
      38.24312165
     ]
@@ -192174,8 +192398,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.627041,
-     38.2477791
+     -122.6269738,
+     38.247757050000004
     ]
    },
    "properties": {
@@ -192208,6 +192432,22 @@
     "coordinates": [
      -122.6272475,
      38.2473051
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Washington Street",
+     "US 101;CA 116"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.62925775,
+     38.24547485
     ]
    },
    "properties": {
@@ -192414,8 +192654,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6075568,
-     38.2207449
+     -122.6078635,
+     38.2204059
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kastania Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6072501,
+     38.2210839
     ]
    },
    "properties": {
@@ -192432,54 +192688,6 @@
     "coordinates": [
      -122.5020019,
      38.3203464
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Arnold Drive",
-     "Hap Arnold Roundabout"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.5023048,
-     38.3205318
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Arnold Drive",
-     "Hap Arnold Roundabout"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.5022244,
-     38.3202994
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Arnold Drive",
-     "Hap Arnold Roundabout"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.5020787,
-     38.3205783
     ]
    },
    "properties": {
@@ -192590,6 +192798,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.72110755,
+     38.4820839
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Stonefield Lane",
+     "Thomas Lake Harris Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.7602308,
      38.4963832
     ]
@@ -192629,6 +192853,22 @@
    "properties": {
     "streets": [
      "River Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7731094,
+     38.5113046
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Airport Boulevard",
      "US 101"
     ]
    }
@@ -192734,8 +192974,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7117834,
-     38.3623844
+     -122.71193935,
+     38.36177545
     ]
    },
    "properties": {
@@ -192750,8 +192990,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7120357,
-     38.3616219
+     -122.7117834,
+     38.3623844
     ]
    },
    "properties": {
@@ -192782,8 +193022,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7553124,
-     38.4961714
+     -122.7527424,
+     38.4963388
     ]
    },
    "properties": {
@@ -192798,8 +193038,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7527424,
-     38.4963388
+     -122.7553124,
+     38.4961714
     ]
    },
    "properties": {
@@ -192848,8 +193088,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7262652,
-     38.45995075
+     -122.72677350000001,
+     38.45993815
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Steele Lane",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.7257569,
+     38.459963349999995
     ]
    },
    "properties": {
@@ -193314,22 +193570,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.73995885,
-     38.41608005
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Northpoint Parkway",
-     "Stony Point Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.74066345,
      38.42195755
     ]
@@ -193446,22 +193686,6 @@
     "coordinates": [
      -122.7561962,
      38.4362519
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Arboleda Drive",
-     "West 3rd Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.75622444999999,
-     38.4363447
     ]
    },
    "properties": {
@@ -193716,56 +193940,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6688073,
-     38.2777477
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway North",
-     "Redwood Way"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.6687952,
-     38.277796949999995
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway North",
-     "Redwood Way"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.4589695,
      38.2920355
-    ]
-   },
-   "properties": {
-    "streets": [
-     "1st Street West",
-     "West Napa Street;CA 12"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4589557,
-     38.2920352
     ]
    },
    "properties": {
@@ -193892,8 +194068,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.75398085,
-     38.415667500000005
+     -122.75398084999999,
+     38.4156675
     ]
    },
    "properties": {
@@ -194500,7 +194676,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.87806434999999,
+     -122.8773605,
      38.6262457
     ]
    },
@@ -194516,8 +194692,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7166678,
-     38.4125881
+     -122.8787682,
+     38.6262457
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dry Creek Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.71675214999999,
+     38.412613199999996
     ]
    },
    "properties": {

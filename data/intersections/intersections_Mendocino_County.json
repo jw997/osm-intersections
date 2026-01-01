@@ -43070,8 +43070,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.7872581,
-     40.0006484
+     -123.7868714,
+     40.0010987
     ]
    },
    "properties": {
@@ -43568,8 +43568,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.4627255,
-     39.796614
+     -123.470492,
+     39.797489
     ]
    },
    "properties": {
@@ -43584,8 +43584,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.45604750000001,
-     39.7872085
+     -123.457136,
+     39.778678
     ]
    },
    "properties": {
@@ -44496,8 +44496,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -123.092969,
+     39.782544
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Etsel Ridge Road",
+     "Pillsbury-Indian Dick Road;NF M1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -123.0818108,
      39.8182586
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Etsel Ridge Road",
+     "Pillsbury-Indian Dick Road;NF M1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.084147,
+     39.8235097
     ]
    },
    "properties": {
@@ -44528,22 +44560,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.08470220000001,
-     39.82315125
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Etsel Ridge Road",
-     "Pillsbury-Indian Dick Road;NF M1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -123.335128,
      39.366319
     ]
@@ -44560,8 +44576,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.340265,
-     39.362246999999996
+     -123.345402,
+     39.358175
     ]
    },
    "properties": {
@@ -44576,8 +44592,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.3428205,
-     39.355001
+     -123.340239,
+     39.351827
     ]
    },
    "properties": {
@@ -44704,8 +44720,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.808119,
-     39.4171391
+     -123.8085594,
+     39.4122678
     ]
    },
    "properties": {
@@ -44736,8 +44752,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.8085594,
-     39.4122678
+     -123.808119,
+     39.4171391
     ]
    },
    "properties": {
@@ -44768,8 +44784,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.778814,
-     39.946604
+     -123.773026,
+     39.949674
     ]
    },
    "properties": {
@@ -44784,8 +44800,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.77592,
-     39.948139
+     -123.778814,
+     39.946604
     ]
    },
    "properties": {
@@ -45024,8 +45040,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.22276165,
-     39.261853900000006
+     -123.2234526,
+     39.2612791
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101;CA 20",
+     "West Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.2220707,
+     39.2624287
     ]
    },
    "properties": {
@@ -45072,8 +45104,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.556149,
-     38.788389
+     -123.556595,
+     38.789571
     ]
    },
    "properties": {
@@ -45088,8 +45120,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.556962,
-     38.7902155
+     -123.557329,
+     38.79086
     ]
    },
    "properties": {
@@ -45376,22 +45408,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.40093705000001,
-     39.69918235
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Dos Rios Road;322",
-     "Laytonville Dos Rios Road;322"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -123.4128976,
      39.6958296
     ]
@@ -45408,8 +45424,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.42394379999999,
-     39.6950878
+     -123.43499,
+     39.694346
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dos Rios Road;322",
+     "Laytonville Dos Rios Road;322"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.3888151,
+     39.7042697
     ]
    },
    "properties": {
@@ -45504,8 +45536,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.211427,
-     39.1715463
+     -123.21143,
+     39.1701143
     ]
    },
    "properties": {
@@ -45536,8 +45568,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.21143,
-     39.1701143
+     -123.211427,
+     39.1715463
     ]
    },
    "properties": {
@@ -45632,8 +45664,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.78344525,
-     39.4944625
+     -123.7834365,
+     39.4955961
     ]
    },
    "properties": {
@@ -45648,8 +45680,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.7843,
-     39.49438345
+     -123.785146,
+     39.495438
     ]
    },
    "properties": {
@@ -45888,8 +45920,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.209985,
-     39.193842
+     -123.1955956,
+     39.1360516
     ]
    },
    "properties": {
@@ -45904,40 +45936,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.2079812,
-     39.1691633
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.2111804,
-     39.1711145
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.2073136,
-     39.1685134
+     -123.1953571,
+     39.132755
     ]
    },
    "properties": {
@@ -45984,8 +45984,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.1953571,
-     39.132755
+     -123.2073136,
+     39.1685134
     ]
    },
    "properties": {
@@ -46000,8 +46000,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.1955956,
-     39.1360516
+     -123.2079812,
+     39.1691633
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.2111804,
+     39.1711145
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.209985,
+     39.193842
     ]
    },
    "properties": {
@@ -46082,38 +46114,6 @@
     "coordinates": [
      -123.380764,
      39.449675
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Casteel Drive",
-     "Pullen Place"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.380853,
-     39.44973
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Casteel Drive",
-     "Pullen Place"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.380696,
-     39.449601
     ]
    },
    "properties": {
@@ -46224,6 +46224,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -123.1977161,
+     39.1447104
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gobbi Street",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -123.1969595,
      39.1447949
     ]
@@ -46242,6 +46258,22 @@
     "coordinates": [
      -123.1957313,
      39.1449182
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gobbi Street",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.1950226,
+     39.1449912
     ]
    },
    "properties": {
@@ -46800,6 +46832,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -123.1955499,
+     39.1516008
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Perkins Street",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -123.1963256,
      39.1515906
     ]
@@ -47312,8 +47360,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.301819,
-     39.333861
+     -123.272976,
+     39.326156
     ]
    },
    "properties": {
@@ -47328,8 +47376,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.2873975,
-     39.3300085
+     -123.301819,
+     39.333861
     ]
    },
    "properties": {
@@ -47936,38 +47984,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.380187,
-     39.449061
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Casteel Drive",
-     "Porro Court"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.380116,
-     39.449003
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Casteel Drive",
-     "Porro Court"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -123.564096,
      39.81829
     ]
@@ -48290,8 +48306,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.21024870000001,
-     39.19130966666667
+     -123.2097505,
+     39.191259
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "West Lake Mendocino Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.2112451,
+     39.191411
     ]
    },
    "properties": {
@@ -48548,38 +48580,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.1982348,
-     39.15855845
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Orrs Creek Bridge;US 101",
-     "Redwood Highway;US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.1979724,
-     39.1585105
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Orrs Creek Bridge;US 101",
-     "Redwood Highway;US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -123.2123701,
      39.1761127
     ]
@@ -48646,38 +48646,6 @@
     "coordinates": [
      -123.192738,
      39.1360645
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Talmage Road;CA 222",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.1974182,
-     39.1357899
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Talmage Road;CA 222",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.1970826,
-     39.1358009
     ]
    },
    "properties": {
@@ -48888,38 +48856,6 @@
     "coordinates": [
      -123.80827,
      39.4122271
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 1",
-     "Shoreline Highway;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.8083798,
-     39.4125463
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 1",
-     "Shoreline Highway;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -123.8085273,
-     39.4122259
     ]
    },
    "properties": {

@@ -63065,8 +63065,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.05957515,
-     39.2285921
+     -121.0606696,
+     39.2281591
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arcadia Drive",
+     "Cypress Hill Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0620884,
+     39.2293464
     ]
    },
    "properties": {
@@ -63817,8 +63833,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0625778,
-     39.1556441
+     -121.06253415,
+     39.1556544
     ]
    },
    "properties": {
@@ -63833,8 +63849,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.06233055,
-     39.15511535
+     -121.0620833,
+     39.1545866
     ]
    },
    "properties": {
@@ -63865,8 +63881,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.1104595,
-     39.3070029
+     -121.1065387,
+     39.316426
     ]
    },
    "properties": {
@@ -63881,8 +63897,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.1065387,
-     39.316426
+     -121.1104595,
+     39.3070029
     ]
    },
    "properties": {
@@ -65899,6 +65915,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.0812743,
+     39.2143225
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Primrose Lane",
+     "Wendy Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.0553423,
      39.1192513
     ]
@@ -66635,8 +66667,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2238685,
-     39.3253496
+     -120.3915404,
+     39.324956
     ]
    },
    "properties": {
@@ -66651,8 +66683,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2273891,
-     39.3237474
+     -120.3932345,
+     39.3255967
     ]
    },
    "properties": {
@@ -66683,6 +66715,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.2273891,
+     39.3237474
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Donner Pass Road;US 40 Hist",
+     "I 80"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2246476,
+     39.325158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Donner Pass Road;US 40 Hist",
+     "I 80"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2238685,
+     39.3253496
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Donner Pass Road;US 40 Hist",
+     "I 80"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.1632518,
      39.3529344
     ]
@@ -66699,56 +66779,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.1678442,
-     39.3494758
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Henness Road",
-     "Prosser Dam Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.1677031,
      39.3495609
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Henness Road",
-     "Prosser Dam Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.1679,
-     39.3497516
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Henness Road",
-     "Prosser Dam Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.1680472,
-     39.3496311
     ]
    },
    "properties": {
@@ -66891,8 +66923,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0602991,
-     39.20001785
+     -121.0605373,
+     39.1999019
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Taylorville Road",
+     "West McKnight Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0600609,
+     39.2001338
     ]
    },
    "properties": {
@@ -67115,8 +67163,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.5956424,
+     39.3260236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "I 80"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.6105924,
      39.3185247
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "I 80"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3957474,
+     39.324013
     ]
    },
    "properties": {
@@ -67179,38 +67259,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3957474,
-     39.324013
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Alan S. Hart Freeway;I 80",
-     "I 80"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.2116095,
-     39.323178
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Alan S. Hart Freeway;I 80",
-     "I 80"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.2210423,
      39.3238993
     ]
@@ -67227,8 +67275,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5956424,
-     39.3260236
+     -120.2116095,
+     39.323178
     ]
    },
    "properties": {
@@ -67275,8 +67323,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.23588280000001,
-     39.341275100000004
+     -120.2516111,
+     39.3437118
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Davos Drive",
+     "Northwoods Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2424205,
+     39.3421444
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Davos Drive",
+     "Northwoods Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2252224,
+     39.339403
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Davos Drive",
+     "Northwoods Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2201545,
+     39.3388384
     ]
    },
    "properties": {
@@ -67883,6 +67979,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.0588527,
+     39.0262218
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oro Valley Road",
+     "Torrey Pines Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0659359,
+     39.0269627
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oro Valley Road",
+     "Torrey Pines Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.103942,
      39.3213175
     ]
@@ -68447,6 +68575,86 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.0391509,
+     39.2328912
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 20;CA 49",
+     "Golden Center Freeway;CA 20;CA 49"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0408524,
+     39.2312837
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 20;CA 49",
+     "Golden Center Freeway;CA 20;CA 49"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0471329,
+     39.226055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 20;CA 49",
+     "Golden Center Freeway;CA 20;CA 49"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0495581,
+     39.2241804
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 20;CA 49",
+     "Golden Center Freeway;CA 20;CA 49"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0534934,
+     39.2206568
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 20;CA 49",
+     "Golden Center Freeway;CA 20;CA 49"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.0552759,
      39.2202861
     ]
@@ -68479,88 +68687,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0534934,
-     39.2206568
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 20;CA 49",
-     "Golden Center Freeway;CA 20;CA 49"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.0644533,
      39.2139934
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 20;CA 49",
-     "Golden Center Freeway;CA 20;CA 49"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.0495581,
-     39.2241804
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 20;CA 49",
-     "Golden Center Freeway;CA 20;CA 49"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.0471329,
-     39.226055
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 20;CA 49",
-     "Golden Center Freeway;CA 20;CA 49"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.0408524,
-     39.2312837
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 20;CA 49",
-     "Golden Center Freeway;CA 20;CA 49"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.0391509,
-     39.2328912
     ]
    },
    "properties": {
@@ -68703,8 +68831,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.04302565,
-     39.229352275
+     -121.04338824999999,
+     39.22955535
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 20;CA 49",
+     "Dorsey Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.04266305,
+     39.229149199999995
     ]
    },
    "properties": {
@@ -68783,8 +68927,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0345796,
-     39.2346366
+     -121.0360525,
+     39.2350475
     ]
    },
    "properties": {
@@ -68815,8 +68959,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0360525,
-     39.2350475
+     -121.0345796,
+     39.2346366
     ]
    },
    "properties": {
@@ -68831,8 +68975,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.34976094999999,
-     39.33898845
+     -120.3501338,
+     39.3395719
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Castle Peak Road",
+     "I 80"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3493881,
+     39.338405
     ]
    },
    "properties": {
@@ -68863,22 +69023,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2079547,
-     39.3223411
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 89",
-     "I 80"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.2078246,
      39.3239994
     ]
@@ -68895,72 +69039,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.2079547,
+     39.3223411
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 89",
+     "I 80"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.0675527,
      39.20708
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 49",
-     "Golden Center Freeway;CA 49"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.0549422,
-     39.1950833
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 49",
-     "Golden Center Freeway;CA 49"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.056993,
-     39.1983055
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 49",
-     "Golden Center Freeway;CA 49"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.0573679,
-     39.1984569
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 49",
-     "Golden Center Freeway;CA 49"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.061576,
-     39.2022314
     ]
    },
    "properties": {
@@ -69007,6 +69103,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.061576,
+     39.2022314
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 49",
+     "Golden Center Freeway;CA 49"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0573679,
+     39.1984569
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 49",
+     "Golden Center Freeway;CA 49"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.056993,
+     39.1983055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 49",
+     "Golden Center Freeway;CA 49"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0549422,
+     39.1950833
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 49",
+     "Golden Center Freeway;CA 49"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.1458943,
      39.3438689
     ]
@@ -69023,8 +69183,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.14945424999999,
-     39.34205075
+     -120.146471,
+     39.3416139
     ]
    },
    "properties": {
@@ -69039,8 +69199,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.14618265,
-     39.342741399999994
+     -120.1530142,
+     39.3402326
     ]
    },
    "properties": {
@@ -69103,8 +69263,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.10697795,
-     39.33518235
+     -121.1053876,
+     39.3696539
     ]
    },
    "properties": {
@@ -69215,8 +69375,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0479923,
-     39.2405915
+     -121.0469332,
+     39.2403551
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Eskaton Circle",
+     "Mallard Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0476985,
+     39.2414007
     ]
    },
    "properties": {
@@ -69631,54 +69807,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.1917107,
-     39.3249878
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Donner Pass Road",
-     "Donner Pass Road;US 40 Hist"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.19176010000001,
-     39.32510095
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Donner Pass Road",
-     "Donner Pass Road;US 40 Hist"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.19192955,
-     39.325133449999996
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Donner Pass Road",
-     "Donner Pass Road;US 40 Hist"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.1920003,
      39.3250284
     ]
@@ -69999,8 +70127,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.1488439,
-     39.398129
+     -120.14902445,
+     39.39753315
     ]
    },
    "properties": {
@@ -70015,8 +70143,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.1490744,
-     39.3973897
+     -120.1488439,
+     39.398129
     ]
    },
    "properties": {
@@ -70321,54 +70449,6 @@
     "coordinates": [
      -120.1823348,
      39.3295128
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Church Street",
-     "Truckee Way;US 40 Hist"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.1822908,
-     39.3293802
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Church Street",
-     "Truckee Way;US 40 Hist"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.1820194,
-     39.3294347
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Church Street",
-     "Truckee Way;US 40 Hist"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.1820507,
-     39.3295578
     ]
    },
    "properties": {

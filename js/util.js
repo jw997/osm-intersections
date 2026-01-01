@@ -14,7 +14,7 @@ function fileNameIze(str) {
 
 function getMarkerOpt() {
 	const colorValue = w3_highway_red;
-	var rad = 3;
+	var rad = 6;
 	var opa = 0.5;
 
 	const retval = {

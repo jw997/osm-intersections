@@ -13475,6 +13475,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.0721231,
+     37.8424021
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Sierra;US 395",
+     "West Portal Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0864487,
+     37.8638906
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Sierra;US 395",
+     "West Portal Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -118.9957429,
      37.6267957
     ]
@@ -14499,8 +14531,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2879994,
-     38.276737999999995
+     -119.2883942,
+     38.2766228
     ]
    },
    "properties": {
@@ -14515,8 +14547,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2885014,
-     38.276618799999994
+     -119.2873902,
+     38.2768612
     ]
    },
    "properties": {
@@ -14563,8 +14595,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.09695725,
-     37.9176487
+     -119.0966951,
+     37.9176786
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Sierra;US 395;CA 120",
+     "Oil Plant Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0972194,
+     37.9176188
     ]
    },
    "properties": {

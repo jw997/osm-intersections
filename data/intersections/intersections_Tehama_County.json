@@ -44106,8 +44106,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.5252365,
-     40.4456535
+     -121.531061,
+     40.44582
     ]
    },
    "properties": {
@@ -44700,56 +44700,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.200414,
-     39.953755
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Westside Freeway;I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.20042,
-     39.951177
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Westside Freeway;I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2004272,
-     39.9454421
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Westside Freeway;I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.200424,
-     39.932317
+     -122.200089,
+     39.9253183
     ]
    },
    "properties": {
@@ -44780,8 +44732,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1999462,
-     39.8785607
+     -122.200424,
+     39.932317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Westside Freeway;I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2004272,
+     39.9454421
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Westside Freeway;I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20042,
+     39.951177
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Westside Freeway;I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.200414,
+     39.953755
     ]
    },
    "properties": {
@@ -44812,8 +44812,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.200089,
-     39.9253183
+     -122.1999462,
+     39.8785607
     ]
    },
    "properties": {
@@ -44844,56 +44844,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.284097,
-     40.364496
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cascade Wonderland Highway;I 5",
-     "I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2230447,
-     40.1508657
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cascade Wonderland Highway;I 5",
-     "I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2233327,
-     40.1569966
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cascade Wonderland Highway;I 5",
-     "I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2225961,
-     40.1624248
+     -122.232626,
+     40.189795
     ]
    },
    "properties": {
@@ -44924,8 +44876,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.2225961,
+     40.1624248
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.223523,
      40.1578479
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2233327,
+     40.1569966
     ]
    },
    "properties": {
@@ -44956,8 +44940,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.232626,
-     40.189795
+     -122.2230447,
+     40.1508657
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.284097,
+     40.364496
     ]
    },
    "properties": {
@@ -45132,8 +45132,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.20034605000001,
-     39.9570032
+     -122.198483,
+     39.956969
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Finnell Avenue",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2022091,
+     39.9570374
     ]
    },
    "properties": {
@@ -45180,8 +45196,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.28408250000001,
-     40.367678850000004
+     -122.285903,
+     40.3675507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowman Road;A5",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.282262,
+     40.367807
     ]
    },
    "properties": {
@@ -46460,8 +46492,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3539943,
-     39.9072584
+     -122.3542448,
+     39.9071372
     ]
    },
    "properties": {
@@ -46476,8 +46508,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.35418975,
-     39.906477800000005
+     -122.3539943,
+     39.9072584
     ]
    },
    "properties": {
@@ -47468,6 +47500,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.198088,
+     39.928084
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corning Road;A9",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1986649,
+     39.928087
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corning Road;A9",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.2007034,
      39.928108
     ]
@@ -47676,8 +47740,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.23478209999999,
-     40.19211975
+     -122.2352791,
+     40.191841
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Adobe Road",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2342851,
+     40.1923985
     ]
    },
    "properties": {
@@ -48380,8 +48460,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.19989935,
-     39.8816419
+     -122.2013758,
+     39.8816588
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Liberal Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1984229,
+     39.881625
     ]
    },
    "properties": {
@@ -48412,56 +48508,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2186102,
-     40.0840168
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Flores Avenue",
-     "I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2188296,
-     40.0840179
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Flores Avenue",
-     "I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2145888,
-     40.0839411
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Flores Avenue",
-     "I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2147364,
-     40.0839432
+     -122.2154012,
+     40.0839514
     ]
    },
    "properties": {
@@ -48492,40 +48540,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2154012,
-     40.0839514
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Flores Avenue",
-     "I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2182431,
-     40.0840056
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Flores Avenue",
-     "I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.2267072,
      40.179983
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Antelope Boulevard;CA 36",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.227687,
+     40.17953
     ]
    },
    "properties": {
@@ -48590,22 +48622,6 @@
     "coordinates": [
      -122.2221511,
      40.1820048
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Antelope Boulevard;CA 36",
-     "I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.227687,
-     40.17953
     ]
    },
    "properties": {
@@ -48844,6 +48860,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.201926,
+     39.9065401
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "South Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1993731,
+     39.9065158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "South Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.1988317,
      39.9065094
     ]
@@ -49052,54 +49100,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2349514,
-     40.1775788
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Main Street;I 5 BUS;CA 36",
-     "Pine Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2348626,
-     40.1774703
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Main Street;I 5 BUS;CA 36",
-     "Pine Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2349671,
-     40.1774263
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Main Street;I 5 BUS;CA 36",
-     "Pine Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.3257439,
      39.8030903
     ]
@@ -49164,8 +49164,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.15404825,
-     40.07985855
+     -122.1534822,
+     40.0788268
     ]
    },
    "properties": {
@@ -49244,8 +49244,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2218182,
-     40.1545506
+     -122.2218589,
+     40.1546593
     ]
    },
    "properties": {
@@ -49267,22 +49267,6 @@
    "properties": {
     "streets": [
      "Montgomery Road",
-     "South Main Street;I 5 BUS;CR A8"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2242001,
-     40.1583822
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
      "South Main Street;I 5 BUS;CR A8"
     ]
    }

@@ -50883,8 +50883,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.526034,
-     38.733315
+     -122.513218,
+     38.725283
     ]
    },
    "properties": {
@@ -50899,8 +50899,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.48865655,
-     38.715370199999995
+     -122.526034,
+     38.733315
     ]
    },
    "properties": {
@@ -51299,8 +51299,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -123.0867566,
-     39.07659945
+     -123.089102,
+     39.080322
     ]
    },
    "properties": {
@@ -51827,8 +51827,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.70304300000001,
-     39.00303
+     -122.703284,
+     39.003044
     ]
    },
    "properties": {
@@ -51923,8 +51923,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.77855,
-     38.842017
+     -122.778538,
+     38.841686
     ]
    },
    "properties": {
@@ -51987,8 +51987,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.846113,
-     39.121723
+     -122.844398,
+     39.122003
     ]
    },
    "properties": {
@@ -52531,8 +52531,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.74678395000001,
-     38.97721645
+     -122.8342519,
+     38.9754029
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "Oak Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.659316,
+     38.97903
     ]
    },
    "properties": {
@@ -52724,8 +52740,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6420745,
-     38.956694
+     -122.642307,
+     38.956227
     ]
    },
    "properties": {
@@ -52741,8 +52757,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6422585,
-     38.9563835
+     -122.641939,
+     38.956848
     ]
    },
    "properties": {
@@ -53222,8 +53238,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.69401149999999,
-     38.983859499999994
+     -122.694099,
+     38.984004
     ]
    },
    "properties": {
@@ -53238,8 +53254,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6938825,
-     38.9834975
+     -122.693841,
+     38.98328
     ]
    },
    "properties": {
@@ -53558,8 +53574,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.920123,
-     39.05777
+     -122.715999,
+     39.024227
     ]
    },
    "properties": {
@@ -53574,8 +53590,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.715999,
-     39.024227
+     -122.920123,
+     39.05777
     ]
    },
    "properties": {
@@ -53926,8 +53942,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.97994,
-     39.471721
+     -122.980097,
+     39.471783
     ]
    },
    "properties": {
@@ -53942,8 +53958,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.98039299999999,
-     39.471883500000004
+     -122.980689,
+     39.471984
     ]
    },
    "properties": {
@@ -54950,8 +54966,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.926147,
-     39.084229
+     -122.925533,
+     39.083798
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Park Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.926761,
+     39.08466
     ]
    },
    "properties": {
@@ -55174,8 +55206,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5862415,
-     39.070192000000006
+     -122.585167,
+     39.069555
     ]
    },
    "properties": {
@@ -55222,40 +55254,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6762965,
-     39.0236627
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Foothill Boulevard",
-     "Plaza Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.67627974999999,
-     39.0233157
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Foothill Boulevard",
-     "Plaza Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.67620445,
-     39.0236118
+     -122.6761124,
+     39.0235609
     ]
    },
    "properties": {
@@ -55766,8 +55766,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.81440795,
-     39.1176574
+     -122.8144382,
+     39.1181716
     ]
    },
    "properties": {
@@ -55782,8 +55782,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.8144382,
-     39.1181716
+     -122.8145619,
+     39.1180929
     ]
    },
    "properties": {
@@ -56598,8 +56598,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.7449573,
-     38.8297309
+     -122.7453216,
+     38.8291818
     ]
    },
    "properties": {
@@ -57558,8 +57558,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.92390615,
-     39.03327125
+     -122.9244383,
+     39.0328212
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Lakeport Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.923374,
+     39.0337213
     ]
    },
    "properties": {
@@ -57802,57 +57818,6 @@
     "coordinates": [
      -122.6140328,
      39.0084386
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 20",
-     "CA 20;CA 53",
-     "CA 53"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.61405145,
-     39.008409549999996
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 20",
-     "CA 20;CA 53",
-     "CA 53"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.6142203,
-     39.0083525
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 20",
-     "CA 20;CA 53",
-     "CA 53"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.6144271,
-     39.0083708
     ]
    },
    "properties": {

@@ -107210,8 +107210,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.77969730000001,
-     37.222405949999995
+     -120.842938,
+     37.06263
+    ]
+   },
+   "properties": {
+    "streets": [
+     "8th Street",
+     "F Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7164566,
+     37.3821819
     ]
    },
    "properties": {
@@ -107930,8 +107946,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.873389,
-     36.994769000000005
+     -120.873385,
+     36.991142
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Almond Drive",
+     "Ortigalita Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.873393,
+     36.998396
     ]
    },
    "properties": {
@@ -108732,8 +108764,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.7807152,
-     36.8605009
+     -121.027698,
+     37.123365
     ]
    },
    "properties": {
@@ -108748,8 +108780,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.7852355,
-     36.8671154
+     -121.028694,
+     37.124202
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Westside Freeway;I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0320447,
+     37.1292942
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Westside Freeway;I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03255,
+     37.130799
     ]
    },
    "properties": {
@@ -108796,8 +108860,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.027698,
-     37.123365
+     -120.7852355,
+     36.8671154
     ]
    },
    "properties": {
@@ -108812,40 +108876,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.030124,
-     37.127082
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Westside Freeway;I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.0320447,
-     37.1292942
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Westside Freeway;I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.03036935,
-     37.1267481
+     -120.7807152,
+     36.8605009
     ]
    },
    "properties": {
@@ -109004,8 +109036,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.52864654999999,
-     37.06942575
+     -120.5285607,
+     37.0692066
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152",
+     "Flanagan Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5287324,
+     37.0696449
     ]
    },
    "properties": {
@@ -109358,22 +109406,6 @@
     "coordinates": [
      -120.61550875,
      37.34295515
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Bell Drive",
-     "Bell Lane"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6153748,
-     37.3428917
     ]
    },
    "properties": {
@@ -110141,7 +110173,7 @@
     "type": "Point",
     "coordinates": [
      -120.486400875,
-     37.33211824999999
+     37.33211825
     ]
    },
    "properties": {
@@ -110972,6 +111004,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.3206638,
+     37.2878485
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Childs Avenue",
+     "Santa Fe Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.31987125,
+     37.28762585
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Childs Avenue",
+     "Santa Fe Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.3191681,
      37.2873091
     ]
@@ -110988,24 +111052,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3186994,
-     37.2879494
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Childs Avenue",
-     "Santa Fe Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.31949625,
-     37.28795220000001
+     -120.3191691,
+     37.2882942
     ]
    },
    "properties": {
@@ -111022,6 +111070,22 @@
     "coordinates": [
      -120.3192416,
      37.2883512
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Childs Avenue",
+     "Santa Fe Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3186994,
+     37.2879494
     ]
    },
    "properties": {
@@ -111148,8 +111212,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.57904845,
-     37.35517045
+     -120.5808622,
+     37.3547405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Castle Drive",
+     "Garden Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5772347,
+     37.3556004
     ]
    },
    "properties": {
@@ -111324,8 +111404,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.78417350000001,
-     37.2234105
+     -120.721103,
+     37.382256
+    ]
+   },
+   "properties": {
+    "streets": [
+     "5th Street",
+     "F Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.847244,
+     37.064565
     ]
    },
    "properties": {
@@ -111532,8 +111628,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.75037825,
-     37.01250695
+     -120.8492665,
+     37.0590139
+    ]
+   },
+   "properties": {
+    "streets": [
+     "6th Street",
+     "K Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.65149,
+     36.966
     ]
    },
    "properties": {
@@ -111868,8 +111980,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.74641919999999,
-     37.360494200000005
+     -120.7509407,
+     37.3604927
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Robin Avenue",
+     "Westside Boulevard;J18"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7418977,
+     37.3604957
     ]
    },
    "properties": {
@@ -112012,8 +112140,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.78768235000001,
-     37.0558357
+     -120.7875764,
+     37.0556052
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Pacheco Boulevard;CA 152;CA 33",
+     "Santa Fe Grade"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7877883,
+     37.0560662
     ]
    },
    "properties": {
@@ -112316,8 +112460,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.436041,
+     37.2751847
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "East Mission Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.4383561,
      37.2746363
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "East Mission Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4395603,
+     37.2743493
     ]
    },
    "properties": {
@@ -113052,8 +113228,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.57605315,
-     37.33552065
+     -120.5767181,
+     37.3360489
     ]
    },
    "properties": {
@@ -113068,8 +113244,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.57611255,
-     37.335764850000004
+     -120.5768369,
+     37.3365373
     ]
    },
    "properties": {
@@ -113084,8 +113260,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.57683315,
-     37.3362409
+     -120.5769482,
+     37.3364329
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ashby Road",
+     "North Buhach Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5753882,
+     37.3349924
     ]
    },
    "properties": {
@@ -113502,38 +113694,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5592032,
-     37.3284375
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Ashby Road",
-     "Bishop Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.55933195,
-     37.3284494
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Ashby Road",
-     "Bishop Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.4821569,
      37.2772205
     ]
@@ -113678,8 +113838,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.73659045,
-     37.39043325
+     -120.7362975,
+     37.3913258
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "Winton Parkway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7368834,
+     37.3895407
     ]
    },
    "properties": {
@@ -113838,8 +114014,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4578014,
-     37.2883446
+     -120.4550871,
+     37.2881991
     ]
    },
    "properties": {
@@ -113854,8 +114030,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4550871,
-     37.2881991
+     -120.4573048,
+     37.2884164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "East Childs Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4578014,
+     37.2883446
     ]
    },
    "properties": {
@@ -114046,6 +114238,70 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.6442171,
+     37.3596953
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.653019,
+     37.3628157
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6784006,
+     37.3723268
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4681917,
+     37.2950139
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.4609557,
      37.2908118
     ]
@@ -114096,70 +114352,6 @@
     "coordinates": [
      -120.4365718,
      37.2737733
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99;I 7–9 FUT",
-     "Golden State Highway;CA 99;I 7–9 FUT"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.4681917,
-     37.2950139
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99;I 7–9 FUT",
-     "Golden State Highway;CA 99;I 7–9 FUT"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6442171,
-     37.3596953
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99;I 7–9 FUT",
-     "Golden State Highway;CA 99;I 7–9 FUT"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.653019,
-     37.3628157
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99;I 7–9 FUT",
-     "Golden State Highway;CA 99;I 7–9 FUT"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6784006,
-     37.3723268
     ]
    },
    "properties": {
@@ -114270,8 +114462,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.7130019,
-     37.384898449999994
+     -120.7133302,
+     37.3841779
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "Hammatt Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7126736,
+     37.385619
     ]
    },
    "properties": {
@@ -114318,8 +114526,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0157372,
-     37.1086731
+     -121.01574485,
+     37.1085699
     ]
    },
    "properties": {
@@ -114334,24 +114542,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0158018,
-     37.1037492
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Santa Nella Road;CA 33"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.0158086,
-     37.1040333
+     -121.0158296,
+     37.1045311
     ]
    },
    "properties": {
@@ -114382,8 +114574,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0158296,
-     37.1045311
+     -121.0158086,
+     37.1040333
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Santa Nella Road;CA 33"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0158018,
+     37.1037492
     ]
    },
    "properties": {
@@ -114544,8 +114752,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.77143335,
-     37.4260559
+     -120.7725604,
+     37.4259324
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "South Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7703063,
+     37.4261794
     ]
    },
    "properties": {
@@ -115090,38 +115314,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.881401,
-     37.0503601
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Oak Street",
-     "Thistle Lane"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.8813506,
-     37.0503281
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Oak Street",
-     "Thistle Lane"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.88096825,
      37.0507114
     ]
@@ -115266,38 +115458,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8796419,
-     37.0526803
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Manzanita Way",
-     "Woodland Court"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.8797763,
-     37.0526811
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Manzanita Way",
-     "Woodland Court"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.5101842,
      37.3096479
     ]
@@ -115332,22 +115492,6 @@
     "coordinates": [
      -120.4234503,
      37.2983961
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Campus Parkway",
-     "Campus Parkway Access"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.4234478,
-     37.2984851
     ]
    },
    "properties": {
@@ -115594,22 +115738,6 @@
     "streets": [
      "Santa Nella Road;CA 33;CA 140",
      "South Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.7371814,
-     37.38595205
-    ]
-   },
-   "properties": {
-    "streets": [
-     "B Street",
-     "Winton Parkway"
     ]
    }
   },
@@ -115906,38 +116034,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8846333,
-     37.0515063
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Bermuda Lane",
-     "Prairie Springs Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.88458795,
-     37.0513861
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Bermuda Lane",
-     "Prairie Springs Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.44372625,
      37.3254457
     ]
@@ -116098,8 +116194,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.37507725,
-     37.2256979
+     -120.373847,
+     37.2266652
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "Le Grand Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3763075,
+     37.2247306
     ]
    },
    "properties": {
@@ -116130,7 +116242,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.83537792499999,
+     -120.835377925,
      37.05692065
     ]
    },
@@ -116210,8 +116322,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.57276440000001,
-     37.36048985
+     -120.5725692,
+     37.3604292
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Bellevue Road",
+     "Santa Fe Drive;J7"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5729596,
+     37.3605505
     ]
    },
    "properties": {
@@ -116420,8 +116548,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3317158,
-     37.189238450000005
+     -120.3330615,
+     37.1883391
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99;I 7–9 FUT",
+     "Plainsburg Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3303701,
+     37.1901378
     ]
    },
    "properties": {
@@ -116612,8 +116756,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9697591,
-     37.0565829
+     -120.964773,
+     37.056583
     ]
    },
    "properties": {
@@ -116644,8 +116788,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.964773,
-     37.056583
+     -120.9697591,
+     37.0565829
     ]
    },
    "properties": {
@@ -116838,22 +116982,6 @@
     "coordinates": [
      -120.5854943,
      37.3496903
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Bridgewater Street",
-     "East Juniper Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.5853811,
-     37.3496875
     ]
    },
    "properties": {

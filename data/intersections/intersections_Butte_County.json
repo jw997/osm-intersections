@@ -109836,8 +109836,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.603166,
-     39.854487500000005
+     -121.601033,
+     39.854588
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Columbine Road",
+     "Jack Pine Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.605299,
+     39.854387
     ]
    },
    "properties": {
@@ -110094,6 +110110,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.466406,
+     39.503486
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lariat Loop",
+     "Saddle Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.469063,
      39.502719
     ]
@@ -110110,8 +110142,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.46804900000001,
-     39.503154
+     -121.469692,
+     39.502822
     ]
    },
    "properties": {
@@ -110398,8 +110430,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.5041785,
-     39.501858999999996
+     -121.5033175,
+     39.5028595
     ]
    },
    "properties": {
@@ -110414,8 +110446,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.50382685,
-     39.5027233
+     -121.5040208,
+     39.5011309
     ]
    },
    "properties": {
@@ -110638,38 +110670,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.7970233,
-     39.714904
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99",
-     "Skyway Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.7987237,
-     39.7148709
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99",
-     "Skyway Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.8028291,
      39.7148139
     ]
@@ -110718,8 +110718,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.7987237,
+     39.7148709
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Skyway Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7970233,
+     39.714904
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Skyway Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.58107,
      39.815632
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Skyway",
+     "Skyway Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5818896,
+     39.8156002
     ]
    },
    "properties": {
@@ -110752,22 +110800,6 @@
     "coordinates": [
      -121.6587616,
      39.7411373
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Skyway",
-     "Skyway Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5814798,
-     39.8156161
     ]
    },
    "properties": {
@@ -110846,8 +110878,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.6716151,
-     39.3416594
+     -121.6721184,
+     39.3416533
     ]
    },
    "properties": {
@@ -110862,8 +110894,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.6721184,
-     39.3416533
+     -121.6716151,
+     39.3416594
     ]
    },
    "properties": {
@@ -112350,8 +112382,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.8743576,
-     39.771609
+     -121.8744931,
+     39.771746
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Constitution Drive",
+     "Independence Circle"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8742221,
+     39.771472
     ]
    },
    "properties": {
@@ -115246,8 +115294,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.703919,
-     39.729062
+     -121.703771,
+     39.729363
     ]
    },
    "properties": {
@@ -115262,8 +115310,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.70360600000001,
-     39.7295975
+     -121.703919,
+     39.729062
     ]
    },
    "properties": {
@@ -116158,8 +116206,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.52472750000001,
-     39.49173625
+     -121.524735,
+     39.4920175
     ]
    },
    "properties": {
@@ -117662,8 +117710,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.872088,
-     39.7750832
+     -121.8744366,
+     39.7738259
     ]
    },
    "properties": {
@@ -117680,6 +117728,22 @@
     "coordinates": [
      -121.8724298,
      39.7753387
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Eaton Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.872088,
+     39.7750832
     ]
    },
    "properties": {
@@ -117872,6 +117936,22 @@
     "coordinates": [
      -121.528417,
      39.515694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Canyon Highlands Drive",
+     "Valley View Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.523267,
+     39.522607
     ]
    },
    "properties": {
@@ -119566,8 +119646,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.82198149999999,
-     39.751088499999994
+     -121.82305,
+     39.750859
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 1st Avenue",
+     "Terrace Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.820913,
+     39.751318
     ]
    },
    "properties": {
@@ -120030,8 +120126,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.58297255,
-     39.53485145
+     -121.584221,
+     39.534845
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Garden Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5817241,
+     39.5348579
     ]
    },
    "properties": {
@@ -120062,22 +120174,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.8200842,
-     39.736962
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99",
-     "Highway 99;CA 99"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.8242862,
      39.7398578
     ]
@@ -120094,8 +120190,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.82648180000001,
-     39.741476750000004
+     -121.8200842,
+     39.736962
     ]
    },
    "properties": {
@@ -120126,6 +120222,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.8286774,
+     39.7430957
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Highway 99;CA 99"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.8286387,
      39.7432671
     ]
@@ -120142,8 +120254,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.82881225,
-     39.74339675
+     -121.8289858,
+     39.7435264
     ]
    },
    "properties": {
@@ -120238,8 +120350,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.80921835000001,
-     39.726056
+     -121.8076327,
+     39.7268055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 20th Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.810804,
+     39.7253065
     ]
    },
    "properties": {
@@ -120286,6 +120414,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.8453709,
+     39.7534144
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Cohasset Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8453953,
+     39.7533047
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Cohasset Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8449872,
+     39.7545875
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Cohasset Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.8448347,
      39.755002
     ]
@@ -120318,56 +120494,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.8453709,
-     39.7534144
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99",
-     "Cohasset Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.8442315,
      39.7568576
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99",
-     "Cohasset Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.8449872,
-     39.7545875
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 99",
-     "Cohasset Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.8453953,
-     39.7533047
     ]
    },
    "properties": {
@@ -120462,8 +120590,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.8013704,
-     39.73000915
+     -121.80215735,
+     39.73475865
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forest Avenue",
+     "Springfield Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80136475,
+     39.73005885
     ]
    },
    "properties": {
@@ -120864,54 +121008,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.549422,
-     39.5160797
-    ]
-   },
-   "properties": {
-    "streets": [
-     "B2",
-     "Washington Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5495933,
-     39.516278
-    ]
-   },
-   "properties": {
-    "streets": [
-     "B2",
-     "Washington Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.5497646,
-     39.5162259
-    ]
-   },
-   "properties": {
-    "streets": [
-     "B2",
-     "Washington Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.8748059,
      39.7385953
     ]
@@ -121056,6 +121152,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.57462135,
+     39.4979694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57577950000001,
+     39.4979445
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.5729783,
      39.4980741
     ]
@@ -121120,8 +121248,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.820494,
-     39.736475
+     -121.8185994,
+     39.7374188
     ]
    },
    "properties": {
@@ -121136,8 +121264,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.8185994,
-     39.7374188
+     -121.820494,
+     39.736475
     ]
    },
    "properties": {
@@ -121232,8 +121360,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.8912358,
-     39.77516435
+     -121.8919741,
+     39.7743994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Rogue River Drive",
+     "Shaker Lane"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8904975,
+     39.7759293
     ]
    },
    "properties": {
@@ -121264,7 +121408,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.78742059999999,
+     -121.7874206,
      39.7262614
     ]
    },
@@ -121376,6 +121520,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.83187015,
+     39.7450838
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 1st Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.8310179,
      39.7458106
     ]
@@ -121408,40 +121568,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.8324549,
-     39.7446906
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East 1st Avenue",
-     "Sheridan Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.8323616,
-     39.744651
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East 1st Avenue",
-     "Sheridan Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -121.8565514,
      39.759606
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8561163,
+     39.7598591
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8550665,
+     39.7604835
     ]
    },
    "properties": {

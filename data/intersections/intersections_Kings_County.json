@@ -57197,8 +57197,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.690995,
-     36.315423
+     -119.6909905,
+     36.315259
     ]
    },
    "properties": {
@@ -57213,8 +57213,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.6912015,
-     36.315036
+     -119.691417,
+     36.314977
     ]
    },
    "properties": {
@@ -57311,6 +57311,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.691986,
+     36.313825
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Hanford Armona Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.691564,
      36.313697
     ]
@@ -57375,8 +57391,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9131734,
-     36.2630795
+     -119.914345,
+     36.2630482
     ]
    },
    "properties": {
@@ -57391,8 +57407,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9143422,
-     36.2630222
+     -119.9143394,
+     36.2629962
     ]
    },
    "properties": {
@@ -57441,6 +57457,38 @@
     "coordinates": [
      -119.941287,
      36.382753
+    ]
+   },
+   "properties": {
+    "streets": [
+     "27th Avenue",
+     "Lemoore Naval Air Station"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.941304,
+     36.371885
+    ]
+   },
+   "properties": {
+    "streets": [
+     "27th Avenue",
+     "Lemoore Naval Air Station"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.941317,
+     36.364659
     ]
    },
    "properties": {
@@ -57780,8 +57828,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.810576,
-     36.2961896
+     -119.8069631,
+     36.401856
     ]
    },
    "properties": {
@@ -57797,8 +57845,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8105588,
-     36.2996829
+     -119.8095077,
+     36.3858554
     ]
    },
    "properties": {
@@ -57831,8 +57879,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8069631,
-     36.401856
+     -119.8105588,
+     36.2996829
     ]
    },
    "properties": {
@@ -57865,8 +57913,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8095077,
-     36.3858554
+     -119.810576,
+     36.2961896
     ]
    },
    "properties": {
@@ -58188,22 +58236,6 @@
     "coordinates": [
      -119.7824919,
      36.2982436
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Follett Street",
-     "West Bush Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.7823664,
-     36.2982839
     ]
    },
    "properties": {
@@ -58651,7 +58683,7 @@
     "type": "Point",
     "coordinates": [
      -119.6842547,
-     36.3280599
+     36.32810215
     ]
    },
    "properties": {
@@ -58826,8 +58858,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0080725,
-     36.0434815
+     -120.012538,
+     36.043475
+    ]
+   },
+   "properties": {
+    "streets": [
+     "30th Avenue",
+     "Quincy Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.003607,
+     36.043488
     ]
    },
    "properties": {
@@ -58938,6 +58986,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.923059,
+     36.313818
+    ]
+   },
+   "properties": {
+    "streets": [
+     "26th Avenue",
+     "Lemoore Naval Air Station"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.923012,
      36.321547
     ]
@@ -58954,8 +59018,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.922158,
-     36.321549000000005
+     -119.921304,
+     36.321551
     ]
    },
    "properties": {
@@ -59100,38 +59164,6 @@
     "coordinates": [
      -119.6309237,
      36.3026401
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Garden Drive",
-     "Shaw Place"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.63099335,
-     36.30278705
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Garden Drive",
-     "Shaw Place"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.630919,
-     36.302259
     ]
    },
    "properties": {
@@ -59951,8 +59983,25 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.80984480000001,
-     36.3803042
+     -119.810157,
+     36.38031
+    ]
+   },
+   "properties": {
+    "streets": [
+     "19 1",
+     "2 Avenue;CA 41",
+     "Elgin Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8095326,
+     36.3802984
     ]
    },
    "properties": {
@@ -60064,22 +60113,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7807687,
-     36.3013487
-    ]
-   },
-   "properties": {
-    "streets": [
-     "C Street",
-     "North Lemoore Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.78079,
      36.313507
     ]
@@ -60128,22 +60161,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7808618,
-     36.3114898
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Club Drive",
-     "North Lemoore Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.78080399999999,
      36.308823
     ]
@@ -60162,38 +60179,6 @@
     "coordinates": [
      -119.8060647,
      36.3090788
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Dogwood Avenue",
-     "Hawthorn Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.8060682,
-     36.3090249
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Dogwood Avenue",
-     "Hawthorn Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.8060691,
-     36.3089724
     ]
    },
    "properties": {
@@ -60368,8 +60353,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.655106825,
-     36.325222974999996
+     -119.65510682499999,
+     36.325222975
     ]
    },
    "properties": {
@@ -60514,22 +60499,6 @@
     "coordinates": [
      -119.7883657,
      36.3087455
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Fallenleaf Drive",
-     "Fox Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.7883394,
-     36.308811
     ]
    },
    "properties": {
@@ -60882,38 +60851,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.824414,
-     36.189324
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Main Street",
-     "Railroad Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.824415,
-     36.189412
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Main Street",
-     "Railroad Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.666564,
      36.329244
     ]
@@ -61108,8 +61045,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.83672605000001,
-     36.18943195
+     -119.842842,
+     36.189441
     ]
    },
    "properties": {
@@ -61204,8 +61141,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9050071,
-     36.2608516
+     -119.9051281,
+     36.2608502
     ]
    },
    "properties": {
@@ -61432,6 +61369,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.932365,
+     36.364686
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2 Avenue",
+     "26 1",
+     "Lemoore Naval Air Station"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.932409,
      36.370336
     ]
@@ -61626,8 +61580,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.809922,
-     36.37303765
+     -119.810238,
+     36.373041
     ]
    },
    "properties": {
@@ -61643,7 +61597,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.57205375,
+     -119.809606,
+     36.3730343
+    ]
+   },
+   "properties": {
+    "streets": [
+     "19 1",
+     "2 Avenue;CA 41",
+     "Flint Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.57205375000001,
      36.0980645
     ]
    },
@@ -61835,40 +61806,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.934164,
-     36.299107
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Lemoore Naval Air Station",
-     "Reeves Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.94394679999999,
-     36.31885805
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Lemoore Naval Air Station",
-     "Reeves Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.918171,
-     36.270003
+     -119.9431292,
+     36.3168722
     ]
    },
    "properties": {
@@ -61899,8 +61838,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.94267400000001,
-     36.3174236
+     -119.94394679999999,
+     36.31885805
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lemoore Naval Air Station",
+     "Reeves Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9418627,
+     36.3173209
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lemoore Naval Air Station",
+     "Reeves Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9341895,
+     36.299147500000004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lemoore Naval Air Station",
+     "Reeves Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.918171,
+     36.270003
     ]
    },
    "properties": {
@@ -61979,8 +61966,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.914274,
+     36.342852
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grangeville Boulevard",
+     "Lemoore Naval Air Station"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.911432,
      36.342869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grangeville Boulevard",
+     "Lemoore Naval Air Station"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9063387,
+     36.3428653
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Grangeville Boulevard",
+     "Lemoore Naval Air Station"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.929973,
+     36.342841
     ]
    },
    "properties": {
@@ -62011,40 +62046,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.91161935,
-     36.34284865
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Grangeville Boulevard",
-     "Lemoore Naval Air Station"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.93316965,
-     36.342838
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Grangeville Boulevard",
-     "Lemoore Naval Air Station"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.914274,
-     36.342852
+     -119.9430753,
+     36.342858
     ]
    },
    "properties": {
@@ -62107,8 +62110,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9052867,
-     36.3507085
+     -119.911489,
+     36.360599
     ]
    },
    "properties": {
@@ -62123,8 +62126,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.90838785,
-     36.35565375
+     -119.9052867,
+     36.3507085
     ]
    },
    "properties": {
@@ -62716,8 +62719,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8154131,
-     36.2789362
+     -119.793595,
+     36.288503
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.794217,
+     36.2883878
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7966478,
+     36.2871718
     ]
    },
    "properties": {
@@ -62734,6 +62769,38 @@
     "coordinates": [
      -119.8070271,
      36.2826251
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8154131,
+     36.2789362
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8651427,
+     36.2573246
     ]
    },
    "properties": {
@@ -62766,70 +62833,6 @@
     "coordinates": [
      -119.894963,
      36.255572
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 198",
-     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.8651427,
-     36.2573246
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 198",
-     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.7966478,
-     36.2871718
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 198",
-     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.793595,
-     36.288503
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 198",
-     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.794217,
-     36.2883878
     ]
    },
    "properties": {
@@ -62940,22 +62943,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7539224,
-     36.2972908
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 198",
-     "Houston Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.7540107,
      36.2973146
     ]
@@ -62972,72 +62959,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.7539224,
+     36.2972908
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Houston Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.6494217,
      36.3221878
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 198",
-     "George Alan Ingalls Memorial Highway;CA 198"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.6689098,
-     36.3193057
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 198",
-     "George Alan Ingalls Memorial Highway;CA 198"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.6710529,
-     36.31897495
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 198",
-     "George Alan Ingalls Memorial Highway;CA 198"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.6384364,
-     36.3238855
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 198",
-     "George Alan Ingalls Memorial Highway;CA 198"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.6315518,
-     36.3243719
     ]
    },
    "properties": {
@@ -63070,6 +63009,70 @@
     "coordinates": [
      -119.6598057,
      36.3205864
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6689098,
+     36.3193057
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.673196,
+     36.3186442
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6384364,
+     36.3238855
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6315518,
+     36.3243719
     ]
    },
    "properties": {
@@ -63133,8 +63136,42 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.8082633,
+     36.2845783
+    ]
+   },
+   "properties": {
+    "streets": [
+     "19 1",
+     "2 Avenue;CA 41",
+     "CA 198"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.8081736,
      36.2801169
+    ]
+   },
+   "properties": {
+    "streets": [
+     "19 1",
+     "2 Avenue;CA 41",
+     "CA 198"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8078571,
+     36.2795979
     ]
    },
    "properties": {
@@ -63184,8 +63221,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.807779,
-     36.28728
+     -119.8079204,
+     36.2846635
     ]
    },
    "properties": {
@@ -63203,6 +63240,23 @@
     "coordinates": [
      -119.8078941,
      36.2826665
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2 Avenue;CA 41",
+     "CA 198",
+     "South 19 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.807779,
+     36.28728
     ]
    },
    "properties": {
@@ -63250,6 +63304,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.7808584,
+     36.2923432
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Lemoore Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.89610085,
      36.2554863
     ]
@@ -63258,6 +63328,38 @@
     "streets": [
      "Hawkeye Court",
      "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.96119619999999,
+     35.98016875
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9599018,
+     35.983649650000004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "I 5"
     ]
    }
   },
@@ -63347,8 +63449,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.709108,
-     36.3089158
+     -119.7091145,
+     36.3085406
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Avenue",
+     "CA 198"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7091015,
+     36.309291
     ]
    },
    "properties": {
@@ -63587,54 +63705,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9631216,
-     35.9841536
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Westside Freeway;I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.9148064,
-     35.9369935
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Westside Freeway;I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.9104791,
-     35.932761
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Westside Freeway;I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.9644304,
      35.9860791
     ]
@@ -63651,24 +63721,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9093707,
-     35.9321815
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Westside Freeway;I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.9568505,
-     35.9785107
+     -119.9631216,
+     35.9841536
     ]
    },
    "properties": {
@@ -63699,8 +63753,72 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.9568505,
+     35.9785107
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Westside Freeway;I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9148064,
+     35.9369935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Westside Freeway;I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.9144512,
      35.9371734
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Westside Freeway;I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9104791,
+     35.932761
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Westside Freeway;I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9093707,
+     35.9321815
     ]
    },
    "properties": {
@@ -63747,8 +63865,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9097028,
-     35.9345192
+     -119.9133023,
+     35.9345411
     ]
    },
    "properties": {
@@ -63779,8 +63897,57 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.81000515,
-     36.3657993
+     -119.9104763,
+     35.9345105
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Utica Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9097028,
+     35.9345192
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Utica Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8103395,
+     36.3658037
+    ]
+   },
+   "properties": {
+    "streets": [
+     "19 1",
+     "2 Avenue;CA 41",
+     "Fremont Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8096708,
+     36.3657949
     ]
    },
    "properties": {
@@ -63926,38 +64093,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.6729083,
-     36.316063
-    ]
-   },
-   "properties": {
-    "streets": [
-     "12th Avenue",
-     "CA 198"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.6729081,
-     36.3175797
-    ]
-   },
-   "properties": {
-    "streets": [
-     "12th Avenue",
-     "CA 198"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.672902,
      36.3179923
     ]
@@ -63974,8 +64109,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.6730442,
-     36.3181304
+     -119.6730431,
+     36.3173721
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Avenue",
+     "CA 198"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6729083,
+     36.316063
     ]
    },
    "properties": {
@@ -64023,7 +64174,7 @@
     "type": "Point",
     "coordinates": [
      -119.67289447499999,
-     36.328082349999995
+     36.32808235
     ]
    },
    "properties": {
@@ -64088,6 +64239,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.6196541,
+     36.3244591
+    ]
+   },
+   "properties": {
+    "streets": [
+     "9th Avenue",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.6189815,
      36.3243341
     ]
@@ -64106,22 +64273,6 @@
     "coordinates": [
      -119.6189966,
      36.3244592
-    ]
-   },
-   "properties": {
-    "streets": [
-     "9th Avenue",
-     "George Alan Ingalls Memorial Highway;CA 198"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.6196541,
-     36.3244591
     ]
    },
    "properties": {
@@ -64217,7 +64368,7 @@
     "type": "Point",
     "coordinates": [
      -119.6728808,
-     36.357204800000005
+     36.3572048
     ]
    },
    "properties": {
@@ -64506,22 +64657,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.69100675,
-     36.334893550000004
-    ]
-   },
-   "properties": {
-    "streets": [
-     "13th Avenue",
-     "Learning Center"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.6910068,
      36.3348188
     ]
@@ -64602,8 +64737,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.6008394,
+     36.3279527
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Valley Highway;CA 43",
+     "Lacey Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.600985,
      36.3271588
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Central Valley Highway;CA 43"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6008899,
+     36.3269879
     ]
    },
    "properties": {
@@ -64650,22 +64817,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.6009538,
-     36.321144
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 198",
-     "Central Valley Highway;CA 43"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.6009542,
      36.3236133
     ]
@@ -64682,8 +64833,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.6008899,
-     36.3269879
+     -119.6009538,
+     36.321144
     ]
    },
    "properties": {

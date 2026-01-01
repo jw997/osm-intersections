@@ -24640,8 +24640,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.90826394999999,
-     39.93760985
+     -120.9077865,
+     39.9376557
     ]
    },
    "properties": {
@@ -24864,8 +24864,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6493835,
-     39.782490249999995
+     -120.6495497,
+     39.7827372
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Eureka Springs Drive",
+     "Poplar Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6499885,
+     39.7833878
     ]
    },
    "properties": {
@@ -25472,8 +25488,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9553603,
-     40.1503206
+     -120.9551293,
+     40.1518738
     ]
    },
    "properties": {
@@ -25584,8 +25600,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.150864,
-     40.2407512
+     -121.1513801,
+     40.2417344
     ]
    },
    "properties": {
@@ -25696,8 +25712,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.938571,
-     40.159045
+     -120.938419,
+     40.158629
     ]
    },
    "properties": {
@@ -26816,8 +26832,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.90932315,
-     40.1032985
+     -120.9093256,
+     40.1036595
     ]
    },
    "properties": {

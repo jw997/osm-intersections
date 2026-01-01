@@ -97851,8 +97851,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.402861,
-     37.7533449
+     -122.4080303,
+     37.7391115
     ]
    },
    "properties": {
@@ -97869,54 +97869,6 @@
     "coordinates": [
      -122.4076986,
      37.740917
-    ]
-   },
-   "properties": {
-    "streets": [
-     "James Lick Freeway;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4039953,
-     37.7301141
-    ]
-   },
-   "properties": {
-    "streets": [
-     "James Lick Freeway;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4056736,
-     37.733191
-    ]
-   },
-   "properties": {
-    "streets": [
-     "James Lick Freeway;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4080303,
-     37.7391115
     ]
    },
    "properties": {
@@ -97963,8 +97915,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.4056736,
+     37.733191
+    ]
+   },
+   "properties": {
+    "streets": [
+     "James Lick Freeway;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4039953,
+     37.7301141
+    ]
+   },
+   "properties": {
+    "streets": [
+     "James Lick Freeway;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.4024825,
      37.7266031
+    ]
+   },
+   "properties": {
+    "streets": [
+     "James Lick Freeway;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.402861,
+     37.7533449
     ]
    },
    "properties": {
@@ -98101,6 +98101,22 @@
      "James Lick Freeway;I 80",
      "James Lick Freeway;US 101",
      "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.44784755,
+     37.746707650000005
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glenview Drive",
+     "Portola Drive"
     ]
    }
   },
@@ -98253,8 +98269,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4723718,
-     37.7559082
+     -122.4724164,
+     37.755811
     ]
    },
    "properties": {
@@ -98269,8 +98285,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4724164,
-     37.755811
+     -122.4723718,
+     37.7559082
     ]
    },
    "properties": {
@@ -98845,8 +98861,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.39687475,
-     37.7430322
+     -122.3970077,
+     37.742884
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jerrold Avenue",
+     "Selby Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3967418,
+     37.7431804
     ]
    },
    "properties": {
@@ -98863,54 +98895,6 @@
     "coordinates": [
      -122.395286,
      37.7420143
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Jerrold Avenue",
-     "Rankin Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.39514545,
-     37.741995
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Jerrold Avenue",
-     "Rankin Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.3950821,
-     37.7421227
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Jerrold Avenue",
-     "Rankin Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.39521339999999,
-     37.74209225
     ]
    },
    "properties": {
@@ -99039,38 +99023,6 @@
     "coordinates": [
      -122.4528945,
      37.7580025
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Clarendon Avenue",
-     "Johnstone Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.45303875,
-     37.75798235
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Clarendon Avenue",
-     "Johnstone Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4527791,
-     37.75810585
     ]
    },
    "properties": {
@@ -99245,8 +99197,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.47360845,
-     37.7587437
+     -122.4734997,
+     37.7593331
     ]
    },
    "properties": {
@@ -99854,7 +99806,7 @@
     "type": "Point",
     "coordinates": [
      -122.38759375000001,
-     37.750259799999995
+     37.7502598
     ]
    },
    "properties": {
@@ -100245,6 +100197,22 @@
     "streets": [
      "Diamond Street",
      "Market Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.43562066666668,
+     37.74154706666667
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Diamond Heights Boulevard",
+     "Diamond Street"
     ]
    }
   },
@@ -101327,8 +101295,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4488981,
-     37.7338037
+     -122.4488987,
+     37.7338798
     ]
    },
    "properties": {
@@ -101343,8 +101311,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4488987,
-     37.7338798
+     -122.4488981,
+     37.7338037
     ]
    },
    "properties": {
@@ -102130,7 +102098,7 @@
     "type": "Point",
     "coordinates": [
      -122.47703715,
-     37.761703725
+     37.761703725000004
     ]
    },
    "properties": {
@@ -102773,6 +102741,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.5093703,
+     37.7599704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Great Highway",
+     "Lower Great Highway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.5074829,
      37.745542
     ]
@@ -102791,22 +102775,6 @@
     "coordinates": [
      -122.5068785,
      37.7410421
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Great Highway",
-     "Lower Great Highway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.5093703,
-     37.7599704
     ]
    },
    "properties": {
@@ -102983,22 +102951,6 @@
     "coordinates": [
      -122.458613,
      37.7671898
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Kezar Drive",
-     "Martin Luther King Junior Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4586878,
-     37.7671653
     ]
    },
    "properties": {
@@ -103221,8 +103173,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4581683,
-     37.727586599999995
+     -122.4581592,
+     37.7257204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Eastwood Drive",
+     "Miramar Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4581774,
+     37.7294528
     ]
    },
    "properties": {
@@ -103285,8 +103253,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4582856,
-     37.727587400000004
+     -122.4582944,
+     37.7294531
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Miramar Avenue",
+     "Westwood Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4582768,
+     37.7257217
     ]
    },
    "properties": {
@@ -104491,8 +104475,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4720646,
-     37.7288033
+     -122.47216470000001,
+     37.7288059
     ]
    },
    "properties": {
@@ -104909,6 +104893,22 @@
     "coordinates": [
      -122.4106184,
      37.7471394
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alabama Street",
+     "Precita Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4104987,
+     37.7473614
     ]
    },
    "properties": {
@@ -105739,22 +105739,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5019088,
-     37.7795283
-    ]
-   },
-   "properties": {
-    "streets": [
-     "41st Avenue",
-     "Geary Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.5018968,
      37.7793665
     ]
@@ -105823,8 +105807,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.43214055,
-     37.7392021
+     -122.4311895,
+     37.738383
     ]
    },
    "properties": {
@@ -105839,8 +105823,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4311895,
-     37.738383
+     -122.4329372,
+     37.7400721
     ]
    },
    "properties": {
@@ -107057,8 +107041,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.447308,
-     37.7315119
+     -122.4473081,
+     37.73155655
     ]
    },
    "properties": {
@@ -107153,22 +107137,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4418307,
-     37.7822406
-    ]
-   },
-   "properties": {
-    "streets": [
-     "O'Farrell Street",
-     "Saint Joseph's Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.4724974,
      37.7171757
     ]
@@ -107237,8 +107205,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.47254265000001,
-     37.721601449999994
+     -122.47224140000002,
+     37.7216437
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Holloway Avenue",
+     "Junipero Serra Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4726359,
+     37.7215802
     ]
    },
    "properties": {
@@ -107255,22 +107239,6 @@
     "coordinates": [
      -122.406564,
      37.7545728
-    ]
-   },
-   "properties": {
-    "streets": [
-     "23rd Street",
-     "Potrero Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.40647519999999,
-     37.7542946
     ]
    },
    "properties": {
@@ -107399,22 +107367,6 @@
     "coordinates": [
      -122.387165,
      37.7355781
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cashmere Street",
-     "La Salle Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.38725325,
-     37.73569005
     ]
    },
    "properties": {
@@ -107559,22 +107511,6 @@
     "coordinates": [
      -122.4858743,
      37.7341912
-    ]
-   },
-   "properties": {
-    "streets": [
-     "El Mirasol Place",
-     "Sloat Boulevard;CA 35"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4860249,
-     37.734260899999995
     ]
    },
    "properties": {
@@ -107885,22 +107821,6 @@
     "streets": [
      "Geneva Avenue",
      "Gloria Court"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.475261,
-     37.720328
-    ]
-   },
-   "properties": {
-    "streets": [
-     "19th Avenue;CA 1",
-     "Crespi Drive"
     ]
    }
   },
@@ -108551,8 +108471,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4065951,
-     37.7561757
+     -122.40665645,
+     37.756172
     ]
    },
    "properties": {
@@ -109063,22 +108983,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3894835,
-     37.7797641
-    ]
-   },
-   "properties": {
-    "streets": [
-     "2nd Street",
-     "King Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.44583945,
      37.782505150000006
     ]
@@ -109127,24 +109031,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.431128,
-     37.784441
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Geary Boulevard",
-     "Webster Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4312585,
-     37.78473675
+     -122.4311958,
+     37.7844325
     ]
    },
    "properties": {
@@ -109175,40 +109063,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4346143,
-     37.7843116
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Geary Boulevard",
-     "Steiner Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.469574,
      37.7925875
-    ]
-   },
-   "properties": {
-    "streets": [
-     "General Douglas MacArthur Tunnel;CA 1",
-     "Veterans Boulevard;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.46954059999999,
-     37.7943732
     ]
    },
    "properties": {
@@ -109239,8 +109095,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.46962415,
-     37.794374149999996
+     -122.4695914,
+     37.7961598
+    ]
+   },
+   "properties": {
+    "streets": [
+     "General Douglas MacArthur Tunnel;CA 1",
+     "Veterans Boulevard;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4695072,
+     37.7961589
     ]
    },
    "properties": {
@@ -109287,24 +109159,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.43705994999999,
-     37.8043655
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Beach Street",
-     "Fillmore Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.43949632500001,
-     37.7833146
+     -122.439496325,
+     37.783314600000004
     ]
    },
    "properties": {
@@ -109335,8 +109191,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4774093,
-     37.7175718
+     -122.4786543,
+     37.7184783
     ]
    },
    "properties": {
@@ -109367,8 +109223,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4786543,
-     37.7184783
+     -122.4774093,
+     37.7175718
     ]
    },
    "properties": {
@@ -109415,8 +109271,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.392205,
-     37.7572997
+     -122.397149,
+     37.7426745
     ]
    },
    "properties": {
@@ -109431,8 +109287,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3933421,
-     37.7653525
+     -122.392205,
+     37.7572997
     ]
    },
    "properties": {
@@ -109463,8 +109319,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3950909,
-     37.7670742
+     -122.3933421,
+     37.7653525
     ]
    },
    "properties": {
@@ -109479,8 +109335,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.397149,
-     37.7426745
+     -122.3950909,
+     37.7670742
     ]
    },
    "properties": {
@@ -109583,22 +109439,6 @@
     "streets": [
      "47th Avenue",
      "Sloat Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4062378,
-     37.7513789
-    ]
-   },
-   "properties": {
-    "streets": [
-     "25th Street",
-     "Potrero Avenue"
     ]
    }
   },
@@ -110041,8 +109881,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4029714,
-     37.7495355
+     -122.4053526,
+     37.7491264
     ]
    },
    "properties": {
@@ -110057,8 +109897,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4053526,
-     37.7491264
+     -122.4029714,
+     37.7495355
     ]
    },
    "properties": {
@@ -110123,8 +109963,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4750049,
-     37.8069452
+     -122.4746347,
+     37.80653
     ]
    },
    "properties": {
@@ -110139,8 +109979,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4746347,
-     37.80653
+     -122.4750049,
+     37.8069452
     ]
    },
    "properties": {
@@ -110415,38 +110255,6 @@
     "coordinates": [
      -122.4741623,
      37.8073076
-    ]
-   },
-   "properties": {
-    "streets": [
-     "US 101;CA 1",
-     "Vista Access Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4738858,
-     37.8072131
-    ]
-   },
-   "properties": {
-    "streets": [
-     "US 101;CA 1",
-     "Vista Access Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.47393215,
-     37.807180849999995
     ]
    },
    "properties": {
@@ -111345,6 +111153,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.4405741,
+     37.7297331
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 280",
+     "John F Foran Freeway;I 280"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.4321016,
      37.7320575
     ]
@@ -111363,38 +111187,6 @@
     "coordinates": [
      -122.432147,
      37.7322495
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 280",
-     "John F Foran Freeway;I 280"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4405741,
-     37.7297331
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 280",
-     "John F Foran Freeway;I 280"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.3952917,
-     37.7669154
     ]
    },
    "properties": {
@@ -111457,6 +111249,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.3952917,
+     37.7669154
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 280",
+     "John F Foran Freeway;I 280"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.3985522,
      37.7167576
     ]
@@ -111473,8 +111281,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3989424,
-     37.7188433
+     -122.3996997,
+     37.7177066
     ]
    },
    "properties": {
@@ -111505,8 +111313,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3996997,
-     37.7177066
+     -122.3989424,
+     37.7188433
     ]
    },
    "properties": {
@@ -111585,22 +111393,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.50249505,
-     37.726708
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Harding Road",
-     "Skyline Boulevard;CA 35"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.5025296,
      37.726623599999996
     ]
@@ -111619,22 +111411,6 @@
     "coordinates": [
      -122.4839522,
      37.727047049999996
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Lake Merced Boulevard",
-     "Winston Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4839505,
-     37.7269819
     ]
    },
    "properties": {
@@ -111731,22 +111507,6 @@
     "coordinates": [
      -122.4847947,
      37.7249295
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Lake Merced Boulevard",
-     "State Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.48469804999999,
-     37.724979450000006
     ]
    },
    "properties": {
@@ -112177,22 +111937,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3872277,
-     37.7449833
-    ]
-   },
-   "properties": {
-    "streets": [
-     "3rd Street",
-     "Burke Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.44027514999999,
      37.7160387
     ]
@@ -112339,6 +112083,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.4065756,
+     37.7730919
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 80",
+     "James Lick Freeway;I 80"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.4066189,
      37.7720567
     ]
@@ -112371,6 +112131,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.3918487,
+     37.7854613
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 80",
+     "James Lick Freeway;I 80"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.390902,
      37.7860172
     ]
@@ -112389,54 +112165,6 @@
     "coordinates": [
      -122.3646896,
      37.8104574
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 80",
-     "James Lick Freeway;I 80"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.3918298,
-     37.7854734
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 80",
-     "James Lick Freeway;I 80"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.3918487,
-     37.7854613
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 80",
-     "James Lick Freeway;I 80"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4065756,
-     37.7730919
     ]
    },
    "properties": {
@@ -112931,22 +112659,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4220562,
-     37.7730757
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Gough Street",
-     "Market Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.4218956,
      37.7729982
     ]
@@ -113061,38 +112773,6 @@
     "coordinates": [
      -122.475904,
      37.8068174
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cranston Road",
-     "Vista Access Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4759629,
-     37.806817
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cranston Road",
-     "Vista Access Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.47591919999999,
-     37.8068037
     ]
    },
    "properties": {
@@ -113475,40 +113155,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4759612,
-     37.73011915
-    ]
-   },
-   "properties": {
-    "streets": [
-     "20th Avenue",
-     "Buckingham Way"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.4616168,
      37.7514212
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Clarendon Avenue",
-     "Laguna Honda Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4615579,
-     37.7513657
     ]
    },
    "properties": {
@@ -113557,22 +113205,6 @@
     "coordinates": [
      -122.4554297,
      37.7431657
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Laguna Honda Boulevard",
-     "Portola Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4552058,
-     37.7430142
     ]
    },
    "properties": {
@@ -113651,8 +113283,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.46942715,
-     37.80068415
+     -122.4694163,
+     37.8012486
     ]
    },
    "properties": {
@@ -114439,8 +114071,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4066657,
-     37.7727807
+     -122.4043547,
+     37.7746083
     ]
    },
    "properties": {
@@ -114455,8 +114087,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4043547,
-     37.7746083
+     -122.4066657,
+     37.7727807
     ]
    },
    "properties": {
@@ -114536,7 +114168,7 @@
     "type": "Point",
     "coordinates": [
      -122.47566604999999,
-     37.74306300000001
+     37.743063
     ]
    },
    "properties": {
@@ -114647,8 +114279,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4472729,
-     37.7825285
+     -122.4473232,
+     37.7823853
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Geary Boulevard",
+     "Masonic Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4475031,
+     37.7822503
     ]
    },
    "properties": {
@@ -114727,22 +114375,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.48504650000001,
-     37.72408755
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Font Boulevard",
-     "Lake Merced Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.4958976,
      37.762744100000006
     ]
@@ -114761,22 +114393,6 @@
     "coordinates": [
      -122.495844,
      37.7608748
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Judah Street",
-     "Sunset Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.49576685,
-     37.7608782
     ]
    },
    "properties": {
@@ -115081,22 +114697,6 @@
     "coordinates": [
      -122.4551511,
      37.7236668
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Brighton Avenue",
-     "Ocean Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4552755,
-     37.723693
     ]
    },
    "properties": {
@@ -115431,6 +115031,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.3926171,
+     37.7519531
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 280",
+     "Pennsylvania Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.392734,
      37.7531466
     ]
@@ -115447,40 +115063,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3936734,
-     37.7632954
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 280",
-     "Pennsylvania Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.39255804999999,
-     37.75161905
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 280",
-     "Pennsylvania Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.3927828,
      37.7537182
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 280",
+     "Pennsylvania Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3936734,
+     37.7632954
     ]
    },
    "properties": {
@@ -115799,38 +115399,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.452455,
-     37.7285055
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Frida Kahlo Way",
-     "Judson Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4522244,
-     37.7282468
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Frida Kahlo Way",
-     "Judson Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.43975105000001,
      37.73158455
     ]
@@ -115879,8 +115447,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.44810755,
-     37.7212856
+     -122.44843385,
+     37.72140845
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Geneva Avenue",
+     "I 280"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.44778124999999,
+     37.721162750000005
     ]
    },
    "properties": {
@@ -116103,8 +115687,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.467108,
-     37.8026165
+     -122.4657077,
+     37.8021443
     ]
    },
    "properties": {
@@ -116119,8 +115703,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4657077,
-     37.8021443
+     -122.467108,
+     37.8026165
     ]
    },
    "properties": {
@@ -116647,6 +116231,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.4198263,
+     37.7322435
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alemany Boulevard",
+     "I 280"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.4194468,
      37.7316781
     ]
@@ -116665,22 +116265,6 @@
     "coordinates": [
      -122.4203647,
      37.7316169
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Alemany Boulevard",
-     "I 280"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4198263,
-     37.7322435
     ]
    },
    "properties": {
@@ -116807,8 +116391,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.40781,
-     37.7359334
+     -122.4071413,
+     37.7363445
     ]
    },
    "properties": {
@@ -116823,8 +116407,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.40819,
-     37.7376659
+     -122.40781,
+     37.7359334
     ]
    },
    "properties": {
@@ -116855,8 +116439,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4071845,
-     37.7362836
+     -122.40819,
+     37.7376659
     ]
    },
    "properties": {
@@ -117095,8 +116679,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4434192,
-     37.7465861
+     -122.44341785,
+     37.74655065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Diamond Heights Boulevard",
+     "Duncan Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.440118,
+     37.7453146
     ]
    },
    "properties": {
@@ -117129,38 +116729,6 @@
     "coordinates": [
      -122.4537663,
      37.75748835
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Clarendon Avenue",
-     "Dellbrook Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.4538135,
-     37.75743935
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Clarendon Avenue",
-     "Dellbrook Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.45370464999999,
-     37.75754355
     ]
    },
    "properties": {
@@ -117463,7 +117031,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.47464086666666,
+     -122.47464086666668,
      37.74310466666666
     ]
    },
@@ -117704,7 +117272,7 @@
     "type": "Point",
     "coordinates": [
      -122.49446011666667,
-     37.74223026666667
+     37.74223026666666
     ]
    },
    "properties": {
@@ -117991,22 +117559,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4508731,
-     37.8036125
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Girard Road",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.4509739,
      37.8036924
     ]
@@ -118023,8 +117575,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.45142735,
-     37.803368649999996
+     -122.4508731,
+     37.8036125
     ]
    },
    "properties": {
@@ -118519,7 +118071,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.50035070000001,
+     -122.5003507,
      37.741973333333334
     ]
    },

@@ -128978,22 +128978,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6579316,
-     35.62557435
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Golden Hill Road",
-     "Salida Del Sol Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.5004321,
      35.1853401
     ]
@@ -129122,8 +129106,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6436489,
-     35.6061205
+     -120.64355245,
+     35.60612125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Airport Road",
+     "Pioneer Trail Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6439209,
+     35.6043775
     ]
    },
    "properties": {
@@ -129650,8 +129650,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6731285,
-     35.249916999999996
+     -120.673594,
+     35.250595
     ]
    },
    "properties": {
@@ -129666,8 +129666,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.673594,
-     35.250595
+     -120.672425,
+     35.249643
     ]
    },
    "properties": {
@@ -129748,38 +129748,6 @@
     "coordinates": [
      -120.6069283,
      35.2048739
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Mira Cielo",
-     "Twin Creeks Way"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6068508,
-     35.2049424
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Mira Cielo",
-     "Twin Creeks Way"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6067771,
-     35.2050692
     ]
    },
    "properties": {
@@ -130434,8 +130402,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5386581,
-     35.0512471
+     -120.5386907,
+     35.0512782
     ]
    },
    "properties": {
@@ -130450,8 +130418,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5398904,
-     35.051104949999996
+     -120.5411227,
+     35.0509628
     ]
    },
    "properties": {
@@ -130514,8 +130482,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.67640399999999,
-     35.2474615
+     -120.675433,
+     35.247064
     ]
    },
    "properties": {
@@ -130530,8 +130498,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.67559,
-     35.246996499999995
+     -120.675363,
+     35.247125
     ]
    },
    "properties": {
@@ -130914,38 +130882,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.684253,
-     35.2593951
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Madonna Road",
-     "Oceanaire Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6842092,
-     35.2592428
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Madonna Road",
-     "Oceanaire Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.600557,
      35.108808
     ]
@@ -130980,6 +130916,22 @@
     "coordinates": [
      -120.666096,
      35.156845
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Baycliff Drive",
+     "Bayfront Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.665895,
+     35.156403999999995
     ]
    },
    "properties": {
@@ -132406,38 +132358,6 @@
     "coordinates": [
      -120.5351174,
      35.0474065
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Black Lake Canyon Drive",
-     "Willow Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.535304,
-     35.0474039
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Black Lake Canyon Drive",
-     "Willow Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.535185,
-     35.0474054
     ]
    },
    "properties": {
@@ -133972,8 +133892,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.08714235,
-     35.5448938
+     -121.0864177,
+     35.5445696
     ]
    },
    "properties": {
@@ -134404,8 +134324,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.66644600000001,
-     35.26087
+     -120.66567,
+     35.260731
     ]
    },
    "properties": {
@@ -134644,72 +134564,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.853802,
-     35.375722
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 1",
-     "Cabrillo Highway;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.8564616,
-     35.3828407
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 1",
-     "Cabrillo Highway;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.8198164,
-     35.3637322
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 1",
-     "Cabrillo Highway;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.9063116,
-     35.4534899
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 1",
-     "Cabrillo Highway;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.888515,
      35.4395424
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Cabrillo Highway;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.900239,
+     35.451201
     ]
    },
    "properties": {
@@ -134756,8 +134628,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.900239,
-     35.451201
+     -120.9063116,
+     35.4534899
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Cabrillo Highway;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8564616,
+     35.3828407
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Cabrillo Highway;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.853802,
+     35.375722
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Cabrillo Highway;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8198164,
+     35.3637322
     ]
    },
    "properties": {
@@ -135508,8 +135428,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8817288,
-     35.4274442
+     -120.8858251,
+     35.4336227
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cabrillo Highway;CA 1",
+     "Studio Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8776325,
+     35.4212657
     ]
    },
    "properties": {
@@ -136068,6 +136004,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.7114362,
+     35.5543645
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Las Tablas Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.7124104,
      35.5543596
     ]
@@ -136086,6 +136038,22 @@
     "coordinates": [
      -120.7126449,
      35.5543588
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Las Tablas Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7129194,
+     35.5543574
     ]
    },
    "properties": {
@@ -136600,8 +136568,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6819125,
-     35.4980518
+     -120.681954,
+     35.4980998
     ]
    },
    "properties": {
@@ -136616,8 +136584,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.681954,
-     35.4980998
+     -120.6819125,
+     35.4980518
     ]
    },
    "properties": {
@@ -137656,8 +137624,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.63827864999999,
-     35.4435207
+     -120.6387523,
+     35.4432999
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Barbara Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.637805,
+     35.4437415
     ]
    },
    "properties": {
@@ -138010,22 +137994,6 @@
     "coordinates": [
      -120.6794528,
      35.6311243
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Riverglen Drive",
-     "Union Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6795505,
-     35.63111105
     ]
    },
    "properties": {
@@ -138568,8 +138536,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.67736845,
-     35.6238546
+     -120.6773467,
+     35.6242612
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Navajo Avenue",
+     "Red Cloud Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6773902,
+     35.623448
     ]
    },
    "properties": {
@@ -139256,8 +139240,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.61987655,
-     35.136451
+     -120.6199138,
+     35.1368371
     ]
    },
    "properties": {
@@ -139304,7 +139288,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6053655,
+     -120.605942,
+     35.110668
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bakeman Lane",
+     "Farroll Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.604789,
      35.110668
     ]
    },
@@ -140072,8 +140072,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.876643,
-     35.72865
+     -120.878851,
+     35.728795
     ]
    },
    "properties": {
@@ -140088,8 +140088,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.877747,
-     35.7287225
+     -120.876643,
+     35.72865
     ]
    },
    "properties": {
@@ -140184,8 +140184,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6195019,
-     35.1344766
+     -120.6272063,
+     35.1364935
     ]
    },
    "properties": {
@@ -140200,8 +140200,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6272063,
-     35.1364935
+     -120.6195019,
+     35.1344766
     ]
    },
    "properties": {
@@ -141144,8 +141144,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.68739325,
-     35.2527233
+     -120.6875283,
+     35.2526208
     ]
    },
    "properties": {
@@ -141160,8 +141160,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.69543996666665,
-     35.68260076666666
+     -120.6876562,
+     35.2525518
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Froom Ranch Way",
+     "Los Osos Valley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.69611345,
+     35.667174149999994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Monterey Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.694093,
+     35.713454
     ]
    },
    "properties": {
@@ -141432,8 +141464,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6408387,
-     35.1432391
+     -120.645737,
+     35.147685
     ]
    },
    "properties": {
@@ -141448,8 +141480,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.645737,
-     35.147685
+     -120.6408387,
+     35.1432391
     ]
    },
    "properties": {
@@ -141496,6 +141528,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.5641064,
+     35.1115023
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.513021,
      35.0681335
     ]
@@ -141514,22 +141562,6 @@
     "coordinates": [
      -120.504583,
      35.05892
-    ]
-   },
-   "properties": {
-    "streets": [
-     "El Camino Real;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.5641064,
-     35.1115023
     ]
    },
    "properties": {
@@ -141578,8 +141610,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.903176,
-     35.4531042
+     -120.9028819,
+     35.4535124
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Cayucos Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9034701,
+     35.452696
     ]
    },
    "properties": {
@@ -141610,8 +141658,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6275985,
-     35.3834451
+     -120.6325795,
+     35.3820664
     ]
    },
    "properties": {
@@ -141626,8 +141674,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6325795,
-     35.3820664
+     -120.6275985,
+     35.3834451
     ]
    },
    "properties": {
@@ -141658,40 +141706,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8527102,
-     35.3756002
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 1",
-     "Main Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.8526518,
-     35.3755345
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 1",
-     "Main Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.8524898,
      35.3753759
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8514231,
+     35.37311
     ]
    },
    "properties": {
@@ -141786,22 +141818,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8336733,
-     35.32066295
-    ]
-   },
-   "properties": {
-    "streets": [
-     "9th Street",
-     "Ramona Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.83539655,
      35.3299965
     ]
@@ -141850,24 +141866,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6895144,
-     35.166577
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cabrillo Highway;US 101;CA 1",
-     "US 101;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6972465,
-     35.1756517
+     -120.673544,
+     35.2608629
     ]
    },
    "properties": {
@@ -141930,22 +141930,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.673544,
-     35.2608629
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cabrillo Highway;US 101;CA 1",
-     "US 101;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.6800193,
      35.2484978
     ]
@@ -141978,72 +141962,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.6972465,
+     35.1756517
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cabrillo Highway;US 101;CA 1",
+     "US 101;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6895144,
+     35.166577
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cabrillo Highway;US 101;CA 1",
+     "US 101;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.6862197,
      35.6189364
-    ]
-   },
-   "properties": {
-    "streets": [
-     "El Camino Real;US 101;CA 46",
-     "US 101;CA 46"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6865716,
-     35.6310617
-    ]
-   },
-   "properties": {
-    "streets": [
-     "El Camino Real;US 101;CA 46",
-     "US 101;CA 46"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6917688,
-     35.6101228
-    ]
-   },
-   "properties": {
-    "streets": [
-     "El Camino Real;US 101;CA 46",
-     "US 101;CA 46"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6856555,
-     35.634688
-    ]
-   },
-   "properties": {
-    "streets": [
-     "El Camino Real;US 101;CA 46",
-     "US 101;CA 46"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6868592,
-     35.63024
     ]
    },
    "properties": {
@@ -142090,8 +142042,72 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.6917688,
+     35.6101228
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101;CA 46",
+     "US 101;CA 46"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.6922178,
      35.606433
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101;CA 46",
+     "US 101;CA 46"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6868592,
+     35.63024
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101;CA 46",
+     "US 101;CA 46"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6865716,
+     35.6310617
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101;CA 46",
+     "US 101;CA 46"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6856555,
+     35.634688
     ]
    },
    "properties": {
@@ -142426,8 +142442,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8402228,
-     35.3667916
+     -120.8398884,
+     35.3669821
     ]
    },
    "properties": {
@@ -142442,8 +142458,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8398884,
-     35.3669821
+     -120.8402228,
+     35.3667916
     ]
    },
    "properties": {
@@ -142716,6 +142732,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.6633225,
+     35.48502
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.6635382,
      35.4851909
     ]
@@ -142748,6 +142780,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.6638581,
+     35.4854422
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.7032944,
      35.5251834
     ]
@@ -142766,38 +142814,6 @@
     "coordinates": [
      -120.7032369,
      35.5253711
-    ]
-   },
-   "properties": {
-    "streets": [
-     "El Camino Real",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6638581,
-     35.4854422
-    ]
-   },
-   "properties": {
-    "streets": [
-     "El Camino Real",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6633225,
-     35.48502
     ]
    },
    "properties": {
@@ -142908,8 +142924,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.50146835000001,
-     35.0550135
+     -120.5020623,
+     35.054554
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "Willow Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5008744,
+     35.055473
     ]
    },
    "properties": {
@@ -143278,38 +143310,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.7551394,
-     35.1750186
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Avila Beach Drive",
-     "Diablo Canyon Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.7555206,
-     35.1747523
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Avila Beach Drive",
-     "Diablo Canyon Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.569184,
      35.071726
     ]
@@ -143342,8 +143342,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.7020021,
-     35.56584105
+     -120.7015282,
+     35.5654545
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Main Street",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.702476,
+     35.5662276
     ]
    },
    "properties": {
@@ -143440,22 +143456,6 @@
     "coordinates": [
      -120.6350128,
      35.4496172
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cashin Street",
-     "El Camino Real"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6350123,
-     35.44953375
     ]
    },
    "properties": {
@@ -143952,22 +143952,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6556001,
-     35.6298605
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Golden Hill Road",
-     "Vista Colina"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.7130303,
      35.5543578
     ]
@@ -144016,8 +144000,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6409328,
-     35.662891
+     -120.64096,
+     35.662336
     ]
    },
    "properties": {
@@ -144032,8 +144016,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.64096,
-     35.662336
+     -120.6409328,
+     35.662891
     ]
    },
    "properties": {
@@ -144080,8 +144064,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6992863,
-     35.1960624
+     -120.6984196,
+     35.1960278
+    ]
+   },
+   "properties": {
+    "streets": [
+     "San Luis Bay Drive",
+     "US 101;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.700153,
+     35.196097
     ]
    },
    "properties": {
@@ -144832,54 +144832,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6251222,
-     35.2503905
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Orcutt Road",
-     "Roundabout Tank Farm and Orcutt Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6251731,
-     35.2504277
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Orcutt Road",
-     "Roundabout Tank Farm and Orcutt Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6253387,
-     35.250421
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Orcutt Road",
-     "Roundabout Tank Farm and Orcutt Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.6832563,
      35.6540545
     ]
@@ -145136,102 +145088,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6764465,
-     35.6547767
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Palazzo Lane",
-     "Village Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6764465,
-     35.6547541
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Palazzo Lane",
-     "Village Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6763982,
-     35.65471745
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Palazzo Lane",
-     "Village Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6762426,
-     35.6546895
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Palazzo Lane",
-     "Village Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6761889,
-     35.6547634
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Palazzo Lane",
-     "Village Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.676245,
-     35.654827499999996
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Palazzo Lane",
-     "Village Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.6780523,
      35.6536082
     ]
@@ -145248,104 +145104,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6780138,
-     35.65358005
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Domain Lane",
-     "Village Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.677861,
-     35.6535667
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Domain Lane",
-     "Village Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6777983,
-     35.6536303
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Domain Lane",
-     "Village Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.6801825,
      35.6531378
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Enclave Court",
-     "Village Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6803303,
-     35.6532032
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Enclave Court",
-     "Village Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.6804429,
-     35.6531378
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Enclave Court",
-     "Village Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.68019029999999,
-     35.65306335
     ]
    },
    "properties": {

@@ -167,7 +167,7 @@ function initWayData(obj) {
 			}
 		}
 	}
-		
+
 	//const mapNodeIdToNames = new Map(); // populated by initWayData global
 	var wayData = [];
 	// loop through all the named ways
@@ -225,7 +225,7 @@ function initWayData(obj) {
 			const tags = way.tags
 			// can get a name from nodes[0]?
 			const firstNode = nodes[0]; const lastNode = nodes[nodes.length - 1];
-			const lastNodeWays =  mapNodeIdToWays.get(lastNode);
+			const lastNodeWays = mapNodeIdToWays.get(lastNode);
 			const firstNodeWays = mapNodeIdToWays.get(firstNode);
 
 			if (firstNodeWays) {
@@ -236,7 +236,7 @@ function initWayData(obj) {
 
 				for (const wayIntersecting of firstNodeWays) {
 					const typeIntersecting = wayIntersecting.tags.highway;
-	
+
 					if ((typeIntersecting == 'motorway') && (wayIntersecting.tags.ref)) {
 						wayNameFirst = wayIntersecting.tags.ref;
 						break;
@@ -245,7 +245,7 @@ function initWayData(obj) {
 						wayNameFirst = wayIntersecting.tags.name
 						break;
 					}
-					
+
 					/*const nameIntersecting = wayIntersecting.tags.name;
 					const typeIntersecting = wayIntersecting.tags.highway;
 
@@ -257,10 +257,10 @@ function initWayData(obj) {
 					}*/
 				}
 
-				
+
 				for (const wayIntersecting of lastNodeWays) {
 					const typeIntersecting = wayIntersecting.tags.highway;
-	
+
 					if ((typeIntersecting == 'motorway') && (wayIntersecting.tags.ref)) {
 						wayNameLast = wayIntersecting.tags.ref;
 						break;
@@ -291,7 +291,7 @@ function initWayData(obj) {
 				//const name = wayNamed.tags.name;
 				const name = wayName;
 
-				console.log( "naming motorway link ", name)
+				console.log("naming motorway link ", name)
 				way.tags.name = name;
 
 				setMotorwayLinks.delete(way)
@@ -311,35 +311,35 @@ function initWayData(obj) {
 		}
 
 
+
+		/*  name from first node 
+				for (const way of setMotorwayLinks) {
+					const geometry = way.geometry; // list of lat long 
+					const nodes = way.nodes; // list of node ids
+					const tags = way.tags
+					// can get a name from nodes[0]?
+					const firstNode = nodes[0]; const lastNode = nodes[nodes.length - 1];
+					const firstNodeNames = mapNodeIdToNames.get(firstNode);
+					if (firstNodeNames) {
+						const name = Array.from(firstNodeNames)[0];
+						console.log( "naming motorway link ", name)
+						way.tags.name = name;
 		
-/*  name from first node 
-		for (const way of setMotorwayLinks) {
-			const geometry = way.geometry; // list of lat long 
-			const nodes = way.nodes; // list of node ids
-			const tags = way.tags
-			// can get a name from nodes[0]?
-			const firstNode = nodes[0]; const lastNode = nodes[nodes.length - 1];
-			const firstNodeNames = mapNodeIdToNames.get(firstNode);
-			if (firstNodeNames) {
-				const name = Array.from(firstNodeNames)[0];
-				console.log( "naming motorway link ", name)
-				way.tags.name = name;
-
-				setMotorwayLinks.delete(way)
-
-				for (let i = 0; i < nodes.length; i++) {
-					mapNodeIdToGps.set(nodes[i], geometry[i])
-					const n = mapNodeIdToNames.get(nodes[i]);
-					if (n) {
-						n.add(name);
-					} else {
-						mapNodeIdToNames.set(nodes[i], new Set([name]));
+						setMotorwayLinks.delete(way)
+		
+						for (let i = 0; i < nodes.length; i++) {
+							mapNodeIdToGps.set(nodes[i], geometry[i])
+							const n = mapNodeIdToNames.get(nodes[i]);
+							if (n) {
+								n.add(name);
+							} else {
+								mapNodeIdToNames.set(nodes[i], new Set([name]));
+							}
+						}
+						wayData.push({ 'name': name, 'geometry': geometry, 'nodes': nodes, 'highway': tags.highway });
 					}
-				}
-				wayData.push({ 'name': name, 'geometry': geometry, 'nodes': nodes, 'highway': tags.highway });
-			}
-
-		}*/
+		
+				}*/
 
 		const endSize = setMotorwayLinks.size;
 
@@ -375,7 +375,7 @@ function initWayData(obj) {
 		// make a list of motorway links, and name them from their adjacent motorways
 		// ?????
 
-		var fakeNames = new Set(['JUNCTION']); // not working for motorway_linnks
+		let fakeNames = new Set(['JUNCTION']); // not working for motorway_linnks
 		const MOTORWAY_LINK = 'motorway_link';
 
 		// on off ramps are also unnamed
@@ -516,7 +516,7 @@ function avgGps(iter) {
 	console.log(iter.length);
 
 	const n = iter.length;
-	var latSum = 0, lonSum = 0;
+	let latSum = 0, lonSum = 0;
 	for (const i of iter) {
 		latSum += i.coordinates[0];
 		lonSum += i.coordinates[1];
@@ -574,7 +574,7 @@ function removeJUNCTIONS(obj) {
 	for (const int of intersections) {
 
 		const streets = int.streets;
-		var arrStreets = streets.split(slash).filter((e) => !(e == JUNCTION))
+		let arrStreets = streets.split(slash).filter((e) => !(e == JUNCTION))
 		if (arrStreets.length > 1) {
 			int.streets = arrStreets.join(slash);
 			output.push(int);
@@ -610,15 +610,91 @@ function distArrArr(a1, a2) {
 	When a street crosses a boulevard, you get an intersection on both sides
 	average them
 	updates obj.intersections
+
+	TODO limit to short distances. i.e. 50 meters?
 */
-function averageBoulevardDuplicates(obj) {
+
+function processCloseGroup(str, matches) {
+
+	
+	if (matches.length <= 1) {
+		return matches;
+	}
+
+	const output = [];
+
+	// figure out which ones are close by each other, and which are not
+	// sort array by distance from first element
+	// take the ones that are within 100 meters of the first one as a group
+	// repeat
+
+
+	// check for deadends
+	let deadEndCount = 0;
+
+	for (const m of matches) {
+		if (isDeadEnd(m.nodeId)) {
+			deadEndCount++;
+			console.log("DeadEnd Node Id: ", m.nodeId, " for intersections ", str);
+		}
+	}
+
+	// handle the "simple" case of several node intersections for the same street crossing
+	if (0 == deadEndCount) {
+		const avg = avgGps(matches);
+		output.push(avg);
+		return output
+	}
+
+	// 2 nodes 1 dead end is a street dead ending at a boulevard
+	if (matches.length == 2) {
+		if (deadEndCount == 1) {
+			// fix Regal / Cragmont with a 50 meter width limit for boulevards????
+			if (distArrArr(matches[0].coordinates, matches[1].coordinates) < 50) {
+				const avg = avgGps(matches);
+				output.push(avg);
+				return output
+			} else {
+				// too far
+				console.log("Not coalescing ", matches[0].streets);
+				output.push(matches[0]);
+				output.push(matches[1]);
+				return output
+			}
+		}
+		// 2 nodes 2 dead end is a street offset crossing another street
+		if (deadEndCount == 2) {
+			for (const inter of matches) {
+				output.push(inter);
+			}
+			return output
+		}
+	}
+
+	for (const m of matches) {
+		if (isDeadEnd(m.nodeId)) {
+			const other = findNeighbor(matches, m.nodeId);
+			if (other) {
+				const avg = avgGps([other, m]);
+				output.push(avg);
+				return output
+
+			} else {
+				output.push(m);
+			}
+		}
+	}
+	return output
+
+}
+function averageNearbyBoulevardDuplicates(obj) {
 	const intersections = obj.intersections;
 	const mapStreetsToCount = new Map();
 	// make a map of intersection streets to 0
 	for (const int of intersections) {
 		mapStreetsToCount.set(int.streets, 0);
 	}
-	// count up the number of intersections 
+	// count up the number of intersections with the same street names
 	for (const int of intersections) {
 		incrementMap(mapStreetsToCount, int.streets);
 	}
@@ -638,7 +714,74 @@ function averageBoulevardDuplicates(obj) {
 	// TODO filter out the sets the contain deadends
 
 	// average the dupeStreets!
-	for (const str of dupeStreetSet) {
+	for (const str of dupeStreetSet) {  // 9th & G in Yuba County Marysville & Beale AFB
+		console.log("AVG", str);
+
+		if (str.includes("11th Street/G Stree")) {
+			console.log("break");
+		}
+
+		// get the matching intersections
+		let matches = intersections.filter((elt) => elt.streets == str);
+
+
+		while (matches.length > 0) {
+
+			let base = matches[0].coordinates;
+			matches.sort((a, b) => distArrArr(a.coordinates, base) - distArrArr(b.coordinates, base));
+			const closeGroup = matches.filter((a) => (distArrArr(a.coordinates, base) < 50));
+
+			if (matches.length > closeGroup.length) {
+				console.log("unrelated intersectiosn with same street names", str, matches.length, matches[0].coordinates, matches[1].coordinates)
+
+			}
+
+			const toPush = processCloseGroup(str, closeGroup);
+
+			for (const i of toPush) {
+				output.push(i)
+			}
+
+			matches = matches.slice(closeGroup.length);
+
+		}
+
+	}
+	console.log(intersections.length)
+	console.log(output.length);
+	obj.intersections = output;
+
+}
+
+
+function averageBoulevardDuplicates(obj) {
+	const intersections = obj.intersections;
+	const mapStreetsToCount = new Map();
+	// make a map of intersection streets to 0
+	for (const int of intersections) {
+		mapStreetsToCount.set(int.streets, 0);
+	}
+	// count up the number of intersections with the same street names
+	for (const int of intersections) {
+		incrementMap(mapStreetsToCount, int.streets);
+	}
+	const output = [];
+	const dupeStreetSet = new Set();
+	// make a list of the intersections with dupes
+	for (const int of intersections) {
+		const ct = mapStreetsToCount.get(int.streets);
+
+		if (ct == 1) {
+			output.push(int);
+		} else {
+			dupeStreetSet.add(int.streets);  // TODO only add if in same city or if close by???
+		}
+	}
+
+	// TODO filter out the sets the contain deadends
+
+	// average the dupeStreets!
+	for (const str of dupeStreetSet) {  // 9th & G in Yuba County Marysville & Beale AFB
 		console.log("AVG", str);
 		if (str.includes("Regal")) {
 			console.log("stop here")
@@ -648,7 +791,7 @@ function averageBoulevardDuplicates(obj) {
 		const matches = intersections.filter((elt) => elt.streets == str);
 
 		// check for deadends
-		var deadEndCount = 0;
+		let deadEndCount = 0;
 
 		for (const m of matches) {
 			if (isDeadEnd(m.nodeId)) {
@@ -738,7 +881,7 @@ Freeways are tagged as hightway motorway, and the on and off ramps are motorway_
 // don't rreport those intersections thaat re along on and offramps
 function notAllMotorwayLinks(nodeId) {
 
-	const  setWays = mapNodeIdToWays.get(nodeId);
+	const setWays = mapNodeIdToWays.get(nodeId);
 
 	for (const way of setWays) {
 		if (way.tags.highway != 'motorway_link') {
@@ -746,6 +889,13 @@ function notAllMotorwayLinks(nodeId) {
 		}
 	}
 	return false;
+}
+
+function debugStreet( street, intersections) {
+	const interesting = intersections.filter( (i) => (i.streets.includes(street)));
+	for (const i of interesting) {
+		console.log(i);
+	}
 }
 function findintersections(ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
 {
@@ -780,9 +930,10 @@ function findintersections(ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
 
 			// offsets can mean there are 2 intersections of the same streets!!!
 			// e.g. Dohr and Ashby (2)
-			var intString = makeIntersectionString(nameSet);
+			let intString = makeIntersectionString(nameSet);
+
 			if (setOfIntersections.has(intString)) {
-				for (var suffix = 2; suffix < 10; suffix++) {
+				for (let suffix = 2; suffix < 10; suffix++) {
 					const suffixName = intString + underscore + suffix;
 					if (!setOfIntersections.has(suffixName)) {
 						intString = suffixName;
@@ -794,6 +945,10 @@ function findintersections(ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
 			const data = { lat: gps.lat, lon: gps.lon, nodeId: node };
 
 			setOfIntersections.set(intString, data);
+
+			if (intString.includes("Buchanan")) {
+			//	console.log("break ", intString)
+			}
 		}
 	}
 
@@ -810,15 +965,18 @@ function findintersections(ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
 		}
 	}
 
+//	debugStreet("Buchanan",obj.intersections);
+
 	// filter out identical named intersections with closeby gps coordiinates
 	averageJunctionDuplicates(obj);
 
+//	debugStreet("Buchanan",obj.intersections);
 	// filter out identically named intersections at boulevard crossings
-	averageBoulevardDuplicates(obj);
-
+	averageNearbyBoulevardDuplicates(obj);
+//	debugStreet("Buchanan",obj.intersections);
 	// remove JUNCTIONS
 	removeJUNCTIONS(obj);
-
+	//debugStreet("Buchanan",obj.intersections);
 	return obj;
 }
 

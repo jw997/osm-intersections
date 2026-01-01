@@ -19655,6 +19655,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.531864,
+     41.513801
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Baldpate Drive",
+     "Goose Loop"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.369855,
      41.591764
     ]
@@ -19703,40 +19719,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -121.1460502,
+     41.2096795
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lookout Hackamore Road",
+     "Lookout Hackamore Road;CR 91"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.1350022,
+     41.2292242
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lookout Hackamore Road",
+     "Lookout Hackamore Road;CR 91"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -121.1348259,
      41.2294796
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Lookout Hackamore Road",
-     "Lookout Hackamore Road;CR 91"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.13491404999999,
-     41.2293519
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Lookout Hackamore Road",
-     "Lookout Hackamore Road;CR 91"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -121.14579125,
-     41.209501
     ]
    },
    "properties": {
@@ -20889,8 +20905,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.991333,
-     41.496162
+     -121.004862,
+     41.473875
     ]
    },
    "properties": {
@@ -20905,8 +20921,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0047455,
-     41.4795535
+     -120.991333,
+     41.496162
     ]
    },
    "properties": {
@@ -21001,8 +21017,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.375592,
-     41.74859
+     -120.375187,
+     41.715611
     ]
    },
    "properties": {
@@ -21017,8 +21033,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3753895,
-     41.7321005
+     -120.375592,
+     41.74859
     ]
    },
    "properties": {
@@ -21161,8 +21177,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.4180861,
-     41.9294226
+     -121.4180916,
+     41.9292543
     ]
    },
    "properties": {
@@ -21177,8 +21193,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.41808885,
-     41.92933845
+     -121.4180861,
+     41.9294226
     ]
    },
    "properties": {

@@ -100369,8 +100369,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2807518,
-     40.3968348
+     -122.280742,
+     40.397758
     ]
    },
    "properties": {
@@ -100385,8 +100385,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2807469,
-     40.3972964
+     -122.2807518,
+     40.3968348
     ]
    },
    "properties": {
@@ -100425,22 +100425,6 @@
     "streets": [
      "South Fairfield Street",
      "State Route 299;CA 299"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.288467,
-     40.4346701
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Old Highway 99;CA 273",
-     "Pleasant Hills Drive"
     ]
    }
   },
@@ -100497,40 +100481,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2857428,
-     40.434596
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cascade Wonderland Highway;I 5",
-     "I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.36551,
      40.620069
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cascade Wonderland Highway;I 5",
-     "I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.289249,
-     41.18383
     ]
    },
    "properties": {
@@ -100577,8 +100529,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2876163,
-     40.4405519
+     -122.289249,
+     41.18383
     ]
    },
    "properties": {
@@ -100595,6 +100547,38 @@
     "coordinates": [
      -122.2879104,
      40.4406218
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2876163,
+     40.4405519
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2857428,
+     40.434596
     ]
    },
    "properties": {
@@ -100915,6 +100899,22 @@
     "coordinates": [
      -122.463369,
      40.625355
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Market Street",
+     "Sacramento Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3896094,
+     40.5813961
     ]
    },
    "properties": {
@@ -101653,8 +101653,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4151655,
-     40.9986505
+     -122.41447,
+     40.998131
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Pollard Camp Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.415861,
+     40.99917
     ]
    },
    "properties": {
@@ -101797,8 +101813,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9181435,
-     40.686828500000004
+     -121.905772,
+     40.685516
     ]
    },
    "properties": {
@@ -101813,8 +101829,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.901678,
-     40.685407
+     -121.897584,
+     40.685298
     ]
    },
    "properties": {
@@ -101829,8 +101845,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.89403,
-     40.685452
+     -121.890476,
+     40.685606
     ]
    },
    "properties": {
@@ -102101,8 +102117,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.33879999999999,
-     40.856907
+     -122.338752,
+     40.856212
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lundgren Mountain Road",
+     "Solus Campground Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.338848,
+     40.857602
     ]
    },
    "properties": {
@@ -103063,8 +103095,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.1899699,
-     40.527297950000005
+     -122.188406,
+     40.529131
     ]
    },
    "properties": {
@@ -103399,8 +103431,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.23386450000001,
-     40.661487
+     -122.233558,
+     40.661845
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Oak Knoll",
+     "Olympia Way Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.230862,
+     40.6493413
     ]
    },
    "properties": {
@@ -104007,8 +104055,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.237031,
-     40.729579
+     -122.240126,
+     40.73456
     ]
    },
    "properties": {
@@ -104023,8 +104071,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.240126,
-     40.73456
+     -122.237031,
+     40.729579
     ]
    },
    "properties": {
@@ -104087,8 +104135,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.372443,
-     40.870188999999996
+     -122.368964,
+     40.870644
     ]
    },
    "properties": {
@@ -104135,8 +104183,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3549222,
-     40.8592186
+     -122.361794,
+     40.8637882
     ]
    },
    "properties": {
@@ -104151,8 +104199,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.361794,
-     40.8637882
+     -122.3549222,
+     40.8592186
     ]
    },
    "properties": {
@@ -104215,24 +104263,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.433299,
-     40.852546
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Lakeshore Drive",
-     "Whiskeytown-Shasta-Trinity Nra"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.384624,
-     40.905722
+     -122.384293,
+     40.904519
     ]
    },
    "properties": {
@@ -104263,8 +104295,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.384293,
-     40.904519
+     -122.384624,
+     40.905722
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lakeshore Drive",
+     "Whiskeytown-Shasta-Trinity Nra"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.433299,
+     40.852546
     ]
    },
    "properties": {
@@ -105591,8 +105639,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.34148795,
-     40.51564925
+     -122.2962136,
+     40.449831
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Street",
+     "South Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3867623,
+     40.5814675
     ]
    },
    "properties": {
@@ -106439,8 +106503,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3493006,
-     40.6137309
+     -122.34937105,
+     40.61390915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Hawley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3496068,
+     40.6140558
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Hawley Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35006394999999,
+     40.6154375
     ]
    },
    "properties": {
@@ -106857,22 +106953,6 @@
     "coordinates": [
      -122.3490091,
      40.5380416
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Churn Creek Road",
-     "South Bonnyview Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.34897335,
-     40.53810245
     ]
    },
    "properties": {
@@ -108009,6 +108089,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.31950814999999,
+     40.62295625
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old Oregon Trail",
+     "Shasta College Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.3237066,
      40.628814
     ]
@@ -108233,8 +108329,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3089524,
-     40.46785885
+     -122.3092265,
+     40.4677459
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Ox Yoke Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3086783,
+     40.4679718
     ]
    },
    "properties": {
@@ -108635,6 +108747,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.38029660000001,
+     40.5298589
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Eastside Road",
+     "South Bonnyview Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.3776187,
      40.5305863
     ]
@@ -109019,8 +109147,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2951293,
-     40.4587763
+     -122.2950793,
+     40.458780899999994
     ]
    },
    "properties": {
@@ -109035,8 +109163,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.29503335,
-     40.4583473
+     -122.2949374,
+     40.4579183
     ]
    },
    "properties": {
@@ -109883,8 +110011,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3929983,
-     40.5959547
+     -122.39301904999999,
+     40.595998949999995
     ]
    },
    "properties": {
@@ -109917,22 +110045,6 @@
     "coordinates": [
      -122.3880633,
      40.5686313
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Grange Street",
-     "South Market Street;CA 273"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.38799825000001,
-     40.568904950000004
     ]
    },
    "properties": {
@@ -110091,8 +110203,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3625744,
-     40.6124892
+     -122.3668033,
+     40.6117535
     ]
    },
    "properties": {
@@ -110107,8 +110219,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3668033,
-     40.6117535
+     -122.3660516,
+     40.6118125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highway 299;CA 299",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36249345,
+     40.6124418
     ]
    },
    "properties": {
@@ -110587,8 +110715,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.302592,
-     40.505518
+     -122.301507,
+     40.5055214
     ]
    },
    "properties": {
@@ -110603,8 +110731,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.30204950000001,
-     40.5055197
+     -122.302592,
+     40.505518
     ]
    },
    "properties": {
@@ -110763,40 +110891,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3940443,
-     40.5865826
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Center Street",
-     "Division Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.3942216,
-     40.5865444
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Center Street",
-     "Division Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.39416705,
-     40.586565
+     -122.394459,
+     40.5865105
     ]
    },
    "properties": {
@@ -111115,8 +111211,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3967822,
-     40.6593696
+     -122.396798,
+     40.658362
     ]
    },
    "properties": {
@@ -111451,8 +111547,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.38566215,
-     40.910579150000004
+     -122.3863836,
+     40.9102632
     ]
    },
    "properties": {
@@ -111467,8 +111563,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.30054845000001,
-     40.561061550000005
+     -122.3849407,
+     40.9108951
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Riverview Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3012934,
+     40.5597262
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Old Oregon Trail"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2998035,
+     40.5623969
     ]
    },
    "properties": {
@@ -111563,8 +111691,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6063715,
-     40.938573500000004
+     -122.605363,
+     40.939966
     ]
    },
    "properties": {
@@ -111579,8 +111707,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6051815,
-     40.9420245
+     -122.605,
+     40.944083
     ]
    },
    "properties": {
@@ -111595,8 +111723,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.604804,
-     40.944289
+     -122.604608,
+     40.944495
     ]
    },
    "properties": {
@@ -111691,8 +111819,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3146557,
-     40.6214932
+     -122.3459778,
+     40.6155405
     ]
    },
    "properties": {
@@ -111723,6 +111851,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.3608057,
+     40.612739250000004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Highway 299;CA 299"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.3245207,
      40.619726
     ]
@@ -111739,24 +111883,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3459778,
-     40.6155405
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 299",
-     "Highway 299;CA 299"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2415574,
-     40.6385858
+     -122.3146557,
+     40.6214932
     ]
    },
    "properties": {
@@ -111787,8 +111915,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3608057,
-     40.612739250000004
+     -122.2415574,
+     40.6385858
     ]
    },
    "properties": {
@@ -111995,6 +112123,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.3518126,
+     40.5384766
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "South Bonnyview Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.321971,
      40.731405
     ]
@@ -112059,6 +112203,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.331953,
+     41.108049
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Conant Road",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.326383,
      41.123098
     ]
@@ -112107,8 +112267,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3606394,
-     40.5797763
+     -122.360388,
+     40.5852161
     ]
    },
    "properties": {
@@ -112123,8 +112283,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.360388,
-     40.5852161
+     -122.3606394,
+     40.5797763
     ]
    },
    "properties": {
@@ -112283,22 +112443,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3255997,
-     40.5712373
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 44",
-     "Shasta View Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.3249005,
      40.574543
     ]
@@ -112315,8 +112459,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.3249422,
+     40.5743667
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Shasta View Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.3251391,
      40.5734618
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Shasta View Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3254906,
+     40.5719643
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Shasta View Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3255997,
+     40.5712373
     ]
    },
    "properties": {
@@ -112395,24 +112587,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3362118,
-     40.5055379
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 5",
-     "Knighton Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.3362575,
-     40.5055371
+     -122.339859,
+     40.5055492
     ]
    },
    "properties": {
@@ -112443,6 +112619,54 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.3362575,
+     40.5055371
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Knighton Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3362118,
+     40.5055379
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Knighton Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3637263,
+     40.6413243
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Oasis Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.36543,
      40.6416824
     ]
@@ -112459,8 +112683,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.35558085,
-     40.663551299999995
+     -122.3663456,
+     40.6418795
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Oasis Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3548257,
+     40.6633551
     ]
    },
    "properties": {
@@ -112475,8 +112715,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.29744475,
-     41.16260655
+     -122.356336,
+     40.6637475
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Pine Grove Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2970326,
+     41.1626753
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Soda Creek Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2978569,
+     41.1625378
     ]
    },
    "properties": {
@@ -112557,38 +112829,6 @@
     "coordinates": [
      -122.3788169,
      40.579445
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Canal Drive",
-     "South Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.3787741,
-     40.5794293
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Canal Drive",
-     "South Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.3785311,
-     40.5793104
     ]
    },
    "properties": {
@@ -112827,8 +113067,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.399174,
-     40.5862538
+     -122.3985948,
+     40.5862125
     ]
    },
    "properties": {
@@ -112843,8 +113083,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3985046,
-     40.586212
+     -122.399174,
+     40.5862538
     ]
    },
    "properties": {
@@ -112989,22 +113229,6 @@
     "coordinates": [
      -122.2899675,
      40.4335609
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Pleasant Hills Drive",
-     "Rhonda Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.2898087,
-     40.433617600000005
     ]
    },
    "properties": {
@@ -113307,8 +113531,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3183324,
-     40.619899
+     -122.31895789999999,
+     40.621468500000006
     ]
    },
    "properties": {
@@ -113325,6 +113549,22 @@
     "coordinates": [
      -122.3185146,
      40.619943
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Old Oregon Trail"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3183324,
+     40.619899
     ]
    },
    "properties": {
@@ -113451,8 +113691,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3655661,
-     40.6231477
+     -122.3673098,
+     40.6228362
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Twin View Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3657319,
+     40.62311965
     ]
    },
    "properties": {
@@ -113579,6 +113835,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -122.359344,
+     40.571032450000004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cypress Avenue",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -122.3589008,
      40.5710991
     ]
@@ -113597,38 +113869,6 @@
     "coordinates": [
      -122.3578812,
      40.5841014
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 44",
-     "Hilltop Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.3578796,
-     40.5840156
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 44",
-     "Hilltop Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.357899,
-     40.5845233
     ]
    },
    "properties": {
@@ -113675,8 +113915,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.28713525,
-     40.38931049999999
+     -122.3387306,
+     40.5806237
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Victor Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2868505,
+     40.389312
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gas Point Road",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28742,
+     40.389309
     ]
    },
    "properties": {

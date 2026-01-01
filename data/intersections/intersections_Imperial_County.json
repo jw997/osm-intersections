@@ -96762,88 +96762,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -116.1026451,
-     32.6787512
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 8",
-     "Route 8;I 8"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -116.0969734,
-     32.6745354
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 8",
-     "Route 8;I 8"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -115.9911174,
-     32.7347731
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 8",
-     "Route 8;I 8"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -115.9902507,
-     32.7353201
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 8",
-     "Route 8;I 8"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -115.8051397,
-     32.767746
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 8",
-     "Route 8;I 8"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -115.7967455,
-     32.7694636
+     -115.6866841,
+     32.7737864
     ]
    },
    "properties": {
@@ -96874,8 +96794,88 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.6866841,
-     32.7737864
+     -115.7967455,
+     32.7694636
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 8",
+     "Route 8;I 8"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.8051397,
+     32.767746
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 8",
+     "Route 8;I 8"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.9902507,
+     32.7353201
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 8",
+     "Route 8;I 8"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.9911174,
+     32.7347731
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 8",
+     "Route 8;I 8"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0969734,
+     32.6745354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 8",
+     "Route 8;I 8"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.1026451,
+     32.6787512
     ]
    },
    "properties": {
@@ -97119,8 +97119,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.5757758,
-     32.7738062
+     -115.5480736,
+     32.7736683
     ]
    },
    "properties": {
@@ -97153,8 +97153,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.5480736,
-     32.7736683
+     -115.5757758,
+     32.7738062
     ]
    },
    "properties": {
@@ -97283,6 +97283,23 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -115.9979053,
+     32.733598
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 8",
+     "Route 8;I 8",
+     "US 80 Historic"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -116.1033543,
      32.6489388
     ]
@@ -97302,23 +97319,6 @@
     "coordinates": [
      -116.1050406,
      32.6457686
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 8",
-     "Route 8;I 8",
-     "US 80 Historic"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -115.9979053,
-     32.733598
     ]
    },
    "properties": {
@@ -97436,8 +97436,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -114.7499881,
-     32.7469721
+     -114.74991,
+     32.7467569
     ]
    },
    "properties": {
@@ -97453,8 +97453,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -114.74991,
-     32.7467569
+     -114.7499881,
+     32.7469721
     ]
    },
    "properties": {
@@ -97920,8 +97920,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.97073954999999,
-     33.31821555
+     -115.9745186,
+     33.3140326
     ]
    },
    "properties": {
@@ -98480,8 +98480,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.72164245,
-     33.05190175
+     -115.7214749,
+     33.051985
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 78;CA 86",
+     "West Bannister Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.72181,
+     33.0518185
     ]
    },
    "properties": {
@@ -99504,8 +99520,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.5750581,
-     32.8036502
+     -115.57505815,
+     32.803827150000004
     ]
    },
    "properties": {
@@ -100210,8 +100226,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.72783705,
-     33.060318800000005
+     -115.727661,
+     33.0604029
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 78;CA 86",
+     "West Howenstein Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.7280131,
+     33.0602347
     ]
    },
    "properties": {
@@ -102950,6 +102982,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -115.9444144,
+     33.2516213
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Air Park Drive",
+     "Airport Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -115.5331893,
      32.9707855
     ]
@@ -103622,8 +103670,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.9399516,
-     33.3193925
+     -115.94004075000001,
+     33.31947865
     ]
    },
    "properties": {
@@ -103798,8 +103846,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.3371584,
-     32.7719997
+     -115.33715810000001,
+     32.77213275
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bonds Corner Road",
+     "I 8"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.3371819,
+     32.7743554
     ]
    },
    "properties": {
@@ -103894,8 +103958,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.324596,
-     32.986283
+     -115.326783,
+     32.9863
     ]
    },
    "properties": {
@@ -103910,8 +103974,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.326783,
-     32.9863
+     -115.324596,
+     32.986283
     ]
    },
    "properties": {
@@ -103942,8 +104006,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.80050195,
-     32.7689098
+     -115.8005091,
+     32.7677213
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dunaway Road",
+     "I 8"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.8004948,
+     32.7700983
     ]
    },
    "properties": {
@@ -104390,8 +104470,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -116.0177664,
-     32.7266202
+     -115.0899125,
+     32.7099265
     ]
    },
    "properties": {
@@ -104408,6 +104488,22 @@
     "coordinates": [
      -115.0887796,
      32.7112412
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 98",
+     "I 8"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0177664,
+     32.7266202
     ]
    },
    "properties": {
@@ -104550,8 +104646,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.94608645,
-     33.276868300000004
+     -115.947497,
+     33.274939
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Acapulco Avenue",
+     "Clover Leaf Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.9446759,
+     33.2787976
     ]
    },
    "properties": {
@@ -104966,8 +105078,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.5702553,
-     32.8944708
+     -115.5702311,
+     32.887352449999995
     ]
    },
    "properties": {
@@ -104982,8 +105094,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.5702311,
-     32.887352449999995
+     -115.5702553,
+     32.8944708
     ]
    },
    "properties": {
@@ -105145,23 +105257,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.9941993,
-     32.7334178
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 8",
-     "Imperial Highway;S2",
-     "US 80 Historic"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -115.9942051,
      32.7336818
     ]
@@ -105179,8 +105274,25 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.6903216,
-     32.7749249
+     -115.9941993,
+     32.7334178
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 8",
+     "Imperial Highway;S2",
+     "US 80 Historic"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.6903219,
+     32.774742200000006
     ]
    },
    "properties": {
@@ -105195,8 +105307,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.690324,
-     32.7730123
+     -115.69032045,
+     32.773170199999996
     ]
    },
    "properties": {
@@ -105211,8 +105323,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.62056874999999,
-     32.77390185
+     -115.6205602,
+     32.7749844
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forrester Road;S30",
+     "I 8"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.6205773,
+     32.7728193
     ]
    },
    "properties": {
@@ -105259,8 +105387,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.47380369999999,
-     32.7735817
+     -115.4737931,
+     32.7746537
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowker Road",
+     "I 8"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.4738143,
+     32.7725097
     ]
    },
    "properties": {
@@ -105403,40 +105547,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -114.8322053,
+     32.7595826
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 8",
+     "Kumeyaay Highway;I 8"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -114.7165841,
      32.7432208
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 8",
-     "Kumeyaay Highway;I 8"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -114.6274733,
-     32.7323742
-    ]
-   },
-   "properties": {
-    "streets": [
-     "I 8",
-     "Kumeyaay Highway;I 8"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -114.6207271,
-     32.7299337
     ]
    },
    "properties": {
@@ -105467,6 +105595,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -114.6274733,
+     32.7323742
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 8",
+     "Kumeyaay Highway;I 8"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -114.6205946,
      32.7300984
     ]
@@ -105483,8 +105627,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -114.8322053,
-     32.7595826
+     -114.6207271,
+     32.7299337
     ]
    },
    "properties": {
@@ -105531,8 +105675,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.5009332,
-     32.7693823
+     -115.5010883,
+     32.7736842
     ]
    },
    "properties": {
@@ -105563,38 +105707,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.5010883,
-     32.7736842
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 111",
-     "I 8"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -115.5014937,
-     32.7784594
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 111",
-     "I 8"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -115.5011998,
      32.769473
     ]
@@ -105611,8 +105723,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -115.5009332,
+     32.7693823
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "I 8"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -115.5012589,
      32.7781717
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "I 8"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.5014937,
+     32.7784594
     ]
    },
    "properties": {
@@ -105707,7 +105851,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.569919875,
+     -115.56991987500001,
      32.814749524999996
     ]
    },
@@ -105931,8 +106075,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -114.6246643,
-     32.7306803
+     -114.6246028,
+     32.73277
     ]
    },
    "properties": {
@@ -105947,8 +106091,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -114.6246947,
-     32.7327788
+     -114.6245759,
+     32.7312217
     ]
    },
    "properties": {
@@ -105979,8 +106123,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -114.6246028,
-     32.73277
+     -114.6246643,
+     32.7306803
     ]
    },
    "properties": {
@@ -105995,8 +106139,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -116.04566665,
-     33.40377275
+     -116.04156255000001,
+     33.390533899999994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86",
+     "Coolidge Spring Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.04977075,
+     33.417011599999995
     ]
    },
    "properties": {
@@ -106205,8 +106365,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.57811079999999,
-     32.98482605
+     -115.5781954,
+     32.9846554
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86",
+     "Kalin Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.5780262,
+     32.9849967
     ]
    },
    "properties": {
@@ -106239,22 +106415,6 @@
     "coordinates": [
      -115.5324842,
      32.7670226
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Danenberg Drive",
-     "Plaza Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -115.53258145000001,
-     32.7669482
     ]
    },
    "properties": {
@@ -106639,8 +106799,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.9517313,
-     33.2621556
+     -115.983436,
+     33.3052302
     ]
    },
    "properties": {
@@ -106655,8 +106815,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -115.983436,
-     33.3052302
+     -115.9517313,
+     33.2621556
     ]
    },
    "properties": {
@@ -107155,6 +107315,22 @@
     "coordinates": [
      -115.3837702,
      32.768253
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 7",
+     "I 8"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.3836881,
+     32.771943
     ]
    },
    "properties": {

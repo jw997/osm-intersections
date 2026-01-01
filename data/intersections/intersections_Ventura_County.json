@@ -235125,40 +235125,56 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -118.8500161,
+     34.2649484
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 23",
+     "Moorpark Freeway;CA 23"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.8479251,
+     34.2627267
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 23",
+     "Moorpark Freeway;CA 23"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.8533533,
+     34.2696373
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 23",
+     "Moorpark Freeway;CA 23"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -118.860462,
      34.2785116
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 23",
-     "Moorpark Freeway;CA 23"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.8584449,
-     34.1980629
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 23",
-     "Moorpark Freeway;CA 23"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.8596533,
-     34.1961136
     ]
    },
    "properties": {
@@ -235205,8 +235221,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8500161,
-     34.2649484
+     -118.8584449,
+     34.1980629
     ]
    },
    "properties": {
@@ -235221,24 +235237,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8479251,
-     34.2627267
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 23",
-     "Moorpark Freeway;CA 23"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.8533533,
-     34.2696373
+     -118.8596533,
+     34.1961136
     ]
    },
    "properties": {
@@ -235480,7 +235480,7 @@
     "type": "Point",
     "coordinates": [
      -118.86833796666667,
-     34.21305773333333
+     34.213057733333336
     ]
    },
    "properties": {
@@ -235671,40 +235671,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.1895061,
+     34.2750132
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 126",
+     "Santa Paula Freeway;CA 126"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.186686,
      34.275212
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 126",
-     "Santa Paula Freeway;CA 126"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.1594306,
-     34.2877013
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 126",
-     "Santa Paula Freeway;CA 126"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.2362638,
-     34.2654336
     ]
    },
    "properties": {
@@ -235735,8 +235719,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1895061,
-     34.2750132
+     -119.1594306,
+     34.2877013
     ]
    },
    "properties": {
@@ -235785,6 +235769,22 @@
     "coordinates": [
      -119.0970455,
      34.3250218
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 126",
+     "Santa Paula Freeway;CA 126"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2362638,
+     34.2654336
     ]
    },
    "properties": {
@@ -236044,24 +236044,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3056898,
-     34.2809447
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 33",
-     "Ojai Freeway;CA 33"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.3057036,
-     34.2850503
+     -119.3002866,
+     34.3031182
     ]
    },
    "properties": {
@@ -236092,8 +236076,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3002866,
-     34.3031182
+     -119.3057036,
+     34.2850503
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 33",
+     "Ojai Freeway;CA 33"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3056898,
+     34.2809447
     ]
    },
    "properties": {
@@ -236652,8 +236652,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.6944404,
-     34.3018311
+     -118.694451,
+     34.3018663
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cottonwood Drive",
+     "Westwood Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.70078595,
+     34.3026299
     ]
    },
    "properties": {
@@ -236780,8 +236796,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8245285,
-     34.1585633
+     -118.82444685,
+     34.15854495
     ]
    },
    "properties": {
@@ -237934,38 +237950,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2603545,
-     34.4445767
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cuyama Road",
-     "Del Norte Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.2601753,
-     34.4451716
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cuyama Road",
-     "Del Norte Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.2114583,
      34.2760026
     ]
@@ -238192,22 +238176,6 @@
     "coordinates": [
      -119.25793924999999,
      34.249054799999996
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Harbor Boulevard",
-     "Schooner Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.2579674,
-     34.24915635
     ]
    },
    "properties": {
@@ -239118,6 +239086,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -118.842424,
+     34.2944362
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 118",
+     "Collins Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -118.8421816,
      34.2952373
     ]
@@ -239166,40 +239150,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.0786742,
-     34.223481
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Earl Joseph Drive",
-     "West Ponderosa Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.07860170000001,
      34.22354645
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Earl Joseph Drive",
-     "West Ponderosa Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.07870925,
-     34.22354555
     ]
    },
    "properties": {
@@ -240288,8 +240240,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1010295,
-     34.128276
+     -119.101006,
+     34.127595
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bullpup Circle",
+     "Regulus Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.101053,
+     34.128957
     ]
    },
    "properties": {
@@ -240482,22 +240450,6 @@
     "coordinates": [
      -118.99926005,
      34.21950495
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Leisure Village Drive",
-     "Los Pueblos Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.99924,
-     34.2194148
     ]
    },
    "properties": {
@@ -241712,6 +241664,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.185893,
+     34.151112
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South J Street",
+     "West Clara Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.18614693333332,
      34.1475381
     ]
@@ -242064,8 +242032,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.01951885,
-     34.318699550000005
+     -118.9133155,
+     34.3982454
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Avenue",
+     "Santa Clara Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.1257222,
+     34.2391537
     ]
    },
    "properties": {
@@ -242560,8 +242544,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8390849,
-     34.2422025
+     -118.83903140000001,
+     34.242154400000004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 23",
+     "East Olsen Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.8399543,
+     34.2415444
     ]
    },
    "properties": {
@@ -242592,22 +242592,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8417823,
-     34.2405751
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 23",
-     "East Olsen Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -118.84079324999999,
      34.241151099999996
     ]
@@ -242624,8 +242608,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8399543,
-     34.2415444
+     -118.8417823,
+     34.2405751
     ]
    },
    "properties": {
@@ -242672,8 +242656,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2744504,
-     34.26708
+     -119.27448340000001,
+     34.2670476
     ]
    },
    "properties": {
@@ -242688,8 +242672,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.27396045,
-     34.266505800000004
+     -119.27351759999999,
+     34.2659084
     ]
    },
    "properties": {
@@ -244004,8 +243988,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.78525345,
-     34.2693377
+     -118.7848166,
+     34.2687626
     ]
    },
    "properties": {
@@ -244630,8 +244614,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8551411,
-     34.21497235
+     -118.8567562,
+     34.2160442
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Calle Olivo",
+     "Calle Pimiento"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.853526,
+     34.2139005
     ]
    },
    "properties": {
@@ -245416,8 +245416,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2302248,
-     34.1761526
+     -119.2302884,
+     34.1760611
     ]
    },
    "properties": {
@@ -245432,8 +245432,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.23096355000001,
-     34.17547225
+     -119.2302248,
+     34.1761526
     ]
    },
    "properties": {
@@ -245882,6 +245882,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -118.87663119999999,
+     34.17699895
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Moorpark Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -118.8765935,
      34.1781175
     ]
@@ -245964,38 +245980,6 @@
     "coordinates": [
      -119.212072,
      34.2209406
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Brookwood Lane",
-     "Keltic Lodge Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.2121428,
-     34.2209412
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Brookwood Lane",
-     "Keltic Lodge Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.2120121,
-     34.2209404
     ]
    },
    "properties": {
@@ -246154,8 +246138,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8050151,
-     34.2347286
+     -118.8050882,
+     34.2347031
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Martha Morrison Drive",
+     "Wood Ranch Parkway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.81045,
+     34.242161200000005
     ]
    },
    "properties": {
@@ -246188,22 +246188,6 @@
     "coordinates": [
      -118.798332,
      34.22957975
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Long Canyon Road",
-     "Twisted Oak Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.79821745000001,
-     34.2296033
     ]
    },
    "properties": {
@@ -246300,22 +246284,6 @@
     "coordinates": [
      -119.214987,
      34.1544943
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Missile Way",
-     "Terrior Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.214854,
-     34.1543547
     ]
    },
    "properties": {
@@ -246474,7 +246442,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.85652273333335,
+     -118.85652273333334,
      34.296372866666665
     ]
    },
@@ -247322,8 +247290,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.14815,
-     34.2265359
+     -119.1491092,
+     34.2268436
     ]
    },
    "properties": {
@@ -247338,8 +247306,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1491223,
-     34.22677885
+     -119.1481344,
+     34.22659485
     ]
    },
    "properties": {
@@ -247692,72 +247660,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2138213,
-     34.2725596
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 126",
-     "South Victoria Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.2135282,
      34.2704686
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 126",
-     "South Victoria Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.2133571,
-     34.2704602
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 126",
-     "South Victoria Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.2139658,
-     34.2725757
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 126",
-     "South Victoria Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.2139257,
-     34.2723859
     ]
    },
    "properties": {
@@ -248044,38 +247948,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1384176,
-     34.2223137
-    ]
-   },
-   "properties": {
-    "streets": [
-     "US 101",
-     "Ventura Freeway;US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.0666185,
-     34.2187518
-    ]
-   },
-   "properties": {
-    "streets": [
-     "US 101",
-     "Ventura Freeway;US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.0562325,
      34.2179698
     ]
@@ -248092,40 +247964,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.953092,
-     34.197658
-    ]
-   },
-   "properties": {
-    "streets": [
-     "US 101",
-     "Ventura Freeway;US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.9585277,
-     34.2003128
-    ]
-   },
-   "properties": {
-    "streets": [
-     "US 101",
-     "Ventura Freeway;US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.185739,
-     34.2411676
+     -119.0666185,
+     34.2187518
     ]
    },
    "properties": {
@@ -248158,6 +247998,70 @@
     "coordinates": [
      -119.1305009,
      34.2221878
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "Ventura Freeway;US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.1384176,
+     34.2223137
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "Ventura Freeway;US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.185739,
+     34.2411676
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "Ventura Freeway;US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.9585277,
+     34.2003128
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "Ventura Freeway;US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.953092,
+     34.197658
     ]
    },
    "properties": {
@@ -248687,7 +248591,7 @@
     "type": "Point",
     "coordinates": [
      -118.98683856666666,
-     34.22704533333333
+     34.227045333333336
     ]
    },
    "properties": {
@@ -249070,8 +248974,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.19410495,
-     34.158911450000005
+     -119.1940729,
+     34.1603549
+    ]
+   },
+   "properties": {
+    "streets": [
+     "5th Place",
+     "5th Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.1940548,
+     34.1618376
     ]
    },
    "properties": {
@@ -249104,22 +249024,6 @@
     "coordinates": [
      -119.1940081,
      34.1663794
-    ]
-   },
-   "properties": {
-    "streets": [
-     "5th Place",
-     "5th Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.1940409,
-     34.163384699999995
     ]
    },
    "properties": {
@@ -249454,6 +249358,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -118.82778175000001,
+     34.20392885
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Westlake Boulevard",
+     "Rainfield Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -118.8276522,
      34.2087034
     ]
@@ -249726,8 +249646,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.29374765,
-     34.3162885
+     -119.2948362,
+     34.3163374
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 33",
+     "Shell Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2926591,
+     34.3162396
     ]
    },
    "properties": {
@@ -249824,22 +249760,6 @@
     "coordinates": [
      -118.7788778,
      34.262997
-    ]
-   },
-   "properties": {
-    "streets": [
-     "1st Street",
-     "Village Court"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.7789683,
-     34.2629054
     ]
    },
    "properties": {
@@ -250130,22 +250050,6 @@
     "coordinates": [
      -118.878068,
      34.1410071
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Potrero Road",
-     "Stafford Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.87794065,
-     34.1410562
     ]
    },
    "properties": {
@@ -250544,8 +250448,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.29265889999999,
-     34.341718099999994
+     -119.2931431,
+     34.3416812
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 33",
+     "Cañada Larga Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2921747,
+     34.341755
     ]
    },
    "properties": {
@@ -251220,22 +251140,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1773491,
-     34.2061593
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North Oxnard Boulevard",
-     "Palm Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.012421,
      34.234646
     ]
@@ -251620,22 +251524,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.7090181,
-     34.2806322
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Apricot Road",
-     "Tapo Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -118.924997,
      34.3926732
     ]
@@ -251724,6 +251612,22 @@
     "streets": [
      "Queens Way",
      "Whitechapel Place"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.01312965,
+     34.2330536
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Calle Brisa",
+     "Flynn Road"
     ]
    }
   },
@@ -252262,8 +252166,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8773103,
-     34.1418433
+     -118.87726330000001,
+     34.14181775
     ]
    },
    "properties": {
@@ -252278,8 +252182,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.869214,
-     34.14214905
+     -118.86110099999999,
+     34.1424121
     ]
    },
    "properties": {
@@ -252662,24 +252566,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.09002535,
-     34.1224716
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 1",
-     "Pacific Coast Highway;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.0828736,
-     34.1139006
+     -119.088299,
+     34.1203099
     ]
    },
    "properties": {
@@ -252710,8 +252598,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1213212,
-     34.1532746
+     -119.0828736,
+     34.1139006
     ]
    },
    "properties": {
@@ -252742,8 +252630,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.0908703,
+     34.123547
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Pacific Coast Highway;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.0969869,
      34.1315669
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Pacific Coast Highway;CA 1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.1213212,
+     34.1532746
     ]
    },
    "properties": {
@@ -252774,23 +252694,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.088299,
-     34.1203099
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 1",
-     "Pacific Coast Highway;CA 1"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.18014657500001,
+     -119.180146575,
      34.2415424
     ]
    },
@@ -252888,22 +252792,6 @@
     "coordinates": [
      -119.2076614,
      34.2231169
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Bermuda Dunes Drive",
-     "North Patterson Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.20768534999999,
-     34.22321905
     ]
    },
    "properties": {
@@ -253070,22 +252958,6 @@
     "streets": [
      "Drummond Lane",
      "Tennyson Lane"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.20135315,
-     34.2697692
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Drummond Lane",
-     "Johnson Drive"
     ]
    }
   },
@@ -253962,22 +253834,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.9136318,
-     34.19165
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Lawrence Drive",
-     "North Ventu Park Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -118.8138878,
      34.19941805
     ]
@@ -254796,8 +254652,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.95133584999999,
-     34.40819385
+     -118.9504385,
+     34.4092888
     ]
    },
    "properties": {
@@ -254812,8 +254668,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.9504385,
-     34.4092888
+     -118.9520749,
+     34.4072639
     ]
    },
    "properties": {
@@ -254926,22 +254782,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1419132,
-     34.2188387
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Gonzales Road",
-     "North Rice Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.14201655,
      34.21870605
     ]
@@ -254960,22 +254800,6 @@
     "coordinates": [
      -119.1421617,
      34.2150902
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North Rice Avenue",
-     "Sakioka Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.14205125000001,
-     34.214973549999996
     ]
    },
    "properties": {
@@ -255102,22 +254926,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.15636065,
-     34.228165700000005
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Auto Center Drive",
-     "Ventura Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -118.7596522,
      34.182678949999996
     ]
@@ -255198,22 +255006,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.20016525,
-     34.27214825
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Thille Street",
-     "Zola Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -118.86357645000001,
      34.179537499999995
     ]
@@ -255278,22 +255070,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.86866905,
-     34.17861555
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Thousand Oaks Boulevard",
-     "Hodencamp Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -118.87288290000001,
      34.1792136
     ]
@@ -255326,24 +255102,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.47753230000001,
-     34.37615985
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Bates Road",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.4778006,
-     34.3769562
+     -119.477341,
+     34.3755977
     ]
    },
    "properties": {
@@ -256658,8 +256418,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.823767,
-     34.1996188
+     -118.8238172,
+     34.1995472
     ]
    },
    "properties": {
@@ -256674,8 +256434,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.82379209999999,
-     34.199583000000004
+     -118.823767,
+     34.1996188
     ]
    },
    "properties": {
@@ -256788,6 +256548,22 @@
     "coordinates": [
      -118.9829011,
      34.2058644
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Camarillo Springs Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.98458453333335,
+     34.20443136666666
     ]
    },
    "properties": {
@@ -257042,24 +256818,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.19070765000001,
-     34.1593867
-    ]
-   },
-   "properties": {
-    "streets": [
-     "7th Place",
-     "7th Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.1902758,
-     34.1663374
+     -119.190344,
+     34.160336
     ]
    },
    "properties": {
@@ -257076,6 +256836,22 @@
     "coordinates": [
      -119.190291,
      34.164909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Place",
+     "7th Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.1902758,
+     34.1663374
     ]
    },
    "properties": {
@@ -257810,8 +257586,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.084494,
-     34.117289
+     -119.0859134,
+     34.1165046
     ]
    },
    "properties": {
@@ -257844,6 +257620,38 @@
     "coordinates": [
      -119.0873745,
      34.1156893
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Las Posas Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.084494,
+     34.117289
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Las Posas Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0839997,
+     34.1175699
     ]
    },
    "properties": {
@@ -257906,40 +257714,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2073569,
-     34.2165111
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North Patterson Road",
-     "Talus Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -118.86773045000001,
      34.2765344
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Miller Parkway",
-     "Southfork Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.8677754,
-     34.2766212
     ]
    },
    "properties": {
@@ -258290,8 +258066,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.780255,
-     34.192886
+     -119.01186805,
+     34.2343258
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenida Acaso",
+     "Flynn Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.78021235,
+     34.192862500000004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bromely Drive",
+     "Lindero Canyon Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.77327065,
+     34.19257895
     ]
    },
    "properties": {
@@ -258530,24 +258338,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1923909,
-     34.15917495
-    ]
-   },
-   "properties": {
-    "streets": [
-     "6th Place",
-     "6th Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.1921281,
-     34.1663652
+     -119.191727,
+     34.161833
     ]
    },
    "properties": {
@@ -258578,8 +258370,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.19193085,
-     34.16337645
+     -119.1921281,
+     34.1663652
+    ]
+   },
+   "properties": {
+    "streets": [
+     "6th Place",
+     "6th Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.1924,
+     34.158008
     ]
    },
    "properties": {
@@ -259396,8 +259204,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8935396,
-     34.2169674
+     -118.89356605,
+     34.216916749999996
     ]
    },
    "properties": {
@@ -259412,8 +259220,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.89544104999999,
-     34.21768095
+     -118.89736894999999,
+     34.2183433
     ]
    },
    "properties": {
@@ -259718,22 +259526,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.86334959999999,
-     34.27396945
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Miller Parkway",
-     "Stagecoach Trail"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.05021925,
      34.21528035
     ]
@@ -259782,8 +259574,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.0698628,
-     34.2180271
+     -119.0698752,
+     34.2214098
     ]
    },
    "properties": {
@@ -259814,8 +259606,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.0698752,
-     34.2214098
+     -119.0698628,
+     34.2180271
     ]
    },
    "properties": {
@@ -260954,40 +260746,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8474407,
-     34.2278913
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 23",
-     "Sunset Hills Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.8488715,
-     34.2294254
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 23",
-     "Sunset Hills Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.84827895000001,
-     34.2286729
+     -118.84584505000001,
+     34.226876450000006
     ]
    },
    "properties": {
@@ -261018,8 +260778,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.84584505000001,
-     34.226876450000006
+     -118.8474407,
+     34.2278913
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 23",
+     "Sunset Hills Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.84827895000001,
+     34.2286729
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 23",
+     "Sunset Hills Boulevard"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.8488715,
+     34.2294254
     ]
    },
    "properties": {
@@ -261386,38 +261178,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8173494,
-     34.2505051
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Congressional Road",
-     "Red Lakes Place"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.8172706,
-     34.2505566
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Congressional Road",
-     "Red Lakes Place"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -118.924509,
      34.393938
     ]
@@ -261708,22 +261468,6 @@
     "coordinates": [
      -118.81863974999999,
      34.15026935
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Lakeview Canyon Road",
-     "Townsgate Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.81861315,
-     34.150358499999996
     ]
    },
    "properties": {
@@ -262432,22 +262176,6 @@
     "coordinates": [
      -119.2177562,
      34.2673792
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Ringo Avenue",
-     "Thille Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.2176423,
-     34.26736735
     ]
    },
    "properties": {
@@ -263342,8 +263070,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.989404,
-     34.199812
+     -118.9893945,
+     34.199853000000004
     ]
    },
    "properties": {
@@ -263358,8 +263086,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.99106599999999,
-     34.199688
+     -118.992716,
+     34.199597
     ]
    },
    "properties": {
@@ -263934,54 +263662,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.0813921,
-     34.2234187
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Camino Tierra Santa",
-     "West Ponderosa Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.0814936,
-     34.2233932
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Camino Tierra Santa",
-     "West Ponderosa Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.0815337,
-     34.2234884
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Camino Tierra Santa",
-     "West Ponderosa Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.0612771,
      34.3616898
     ]
@@ -264126,8 +263806,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1743066,
-     34.2312109
+     -119.17414249999999,
+     34.23112975
     ]
    },
    "properties": {
@@ -264144,6 +263824,22 @@
     "coordinates": [
      -119.1425272,
      34.2214373
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Rice Avenue",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.14238904999999,
+     34.222136649999996
     ]
    },
    "properties": {
@@ -264206,38 +263902,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8645959,
-     34.2849559
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 118",
-     "Ronald Reagan Freeway;CA 118"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.8623582,
-     34.2905944
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 118",
-     "Ronald Reagan Freeway;CA 118"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -118.7484827,
      34.2821297
     ]
@@ -264254,8 +263918,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.7917182,
-     34.2833458
+     -118.7657543,
+     34.2824217
     ]
    },
    "properties": {
@@ -264286,8 +263950,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.7657543,
-     34.2824217
+     -118.7917182,
+     34.2833458
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 118",
+     "Ronald Reagan Freeway;CA 118"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.8645959,
+     34.2849559
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 118",
+     "Ronald Reagan Freeway;CA 118"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.8623582,
+     34.2905944
     ]
    },
    "properties": {
@@ -264542,8 +264238,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8118896,
-     34.2482486
+     -118.81181649999999,
+     34.2482719
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lake Park Drive",
+     "Wood Ranch Parkway"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.8108891,
+     34.2458596
     ]
    },
    "properties": {
@@ -264560,22 +264272,6 @@
     "coordinates": [
      -118.8107403,
      34.2458563
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Lake Park Drive",
-     "Wood Ranch Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.81081470000001,
-     34.24585795
     ]
    },
    "properties": {
@@ -265234,6 +264930,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -118.89149915,
+     34.184090499999996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lynn Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -118.891934,
      34.1824823
     ]
@@ -265268,8 +264980,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1807331,
-     34.2409275
+     -119.18096265,
+     34.239882449999996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Oxnard Boulevard",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.18104604999999,
+     34.2388653
     ]
    },
    "properties": {
@@ -265302,6 +265030,22 @@
     "coordinates": [
      -119.1807469,
      34.2377527
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Oxnard Boulevard",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.1807331,
+     34.2409275
     ]
    },
    "properties": {
@@ -265349,7 +265093,7 @@
     "type": "Point",
     "coordinates": [
      -119.02513556666666,
-     34.20546373333334
+     34.20546373333333
     ]
    },
    "properties": {
@@ -265428,6 +265172,38 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.1713372,
+     34.2343799
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Vineyard Avenue;CA 118",
+     "North Vineyard Avenue;CA 118"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.1720467,
+     34.2333891
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Vineyard Avenue;CA 118",
+     "North Vineyard Avenue;CA 118"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.1722307,
      34.2331316
     ]
@@ -265444,14 +265220,14 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1721387,
-     34.233260349999995
+     -119.1019647,
+     34.2210602
     ]
    },
    "properties": {
     "streets": [
-     "East Vineyard Avenue;CA 118",
-     "North Vineyard Avenue;CA 118"
+     "Central Avenue",
+     "US 101"
     ]
    }
   },
@@ -265460,24 +265236,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.17139019999999,
-     34.23430195
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Vineyard Avenue;CA 118",
-     "North Vineyard Avenue;CA 118"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.1020635,
-     34.2222846
+     -119.10209135,
+     34.22236155
     ]
    },
    "properties": {
@@ -265510,22 +265270,6 @@
     "coordinates": [
      -118.867751,
      34.2488952
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Lexington Hills Drive",
-     "Moorpark Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.8676564,
-     34.2489847
     ]
    },
    "properties": {
@@ -265754,40 +265498,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2247041,
-     34.19030695
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Seabridge Lane",
-     "West Wooley Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.22811375,
      34.190333499999994
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Tradewinds Drive",
-     "West Wooley Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.2282498,
-     34.1903908
     ]
    },
    "properties": {
@@ -266012,8 +265724,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.0067267,
-     34.2155383
+     -119.0070707,
+     34.21481515
     ]
    },
    "properties": {
@@ -266028,8 +265740,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.0070707,
-     34.21481515
+     -119.0067267,
+     34.2155383
     ]
    },
    "properties": {
@@ -266108,8 +265820,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1583713,
-     34.223018
+     -119.15860295,
+     34.2264036
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Rose Avenue",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.1584916,
+     34.2270752
     ]
    },
    "properties": {
@@ -266156,24 +265884,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.15860295,
-     34.2264036
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North Rose Avenue",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.1584916,
-     34.2270752
+     -119.1583713,
+     34.223018
     ]
    },
    "properties": {
@@ -266268,8 +265980,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.15561865000001,
-     34.288826549999996
+     -119.1582045,
+     34.2913508
     ]
    },
    "properties": {
@@ -266284,8 +265996,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1582045,
-     34.2913508
+     -119.15561865000001,
+     34.288826549999996
     ]
    },
    "properties": {
@@ -266358,6 +266070,22 @@
      "North Victoria Avenue",
      "South Victoria Avenue",
      "Telegraph Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.21067070000001,
+     34.25305645
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Victoria Avenue",
+     "US 101"
     ]
    }
   },
@@ -266671,7 +266399,7 @@
     "type": "Point",
     "coordinates": [
      -119.050738525,
-     34.223596975
+     34.22359697500001
     ]
    },
    "properties": {
@@ -266768,6 +266496,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -118.8353832,
+     34.1646026
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101;CA 23",
+     "Ventura Freeway;US 101;CA 23"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -118.8339977,
      34.1633983
     ]
@@ -266786,22 +266530,6 @@
     "coordinates": [
      -118.829988,
      34.161004
-    ]
-   },
-   "properties": {
-    "streets": [
-     "US 101;CA 23",
-     "Ventura Freeway;US 101;CA 23"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.8353832,
-     34.1646026
     ]
    },
    "properties": {
@@ -266918,22 +266646,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.9110471,
-     34.1846774
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North Ventu Park Road",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -118.9112689,
      34.1840512
     ]
@@ -266950,8 +266662,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.9110442,
-     34.1824918
+     -118.9110471,
+     34.1846774
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Ventu Park Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.9112808,
+     34.1847378
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Ventu Park Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.911083,
+     34.1854629
     ]
    },
    "properties": {
@@ -266982,8 +266726,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.9111819,
-     34.18510035
+     -118.9112592,
+     34.1832619
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Ventu Park Road",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.9110442,
+     34.1824918
     ]
    },
    "properties": {
@@ -267098,24 +266858,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8503193,
-     34.2674126
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 23",
-     "Tierra Rejada Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.8522823,
-     34.2659384
+     -118.8502317,
+     34.267382600000005
     ]
    },
    "properties": {
@@ -267148,6 +266892,22 @@
     "coordinates": [
      -118.85163,
      34.266545
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 23",
+     "Tierra Rejada Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.8523366,
+     34.26598915
     ]
    },
    "properties": {
@@ -267292,22 +267052,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2082093,
-     34.1868424
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Dominica Drive",
-     "South Patterson Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.20795015,
      34.1974947
     ]
@@ -267388,22 +267132,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8566538,
-     34.1998605
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 23",
-     "East Janss Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -118.8588673,
      34.1997669
     ]
@@ -267420,8 +267148,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8553059,
-     34.1998136
+     -118.8566538,
+     34.1998605
     ]
    },
    "properties": {
@@ -267452,6 +267180,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -118.8553059,
+     34.1998136
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 23",
+     "East Janss Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -118.8170138,
      34.2171798
     ]
@@ -267468,38 +267212,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8170752,
-     34.2172217
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Arianna Lane",
-     "North Westlake Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.81899849999999,
-     34.21775365
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Hollycrest Avenue",
-     "North Westlake Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -118.81888724999999,
      34.2177535
     ]
@@ -267507,22 +267219,6 @@
    "properties": {
     "streets": [
      "Hollycrest Avenue",
-     "North Westlake Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.8214003,
-     34.217217649999995
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Eagle Claw Avenue",
      "North Westlake Boulevard"
     ]
    }
@@ -267630,38 +267326,6 @@
     "coordinates": [
      -118.92539275,
      34.1858345
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Rancho Conejo Boulevard",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.9253081,
-     34.185889
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Rancho Conejo Boulevard",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.9255104,
-     34.1856668
     ]
    },
    "properties": {
@@ -267822,8 +267486,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.97080095000001,
-     34.139808
+     -118.9707704,
+     34.1398729
     ]
    },
    "properties": {
@@ -267838,8 +267502,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.9663142,
-     34.1452004
+     -118.961858,
+     34.1505279
     ]
    },
    "properties": {
@@ -268158,8 +267822,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1734883,
-     34.2474405
+     -119.173637,
+     34.2472999
     ]
    },
    "properties": {
@@ -268174,8 +267838,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.173637,
-     34.2472999
+     -119.1734883,
+     34.2474405
     ]
    },
    "properties": {
@@ -268446,40 +268110,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.6789802,
-     34.2823638
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 118",
-     "Yosemite Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.6788561,
-     34.2821332
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 118",
-     "Yosemite Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -118.6783783,
      34.2810658
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 118",
+     "Yosemite Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.67841383333332,
+     34.2805251
     ]
    },
    "properties": {
@@ -268577,7 +268225,7 @@
     "type": "Point",
     "coordinates": [
      -118.717261525,
-     34.2716775
+     34.271677499999996
     ]
    },
    "properties": {
@@ -268672,6 +268320,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.0973047,
+     34.1339913
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 1",
+     "Wood Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.0977229,
      34.133761
     ]
@@ -268704,22 +268368,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.0973047,
-     34.1339913
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 1",
-     "Wood Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.14256715,
      34.1731508
     ]
@@ -268736,7 +268384,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1598014,
+     -119.15980139999999,
      34.19700245
     ]
    },
@@ -268754,22 +268402,6 @@
     "coordinates": [
      -119.1598552,
      34.1983448
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Eastman Avenue",
-     "South Rose Avenue"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.1598587,
-     34.1982715
     ]
    },
    "properties": {
@@ -268916,54 +268548,6 @@
     "coordinates": [
      -119.3033229,
      34.2825534
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 33",
-     "North Olive Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.3032728,
-     34.2828627
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 33",
-     "North Olive Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.3033369,
-     34.2824774
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 33",
-     "North Olive Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.3033784,
-     34.2822237
     ]
    },
    "properties": {
@@ -269170,8 +268754,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1713018,
-     34.2513422
+     -119.1713904,
+     34.2513875
     ]
    },
    "properties": {
@@ -269186,8 +268770,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1713904,
-     34.2513875
+     -119.1713018,
+     34.2513422
     ]
    },
    "properties": {
@@ -269318,40 +268902,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.7613394,
-     34.2812653
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 118",
-     "Erringer Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.7613375,
-     34.2817974
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 118",
-     "Erringer Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.7613375,
-     34.2829528
+     -118.7613383,
+     34.2831693
     ]
    },
    "properties": {
@@ -269382,8 +268934,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.76140625,
-     34.2811521
+     -118.7613375,
+     34.2817974
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 118",
+     "Erringer Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.7613394,
+     34.2812653
     ]
    },
    "properties": {
@@ -269639,7 +269207,7 @@
     "type": "Point",
     "coordinates": [
      -119.038991525,
-     34.223574175
+     34.223574174999996
     ]
    },
    "properties": {
@@ -269766,8 +269334,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.9398214,
-     34.1892772
+     -118.9382863,
+     34.1907291
     ]
    },
    "properties": {
@@ -269782,8 +269350,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.9382863,
-     34.1907291
+     -118.9398214,
+     34.1892772
     ]
    },
    "properties": {
@@ -269878,8 +269446,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.0685604,
-     34.34551225
+     -119.0682912,
+     34.345202
     ]
    },
    "properties": {
@@ -269894,8 +269462,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.0352498,
-     34.2179628
+     -119.0688296,
+     34.3458225
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 126",
+     "South Palm Avenue"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0354534,
+     34.21799625
     ]
    },
    "properties": {
@@ -269958,38 +269542,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2315195,
-     34.2614481
-    ]
-   },
-   "properties": {
-    "streets": [
-     "US 101",
-     "Valentine Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.2136824,
-     34.252404
-    ]
-   },
-   "properties": {
-    "streets": [
-     "US 101",
-     "Valentine Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.21352875,
      34.25234395
     ]
@@ -270006,8 +269558,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.03654755,
-     34.2162334
+     -119.2315195,
+     34.2614481
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "Valentine Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03636125,
+     34.2162196
     ]
    },
    "properties": {
@@ -270022,8 +269590,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.03636125,
-     34.2162196
+     -119.05347280000001,
+     34.2170617
     ]
    },
    "properties": {
@@ -270054,40 +269622,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.188256,
-     34.2404759
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North Ventura Road",
-     "Wagon Wheel Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.187733,
-     34.2411391
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North Ventura Road",
-     "Wagon Wheel Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.1883079,
-     34.240401
+     -119.18819115,
+     34.24044635
     ]
    },
    "properties": {
@@ -270142,22 +269678,6 @@
     "streets": [
      "Canyon Oaks Drive",
      "Kuehner Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.79107210000001,
-     34.28630095
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Madera Road",
-     "National Way"
     ]
    }
   },
@@ -270232,38 +269752,6 @@
     "coordinates": [
      -119.0348055,
      34.1711078
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Diablo Point Drive",
-     "Santa Rosa Island Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.0348318,
-     34.1710444
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Diablo Point Drive",
-     "Santa Rosa Island Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.0348583,
-     34.1709785
     ]
    },
    "properties": {
@@ -270408,23 +269896,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.874402,
-     34.2994811
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Ridgecrest Drive",
-     "Spring Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.86975033333334,
+     -118.86975033333333,
      34.302256633333336
     ]
    },
@@ -270440,8 +269912,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8711095,
-     34.301294999999996
+     -118.87110949999999,
+     34.301295
     ]
    },
    "properties": {
@@ -270616,22 +270088,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.91834495,
-     34.1924338
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Molecular Drive",
-     "North Ventu Park Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -118.91843625,
      34.1924986
     ]
@@ -270730,22 +270186,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.188652,
-     34.2688136
-    ]
-   },
-   "properties": {
-    "streets": [
-     "South Kimball Road",
-     "Telephone Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.18907569999999,
      34.27112495
     ]
@@ -270778,22 +270218,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.82224155,
-     34.251635199999996
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Country Club Drive West",
-     "Madera Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -118.8120212,
      34.2525227
     ]
@@ -270810,7 +270234,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.7614039,
+     -118.76140389999999,
      34.2716871
     ]
    },
@@ -270940,8 +270364,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.81224205000001,
-     34.254307600000004
+     -118.81224205,
+     34.2543076
     ]
    },
    "properties": {
@@ -271022,24 +270446,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.7937267,
-     34.2827633
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 118",
-     "Madera Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.7923838,
-     34.2844191
+     -118.7937812,
+     34.28280185
     ]
    },
    "properties": {
@@ -271056,6 +270464,22 @@
     "coordinates": [
      -118.7932303,
      34.2835071
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 118",
+     "Madera Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.7923838,
+     34.2844191
     ]
    },
    "properties": {
@@ -271102,40 +270526,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.0859613,
-     34.215912
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Springville Drive",
-     "West Ventura Boulevard"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.0852094,
      34.2230584
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Springville Drive",
-     "West Ponderosa Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.08505135,
-     34.2229902
     ]
    },
    "properties": {
@@ -272136,7 +271528,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.7177631,
+     -118.71776310000001,
      34.2863755
     ]
    },
@@ -272168,7 +271560,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.72194345000001,
+     -118.72194345,
      34.28637485
     ]
    },
@@ -272232,8 +271624,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.838016,
-     34.1646974
+     -118.8376079,
+     34.1665922
     ]
    },
    "properties": {
@@ -272250,6 +271642,38 @@
     "coordinates": [
      -118.8372386,
      34.166939
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hampshire Road",
+     "US 101;CA 23"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.8380708,
+     34.165588150000005
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hampshire Road",
+     "US 101;CA 23"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.838016,
+     34.1646974
     ]
    },
    "properties": {
@@ -272490,40 +271914,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.12698455,
-     34.2153391
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North Del Norte Boulevard",
-     "Sakioka Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -118.8218828,
      34.18871075
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North Westlake Boulevard",
-     "Valley Spring Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.82191565,
-     34.1887957
     ]
    },
    "properties": {
@@ -272666,8 +272058,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.3013497,
-     34.300774849999996
+     -119.3017085,
+     34.3008533
     ]
    },
    "properties": {
@@ -272716,6 +272108,22 @@
     "coordinates": [
      -119.2697329,
      34.2647939
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Seaward Avenue",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2687523,
+     34.2652421
     ]
    },
    "properties": {
@@ -272858,6 +272266,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -119.0507186,
+     34.21826485
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Carmen Drive",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -119.0509244,
      34.2188277
     ]
@@ -272874,40 +272298,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.0506657,
-     34.2182737
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North Carmen Drive",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.7437596,
-     34.2817953
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 118",
-     "Sycamore Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.7438305,
-     34.283296050000004
+     -118.74383715,
+     34.2833966
     ]
    },
    "properties": {
@@ -272938,8 +272330,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.74383715,
-     34.2833966
+     -118.7437596,
+     34.2817953
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 118",
+     "Sycamore Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.74385563333334,
+     34.2811966
     ]
    },
    "properties": {
@@ -272956,22 +272364,6 @@
     "coordinates": [
      -119.1620133,
      34.2188608
-    ]
-   },
-   "properties": {
-    "streets": [
-     "East Gonzales Road",
-     "Sonata Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -119.16214445,
-     34.218940849999996
     ]
    },
    "properties": {
@@ -273180,22 +272572,6 @@
     "coordinates": [
      -118.86317125,
      34.27177495
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Miller Parkway",
-     "Olive Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.86315540000001,
-     34.271869699999996
     ]
    },
    "properties": {
@@ -273578,22 +272954,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1785232,
-     34.2047231
-    ]
-   },
-   "properties": {
-    "streets": [
-     "North A Street",
-     "Palm Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.1785111,
      34.2052268
     ]
@@ -273658,22 +273018,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.2450248,
-     34.264798
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 126",
-     "East Main Street;US 101 BUS"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -119.2411592,
      34.263840349999995
     ]
@@ -273692,6 +273036,22 @@
     "coordinates": [
      -119.2405772,
      34.2638497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 126",
+     "East Main Street;US 101 BUS"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2450248,
+     34.264798
     ]
    },
    "properties": {
@@ -273802,8 +273162,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.15946207500001,
-     34.157952099999996
+     -119.159462075,
+     34.1579521
     ]
    },
    "properties": {
@@ -273882,8 +273242,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.7177637,
-     34.2807844
+     -118.71774653333334,
+     34.28276316666666
     ]
    },
    "properties": {
@@ -273898,40 +273258,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.7176868,
-     34.2811564
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 118",
-     "Tapo Canyon Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.6914691,
-     34.2805024
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 118",
-     "Stearns Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.69147,
-     34.2805994
+     -118.69134295,
+     34.2826801
     ]
    },
    "properties": {
@@ -273964,6 +273292,38 @@
     "coordinates": [
      -118.6913218,
      34.2811237
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 118",
+     "Stearns Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.69147,
+     34.2805994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 118",
+     "Stearns Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.6914691,
+     34.2805024
     ]
    },
    "properties": {
@@ -274234,8 +273594,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8476933,
-     34.2115613
+     -118.8476939,
+     34.2115103
     ]
    },
    "properties": {
@@ -274250,40 +273610,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8497552,
-     34.211662
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 23",
-     "East Avenida de Los Arboles"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.85058905,
-     34.21167385
-    ]
-   },
-   "properties": {
-    "streets": [
-     "CA 23",
-     "East Avenida de Los Arboles"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.8504728,
-     34.2116315
+     -118.8467308,
+     34.2115149
     ]
    },
    "properties": {
@@ -274314,8 +273642,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -118.8467308,
-     34.2115149
+     -118.8497552,
+     34.211662
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 23",
+     "East Avenida de Los Arboles"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.8504728,
+     34.2116315
     ]
    },
    "properties": {
@@ -274526,22 +273870,6 @@
     "coordinates": [
      -118.8622175,
      34.2683885
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Maya Circle",
-     "Miller Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -118.8622557,
-     34.2684652
     ]
    },
    "properties": {
@@ -274864,8 +274192,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1734611,
-     34.2479582
+     -119.1737428,
+     34.2480807
     ]
    },
    "properties": {
@@ -274880,8 +274208,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.1737428,
-     34.2480807
+     -119.1734611,
+     34.2479582
     ]
    },
    "properties": {
@@ -274946,6 +274274,22 @@
     "coordinates": [
      -119.1902054,
      34.2739041
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 126",
+     "South Kimball Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.19051235,
+     34.27423025
     ]
    },
    "properties": {

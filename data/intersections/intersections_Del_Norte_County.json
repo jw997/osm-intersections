@@ -20549,8 +20549,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.15766024999999,
-     41.756425449999995
+     -124.157988,
+     41.756403
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pike Street",
+     "Shirley Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1573325,
+     41.7564479
     ]
    },
    "properties": {
@@ -20661,22 +20677,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -124.1897372,
-     41.7694438
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -124.1847423,
      41.7760884
     ]
@@ -20693,40 +20693,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -124.1897372,
+     41.7694438
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "US 101"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -124.1674854,
      41.7583179
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Elk Valley Road;D2",
-     "Howland Hill Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -124.1677541,
-     41.758106
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Elk Valley Road;D2",
-     "Howland Hill Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -124.1673258,
-     41.7584336
     ]
    },
    "properties": {

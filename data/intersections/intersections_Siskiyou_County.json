@@ -51779,8 +51779,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2756254,
-     41.224782
+     -122.3905657,
+     41.4220082
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.387416,
+     41.421417
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3816721,
+     41.4140997
     ]
    },
    "properties": {
@@ -51827,72 +51859,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.2853386,
-     41.1908593
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cascade Wonderland Highway;I 5",
-     "I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.387416,
-     41.421417
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cascade Wonderland Highway;I 5",
-     "I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.3905657,
-     41.4220082
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cascade Wonderland Highway;I 5",
-     "I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -122.3816721,
-     41.4140997
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Cascade Wonderland Highway;I 5",
-     "I 5"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -122.2732595,
      41.2601763
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2756254,
+     41.224782
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2853386,
+     41.1908593
     ]
    },
    "properties": {
@@ -52051,8 +52051,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.781817,
-     41.90867
+     -121.7586757,
+     41.8573043
     ]
    },
    "properties": {
@@ -52067,8 +52067,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.75634335000001,
-     41.85728815
+     -121.781817,
+     41.90867
     ]
    },
    "properties": {
@@ -52633,8 +52633,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.899023,
-     41.410051
+     -121.899087,
+     41.408593
     ]
    },
    "properties": {
@@ -52649,8 +52649,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.9259145,
-     41.3859185
+     -121.899023,
+     41.410051
     ]
    },
    "properties": {
@@ -52729,8 +52729,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.27088069999999,
-     41.2575275
+     -122.2713443,
+     41.2571402
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Mott Airport Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2704171,
+     41.2579148
     ]
    },
    "properties": {
@@ -53849,8 +53865,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.379528,
-     41.4994615
+     -122.379976,
+     41.499118
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Possum Court",
+     "Possum Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.379576,
+     41.499461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Possum Court",
+     "Possum Way"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.37908,
+     41.499805
     ]
    },
    "properties": {
@@ -54313,8 +54361,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6433418,
-     41.7442979
+     -122.644499,
+     41.742993
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Discovery Street",
+     "Northview Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6421846,
+     41.7456028
     ]
    },
    "properties": {
@@ -54377,8 +54441,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.41447500000001,
-     41.4683155
+     -122.414254,
+     41.468471
     ]
    },
    "properties": {
@@ -54393,8 +54457,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4140785,
-     41.469561999999996
+     -122.413903,
+     41.470653
     ]
    },
    "properties": {
@@ -54521,8 +54585,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.90874015,
-     41.9674399
+     -121.9112542,
+     41.967056
     ]
    },
    "properties": {
@@ -54537,8 +54601,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.91087475,
-     41.9670984
+     -121.906985,
+     41.967739
     ]
    },
    "properties": {
@@ -55241,8 +55305,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3440262,
-     41.344568249999995
+     -122.345644,
+     41.343838
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Abrams Lake Road",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3424084,
+     41.3452985
     ]
    },
    "properties": {
@@ -55289,8 +55369,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.00294635,
-     41.82761365
+     -122.0035597,
+     41.8275893
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Juniper Knoll Road",
+     "Railroad Avenue East"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.002333,
+     41.827638
     ]
    },
    "properties": {
@@ -55723,8 +55819,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.4940675,
-     41.82549
+     -122.493447,
+     41.828011
     ]
    },
    "properties": {
@@ -56811,8 +56907,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.638056,
-     41.732948
+     -122.6380193,
+     41.7330502
     ]
    },
    "properties": {
@@ -56827,8 +56923,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.6380193,
-     41.7330502
+     -122.638056,
+     41.732948
     ]
    },
    "properties": {
@@ -57797,8 +57893,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.60980325,
-     41.9928248
+     -122.6106108,
+     41.9927227
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hilt Road",
+     "I 5"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6089957,
+     41.9929269
     ]
    },
    "properties": {
@@ -57847,8 +57959,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.5922549,
-     41.95468955
+     -122.5911749,
+     41.9550092
     ]
    },
    "properties": {
@@ -57863,8 +57975,40 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.62895735000001,
-     41.739871449999995
+     -122.5933349,
+     41.9543699
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Lemos Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6292175,
+     41.7399165
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Montague Road;I 5 BUS;CA 3"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6286972,
+     41.7398264
     ]
    },
    "properties": {
@@ -57881,6 +58025,38 @@
     "coordinates": [
      -122.381485,
      41.395365
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Vista Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.38096,
+     41.395741
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "Vista Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.379463,
+     41.396882
     ]
    },
    "properties": {
@@ -58071,8 +58247,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -122.3183828,
-     41.310659
+     -122.3187546,
+     41.31055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 5",
+     "West Lake Street;A10"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.318011,
+     41.310768
     ]
    },
    "properties": {

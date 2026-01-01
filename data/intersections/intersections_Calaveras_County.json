@@ -39449,22 +39449,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.36386300000001,
-     38.248650999999995
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Fairway Drive",
-     "Fifth Green Drive"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.36271,
      38.25073
     ]
@@ -39481,8 +39465,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.362407,
-     38.250713
+     -120.362104,
+     38.250696
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fairway Drive",
+     "Fifth Green Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.365049,
+     38.246866
     ]
    },
    "properties": {
@@ -39657,72 +39657,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.262187,
-     38.302528
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Shoshone Drive",
-     "Sierra Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.262284,
      38.302781
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Shoshone Drive",
-     "Sierra Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.264839,
-     38.305343500000006
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Shoshone Drive",
-     "Sierra Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.262242,
-     38.302672
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Shoshone Drive",
-     "Sierra Parkway"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.267551,
-     38.307899
     ]
    },
    "properties": {
@@ -40329,8 +40265,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6609725,
-     38.190145
+     -120.661141,
+     38.190232
     ]
    },
    "properties": {
@@ -40441,8 +40377,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5937335,
-     38.001183499999996
+     -120.593318,
+     38.001424
     ]
    },
    "properties": {
@@ -40681,8 +40617,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.499617,
-     38.361892
+     -120.4990409,
+     38.3612875
     ]
    },
    "properties": {
@@ -40697,8 +40633,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.49932895,
-     38.36158975
+     -120.499617,
+     38.361892
     ]
    },
    "properties": {
@@ -40857,8 +40793,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3423966,
-     38.2653237
+     -120.342781,
+     38.265237
     ]
    },
    "properties": {
@@ -40873,8 +40809,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.342781,
-     38.265237
+     -120.3423966,
+     38.2653237
     ]
    },
    "properties": {
@@ -41163,8 +41099,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.276963,
-     38.304496
+     -120.277254,
+     38.307674
     ]
    },
    "properties": {
@@ -41195,8 +41131,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.275898,
-     38.310168000000004
+     -120.277849,
+     38.310094
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Frontage Road",
+     "Highway 4;CA 4"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.274237,
+     38.312354
     ]
    },
    "properties": {
@@ -41387,22 +41339,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.472804,
-     38.085497
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Church Street",
-     "Main Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -120.4677252,
      38.137901
     ]
@@ -41435,6 +41371,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -120.472804,
+     38.085497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Church Street",
+     "Main Street"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -120.5432539,
      38.0735308
     ]
@@ -41451,8 +41403,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.54256045,
-     38.0725874
+     -120.5430968,
+     38.0733503
     ]
    },
    "properties": {
@@ -41467,8 +41419,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5430968,
-     38.0733503
+     -120.541867,
+     38.071644
     ]
    },
    "properties": {
@@ -41739,14 +41691,14 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.540915,
-     38.069378
+     -120.269159,
+     38.297475
     ]
    },
    "properties": {
     "streets": [
-     "Bush Street",
-     "Hardscrabble Street"
+     "Kenshaw Court",
+     "Kenshaw Way"
     ]
    }
   },
@@ -41755,24 +41707,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.54073,
-     38.069416
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Bush Street",
-     "Hardscrabble Street"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.2692145,
-     38.298446999999996
+     -120.26927,
+     38.299419
     ]
    },
    "properties": {
@@ -42251,8 +42187,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.84504100000001,
-     38.24815
+     -120.846159,
+     38.248106
     ]
    },
    "properties": {
@@ -42267,8 +42203,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.846159,
-     38.248106
+     -120.846294,
+     38.251502
     ]
    },
    "properties": {
@@ -42523,8 +42459,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2738888,
-     38.2905137
+     -120.273961,
+     38.290441
     ]
    },
    "properties": {
@@ -42539,8 +42475,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.273961,
-     38.290441
+     -120.2738888,
+     38.2905137
     ]
    },
    "properties": {
@@ -43035,8 +42971,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.527177,
-     38.40009
+     -120.526932,
+     38.40342
     ]
    },
    "properties": {
@@ -43115,8 +43051,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.394229,
-     38.156819999999996
+     -120.401941,
+     38.153517
     ]
    },
    "properties": {
@@ -43131,8 +43067,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.401941,
-     38.153517
+     -120.387206,
+     38.158976
     ]
    },
    "properties": {
@@ -43405,38 +43341,6 @@
     "coordinates": [
      -120.582501,
      37.903858
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Duchess Drive",
-     "Poker Flat Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.582594,
-     37.903914
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Duchess Drive",
-     "Poker Flat Road"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -120.582533,
-     37.903878
     ]
    },
    "properties": {
@@ -43883,8 +43787,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3659545,
-     38.233221
+     -120.367378,
+     38.233408
     ]
    },
    "properties": {
@@ -44075,8 +43979,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.274744,
-     38.30684
+     -120.2747095,
+     38.306941
     ]
    },
    "properties": {
@@ -44091,8 +43995,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2720315,
-     38.307169
+     -120.269319,
+     38.307498
     ]
    },
    "properties": {
@@ -44395,8 +44299,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.50730899999999,
-     38.3859525
+     -120.507337,
+     38.386138
     ]
    },
    "properties": {
@@ -44411,8 +44315,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5071145,
-     38.385794000000004
+     -120.507726,
+     38.386455
     ]
    },
    "properties": {
@@ -44603,8 +44507,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8307985,
-     38.171154
+     -120.831687,
+     38.169003
+    ]
+   },
+   "properties": {
+    "streets": [
+     "La Contenta Drive",
+     "Saint Andrew's Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.829383,
+     38.174078
     ]
    },
    "properties": {
@@ -44779,8 +44699,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.63273050000001,
-     37.927847
+     -120.628321,
+     37.923676
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arrowhead Street",
+     "Bow Drive"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.63714,
+     37.932018
     ]
    },
    "properties": {
@@ -45051,8 +44987,24 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6338635,
-     37.9264505
+     -120.629264,
+     37.922117
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bow Drive",
+     "Quail Hill Road"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.638463,
+     37.930784
     ]
    },
    "properties": {
