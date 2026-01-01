@@ -276,6 +276,7 @@ selectCounty.addEventListener('change', (event) => {
 });
 
 
+await handleSelectCountyChange(null);
 
 //addMarkers(interJson.features);
 /*
