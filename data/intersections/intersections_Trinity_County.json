@@ -14,7 +14,8 @@
     "streets": [
      "Carpenter Road",
      "South Fork Road;CR 447"
-    ]
+    ],
+    "nodeId": 93964009
    }
   },
   {
@@ -30,7 +31,8 @@
     "streets": [
      "Coffee Pot Road;FR 2S08",
      "Senteney Rock Road;FR 1S07"
-    ]
+    ],
+    "nodeId": 93908924
    }
   },
   {
@@ -47,7 +49,8 @@
      "Grizzly Camp Trailhead Road;FR 7N53",
      "Happy Camp Mountain Road;FR 7N26",
      "Lone Pine Ridge Road;FR 7N10"
-    ]
+    ],
+    "nodeId": 93896564
    }
   },
   {
@@ -63,7 +66,8 @@
     "streets": [
      "Forest Rt 1N03",
      "In15A"
-    ]
+    ],
+    "nodeId": 85707554
    }
   },
   {
@@ -79,7 +83,8 @@
     "streets": [
      "Hoagland Road;CR C8C100",
      "Peak Road;CR 519"
-    ]
+    ],
+    "nodeId": 85897450
    }
   },
   {
@@ -95,7 +100,8 @@
     "streets": [
      "Eightmile Road;FR 2N12",
      "Hastings Road;FR 2N05"
-    ]
+    ],
+    "nodeId": 11987724603
    }
   },
   {
@@ -112,7 +118,8 @@
      "Berry Summit-Mad River Road;NF 1; FR 6N01",
      "Eightmile Road;FR 2N12",
      "South Fork Mountain Road"
-    ]
+    ],
+    "nodeId": 93928376
    }
   },
   {
@@ -128,7 +135,8 @@
     "streets": [
      "FR 4N20",
      "Lake Mountain Road;FR 4N20"
-    ]
+    ],
+    "nodeId": 86147391
    }
   },
   {
@@ -144,7 +152,8 @@
     "streets": [
      "Grapevine Creek Road;FR 4N20",
      "Junker's Road;FR 4N20"
-    ]
+    ],
+    "nodeId": 86206133
    }
   },
   {
@@ -160,7 +169,8 @@
     "streets": [
      "Rat Trap Gap Road;NF 35;FR 28N35",
      "String Bean Creek Road;FR 29N28"
-    ]
+    ],
+    "nodeId": 93993044
    }
   },
   {
@@ -176,7 +186,8 @@
     "streets": [
      "County Line Road;FR 31N02",
      "Deer Lick Knob Road"
-    ]
+    ],
+    "nodeId": 93852385
    }
   },
   {
@@ -192,7 +203,8 @@
     "streets": [
      "Hoadley Peaks Road",
      "Lewiston Turnpike Road;CR 212"
-    ]
+    ],
+    "nodeId": 91990601
    }
   },
   {
@@ -208,7 +220,8 @@
     "streets": [
      "East County Line Road",
      "Indian Creek Road;CR 336"
-    ]
+    ],
+    "nodeId": 92084871
    }
   },
   {
@@ -224,7 +237,8 @@
     "streets": [
      "Dog Creek Road",
      "Slate Mountain Road"
-    ]
+    ],
+    "nodeId": 92229292
    }
   },
   {
@@ -240,7 +254,8 @@
     "streets": [
      "29N25B",
      "Jeep Trail"
-    ]
+    ],
+    "nodeId": 92248276
    }
   },
   {
@@ -257,7 +272,8 @@
      "Deadwood Road;CR 211",
      "French Gulch Road",
      "Tom Green Mine Road"
-    ]
+    ],
+    "nodeId": 93954394
    }
   },
   {
@@ -273,7 +289,8 @@
     "streets": [
      "County Line Road;FR 31N02",
      "Fox Gulch Road;FR 30N02"
-    ]
+    ],
+    "nodeId": 93953389
    }
   },
   {
@@ -290,7 +307,8 @@
      "County Line Road;FR 31N02",
      "County Line Road;NF 2; FR 31N02",
      "Deer Lick Knob Road"
-    ]
+    ],
+    "nodeId": 93846827
    }
   },
   {
@@ -306,7 +324,8 @@
     "streets": [
      "Hulse Road;FR 28N62",
      "Hulse Road;FS 28N62"
-    ]
+    ],
+    "nodeId": 93795382
    }
   },
   {
@@ -322,7 +341,8 @@
     "streets": [
      "Hulse Road;FR 28N62",
      "Stuart Gap Road;FR 28N10"
-    ]
+    ],
+    "nodeId": 93668293
    }
   },
   {
@@ -338,7 +358,8 @@
     "streets": [
      "Browns Mountain Road;CR 222",
      "Elderberry Lane"
-    ]
+    ],
+    "nodeId": 93784477
    }
   },
   {
@@ -354,7 +375,8 @@
     "streets": [
      "Chaps Mountain Road",
      "Elderberry Lane"
-    ]
+    ],
+    "nodeId": 7231917736
    }
   },
   {
@@ -370,7 +392,8 @@
     "streets": [
      "Pine Forest Drive;PUD 130",
      "Shooting Star Court;PUD 107"
-    ]
+    ],
+    "nodeId": 93784700
    }
   },
   {
@@ -386,7 +409,8 @@
     "streets": [
      "Bear Rock Road;PUD 105",
      "Pine Forest Drive;PUD 130"
-    ]
+    ],
+    "nodeId": 93784705
    }
   },
   {
@@ -402,7 +426,8 @@
     "streets": [
      "Fir Meadow Lane;PUD 117",
      "Pine Forest Drive;PUD 130"
-    ]
+    ],
+    "nodeId": 93784710
    }
   },
   {
@@ -418,7 +443,8 @@
     "streets": [
      "Horseshoe Loop;PUD 154",
      "Pine Forest Drive;PUD 130"
-    ]
+    ],
+    "nodeId": 11971094207
    }
   },
   {
@@ -435,7 +461,8 @@
      "Fir Meadow Road;PUD 118",
      "Horseshoe Loop;PUD 154",
      "Pine Forest Drive;PUD 130"
-    ]
+    ],
+    "nodeId": 93784724
    }
   },
   {
@@ -451,7 +478,8 @@
     "streets": [
      "Main Tule Road;FR 31N31",
      "Post Mountain Road;NF 7; FR 2N07"
-    ]
+    ],
+    "nodeId": 93784728
    }
   },
   {
@@ -467,7 +495,8 @@
     "streets": [
      "East Tule Creek Road;FR 31N29",
      "Main Tule Road;FR 31N31"
-    ]
+    ],
+    "nodeId": 93784928
    }
   },
   {
@@ -483,7 +512,8 @@
     "streets": [
      "Tom Bell Road;CR 226",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93784993
    }
   },
   {
@@ -499,7 +529,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Pickett Circle Lane"
-    ]
+    ],
+    "nodeId": 93924381
    }
   },
   {
@@ -515,7 +546,8 @@
     "streets": [
      "Philpot Road;FR 31N32",
      "Post Mountain Road;NF 7; FR 2N07"
-    ]
+    ],
+    "nodeId": 93785028
    }
   },
   {
@@ -531,7 +563,8 @@
     "streets": [
      "East Tule Creek Road;FR 31N29",
      "Philpot Road;FR 31N32"
-    ]
+    ],
+    "nodeId": 93785120
    }
   },
   {
@@ -547,7 +580,8 @@
     "streets": [
      "Fairview Marina Drive;FR 34N48Y",
      "Trinity Dam Boulevard;CR 105"
-    ]
+    ],
+    "nodeId": 93785241
    }
   },
   {
@@ -564,7 +598,8 @@
      "Billys Peak Drive;CR 153",
      "Ponderosa Court;CR 154",
      "Willow Court;CR 155"
-    ]
+    ],
+    "nodeId": 93785258
    }
   },
   {
@@ -580,7 +615,8 @@
     "streets": [
      "Liberty Lane",
      "Placer Street;CR 247"
-    ]
+    ],
+    "nodeId": 93785271
    }
   },
   {
@@ -596,7 +632,8 @@
     "streets": [
      "North Placer Street;CR 227",
      "Placer Street;CR 247"
-    ]
+    ],
+    "nodeId": 7227075720
    }
   },
   {
@@ -612,7 +649,8 @@
     "streets": [
      "Buckeye Creek Road;FR 37N52",
      "Up Little Bounder Road;FR 37N53"
-    ]
+    ],
+    "nodeId": 93786138
    }
   },
   {
@@ -628,7 +666,8 @@
     "streets": [
      "Buckeye Creek Road;FR 37N52",
      "State Route 3;CA 3"
-    ]
+    ],
+    "nodeId": 93819394
    }
   },
   {
@@ -644,7 +683,8 @@
     "streets": [
      "Rattlesnake Ridge Road;FR 29N58",
      "Scott Flat Road;FR 29N25"
-    ]
+    ],
+    "nodeId": 93788658
    }
   },
   {
@@ -660,7 +700,8 @@
     "streets": [
      "Bramlet Road;NF 29; FR 30N29",
      "Rattlesnake Ridge Road;FR 29N58"
-    ]
+    ],
+    "nodeId": 93910542
    }
   },
   {
@@ -676,7 +717,8 @@
     "streets": [
      "Mule Ridge Road;FR 1S11",
      "Senteney Rock Road;FR 1S07"
-    ]
+    ],
+    "nodeId": 93800469
    }
   },
   {
@@ -692,7 +734,8 @@
     "streets": [
      "1S11G",
      "Mule Ridge Road;FR 1S11"
-    ]
+    ],
+    "nodeId": 93796178
    }
   },
   {
@@ -708,7 +751,8 @@
     "streets": [
      "1S11F",
      "Mule Ridge Road;FR 1S11"
-    ]
+    ],
+    "nodeId": 93789308
    }
   },
   {
@@ -724,7 +768,8 @@
     "streets": [
      "Mule Ridge Road;FR 1S11",
      "Van Duzen Road;CR 511"
-    ]
+    ],
+    "nodeId": 93789570
    }
   },
   {
@@ -740,7 +785,8 @@
     "streets": [
      "One Eyed Flat Road",
      "South Derrick Flat Road;CR 136A"
-    ]
+    ],
+    "nodeId": 93790583
    }
   },
   {
@@ -756,7 +802,8 @@
     "streets": [
      "Bowerman Ridge Road;FR 36N35",
      "Bowerman Road;FR 35N24"
-    ]
+    ],
+    "nodeId": 93792619
    }
   },
   {
@@ -772,7 +819,8 @@
     "streets": [
      "Lewiston Turnpike Road;CR 212",
      "Rush Creek Road;CR 204"
-    ]
+    ],
+    "nodeId": 93794554
    }
   },
   {
@@ -788,7 +836,8 @@
     "streets": [
      "Deep Hollow Road;FR 2S12",
      "Mad River Ridge Road;FR 2S05"
-    ]
+    ],
+    "nodeId": 93795497
    }
   },
   {
@@ -804,7 +853,8 @@
     "streets": [
      "Eagle Creek Loop;CR135",
      "Ripple Creek Road;FR 38N22"
-    ]
+    ],
+    "nodeId": 93899704
    }
   },
   {
@@ -820,7 +870,8 @@
     "streets": [
      "Gates Road;CR 341",
      "Grouse Creek Road;NF 6; FR 4N13"
-    ]
+    ],
+    "nodeId": 93798519
    }
   },
   {
@@ -836,7 +887,8 @@
     "streets": [
      "Hoaglin Cutoff;FR 4S15",
      "Zenia Lake Mountain Road;CR 503"
-    ]
+    ],
+    "nodeId": 93798676
    }
   },
   {
@@ -852,7 +904,8 @@
     "streets": [
      "CA 299",
      "Hawkins Bar Road;FR 6N53"
-    ]
+    ],
+    "nodeId": 93801262
    }
   },
   {
@@ -868,7 +921,8 @@
     "streets": [
      "Lake Eleanor Road;FR 36N24",
      "North Fork Swift Creek Road;FR 37N55"
-    ]
+    ],
+    "nodeId": 93804978
    }
   },
   {
@@ -884,7 +938,8 @@
     "streets": [
      "Lake Eleanor Road;FR 36N24",
      "Swift Creek Road;CR 123"
-    ]
+    ],
+    "nodeId": 93808654
    }
   },
   {
@@ -900,7 +955,8 @@
     "streets": [
      "Swift Creek Road;CR 123",
      "Swift Creek Road;FR 36N25"
-    ]
+    ],
+    "nodeId": 93808611
    }
   },
   {
@@ -916,7 +972,8 @@
     "streets": [
      "Gratten Flat",
      "Swift Creek Road;CR 123"
-    ]
+    ],
+    "nodeId": 93808652
    }
   },
   {
@@ -932,7 +989,8 @@
     "streets": [
      "Lake Eleanor Road Spur D;FR 36N24D",
      "Lake Eleanor Road;FR 36N24"
-    ]
+    ],
+    "nodeId": 93818486
    }
   },
   {
@@ -948,7 +1006,8 @@
     "streets": [
      "String Bean Creek Road;29N28",
      "String Bean Creek Road;FR 29N28"
-    ]
+    ],
+    "nodeId": 93811615
    }
   },
   {
@@ -964,7 +1023,8 @@
     "streets": [
      "Big Mountain Road;NF 4; FR 5N04",
      "French Creek Road;FR 5N13"
-    ]
+    ],
+    "nodeId": 93853198
    }
   },
   {
@@ -981,7 +1041,8 @@
      "Big French Creek Road;FR 5N13",
      "Devils Canyon Road;FR 6N04",
      "French Creek Road;FR 5N13"
-    ]
+    ],
+    "nodeId": 93814045
    }
   },
   {
@@ -997,7 +1058,8 @@
     "streets": [
      "Hayward Flat Campground Road;FR 35N26Y",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93814292
    }
   },
   {
@@ -1013,7 +1075,8 @@
     "streets": [
      "Mule Creek Road;FR 35N23Y",
      "Rainier Road;CR 134"
-    ]
+    ],
+    "nodeId": 93816352
    }
   },
   {
@@ -1029,7 +1092,8 @@
     "streets": [
      "West Low Gap Road;FR 28N40",
      "Wildwood-Mad River Road;NF 30; FR 29N30"
-    ]
+    ],
+    "nodeId": 93816725
    }
   },
   {
@@ -1045,7 +1109,8 @@
     "streets": [
      "Bolly Boundary Road;FR 27N17",
      "West Low Gap Road;FR 28N40"
-    ]
+    ],
+    "nodeId": 7431152266
    }
   },
   {
@@ -1061,7 +1126,8 @@
     "streets": [
      "Buckeye Arm Road;CR 130",
      "Haylock Ridge Road;FR 34N80"
-    ]
+    ],
+    "nodeId": 11229916713
    }
   },
   {
@@ -1077,7 +1143,8 @@
     "streets": [
      "Buckeye Arm Road;CR 130",
      "Trinity Dam Boulevard;CR 105"
-    ]
+    ],
+    "nodeId": 93938671
    }
   },
   {
@@ -1093,7 +1160,8 @@
     "streets": [
      "Rat Trap Gap Road;NF 35;FR 28N35",
      "Wildwood-Mad River Road;NF 30; FR 29N30"
-    ]
+    ],
+    "nodeId": 93822059
    }
   },
   {
@@ -1109,7 +1177,8 @@
     "streets": [
      "Stuart Gap Road;FR 28N10",
      "Wildwood-Mad River Road;NF 30; FR 29N30"
-    ]
+    ],
+    "nodeId": 93934162
    }
   },
   {
@@ -1125,7 +1194,8 @@
     "streets": [
      "Hart Street;WVB 29",
      "Oregon Street;CR 225"
-    ]
+    ],
+    "nodeId": 93825069
    }
   },
   {
@@ -1141,7 +1211,8 @@
     "streets": [
      "Lake Eleanor Road;FR 36N24",
      "Swift Creek Road;FR 36N25"
-    ]
+    ],
+    "nodeId": 93828260
    }
   },
   {
@@ -1157,7 +1228,8 @@
     "streets": [
      "Low Mountain Road;FR 27N12",
      "Swim Ridge Road;FR 27N13"
-    ]
+    ],
+    "nodeId": 93893149
    }
   },
   {
@@ -1174,7 +1246,8 @@
      "Jones Ridge Road;NF 27;FR 27N02",
      "Mad River Road;CR 501",
      "Swim Ridge Road;FR 27N13"
-    ]
+    ],
+    "nodeId": 93829740
    }
   },
   {
@@ -1190,7 +1263,8 @@
     "streets": [
      "Granite Road;FR 35N72Y",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93930275
    }
   },
   {
@@ -1206,7 +1280,8 @@
     "streets": [
      "Graves Creek Road;FR 38N80",
      "Ramshorn Mumbo Road;FR 39N26"
-    ]
+    ],
+    "nodeId": 13403667018
    }
   },
   {
@@ -1222,7 +1297,8 @@
     "streets": [
      "Ramshorn Mumbo Road;FR 39N26",
      "South Fork Road;NF 26"
-    ]
+    ],
+    "nodeId": 93831947
    }
   },
   {
@@ -1238,7 +1314,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Secret Gulch Road;FR 27N34"
-    ]
+    ],
+    "nodeId": 93975249
    }
   },
   {
@@ -1254,7 +1331,8 @@
     "streets": [
      "Mad River Ridge Road;FR 2S05",
      "Secret Gulch Road;FR 27N34"
-    ]
+    ],
+    "nodeId": 10983229165
    }
   },
   {
@@ -1270,7 +1348,8 @@
     "streets": [
      "Pettijohn Road;FR 34N76",
      "Rock Pit Road;FR 34N94"
-    ]
+    ],
+    "nodeId": 93835333
    }
   },
   {
@@ -1286,7 +1365,8 @@
     "streets": [
      "Eagle Creek Road;CR140",
      "Eagle Creek Road;FR 38N27"
-    ]
+    ],
+    "nodeId": 93837161
    }
   },
   {
@@ -1302,7 +1382,8 @@
     "streets": [
      "Lower Wilcox Ridge Road;FR 28N50",
      "Wildwood-Mad River Road;NF 30; FR 29N30"
-    ]
+    ],
+    "nodeId": 93839516
    }
   },
   {
@@ -1318,7 +1399,8 @@
     "streets": [
      "Bear Creek Road;FR 40N45",
      "Picayune Road;FR 39N18"
-    ]
+    ],
+    "nodeId": 93841274
    }
   },
   {
@@ -1335,7 +1417,8 @@
      "Weaver Bally Loop;CR WVC39",
      "Weaver Bally Road;CR WVC38",
      "Weaver Bally Road;FR 33N38"
-    ]
+    ],
+    "nodeId": 93968769
    }
   },
   {
@@ -1351,7 +1434,8 @@
     "streets": [
      "Black Bear Road",
      "Weaver Bally Road;FR 33N38"
-    ]
+    ],
+    "nodeId": 93847148
    }
   },
   {
@@ -1367,7 +1451,8 @@
     "streets": [
      "Bally Road",
      "Weaver Bally Road;FR 33N38"
-    ]
+    ],
+    "nodeId": 93847173
    }
   },
   {
@@ -1383,7 +1468,8 @@
     "streets": [
      "Hall City Creek Road;FR 29N07",
      "Potato Creek Road;FR 30N04"
-    ]
+    ],
+    "nodeId": 93808722
    }
   },
   {
@@ -1399,7 +1485,8 @@
     "streets": [
      "Midas Saddle Road;FR 30N16",
      "Potato Creek Road;FR 30N04"
-    ]
+    ],
+    "nodeId": 93848045
    }
   },
   {
@@ -1415,7 +1502,8 @@
     "streets": [
      "Browns Creek Road;FR 30N01",
      "Hall City Creek Road;FR 29N07"
-    ]
+    ],
+    "nodeId": 92608477
    }
   },
   {
@@ -1431,7 +1519,8 @@
     "streets": [
      "Jones Ridge Road;NF 27;FR 27N02",
      "Wildwood-Mad River Road;NF 30; FR 29N30"
-    ]
+    ],
+    "nodeId": 93850276
    }
   },
   {
@@ -1447,7 +1536,8 @@
     "streets": [
      "Browns Creek Road;FR 30N01",
      "Fox Gulch Road;FR 30N02"
-    ]
+    ],
+    "nodeId": 93850630
    }
   },
   {
@@ -1463,7 +1553,8 @@
     "streets": [
      "Kinney Camp Road;FR 34N74",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93899060
    }
   },
   {
@@ -1479,7 +1570,8 @@
     "streets": [
      "Quinn Lane",
      "Quinn Road;PUD 137"
-    ]
+    ],
+    "nodeId": 93856217
    }
   },
   {
@@ -1495,7 +1587,8 @@
     "streets": [
      "Strope Creek",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93860637
    }
   },
   {
@@ -1511,7 +1604,8 @@
     "streets": [
      "Eagle Creek Road;FR 38N27",
      "Ripple Creek Road;FR 38N22"
-    ]
+    ],
+    "nodeId": 93838408
    }
   },
   {
@@ -1527,7 +1621,8 @@
     "streets": [
      "Corral Creek Road;FR 4N29",
      "Packers Creek Road;NF 16; FR 4N16"
-    ]
+    ],
+    "nodeId": 93861090
    }
   },
   {
@@ -1543,7 +1638,8 @@
     "streets": [
      "CA 299",
      "Seth Road"
-    ]
+    ],
+    "nodeId": 93862561
    }
   },
   {
@@ -1559,7 +1655,8 @@
     "streets": [
      "Oregon Road;CR 225",
      "Oregon Street;CR 225"
-    ]
+    ],
+    "nodeId": 93928018
    }
   },
   {
@@ -1575,7 +1672,8 @@
     "streets": [
      "Oregon Ridge Road",
      "Oregon Road;CR 225"
-    ]
+    ],
+    "nodeId": 9292704110
    }
   },
   {
@@ -1591,7 +1689,8 @@
     "streets": [
      "Oregon Road;CR 225",
      "Rocker Box Road;CR 425"
-    ]
+    ],
+    "nodeId": 9292704079
    }
   },
   {
@@ -1607,7 +1706,8 @@
     "streets": [
      "Chaparral Road;FR 4N41",
      "Underwood Mountain Road;NF 60"
-    ]
+    ],
+    "nodeId": 93794085
    }
   },
   {
@@ -1624,7 +1724,8 @@
      "Eltapom Road;FR 4N24",
      "Underwood Mountain Road;CR 327",
      "Underwood Mountain Road;NF 60"
-    ]
+    ],
+    "nodeId": 93864225
    }
   },
   {
@@ -1640,7 +1741,8 @@
     "streets": [
      "Martin Road;CR 237",
      "Oak Ridge Road;CR 246"
-    ]
+    ],
+    "nodeId": 93864564
    }
   },
   {
@@ -1656,7 +1758,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Ruth Zenia Road;CR 502"
-    ]
+    ],
+    "nodeId": 93868261
    }
   },
   {
@@ -1672,7 +1775,8 @@
     "streets": [
      "Barry Creek Road;CR 524",
      "Wildwood-Mad River Road;NF 30; FR 29N30"
-    ]
+    ],
+    "nodeId": 93869638
    }
   },
   {
@@ -1688,7 +1792,8 @@
     "streets": [
      "Brannan Street;CR WVD73",
      "Sharron Court;CR WVD81"
-    ]
+    ],
+    "nodeId": 11236565896
    }
   },
   {
@@ -1704,7 +1809,8 @@
     "streets": [
      "Estrellita Road",
      "Ridgeville Road"
-    ]
+    ],
+    "nodeId": 93814770
    }
   },
   {
@@ -1720,7 +1826,8 @@
     "streets": [
      "South Fork Goods Creek Road;29N27",
      "String Bean Creek Road;29N28"
-    ]
+    ],
+    "nodeId": 93963990
    }
   },
   {
@@ -1736,7 +1843,8 @@
     "streets": [
      "Indian Valley Road;NF 10; FR 2N10",
      "Main Tule Road;FR 31N31"
-    ]
+    ],
+    "nodeId": 93784982
    }
   },
   {
@@ -1752,7 +1860,8 @@
     "streets": [
      "Indian Valley Road;NF 10; FR 2N10",
      "Post Mountain Road;NF 7; FR 2N07"
-    ]
+    ],
+    "nodeId": 93937357
    }
   },
   {
@@ -1768,7 +1877,8 @@
     "streets": [
      "Buck Gulch Road;FR 2N03",
      "Indian Valley Road;NF 10; FR 2N10"
-    ]
+    ],
+    "nodeId": 93939625
    }
   },
   {
@@ -1784,7 +1894,8 @@
     "streets": [
      "Indian Valley Road;NF 10; FR 2N10",
      "Limedyke Lookout Road;FR 2N16"
-    ]
+    ],
+    "nodeId": 11974546889
    }
   },
   {
@@ -1801,7 +1912,8 @@
      "Ruth Zenia Road;CR 502",
      "Ruth Zenia Road;CR 511",
      "Zenia Lake Mountain Road;CR 503"
-    ]
+    ],
+    "nodeId": 93876416
    }
   },
   {
@@ -1817,7 +1929,8 @@
     "streets": [
      "Burgess Ranch Road;CR 518",
      "Ruth Zenia Road;CR 511"
-    ]
+    ],
+    "nodeId": 7068729020
    }
   },
   {
@@ -1834,7 +1947,8 @@
      "Ruth Zenia Road;CR 511",
      "Zenia Bluff Road;CR 516",
      "Zenia-Blocksburg Road"
-    ]
+    ],
+    "nodeId": 93876459
    }
   },
   {
@@ -1850,7 +1964,8 @@
     "streets": [
      "North Street",
      "North Street;CR WVD75"
-    ]
+    ],
+    "nodeId": 93877315
    }
   },
   {
@@ -1867,7 +1982,8 @@
      "Garrett Road;CR 313",
      "Hyampom Airport Road;CR 370",
      "Hyampom Road;CR 301"
-    ]
+    ],
+    "nodeId": 93877356
    }
   },
   {
@@ -1883,7 +1999,8 @@
     "streets": [
      "Garrett Road;CR 313",
      "Hyampom Airport Road;CR 370"
-    ]
+    ],
+    "nodeId": 32820705
    }
   },
   {
@@ -1899,7 +2016,8 @@
     "streets": [
      "Butter Creek Road;FR 3N08",
      "Indian Butter Tie Road;FR 2N01"
-    ]
+    ],
+    "nodeId": 93877675
    }
   },
   {
@@ -1915,7 +2033,8 @@
     "streets": [
      "Butter Creek Road;FR 3N08",
      "Fir Root Springs Road;FR 3N21"
-    ]
+    ],
+    "nodeId": 93877781
    }
   },
   {
@@ -1931,7 +2050,8 @@
     "streets": [
      "Ann Avenue;CR TC08",
      "Lakeview Drive;CR TC09"
-    ]
+    ],
+    "nodeId": 93878074
    }
   },
   {
@@ -1947,7 +2067,8 @@
     "streets": [
      "Lakeview Drive;CR TC09",
      "Maude Avenue;CR TC03"
-    ]
+    ],
+    "nodeId": 93878076
    }
   },
   {
@@ -1963,7 +2084,8 @@
     "streets": [
      "Fir Root Springs Road;FR 3N21",
      "Hyampom Road;CR 301"
-    ]
+    ],
+    "nodeId": 93878228
    }
   },
   {
@@ -1979,7 +2101,8 @@
     "streets": [
      "Bailey Canyon Campground Road;FR 1N51",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93878759
    }
   },
   {
@@ -1995,7 +2118,8 @@
     "streets": [
      "East Stuart Road Spur A;FR 35N10A",
      "East Stuart Road;FR 35N10"
-    ]
+    ],
+    "nodeId": 93880541
    }
   },
   {
@@ -2011,7 +2135,8 @@
     "streets": [
      "Low Mountain Road;FR 27N12",
      "Wildwood-Mad River Road;NF 30; FR 29N30"
-    ]
+    ],
+    "nodeId": 93838832
    }
   },
   {
@@ -2027,7 +2152,8 @@
     "streets": [
      "Alpine View Road;FR 35N14Y",
      "Bowerman Road;FR 35N24"
-    ]
+    ],
+    "nodeId": 93824537
    }
   },
   {
@@ -2044,7 +2170,8 @@
      "Dubakella Road;FR 29N32",
      "Red Mountain Motorway;FR 29N73",
      "Upper Smokey Road;FR 29N75"
-    ]
+    ],
+    "nodeId": 93836801
    }
   },
   {
@@ -2060,7 +2187,8 @@
     "streets": [
      "Hobo Gulch Road Spur A;FR 34N07YA",
      "Hobo Gulch Road;FR 34N07Y"
-    ]
+    ],
+    "nodeId": 93888574
    }
   },
   {
@@ -2076,7 +2204,8 @@
     "streets": [
      "Bramlet Road;NF 29; FR 30N29",
      "Red Mountain Motorway;FR 29N73"
-    ]
+    ],
+    "nodeId": 9774717716
    }
   },
   {
@@ -2092,7 +2221,8 @@
     "streets": [
      "CA 36",
      "Red Mountain Motorway;FR 29N73"
-    ]
+    ],
+    "nodeId": 93949606
    }
   },
   {
@@ -2108,7 +2238,8 @@
     "streets": [
      "Deep Hollow Road;FR 2S12",
      "Upper River Road"
-    ]
+    ],
+    "nodeId": 5493797808
    }
   },
   {
@@ -2125,7 +2256,8 @@
      "Buckwheat Lane",
      "Deep Hollow Road;FR 2S12",
      "Old Cedar Gap Road"
-    ]
+    ],
+    "nodeId": 93941266
    }
   },
   {
@@ -2141,7 +2273,8 @@
     "streets": [
      "Mad River Campground Road;FR 1S350",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 10977800623
    }
   },
   {
@@ -2157,7 +2290,8 @@
     "streets": [
      "Grizzly Lane",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93804522
    }
   },
   {
@@ -2173,7 +2307,8 @@
     "streets": [
      "CA 3",
      "Tangle Blue Road;FR 39N20"
-    ]
+    ],
+    "nodeId": 93904750
    }
   },
   {
@@ -2189,7 +2324,8 @@
     "streets": [
      "B-Bar-K Road",
      "CA 3"
-    ]
+    ],
+    "nodeId": 93907390
    }
   },
   {
@@ -2205,7 +2341,8 @@
     "streets": [
      "B-Bar-K Road",
      "Shady Creek Lane"
-    ]
+    ],
+    "nodeId": 93971661
    }
   },
   {
@@ -2221,7 +2358,8 @@
     "streets": [
      "B-Bar-K Road",
      "Kafer Ranch Road"
-    ]
+    ],
+    "nodeId": 93948556
    }
   },
   {
@@ -2237,7 +2375,8 @@
     "streets": [
      "Barney Gulch Road",
      "East Fork Road"
-    ]
+    ],
+    "nodeId": 8875627332
    }
   },
   {
@@ -2253,7 +2392,8 @@
     "streets": [
      "Carter Ranch Road",
      "Rattlesnake Gap Road"
-    ]
+    ],
+    "nodeId": 93800406
    }
   },
   {
@@ -2269,7 +2409,8 @@
     "streets": [
      "Campbell Ridge Road;CR 454",
      "Sign Tree Lane"
-    ]
+    ],
+    "nodeId": 93908476
    }
   },
   {
@@ -2285,7 +2426,8 @@
     "streets": [
      "Main Street;CA 3;CA 299",
      "Union Hill Road"
-    ]
+    ],
+    "nodeId": 93908667
    }
   },
   {
@@ -2301,7 +2443,8 @@
     "streets": [
      "New Road",
      "Union Hill Road"
-    ]
+    ],
+    "nodeId": 93908641
    }
   },
   {
@@ -2317,7 +2460,8 @@
     "streets": [
      "CA 299",
      "Jc Dump Road"
-    ]
+    ],
+    "nodeId": 11069925012
    }
   },
   {
@@ -2333,7 +2477,8 @@
     "streets": [
      "Coffee Pot Road;FR 2S08",
      "Ruth Zenia Road;CR 502"
-    ]
+    ],
+    "nodeId": 93956195
    }
   },
   {
@@ -2349,7 +2494,8 @@
     "streets": [
      "Coffee Pot Road;FR 2S08",
      "Watts Lake Campground Road;FR 2S78"
-    ]
+    ],
+    "nodeId": 93797053
    }
   },
   {
@@ -2365,7 +2511,8 @@
     "streets": [
      "Coffee Pot Road;FR 2S08",
      "Grizzly Mountain Road;FR 2S17"
-    ]
+    ],
+    "nodeId": 93873800
    }
   },
   {
@@ -2381,7 +2528,8 @@
     "streets": [
      "Kingsbury Road;CR 320",
      "Stortz Street;CR HF26"
-    ]
+    ],
+    "nodeId": 93908948
    }
   },
   {
@@ -2397,7 +2545,8 @@
     "streets": [
      "Beryl Lane",
      "Pioneer Lane;CR 248"
-    ]
+    ],
+    "nodeId": 93908964
    }
   },
   {
@@ -2413,7 +2562,8 @@
     "streets": [
      "Bartlett Road",
      "Lake Road"
-    ]
+    ],
+    "nodeId": 93908983
    }
   },
   {
@@ -2429,7 +2579,8 @@
     "streets": [
      "Lake Road",
      "Park Road"
-    ]
+    ],
+    "nodeId": 93909000
    }
   },
   {
@@ -2445,7 +2596,8 @@
     "streets": [
      "Deadwood Road;CR 211",
      "Jessup Gulch Road"
-    ]
+    ],
+    "nodeId": 93909032
    }
   },
   {
@@ -2461,7 +2613,8 @@
     "streets": [
      "Texas Street",
      "Trinity Dam Boulevard;CR 105"
-    ]
+    ],
+    "nodeId": 93909280
    }
   },
   {
@@ -2478,7 +2631,8 @@
      "Bear Creek",
      "Donner Street",
      "Texas Street"
-    ]
+    ],
+    "nodeId": 93909285
    }
   },
   {
@@ -2494,7 +2648,8 @@
     "streets": [
      "Sutter Street",
      "Texas Street"
-    ]
+    ],
+    "nodeId": 93909287
    }
   },
   {
@@ -2510,7 +2665,8 @@
     "streets": [
      "Texas Street",
      "Trinity Vista"
-    ]
+    ],
+    "nodeId": 93909291
    }
   },
   {
@@ -2526,7 +2682,8 @@
     "streets": [
      "Fremont Street",
      "Texas Street"
-    ]
+    ],
+    "nodeId": 93909297
    }
   },
   {
@@ -2542,7 +2699,8 @@
     "streets": [
      "Arena Drive",
      "CA 3"
-    ]
+    ],
+    "nodeId": 93909334
    }
   },
   {
@@ -2558,7 +2716,8 @@
     "streets": [
      "Big Foot Trail",
      "Trinity Trail"
-    ]
+    ],
+    "nodeId": 93909383
    }
   },
   {
@@ -2574,7 +2733,8 @@
     "streets": [
      "Trinity Trail",
      "Wool Mountain Road"
-    ]
+    ],
+    "nodeId": 93909440
    }
   },
   {
@@ -2590,7 +2750,8 @@
     "streets": [
      "Peak Road;CR 519",
      "Trinity Trail"
-    ]
+    ],
+    "nodeId": 93909446
    }
   },
   {
@@ -2607,7 +2768,8 @@
      "CA 36",
      "Forest Rt 1N03",
      "Mad River Rock Road;FR 1N03"
-    ]
+    ],
+    "nodeId": 93909581
    }
   },
   {
@@ -2623,7 +2785,8 @@
     "streets": [
      "Pony Express Way;CR 474",
      "Stage Coach Drive;CR 475"
-    ]
+    ],
+    "nodeId": 93909745
    }
   },
   {
@@ -2639,7 +2802,8 @@
     "streets": [
      "Bramlet Road;NF 29; FR 30N29",
      "Upper Smokey Road;FR 29N75"
-    ]
+    ],
+    "nodeId": 93910316
    }
   },
   {
@@ -2655,7 +2819,8 @@
     "streets": [
      "Lake Forest Drive;CR 181",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93910760
    }
   },
   {
@@ -2671,7 +2836,8 @@
     "streets": [
      "Lake Forest Drive;CR 181",
      "Trinity Lake Drive;CR 184"
-    ]
+    ],
+    "nodeId": 93910747
    }
   },
   {
@@ -2687,7 +2853,8 @@
     "streets": [
      "Lake Forest Drive;CR 181",
      "Pine Cone Court;CR 185"
-    ]
+    ],
+    "nodeId": 93910739
    }
   },
   {
@@ -2703,7 +2870,8 @@
     "streets": [
      "Lake Forest Drive;CR 181",
      "Lower Lake View Drive;CR 182A"
-    ]
+    ],
+    "nodeId": 93910743
    }
   },
   {
@@ -2719,7 +2887,8 @@
     "streets": [
      "Fir Tree Court;CR 186",
      "Lake Forest Drive;CR 181"
-    ]
+    ],
+    "nodeId": 93910754
    }
   },
   {
@@ -2735,7 +2904,8 @@
     "streets": [
      "Alpine Court;CR 187",
      "Lake Forest Drive;CR 181"
-    ]
+    ],
+    "nodeId": 93910787
    }
   },
   {
@@ -2751,7 +2921,8 @@
     "streets": [
      "Lake Forest Drive;CR 181",
      "Lower Lake View Drive"
-    ]
+    ],
+    "nodeId": 93910785
    }
   },
   {
@@ -2767,7 +2938,8 @@
     "streets": [
      "13 Dips Road;CR 347",
      "Salt Gulch Road"
-    ]
+    ],
+    "nodeId": 93910803
    }
   },
   {
@@ -2783,7 +2955,8 @@
     "streets": [
      "Creath Street;CR WVB22",
      "Hanover Street;CR WVB83"
-    ]
+    ],
+    "nodeId": 93910975
    }
   },
   {
@@ -2799,7 +2972,8 @@
     "streets": [
      "Hanover Street;CR WVB83",
      "South Miner Street;CR WVB23"
-    ]
+    ],
+    "nodeId": 93910983
    }
   },
   {
@@ -2815,7 +2989,8 @@
     "streets": [
      "Amanda Court;CR WVB84",
      "Hanover Street;CR WVB83"
-    ]
+    ],
+    "nodeId": 4249374865
    }
   },
   {
@@ -2831,7 +3006,8 @@
     "streets": [
      "Dose Road",
      "Underwood Mountain Road;CR 417"
-    ]
+    ],
+    "nodeId": 93911025
    }
   },
   {
@@ -2848,7 +3024,8 @@
      "Eastridge North Court;PUD 113",
      "Eastridge South Court;PUD 114",
      "Trinity Pines Drive;CR 351"
-    ]
+    ],
+    "nodeId": 93911552
    }
   },
   {
@@ -2864,7 +3041,8 @@
     "streets": [
      "Nelson Road;CR 342",
      "Summit Creek Road;CR 329"
-    ]
+    ],
+    "nodeId": 93911936
    }
   },
   {
@@ -2880,7 +3058,8 @@
     "streets": [
      "Summit Creek Road;CR 329",
      "Wingert Road"
-    ]
+    ],
+    "nodeId": 93911964
    }
   },
   {
@@ -2896,7 +3075,8 @@
     "streets": [
      "Duncan Creek Lane",
      "Summit Creek Road;CR 329"
-    ]
+    ],
+    "nodeId": 93911974
    }
   },
   {
@@ -2912,7 +3092,8 @@
     "streets": [
      "CA 299",
      "Rainbow Crescent"
-    ]
+    ],
+    "nodeId": 93966935
    }
   },
   {
@@ -2928,7 +3109,8 @@
     "streets": [
      "Rainbow Crescent",
      "Salmon Street"
-    ]
+    ],
+    "nodeId": 93911987
    }
   },
   {
@@ -2944,7 +3126,8 @@
     "streets": [
      "Rainbow Crescent",
      "Trout Avenue"
-    ]
+    ],
+    "nodeId": 93911989
    }
   },
   {
@@ -2960,7 +3143,8 @@
     "streets": [
      "Madrone Street",
      "Rainbow Crescent"
-    ]
+    ],
+    "nodeId": 93911995
    }
   },
   {
@@ -2976,7 +3160,8 @@
     "streets": [
      "Douglas Street",
      "Tubs Lane"
-    ]
+    ],
+    "nodeId": 10059933829
    }
   },
   {
@@ -2992,7 +3177,8 @@
     "streets": [
      "2nd Avenue",
      "Douglas Street"
-    ]
+    ],
+    "nodeId": 93912008
    }
   },
   {
@@ -3008,7 +3194,8 @@
     "streets": [
      "3rd Avenue",
      "Douglas Street"
-    ]
+    ],
+    "nodeId": 4100669115
    }
   },
   {
@@ -3024,7 +3211,8 @@
     "streets": [
      "Mulligan Street;CR WVC50",
      "Pine Street;CR WVC54"
-    ]
+    ],
+    "nodeId": 93912018
    }
   },
   {
@@ -3041,7 +3229,8 @@
      "Manzanita Drive;CR WVC53",
      "Pine Street;CR WVC54",
      "Willow Street;CR WVC51"
-    ]
+    ],
+    "nodeId": 93912023
    }
   },
   {
@@ -3057,7 +3246,8 @@
     "streets": [
      "Senteney Rock Road;FR 1S07",
      "Van Duzen Road;CR 511"
-    ]
+    ],
+    "nodeId": 93912356
    }
   },
   {
@@ -3073,7 +3263,8 @@
     "streets": [
      "Button Road",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 2911217004
    }
   },
   {
@@ -3089,7 +3280,8 @@
     "streets": [
      "Button Road",
      "Goa Way"
-    ]
+    ],
+    "nodeId": 93912358
    }
   },
   {
@@ -3105,7 +3297,8 @@
     "streets": [
      "Dutch Creek Road;CR 413",
      "Red Hill Road"
-    ]
+    ],
+    "nodeId": 93912793
    }
   },
   {
@@ -3121,7 +3314,8 @@
     "streets": [
      "Montezuma Road",
      "Red Hill Road"
-    ]
+    ],
+    "nodeId": 93912818
    }
   },
   {
@@ -3137,7 +3331,8 @@
     "streets": [
      "Hocker Road",
      "Red Hill Road"
-    ]
+    ],
+    "nodeId": 93912833
    }
   },
   {
@@ -3153,7 +3348,8 @@
     "streets": [
      "Guinea Road",
      "Red Hill Road"
-    ]
+    ],
+    "nodeId": 93912835
    }
   },
   {
@@ -3169,7 +3365,8 @@
     "streets": [
      "Red Hill Road",
      "Spruce Road"
-    ]
+    ],
+    "nodeId": 93912838
    }
   },
   {
@@ -3185,7 +3382,8 @@
     "streets": [
      "Red Hill Road",
      "Senger Road"
-    ]
+    ],
+    "nodeId": 93912850
    }
   },
   {
@@ -3201,7 +3399,8 @@
     "streets": [
      "Conner Creek Road",
      "Red Hill Road"
-    ]
+    ],
+    "nodeId": 93912855
    }
   },
   {
@@ -3217,7 +3416,8 @@
     "streets": [
      "Lake Road",
      "Red Hill Road"
-    ]
+    ],
+    "nodeId": 93912868
    }
   },
   {
@@ -3233,7 +3433,8 @@
     "streets": [
      "Forest Service Road",
      "Red Hill Road"
-    ]
+    ],
+    "nodeId": 93912789
    }
   },
   {
@@ -3249,7 +3450,8 @@
     "streets": [
      "Red Hill Road",
      "Wintu Pass Road"
-    ]
+    ],
+    "nodeId": 93912899
    }
   },
   {
@@ -3265,7 +3467,8 @@
     "streets": [
      "Main Street;CA 299",
      "Red Hill Road"
-    ]
+    ],
+    "nodeId": 93912906
    }
   },
   {
@@ -3281,7 +3484,8 @@
     "streets": [
      "Hanlou Heights",
      "Red Hill Road"
-    ]
+    ],
+    "nodeId": 93912907
    }
   },
   {
@@ -3297,7 +3501,8 @@
     "streets": [
      "Bonanza King Road",
      "East Side Road"
-    ]
+    ],
+    "nodeId": 93912962
    }
   },
   {
@@ -3313,7 +3518,8 @@
     "streets": [
      "East Side Road",
      "Slate Mountain Road"
-    ]
+    ],
+    "nodeId": 92219408
    }
   },
   {
@@ -3329,7 +3535,8 @@
     "streets": [
      "Cedar Road",
      "Cedar Road;CR 158"
-    ]
+    ],
+    "nodeId": 93913473
    }
   },
   {
@@ -3345,7 +3552,8 @@
     "streets": [
      "Cedar Road;CR 158",
      "Mann Road;CR 131"
-    ]
+    ],
+    "nodeId": 93913481
    }
   },
   {
@@ -3361,7 +3569,8 @@
     "streets": [
      "Cedar Road;CR 158",
      "Pine Lane;CR 159"
-    ]
+    ],
+    "nodeId": 93913464
    }
   },
   {
@@ -3377,7 +3586,8 @@
     "streets": [
      "Cedar Road;CR TC05",
      "Mary Avenue;CR TC02"
-    ]
+    ],
+    "nodeId": 93913492
    }
   },
   {
@@ -3393,7 +3603,8 @@
     "streets": [
      "Cedar Road;CR TC05",
      "Maude Avenue;CR TC03"
-    ]
+    ],
+    "nodeId": 93913494
    }
   },
   {
@@ -3409,7 +3620,8 @@
     "streets": [
      "Ann Avenue;CR TC08",
      "Cedar Road;CR TC05"
-    ]
+    ],
+    "nodeId": 12015312019
    }
   },
   {
@@ -3425,7 +3637,8 @@
     "streets": [
      "Azalea Drive;CR TC07",
      "Mary Avenue;CR TC02"
-    ]
+    ],
+    "nodeId": 93913577
    }
   },
   {
@@ -3441,7 +3654,8 @@
     "streets": [
      "Azalea Drive;CR TC07",
      "Judy Street;CR TC13"
-    ]
+    ],
+    "nodeId": 93913579
    }
   },
   {
@@ -3457,7 +3671,8 @@
     "streets": [
      "Azalea Drive;CR TC07",
      "Julie Street;CR TC12"
-    ]
+    ],
+    "nodeId": 93913581
    }
   },
   {
@@ -3473,7 +3688,8 @@
     "streets": [
      "Azalea Drive;CR TC07",
      "Maude Avenue;CR TC03"
-    ]
+    ],
+    "nodeId": 93913582
    }
   },
   {
@@ -3489,7 +3705,8 @@
     "streets": [
      "Ann Avenue;CR TC08",
      "Azalea Drive;CR TC07"
-    ]
+    ],
+    "nodeId": 93913583
    }
   },
   {
@@ -3505,7 +3722,8 @@
     "streets": [
      "Azalea Drive;CR TC07",
      "Lakeview Drive;CR TC09"
-    ]
+    ],
+    "nodeId": 93877031
    }
   },
   {
@@ -3521,7 +3739,8 @@
     "streets": [
      "Canyon Creek Road;CR 401",
      "Grasshopper Flat Road;CR 418"
-    ]
+    ],
+    "nodeId": 93913631
    }
   },
   {
@@ -3537,7 +3756,8 @@
     "streets": [
      "CA 299",
      "Canyon Creek Road;CR 401"
-    ]
+    ],
+    "nodeId": 93913678
    }
   },
   {
@@ -3553,7 +3773,8 @@
     "streets": [
      "Canyon Creek Road;CR 401",
      "Power House Road;CR 420"
-    ]
+    ],
+    "nodeId": 93913741
    }
   },
   {
@@ -3569,7 +3790,8 @@
     "streets": [
      "Canyon Creek Road;CR 401",
      "Caprinc Road"
-    ]
+    ],
+    "nodeId": 12010567935
    }
   },
   {
@@ -3585,7 +3807,8 @@
     "streets": [
      "Round Rock Court;PUD 141",
      "Westridge Road;CR 350"
-    ]
+    ],
+    "nodeId": 93914011
    }
   },
   {
@@ -3601,7 +3824,8 @@
     "streets": [
      "Sanicula Road",
      "Tracy Lane"
-    ]
+    ],
+    "nodeId": 93914076
    }
   },
   {
@@ -3617,7 +3841,8 @@
     "streets": [
      "Haylock Ridge Road;FR 34N80",
      "Slate Creek Road;CR 113"
-    ]
+    ],
+    "nodeId": 93834144
    }
   },
   {
@@ -3633,7 +3858,8 @@
     "streets": [
      "Slate Creek Road;CR 113",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93931869
    }
   },
   {
@@ -3649,7 +3875,8 @@
     "streets": [
      "Horse Ridge Road;NF 23; FR 1S23",
      "Wildwood-Mad River Road;NF 30; FR 29N30"
-    ]
+    ],
+    "nodeId": 93914755
    }
   },
   {
@@ -3666,7 +3893,8 @@
      "CA 36",
      "Horse Ridge Road;NF 23; FR 1S23",
      "South Fork Mountain Road;NF 4; FR 4N12"
-    ]
+    ],
+    "nodeId": 93915054
    }
   },
   {
@@ -3682,7 +3910,8 @@
     "streets": [
      "Buckwheat Lane",
      "Tompkins Creek Road"
-    ]
+    ],
+    "nodeId": 93915112
    }
   },
   {
@@ -3698,7 +3927,8 @@
     "streets": [
      "Tompkins Creek Road",
      "Yokuts Way"
-    ]
+    ],
+    "nodeId": 93915118
    }
   },
   {
@@ -3714,7 +3944,8 @@
     "streets": [
      "Cascade Drive",
      "Henrietta Road"
-    ]
+    ],
+    "nodeId": 93915203
    }
   },
   {
@@ -3730,7 +3961,8 @@
     "streets": [
      "Cascade Drive",
      "Dennison Drive"
-    ]
+    ],
+    "nodeId": 93915206
    }
   },
   {
@@ -3746,7 +3978,8 @@
     "streets": [
      "Cascade Drive",
      "Dallas Drive"
-    ]
+    ],
+    "nodeId": 93915211
    }
   },
   {
@@ -3763,7 +3996,8 @@
      "Burgess Ranch Road;CR 518",
      "Burgess Ranch Road;CR 532",
      "Justice Road;CR 532"
-    ]
+    ],
+    "nodeId": 93915233
    }
   },
   {
@@ -3779,7 +4013,8 @@
     "streets": [
      "Chimariko Road",
      "Wintu Pass Road"
-    ]
+    ],
+    "nodeId": 93858816
    }
   },
   {
@@ -3795,7 +4030,8 @@
     "streets": [
      "Quail Run",
      "Shady Creek Lane"
-    ]
+    ],
+    "nodeId": 93915266
    }
   },
   {
@@ -3811,7 +4047,8 @@
     "streets": [
      "Biggers Road",
      "Steel Bridge Road"
-    ]
+    ],
+    "nodeId": 93901316
    }
   },
   {
@@ -3827,7 +4064,8 @@
     "streets": [
      "Steel Bridge Road",
      "Thistle Lane"
-    ]
+    ],
+    "nodeId": 93915531
    }
   },
   {
@@ -3843,7 +4081,8 @@
     "streets": [
      "CA 299",
      "Steel Bridge Road"
-    ]
+    ],
+    "nodeId": 93915533
    }
   },
   {
@@ -3859,7 +4098,8 @@
     "streets": [
      "Spring Hill Road",
      "Timber Ridge Road"
-    ]
+    ],
+    "nodeId": 93915803
    }
   },
   {
@@ -3875,7 +4115,8 @@
     "streets": [
      "Mann Road;CR 131",
      "McDevitt Road;CR 132"
-    ]
+    ],
+    "nodeId": 93915989
    }
   },
   {
@@ -3891,7 +4132,8 @@
     "streets": [
      "Ash Avenue;CR HF09",
      "Shasta Street;CR HF11"
-    ]
+    ],
+    "nodeId": 93916006
    }
   },
   {
@@ -3907,7 +4149,8 @@
     "streets": [
      "Ash Avenue;CR HF09",
      "Trinity Street;HF 19"
-    ]
+    ],
+    "nodeId": 93916007
    }
   },
   {
@@ -3923,7 +4166,8 @@
     "streets": [
      "Kellogg Gulch Road",
      "Laurel Drive;CR HF33"
-    ]
+    ],
+    "nodeId": 93916015
    }
   },
   {
@@ -3940,7 +4184,8 @@
      "B-Bar-K Road",
      "Canyon Road",
      "Maxwell Creek Road"
-    ]
+    ],
+    "nodeId": 93916405
    }
   },
   {
@@ -3957,7 +4202,8 @@
      "Canyon Drive",
      "Canyon Road",
      "Sierra Pacific Point Road"
-    ]
+    ],
+    "nodeId": 93916456
    }
   },
   {
@@ -3973,7 +4219,8 @@
     "streets": [
      "Bully Choop Mountain Road",
      "East County Line Road"
-    ]
+    ],
+    "nodeId": 93916476
    }
   },
   {
@@ -3989,7 +4236,8 @@
     "streets": [
      "Hocker Meadow Road",
      "Red Hill Road"
-    ]
+    ],
+    "nodeId": 93902176
    }
   },
   {
@@ -4005,7 +4253,8 @@
     "streets": [
      "Forest Service Road",
      "Hocker Meadow Road"
-    ]
+    ],
+    "nodeId": 93812876
    }
   },
   {
@@ -4022,7 +4271,8 @@
      "Meadow Lane",
      "Mill Street",
      "Timber Ridge Road"
-    ]
+    ],
+    "nodeId": 93916753
    }
   },
   {
@@ -4039,7 +4289,8 @@
      "Airport Road",
      "Airport Road;CR 236",
      "Brayshaw Road;CR 244"
-    ]
+    ],
+    "nodeId": 93972146
    }
   },
   {
@@ -4055,7 +4306,8 @@
     "streets": [
      "Bear Creek Trail",
      "Trinity Dam Boulevard;CR 105"
-    ]
+    ],
+    "nodeId": 11234153931
    }
   },
   {
@@ -4071,7 +4323,8 @@
     "streets": [
      "Blanchards Flat Road;CR 337",
      "Deerlick Springs Road;CR 335"
-    ]
+    ],
+    "nodeId": 93917092
    }
   },
   {
@@ -4087,7 +4340,8 @@
     "streets": [
      "Blanchards Flat Road;CR 337",
      "Sierra Pacific Log Road"
-    ]
+    ],
+    "nodeId": 93917105
    }
   },
   {
@@ -4103,7 +4357,8 @@
     "streets": [
      "Goose Ranch Road;CR 215",
      "School House Road;CR 233"
-    ]
+    ],
+    "nodeId": 93917146
    }
   },
   {
@@ -4119,7 +4374,8 @@
     "streets": [
      "Goose Ranch Road;CR 215",
      "Viola Lane;CR 274"
-    ]
+    ],
+    "nodeId": 93917155
    }
   },
   {
@@ -4135,7 +4391,8 @@
     "streets": [
      "Godeth Lane",
      "Goose Ranch Road;CR 215"
-    ]
+    ],
+    "nodeId": 93917188
    }
   },
   {
@@ -4151,7 +4408,8 @@
     "streets": [
      "Goose Ranch Road;CR 215",
      "Salt Flat Road"
-    ]
+    ],
+    "nodeId": 93917245
    }
   },
   {
@@ -4167,7 +4425,8 @@
     "streets": [
      "Goose Ranch Road;CR 215",
      "Lewiston Road;CR 202"
-    ]
+    ],
+    "nodeId": 93917259
    }
   },
   {
@@ -4183,7 +4442,8 @@
     "streets": [
      "Arbuckle Court;CR 258",
      "Industrial Parkway;CR 257"
-    ]
+    ],
+    "nodeId": 93917328
    }
   },
   {
@@ -4199,7 +4459,8 @@
     "streets": [
      "Industrial Parkway;CR 257",
      "Main Street;CA 3;CA 299"
-    ]
+    ],
+    "nodeId": 93917326
    }
   },
   {
@@ -4215,7 +4476,8 @@
     "streets": [
      "Humboldt Trail",
      "Wool Mountain Road"
-    ]
+    ],
+    "nodeId": 93917921
    }
   },
   {
@@ -4231,7 +4493,8 @@
     "streets": [
      "CA 3",
      "Glass Lane"
-    ]
+    ],
+    "nodeId": 93918031
    }
   },
   {
@@ -4247,7 +4510,8 @@
     "streets": [
      "Brady Road;CR 323",
      "Carter Gulch Road;CR 355"
-    ]
+    ],
+    "nodeId": 93918161
    }
   },
   {
@@ -4263,7 +4527,8 @@
     "streets": [
      "Brady Road;CR 323",
      "Olivia Drive;CR HF31"
-    ]
+    ],
+    "nodeId": 10682081540
    }
   },
   {
@@ -4279,7 +4544,8 @@
     "streets": [
      "Brady Road;CR 323",
      "Hair Lane"
-    ]
+    ],
+    "nodeId": 93918059
    }
   },
   {
@@ -4295,7 +4561,8 @@
     "streets": [
      "Brady Road;CR 323",
      "King Road"
-    ]
+    ],
+    "nodeId": 93918073
    }
   },
   {
@@ -4311,7 +4578,8 @@
     "streets": [
      "Brady Road;CR 323",
      "Browns Ranch Road"
-    ]
+    ],
+    "nodeId": 93918076
    }
   },
   {
@@ -4327,7 +4595,8 @@
     "streets": [
      "Brady Road;CR 323",
      "Christie"
-    ]
+    ],
+    "nodeId": 93918086
    }
   },
   {
@@ -4343,7 +4612,8 @@
     "streets": [
      "Brady Road;CR 323",
      "CA 3"
-    ]
+    ],
+    "nodeId": 93918107
    }
   },
   {
@@ -4359,7 +4629,8 @@
     "streets": [
      "Brady Road;CR 323",
      "Ewing Road;CR 361"
-    ]
+    ],
+    "nodeId": 93918127
    }
   },
   {
@@ -4375,7 +4646,8 @@
     "streets": [
      "Brady Road;CR 323",
      "Laurel Drive;CR HF33"
-    ]
+    ],
+    "nodeId": 93918151
    }
   },
   {
@@ -4391,7 +4663,8 @@
     "streets": [
      "Fox Lane",
      "Hyampom Road;CR 301"
-    ]
+    ],
+    "nodeId": 93918339
    }
   },
   {
@@ -4407,7 +4680,8 @@
     "streets": [
      "Pollards Point Road",
      "Ruth Zenia Road;CR 502"
-    ]
+    ],
+    "nodeId": 93918494
    }
   },
   {
@@ -4423,7 +4697,8 @@
     "streets": [
      "CA 36",
      "Kinnick Road"
-    ]
+    ],
+    "nodeId": 93918500
    }
   },
   {
@@ -4439,7 +4714,8 @@
     "streets": [
      "CA 36",
      "Feldmiller Road;CR 528"
-    ]
+    ],
+    "nodeId": 93973889
    }
   },
   {
@@ -4455,7 +4731,8 @@
     "streets": [
      "Peak Road;CR 519",
      "Wool Mountain Road"
-    ]
+    ],
+    "nodeId": 93918946
    }
   },
   {
@@ -4471,7 +4748,8 @@
     "streets": [
      "Peak Road;CR 519",
      "Zenia Lake Mountain Road;CR 503"
-    ]
+    ],
+    "nodeId": 93839655
    }
   },
   {
@@ -4487,7 +4765,8 @@
     "streets": [
      "Bear Wallow Road;NF 14; FR 1S14",
      "Copper Mine Road;FR 1N12"
-    ]
+    ],
+    "nodeId": 93919105
    }
   },
   {
@@ -4503,7 +4782,8 @@
     "streets": [
      "Copper Mine Road;FR 1N12",
      "Post Flume Road;FR 1N13"
-    ]
+    ],
+    "nodeId": 93919068
    }
   },
   {
@@ -4519,7 +4799,8 @@
     "streets": [
      "Copper Mine Road;FR 1N12",
      "Post Mountain Road;NF 7; FR 2N07"
-    ]
+    ],
+    "nodeId": 93919382
    }
   },
   {
@@ -4535,7 +4816,8 @@
     "streets": [
      "Forest Avenue;CR WVB25",
      "North Miner Street;CR WVB24"
-    ]
+    ],
+    "nodeId": 93919845
    }
   },
   {
@@ -4551,7 +4833,8 @@
     "streets": [
      "Dockery Street;CR WVB26",
      "North Miner Street;CR WVB24"
-    ]
+    ],
+    "nodeId": 93919854
    }
   },
   {
@@ -4567,7 +4850,8 @@
     "streets": [
      "North Miner Street;CR WVB24",
      "Tinnen Street;CR WVB27"
-    ]
+    ],
+    "nodeId": 93818613
    }
   },
   {
@@ -4584,7 +4868,8 @@
      "Main Street;CA 299",
      "North Miner Street;CR WVB24",
      "Weaver Bally Road;CR WVC38"
-    ]
+    ],
+    "nodeId": 93919859
    }
   },
   {
@@ -4600,7 +4885,8 @@
     "streets": [
      "Upper Miner Place",
      "Upper Miner Street"
-    ]
+    ],
+    "nodeId": 4249376401
    }
   },
   {
@@ -4616,7 +4902,8 @@
     "streets": [
      "Kingsbury Road;CR 320",
      "Pine Avenue;CR HF13"
-    ]
+    ],
+    "nodeId": 93920438
    }
   },
   {
@@ -4632,7 +4919,8 @@
     "streets": [
      "Kingsbury Road;CR 320",
      "Queen's Court"
-    ]
+    ],
+    "nodeId": 9851636258
    }
   },
   {
@@ -4648,7 +4936,8 @@
     "streets": [
      "Dirt Road",
      "Kingsbury Road;CR 320"
-    ]
+    ],
+    "nodeId": 93920449
    }
   },
   {
@@ -4664,7 +4953,8 @@
     "streets": [
      "Center Street;CR HF23",
      "Kingsbury Road;CR 320"
-    ]
+    ],
+    "nodeId": 93797692
    }
   },
   {
@@ -4680,7 +4970,8 @@
     "streets": [
      "Kingsbury Road;CR 320",
      "Morgan Hill Road;CR 319"
-    ]
+    ],
+    "nodeId": 93920467
    }
   },
   {
@@ -4696,7 +4987,8 @@
     "streets": [
      "Lower Lake View Drive;CR 182A",
      "Sugar Pine Drive"
-    ]
+    ],
+    "nodeId": 93920479
    }
   },
   {
@@ -4712,7 +5004,8 @@
     "streets": [
      "Barker Valley Road",
      "South Barker Valley Road"
-    ]
+    ],
+    "nodeId": 93903638
    }
   },
   {
@@ -4728,7 +5021,8 @@
     "streets": [
      "Creek Crossing Road",
      "South Barker Valley Road"
-    ]
+    ],
+    "nodeId": 93920484
    }
   },
   {
@@ -4745,7 +5039,8 @@
      "Barker Valley Road",
      "Bridge Road",
      "South Barker Valley Road"
-    ]
+    ],
+    "nodeId": 93920508
    }
   },
   {
@@ -4761,7 +5056,8 @@
     "streets": [
      "Underwood Mountain Road;CR 417",
      "Underwood Mountain Road;NF 60"
-    ]
+    ],
+    "nodeId": 93858502
    }
   },
   {
@@ -4777,7 +5073,8 @@
     "streets": [
      "Kaut Road",
      "Underwood Mountain Road;CR 417"
-    ]
+    ],
+    "nodeId": 11593457276
    }
   },
   {
@@ -4793,7 +5090,8 @@
     "streets": [
      "CA 299",
      "Underwood Mountain Road;CR 417"
-    ]
+    ],
+    "nodeId": 93921385
    }
   },
   {
@@ -4809,7 +5107,8 @@
     "streets": [
      "Eagle Creek Loop;CR135",
      "Eagle Creek Road;CR140"
-    ]
+    ],
+    "nodeId": 93921393
    }
   },
   {
@@ -4825,7 +5124,8 @@
     "streets": [
      "CA 299",
      "Carrie - Hyden Road"
-    ]
+    ],
+    "nodeId": 11218856357
    }
   },
   {
@@ -4841,7 +5141,8 @@
     "streets": [
      "Fallen Bridge Road",
      "Rush Creek Road;CR 204"
-    ]
+    ],
+    "nodeId": 93921590
    }
   },
   {
@@ -4857,7 +5158,8 @@
     "streets": [
      "Morgan Hill Road;CR 319",
      "Trunnell Drive"
-    ]
+    ],
+    "nodeId": 93921593
    }
   },
   {
@@ -4873,7 +5175,8 @@
     "streets": [
      "Lower Lake View Drive",
      "Lower Lake View Drive;CR 182A"
-    ]
+    ],
+    "nodeId": 93941137
    }
   },
   {
@@ -4889,7 +5192,8 @@
     "streets": [
      "CA 299",
      "Cedar Flat Court"
-    ]
+    ],
+    "nodeId": 11216114869
    }
   },
   {
@@ -4905,7 +5209,8 @@
     "streets": [
      "Cedar Flat Court",
      "Mill Creek"
-    ]
+    ],
+    "nodeId": 93921807
    }
   },
   {
@@ -4922,7 +5227,8 @@
      "Carter Gulch Road",
      "Carter Gulch Road;CR 355",
      "Demos Court;CR 356"
-    ]
+    ],
+    "nodeId": 93921825
    }
   },
   {
@@ -4938,7 +5244,8 @@
     "streets": [
      "China Gulch Road;CR 320",
      "Rush Creek Road;CR 204"
-    ]
+    ],
+    "nodeId": 93921902
    }
   },
   {
@@ -4954,7 +5261,8 @@
     "streets": [
      "Maple Street",
      "Six Rivers Land"
-    ]
+    ],
+    "nodeId": 93921907
    }
   },
   {
@@ -4970,7 +5278,8 @@
     "streets": [
      "Marshall Creek Road",
      "Ruth Zenia Road;CR 502"
-    ]
+    ],
+    "nodeId": 93921957
    }
   },
   {
@@ -4986,7 +5295,8 @@
     "streets": [
      "Granite Peak",
      "Masonic Lane"
-    ]
+    ],
+    "nodeId": 93875545
    }
   },
   {
@@ -5002,7 +5312,8 @@
     "streets": [
      "Main Street;CA 3;CA 299",
      "Masonic Lane"
-    ]
+    ],
+    "nodeId": 93922013
    }
   },
   {
@@ -5018,7 +5329,8 @@
     "streets": [
      "Humboldt Street;CR HF06",
      "Manzanita Avenue;CR HF03"
-    ]
+    ],
+    "nodeId": 93922029
    }
   },
   {
@@ -5034,7 +5346,8 @@
     "streets": [
      "Humboldt Street;CR HF05",
      "Manzanita Avenue;CR HF03"
-    ]
+    ],
+    "nodeId": 93922030
    }
   },
   {
@@ -5050,7 +5363,8 @@
     "streets": [
      "CA 3",
      "Manzanita Avenue;CR HF03"
-    ]
+    ],
+    "nodeId": 93922032
    }
   },
   {
@@ -5066,7 +5380,8 @@
     "streets": [
      "East Tule Creek Road;FR 31N29",
      "Plummer Peak Road;FR 30N31"
-    ]
+    ],
+    "nodeId": 93922208
    }
   },
   {
@@ -5082,7 +5397,8 @@
     "streets": [
      "Bear Canyon Road",
      "Tecate Place"
-    ]
+    ],
+    "nodeId": 11229916208
    }
   },
   {
@@ -5098,7 +5414,8 @@
     "streets": [
      "Grapevine Creek Road;FR 4N20",
      "Lower South Fork Road;CR 311"
-    ]
+    ],
+    "nodeId": 93922340
    }
   },
   {
@@ -5114,7 +5431,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Terral Road"
-    ]
+    ],
+    "nodeId": 93922342
    }
   },
   {
@@ -5130,7 +5448,8 @@
     "streets": [
      "Mill Street;CR WVA03",
      "Washington Street;CR WVA02"
-    ]
+    ],
+    "nodeId": 93912041
    }
   },
   {
@@ -5146,7 +5465,8 @@
     "streets": [
      "Main Street;CA 3;CA 299",
      "Washington Street;CR WVA02"
-    ]
+    ],
+    "nodeId": 93922397
    }
   },
   {
@@ -5163,7 +5483,8 @@
      "Church Street;CR WVC55",
      "Court Street;CR WVC44",
      "Taylor Street;CR WVC45"
-    ]
+    ],
+    "nodeId": 93922468
    }
   },
   {
@@ -5179,7 +5500,8 @@
     "streets": [
      "Taylor Street;CR WVC45",
      "Waterworks Street;CR WVC46"
-    ]
+    ],
+    "nodeId": 93922471
    }
   },
   {
@@ -5195,7 +5517,8 @@
     "streets": [
      "Easter Avenue;CR WVC47",
      "Taylor Street;CR WVC45"
-    ]
+    ],
+    "nodeId": 93922472
    }
   },
   {
@@ -5211,7 +5534,8 @@
     "streets": [
      "Chief George Meadow",
      "Salt Flat Road"
-    ]
+    ],
+    "nodeId": 93922511
    }
   },
   {
@@ -5227,7 +5551,8 @@
     "streets": [
      "Deadwood Court",
      "Lakewood Drive"
-    ]
+    ],
+    "nodeId": 93922534
    }
   },
   {
@@ -5243,7 +5568,8 @@
     "streets": [
      "Lakewood Drive",
      "Pattison Ranch Road;CR 427"
-    ]
+    ],
+    "nodeId": 93922536
    }
   },
   {
@@ -5259,7 +5585,8 @@
     "streets": [
      "Levitt Street",
      "Sunshine Lane"
-    ]
+    ],
+    "nodeId": 93922543
    }
   },
   {
@@ -5275,7 +5602,8 @@
     "streets": [
      "Browns Ranch Road;CR 180",
      "Humbug Hill"
-    ]
+    ],
+    "nodeId": 93922553
    }
   },
   {
@@ -5291,7 +5619,8 @@
     "streets": [
      "Log Cabin Lane",
      "Old Poker Bar Road"
-    ]
+    ],
+    "nodeId": 93806861
    }
   },
   {
@@ -5307,7 +5636,8 @@
     "streets": [
      "Hummingbird Road",
      "Montezuma Road"
-    ]
+    ],
+    "nodeId": 93922604
    }
   },
   {
@@ -5323,7 +5653,8 @@
     "streets": [
      "Steelhead Avenue",
      "Trout Avenue"
-    ]
+    ],
+    "nodeId": 93923154
    }
   },
   {
@@ -5339,7 +5670,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Sunrise Meadows"
-    ]
+    ],
+    "nodeId": 93923155
    }
   },
   {
@@ -5356,7 +5688,8 @@
      "Sunrise Boulevard",
      "Sunrise Meadows",
      "Sunshine Lane"
-    ]
+    ],
+    "nodeId": 93923159
    }
   },
   {
@@ -5372,7 +5705,8 @@
     "streets": [
      "South Suzy Q Road",
      "Suzy Q Road"
-    ]
+    ],
+    "nodeId": 93801290
    }
   },
   {
@@ -5388,7 +5722,8 @@
     "streets": [
      "Denny Guard Station Road;FR 6N06",
      "Denny Road;CR 402"
-    ]
+    ],
+    "nodeId": 11214431820
    }
   },
   {
@@ -5404,7 +5739,8 @@
     "streets": [
      "Denny Road;CR 402",
      "Faun Ridge Road;FR 7N15"
-    ]
+    ],
+    "nodeId": 93918610
    }
   },
   {
@@ -5420,7 +5756,8 @@
     "streets": [
      "Denny Road;CR 402",
      "Wallen Ranch Road;CR 442"
-    ]
+    ],
+    "nodeId": 93923352
    }
   },
   {
@@ -5436,7 +5773,8 @@
     "streets": [
      "Denny Road;CR 402",
      "Flame Tree Road"
-    ]
+    ],
+    "nodeId": 93923363
    }
   },
   {
@@ -5452,7 +5790,8 @@
     "streets": [
      "Denny Road;CR 402",
      "Hess Ranch Road"
-    ]
+    ],
+    "nodeId": 93923372
    }
   },
   {
@@ -5468,7 +5807,8 @@
     "streets": [
      "Denny Road;CR 402",
      "Lone Pine Road"
-    ]
+    ],
+    "nodeId": 93923379
    }
   },
   {
@@ -5484,7 +5824,8 @@
     "streets": [
      "Denny Road;CR 402",
      "Hawkins Bar Road"
-    ]
+    ],
+    "nodeId": 93923381
    }
   },
   {
@@ -5500,7 +5841,8 @@
     "streets": [
      "Denny Road;CR 402",
      "Fisher Road"
-    ]
+    ],
+    "nodeId": 93923394
    }
   },
   {
@@ -5516,7 +5858,8 @@
     "streets": [
      "Denny Road;CR 402",
      "Happy Camp Mountain Road;FR 7N26"
-    ]
+    ],
+    "nodeId": 93923608
    }
   },
   {
@@ -5532,7 +5875,8 @@
     "streets": [
      "Byoff Road;CR 443",
      "Denny Road;CR 402"
-    ]
+    ],
+    "nodeId": 93923731
    }
   },
   {
@@ -5548,7 +5892,8 @@
     "streets": [
      "Denny Road;CR 402",
      "Hoboken Road"
-    ]
+    ],
+    "nodeId": 93923818
    }
   },
   {
@@ -5564,7 +5909,8 @@
     "streets": [
      "Denny Road;CR 402",
      "Noble Lane"
-    ]
+    ],
+    "nodeId": 93923854
    }
   },
   {
@@ -5580,7 +5926,8 @@
     "streets": [
      "CA 299",
      "Denny Road;CR 402"
-    ]
+    ],
+    "nodeId": 93923878
    }
   },
   {
@@ -5596,7 +5943,8 @@
     "streets": [
      "Glen Road;CR 239",
      "Nugget Lane"
-    ]
+    ],
+    "nodeId": 93924056
    }
   },
   {
@@ -5613,7 +5961,8 @@
      "Main Street;CA 3;CA 299",
      "Martin Road;CR 237",
      "Nugget Lane"
-    ]
+    ],
+    "nodeId": 93924063
    }
   },
   {
@@ -5629,7 +5978,8 @@
     "streets": [
      "Lake Mountain Road",
      "Lower South Fork Road;CR 311"
-    ]
+    ],
+    "nodeId": 93924174
    }
   },
   {
@@ -5646,7 +5996,8 @@
      "Davis Road;CR 240",
      "Main Street;CA 3;CA 299",
      "Ransom Road;CR 224"
-    ]
+    ],
+    "nodeId": 93924241
    }
   },
   {
@@ -5662,7 +6013,8 @@
     "streets": [
      "Beaudreax Road;CR 241",
      "Ransom Road;CR 224"
-    ]
+    ],
+    "nodeId": 93924246
    }
   },
   {
@@ -5678,7 +6030,8 @@
     "streets": [
      "Old School House Road;CR 530",
      "Zenia Lake Mountain Road;CR 503"
-    ]
+    ],
+    "nodeId": 93924251
    }
   },
   {
@@ -5694,7 +6047,8 @@
     "streets": [
      "Lonesome Way",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93924348
    }
   },
   {
@@ -5710,7 +6064,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Ruth Hilton Lane"
-    ]
+    ],
+    "nodeId": 93924354
    }
   },
   {
@@ -5726,7 +6081,8 @@
     "streets": [
      "Hollow Oak Lane",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93924365
    }
   },
   {
@@ -5742,7 +6098,8 @@
     "streets": [
      "Eagles Nest Road",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93924457
    }
   },
   {
@@ -5758,7 +6115,8 @@
     "streets": [
      "Fir Cove Campground Road;FR 1N51",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93924498
    }
   },
   {
@@ -5774,7 +6132,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Marina Drive"
-    ]
+    ],
+    "nodeId": 93924566
    }
   },
   {
@@ -5790,7 +6149,8 @@
     "streets": [
      "Kokanee Way",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93924570
    }
   },
   {
@@ -5806,7 +6166,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Stellar Point Road"
-    ]
+    ],
+    "nodeId": 93924583
    }
   },
   {
@@ -5822,7 +6183,8 @@
     "streets": [
      "Lakeview Drive",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93924596
    }
   },
   {
@@ -5838,7 +6200,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Moon Creek Drive"
-    ]
+    ],
+    "nodeId": 93838043
    }
   },
   {
@@ -5854,7 +6217,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Ruth Dump Road"
-    ]
+    ],
+    "nodeId": 93924611
    }
   },
   {
@@ -5870,7 +6234,8 @@
     "streets": [
      "Anada Creek Road",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93924633
    }
   },
   {
@@ -5886,7 +6251,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Mywok Way"
-    ]
+    ],
+    "nodeId": 93924638
    }
   },
   {
@@ -5902,7 +6268,8 @@
     "streets": [
      "Barlow Camp Road",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93905929
    }
   },
   {
@@ -5918,7 +6285,8 @@
     "streets": [
      "Carlson Road",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93924652
    }
   },
   {
@@ -5934,7 +6302,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Sheriffs Cove"
-    ]
+    ],
+    "nodeId": 93924690
    }
   },
   {
@@ -5950,7 +6319,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "West Bank Road;FR 1S06"
-    ]
+    ],
+    "nodeId": 93799019
    }
   },
   {
@@ -5966,7 +6336,8 @@
     "streets": [
      "Hummingbird Road",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93924729
    }
   },
   {
@@ -5982,7 +6353,8 @@
     "streets": [
      "94th Street",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93924819
    }
   },
   {
@@ -5999,7 +6371,8 @@
      "State Route 3;CA 3",
      "Swift Creek Road;CR 123",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 12040628944
    }
   },
   {
@@ -6016,7 +6389,8 @@
      "Main Street;CA 299",
      "Main Street;CA 3;CA 299",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93925192
    }
   },
   {
@@ -6032,7 +6406,8 @@
     "streets": [
      "Center Street;CR WVD74",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93925194
    }
   },
   {
@@ -6049,7 +6424,8 @@
      "Town Reservoir Road;CR 251",
      "Trinity Lake Boulevard;CA 3",
      "Washington Street;CR WVA02"
-    ]
+    ],
+    "nodeId": 93911561
    }
   },
   {
@@ -6065,7 +6441,8 @@
     "streets": [
      "North Street;CR WVD75",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 4248057587
    }
   },
   {
@@ -6081,7 +6458,8 @@
     "streets": [
      "Browns Ranch Road;CR 180",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93925209
    }
   },
   {
@@ -6097,7 +6475,8 @@
     "streets": [
      "Angel Hill Road",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93925210
    }
   },
   {
@@ -6113,7 +6492,8 @@
     "streets": [
      "Five Cent Gulch Street;CR 253",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 7227164181
    }
   },
   {
@@ -6129,7 +6509,8 @@
     "streets": [
      "Lance Gulch Road;CR 266",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93925215
    }
   },
   {
@@ -6145,7 +6526,8 @@
     "streets": [
      "Squires Lane",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93925217
    }
   },
   {
@@ -6161,7 +6543,8 @@
     "streets": [
      "Airport Road",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93930236
    }
   },
   {
@@ -6177,7 +6560,8 @@
     "streets": [
      "East Weaver Creek Road;CR 228",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 7227075693
    }
   },
   {
@@ -6193,7 +6577,8 @@
     "streets": [
      "Brooks Lane",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93930241
    }
   },
   {
@@ -6209,7 +6594,8 @@
     "streets": [
      "Benoist Lane",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93930243
    }
   },
   {
@@ -6225,7 +6611,8 @@
     "streets": [
      "Trinity Lake Boulevard;CA 3",
      "Weeks Lane"
-    ]
+    ],
+    "nodeId": 7227164514
    }
   },
   {
@@ -6241,7 +6628,8 @@
     "streets": [
      "Butler Ranch Road",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93930248
    }
   },
   {
@@ -6257,7 +6645,8 @@
     "streets": [
      "Musser Hill Road;FR 34N95",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93925311
    }
   },
   {
@@ -6273,7 +6662,8 @@
     "streets": [
      "Trinity Lake Boulevard;CA 3",
      "Tye Lane"
-    ]
+    ],
+    "nodeId": 93925303
    }
   },
   {
@@ -6289,7 +6679,8 @@
     "streets": [
      "Musser Heights Road",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93925300
    }
   },
   {
@@ -6305,7 +6696,8 @@
     "streets": [
      "Cox Road",
      "Main Street;CA 3;CA 299"
-    ]
+    ],
+    "nodeId": 93925749
    }
   },
   {
@@ -6321,7 +6713,8 @@
     "streets": [
      "Chardonnal Way",
      "East Fork Road"
-    ]
+    ],
+    "nodeId": 93925793
    }
   },
   {
@@ -6337,7 +6730,8 @@
     "streets": [
      "CA 299",
      "Grays Flat Road"
-    ]
+    ],
+    "nodeId": 93926519
    }
   },
   {
@@ -6353,7 +6747,8 @@
     "streets": [
      "Emerald City Lane",
      "Grays Flat Road"
-    ]
+    ],
+    "nodeId": 93926533
    }
   },
   {
@@ -6369,7 +6764,8 @@
     "streets": [
      "Henrietta Road",
      "Trinity Dam Boulevard;CR 105"
-    ]
+    ],
+    "nodeId": 93867053
    }
   },
   {
@@ -6385,7 +6781,8 @@
     "streets": [
      "Henrietta Road",
      "Trinity View Drive"
-    ]
+    ],
+    "nodeId": 93926557
    }
   },
   {
@@ -6401,7 +6798,8 @@
     "streets": [
      "Easter Avenue;CR WVC47",
      "Ridge Road;CR WVC57"
-    ]
+    ],
+    "nodeId": 93926773
    }
   },
   {
@@ -6417,7 +6815,8 @@
     "streets": [
      "CA 3",
      "Uchytil Lane"
-    ]
+    ],
+    "nodeId": 93927058
    }
   },
   {
@@ -6433,7 +6832,8 @@
     "streets": [
      "Mary Avenue;CR TC02",
      "Trinity Vista Street;CR TC04"
-    ]
+    ],
+    "nodeId": 93927108
    }
   },
   {
@@ -6449,7 +6849,8 @@
     "streets": [
      "Maude Avenue;CR TC03",
      "Trinity Vista Street;CR TC04"
-    ]
+    ],
+    "nodeId": 93927110
    }
   },
   {
@@ -6466,7 +6867,8 @@
      "Post Mountain Road;CR 354",
      "Post Mountain Road;NF 7; FR 2N07",
      "Rattlesnake Road;CR 353"
-    ]
+    ],
+    "nodeId": 93916486
    }
   },
   {
@@ -6482,7 +6884,8 @@
     "streets": [
      "Post Mountain Road;NF 7; FR 2N07",
      "Westridge Road;CR 350"
-    ]
+    ],
+    "nodeId": 93927052
    }
   },
   {
@@ -6498,7 +6901,8 @@
     "streets": [
      "Far Timber Road",
      "Manzanita Drive;CR WVC53"
-    ]
+    ],
+    "nodeId": 93927146
    }
   },
   {
@@ -6514,7 +6918,8 @@
     "streets": [
      "Riverview Drive",
      "Steiner Flat Road"
-    ]
+    ],
+    "nodeId": 93849479
    }
   },
   {
@@ -6531,7 +6936,8 @@
      "CA 36",
      "Duncan Road",
      "Maple Street"
-    ]
+    ],
+    "nodeId": 93927179
    }
   },
   {
@@ -6547,7 +6953,8 @@
     "streets": [
      "Madrone Avenue;CR HF12",
      "Pine Avenue;CR HF13"
-    ]
+    ],
+    "nodeId": 93927985
    }
   },
   {
@@ -6563,7 +6970,8 @@
     "streets": [
      "Center Street;CR HF23",
      "Pine Avenue;CR HF13"
-    ]
+    ],
+    "nodeId": 93927988
    }
   },
   {
@@ -6579,7 +6987,8 @@
     "streets": [
      "Morgan Hill Road;CR 319",
      "Pine Avenue;CR HF13"
-    ]
+    ],
+    "nodeId": 93927989
    }
   },
   {
@@ -6595,7 +7004,8 @@
     "streets": [
      "Baudizzon Lane",
      "Martin Road;CR 237"
-    ]
+    ],
+    "nodeId": 93927999
    }
   },
   {
@@ -6611,7 +7021,8 @@
     "streets": [
      "Martin Road;CR 237",
      "Pioneer Lane;CR 248"
-    ]
+    ],
+    "nodeId": 93928001
    }
   },
   {
@@ -6627,7 +7038,8 @@
     "streets": [
      "Oregon Street;CR 225",
      "Smith Street;CR WVB28"
-    ]
+    ],
+    "nodeId": 93928008
    }
   },
   {
@@ -6643,7 +7055,8 @@
     "streets": [
      "Oregon Street;CR 225",
      "Spann Street"
-    ]
+    ],
+    "nodeId": 93786025
    }
   },
   {
@@ -6659,7 +7072,8 @@
     "streets": [
      "Jennings Road",
      "Oregon Street;CR 225"
-    ]
+    ],
+    "nodeId": 11227920537
    }
   },
   {
@@ -6675,7 +7089,8 @@
     "streets": [
      "Oregon Street;CR 225",
      "Rock Road"
-    ]
+    ],
+    "nodeId": 93928022
    }
   },
   {
@@ -6691,7 +7106,8 @@
     "streets": [
      "Oregon Street;CR 225",
      "West Weaver Road"
-    ]
+    ],
+    "nodeId": 93928049
    }
   },
   {
@@ -6707,7 +7123,8 @@
     "streets": [
      "Democrat Gulch Road",
      "Oregon Street;CR 225"
-    ]
+    ],
+    "nodeId": 93928055
    }
   },
   {
@@ -6723,7 +7140,8 @@
     "streets": [
      "Oregon Street;CR 225",
      "South Miner Street;CR WVB23"
-    ]
+    ],
+    "nodeId": 93928122
    }
   },
   {
@@ -6739,7 +7157,8 @@
     "streets": [
      "Main Street;CA 3;CA 299",
      "Oregon Street;CR 225"
-    ]
+    ],
+    "nodeId": 93928125
    }
   },
   {
@@ -6755,7 +7174,8 @@
     "streets": [
      "Oregon Street;CR 225",
      "Sam Lee Drive;CR WVA10"
-    ]
+    ],
+    "nodeId": 93928147
    }
   },
   {
@@ -6771,7 +7191,8 @@
     "streets": [
      "Hawthorne Street;CR WVA09",
      "Oregon Street;CR 225"
-    ]
+    ],
+    "nodeId": 93928149
    }
   },
   {
@@ -6787,7 +7208,8 @@
     "streets": [
      "Moon Alley;CR WVA08",
      "Oregon Street;CR 225"
-    ]
+    ],
+    "nodeId": 93928152
    }
   },
   {
@@ -6803,7 +7225,8 @@
     "streets": [
      "Oregon Street;CR 225",
      "Paulson Street"
-    ]
+    ],
+    "nodeId": 93928158
    }
   },
   {
@@ -6819,7 +7242,8 @@
     "streets": [
      "Carson Street",
      "Oregon Street;CR 225"
-    ]
+    ],
+    "nodeId": 93928159
    }
   },
   {
@@ -6835,7 +7259,8 @@
     "streets": [
      "Odd Fellows Avenue;CR WVB20",
      "Oregon Street;CR 225"
-    ]
+    ],
+    "nodeId": 93928163
    }
   },
   {
@@ -6851,7 +7276,8 @@
     "streets": [
      "Corral Bottom Road;NF 47",
      "Underwood Mountain Road;NF 60"
-    ]
+    ],
+    "nodeId": 93928898
    }
   },
   {
@@ -6867,7 +7293,8 @@
     "streets": [
      "School House Road",
      "Steiner Flat Road"
-    ]
+    ],
+    "nodeId": 93929007
    }
   },
   {
@@ -6883,7 +7310,8 @@
     "streets": [
      "Main Street;CA 3;CA 299",
      "Steiner Flat Road"
-    ]
+    ],
+    "nodeId": 93902003
    }
   },
   {
@@ -6899,7 +7327,8 @@
     "streets": [
      "El Dorado Way;CR 164",
      "State Route 3;CA 3"
-    ]
+    ],
+    "nodeId": 93929014
    }
   },
   {
@@ -6915,7 +7344,8 @@
     "streets": [
      "El Dorado Way;CR 164",
      "Lakeview Drive;CR 163"
-    ]
+    ],
+    "nodeId": 93929016
    }
   },
   {
@@ -6931,7 +7361,8 @@
     "streets": [
      "El Dorado Way;CR 164",
      "Placer Drive;CR 165"
-    ]
+    ],
+    "nodeId": 93929020
    }
   },
   {
@@ -6947,7 +7378,8 @@
     "streets": [
      "Deadwood Road;CR 211",
      "Denney Lane"
-    ]
+    ],
+    "nodeId": 93929239
    }
   },
   {
@@ -6963,7 +7395,8 @@
     "streets": [
      "CA 3",
      "Reading Creek Road;CR 338"
-    ]
+    ],
+    "nodeId": 93929426
    }
   },
   {
@@ -6979,7 +7412,8 @@
     "streets": [
      "Hunter Lane",
      "McAlexander Road"
-    ]
+    ],
+    "nodeId": 93908958
    }
   },
   {
@@ -6995,7 +7429,8 @@
     "streets": [
      "Hunter Lane",
      "Shangrila Lane"
-    ]
+    ],
+    "nodeId": 93929604
    }
   },
   {
@@ -7011,7 +7446,8 @@
     "streets": [
      "Hunter Lane",
      "Mc Alexander Road"
-    ]
+    ],
+    "nodeId": 93918440
    }
   },
   {
@@ -7027,7 +7463,8 @@
     "streets": [
      "East Fork Road",
      "Montgomery Road"
-    ]
+    ],
+    "nodeId": 93929740
    }
   },
   {
@@ -7043,7 +7480,8 @@
     "streets": [
      "Mann Road;CR 131",
      "Poole Road;CR 114"
-    ]
+    ],
+    "nodeId": 93929868
    }
   },
   {
@@ -7059,7 +7497,8 @@
     "streets": [
      "Mann Road;CR 131",
      "Pine Lane;CR 159"
-    ]
+    ],
+    "nodeId": 93975168
    }
   },
   {
@@ -7075,7 +7514,8 @@
     "streets": [
      "Dockery Street;CR WVB26",
      "Millers Way"
-    ]
+    ],
+    "nodeId": 93929904
    }
   },
   {
@@ -7091,7 +7531,8 @@
     "streets": [
      "Circle Road",
      "Sky Ranch Road"
-    ]
+    ],
+    "nodeId": 93929960
    }
   },
   {
@@ -7107,7 +7548,8 @@
     "streets": [
      "CA 3",
      "Scott Mountain Road;CA 3"
-    ]
+    ],
+    "nodeId": 93911424
    }
   },
   {
@@ -7123,7 +7565,8 @@
     "streets": [
      "Trinity Alps Road;CR 112",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93930263
    }
   },
   {
@@ -7139,7 +7582,8 @@
     "streets": [
      "Pinewood Cove Road",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 12018481187
    }
   },
   {
@@ -7155,7 +7599,8 @@
     "streets": [
      "Cedar Stock Road;CR 141",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93925288
    }
   },
   {
@@ -7171,7 +7616,8 @@
     "streets": [
      "Granite Peak Road;FR 35N28Y",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93925254
    }
   },
   {
@@ -7187,7 +7633,8 @@
     "streets": [
      "Minersville Campground Road",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 12018481362
    }
   },
   {
@@ -7203,7 +7650,8 @@
     "streets": [
      "Rainier Road;CR 134",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 8866387344
    }
   },
   {
@@ -7219,7 +7667,8 @@
     "streets": [
      "Clark Springs Road;FR 35N80",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 8866387347
    }
   },
   {
@@ -7235,7 +7684,8 @@
     "streets": [
      "Rancheria Road",
      "State Route 3;CA 3"
-    ]
+    ],
+    "nodeId": 93931033
    }
   },
   {
@@ -7251,7 +7701,8 @@
     "streets": [
      "North Fork Cutoff;CR 124",
      "State Route 3;CA 3"
-    ]
+    ],
+    "nodeId": 93931036
    }
   },
   {
@@ -7267,7 +7718,8 @@
     "streets": [
      "North Woods Estates",
      "State Route 3;CA 3"
-    ]
+    ],
+    "nodeId": 93931045
    }
   },
   {
@@ -7283,7 +7735,8 @@
     "streets": [
      "State Route 3;CA 3",
      "Trinity Meadows"
-    ]
+    ],
+    "nodeId": 93931050
    }
   },
   {
@@ -7299,7 +7752,8 @@
     "streets": [
      "Hatchet Creek Road;CR 128",
      "State Route 3;CA 3"
-    ]
+    ],
+    "nodeId": 93931081
    }
   },
   {
@@ -7315,7 +7769,8 @@
     "streets": [
      "East Side Road",
      "State Route 3;CA 3"
-    ]
+    ],
+    "nodeId": 93913114
    }
   },
   {
@@ -7331,7 +7786,8 @@
     "streets": [
      "Trinity Dam Boulevard;CR 105",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93931795
    }
   },
   {
@@ -7347,7 +7803,8 @@
     "streets": [
      "Tannery Gulch Campground Road;FR 34N81",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93931689
    }
   },
   {
@@ -7363,7 +7820,8 @@
     "streets": [
      "Jesse Road",
      "Tule Creek Road;CR 317"
-    ]
+    ],
+    "nodeId": 93931883
    }
   },
   {
@@ -7379,7 +7837,8 @@
     "streets": [
      "Brown Canyon Road",
      "Deerlick Springs Road;CR 335"
-    ]
+    ],
+    "nodeId": 12000209396
    }
   },
   {
@@ -7395,7 +7854,8 @@
     "streets": [
      "Brown Canyon Road",
      "Fern Springs Road"
-    ]
+    ],
+    "nodeId": 12000209402
    }
   },
   {
@@ -7411,7 +7871,8 @@
     "streets": [
      "Beans Road;FR 33N76",
      "Oregon Springs Road"
-    ]
+    ],
+    "nodeId": 11226447147
    }
   },
   {
@@ -7427,7 +7888,8 @@
     "streets": [
      "Carson Street",
      "Spann Street"
-    ]
+    ],
+    "nodeId": 93932008
    }
   },
   {
@@ -7443,7 +7905,8 @@
     "streets": [
      "Hyampom School House Road;CR 315",
      "Underwood Mountain Road;CR 327"
-    ]
+    ],
+    "nodeId": 93920965
    }
   },
   {
@@ -7459,7 +7922,8 @@
     "streets": [
      "Beals Street;CR HF21",
      "CA 3"
-    ]
+    ],
+    "nodeId": 93930449
    }
   },
   {
@@ -7475,7 +7939,8 @@
     "streets": [
      "Dutch Creek Road;CR 413",
      "Sandy Flat Road"
-    ]
+    ],
+    "nodeId": 93932217
    }
   },
   {
@@ -7491,7 +7956,8 @@
     "streets": [
      "Dorothy Way",
      "Van Duzen Road;CR 511"
-    ]
+    ],
+    "nodeId": 93932232
    }
   },
   {
@@ -7507,7 +7973,8 @@
     "streets": [
      "Maude Avenue;CR TC03",
      "Scott Boulevard;CR TC01"
-    ]
+    ],
+    "nodeId": 93932297
    }
   },
   {
@@ -7523,7 +7990,8 @@
     "streets": [
      "Airport Road;CR TC06",
      "Maude Avenue;CR TC03"
-    ]
+    ],
+    "nodeId": 93932298
    }
   },
   {
@@ -7539,7 +8007,8 @@
     "streets": [
      "Dennison Drive",
      "Skinner Street"
-    ]
+    ],
+    "nodeId": 93932319
    }
   },
   {
@@ -7555,7 +8024,8 @@
     "streets": [
      "Dallas Drive",
      "Skinner Street"
-    ]
+    ],
+    "nodeId": 93932322
    }
   },
   {
@@ -7571,7 +8041,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Russel Orchard Road"
-    ]
+    ],
+    "nodeId": 93932326
    }
   },
   {
@@ -7587,7 +8058,8 @@
     "streets": [
      "Barker Creek Road;CR 331",
      "CA 3"
-    ]
+    ],
+    "nodeId": 93930514
    }
   },
   {
@@ -7603,7 +8075,8 @@
     "streets": [
      "Barker Creek Road;CR 331",
      "Sunshine Meadow Way"
-    ]
+    ],
+    "nodeId": 93789255
    }
   },
   {
@@ -7619,7 +8092,8 @@
     "streets": [
      "Barker Creek Road;CR 331",
      "Barker Creek Road;FR 32N03"
-    ]
+    ],
+    "nodeId": 12768878078
    }
   },
   {
@@ -7636,7 +8110,8 @@
      "Evening Star Court;PUD 115",
      "Sandridge Court;PUD 142",
      "Westridge Road;CR 350"
-    ]
+    ],
+    "nodeId": 93932418
    }
   },
   {
@@ -7652,7 +8127,8 @@
     "streets": [
      "Headquarters Way",
      "Old Ruth Road"
-    ]
+    ],
+    "nodeId": 5493953092
    }
   },
   {
@@ -7668,7 +8144,8 @@
     "streets": [
      "Cold Creek Road;CA 36",
      "Wildwood-Mad River Road;NF 30; FR 29N30"
-    ]
+    ],
+    "nodeId": 93932796
    }
   },
   {
@@ -7684,7 +8161,8 @@
     "streets": [
      "Bear Creek Road;FR 40N45",
      "Parks Creek Road;NF 17"
-    ]
+    ],
+    "nodeId": 93785836
    }
   },
   {
@@ -7700,7 +8178,8 @@
     "streets": [
      "North Woods Estates",
      "Trinity Meadows"
-    ]
+    ],
+    "nodeId": 12015312168
    }
   },
   {
@@ -7716,7 +8195,8 @@
     "streets": [
      "CA 36",
      "McFarland Ridge Road"
-    ]
+    ],
+    "nodeId": 93933289
    }
   },
   {
@@ -7732,7 +8212,8 @@
     "streets": [
      "Sugar Pine Road;PUD145",
      "Westridge Road;CR 350"
-    ]
+    ],
+    "nodeId": 93933290
    }
   },
   {
@@ -7748,7 +8229,8 @@
     "streets": [
      "Rattlesnake Road;CR 353",
      "Sugar Pine Road;PUD145"
-    ]
+    ],
+    "nodeId": 93933329
    }
   },
   {
@@ -7764,7 +8246,8 @@
     "streets": [
      "B Lane",
      "Salyer Court;CR 444-A"
-    ]
+    ],
+    "nodeId": 11593398983
    }
   },
   {
@@ -7780,7 +8263,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Wasson Manos Mountain Road"
-    ]
+    ],
+    "nodeId": 93933410
    }
   },
   {
@@ -7796,7 +8280,8 @@
     "streets": [
      "Browns Ranch Road;CR 180",
      "Granwood Hill"
-    ]
+    ],
+    "nodeId": 93948088
    }
   },
   {
@@ -7812,7 +8297,8 @@
     "streets": [
      "Browns Ranch Road;CR 180",
      "Shasta Springs Road"
-    ]
+    ],
+    "nodeId": 7226741433
    }
   },
   {
@@ -7828,7 +8314,8 @@
     "streets": [
      "Browns Ranch Road;CR 180",
      "Lance Gulch Road;CR 266"
-    ]
+    ],
+    "nodeId": 5847717234
    }
   },
   {
@@ -7844,7 +8331,8 @@
     "streets": [
      "Browns Ranch Road;CR 180",
      "Levee Road"
-    ]
+    ],
+    "nodeId": 93933464
    }
   },
   {
@@ -7860,7 +8348,8 @@
     "streets": [
      "Hennessey Road;CR 435",
      "Moss Old Mill Road;CR 437"
-    ]
+    ],
+    "nodeId": 93933511
    }
   },
   {
@@ -7876,7 +8365,8 @@
     "streets": [
      "Lilac Lane",
      "Pattison Ranch Road;CR 427"
-    ]
+    ],
+    "nodeId": 93933558
    }
   },
   {
@@ -7892,7 +8382,8 @@
     "streets": [
      "Corral Bottom Road;CR 470",
      "Pattison Ranch Road;CR 427"
-    ]
+    ],
+    "nodeId": 93786727
    }
   },
   {
@@ -7908,7 +8399,8 @@
     "streets": [
      "Betts Road;CR 522",
      "Zenia Lake Mountain Road;CR 503"
-    ]
+    ],
+    "nodeId": 93933763
    }
   },
   {
@@ -7924,7 +8416,8 @@
     "streets": [
      "1st Avenue",
      "Fremont Street"
-    ]
+    ],
+    "nodeId": 93933774
    }
   },
   {
@@ -7940,7 +8433,8 @@
     "streets": [
      "2nd Avenue",
      "Fremont Street"
-    ]
+    ],
+    "nodeId": 93933776
    }
   },
   {
@@ -7956,7 +8450,8 @@
     "streets": [
      "3rd Avenue",
      "Fremont Street"
-    ]
+    ],
+    "nodeId": 93912013
    }
   },
   {
@@ -7972,7 +8467,8 @@
     "streets": [
      "Fremont Street",
      "Lewiston Road;CR 202"
-    ]
+    ],
+    "nodeId": 93933781
    }
   },
   {
@@ -7988,7 +8484,8 @@
     "streets": [
      "CA 36",
      "Trinity Pines Drive;CR 351"
-    ]
+    ],
+    "nodeId": 93933929
    }
   },
   {
@@ -8004,7 +8501,8 @@
     "streets": [
      "South Ridge Road;PUD 144",
      "Trinity Pines Drive;CR 351"
-    ]
+    ],
+    "nodeId": 93900069
    }
   },
   {
@@ -8020,7 +8518,8 @@
     "streets": [
      "Chrome Mine Road;CR 352B",
      "Trinity Pines Drive;CR 351"
-    ]
+    ],
+    "nodeId": 93933967
    }
   },
   {
@@ -8036,7 +8535,8 @@
     "streets": [
      "Pine Root Spring Road;FR 28N24",
      "Wildwood-Mad River Road;NF 30; FR 29N30"
-    ]
+    ],
+    "nodeId": 10966939785
    }
   },
   {
@@ -8052,7 +8552,8 @@
     "streets": [
      "Bramlet Road;NF 29; FR 30N29",
      "Wildwood-Mad River Road;NF 30; FR 29N30"
-    ]
+    ],
+    "nodeId": 93909779
    }
   },
   {
@@ -8068,7 +8569,8 @@
     "streets": [
      "Panther Ridge Road;FR 29N33",
      "Wildwood-Mad River Road;NF 30; FR 29N30"
-    ]
+    ],
+    "nodeId": 93934043
    }
   },
   {
@@ -8084,7 +8586,8 @@
     "streets": [
      "Dubakella Road;FR 29N32",
      "Wildwood-Mad River Road;NF 30; FR 29N30"
-    ]
+    ],
+    "nodeId": 93934326
    }
   },
   {
@@ -8100,7 +8603,8 @@
     "streets": [
      "Big French Creek Road;FR 5N13",
      "CA 299"
-    ]
+    ],
+    "nodeId": 93935582
    }
   },
   {
@@ -8116,7 +8620,8 @@
     "streets": [
      "Bridge Gulch Road;FR 31N19",
      "Carrier Divide Road;FR 31N18"
-    ]
+    ],
+    "nodeId": 12005327679
    }
   },
   {
@@ -8132,7 +8637,8 @@
     "streets": [
      "Bridge Gulch Road;FR 31N19",
      "Wildwood Road;CR 302"
-    ]
+    ],
+    "nodeId": 93901259
    }
   },
   {
@@ -8148,7 +8654,8 @@
     "streets": [
      "Mi Casa Lane",
      "Poker Lane"
-    ]
+    ],
+    "nodeId": 93936522
    }
   },
   {
@@ -8164,7 +8671,8 @@
     "streets": [
      "Bear Wallow Road;NF 14; FR 1S14",
      "Post Mountain Road;NF 7; FR 2N07"
-    ]
+    ],
+    "nodeId": 93936546
    }
   },
   {
@@ -8180,7 +8688,8 @@
     "streets": [
      "Snowy Ridge Road",
      "Tye Lane"
-    ]
+    ],
+    "nodeId": 93936734
    }
   },
   {
@@ -8196,7 +8705,8 @@
     "streets": [
      "Hawkins Bar Road",
      "Madrone Lane"
-    ]
+    ],
+    "nodeId": 93936997
    }
   },
   {
@@ -8212,7 +8722,8 @@
     "streets": [
      "Flame Tree Road",
      "Madrone Lane"
-    ]
+    ],
+    "nodeId": 93937009
    }
   },
   {
@@ -8228,7 +8739,8 @@
     "streets": [
      "Indian Valley Court;PUD 120",
      "Post Mountain Road;NF 7; FR 2N07"
-    ]
+    ],
+    "nodeId": 93937367
    }
   },
   {
@@ -8244,7 +8756,8 @@
     "streets": [
      "Iris Lane",
      "Our Road"
-    ]
+    ],
+    "nodeId": 93937378
    }
   },
   {
@@ -8260,7 +8773,8 @@
     "streets": [
      "Iris Lane",
      "Pony Express Way;CR 474"
-    ]
+    ],
+    "nodeId": 11216115535
    }
   },
   {
@@ -8276,7 +8790,8 @@
     "streets": [
      "Kristen Court;CR 147",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93925043
    }
   },
   {
@@ -8292,7 +8807,8 @@
     "streets": [
      "Burgess Ranch Road;CR 532",
      "Zenia Lake Mountain Road;CR 503"
-    ]
+    ],
+    "nodeId": 93937411
    }
   },
   {
@@ -8308,7 +8824,8 @@
     "streets": [
      "Forest Rt 2539",
      "Mad River Ridge Road;FR 2S05"
-    ]
+    ],
+    "nodeId": 93937865
    }
   },
   {
@@ -8324,7 +8841,8 @@
     "streets": [
      "Forest Rt 2505E",
      "Mad River Ridge Road;FR 2S05"
-    ]
+    ],
+    "nodeId": 93937874
    }
   },
   {
@@ -8340,7 +8858,8 @@
     "streets": [
      "Lakeview Drive;CR TC09",
      "Laura Lane;CR TC14"
-    ]
+    ],
+    "nodeId": 11593681058
    }
   },
   {
@@ -8356,7 +8875,8 @@
     "streets": [
      "Laura Lane;CR TC14",
      "Marilyn Lane;CR TC11"
-    ]
+    ],
+    "nodeId": 93938127
    }
   },
   {
@@ -8372,7 +8892,8 @@
     "streets": [
      "Big Creek Road;CR 324",
      "Rose Lane"
-    ]
+    ],
+    "nodeId": 93938167
    }
   },
   {
@@ -8388,7 +8909,8 @@
     "streets": [
      "Bear Canyon Road",
      "Trinity Dam Boulevard;CR 105"
-    ]
+    ],
+    "nodeId": 93938548
    }
   },
   {
@@ -8404,7 +8926,8 @@
     "streets": [
      "First Left Road",
      "Trinity Dam Boulevard;CR 105"
-    ]
+    ],
+    "nodeId": 93938552
    }
   },
   {
@@ -8420,7 +8943,8 @@
     "streets": [
      "Hoaglin Cutoff;FR 4S15",
      "Long Ridge Road;CR 520"
-    ]
+    ],
+    "nodeId": 93938819
    }
   },
   {
@@ -8436,7 +8960,8 @@
     "streets": [
      "Long Ridge Road;CR 520",
      "Zenia Lake Mountain Road;CR 503"
-    ]
+    ],
+    "nodeId": 10975160587
    }
   },
   {
@@ -8452,7 +8977,8 @@
     "streets": [
      "Lewiston Cemetery Road",
      "Rush Creek Road;CR 204"
-    ]
+    ],
+    "nodeId": 93939514
    }
   },
   {
@@ -8468,7 +8994,8 @@
     "streets": [
      "Fir Meadow Lane;PUD 117",
      "Fir Meadow Road;PUD 118"
-    ]
+    ],
+    "nodeId": 93893609
    }
   },
   {
@@ -8484,7 +9011,8 @@
     "streets": [
      "CA 36",
      "Dogwood Lane"
-    ]
+    ],
+    "nodeId": 11987723772
    }
   },
   {
@@ -8500,7 +9028,8 @@
     "streets": [
      "Old Poker Bar Road",
      "Poker Bar Road"
-    ]
+    ],
+    "nodeId": 93939613
    }
   },
   {
@@ -8516,7 +9045,8 @@
     "streets": [
      "Indian Butter Tie Road;FR 2N01",
      "Indian Valley Road;NF 10; FR 2N10"
-    ]
+    ],
+    "nodeId": 93939669
    }
   },
   {
@@ -8532,7 +9062,8 @@
     "streets": [
      "Main Street;CA 3;CA 299",
      "Ponderosa Lane"
-    ]
+    ],
+    "nodeId": 93826032
    }
   },
   {
@@ -8548,7 +9079,8 @@
     "streets": [
      "Mormon Lane",
      "Odd Fellows Avenue;CR WVB20"
-    ]
+    ],
+    "nodeId": 93940016
    }
   },
   {
@@ -8564,7 +9096,8 @@
     "streets": [
      "Lower South Fork Road;CR 311",
      "Pelletreau Road;NF 40; FR 3N10"
-    ]
+    ],
+    "nodeId": 93940095
    }
   },
   {
@@ -8580,7 +9113,8 @@
     "streets": [
      "Lower South Fork Road",
      "Lower South Fork Road;CR 311"
-    ]
+    ],
+    "nodeId": 93940138
    }
   },
   {
@@ -8597,7 +9131,8 @@
      "Bear Springs Road",
      "Lake Road",
      "Wintu Pass Road"
-    ]
+    ],
+    "nodeId": 93847623
    }
   },
   {
@@ -8613,7 +9148,8 @@
     "streets": [
      "Bear Springs Road",
      "River Acres"
-    ]
+    ],
+    "nodeId": 93940260
    }
   },
   {
@@ -8629,7 +9165,8 @@
     "streets": [
      "Brooktree Way;CR WVB30",
      "Smith Street;CR WVB28"
-    ]
+    ],
+    "nodeId": 93940344
    }
   },
   {
@@ -8645,7 +9182,8 @@
     "streets": [
      "Bonanza Drive;CR 166",
      "Lakeview Drive;CR 163"
-    ]
+    ],
+    "nodeId": 93940744
    }
   },
   {
@@ -8661,7 +9199,8 @@
     "streets": [
      "Councilman Road",
      "Fountain Ranch Road;CR 445"
-    ]
+    ],
+    "nodeId": 93940762
    }
   },
   {
@@ -8677,7 +9216,8 @@
     "streets": [
      "Fountain Ranch Road;CR 445",
      "Salyer Loop Road;CR 444"
-    ]
+    ],
+    "nodeId": 93940796
    }
   },
   {
@@ -8693,7 +9233,8 @@
     "streets": [
      "Potato Creek Road;FR 30N04",
      "Wetzel Drive"
-    ]
+    ],
+    "nodeId": 93941282
    }
   },
   {
@@ -8709,7 +9250,8 @@
     "streets": [
      "Rails Road",
      "Salyer Loop Road;CR 444"
-    ]
+    ],
+    "nodeId": 93851676
    }
   },
   {
@@ -8726,7 +9268,8 @@
      "Bridge Road",
      "Quad P Road",
      "Reo Lane"
-    ]
+    ],
+    "nodeId": 93801843
    }
   },
   {
@@ -8742,7 +9285,8 @@
     "streets": [
      "Quad P Road",
      "River Road"
-    ]
+    ],
+    "nodeId": 93941321
    }
   },
   {
@@ -8758,7 +9302,8 @@
     "streets": [
      "Pipeline Road;PUD 131",
      "South Ridge Road;PUD 144"
-    ]
+    ],
+    "nodeId": 93941413
    }
   },
   {
@@ -8774,7 +9319,8 @@
     "streets": [
      "South Ridge Court;PUD 143",
      "South Ridge Road;PUD 144"
-    ]
+    ],
+    "nodeId": 93941455
    }
   },
   {
@@ -8790,7 +9336,8 @@
     "streets": [
      "Powerline Road;PUD 135",
      "South Ridge Road;PUD 144"
-    ]
+    ],
+    "nodeId": 2660565938
    }
   },
   {
@@ -8806,7 +9353,8 @@
     "streets": [
      "Lewiston Road;CR 202",
      "Wellock Road;CR 217"
-    ]
+    ],
+    "nodeId": 93941479
    }
   },
   {
@@ -8822,7 +9370,8 @@
     "streets": [
      "Bluff Creek Road;CR 518",
      "Doublegate Road;FR 3S15"
-    ]
+    ],
+    "nodeId": 93941491
    }
   },
   {
@@ -8838,7 +9387,8 @@
     "streets": [
      "R Jessee Street;CR HF18",
      "Serenello Drive"
-    ]
+    ],
+    "nodeId": 93941532
    }
   },
   {
@@ -8854,7 +9404,8 @@
     "streets": [
      "Kyler Avenue;CR HF17",
      "R Jessee Street;CR HF18"
-    ]
+    ],
+    "nodeId": 93789284
    }
   },
   {
@@ -8870,7 +9421,8 @@
     "streets": [
      "Brock Gulch Road",
      "CA 299"
-    ]
+    ],
+    "nodeId": 93941544
    }
   },
   {
@@ -8886,7 +9438,8 @@
     "streets": [
      "Cemetery Road",
      "Sky Ranch Road"
-    ]
+    ],
+    "nodeId": 93941557
    }
   },
   {
@@ -8903,7 +9456,8 @@
      "Big Creek Road;CR 324",
      "Packers Creek Road;NF 16; FR 4N16",
      "Soldier Creek Road;FR 33N47"
-    ]
+    ],
+    "nodeId": 93941990
    }
   },
   {
@@ -8919,7 +9473,8 @@
     "streets": [
      "Hayfork Bally Road;FR 33N52",
      "Packers Creek Road;NF 16; FR 4N16"
-    ]
+    ],
+    "nodeId": 11984270566
    }
   },
   {
@@ -8936,7 +9491,8 @@
      "Corral Bottom Road;NF 16",
      "Corral Bottom Road;NF 47",
      "Packers Creek Road;NF 16; FR 4N16"
-    ]
+    ],
+    "nodeId": 93928647
    }
   },
   {
@@ -8952,7 +9508,8 @@
     "streets": [
      "Creath Street;CR WVB22",
      "Odd Fellows Avenue;CR WVB20"
-    ]
+    ],
+    "nodeId": 93942205
    }
   },
   {
@@ -8968,7 +9525,8 @@
     "streets": [
      "Oak Shadows",
      "Robin Road"
-    ]
+    ],
+    "nodeId": 7227075844
    }
   },
   {
@@ -8984,7 +9542,8 @@
     "streets": [
      "East Weaver Creek Road;CR 228",
      "Robin Road"
-    ]
+    ],
+    "nodeId": 93885683
    }
   },
   {
@@ -9000,7 +9559,8 @@
     "streets": [
      "Hennessey Road;CR 435",
      "Osprey Lane"
-    ]
+    ],
+    "nodeId": 93942229
    }
   },
   {
@@ -9016,7 +9576,8 @@
     "streets": [
      "Hawkins Bar Road",
      "Trinity Court"
-    ]
+    ],
+    "nodeId": 93942242
    }
   },
   {
@@ -9032,7 +9593,8 @@
     "streets": [
      "Dennison Drive",
      "Trinity View Drive"
-    ]
+    ],
+    "nodeId": 93942267
    }
   },
   {
@@ -9048,7 +9610,8 @@
     "streets": [
      "Dallas Drive",
      "Trinity View Drive"
-    ]
+    ],
+    "nodeId": 93942270
    }
   },
   {
@@ -9064,7 +9627,8 @@
     "streets": [
      "Brush Creek Lane",
      "Trinity Meadows"
-    ]
+    ],
+    "nodeId": 12015312144
    }
   },
   {
@@ -9080,7 +9644,8 @@
     "streets": [
      "Laurel Drive;CR HF33",
      "Olivia Drive;CR HF31"
-    ]
+    ],
+    "nodeId": 93942602
    }
   },
   {
@@ -9096,7 +9661,8 @@
     "streets": [
      "Dolly Varden Lane",
      "Oregon Mountain Road"
-    ]
+    ],
+    "nodeId": 93943103
    }
   },
   {
@@ -9113,7 +9679,8 @@
      "Bridge Road",
      "North Meadow Lane",
      "South Meadow Lane"
-    ]
+    ],
+    "nodeId": 93943542
    }
   },
   {
@@ -9129,7 +9696,8 @@
     "streets": [
      "Morgan Hill Road;CR 319",
      "Oak Avenue;CR HF27"
-    ]
+    ],
+    "nodeId": 93943580
    }
   },
   {
@@ -9145,7 +9713,8 @@
     "streets": [
      "Oak Avenue;CR HF27",
      "Riverview Road;CR 344"
-    ]
+    ],
+    "nodeId": 93943583
    }
   },
   {
@@ -9161,7 +9730,8 @@
     "streets": [
      "Barnaby Road;FR 2S04",
      "Grizzly Mountain Road;FR 2S17"
-    ]
+    ],
+    "nodeId": 93943637
    }
   },
   {
@@ -9177,7 +9747,8 @@
     "streets": [
      "Bear Rock Lane;PUD 104",
      "Bear Rock Road;PUD 105"
-    ]
+    ],
+    "nodeId": 93943907
    }
   },
   {
@@ -9193,7 +9764,8 @@
     "streets": [
      "Bear Rock Lane;PUD 104",
      "Shooting Star Court;PUD 107"
-    ]
+    ],
+    "nodeId": 93932026
    }
   },
   {
@@ -9209,7 +9781,8 @@
     "streets": [
      "Autumn Court;PUD 101",
      "Autumn Way;PUD 102"
-    ]
+    ],
+    "nodeId": 93943921
    }
   },
   {
@@ -9225,7 +9798,8 @@
     "streets": [
      "Long Canyon Road;CR 115",
      "Mule Creek Road;FR 35N23Y"
-    ]
+    ],
+    "nodeId": 93943956
    }
   },
   {
@@ -9241,7 +9815,8 @@
     "streets": [
      "Canyon View Drive",
      "Long Canyon Road;CR 115"
-    ]
+    ],
+    "nodeId": 93943980
    }
   },
   {
@@ -9257,7 +9832,8 @@
     "streets": [
      "Long Canyon Road;CR 115",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93925033
    }
   },
   {
@@ -9273,7 +9849,8 @@
     "streets": [
      "Gray Creek Road;FR 6N12",
      "Hennessey Ridge Road;FR 6N19"
-    ]
+    ],
+    "nodeId": 93944157
    }
   },
   {
@@ -9289,7 +9866,8 @@
     "streets": [
      "CA 299",
      "Gray Creek Road;FR 6N12"
-    ]
+    ],
+    "nodeId": 93944339
    }
   },
   {
@@ -9305,7 +9883,8 @@
     "streets": [
      "Gray Creek Road;FR 6N12",
      "South Fork Road;CR 447"
-    ]
+    ],
+    "nodeId": 93944350
    }
   },
   {
@@ -9321,7 +9900,8 @@
     "streets": [
      "Stuart Fork Road;FR 35N3Y",
      "Trinity Alps Road;CR 112"
-    ]
+    ],
+    "nodeId": 93944789
    }
   },
   {
@@ -9337,7 +9917,8 @@
     "streets": [
      "CA 299",
      "Clark Creek Road"
-    ]
+    ],
+    "nodeId": 11069920833
    }
   },
   {
@@ -9353,7 +9934,8 @@
     "streets": [
      "Dutch Creek Road;CR 413",
      "Soldier Creek Road;FR 33N47"
-    ]
+    ],
+    "nodeId": 93944876
    }
   },
   {
@@ -9369,7 +9951,8 @@
     "streets": [
      "Dutch Creek Road;CR 413",
      "Stillwaters Lane"
-    ]
+    ],
+    "nodeId": 93944870
    }
   },
   {
@@ -9385,7 +9968,8 @@
     "streets": [
      "Dutch Creek Road;CR 413",
      "Evans Bar Road;CR 414"
-    ]
+    ],
+    "nodeId": 93945035
    }
   },
   {
@@ -9402,7 +9986,8 @@
      "Redbud Court;PUD 140",
      "Sunset Road;PUD 146",
      "Westridge Road;CR 350"
-    ]
+    ],
+    "nodeId": 93925753
    }
   },
   {
@@ -9418,7 +10003,8 @@
     "streets": [
      "North Star Court;PUD 126",
      "Sunset Road;PUD 146"
-    ]
+    ],
+    "nodeId": 93945135
    }
   },
   {
@@ -9434,7 +10020,8 @@
     "streets": [
      "Glade Creek Road;PUD 119",
      "Sunset Road;PUD 146"
-    ]
+    ],
+    "nodeId": 93945172
    }
   },
   {
@@ -9450,7 +10037,8 @@
     "streets": [
      "Moon Alley;CR WVA08",
      "Pine Song Lane;CR WVA14"
-    ]
+    ],
+    "nodeId": 93945232
    }
   },
   {
@@ -9466,7 +10054,8 @@
     "streets": [
      "Glen Road;CR 239",
      "Michael Road;CR 273"
-    ]
+    ],
+    "nodeId": 93945392
    }
   },
   {
@@ -9482,7 +10071,8 @@
     "streets": [
      "Lamb Road",
      "Mesquite Lane"
-    ]
+    ],
+    "nodeId": 1063947342
    }
   },
   {
@@ -9498,7 +10088,8 @@
     "streets": [
      "Deer Creek Road",
      "Old Costa Ranch Road"
-    ]
+    ],
+    "nodeId": 11229915345
    }
   },
   {
@@ -9514,7 +10105,8 @@
     "streets": [
      "Old Costa Ranch Road",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93931790
    }
   },
   {
@@ -9530,7 +10122,8 @@
     "streets": [
      "Greenhorn Drive;CR 143",
      "Millview Drive;CR 146"
-    ]
+    ],
+    "nodeId": 93946337
    }
   },
   {
@@ -9546,7 +10139,8 @@
     "streets": [
      "Guy Covington Drive;CR 160",
      "Millview Drive;CR 146"
-    ]
+    ],
+    "nodeId": 93946357
    }
   },
   {
@@ -9562,7 +10156,8 @@
     "streets": [
      "Bonanza Drive;CR 166",
      "Placer Drive;CR 165"
-    ]
+    ],
+    "nodeId": 93946363
    }
   },
   {
@@ -9578,7 +10173,8 @@
     "streets": [
      "Mary Avenue;CR TC02",
      "Scott Boulevard;CR TC01"
-    ]
+    ],
+    "nodeId": 93946474
    }
   },
   {
@@ -9594,7 +10190,8 @@
     "streets": [
      "Limedyke Lookout Road;FR 2N16",
      "Saint John Road;CR 316"
-    ]
+    ],
+    "nodeId": 93833079
    }
   },
   {
@@ -9610,7 +10207,8 @@
     "streets": [
      "Kyler Avenue;CR HF17",
      "Morgan Hill Road;CR 319"
-    ]
+    ],
+    "nodeId": 93946906
    }
   },
   {
@@ -9626,7 +10224,8 @@
     "streets": [
      "Potato Creek Road;FR 30N04",
      "Wildwood Road;CR 302"
-    ]
+    ],
+    "nodeId": 93947264
    }
   },
   {
@@ -9642,7 +10241,8 @@
     "streets": [
      "Hennessey Ridge Road;FR 6N19",
      "Hennessey Road;CR 435"
-    ]
+    ],
+    "nodeId": 93947268
    }
   },
   {
@@ -9659,7 +10259,8 @@
      "East Fork Road",
      "East Fork Road;CR 421",
      "Hobo Gulch Road;FR 34N07Y"
-    ]
+    ],
+    "nodeId": 93947491
    }
   },
   {
@@ -9675,7 +10276,8 @@
     "streets": [
      "CA 299",
      "East Fork Road"
-    ]
+    ],
+    "nodeId": 93947642
    }
   },
   {
@@ -9691,7 +10293,8 @@
     "streets": [
      "East Fork Road;CR 343",
      "Sims Creek Road;CR 330"
-    ]
+    ],
+    "nodeId": 93947808
    }
   },
   {
@@ -9707,7 +10310,8 @@
     "streets": [
      "Emily Way",
      "Granwood Hill"
-    ]
+    ],
+    "nodeId": 7226731479
    }
   },
   {
@@ -9723,7 +10327,8 @@
     "streets": [
      "Dennison Drive",
      "Hilltop Drive"
-    ]
+    ],
+    "nodeId": 93948153
    }
   },
   {
@@ -9739,7 +10344,8 @@
     "streets": [
      "Dallas Drive",
      "Hilltop Drive"
-    ]
+    ],
+    "nodeId": 93948155
    }
   },
   {
@@ -9755,7 +10361,8 @@
     "streets": [
      "2nd Avenue",
      "Trinity Vista"
-    ]
+    ],
+    "nodeId": 93948505
    }
   },
   {
@@ -9771,7 +10378,8 @@
     "streets": [
      "2nd Avenue",
      "Sutter Street"
-    ]
+    ],
+    "nodeId": 93948508
    }
   },
   {
@@ -9787,7 +10395,8 @@
     "streets": [
      "2nd Avenue",
      "Donner Street"
-    ]
+    ],
+    "nodeId": 93948509
    }
   },
   {
@@ -9804,7 +10413,8 @@
      "Big Bar Dump Road;CR 463",
      "Corral Bottom Road;CR 470",
      "Corral Bottom Road;NF 16"
-    ]
+    ],
+    "nodeId": 93928469
    }
   },
   {
@@ -9821,7 +10431,8 @@
      "Lowden Lane;CR WVD71",
      "Park Avenue;CR WVD80",
      "Weaver Street;CR WVD70"
-    ]
+    ],
+    "nodeId": 93948531
    }
   },
   {
@@ -9837,7 +10448,8 @@
     "streets": [
      "Lowden Lane;CR WVD71",
      "Washington Street;CR WVA02"
-    ]
+    ],
+    "nodeId": 93948540
    }
   },
   {
@@ -9853,7 +10465,8 @@
     "streets": [
      "Mulligan Street;CR WVC50",
      "Willow Street;CR WVC51"
-    ]
+    ],
+    "nodeId": 93948635
    }
   },
   {
@@ -9869,7 +10482,8 @@
     "streets": [
      "Manzanita Drive;CR WVC53",
      "Mulligan Street;CR WVC50"
-    ]
+    ],
+    "nodeId": 93948642
    }
   },
   {
@@ -9885,7 +10499,8 @@
     "streets": [
      "Chaparrel Court;PUD 109",
      "Yolla Bolla Court;PUD 152"
-    ]
+    ],
+    "nodeId": 93981412
    }
   },
   {
@@ -9901,7 +10516,8 @@
     "streets": [
      "Lewiston Road;CR 202",
      "School House Road;CR 233"
-    ]
+    ],
+    "nodeId": 93876377
    }
   },
   {
@@ -9917,7 +10533,8 @@
     "streets": [
      "Lewiston Turnpike Road;CR 212",
      "School House Road;CR 233"
-    ]
+    ],
+    "nodeId": 93949004
    }
   },
   {
@@ -9933,7 +10550,8 @@
     "streets": [
      "Miller Road",
      "Zenia Lake Mountain Road;CR 503"
-    ]
+    ],
+    "nodeId": 93949090
    }
   },
   {
@@ -9949,7 +10567,8 @@
     "streets": [
      "Circle",
      "Fairgrounds"
-    ]
+    ],
+    "nodeId": 93908207
    }
   },
   {
@@ -9965,7 +10584,8 @@
     "streets": [
      "CA 36",
      "Double Plate Road;FR 30N30"
-    ]
+    ],
+    "nodeId": 289296965
    }
   },
   {
@@ -9981,7 +10601,8 @@
     "streets": [
      "Cedar Point Road;PUD 108",
      "Double Plate Road;FR 30N30"
-    ]
+    ],
+    "nodeId": 93949515
    }
   },
   {
@@ -9997,7 +10618,8 @@
     "streets": [
      "Double Plate Road;FR 30N30",
      "Rattlesnake Road;CR 353"
-    ]
+    ],
+    "nodeId": 93949536
    }
   },
   {
@@ -10013,7 +10635,8 @@
     "streets": [
      "Rattlesnake Road;CR 353",
      "Westridge Road;CR 350"
-    ]
+    ],
+    "nodeId": 93949595
    }
   },
   {
@@ -10029,7 +10652,8 @@
     "streets": [
      "Happy Camp Mountain Road;FR 7N26",
      "Link Road;FR 6N10"
-    ]
+    ],
+    "nodeId": 93949706
    }
   },
   {
@@ -10045,7 +10669,8 @@
     "streets": [
      "CA 299",
      "Gilzean Road"
-    ]
+    ],
+    "nodeId": 93949738
    }
   },
   {
@@ -10061,7 +10686,8 @@
     "streets": [
      "Hillcrest Drive",
      "Mountain View Drive"
-    ]
+    ],
+    "nodeId": 93952640
    }
   },
   {
@@ -10077,7 +10703,8 @@
     "streets": [
      "Bonar Street",
      "Meadow Road;CR 250"
-    ]
+    ],
+    "nodeId": 7227075795
    }
   },
   {
@@ -10093,7 +10720,8 @@
     "streets": [
      "North Salt Creek Road",
      "South Salt Creek Road"
-    ]
+    ],
+    "nodeId": 93867535
    }
   },
   {
@@ -10109,7 +10737,8 @@
     "streets": [
      "Deadwood Road;CR 211",
      "Fish Hatchery Road;CR 173"
-    ]
+    ],
+    "nodeId": 9786711820
    }
   },
   {
@@ -10125,7 +10754,8 @@
     "streets": [
      "Barry Creek Road;CR 524",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93950156
    }
   },
   {
@@ -10142,7 +10772,8 @@
      "Berry Summit-Mad River Road;NF 1; FR 6N01",
      "Berry Summit-Mad River Road;NF 1;FR 6N01",
      "Pelletreau Road;NF 40; FR 3N10"
-    ]
+    ],
+    "nodeId": 93984542
    }
   },
   {
@@ -10158,7 +10789,8 @@
     "streets": [
      "Maker Creek Road",
      "Olsen Creek Road"
-    ]
+    ],
+    "nodeId": 93932059
    }
   },
   {
@@ -10174,7 +10806,8 @@
     "streets": [
      "Odd Fellows Avenue;CR WVB20",
      "Paulson Street"
-    ]
+    ],
+    "nodeId": 93950457
    }
   },
   {
@@ -10190,7 +10823,8 @@
     "streets": [
      "Forest Avenue;CR WVB25",
      "Loomis Lane"
-    ]
+    ],
+    "nodeId": 93950572
    }
   },
   {
@@ -10206,7 +10840,8 @@
     "streets": [
      "Ridge Top Drive;CR WVC56",
      "Waterworks Street;CR WVC46"
-    ]
+    ],
+    "nodeId": 93950591
    }
   },
   {
@@ -10222,7 +10857,8 @@
     "streets": [
      "Court Street;CR WVC44",
      "Waterworks Street;CR WVC46"
-    ]
+    ],
+    "nodeId": 93950594
    }
   },
   {
@@ -10238,7 +10874,8 @@
     "streets": [
      "Lower Road;CR 468",
      "Power House Road;CR 420"
-    ]
+    ],
+    "nodeId": 93950789
    }
   },
   {
@@ -10254,7 +10891,8 @@
     "streets": [
      "CA 299",
      "Top of the Grade"
-    ]
+    ],
+    "nodeId": 93950895
    }
   },
   {
@@ -10270,7 +10908,8 @@
     "streets": [
      "Holly Creek Lane",
      "Ruth Zenia Road;CR 502"
-    ]
+    ],
+    "nodeId": 93950972
    }
   },
   {
@@ -10287,7 +10926,8 @@
      "Chrome Mine Road",
      "Chrome Mine Road;CR 352A",
      "Rattlesnake Road;CR 353"
-    ]
+    ],
+    "nodeId": 93951057
    }
   },
   {
@@ -10303,7 +10943,8 @@
     "streets": [
      "Rush Creek Drive;CR 275",
      "Rush Creek Road;CR 204"
-    ]
+    ],
+    "nodeId": 93951540
    }
   },
   {
@@ -10319,7 +10960,8 @@
     "streets": [
      "Rush Creek Road;CR 204",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93931769
    }
   },
   {
@@ -10335,7 +10977,8 @@
     "streets": [
      "Rush Creek Road;CR 204",
      "Trinity Dam Boulevard;CR 105"
-    ]
+    ],
+    "nodeId": 93938515
    }
   },
   {
@@ -10351,7 +10994,8 @@
     "streets": [
      "13 Dips Road;CR 347",
      "Wolfhound Road"
-    ]
+    ],
+    "nodeId": 93951930
    }
   },
   {
@@ -10367,7 +11011,8 @@
     "streets": [
      "13 Dips Road;CR 347",
      "CA 3"
-    ]
+    ],
+    "nodeId": 291158190
    }
   },
   {
@@ -10383,7 +11028,8 @@
     "streets": [
      "Deerlick Springs Road;CR 335",
      "Smith Lane"
-    ]
+    ],
+    "nodeId": 93951979
    }
   },
   {
@@ -10399,7 +11045,8 @@
     "streets": [
      "Smith Lane",
      "Smith Lane, Left Fork"
-    ]
+    ],
+    "nodeId": 93952007
    }
   },
   {
@@ -10415,7 +11062,8 @@
     "streets": [
      "Smith Lane, Left Fork",
      "Smith Lane, Middle Fork"
-    ]
+    ],
+    "nodeId": 3392610871
    }
   },
   {
@@ -10431,7 +11079,8 @@
     "streets": [
      "United States Forest Service 34N30",
      "United States Forest Service 34N38"
-    ]
+    ],
+    "nodeId": 93952059
    }
   },
   {
@@ -10447,7 +11096,8 @@
     "streets": [
      "United States Forest Service 34N30",
      "United States Forest Service 34N39"
-    ]
+    ],
+    "nodeId": 93952112
    }
   },
   {
@@ -10463,7 +11113,8 @@
     "streets": [
      "Campbell Ridge Road;CR 454",
      "Salyer Loop Road;CR 444"
-    ]
+    ],
+    "nodeId": 93952361
    }
   },
   {
@@ -10479,7 +11130,8 @@
     "streets": [
      "Orchard Lane",
      "Salyer Court;CR 444-A"
-    ]
+    ],
+    "nodeId": 93952377
    }
   },
   {
@@ -10495,7 +11147,8 @@
     "streets": [
      "North Witzhum Gulch Road",
      "Vitzthum Gulch Road"
-    ]
+    ],
+    "nodeId": 93952390
    }
   },
   {
@@ -10511,7 +11164,8 @@
     "streets": [
      "Mill Street;CR WVA03",
      "Virginia Street;CR WVA11"
-    ]
+    ],
+    "nodeId": 93912039
    }
   },
   {
@@ -10527,7 +11181,8 @@
     "streets": [
      "Briar Patch Lane",
      "Wonder Stump Lane"
-    ]
+    ],
+    "nodeId": 93952486
    }
   },
   {
@@ -10543,7 +11198,8 @@
     "streets": [
      "Briar Patch Lane",
      "CA 299"
-    ]
+    ],
+    "nodeId": 93952494
    }
   },
   {
@@ -10559,7 +11215,8 @@
     "streets": [
      "Kinny Camp Road",
      "Lookout Ridge Road"
-    ]
+    ],
+    "nodeId": 93952607
    }
   },
   {
@@ -10575,7 +11232,8 @@
     "streets": [
      "CA 299",
      "Corral Bottom Road;CR 470"
-    ]
+    ],
+    "nodeId": 428224866
    }
   },
   {
@@ -10591,7 +11249,8 @@
     "streets": [
      "Burnt Ranch School Road;CR 452",
      "Pony Express Way;CR 474"
-    ]
+    ],
+    "nodeId": 93952700
    }
   },
   {
@@ -10607,7 +11266,8 @@
     "streets": [
      "Burnt Ranch School Road;CR 452",
      "FR 5N03"
-    ]
+    ],
+    "nodeId": 11216115463
    }
   },
   {
@@ -10623,7 +11283,8 @@
     "streets": [
      "Burnt Ranch School Road;CR 452",
      "CA 299"
-    ]
+    ],
+    "nodeId": 93952694
    }
   },
   {
@@ -10639,7 +11300,8 @@
     "streets": [
      "Gladys Street;CR HF38",
      "Marvel Street;CR HF37"
-    ]
+    ],
+    "nodeId": 93952710
    }
   },
   {
@@ -10655,7 +11317,8 @@
     "streets": [
      "Leroy Street;CR HF34",
      "Marvel Street;CR HF37"
-    ]
+    ],
+    "nodeId": 93952712
    }
   },
   {
@@ -10671,7 +11334,8 @@
     "streets": [
      "Donald Street;CR HF39",
      "Marvel Street;CR HF37"
-    ]
+    ],
+    "nodeId": 93952714
    }
   },
   {
@@ -10687,7 +11351,8 @@
     "streets": [
      "Forest Avenue;CR HF10",
      "Marvel Street;CR HF37"
-    ]
+    ],
+    "nodeId": 93952716
    }
   },
   {
@@ -10703,7 +11368,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "White Mountain Road"
-    ]
+    ],
+    "nodeId": 93952820
    }
   },
   {
@@ -10719,7 +11385,8 @@
     "streets": [
      "Spinner Willow Road",
      "White Mountain Road"
-    ]
+    ],
+    "nodeId": 5493931812
    }
   },
   {
@@ -10735,7 +11402,8 @@
     "streets": [
      "Dennis Boulevard",
      "Veterans Hall Road"
-    ]
+    ],
+    "nodeId": 93952886
    }
   },
   {
@@ -10751,7 +11419,8 @@
     "streets": [
      "Middle Court;PUD 125",
      "Ponderosa Road;PUD 133"
-    ]
+    ],
+    "nodeId": 93953119
    }
   },
   {
@@ -10767,7 +11436,8 @@
     "streets": [
      "Marilyn Lane;CR TC11",
      "Mary Avenue;CR TC02"
-    ]
+    ],
+    "nodeId": 93953309
    }
   },
   {
@@ -10783,7 +11453,8 @@
     "streets": [
      "Eleanore Lane;CR TC10",
      "Mary Avenue;CR TC02"
-    ]
+    ],
+    "nodeId": 93953313
    }
   },
   {
@@ -10799,7 +11470,8 @@
     "streets": [
      "Airport Road;CR TC06",
      "Mary Avenue;CR TC02"
-    ]
+    ],
+    "nodeId": 93953319
    }
   },
   {
@@ -10815,7 +11487,8 @@
     "streets": [
      "Oregon Ridge Road",
      "Ward Placer Place"
-    ]
+    ],
+    "nodeId": 93953373
    }
   },
   {
@@ -10831,7 +11504,8 @@
     "streets": [
      "Browns Creek Road;FR 30N01",
      "CA 36"
-    ]
+    ],
+    "nodeId": 91220263
    }
   },
   {
@@ -10847,7 +11521,8 @@
     "streets": [
      "CA 299",
      "Grays Fall Day Use Area Road;FR 6N56"
-    ]
+    ],
+    "nodeId": 93953667
    }
   },
   {
@@ -10863,7 +11538,8 @@
     "streets": [
      "Manzanita Ridge Road",
      "Wheel Gulch Road"
-    ]
+    ],
+    "nodeId": 93953879
    }
   },
   {
@@ -10879,7 +11555,8 @@
     "streets": [
      "Kelso Avenue;CR WVC52",
      "Manzanita Drive;CR WVC53"
-    ]
+    ],
+    "nodeId": 93881983
    }
   },
   {
@@ -10895,7 +11572,8 @@
     "streets": [
      "Estrellita Road",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93872852
    }
   },
   {
@@ -10912,7 +11590,8 @@
      "Billys Peak Court;CR 156",
      "Billys Peak Drive;CR 153",
      "Cedar Court;CR 157"
-    ]
+    ],
+    "nodeId": 93954160
    }
   },
   {
@@ -10928,7 +11607,8 @@
     "streets": [
      "Brannan Street;CR WVD73",
      "Center Street;CR WVD74"
-    ]
+    ],
+    "nodeId": 4248047420
    }
   },
   {
@@ -10944,7 +11624,8 @@
     "streets": [
      "Brannan Street;CR WVD73",
      "Halls Alley;CR WVD82"
-    ]
+    ],
+    "nodeId": 93871218
    }
   },
   {
@@ -10960,7 +11641,8 @@
     "streets": [
      "Brannan Street;CR WVD73",
      "Washington Street;CR WVA02"
-    ]
+    ],
+    "nodeId": 93954168
    }
   },
   {
@@ -10976,7 +11658,8 @@
     "streets": [
      "Cedar Point Road;PUD 108",
      "West Valley Road;PUD 148"
-    ]
+    ],
+    "nodeId": 93954174
    }
   },
   {
@@ -10992,7 +11675,8 @@
     "streets": [
      "West Valley Court;PUD 147",
      "West Valley Road;PUD 148"
-    ]
+    ],
+    "nodeId": 93954176
    }
   },
   {
@@ -11008,7 +11692,8 @@
     "streets": [
      "Cycle Street;CR HF46",
      "Talco Way;CR HF45"
-    ]
+    ],
+    "nodeId": 93954179
    }
   },
   {
@@ -11024,7 +11709,8 @@
     "streets": [
      "Long Street",
      "Mountain View Street"
-    ]
+    ],
+    "nodeId": 93954204
    }
   },
   {
@@ -11040,7 +11726,8 @@
     "streets": [
      "Madrone Road;PUD 123",
      "Pipeline Road;PUD 131"
-    ]
+    ],
+    "nodeId": 93851242
    }
   },
   {
@@ -11056,7 +11743,8 @@
     "streets": [
      "Cedar Point Road;PUD 108",
      "Madrone Road;PUD 123"
-    ]
+    ],
+    "nodeId": 93954304
    }
   },
   {
@@ -11072,7 +11760,8 @@
     "streets": [
      "Madrone Road;PUD 123",
      "Manzanita Court;PUD 124"
-    ]
+    ],
+    "nodeId": 93954309
    }
   },
   {
@@ -11088,7 +11777,8 @@
     "streets": [
      "Madrone Court;PUD 122",
      "Madrone Road;PUD 123"
-    ]
+    ],
+    "nodeId": 93954315
    }
   },
   {
@@ -11104,7 +11794,8 @@
     "streets": [
      "Chaparrel Court;PUD 109",
      "Madrone Road;PUD 123"
-    ]
+    ],
+    "nodeId": 93954330
    }
   },
   {
@@ -11120,7 +11811,8 @@
     "streets": [
      "Madrone Road;PUD 123",
      "Powerline Road;PUD 135"
-    ]
+    ],
+    "nodeId": 11972451923
    }
   },
   {
@@ -11136,7 +11828,8 @@
     "streets": [
      "Easy Street",
      "Hyampom Road;CR 301"
-    ]
+    ],
+    "nodeId": 93862487
    }
   },
   {
@@ -11152,7 +11845,8 @@
     "streets": [
      "Lewiston Road;CR 202",
      "Oak Ranch Drive"
-    ]
+    ],
+    "nodeId": 93954697
    }
   },
   {
@@ -11168,7 +11862,8 @@
     "streets": [
      "CA 299",
      "Rose Road"
-    ]
+    ],
+    "nodeId": 93954784
    }
   },
   {
@@ -11184,7 +11879,8 @@
     "streets": [
      "Fire House Road",
      "Rose Road"
-    ]
+    ],
+    "nodeId": 93954787
    }
   },
   {
@@ -11200,7 +11896,8 @@
     "streets": [
      "Grandview Drive",
      "Pioneer Lane;CR 248"
-    ]
+    ],
+    "nodeId": 93954797
    }
   },
   {
@@ -11216,7 +11913,8 @@
     "streets": [
      "Elgin Road",
      "West Hettenshaw Road;CR 515W"
-    ]
+    ],
+    "nodeId": 93954872
    }
   },
   {
@@ -11232,7 +11930,8 @@
     "streets": [
      "County Route 504",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93954886
    }
   },
   {
@@ -11248,7 +11947,8 @@
     "streets": [
      "County Route 504",
      "Double A Road;FR 3S13"
-    ]
+    ],
+    "nodeId": 10983229274
    }
   },
   {
@@ -11264,7 +11964,8 @@
     "streets": [
      "Fir Meadow Road;PUD 118",
      "Trinity Pines Drive;CR 351"
-    ]
+    ],
+    "nodeId": 93954948
    }
   },
   {
@@ -11280,7 +11981,8 @@
     "streets": [
      "Locust Street;CR HF25",
      "Morgan Hill Road;CR 319"
-    ]
+    ],
+    "nodeId": 93955144
    }
   },
   {
@@ -11296,7 +11998,8 @@
     "streets": [
      "Quinn Road;PUD 137",
      "Rattlesnake Road;CR 353"
-    ]
+    ],
+    "nodeId": 93856216
    }
   },
   {
@@ -11312,7 +12015,8 @@
     "streets": [
      "Bass Lane;PUD 103",
      "Quinn Road;PUD 137"
-    ]
+    ],
+    "nodeId": 93939584
    }
   },
   {
@@ -11328,7 +12032,8 @@
     "streets": [
      "CA 299",
      "Jc Park Road"
-    ]
+    ],
+    "nodeId": 93955162
    }
   },
   {
@@ -11344,7 +12049,8 @@
     "streets": [
      "El Rocko Road",
      "Senger Road"
-    ]
+    ],
+    "nodeId": 93955175
    }
   },
   {
@@ -11360,7 +12066,8 @@
     "streets": [
      "Quail Road",
      "Senger Road"
-    ]
+    ],
+    "nodeId": 9784949221
    }
   },
   {
@@ -11376,7 +12083,8 @@
     "streets": [
      "Buckwheat Lane",
      "Rodeo Drive"
-    ]
+    ],
+    "nodeId": 93953923
    }
   },
   {
@@ -11392,7 +12100,8 @@
     "streets": [
      "CA 36",
      "Wildwood Road;CR 302"
-    ]
+    ],
+    "nodeId": 93955723
    }
   },
   {
@@ -11408,7 +12117,8 @@
     "streets": [
      "Wildwood Ranch Road",
      "Wildwood Road;CR 302"
-    ]
+    ],
+    "nodeId": 93955757
    }
   },
   {
@@ -11424,7 +12134,8 @@
     "streets": [
      "Hope Lane",
      "Wildwood Road;CR 302"
-    ]
+    ],
+    "nodeId": 93858830
    }
   },
   {
@@ -11440,7 +12151,8 @@
     "streets": [
      "Nelson Road",
      "Wildwood Road;CR 302"
-    ]
+    ],
+    "nodeId": 93955921
    }
   },
   {
@@ -11456,7 +12168,8 @@
     "streets": [
      "Price Creek Road;CR 428",
      "Rose Ranch Road;FR 33N44"
-    ]
+    ],
+    "nodeId": 93956016
    }
   },
   {
@@ -11472,7 +12185,8 @@
     "streets": [
      "Homestead Road;FR 3S18",
      "Ruth Zenia Road;CR 502"
-    ]
+    ],
+    "nodeId": 7070931703
    }
   },
   {
@@ -11488,7 +12202,8 @@
     "streets": [
      "FR 2S17",
      "Ruth Zenia Road;CR 502"
-    ]
+    ],
+    "nodeId": 93943806
    }
   },
   {
@@ -11504,7 +12219,8 @@
     "streets": [
      "Ruth Zenia Road;CR 502",
      "Van Duzen Road;CR 511"
-    ]
+    ],
+    "nodeId": 93956503
    }
   },
   {
@@ -11520,7 +12236,8 @@
     "streets": [
      "Coon Creek Road",
      "Flame Tree Road"
-    ]
+    ],
+    "nodeId": 93957498
    }
   },
   {
@@ -11536,7 +12253,8 @@
     "streets": [
      "Madrone Avenue;CR HF12",
      "Morgan Hill Road;CR 319"
-    ]
+    ],
+    "nodeId": 93957537
    }
   },
   {
@@ -11552,7 +12270,8 @@
     "streets": [
      "Hoaglin Road;CR 521",
      "Zenia Lake Mountain Road;CR 503"
-    ]
+    ],
+    "nodeId": 93957925
    }
   },
   {
@@ -11568,7 +12287,8 @@
     "streets": [
      "Bluff Creek Road;CR 518",
      "Zenia Lake Mountain Road;CR 503"
-    ]
+    ],
+    "nodeId": 93958300
    }
   },
   {
@@ -11584,7 +12304,8 @@
     "streets": [
      "Quail Road",
      "Stewart Road"
-    ]
+    ],
+    "nodeId": 93958576
    }
   },
   {
@@ -11600,7 +12321,8 @@
     "streets": [
      "Bennett Road;CR 249",
      "Pioneer Lane;CR 248"
-    ]
+    ],
+    "nodeId": 93959226
    }
   },
   {
@@ -11616,7 +12338,8 @@
     "streets": [
      "Hobart Creek Road",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93959237
    }
   },
   {
@@ -11632,7 +12355,8 @@
     "streets": [
      "Lane B",
      "Ruth Zenia Road;CR 502"
-    ]
+    ],
+    "nodeId": 93956560
    }
   },
   {
@@ -11648,7 +12372,8 @@
     "streets": [
      "CA 299",
      "McConnaha Road"
-    ]
+    ],
+    "nodeId": 11069920853
    }
   },
   {
@@ -11664,7 +12389,8 @@
     "streets": [
      "Hardy Lane;CR HF32",
      "Laurel Drive;CR HF33"
-    ]
+    ],
+    "nodeId": 12008688857
    }
   },
   {
@@ -11680,7 +12406,8 @@
     "streets": [
      "Browns Camp",
      "Larry Avenue"
-    ]
+    ],
+    "nodeId": 93959403
    }
   },
   {
@@ -11696,7 +12423,8 @@
     "streets": [
      "Larry Avenue",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93862591
    }
   },
   {
@@ -11712,7 +12440,8 @@
     "streets": [
      "Chrome Mine Road;CR 352B",
      "Powerline Road;PUD 135"
-    ]
+    ],
+    "nodeId": 11972451764
    }
   },
   {
@@ -11729,7 +12458,8 @@
      "Chrome Mine Road",
      "Chrome Mine Road;CR 352B",
      "Shooting Star Court;PUD 107"
-    ]
+    ],
+    "nodeId": 93932011
    }
   },
   {
@@ -11745,7 +12475,8 @@
     "streets": [
      "East Stuart Road;FR 35N10",
      "Mule Creek Road;FR 35N23Y"
-    ]
+    ],
+    "nodeId": 93943953
    }
   },
   {
@@ -11761,7 +12492,8 @@
     "streets": [
      "Bear Rock Road;PUD 105",
      "Shooting Star Court;PUD 107"
-    ]
+    ],
+    "nodeId": 93932019
    }
   },
   {
@@ -11777,7 +12509,8 @@
     "streets": [
      "CA 3",
      "Victoria Lane"
-    ]
+    ],
+    "nodeId": 93930562
    }
   },
   {
@@ -11793,7 +12526,8 @@
     "streets": [
      "Main Street;CA 299",
      "Union Street"
-    ]
+    ],
+    "nodeId": 93960349
    }
   },
   {
@@ -11809,7 +12543,8 @@
     "streets": [
      "Garden Gulch Street",
      "Union Street"
-    ]
+    ],
+    "nodeId": 93960353
    }
   },
   {
@@ -11825,7 +12560,8 @@
     "streets": [
      "CA 299",
      "Clement Road"
-    ]
+    ],
+    "nodeId": 93960358
    }
   },
   {
@@ -11841,7 +12577,8 @@
     "streets": [
      "CA 3",
      "Hayfork Dump Road;CR 321"
-    ]
+    ],
+    "nodeId": 93930407
    }
   },
   {
@@ -11857,7 +12594,8 @@
     "streets": [
      "Duncan Creek Lane",
      "Kyes Road"
-    ]
+    ],
+    "nodeId": 93857126
    }
   },
   {
@@ -11873,7 +12611,8 @@
     "streets": [
      "Deerlick Springs Road;CR 335",
      "Eagle Lane"
-    ]
+    ],
+    "nodeId": 93960512
    }
   },
   {
@@ -11889,7 +12628,8 @@
     "streets": [
      "Birdie Court;CR 255",
      "Fairway Drive;CR 254"
-    ]
+    ],
+    "nodeId": 93898087
    }
   },
   {
@@ -11905,7 +12645,8 @@
     "streets": [
      "Morgan Hill Road;CR 319",
      "Ryan Lane"
-    ]
+    ],
+    "nodeId": 93960549
    }
   },
   {
@@ -11921,7 +12662,8 @@
     "streets": [
      "Forest Avenue;CR WVB25",
      "South Miner Street;CR WVB23"
-    ]
+    ],
+    "nodeId": 93919865
    }
   },
   {
@@ -11938,7 +12680,8 @@
      "Forest Avenue;CR WVB25",
      "Garden Gulch Street",
      "Main Street;CA 299"
-    ]
+    ],
+    "nodeId": 93960571
    }
   },
   {
@@ -11954,7 +12697,8 @@
     "streets": [
      "Genest Street;CR HF20",
      "Morgan Hill Road;CR 319"
-    ]
+    ],
+    "nodeId": 93960580
    }
   },
   {
@@ -11970,7 +12714,8 @@
     "streets": [
      "Hanger Lane;CR 346",
      "Riverview Road;CR 344"
-    ]
+    ],
+    "nodeId": 93960591
    }
   },
   {
@@ -11986,7 +12731,8 @@
     "streets": [
      "Cottonwood Road",
      "Humboldt Street;CR HF06"
-    ]
+    ],
+    "nodeId": 93960636
    }
   },
   {
@@ -12002,7 +12748,8 @@
     "streets": [
      "CA 299",
      "Slattery Gulch Road"
-    ]
+    ],
+    "nodeId": 93960738
    }
   },
   {
@@ -12018,7 +12765,8 @@
     "streets": [
      "Glen Road;CR 239",
      "Mark Road;CR 272"
-    ]
+    ],
+    "nodeId": 93960865
    }
   },
   {
@@ -12034,7 +12782,8 @@
     "streets": [
      "Glen Road;CR 239",
      "Golf Course Drive;CR 238"
-    ]
+    ],
+    "nodeId": 93960873
    }
   },
   {
@@ -12051,7 +12800,8 @@
      "Glen Road;CR 239",
      "Lance Gulch Road;CR 266",
      "Main Street;CA 3;CA 299"
-    ]
+    ],
+    "nodeId": 93960874
    }
   },
   {
@@ -12068,7 +12818,8 @@
      "Gates Road;CR 341",
      "Lower South Fork Road;CR 311",
      "Manzanita Ranch Road;CR 340"
-    ]
+    ],
+    "nodeId": 93960915
    }
   },
   {
@@ -12084,7 +12835,8 @@
     "streets": [
      "Autumn Way;PUD 102",
      "Chrome Mine Road"
-    ]
+    ],
+    "nodeId": 11591886866
    }
   },
   {
@@ -12100,7 +12852,8 @@
     "streets": [
      "Autumn Way;PUD 102",
      "Rainbow Court;PUD 138"
-    ]
+    ],
+    "nodeId": 93960954
    }
   },
   {
@@ -12116,7 +12869,8 @@
     "streets": [
      "CA 299",
      "Valdor Road;CR 419"
-    ]
+    ],
+    "nodeId": 93961117
    }
   },
   {
@@ -12132,7 +12886,8 @@
     "streets": [
      "Bartlett Lane;CR WVD77",
      "Halls Alley;CR WVD82"
-    ]
+    ],
+    "nodeId": 93933768
    }
   },
   {
@@ -12148,7 +12903,8 @@
     "streets": [
      "Levee Road",
      "Main Street;CA 3;CA 299"
-    ]
+    ],
+    "nodeId": 5703628903
    }
   },
   {
@@ -12165,7 +12921,8 @@
      "CA 299",
      "CA 3",
      "Main Street;CA 3;CA 299"
-    ]
+    ],
+    "nodeId": 93930992
    }
   },
   {
@@ -12181,7 +12938,8 @@
     "streets": [
      "CA 3",
      "Main Street;CR HF15"
-    ]
+    ],
+    "nodeId": 93930443
    }
   },
   {
@@ -12197,7 +12955,8 @@
     "streets": [
      "Durrin Lane;PUD 112",
      "Whispering Pines Road;PUD 150"
-    ]
+    ],
+    "nodeId": 93939574
    }
   },
   {
@@ -12213,7 +12972,8 @@
     "streets": [
      "Westridge Court;PUD 149",
      "Westridge Road;CR 350"
-    ]
+    ],
+    "nodeId": 11591969692
    }
   },
   {
@@ -12229,7 +12989,8 @@
     "streets": [
      "Madrone Street",
      "Steelhead Avenue"
-    ]
+    ],
+    "nodeId": 93962207
    }
   },
   {
@@ -12245,7 +13006,8 @@
     "streets": [
      "Madrone Street",
      "Salmon Street"
-    ]
+    ],
+    "nodeId": 93962210
    }
   },
   {
@@ -12261,7 +13023,8 @@
     "streets": [
      "CA 299",
      "Madrone Street"
-    ]
+    ],
+    "nodeId": 93966933
    }
   },
   {
@@ -12277,7 +13040,8 @@
     "streets": [
      "CA 299",
      "Quail Flat Road"
-    ]
+    ],
+    "nodeId": 2754344939
    }
   },
   {
@@ -12293,7 +13057,8 @@
     "streets": [
      "CA 299",
      "Salyer Loop Road;CR 444"
-    ]
+    ],
+    "nodeId": 93962314
    }
   },
   {
@@ -12309,7 +13074,8 @@
     "streets": [
      "B-Bar-K Road",
      "Maxwell Creek Road"
-    ]
+    ],
+    "nodeId": 93962351
    }
   },
   {
@@ -12325,7 +13091,8 @@
     "streets": [
      "Coffin Road",
      "Lewiston Road;CR 202"
-    ]
+    ],
+    "nodeId": 93963024
    }
   },
   {
@@ -12341,7 +13108,8 @@
     "streets": [
      "Pioneer Lane;CR 248",
      "Wintercreek Way"
-    ]
+    ],
+    "nodeId": 93963077
    }
   },
   {
@@ -12357,7 +13125,8 @@
     "streets": [
      "Indian Valley Road;NF 10; FR 2N10",
      "Tule Creek Road;CR 317"
-    ]
+    ],
+    "nodeId": 93833336
    }
   },
   {
@@ -12373,7 +13142,8 @@
     "streets": [
      "Landacre Road",
      "Tule Creek Road;CR 317"
-    ]
+    ],
+    "nodeId": 93963142
    }
   },
   {
@@ -12389,7 +13159,8 @@
     "streets": [
      "Mc Alexander Road",
      "Tule Creek Road;CR 317"
-    ]
+    ],
+    "nodeId": 93963095
    }
   },
   {
@@ -12405,7 +13176,8 @@
     "streets": [
      "Felch Street;CR HF44",
      "Troy Street;CR HF47"
-    ]
+    ],
+    "nodeId": 93786137
    }
   },
   {
@@ -12421,7 +13193,8 @@
     "streets": [
      "CA 3",
      "Mill Avenue"
-    ]
+    ],
+    "nodeId": 93930466
    }
   },
   {
@@ -12437,7 +13210,8 @@
     "streets": [
      "Fairway Drive;CR 254",
      "Mark Road;CR 272"
-    ]
+    ],
+    "nodeId": 93963172
    }
   },
   {
@@ -12453,7 +13227,8 @@
     "streets": [
      "Fairway Drive;CR 254",
      "Golf Course Drive;CR 238"
-    ]
+    ],
+    "nodeId": 3098139787
    }
   },
   {
@@ -12469,7 +13244,8 @@
     "streets": [
      "Main Street;CA 3;CA 299",
      "Mountain View Street"
-    ]
+    ],
+    "nodeId": 93961886
    }
   },
   {
@@ -12485,7 +13261,8 @@
     "streets": [
      "CA 299",
      "Jennings Road"
-    ]
+    ],
+    "nodeId": 93963224
    }
   },
   {
@@ -12501,7 +13278,8 @@
     "streets": [
      "One Wizards Way",
      "Tule Creek Road;CR 317"
-    ]
+    ],
+    "nodeId": 93963114
    }
   },
   {
@@ -12517,7 +13295,8 @@
     "streets": [
      "Corral Bottom Road;CR 470",
      "Price Creek Road;CR 428"
-    ]
+    ],
+    "nodeId": 93928455
    }
   },
   {
@@ -12533,7 +13312,8 @@
     "streets": [
      "Dunmovin Road",
      "Sky Ranch Road"
-    ]
+    ],
+    "nodeId": 93963587
    }
   },
   {
@@ -12549,7 +13329,8 @@
     "streets": [
      "Easter Avenue;CR WVC47",
      "Garden Gulch Street"
-    ]
+    ],
+    "nodeId": 93963591
    }
   },
   {
@@ -12565,7 +13346,8 @@
     "streets": [
      "Barbara Avenue;CR WVC48",
      "Easter Avenue;CR WVC47"
-    ]
+    ],
+    "nodeId": 93963592
    }
   },
   {
@@ -12581,7 +13363,8 @@
     "streets": [
      "Easter Avenue;CR WVC47",
      "Eltapome Heights;CR WVC49"
-    ]
+    ],
+    "nodeId": 93963595
    }
   },
   {
@@ -12597,7 +13380,8 @@
     "streets": [
      "CA 299",
      "Lime Point"
-    ]
+    ],
+    "nodeId": 2910239354
    }
   },
   {
@@ -12613,7 +13397,8 @@
     "streets": [
      "Ardison",
      "Councilman Road"
-    ]
+    ],
+    "nodeId": 93963703
    }
   },
   {
@@ -12629,7 +13414,8 @@
     "streets": [
      "Hennessey Road;CR 435",
      "Our Road"
-    ]
+    ],
+    "nodeId": 93963783
    }
   },
   {
@@ -12645,7 +13431,8 @@
     "streets": [
      "Carrier Gulch Road;CR 310",
      "Wildwood Road;CR 302"
-    ]
+    ],
+    "nodeId": 93955796
    }
   },
   {
@@ -12661,7 +13448,8 @@
     "streets": [
      "3rd Avenue",
      "Trinity Vista"
-    ]
+    ],
+    "nodeId": 93964035
    }
   },
   {
@@ -12677,7 +13465,8 @@
     "streets": [
      "3rd Avenue",
      "Sutter Street"
-    ]
+    ],
+    "nodeId": 93964038
    }
   },
   {
@@ -12693,7 +13482,8 @@
     "streets": [
      "3rd Avenue",
      "Donner Street"
-    ]
+    ],
+    "nodeId": 93789073
    }
   },
   {
@@ -12709,7 +13499,8 @@
     "streets": [
      "Indian Creek Road",
      "Wilson Mountain Road"
-    ]
+    ],
+    "nodeId": 93964115
    }
   },
   {
@@ -12725,7 +13516,8 @@
     "streets": [
      "CA 299",
      "Wilson Mountain Road"
-    ]
+    ],
+    "nodeId": 93964116
    }
   },
   {
@@ -12741,7 +13533,8 @@
     "streets": [
      "CA 299",
      "Prairie Creek Road;CR 429"
-    ]
+    ],
+    "nodeId": 93964151
    }
   },
   {
@@ -12757,7 +13550,8 @@
     "streets": [
      "King Road",
      "Rocky Road"
-    ]
+    ],
+    "nodeId": 93967469
    }
   },
   {
@@ -12773,7 +13567,8 @@
     "streets": [
      "Dubakella Road;FR 29N32",
      "Panther Ridge Road;FR 29N33"
-    ]
+    ],
+    "nodeId": 93967779
    }
   },
   {
@@ -12789,7 +13584,8 @@
     "streets": [
      "Helen Drive",
      "Meadow Lane"
-    ]
+    ],
+    "nodeId": 93967787
    }
   },
   {
@@ -12805,7 +13601,8 @@
     "streets": [
      "Riverview Place",
      "Viola Lane;CR 274"
-    ]
+    ],
+    "nodeId": 93968168
    }
   },
   {
@@ -12821,7 +13618,8 @@
     "streets": [
      "CA 299",
      "Friedrich Road;CR 432"
-    ]
+    ],
+    "nodeId": 93966624
    }
   },
   {
@@ -12837,7 +13635,8 @@
     "streets": [
      "Indian Creek Road;CR 336",
      "Joseph Gulch Road"
-    ]
+    ],
+    "nodeId": 93968509
    }
   },
   {
@@ -12853,7 +13652,8 @@
     "streets": [
      "Circle Drive;CR HF28",
      "Hyampom Road;CR 301"
-    ]
+    ],
+    "nodeId": 93841736
    }
   },
   {
@@ -12869,7 +13669,8 @@
     "streets": [
      "Circle Drive;CR HF28",
      "Highland Drive;CR HF29"
-    ]
+    ],
+    "nodeId": 93968619
    }
   },
   {
@@ -12885,7 +13686,8 @@
     "streets": [
      "Circle Drive;CR HF28",
      "Vista Lane;CR HF30"
-    ]
+    ],
+    "nodeId": 93968629
    }
   },
   {
@@ -12901,7 +13703,8 @@
     "streets": [
      "Cedar Gulch Road",
      "New Country Road"
-    ]
+    ],
+    "nodeId": 93968642
    }
   },
   {
@@ -12917,7 +13720,8 @@
     "streets": [
      "Bean Gulch Road",
      "New Country Road"
-    ]
+    ],
+    "nodeId": 93968664
    }
   },
   {
@@ -12933,7 +13737,8 @@
     "streets": [
      "Lewiston Road;CR 202",
      "Ponderosa Pines"
-    ]
+    ],
+    "nodeId": 93898986
    }
   },
   {
@@ -12949,7 +13754,8 @@
     "streets": [
      "CA 299",
      "Wendy Lane"
-    ]
+    ],
+    "nodeId": 93965773
    }
   },
   {
@@ -12965,7 +13771,8 @@
     "streets": [
      "1st Avenue",
      "Trinity Vista"
-    ]
+    ],
+    "nodeId": 93968764
    }
   },
   {
@@ -12981,7 +13788,8 @@
     "streets": [
      "East Fork Road",
      "East Side Road"
-    ]
+    ],
+    "nodeId": 93886447
    }
   },
   {
@@ -12997,7 +13805,8 @@
     "streets": [
      "Coffee Creek Road;CR 104",
      "Hazelwood Lane;CR 151"
-    ]
+    ],
+    "nodeId": 93968802
    }
   },
   {
@@ -13013,7 +13822,8 @@
     "streets": [
      "Coffee Creek Road;CR 104",
      "Maywood Lane"
-    ]
+    ],
+    "nodeId": 93968807
    }
   },
   {
@@ -13029,7 +13839,8 @@
     "streets": [
      "CA 299",
      "Power House Road;CR 420"
-    ]
+    ],
+    "nodeId": 93965966
    }
   },
   {
@@ -13045,7 +13856,8 @@
     "streets": [
      "Power House Road;CR 420",
      "Upper Road;CR 467"
-    ]
+    ],
+    "nodeId": 93968863
    }
   },
   {
@@ -13061,7 +13873,8 @@
     "streets": [
      "Power House Road;CR 420",
      "Sundowner Lane"
-    ]
+    ],
+    "nodeId": 93968854
    }
   },
   {
@@ -13077,7 +13890,8 @@
     "streets": [
      "1st Avenue",
      "Sutter Street"
-    ]
+    ],
+    "nodeId": 93968915
    }
   },
   {
@@ -13093,7 +13907,8 @@
     "streets": [
      "Highland Drive;CR HF29",
      "Vista Lane;CR HF30"
-    ]
+    ],
+    "nodeId": 93968977
    }
   },
   {
@@ -13110,7 +13925,8 @@
      "Highland Drive;CR HF29",
      "North Vista Lane",
      "Vista Lane;CR HF30"
-    ]
+    ],
+    "nodeId": 93968978
    }
   },
   {
@@ -13126,7 +13942,8 @@
     "streets": [
      "Liberty Lane",
      "Sunny Oak Drive"
-    ]
+    ],
+    "nodeId": 93969090
    }
   },
   {
@@ -13142,7 +13959,8 @@
     "streets": [
      "Indian Creek Road;CR 336",
      "Mule Gulch Road"
-    ]
+    ],
+    "nodeId": 93969500
    }
   },
   {
@@ -13158,7 +13976,8 @@
     "streets": [
      "Olsen Creek Road",
      "Underwood Mountain Road;CR 327"
-    ]
+    ],
+    "nodeId": 93920966
    }
   },
   {
@@ -13174,7 +13993,8 @@
     "streets": [
      "CA 3",
      "East Road"
-    ]
+    ],
+    "nodeId": 93930486
    }
   },
   {
@@ -13190,7 +14010,8 @@
     "streets": [
      "Drury Lane",
      "Main Street;CA 3;CA 299"
-    ]
+    ],
+    "nodeId": 93905344
    }
   },
   {
@@ -13206,7 +14027,8 @@
     "streets": [
      "Madrone Access Road;FR 110",
      "Powerline Road;PUD 135"
-    ]
+    ],
+    "nodeId": 93806080
    }
   },
   {
@@ -13222,7 +14044,8 @@
     "streets": [
      "Chrome Mine Road",
      "Madrone Access Road;FR 110"
-    ]
+    ],
+    "nodeId": 93932031
    }
   },
   {
@@ -13238,7 +14061,8 @@
     "streets": [
      "CA 299",
      "Poker Bar Road"
-    ]
+    ],
+    "nodeId": 93967076
    }
   },
   {
@@ -13254,7 +14078,8 @@
     "streets": [
      "CA 299",
      "Poker Bar Road;CR 176"
-    ]
+    ],
+    "nodeId": 93967084
    }
   },
   {
@@ -13270,7 +14095,8 @@
     "streets": [
      "Old Highway;CR 231",
      "Poker Bar Road;CR 176"
-    ]
+    ],
+    "nodeId": 93970122
    }
   },
   {
@@ -13286,7 +14112,8 @@
     "streets": [
      "Bridge Road",
      "Poker Bar Road;CR 176"
-    ]
+    ],
+    "nodeId": 10821173871
    }
   },
   {
@@ -13302,7 +14129,8 @@
     "streets": [
      "Poker Bar Road",
      "Poker Bar Road;CR 176"
-    ]
+    ],
+    "nodeId": 11234576890
    }
   },
   {
@@ -13318,7 +14146,8 @@
     "streets": [
      "County Line Road;NF 2; FR 31N02",
      "Deerlick Springs Road;CR 335"
-    ]
+    ],
+    "nodeId": 93970728
    }
   },
   {
@@ -13334,7 +14163,8 @@
     "streets": [
      "Forest Route 34N30E",
      "United States Forest Service 34N94"
-    ]
+    ],
+    "nodeId": 93970921
    }
   },
   {
@@ -13350,7 +14180,8 @@
     "streets": [
      "Court Street;CR WVC44",
      "Main Street;CA 299"
-    ]
+    ],
+    "nodeId": 93961902
    }
   },
   {
@@ -13366,7 +14197,8 @@
     "streets": [
      "Center Street;CR WVD74",
      "Court Street;CR WVC44"
-    ]
+    ],
+    "nodeId": 93971539
    }
   },
   {
@@ -13382,7 +14214,8 @@
     "streets": [
      "Coffee Creek Road;CR 104",
      "South Derrick Flat Road;CR 136A"
-    ]
+    ],
+    "nodeId": 93819026
    }
   },
   {
@@ -13398,7 +14231,8 @@
     "streets": [
      "Lockhart Ranch Road",
      "Rebel Road"
-    ]
+    ],
+    "nodeId": 93972374
    }
   },
   {
@@ -13414,7 +14248,8 @@
     "streets": [
      "Creek Crossing Road",
      "South Meadow Lane"
-    ]
+    ],
+    "nodeId": 93972432
    }
   },
   {
@@ -13430,7 +14265,8 @@
     "streets": [
      "Cedar Gulch Road",
      "Hyampom Road;CR 301"
-    ]
+    ],
+    "nodeId": 93972605
    }
   },
   {
@@ -13446,7 +14282,8 @@
     "streets": [
      "Cedar Gulch Road",
      "Horse Tail Hill Road"
-    ]
+    ],
+    "nodeId": 93972608
    }
   },
   {
@@ -13462,7 +14299,8 @@
     "streets": [
      "Creekside Road",
      "Hyampom Road;CR 301"
-    ]
+    ],
+    "nodeId": 93862478
    }
   },
   {
@@ -13478,7 +14316,8 @@
     "streets": [
      "Coffee Creek Road;CR 104",
      "Prospector Court;CR 125"
-    ]
+    ],
+    "nodeId": 93871308
    }
   },
   {
@@ -13495,7 +14334,8 @@
      "CA 3",
      "Riverview Road;CR 344",
      "Tule Creek Road;CR 317"
-    ]
+    ],
+    "nodeId": 93930416
    }
   },
   {
@@ -13511,7 +14351,8 @@
     "streets": [
      "CA 3",
      "Raven Lane"
-    ]
+    ],
+    "nodeId": 93930490
    }
   },
   {
@@ -13527,7 +14368,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "South Fork Mad River Road"
-    ]
+    ],
+    "nodeId": 93973537
    }
   },
   {
@@ -13544,7 +14386,8 @@
      "Bowerman Ridge Road;FR 36N35",
      "Hobel Dump Road;CR 148",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93924993
    }
   },
   {
@@ -13560,7 +14403,8 @@
     "streets": [
      "Morgan Hill Road;CR 319",
      "Sebring Road;CR HF14"
-    ]
+    ],
+    "nodeId": 93973648
    }
   },
   {
@@ -13576,7 +14420,8 @@
     "streets": [
      "Murray Lane",
      "North Vista Lane"
-    ]
+    ],
+    "nodeId": 93973665
    }
   },
   {
@@ -13592,7 +14437,8 @@
     "streets": [
      "Barbara Avenue;CR WVC48",
      "Garden Gulch Street"
-    ]
+    ],
+    "nodeId": 93973698
    }
   },
   {
@@ -13608,7 +14454,8 @@
     "streets": [
      "Berry Summit-Mad River Road;NF 1; FR 6N01",
      "CA 36"
-    ]
+    ],
+    "nodeId": 93973855
    }
   },
   {
@@ -13624,7 +14471,8 @@
     "streets": [
      "CA 36",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93924890
    }
   },
   {
@@ -13640,7 +14488,8 @@
     "streets": [
      "CA 36",
      "Van Duzen Road;CR 511"
-    ]
+    ],
+    "nodeId": 93884610
    }
   },
   {
@@ -13656,7 +14505,8 @@
     "streets": [
      "CA 36",
      "Sanicula Road"
-    ]
+    ],
+    "nodeId": 93973784
    }
   },
   {
@@ -13672,7 +14522,8 @@
     "streets": [
      "CA 36",
      "FR 29N28"
-    ]
+    ],
+    "nodeId": 93842842
    }
   },
   {
@@ -13689,7 +14540,8 @@
      "Bramlot Road;CA 36",
      "CA 3",
      "CA 36"
-    ]
+    ],
+    "nodeId": 93869978
    }
   },
   {
@@ -13706,7 +14558,8 @@
      "Bramlet Road;NF 29; FR 30N29",
      "Bramlot Road;CA 36",
      "CA 36"
-    ]
+    ],
+    "nodeId": 93906331
    }
   },
   {
@@ -13722,7 +14575,8 @@
     "streets": [
      "El Rocko Road",
      "Quail Road"
-    ]
+    ],
+    "nodeId": 93974929
    }
   },
   {
@@ -13738,7 +14592,8 @@
     "streets": [
      "Berry Summit-Mad River Road;NF 1; FR 6N01",
      "Lamb Road"
-    ]
+    ],
+    "nodeId": 93908687
    }
   },
   {
@@ -13754,7 +14609,8 @@
     "streets": [
      "East Hettenshaw Road;CR 515E",
      "West Hettenshaw Road;CR 515W"
-    ]
+    ],
+    "nodeId": 93797319
    }
   },
   {
@@ -13770,7 +14626,8 @@
     "streets": [
      "Ruth Zenia Road;CR 502",
      "West Hettenshaw Road;CR 515W"
-    ]
+    ],
+    "nodeId": 93956544
    }
   },
   {
@@ -13786,7 +14643,8 @@
     "streets": [
      "Branham Way",
      "Ruth Zenia Road;CR 502"
-    ]
+    ],
+    "nodeId": 93956946
    }
   },
   {
@@ -13803,7 +14661,8 @@
      "Coffee Creek Road;CR 104",
      "Pine Lane;CR 159",
      "State Route 3;CA 3"
-    ]
+    ],
+    "nodeId": 93931192
    }
   },
   {
@@ -13819,7 +14678,8 @@
     "streets": [
      "Blue Slide Creek Road;FR 2S52",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93975215
    }
   },
   {
@@ -13835,7 +14695,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Triple L Lane"
-    ]
+    ],
+    "nodeId": 93975238
    }
   },
   {
@@ -13851,7 +14712,8 @@
     "streets": [
      "Horse Ridge Road;FR 3S12",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93793338
    }
   },
   {
@@ -13867,7 +14729,8 @@
     "streets": [
      "Littlefield Lane",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93975376
    }
   },
   {
@@ -13883,7 +14746,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Old Cedar Gap Road"
-    ]
+    ],
+    "nodeId": 5493797753
    }
   },
   {
@@ -13899,7 +14763,8 @@
     "streets": [
      "CA 299",
      "Noble Way"
-    ]
+    ],
+    "nodeId": 93966203
    }
   },
   {
@@ -13915,7 +14780,8 @@
     "streets": [
      "East Branch Road",
      "East Weaver Creek Road;CR 228"
-    ]
+    ],
+    "nodeId": 93847598
    }
   },
   {
@@ -13931,7 +14797,8 @@
     "streets": [
      "CA 299",
      "Fawn Lodge Road"
-    ]
+    ],
+    "nodeId": 93967153
    }
   },
   {
@@ -13947,7 +14814,8 @@
     "streets": [
      "CA 299",
      "Shingle Shanty"
-    ]
+    ],
+    "nodeId": 93967284
    }
   },
   {
@@ -13963,7 +14831,8 @@
     "streets": [
      "Horse Tail Hill Road",
      "Horse Tail Road"
-    ]
+    ],
+    "nodeId": 93945406
    }
   },
   {
@@ -13979,7 +14848,8 @@
     "streets": [
      "Browns Mountain Road;CR 222",
      "Steelhead Circle;CR 177"
-    ]
+    ],
+    "nodeId": 93961593
    }
   },
   {
@@ -13995,7 +14865,8 @@
     "streets": [
      "Browns Mountain Road;CR 222",
      "Salmon Drive;CR 178"
-    ]
+    ],
+    "nodeId": 9786693275
    }
   },
   {
@@ -14011,7 +14882,8 @@
     "streets": [
      "Browns Mountain Road;CR 222",
      "Lewiston Road;CR 202"
-    ]
+    ],
+    "nodeId": 93972376
    }
   },
   {
@@ -14027,7 +14899,8 @@
     "streets": [
      "Alder Glen Road",
      "Tucker Hill Road"
-    ]
+    ],
+    "nodeId": 93900506
    }
   },
   {
@@ -14043,7 +14916,8 @@
     "streets": [
      "Lewiston Road;CR 202",
      "Old Highway;CR 231"
-    ]
+    ],
+    "nodeId": 93977953
    }
   },
   {
@@ -14059,7 +14933,8 @@
     "streets": [
      "Norwegian Ranch Road",
      "Norwegian Ranch Road;CR 161"
-    ]
+    ],
+    "nodeId": 93977984
    }
   },
   {
@@ -14075,7 +14950,8 @@
     "streets": [
      "Norwegian Ranch Road",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93924944
    }
   },
   {
@@ -14091,7 +14967,8 @@
     "streets": [
      "Big Creek Road;CR 324",
      "CA 3"
-    ]
+    ],
+    "nodeId": 93930476
    }
   },
   {
@@ -14107,7 +14984,8 @@
     "streets": [
      "Big Creek Road;CR 324",
      "Farmer Ranch Road;CR 325"
-    ]
+    ],
+    "nodeId": 93978644
    }
   },
   {
@@ -14123,7 +15001,8 @@
     "streets": [
      "Big Creek Road;CR 324",
      "Miners Creek Road;FR 4N08"
-    ]
+    ],
+    "nodeId": 93978835
    }
   },
   {
@@ -14139,7 +15018,8 @@
     "streets": [
      "Bramlot Road;CA 36",
      "Post Mountain Road;CR 354"
-    ]
+    ],
+    "nodeId": 93979118
    }
   },
   {
@@ -14155,7 +15035,8 @@
     "streets": [
      "Gladys Street;CR HF38",
      "Michel Street"
-    ]
+    ],
+    "nodeId": 93979212
    }
   },
   {
@@ -14171,7 +15052,8 @@
     "streets": [
      "Carrville Loop;CR 152",
      "Estabrook Lane"
-    ]
+    ],
+    "nodeId": 93895124
    }
   },
   {
@@ -14187,7 +15069,8 @@
     "streets": [
      "Doctor Lane",
      "Drinkwater Divide Road"
-    ]
+    ],
+    "nodeId": 93980047
    }
   },
   {
@@ -14203,7 +15086,8 @@
     "streets": [
      "Drinkwater Divide Road",
      "Hyampom Road;CR 301"
-    ]
+    ],
+    "nodeId": 93980056
    }
   },
   {
@@ -14219,7 +15103,8 @@
     "streets": [
      "Dennis Boulevard",
      "Hennessey Road;CR 435"
-    ]
+    ],
+    "nodeId": 93980568
    }
   },
   {
@@ -14235,7 +15120,8 @@
     "streets": [
      "Deerlick Springs Road;CR 335",
      "Reeseville Road"
-    ]
+    ],
+    "nodeId": 93980584
    }
   },
   {
@@ -14251,7 +15137,8 @@
     "streets": [
      "East Garrett Road",
      "Garrett Road;CR 313"
-    ]
+    ],
+    "nodeId": 11593599615
    }
   },
   {
@@ -14267,7 +15154,8 @@
     "streets": [
      "Fir Meadow Court;PUD 116",
      "Trinity Pines Drive;CR 351"
-    ]
+    ],
+    "nodeId": 93933996
    }
   },
   {
@@ -14283,7 +15171,8 @@
     "streets": [
      "Dogwood Court;PUD 111",
      "Trinity Pines Drive;CR 351"
-    ]
+    ],
+    "nodeId": 93980755
    }
   },
   {
@@ -14299,7 +15188,8 @@
     "streets": [
      "Post Mountain Road;CR 354",
      "Trinity Pines Drive;CR 351"
-    ]
+    ],
+    "nodeId": 93980769
    }
   },
   {
@@ -14315,7 +15205,8 @@
     "streets": [
      "Manzanita Drive;CR WVC53",
      "Reservoir Road;CR WVC60"
-    ]
+    ],
+    "nodeId": 93980794
    }
   },
   {
@@ -14331,7 +15222,8 @@
     "streets": [
      "North Suzy Q Road",
      "Suzy Q Road"
-    ]
+    ],
+    "nodeId": 93981046
    }
   },
   {
@@ -14347,7 +15239,8 @@
     "streets": [
      "Ballyview Street",
      "Mill Street;CR WVA03"
-    ]
+    ],
+    "nodeId": 93912043
    }
   },
   {
@@ -14363,7 +15256,8 @@
     "streets": [
      "Fiddleneck Lane",
      "Sanicula Road"
-    ]
+    ],
+    "nodeId": 93981110
    }
   },
   {
@@ -14379,7 +15273,8 @@
     "streets": [
      "East Hettenshaw Road;CR 515E",
      "Ruth Zenia Road;CR 502"
-    ]
+    ],
+    "nodeId": 93956574
    }
   },
   {
@@ -14395,7 +15290,8 @@
     "streets": [
      "Billys Peak Drive;CR 153",
      "Coffee Creek Road;CR 104"
-    ]
+    ],
+    "nodeId": 93981178
    }
   },
   {
@@ -14411,7 +15307,8 @@
     "streets": [
      "Hyampom Road;CR 301",
      "McKay Road"
-    ]
+    ],
+    "nodeId": 93862494
    }
   },
   {
@@ -14427,7 +15324,8 @@
     "streets": [
      "Mountain View Drive",
      "Sunset Drive"
-    ]
+    ],
+    "nodeId": 11234153880
    }
   },
   {
@@ -14443,7 +15341,8 @@
     "streets": [
      "Short Street;CR WVD72",
      "Weaver Street;CR WVD70"
-    ]
+    ],
+    "nodeId": 93981358
    }
   },
   {
@@ -14459,7 +15358,8 @@
     "streets": [
      "1st Avenue",
      "Donner Street"
-    ]
+    ],
+    "nodeId": 93981448
    }
   },
   {
@@ -14475,7 +15375,8 @@
     "streets": [
      "Horseshoe Lane;CR 476",
      "Pony Express Way;CR 474"
-    ]
+    ],
+    "nodeId": 93981506
    }
   },
   {
@@ -14491,7 +15392,8 @@
     "streets": [
      "Josh Lane",
      "Morgan Hill Road;CR 319"
-    ]
+    ],
+    "nodeId": 93981597
    }
   },
   {
@@ -14507,7 +15409,8 @@
     "streets": [
      "Donald Street;CR HF39",
      "Michel Street"
-    ]
+    ],
+    "nodeId": 93981675
    }
   },
   {
@@ -14523,7 +15426,8 @@
     "streets": [
      "CA 299",
      "Mill Camp Road"
-    ]
+    ],
+    "nodeId": 93966681
    }
   },
   {
@@ -14539,7 +15443,8 @@
     "streets": [
      "Spinner Willow Road",
      "Triple L Lane"
-    ]
+    ],
+    "nodeId": 93981755
    }
   },
   {
@@ -14555,7 +15460,8 @@
     "streets": [
      "Main Street;CA 3;CA 299",
      "Weaver Street;CR WVD70"
-    ]
+    ],
+    "nodeId": 93961892
    }
   },
   {
@@ -14571,7 +15477,8 @@
     "streets": [
      "Garrett Road;CR 313",
      "Red Bark Road"
-    ]
+    ],
+    "nodeId": 93982541
    }
   },
   {
@@ -14587,7 +15494,8 @@
     "streets": [
      "CA 299",
      "Hennessey Road;CR 435"
-    ]
+    ],
+    "nodeId": 93966711
    }
   },
   {
@@ -14603,7 +15511,8 @@
     "streets": [
      "Hennessey Road;CR 435",
      "South Fork Road;CR 447"
-    ]
+    ],
+    "nodeId": 93982910
    }
   },
   {
@@ -14619,7 +15528,8 @@
     "streets": [
      "Suzy Q Road",
      "West Suzy Q Road"
-    ]
+    ],
+    "nodeId": 93983413
    }
   },
   {
@@ -14635,7 +15545,8 @@
     "streets": [
      "CA 299",
      "Suzy Q Road"
-    ]
+    ],
+    "nodeId": 93966865
    }
   },
   {
@@ -14651,7 +15562,8 @@
     "streets": [
      "Barker Valley Road",
      "Sunshine Meadow Way"
-    ]
+    ],
+    "nodeId": 93789260
    }
   },
   {
@@ -14667,7 +15579,8 @@
     "streets": [
      "Barker Valley Road",
      "CA 3"
-    ]
+    ],
+    "nodeId": 93930495
    }
   },
   {
@@ -14683,7 +15596,8 @@
     "streets": [
      "Lars Lane",
      "Van Duzen Road;CR 511"
-    ]
+    ],
+    "nodeId": 93983620
    }
   },
   {
@@ -14699,7 +15613,8 @@
     "streets": [
      "Cedar Lane;CR WVD76",
      "North Street;CR WVD75"
-    ]
+    ],
+    "nodeId": 93911562
    }
   },
   {
@@ -14715,7 +15630,8 @@
     "streets": [
      "Leroy Street;CR HF34",
      "Michel Street"
-    ]
+    ],
+    "nodeId": 93984026
    }
   },
   {
@@ -14731,7 +15647,8 @@
     "streets": [
      "Leroy Street;CR HF34",
      "Shasta Street;CR HF11"
-    ]
+    ],
+    "nodeId": 93984027
    }
   },
   {
@@ -14747,7 +15664,8 @@
     "streets": [
      "County Road 360",
      "Hyampom Road;CR 301"
-    ]
+    ],
+    "nodeId": 93982189
    }
   },
   {
@@ -14763,7 +15681,8 @@
     "streets": [
      "Upper Road",
      "Upper Road;CR 467"
-    ]
+    ],
+    "nodeId": 12010589581
    }
   },
   {
@@ -14779,7 +15698,8 @@
     "streets": [
      "Lewiston Road;CR 202",
      "Rebel Road"
-    ]
+    ],
+    "nodeId": 93981330
    }
   },
   {
@@ -14795,7 +15715,8 @@
     "streets": [
      "Lewiston Road;CR 202",
      "Wilson Road"
-    ]
+    ],
+    "nodeId": 93981287
    }
   },
   {
@@ -14811,7 +15732,8 @@
     "streets": [
      "Lewiston Road;CR 202",
      "Viola Lane;CR 274"
-    ]
+    ],
+    "nodeId": 11234403534
    }
   },
   {
@@ -14827,7 +15749,8 @@
     "streets": [
      "Lewiston Road;CR 202",
      "Trinity Dam Boulevard;CR 105"
-    ]
+    ],
+    "nodeId": 4413466564
    }
   },
   {
@@ -14843,7 +15766,8 @@
     "streets": [
      "CA 299",
      "Lewiston Road;CR 202"
-    ]
+    ],
+    "nodeId": 93967110
    }
   },
   {
@@ -14859,7 +15783,8 @@
     "streets": [
      "CA 299",
      "Poker Lane"
-    ]
+    ],
+    "nodeId": 93966267
    }
   },
   {
@@ -14875,7 +15800,8 @@
     "streets": [
      "North Roundy Road;CR 229",
      "Roundy Road;CR 232"
-    ]
+    ],
+    "nodeId": 93921970
    }
   },
   {
@@ -14891,7 +15817,8 @@
     "streets": [
      "Berry Summit-Mad River Road;NF 1; FR 6N01",
      "South Fork Mountain Road;NF 4; FR 4N12"
-    ]
+    ],
+    "nodeId": 3223224491
    }
   },
   {
@@ -14907,7 +15834,8 @@
     "streets": [
      "Clinic Avenue;CR HF02",
      "Coral Avenue;CR HF16"
-    ]
+    ],
+    "nodeId": 93984736
    }
   },
   {
@@ -14923,7 +15851,8 @@
     "streets": [
      "Clover Gulch Road",
      "Winters Way"
-    ]
+    ],
+    "nodeId": 93949227
    }
   },
   {
@@ -14939,7 +15868,8 @@
     "streets": [
      "Nelson Road",
      "Nelson Road;CR 342"
-    ]
+    ],
+    "nodeId": 93984808
    }
   },
   {
@@ -14955,7 +15885,8 @@
     "streets": [
      "Forest Avenue",
      "Forest Avenue;CR HF10"
-    ]
+    ],
+    "nodeId": 11592548613
    }
   },
   {
@@ -14971,7 +15902,8 @@
     "streets": [
      "Forest Avenue;CR HF10",
      "Shasta Street;CR HF11"
-    ]
+    ],
+    "nodeId": 93984835
    }
   },
   {
@@ -14987,7 +15919,8 @@
     "streets": [
      "CA 3",
      "Forest Avenue;CR HF10"
-    ]
+    ],
+    "nodeId": 93930461
    }
   },
   {
@@ -15003,7 +15936,8 @@
     "streets": [
      "Lake Road",
      "River Acres"
-    ]
+    ],
+    "nodeId": 93909019
    }
   },
   {
@@ -15019,7 +15953,8 @@
     "streets": [
      "Bremer Street",
      "Lorenz Road"
-    ]
+    ],
+    "nodeId": 93959710
    }
   },
   {
@@ -15035,7 +15970,8 @@
     "streets": [
      "Rush Creek Drive;CR 275",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 11228391124
    }
   },
   {
@@ -15051,7 +15987,8 @@
     "streets": [
      "CA 299",
      "Vitzthum Gulch Road"
-    ]
+    ],
+    "nodeId": 93967058
    }
   },
   {
@@ -15067,7 +16004,8 @@
     "streets": [
      "Ammon Road",
      "CA 299"
-    ]
+    ],
+    "nodeId": 93866360
    }
   },
   {
@@ -15083,7 +16021,8 @@
     "streets": [
      "Rodeo Drive",
      "Yokuts Way"
-    ]
+    ],
+    "nodeId": 93953929
    }
   },
   {
@@ -15099,7 +16038,8 @@
     "streets": [
      "Salmon Drive;CR 178",
      "Steelhead Circle;CR 177"
-    ]
+    ],
+    "nodeId": 9786693281
    }
   },
   {
@@ -15115,7 +16055,8 @@
     "streets": [
      "Clover Gulch Road",
      "Ruth Zenia Road;CR 502"
-    ]
+    ],
+    "nodeId": 93956968
    }
   },
   {
@@ -15131,7 +16072,8 @@
     "streets": [
      "Browns Mountain Road;CR 222",
      "Little Browns Creek Road;CR 223"
-    ]
+    ],
+    "nodeId": 7231872464
    }
   },
   {
@@ -15147,7 +16089,8 @@
     "streets": [
      "Little Browns Creek Road;CR 223",
      "Riffle Box Creek Road"
-    ]
+    ],
+    "nodeId": 7231872665
    }
   },
   {
@@ -15163,7 +16106,8 @@
     "streets": [
      "Little Browns Creek Road",
      "Little Browns Creek Road;CR 223"
-    ]
+    ],
+    "nodeId": 7231878593
    }
   },
   {
@@ -15179,7 +16123,8 @@
     "streets": [
      "Forest Route 34N30E",
      "United States Forest Service 34N30E"
-    ]
+    ],
+    "nodeId": 93986746
    }
   },
   {
@@ -15195,7 +16140,8 @@
     "streets": [
      "CA 3",
      "Graves Creek Road;FR 38N80"
-    ]
+    ],
+    "nodeId": 12040629212
    }
   },
   {
@@ -15211,7 +16157,8 @@
     "streets": [
      "Humboldt Street;CR HF05",
      "Oak Avenue;CR HF27"
-    ]
+    ],
+    "nodeId": 93969835
    }
   },
   {
@@ -15227,7 +16174,8 @@
     "streets": [
      "East Weaver Creek Road;CR 228",
      "Hansen Mine Lane"
-    ]
+    ],
+    "nodeId": 93987427
    }
   },
   {
@@ -15243,7 +16191,8 @@
     "streets": [
      "Beaudreax Road;CR 241",
      "Wilson Road;CR 242"
-    ]
+    ],
+    "nodeId": 93987816
    }
   },
   {
@@ -15260,7 +16209,8 @@
      "Lewiston Turnpike Road",
      "Lewiston Turnpike Road;CR 212",
      "Trinity Dam Boulevard;CR 105"
-    ]
+    ],
+    "nodeId": 93938492
    }
   },
   {
@@ -15276,7 +16226,8 @@
     "streets": [
      "Lewiston Turnpike Road",
      "Lewiston Turnpike Road;CR 212"
-    ]
+    ],
+    "nodeId": 93804814
    }
   },
   {
@@ -15292,7 +16243,8 @@
     "streets": [
      "Deadwood Road;CR 211",
      "Lewiston Turnpike Road;CR 212"
-    ]
+    ],
+    "nodeId": 93949800
    }
   },
   {
@@ -15308,7 +16260,8 @@
     "streets": [
      "525",
      "Ruth Dump Road"
-    ]
+    ],
+    "nodeId": 93988183
    }
   },
   {
@@ -15324,7 +16277,8 @@
     "streets": [
      "CA 299",
      "Felter Gulch Road"
-    ]
+    ],
+    "nodeId": 93965914
    }
   },
   {
@@ -15340,7 +16294,8 @@
     "streets": [
      "Coffee Creek Road;CR 104",
      "Ridgewood Road"
-    ]
+    ],
+    "nodeId": 93989023
    }
   },
   {
@@ -15357,7 +16312,8 @@
      "Ponderosa Court;PUD 132",
      "Ponderosa Road;PUD 133",
      "Ponderosa Road;PUD 134"
-    ]
+    ],
+    "nodeId": 93990523
    }
   },
   {
@@ -15373,7 +16329,8 @@
     "streets": [
      "Buck Gulch Road;FR 2N03",
      "Butter Creek Road;FR 3N08"
-    ]
+    ],
+    "nodeId": 93990078
    }
   },
   {
@@ -15389,7 +16346,8 @@
     "streets": [
      "Coffee Creek Road;CR 104",
      "Middleton Road;CR 138"
-    ]
+    ],
+    "nodeId": 12011124160
    }
   },
   {
@@ -15405,7 +16363,8 @@
     "streets": [
      "Alpine View Road;FR 35N14Y",
      "Guy Covington Drive;CR 160"
-    ]
+    ],
+    "nodeId": 93824526
    }
   },
   {
@@ -15421,7 +16380,8 @@
     "streets": [
      "Greenhorn Drive;CR 143",
      "Guy Covington Drive;CR 160"
-    ]
+    ],
+    "nodeId": 93992302
    }
   },
   {
@@ -15437,7 +16397,8 @@
     "streets": [
      "Guy Covington Drive;CR 160",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93884435
    }
   },
   {
@@ -15453,7 +16414,8 @@
     "streets": [
      "Indian Valley Road;NF 10; FR 2N10",
      "Saint John Road;CR 316"
-    ]
+    ],
+    "nodeId": 93939940
    }
   },
   {
@@ -15469,7 +16431,8 @@
     "streets": [
      "Felch Street;CR HF44",
      "Talco Way;CR HF45"
-    ]
+    ],
+    "nodeId": 93945386
    }
   },
   {
@@ -15485,7 +16448,8 @@
     "streets": [
      "Mountain View Drive",
      "Trinity Dam Boulevard;CR 105"
-    ]
+    ],
+    "nodeId": 93938478
    }
   },
   {
@@ -15501,7 +16465,8 @@
     "streets": [
      "East Van Duzen Road North;CR 512",
      "Van Duzen Road;CR 511"
-    ]
+    ],
+    "nodeId": 93957458
    }
   },
   {
@@ -15517,7 +16482,8 @@
     "streets": [
      "Chrome Mine Court;PUD 110",
      "Chrome Mine Road;CR 352A"
-    ]
+    ],
+    "nodeId": 11591869549
    }
   },
   {
@@ -15533,7 +16499,8 @@
     "streets": [
      "South Fork Road;CR 447",
      "South Fork Road;FR 5N03"
-    ]
+    ],
+    "nodeId": 11216910623
    }
   },
   {
@@ -15549,7 +16516,8 @@
     "streets": [
      "CA 299",
      "South Fork Road;CR 447"
-    ]
+    ],
+    "nodeId": 93966965
    }
   },
   {
@@ -15565,7 +16533,8 @@
     "streets": [
      "Ruth Zenia Road;CR 502",
      "West Bank Road;FR 1S06"
-    ]
+    ],
+    "nodeId": 93956817
    }
   },
   {
@@ -15581,7 +16550,8 @@
     "streets": [
      "Wallen Ranch Road;CR 442",
      "Waterman Road;NF 4; FR 7N02"
-    ]
+    ],
+    "nodeId": 93844832
    }
   },
   {
@@ -15597,7 +16567,8 @@
     "streets": [
      "Lakeview Terrace",
      "Trinity Dam Boulevard;CR 105"
-    ]
+    ],
+    "nodeId": 93938766
    }
   },
   {
@@ -15613,7 +16584,8 @@
     "streets": [
      "Main Street;CA 299",
      "Memorial Drive;CR WVC40"
-    ]
+    ],
+    "nodeId": 11225994142
    }
   },
   {
@@ -15629,7 +16601,8 @@
     "streets": [
      "CA 299",
      "Main Street;CA 299"
-    ]
+    ],
+    "nodeId": 291161188
    }
   },
   {
@@ -15645,7 +16618,8 @@
     "streets": [
      "Angie Lane",
      "CA 299"
-    ]
+    ],
+    "nodeId": 11218856402
    }
   },
   {
@@ -15661,7 +16635,8 @@
     "streets": [
      "Big Mountain Road;NF 4; FR 5N04",
      "CA 299"
-    ]
+    ],
+    "nodeId": 93926226
    }
   },
   {
@@ -15677,7 +16652,8 @@
     "streets": [
      "CA 299",
      "Trinity Highway;CA 299"
-    ]
+    ],
+    "nodeId": 93966968
    }
   },
   {
@@ -15693,7 +16669,8 @@
     "streets": [
      "CA 299",
      "Rocker Box Road;CR 425"
-    ]
+    ],
+    "nodeId": 11227920385
    }
   },
   {
@@ -15709,7 +16686,8 @@
     "streets": [
      "CA 299",
      "Slattery Pond Road"
-    ]
+    ],
+    "nodeId": 93965910
    }
   },
   {
@@ -15725,7 +16703,8 @@
     "streets": [
      "CA 299",
      "Dutch Creek Road;CR 413"
-    ]
+    ],
+    "nodeId": 93944918
    }
   },
   {
@@ -15741,7 +16720,8 @@
     "streets": [
      "CA 299",
      "Veterans Hall Road"
-    ]
+    ],
+    "nodeId": 11069920832
    }
   },
   {
@@ -15757,7 +16737,8 @@
     "streets": [
      "Beans Road;FR 33N76",
      "CA 299"
-    ]
+    ],
+    "nodeId": 93931929
    }
   },
   {
@@ -15773,7 +16754,8 @@
     "streets": [
      "CA 299",
      "Trinity Dam Boulevard;CR 105"
-    ]
+    ],
+    "nodeId": 93786362
    }
   },
   {
@@ -15789,7 +16771,8 @@
     "streets": [
      "Kerlin Creek Road;FR 3N14",
      "Lower South Fork Road;CR 311"
-    ]
+    ],
+    "nodeId": 93940142
    }
   },
   {
@@ -15805,7 +16788,8 @@
     "streets": [
      "Bagdad River Access",
      "CA 299"
-    ]
+    ],
+    "nodeId": 93966069
    }
   },
   {
@@ -15821,7 +16805,8 @@
     "streets": [
      "CA 299",
      "Cemetery Road"
-    ]
+    ],
+    "nodeId": 2389061978
    }
   },
   {
@@ -15837,7 +16822,8 @@
     "streets": [
      "CA 3",
      "Deerlick Springs Road;CR 335"
-    ]
+    ],
+    "nodeId": 93930941
    }
   },
   {
@@ -15853,7 +16839,8 @@
     "streets": [
      "CA 3",
      "Jordon Road"
-    ]
+    ],
+    "nodeId": 93930888
    }
   },
   {
@@ -15869,7 +16856,8 @@
     "streets": [
      "CA 3",
      "Rattlesnake Road;CR 353"
-    ]
+    ],
+    "nodeId": 93930281
    }
   },
   {
@@ -15885,7 +16873,8 @@
     "streets": [
      "Bridge Gulch Road;FR 31N19",
      "CA 3"
-    ]
+    ],
+    "nodeId": 11593805323
    }
   },
   {
@@ -15901,7 +16890,8 @@
     "streets": [
      "CA 3",
      "Felch Street;CR HF44"
-    ]
+    ],
+    "nodeId": 93930413
    }
   },
   {
@@ -15917,7 +16907,8 @@
     "streets": [
      "CA 3",
      "Morgan Hill Road;CR 319"
-    ]
+    ],
+    "nodeId": 93930415
    }
   },
   {
@@ -15933,7 +16924,8 @@
     "streets": [
      "CA 36",
      "Rattlesnake Ridge Road;FR 29N58"
-    ]
+    ],
+    "nodeId": 5493610929
    }
   },
   {
@@ -15949,7 +16941,8 @@
     "streets": [
      "CA 36",
      "Forest Glen Drive;FR 1S39"
-    ]
+    ],
+    "nodeId": 93936580
    }
   },
   {
@@ -15965,7 +16958,8 @@
     "streets": [
      "Berry Summit-Mad River Road;NF 1; FR 6N01",
      "Hastings Road;FR 2N05"
-    ]
+    ],
+    "nodeId": 3223224549
    }
   },
   {
@@ -15981,7 +16975,8 @@
     "streets": [
      "Rodeo Drive",
      "Ruth Zenia Road;CR 502"
-    ]
+    ],
+    "nodeId": 93868267
    }
   },
   {
@@ -15997,7 +16992,8 @@
     "streets": [
      "Pine Cone Lane;PUD 129",
      "Rattlesnake Road;CR 353"
-    ]
+    ],
+    "nodeId": 3306398958
    }
   },
   {
@@ -16013,7 +17009,8 @@
     "streets": [
      "Eagle Ridge Road",
      "Stuart Fork Road;FR 35N3Y"
-    ]
+    ],
+    "nodeId": 93944783
    }
   },
   {
@@ -16029,7 +17026,8 @@
     "streets": [
      "Bremer Street",
      "Main Street;CA 3;CA 299"
-    ]
+    ],
+    "nodeId": 93959711
    }
   },
   {
@@ -16045,7 +17043,8 @@
     "streets": [
      "Bartlett Lane;CR WVD77",
      "Main Street;CA 3;CA 299"
-    ]
+    ],
+    "nodeId": 93933767
    }
   },
   {
@@ -16061,7 +17060,8 @@
     "streets": [
      "CA 3",
      "State Route 3;CA 3"
-    ]
+    ],
+    "nodeId": 4319615411
    }
   },
   {
@@ -16077,7 +17077,8 @@
     "streets": [
      "CA 3",
      "Ramshorn Road;CR 133"
-    ]
+    ],
+    "nodeId": 93931263
    }
   },
   {
@@ -16093,7 +17094,8 @@
     "streets": [
      "Gibson Drive",
      "Trinity Dam Boulevard;CR 105"
-    ]
+    ],
+    "nodeId": 93916938
    }
   },
   {
@@ -16109,7 +17111,8 @@
     "streets": [
      "Deadwood Road;CR 211",
      "Trinity Dam Boulevard;CR 105"
-    ]
+    ],
+    "nodeId": 93938508
    }
   },
   {
@@ -16125,7 +17128,8 @@
     "streets": [
      "Coffee Creek Road;CR 104",
      "Sewall Road;CR 102"
-    ]
+    ],
+    "nodeId": 93991922
    }
   },
   {
@@ -16141,7 +17145,8 @@
     "streets": [
      "Airport Road;CR TC06",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 4435239895
    }
   },
   {
@@ -16157,7 +17162,8 @@
     "streets": [
      "Mill Street",
      "Mill Street;CR WVA03"
-    ]
+    ],
+    "nodeId": 93897480
    }
   },
   {
@@ -16173,7 +17179,8 @@
     "streets": [
      "Lower Mill Street",
      "Mill Street;CR WVA03"
-    ]
+    ],
+    "nodeId": 93912032
    }
   },
   {
@@ -16189,7 +17196,8 @@
     "streets": [
      "Main Street;CA 3;CA 299",
      "Mill Street;CR WVA03"
-    ]
+    ],
+    "nodeId": 93912044
    }
   },
   {
@@ -16205,7 +17213,8 @@
     "streets": [
      "Lance Gulch Road;CR 266",
      "Pioneer Lane;CR 248"
-    ]
+    ],
+    "nodeId": 5847717245
    }
   },
   {
@@ -16221,7 +17230,8 @@
     "streets": [
      "East Fork Road;CR 343",
      "Wildwood Road;CR 302"
-    ]
+    ],
+    "nodeId": 93955644
    }
   },
   {
@@ -16237,7 +17247,8 @@
     "streets": [
      "CA 3",
      "Hyampom Road;CR 301"
-    ]
+    ],
+    "nodeId": 93930421
    }
   },
   {
@@ -16253,7 +17264,8 @@
     "streets": [
      "Old Bluff Road;CO 538",
      "Zenia Bluff Road;CR 516"
-    ]
+    ],
+    "nodeId": 93965508
    }
   },
   {
@@ -16269,7 +17281,8 @@
     "streets": [
      "Center Street;CR WVD74",
      "Main Street;CA 3;CA 299"
-    ]
+    ],
+    "nodeId": 93954170
    }
   },
   {
@@ -16285,7 +17298,8 @@
     "streets": [
      "Lorenz Road",
      "Main Street;CA 3;CA 299"
-    ]
+    ],
+    "nodeId": 93961898
    }
   },
   {
@@ -16301,7 +17315,8 @@
     "streets": [
      "CA 3",
      "Whittle Way"
-    ]
+    ],
+    "nodeId": 93930492
    }
   },
   {
@@ -16317,7 +17332,8 @@
     "streets": [
      "CA 3",
      "Wildwood Road;CR 302"
-    ]
+    ],
+    "nodeId": 93930502
    }
   },
   {
@@ -16333,7 +17349,8 @@
     "streets": [
      "CA 3",
      "Summit Creek Road;CR 329"
-    ]
+    ],
+    "nodeId": 93911930
    }
   },
   {
@@ -16349,7 +17366,8 @@
     "streets": [
      "Oak Avenue;CR HF27",
      "West Oak Avenue;CR HF07"
-    ]
+    ],
+    "nodeId": 9851636283
    }
   },
   {
@@ -16365,7 +17383,8 @@
     "streets": [
      "CA 3",
      "Parks Creek Road;NF 17"
-    ]
+    ],
+    "nodeId": 93931373
    }
   },
   {
@@ -16382,7 +17401,8 @@
      "CA 3",
      "Chinquapin Road;FR 38N34",
      "North Derrick Flat Road;CR136B"
-    ]
+    ],
+    "nodeId": 93931212
    }
   },
   {
@@ -16398,7 +17418,8 @@
     "streets": [
      "East Fork Road",
      "East Fork Road;CR 421"
-    ]
+    ],
+    "nodeId": 8875627334
    }
   },
   {
@@ -16414,7 +17435,8 @@
     "streets": [
      "CA 299",
      "Wheel Gulch Road"
-    ]
+    ],
+    "nodeId": 93966200
    }
   },
   {
@@ -16430,7 +17452,8 @@
     "streets": [
      "Ramshorn Mumbo Road;FR 39N26",
      "Ramshorn Road;CR 133"
-    ]
+    ],
+    "nodeId": 93833780
    }
   },
   {
@@ -16446,7 +17469,8 @@
     "streets": [
      "Granite Road;FR 35N72Y",
      "Stoney Ridge Road;FR 35N73Y"
-    ]
+    ],
+    "nodeId": 93791526
    }
   },
   {
@@ -16462,7 +17486,8 @@
     "streets": [
      "Bear Wallow Road;NF 14; FR 1S14",
      "CA 36"
-    ]
+    ],
+    "nodeId": 93974386
    }
   },
   {
@@ -16479,7 +17504,8 @@
      "CA 3",
      "North Oak Avenue;CR HF04",
      "Oak Avenue;CR HF27"
-    ]
+    ],
+    "nodeId": 93930457
    }
   },
   {
@@ -16496,7 +17522,8 @@
      "Blue Jay Way",
      "North Oak Avenue",
      "North Oak Avenue;CR HF04"
-    ]
+    ],
+    "nodeId": 9851653362
    }
   },
   {
@@ -16512,7 +17539,8 @@
     "streets": [
      "CA 3",
      "Reservoir Road;CR HF22"
-    ]
+    ],
+    "nodeId": 9851653383
    }
   },
   {
@@ -16528,7 +17556,8 @@
     "streets": [
      "Deer Lane",
      "Reservoir Road;CR HF22"
-    ]
+    ],
+    "nodeId": 9851660032
    }
   },
   {
@@ -16544,7 +17573,8 @@
     "streets": [
      "Kamsky Road;CR HF36",
      "Reservoir Road;CR HF22"
-    ]
+    ],
+    "nodeId": 9851630330
    }
   },
   {
@@ -16560,7 +17590,8 @@
     "streets": [
      "Baker Flat Road;FR 29N41",
      "South Fork Goods Creek Road;29N27"
-    ]
+    ],
+    "nodeId": 93827268
    }
   },
   {
@@ -16576,7 +17607,8 @@
     "streets": [
      "FR 2S17",
      "Grizzly Mountain Road;FR 2S17"
-    ]
+    ],
+    "nodeId": 93943719
    }
   },
   {
@@ -16592,7 +17624,8 @@
     "streets": [
      "Homestead Road;FR 3S18",
      "Little Round Mountain Road;FR 3S37"
-    ]
+    ],
+    "nodeId": 93821477
    }
   },
   {
@@ -16608,7 +17641,8 @@
     "streets": [
      "Double A Road;FR 3S13",
      "Mad River Ridge Road;FR 2S05"
-    ]
+    ],
+    "nodeId": 10983229210
    }
   },
   {
@@ -16624,7 +17658,8 @@
     "streets": [
      "FR 5N03",
      "Pony Express Way;CR 474"
-    ]
+    ],
+    "nodeId": 11216115453
    }
   },
   {
@@ -16640,7 +17675,8 @@
     "streets": [
      "East Weaver Creek Road;CR 228",
      "East Weaver Creek Road;FR 34N34"
-    ]
+    ],
+    "nodeId": 93896667
    }
   },
   {
@@ -16656,7 +17692,8 @@
     "streets": [
      "Memorial Drive;CR WVC40",
      "Weaver Bally Road;CR WVC38"
-    ]
+    ],
+    "nodeId": 291161289
    }
   },
   {
@@ -16672,7 +17709,8 @@
     "streets": [
      "Oregon Mountain Road",
      "Oregon Road;CR 225"
-    ]
+    ],
+    "nodeId": 11227920533
    }
   },
   {
@@ -16688,7 +17726,8 @@
     "streets": [
      "China Gulch Road;CR 320",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93921829
    }
   },
   {
@@ -16704,7 +17743,8 @@
     "streets": [
      "Browns Mountain Road;CR 222",
      "Main Street;CA 3;CA 299"
-    ]
+    ],
+    "nodeId": 93884827
    }
   },
   {
@@ -16720,7 +17760,8 @@
     "streets": [
      "Chrome Mine Road;CR 352A",
      "Fern Court;PUD 153"
-    ]
+    ],
+    "nodeId": 11591869558
    }
   },
   {
@@ -16736,7 +17777,8 @@
     "streets": [
      "Chrome Mine Road;CR 352A",
      "Westridge Road;CR 350"
-    ]
+    ],
+    "nodeId": 93896659
    }
   },
   {
@@ -16752,7 +17794,8 @@
     "streets": [
      "Ponderosa Road;PUD 134",
      "Westridge Road;CR 350"
-    ]
+    ],
+    "nodeId": 93926990
    }
   },
   {
@@ -16768,7 +17811,8 @@
     "streets": [
      "Ponderosa Road;PUD 133",
      "Westridge Road;CR 350"
-    ]
+    ],
+    "nodeId": 11591946859
    }
   },
   {
@@ -16784,7 +17828,8 @@
     "streets": [
      "Brickworks Lane",
      "Weaver Bally Loop;CR WVC39"
-    ]
+    ],
+    "nodeId": 11225994124
    }
   },
   {
@@ -16800,7 +17845,8 @@
     "streets": [
      "Plummer Peak Road;FR 30N31",
      "Rattlesnake Road;CR 353"
-    ]
+    ],
+    "nodeId": 93922091
    }
   },
   {
@@ -16816,7 +17862,8 @@
     "streets": [
      "Rattlesnake Road;CR 353",
      "Whispering Pines Road;PUD 150"
-    ]
+    ],
+    "nodeId": 93939575
    }
   },
   {
@@ -16832,7 +17879,8 @@
     "streets": [
      "Estrellita Heights",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93925151
    }
   },
   {
@@ -16848,7 +17896,8 @@
     "streets": [
      "Ramshorn Road;CR 133",
      "South Fork Road;NF 26"
-    ]
+    ],
+    "nodeId": 93822004
    }
   },
   {
@@ -16864,7 +17913,8 @@
     "streets": [
      "Bear Creek Road;FR 40N45",
      "South Fork Road;NF 26"
-    ]
+    ],
+    "nodeId": 93775663
    }
   },
   {
@@ -16880,7 +17930,8 @@
     "streets": [
      "Ramshorn Road;CR 133",
      "Whalen Road;NF 25"
-    ]
+    ],
+    "nodeId": 93935694
    }
   },
   {
@@ -16896,7 +17947,8 @@
     "streets": [
      "Highland Lakes Road;FR 38N21",
      "Whalen Road;NF 25"
-    ]
+    ],
+    "nodeId": 93843494
    }
   },
   {
@@ -16912,7 +17964,8 @@
     "streets": [
      "South Fork Road;NF 26",
      "Whalen Road;NF 25"
-    ]
+    ],
+    "nodeId": 93935960
    }
   },
   {
@@ -16928,7 +17981,8 @@
     "streets": [
      "Graves Creek Road;FR 38N80",
      "Picayune Road;FR 39N18"
-    ]
+    ],
+    "nodeId": 13399229150
    }
   },
   {
@@ -16944,7 +17998,8 @@
     "streets": [
      "Island Mountain Ridge Road",
      "Island Mountain Road"
-    ]
+    ],
+    "nodeId": 85657528
    }
   },
   {
@@ -16960,7 +18015,8 @@
     "streets": [
      "Island Mountain Ridge Road",
      "Island Mountain Road"
-    ]
+    ],
+    "nodeId": 93882527
    }
   },
   {
@@ -16976,7 +18032,8 @@
     "streets": [
      "Island Mountain Ridge Road",
      "Island Mountain Road"
-    ]
+    ],
+    "nodeId": 93848553
    }
   },
   {
@@ -16992,7 +18049,8 @@
     "streets": [
      "Island Mountain Ridge Road",
      "Island Mountain Road"
-    ]
+    ],
+    "nodeId": 93880568
    }
   },
   {
@@ -17008,7 +18066,8 @@
     "streets": [
      "East Side Road",
      "Eastside Road"
-    ]
+    ],
+    "nodeId": 92413015
    }
   },
   {
@@ -17024,7 +18083,8 @@
     "streets": [
      "East Side Road",
      "Eastside Road"
-    ]
+    ],
+    "nodeId": 93913416
    }
   },
   {
@@ -17040,7 +18100,8 @@
     "streets": [
      "East Side Road",
      "Eastside Road"
-    ]
+    ],
+    "nodeId": 93913421
    }
   },
   {
@@ -17056,7 +18117,8 @@
     "streets": [
      "East Side Road",
      "Eastside Road"
-    ]
+    ],
+    "nodeId": 93913336
    }
   },
   {
@@ -17072,7 +18134,8 @@
     "streets": [
      "East Side Road",
      "Eastside Road"
-    ]
+    ],
+    "nodeId": 93913343
    }
   },
   {
@@ -17088,7 +18151,8 @@
     "streets": [
      "East Side Road",
      "Eastside Road"
-    ]
+    ],
+    "nodeId": 93913357
    }
   },
   {
@@ -17104,7 +18168,8 @@
     "streets": [
      "East Side Road",
      "Eastside Road"
-    ]
+    ],
+    "nodeId": 93913361
    }
   },
   {
@@ -17120,7 +18185,8 @@
     "streets": [
      "Pine Forest Drive;PUD 130",
      "Trinity Pines Drive;CR 351"
-    ]
+    ],
+    "nodeId": 93784698
    }
   },
   {
@@ -17136,7 +18202,8 @@
     "streets": [
      "Pine Forest Drive;PUD 130",
      "Trinity Pines Drive;CR 351"
-    ]
+    ],
+    "nodeId": 93952726
    }
   },
   {
@@ -17152,7 +18219,8 @@
     "streets": [
      "East Weaver Creek Road;CR 228",
      "Placer Street;CR 247"
-    ]
+    ],
+    "nodeId": 93785262
    }
   },
   {
@@ -17168,7 +18236,8 @@
     "streets": [
      "East Weaver Creek Road;CR 228",
      "Placer Street;CR 247"
-    ]
+    ],
+    "nodeId": 93785275
    }
   },
   {
@@ -17184,7 +18253,8 @@
     "streets": [
      "Kerlin Creek Road",
      "Kerlin Creek Road;FR 3N14"
-    ]
+    ],
+    "nodeId": 11984522333
    }
   },
   {
@@ -17200,7 +18270,8 @@
     "streets": [
      "Kerlin Creek Road",
      "Kerlin Creek Road;FR 3N14"
-    ]
+    ],
+    "nodeId": 93794670
    }
   },
   {
@@ -17216,7 +18287,8 @@
     "streets": [
      "06089",
      "String Bean Creek Road;FR 29N28"
-    ]
+    ],
+    "nodeId": 93824297
    }
   },
   {
@@ -17232,7 +18304,8 @@
     "streets": [
      "06089",
      "String Bean Creek Road;FR 29N28"
-    ]
+    ],
+    "nodeId": 91259350
    }
   },
   {
@@ -17248,7 +18321,8 @@
     "streets": [
      "Cobb Ridge Road;FR 27N33",
      "Swim Ridge Road;FR 27N13"
-    ]
+    ],
+    "nodeId": 93829620
    }
   },
   {
@@ -17264,7 +18338,8 @@
     "streets": [
      "Cobb Ridge Road;FR 27N33",
      "Swim Ridge Road;FR 27N13"
-    ]
+    ],
+    "nodeId": 93829703
    }
   },
   {
@@ -17280,7 +18355,8 @@
     "streets": [
      "Long Canyon Road;CR 115",
      "Mountain Aire Lane"
-    ]
+    ],
+    "nodeId": 93843173
    }
   },
   {
@@ -17296,7 +18372,8 @@
     "streets": [
      "Long Canyon Road;CR 115",
      "Mountain Aire Lane"
-    ]
+    ],
+    "nodeId": 93894819
    }
   },
   {
@@ -17312,7 +18389,8 @@
     "streets": [
      "Long Canyon Road;CR 115",
      "Mountain Aire Lane"
-    ]
+    ],
+    "nodeId": 93943967
    }
   },
   {
@@ -17328,7 +18406,8 @@
     "streets": [
      "Blanchards Flat Road;CR 337",
      "Reading Creek Road;CR 338"
-    ]
+    ],
+    "nodeId": 93869339
    }
   },
   {
@@ -17344,7 +18423,8 @@
     "streets": [
      "Blanchards Flat Road;CR 337",
      "Reading Creek Road;CR 338"
-    ]
+    ],
+    "nodeId": 93929561
    }
   },
   {
@@ -17360,7 +18440,8 @@
     "streets": [
      "Butter Creek Road;FR 3N08",
      "Indian Valley Road;NF 10; FR 2N10"
-    ]
+    ],
+    "nodeId": 93877900
    }
   },
   {
@@ -17376,7 +18457,8 @@
     "streets": [
      "Butter Creek Road;FR 3N08",
      "Indian Valley Road;NF 10; FR 2N10"
-    ]
+    ],
+    "nodeId": 93942835
    }
   },
   {
@@ -17392,7 +18474,8 @@
     "streets": [
      "Bierce Ridge Road;FR 28N49",
      "Wildwood-Mad River Road;NF 30; FR 29N30"
-    ]
+    ],
+    "nodeId": 93898690
    }
   },
   {
@@ -17408,7 +18491,8 @@
     "streets": [
      "Bierce Ridge Road;FR 28N49",
      "Wildwood-Mad River Road;NF 30; FR 29N30"
-    ]
+    ],
+    "nodeId": 93883386
    }
   },
   {
@@ -17424,7 +18508,8 @@
     "streets": [
      "Coffee Creek Road;CR 104",
      "Dorlesda Court;CR 126"
-    ]
+    ],
+    "nodeId": 93991913
    }
   },
   {
@@ -17440,7 +18525,8 @@
     "streets": [
      "Coffee Creek Road;CR 104",
      "Dorlesda Court;CR 126"
-    ]
+    ],
+    "nodeId": 93909275
    }
   },
   {
@@ -17456,7 +18542,8 @@
     "streets": [
      "Shasta View Drive",
      "Top of the Grade"
-    ]
+    ],
+    "nodeId": 93910719
    }
   },
   {
@@ -17472,7 +18559,8 @@
     "streets": [
      "Shasta View Drive",
      "Top of the Grade"
-    ]
+    ],
+    "nodeId": 93910734
    }
   },
   {
@@ -17488,7 +18576,8 @@
     "streets": [
      "Rainbow Crescent",
      "Steelhead Avenue"
-    ]
+    ],
+    "nodeId": 93911985
    }
   },
   {
@@ -17504,7 +18593,8 @@
     "streets": [
      "Rainbow Crescent",
      "Steelhead Avenue"
-    ]
+    ],
+    "nodeId": 93911990
    }
   },
   {
@@ -17520,7 +18610,8 @@
     "streets": [
      "Goose Ranch Road;CR 215",
      "River Rock Road;CR 216"
-    ]
+    ],
+    "nodeId": 93917197
    }
   },
   {
@@ -17536,7 +18627,8 @@
     "streets": [
      "Goose Ranch Road;CR 215",
      "River Rock Road;CR 216"
-    ]
+    ],
+    "nodeId": 93917203
    }
   },
   {
@@ -17552,7 +18644,8 @@
     "streets": [
      "Glade Creek Road;PUD 119",
      "Red Fox Road;PUD 139"
-    ]
+    ],
+    "nodeId": 93833596
    }
   },
   {
@@ -17568,7 +18661,8 @@
     "streets": [
      "Glade Creek Road;PUD 119",
      "Red Fox Road;PUD 139"
-    ]
+    ],
+    "nodeId": 93919440
    }
   },
   {
@@ -17584,7 +18678,8 @@
     "streets": [
      "North Miner Street;CR WVB24",
      "Upper Miner Street"
-    ]
+    ],
+    "nodeId": 4249376394
    }
   },
   {
@@ -17600,7 +18695,8 @@
     "streets": [
      "North Miner Street;CR WVB24",
      "Upper Miner Street"
-    ]
+    ],
+    "nodeId": 4249376420
    }
   },
   {
@@ -17616,7 +18712,8 @@
     "streets": [
      "Bear Wallow Road;NF 14; FR 1S14",
      "Post Flume Road;FR 1N13"
-    ]
+    ],
+    "nodeId": 93919871
    }
   },
   {
@@ -17632,7 +18729,8 @@
     "streets": [
      "Bear Wallow Road;NF 14; FR 1S14",
      "Post Flume Road;FR 1N13"
-    ]
+    ],
+    "nodeId": 11979273451
    }
   },
   {
@@ -17648,7 +18746,8 @@
     "streets": [
      "CA 3",
      "Eagle Creek Loop;CR135"
-    ]
+    ],
+    "nodeId": 8878436490
    }
   },
   {
@@ -17664,7 +18763,8 @@
     "streets": [
      "CA 3",
      "Eagle Creek Loop;CR135"
-    ]
+    ],
+    "nodeId": 93803294
    }
   },
   {
@@ -17680,7 +18780,8 @@
     "streets": [
      "Madrone Street",
      "Trout Avenue"
-    ]
+    ],
+    "nodeId": 93923152
    }
   },
   {
@@ -17696,7 +18797,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Wintun Way"
-    ]
+    ],
+    "nodeId": 93924587
    }
   },
   {
@@ -17712,7 +18814,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Wintun Way"
-    ]
+    ],
+    "nodeId": 93924590
    }
   },
   {
@@ -17728,7 +18831,8 @@
     "streets": [
      "Mulligan Street;CR WVC50",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93925197
    }
   },
   {
@@ -17744,7 +18848,8 @@
     "streets": [
      "Mulligan Street;CR WVC50",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93925198
    }
   },
   {
@@ -17760,7 +18865,8 @@
     "streets": [
      "Horseshoe Lane;CR 179",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93925204
    }
   },
   {
@@ -17776,7 +18882,8 @@
     "streets": [
      "Horseshoe Lane;CR 179",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93925206
    }
   },
   {
@@ -17792,7 +18899,8 @@
     "streets": [
      "Cooperative Way",
      "Hyampom Road;CR 301"
-    ]
+    ],
+    "nodeId": 93925734
    }
   },
   {
@@ -17808,7 +18916,8 @@
     "streets": [
      "Cooperative Way",
      "Hyampom Road;CR 301"
-    ]
+    ],
+    "nodeId": 93925744
    }
   },
   {
@@ -17824,7 +18933,8 @@
     "streets": [
      "Live Oak Road;PUD 121",
      "Post Mountain Road;NF 7; FR 2N07"
-    ]
+    ],
+    "nodeId": 93931998
    }
   },
   {
@@ -17840,7 +18950,8 @@
     "streets": [
      "Live Oak Road;PUD 121",
      "Post Mountain Road;NF 7; FR 2N07"
-    ]
+    ],
+    "nodeId": 93931953
    }
   },
   {
@@ -17856,7 +18967,8 @@
     "streets": [
      "Hatley Lane",
      "Oregon Street;CR 225"
-    ]
+    ],
+    "nodeId": 4377856768
    }
   },
   {
@@ -17872,7 +18984,8 @@
     "streets": [
      "Hatley Lane",
      "Oregon Street;CR 225"
-    ]
+    ],
+    "nodeId": 93928131
    }
   },
   {
@@ -17888,7 +19001,8 @@
     "streets": [
      "CA 3",
      "Marshall Ranch Road"
-    ]
+    ],
+    "nodeId": 93929110
    }
   },
   {
@@ -17904,7 +19018,8 @@
     "streets": [
      "CA 3",
      "Marshall Ranch Road"
-    ]
+    ],
+    "nodeId": 93929125
    }
   },
   {
@@ -17920,7 +19035,8 @@
     "streets": [
      "Indian Creek Road;CR 336",
      "Reading Creek Road;CR 338"
-    ]
+    ],
+    "nodeId": 93869085
    }
   },
   {
@@ -17936,7 +19052,8 @@
     "streets": [
      "Indian Creek Road;CR 336",
      "Reading Creek Road;CR 338"
-    ]
+    ],
+    "nodeId": 93869088
    }
   },
   {
@@ -17952,7 +19069,8 @@
     "streets": [
      "CA 299",
      "Ranger Station Road"
-    ]
+    ],
+    "nodeId": 93929924
    }
   },
   {
@@ -17968,7 +19086,8 @@
     "streets": [
      "CA 299",
      "Ranger Station Road"
-    ]
+    ],
+    "nodeId": 8875744487
    }
   },
   {
@@ -17984,7 +19103,8 @@
     "streets": [
      "Carrville Loop;CR 152",
      "State Route 3;CA 3"
-    ]
+    ],
+    "nodeId": 93931152
    }
   },
   {
@@ -18000,7 +19120,8 @@
     "streets": [
      "Carrville Loop;CR 152",
      "State Route 3;CA 3"
-    ]
+    ],
+    "nodeId": 93931169
    }
   },
   {
@@ -18016,7 +19137,8 @@
     "streets": [
      "Hyampom Road;CR 301",
      "Underwood Mountain Road;CR 327"
-    ]
+    ],
+    "nodeId": 93862515
    }
   },
   {
@@ -18032,7 +19154,8 @@
     "streets": [
      "Hyampom Road;CR 301",
      "Underwood Mountain Road;CR 327"
-    ]
+    ],
+    "nodeId": 2925068704
    }
   },
   {
@@ -18048,7 +19171,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Old Ruth Road"
-    ]
+    ],
+    "nodeId": 93932594
    }
   },
   {
@@ -18064,7 +19188,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Old Ruth Road"
-    ]
+    ],
+    "nodeId": 93932611
    }
   },
   {
@@ -18080,7 +19205,8 @@
     "streets": [
      "CA 36",
      "Cold Creek Road;CA 36"
-    ]
+    ],
+    "nodeId": 93932615
    }
   },
   {
@@ -18096,7 +19222,8 @@
     "streets": [
      "CA 36",
      "Cold Creek Road;CA 36"
-    ]
+    ],
+    "nodeId": 93932806
    }
   },
   {
@@ -18112,7 +19239,8 @@
     "streets": [
      "Trinity Pines Drive;CR 351",
      "White Oak Road;PUD 151"
-    ]
+    ],
+    "nodeId": 93933934
    }
   },
   {
@@ -18128,7 +19256,8 @@
     "streets": [
      "Trinity Pines Drive;CR 351",
      "White Oak Road;PUD 151"
-    ]
+    ],
+    "nodeId": 93933959
    }
   },
   {
@@ -18144,7 +19273,8 @@
     "streets": [
      "North Ridge Road;PUD 127",
      "Post Mountain Road;NF 7; FR 2N07"
-    ]
+    ],
+    "nodeId": 93937362
    }
   },
   {
@@ -18160,7 +19290,8 @@
     "streets": [
      "North Ridge Road;PUD 127",
      "Post Mountain Road;NF 7; FR 2N07"
-    ]
+    ],
+    "nodeId": 93959643
    }
   },
   {
@@ -18176,7 +19307,8 @@
     "streets": [
      "Pettijohn Road;FR 34N76",
      "Trinity Dam Boulevard;CR 105"
-    ]
+    ],
+    "nodeId": 93938623
    }
   },
   {
@@ -18192,7 +19324,8 @@
     "streets": [
      "Pettijohn Road;FR 34N76",
      "Trinity Dam Boulevard;CR 105"
-    ]
+    ],
+    "nodeId": 11230556118
    }
   },
   {
@@ -18209,7 +19342,8 @@
      "Hoaglin Road;CR 521",
      "Long Ridge Road;CR 520",
      "Long Ridge Road;Hoaglin Road;CR 520;CR 521"
-    ]
+    ],
+    "nodeId": 93938790
    }
   },
   {
@@ -18226,7 +19360,8 @@
      "Hoaglin Road;CR 521",
      "Long Ridge Road;CR 520",
      "Long Ridge Road;Hoaglin Road;CR 520;CR 521"
-    ]
+    ],
+    "nodeId": 93939469
    }
   },
   {
@@ -18242,7 +19377,8 @@
     "streets": [
      "Chincquapin Road",
      "Hawkins Bar Road"
-    ]
+    ],
+    "nodeId": 93946540
    }
   },
   {
@@ -18258,7 +19394,8 @@
     "streets": [
      "Chincquapin Road",
      "Hawkins Bar Road"
-    ]
+    ],
+    "nodeId": 93946517
    }
   },
   {
@@ -18274,7 +19411,8 @@
     "streets": [
      "Big Oak Road",
      "Hawkins Bar Road"
-    ]
+    ],
+    "nodeId": 93946548
    }
   },
   {
@@ -18290,7 +19428,8 @@
     "streets": [
      "Big Oak Road",
      "Hawkins Bar Road"
-    ]
+    ],
+    "nodeId": 93946515
    }
   },
   {
@@ -18306,7 +19445,8 @@
     "streets": [
      "East Fork Road",
      "Lannagan Road"
-    ]
+    ],
+    "nodeId": 93947392
    }
   },
   {
@@ -18322,7 +19462,8 @@
     "streets": [
      "East Fork Road",
      "Lannagan Road"
-    ]
+    ],
+    "nodeId": 93947686
    }
   },
   {
@@ -18338,7 +19479,8 @@
     "streets": [
      "Salyer Court;CR 444-A",
      "Salyer Loop Road;CR 444"
-    ]
+    ],
+    "nodeId": 93952358
    }
   },
   {
@@ -18354,7 +19496,8 @@
     "streets": [
      "Salyer Court;CR 444-A",
      "Salyer Loop Road;CR 444"
-    ]
+    ],
+    "nodeId": 93952364
    }
   },
   {
@@ -18370,7 +19513,8 @@
     "streets": [
      "CA 299",
      "River Ranch Road"
-    ]
+    ],
+    "nodeId": 10062812217
    }
   },
   {
@@ -18386,7 +19530,8 @@
     "streets": [
      "CA 299",
      "River Ranch Road"
-    ]
+    ],
+    "nodeId": 10062810301
    }
   },
   {
@@ -18402,7 +19547,8 @@
     "streets": [
      "Browns Camp",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93794219
    }
   },
   {
@@ -18418,7 +19564,8 @@
     "streets": [
      "Browns Camp",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93968156
    }
   },
   {
@@ -18434,7 +19581,8 @@
     "streets": [
      "Big Creek Road;CR 324",
      "Harrison Road"
-    ]
+    ],
+    "nodeId": 93968238
    }
   },
   {
@@ -18450,7 +19598,8 @@
     "streets": [
      "Big Creek Road;CR 324",
      "Harrison Road"
-    ]
+    ],
+    "nodeId": 93968252
    }
   },
   {
@@ -18466,7 +19615,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Spinner Willow Road"
-    ]
+    ],
+    "nodeId": 93973629
    }
   },
   {
@@ -18482,7 +19632,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Spinner Willow Road"
-    ]
+    ],
+    "nodeId": 5493931787
    }
   },
   {
@@ -18498,7 +19649,8 @@
     "streets": [
      "Johnson Loop",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93975252
    }
   },
   {
@@ -18514,7 +19666,8 @@
     "streets": [
      "Johnson Loop",
      "Mad River Road;CR 501"
-    ]
+    ],
+    "nodeId": 93975255
    }
   },
   {
@@ -18530,7 +19683,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Souza Road"
-    ]
+    ],
+    "nodeId": 93975311
    }
   },
   {
@@ -18546,7 +19700,8 @@
     "streets": [
      "Mad River Road;CR 501",
      "Souza Road"
-    ]
+    ],
+    "nodeId": 93975338
    }
   },
   {
@@ -18562,7 +19717,8 @@
     "streets": [
      "Hillside Road",
      "Tucker Hill Road"
-    ]
+    ],
+    "nodeId": 93977826
    }
   },
   {
@@ -18578,7 +19734,8 @@
     "streets": [
      "Hillside Road",
      "Tucker Hill Road"
-    ]
+    ],
+    "nodeId": 11227919648
    }
   },
   {
@@ -18594,7 +19751,8 @@
     "streets": [
      "Hillside Road",
      "Tucker Hill Road"
-    ]
+    ],
+    "nodeId": 11227919586
    }
   },
   {
@@ -18610,7 +19768,8 @@
     "streets": [
      "Hyampom Road",
      "Hyampom Road;CR 301"
-    ]
+    ],
+    "nodeId": 93982289
    }
   },
   {
@@ -18626,7 +19785,8 @@
     "streets": [
      "Hyampom Road",
      "Hyampom Road;CR 301"
-    ]
+    ],
+    "nodeId": 93982286
    }
   },
   {
@@ -18642,7 +19802,8 @@
     "streets": [
      "Hyampom Road",
      "Hyampom Road;CR 301"
-    ]
+    ],
+    "nodeId": 93862509
    }
   },
   {
@@ -18658,7 +19819,8 @@
     "streets": [
      "Hyampom Road",
      "Hyampom Road;CR 301"
-    ]
+    ],
+    "nodeId": 93862511
    }
   },
   {
@@ -18674,7 +19836,8 @@
     "streets": [
      "Hyampom Road;CR 301",
      "Saint John Road;CR 316"
-    ]
+    ],
+    "nodeId": 11979600716
    }
   },
   {
@@ -18690,7 +19853,8 @@
     "streets": [
      "Hyampom Road;CR 301",
      "Saint John Road;CR 316"
-    ]
+    ],
+    "nodeId": 93982813
    }
   },
   {
@@ -18706,7 +19870,8 @@
     "streets": [
      "Hyampom Road;CR 301",
      "Lower South Fork Road;CR 311"
-    ]
+    ],
+    "nodeId": 93862505
    }
   },
   {
@@ -18722,7 +19887,8 @@
     "streets": [
      "Hyampom Road;CR 301",
      "Lower South Fork Road;CR 311"
-    ]
+    ],
+    "nodeId": 6432835409
    }
   },
   {
@@ -18738,7 +19904,8 @@
     "streets": [
      "China Flat Road",
      "Hawkins Bar Road"
-    ]
+    ],
+    "nodeId": 93946508
    }
   },
   {
@@ -18754,7 +19921,8 @@
     "streets": [
      "China Flat Road",
      "Hawkins Bar Road"
-    ]
+    ],
+    "nodeId": 93946500
    }
   },
   {
@@ -18770,7 +19938,8 @@
     "streets": [
      "China Flat Road",
      "Lone Pine Road"
-    ]
+    ],
+    "nodeId": 93983384
    }
   },
   {
@@ -18786,7 +19955,8 @@
     "streets": [
      "China Flat Road",
      "Lone Pine Road"
-    ]
+    ],
+    "nodeId": 93983406
    }
   },
   {
@@ -18802,7 +19972,8 @@
     "streets": [
      "CA 299",
      "Sky Ranch Road"
-    ]
+    ],
+    "nodeId": 93965921
    }
   },
   {
@@ -18818,7 +19989,8 @@
     "streets": [
      "CA 299",
      "Sky Ranch Road"
-    ]
+    ],
+    "nodeId": 93965920
    }
   },
   {
@@ -18834,7 +20006,8 @@
     "streets": [
      "Greenhorn Drive;CR 143",
      "Scenic Avenue;CR 144"
-    ]
+    ],
+    "nodeId": 93984367
    }
   },
   {
@@ -18850,7 +20023,8 @@
     "streets": [
      "Greenhorn Drive;CR 143",
      "Scenic Avenue;CR 144"
-    ]
+    ],
+    "nodeId": 93984370
    }
   },
   {
@@ -18866,7 +20040,8 @@
     "streets": [
      "CA 299",
      "Wonder Stump Lane"
-    ]
+    ],
+    "nodeId": 93966412
    }
   },
   {
@@ -18882,7 +20057,8 @@
     "streets": [
      "CA 299",
      "Wonder Stump Lane"
-    ]
+    ],
+    "nodeId": 93966422
    }
   },
   {
@@ -18898,7 +20074,8 @@
     "streets": [
      "Roundy Road;CR 232",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93931744
    }
   },
   {
@@ -18914,7 +20091,8 @@
     "streets": [
      "Roundy Road;CR 232",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 11225992151
    }
   },
   {
@@ -18930,7 +20108,8 @@
     "streets": [
      "East Weaver Creek Road;CR 228",
      "Meadow Road;CR 250"
-    ]
+    ],
+    "nodeId": 93949769
    }
   },
   {
@@ -18946,7 +20125,8 @@
     "streets": [
      "East Weaver Creek Road;CR 228",
      "Meadow Road;CR 250"
-    ]
+    ],
+    "nodeId": 7227075789
    }
   },
   {
@@ -18962,7 +20142,8 @@
     "streets": [
      "CA 3",
      "Clinic Avenue;CR HF02"
-    ]
+    ],
+    "nodeId": 93930418
    }
   },
   {
@@ -18978,7 +20159,8 @@
     "streets": [
      "CA 3",
      "Clinic Avenue;CR HF02"
-    ]
+    ],
+    "nodeId": 93986805
    }
   },
   {
@@ -18994,7 +20176,8 @@
     "streets": [
      "Bear Creek Loop",
      "CA 3"
-    ]
+    ],
+    "nodeId": 93865743
    }
   },
   {
@@ -19010,7 +20193,8 @@
     "streets": [
      "Bear Creek Loop",
      "CA 3"
-    ]
+    ],
+    "nodeId": 93931296
    }
   },
   {
@@ -19026,7 +20210,8 @@
     "streets": [
      "CA 299",
      "William D. Abarr Memorial Bridge;CA 299"
-    ]
+    ],
+    "nodeId": 93966613
    }
   },
   {
@@ -19042,7 +20227,8 @@
     "streets": [
      "CA 299",
      "William D. Abarr Memorial Bridge;CA 299"
-    ]
+    ],
+    "nodeId": 93966616
    }
   },
   {
@@ -19058,7 +20244,8 @@
     "streets": [
      "Buckhorn Station Loop",
      "CA 299"
-    ]
+    ],
+    "nodeId": 11069925676
    }
   },
   {
@@ -19074,7 +20261,8 @@
     "streets": [
      "Buckhorn Station Loop",
      "CA 299"
-    ]
+    ],
+    "nodeId": 11069925639
    }
   },
   {
@@ -19090,7 +20278,8 @@
     "streets": [
      "Norwegian Ranch Road;CR 161",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 11593146885
    }
   },
   {
@@ -19106,7 +20295,8 @@
     "streets": [
      "Norwegian Ranch Road;CR 161",
      "Trinity Lake Boulevard;CA 3"
-    ]
+    ],
+    "nodeId": 93924987
    }
   },
   {
@@ -19122,7 +20312,8 @@
     "streets": [
      "CA 3",
      "Trinity Street;HF 19"
-    ]
+    ],
+    "nodeId": 11590115675
    }
   },
   {
@@ -19138,7 +20329,8 @@
     "streets": [
      "CA 3",
      "Trinity Street;HF 19"
-    ]
+    ],
+    "nodeId": 11590115682
    }
   },
   {
@@ -19154,7 +20346,8 @@
     "streets": [
      "Chrome Mine Road;CR 352A",
      "Three Hills Road;PUD 155"
-    ]
+    ],
+    "nodeId": 93954804
    }
   },
   {
@@ -19170,7 +20363,8 @@
     "streets": [
      "Chrome Mine Road;CR 352A",
      "Three Hills Road;PUD 155"
-    ]
+    ],
+    "nodeId": 93954830
    }
   }
  ]

@@ -14,7 +14,8 @@
     "streets": [
      "CA 168",
      "Canyon Road"
-    ]
+    ],
+    "nodeId": 88263176
    }
   },
   {
@@ -30,7 +31,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 6",
      "Pumice Mill Road"
-    ]
+    ],
+    "nodeId": 89797455
    }
   },
   {
@@ -46,7 +48,8 @@
     "streets": [
      "Aspen Lane",
      "Aspen Place"
-    ]
+    ],
+    "nodeId": 89464760
    }
   },
   {
@@ -62,7 +65,8 @@
     "streets": [
      "Hackney Drive",
      "Shop Road"
-    ]
+    ],
+    "nodeId": 89464767
    }
   },
   {
@@ -78,7 +82,8 @@
     "streets": [
      "Mill Creek Drive",
      "Mule Deer Road"
-    ]
+    ],
+    "nodeId": 89765535
    }
   },
   {
@@ -94,7 +99,8 @@
     "streets": [
      "Mule Deer Road",
      "Western Drive"
-    ]
+    ],
+    "nodeId": 89790292
    }
   },
   {
@@ -110,7 +116,8 @@
     "streets": [
      "Hackney Drive",
      "Mule Deer Road"
-    ]
+    ],
+    "nodeId": 89464774
    }
   },
   {
@@ -126,7 +133,8 @@
     "streets": [
      "Azimuth Drive",
      "Sierra Nevada Road"
-    ]
+    ],
+    "nodeId": 89464795
    }
   },
   {
@@ -142,7 +150,8 @@
     "streets": [
      "Arrowhead Drive",
      "Sierra Nevada Road"
-    ]
+    ],
+    "nodeId": 89464797
    }
   },
   {
@@ -158,7 +167,8 @@
     "streets": [
      "Laurel Mountain Road",
      "Sierra Nevada Road"
-    ]
+    ],
+    "nodeId": 89464806
    }
   },
   {
@@ -174,7 +184,8 @@
     "streets": [
      "Old Mammoth Road",
      "Sierra Nevada Road"
-    ]
+    ],
+    "nodeId": 89464825
    }
   },
   {
@@ -190,7 +201,8 @@
     "streets": [
      "Tamarack Lane",
      "Tamarack Street"
-    ]
+    ],
+    "nodeId": 89464846
    }
   },
   {
@@ -206,7 +218,8 @@
     "streets": [
      "Parker Lake Road",
      "Parker Lake Road;NF 1S25"
-    ]
+    ],
+    "nodeId": 89466061
    }
   },
   {
@@ -222,7 +235,8 @@
     "streets": [
      "Parker Lake Road;NF 1S25",
      "Parker Lake Trailhead Road;NF 1S25A"
-    ]
+    ],
+    "nodeId": 3977981342
    }
   },
   {
@@ -238,7 +252,8 @@
     "streets": [
      "Minaret Road",
      "Panorama Drive"
-    ]
+    ],
+    "nodeId": 89466118
    }
   },
   {
@@ -255,7 +270,8 @@
      "Meadow Drive",
      "Pinenut Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89466159
    }
   },
   {
@@ -271,7 +287,8 @@
     "streets": [
      "Chidago Canyon Road",
      "Morris Mine Road"
-    ]
+    ],
+    "nodeId": 89466833
    }
   },
   {
@@ -287,7 +304,8 @@
     "streets": [
      "Black Rock Mine Road",
      "Morris Mine Road"
-    ]
+    ],
+    "nodeId": 89467153
    }
   },
   {
@@ -303,7 +321,8 @@
     "streets": [
      "Bodie Masonic Road",
      "Bypass Road"
-    ]
+    ],
+    "nodeId": 89814048
    }
   },
   {
@@ -319,7 +338,8 @@
     "streets": [
      "Bodie Masonic Road",
      "Cow Camp Road"
-    ]
+    ],
+    "nodeId": 89470942
    }
   },
   {
@@ -335,7 +355,8 @@
     "streets": [
      "Aurora Canyon Road",
      "Bodie Masonic Road"
-    ]
+    ],
+    "nodeId": 89470947
    }
   },
   {
@@ -351,7 +372,8 @@
     "streets": [
      "Bodie Masonic Road",
      "Masonic Road;FS 32046"
-    ]
+    ],
+    "nodeId": 89471508
    }
   },
   {
@@ -367,7 +389,8 @@
     "streets": [
      "Mono Mills Road;CA 120",
      "River Spring Road"
-    ]
+    ],
+    "nodeId": 89471537
    }
   },
   {
@@ -383,7 +406,8 @@
     "streets": [
      "Sequoia Street",
      "Tenaya Road"
-    ]
+    ],
+    "nodeId": 89842656
    }
   },
   {
@@ -399,7 +423,8 @@
     "streets": [
      "Ponderosa Street",
      "Tenaya Road"
-    ]
+    ],
+    "nodeId": 89472045
    }
   },
   {
@@ -415,7 +440,8 @@
     "streets": [
      "Redwood Drive",
      "Tenaya Road"
-    ]
+    ],
+    "nodeId": 8456526363
    }
   },
   {
@@ -431,7 +457,8 @@
     "streets": [
      "Lower Canyon Road",
      "Lower Rock Creek Road"
-    ]
+    ],
+    "nodeId": 89472117
    }
   },
   {
@@ -447,7 +474,8 @@
     "streets": [
      "Lower Rock Creek Road",
      "Sierra Vista Circle"
-    ]
+    ],
+    "nodeId": 89472147
    }
   },
   {
@@ -463,7 +491,8 @@
     "streets": [
      "Alison Lane",
      "Lower Rock Creek Road"
-    ]
+    ],
+    "nodeId": 89472159
    }
   },
   {
@@ -479,7 +508,8 @@
     "streets": [
      "Lower Rock Creek Road",
      "Sherwin Trail"
-    ]
+    ],
+    "nodeId": 89472164
    }
   },
   {
@@ -495,7 +525,8 @@
     "streets": [
      "Deer Peak Trail",
      "Lower Rock Creek Road"
-    ]
+    ],
+    "nodeId": 89472180
    }
   },
   {
@@ -511,7 +542,8 @@
     "streets": [
      "Lower Rock Creek Road",
      "Swall Meadows Road"
-    ]
+    ],
+    "nodeId": 89472521
    }
   },
   {
@@ -527,7 +559,8 @@
     "streets": [
      "Crawford Avenue",
      "Old Mammoth Road"
-    ]
+    ],
+    "nodeId": 89472973
    }
   },
   {
@@ -543,7 +576,8 @@
     "streets": [
      "Crawford Avenue",
      "Garnet Street"
-    ]
+    ],
+    "nodeId": 89472920
    }
   },
   {
@@ -559,7 +593,8 @@
     "streets": [
      "Rand Road",
      "Virginia Lakes Road"
-    ]
+    ],
+    "nodeId": 89471616
    }
   },
   {
@@ -575,7 +610,8 @@
     "streets": [
      "Crags View Cutoff;NFR 32044A",
      "Crags View Road;NFR 32044B"
-    ]
+    ],
+    "nodeId": 89493984
    }
   },
   {
@@ -591,7 +627,8 @@
     "streets": [
      "Crags View Road;NFR 32044B",
      "Twin Lakes Road"
-    ]
+    ],
+    "nodeId": 89818852
    }
   },
   {
@@ -607,7 +644,8 @@
     "streets": [
      "Casa Diablo Cutoff",
      "Hot Springs Road"
-    ]
+    ],
+    "nodeId": 89496519
    }
   },
   {
@@ -624,7 +662,8 @@
      "1501",
      "Sawmill Crossover",
      "Sawmill Meadows Road"
-    ]
+    ],
+    "nodeId": 89800463
    }
   },
   {
@@ -640,7 +679,8 @@
     "streets": [
      "Mc Gee Canyon Road",
      "Sawmill Crossover"
-    ]
+    ],
+    "nodeId": 89497120
    }
   },
   {
@@ -656,7 +696,8 @@
     "streets": [
      "East Summer Meadows Road",
      "South Buckeye Drive"
-    ]
+    ],
+    "nodeId": 89502514
    }
   },
   {
@@ -672,7 +713,8 @@
     "streets": [
      "East Summer Meadows Road",
      "South Tamarack"
-    ]
+    ],
+    "nodeId": 89502517
    }
   },
   {
@@ -689,7 +731,8 @@
      "Dave McCoy Memorial Highway;US 395",
      "Hot Creek Hatchery Road",
      "South Industrial Circle"
-    ]
+    ],
+    "nodeId": 89509000
    }
   },
   {
@@ -705,7 +748,8 @@
     "streets": [
      "South Landing Road",
      "Wild Rose Drive"
-    ]
+    ],
+    "nodeId": 89510870
    }
   },
   {
@@ -721,7 +765,8 @@
     "streets": [
      "Sierra Springs Drive",
      "Wild Rose Drive"
-    ]
+    ],
+    "nodeId": 89510878
    }
   },
   {
@@ -737,7 +782,8 @@
     "streets": [
      "Big Springs Road",
      "Owens River Road"
-    ]
+    ],
+    "nodeId": 89520968
    }
   },
   {
@@ -753,7 +799,8 @@
     "streets": [
      "Bald Mountain Road",
      "Big Springs Road"
-    ]
+    ],
+    "nodeId": 89763288
    }
   },
   {
@@ -769,7 +816,8 @@
     "streets": [
      "Lake Mary Road",
      "Old Mammoth Road"
-    ]
+    ],
+    "nodeId": 89521031
    }
   },
   {
@@ -785,7 +833,8 @@
     "streets": [
      "LeVerne Street",
      "Old Mammoth Road"
-    ]
+    ],
+    "nodeId": 89772693
    }
   },
   {
@@ -801,7 +850,8 @@
     "streets": [
      "Chalfant Road",
      "Coyote Road"
-    ]
+    ],
+    "nodeId": 89537419
    }
   },
   {
@@ -817,7 +867,8 @@
     "streets": [
      "Chalfant Road",
      "Osage Circle"
-    ]
+    ],
+    "nodeId": 89537429
    }
   },
   {
@@ -833,7 +884,8 @@
     "streets": [
      "Buena Vista Drive",
      "Chalfant Road"
-    ]
+    ],
+    "nodeId": 89537457
    }
   },
   {
@@ -849,7 +901,8 @@
     "streets": [
      "Old Highway 395",
      "Pumice Mine Road;1S40"
-    ]
+    ],
+    "nodeId": 89551514
    }
   },
   {
@@ -865,7 +918,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "Old Highway 395"
-    ]
+    ],
+    "nodeId": 89551578
    }
   },
   {
@@ -881,7 +935,8 @@
     "streets": [
      "Sequoia Street",
      "Silver Creek Road"
-    ]
+    ],
+    "nodeId": 89552320
    }
   },
   {
@@ -897,7 +952,8 @@
     "streets": [
      "Sequoia Street",
      "Sierra Street"
-    ]
+    ],
+    "nodeId": 89552324
    }
   },
   {
@@ -913,7 +969,8 @@
     "streets": [
      "Sequoia Street",
      "Toiyabe Street"
-    ]
+    ],
+    "nodeId": 89552353
    }
   },
   {
@@ -929,7 +986,8 @@
     "streets": [
      "Sawmill Cutoff;NFR 03S08",
      "Sawmill Road"
-    ]
+    ],
+    "nodeId": 89809270
    }
   },
   {
@@ -946,7 +1004,8 @@
      "Lundy Lake Road",
      "Pole Line Road;CA 167",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89592076
    }
   },
   {
@@ -962,7 +1021,8 @@
     "streets": [
      "Main Street;CA 203",
      "Mountain Boulevard"
-    ]
+    ],
+    "nodeId": 89592176
    }
   },
   {
@@ -978,7 +1038,8 @@
     "streets": [
      "Frontage Road",
      "Mountain Boulevard"
-    ]
+    ],
+    "nodeId": 89592180
    }
   },
   {
@@ -994,7 +1055,8 @@
     "streets": [
      "Avalanche Way;NFR 32240",
      "Twin Lakes Road"
-    ]
+    ],
+    "nodeId": 89592567
    }
   },
   {
@@ -1010,7 +1072,8 @@
     "streets": [
      "Avalanche Way;NFR 32240",
      "Cargill Drive"
-    ]
+    ],
+    "nodeId": 89483667
    }
   },
   {
@@ -1026,7 +1089,8 @@
     "streets": [
      "Charley Day Drive",
      "Twin Lakes Road"
-    ]
+    ],
+    "nodeId": 89592719
    }
   },
   {
@@ -1042,7 +1106,8 @@
     "streets": [
      "Cranney Lane",
      "Larson Lane"
-    ]
+    ],
+    "nodeId": 89592806
    }
   },
   {
@@ -1058,7 +1123,8 @@
     "streets": [
      "Crags View Cutoff;NFR 32044A",
      "South Twin Road"
-    ]
+    ],
+    "nodeId": 89601494
    }
   },
   {
@@ -1074,7 +1140,8 @@
     "streets": [
      "East Mono Lake Drive",
      "Silver Lake Way"
-    ]
+    ],
+    "nodeId": 89606184
    }
   },
   {
@@ -1090,7 +1157,8 @@
     "streets": [
      "Dunderberg Meadows Road",
      "Virginia Lakes Road"
-    ]
+    ],
+    "nodeId": 89471675
    }
   },
   {
@@ -1106,7 +1174,8 @@
     "streets": [
      "Dunderberg Meadows Road",
      "Pack Station Road;FR 32020F"
-    ]
+    ],
+    "nodeId": 89615613
    }
   },
   {
@@ -1122,7 +1191,8 @@
     "streets": [
      "Dunderberg Meadow",
      "Dunderberg Meadows Road"
-    ]
+    ],
+    "nodeId": 89526379
    }
   },
   {
@@ -1138,7 +1208,8 @@
     "streets": [
      "Earthquake Fault Parking Access",
      "Minaret Road;CA 203"
-    ]
+    ],
+    "nodeId": 539381017
    }
   },
   {
@@ -1155,7 +1226,8 @@
      "Brenner Street",
      "Knoll Avenue",
      "Raymond Avenue"
-    ]
+    ],
+    "nodeId": 89636545
    }
   },
   {
@@ -1171,7 +1243,8 @@
     "streets": [
      "Antelope Springs Road",
      "Casa Diablo Cutoff"
-    ]
+    ],
+    "nodeId": 89496504
    }
   },
   {
@@ -1187,7 +1260,8 @@
     "streets": [
      "Antelope Springs Road",
      "Old Highway 395"
-    ]
+    ],
+    "nodeId": 89495814
    }
   },
   {
@@ -1203,7 +1277,8 @@
     "streets": [
      "Day Lane",
      "Stock Drive"
-    ]
+    ],
+    "nodeId": 89776304
    }
   },
   {
@@ -1219,7 +1294,8 @@
     "streets": [
      "Sinclair Street",
      "Stock Drive"
-    ]
+    ],
+    "nodeId": 89795067
    }
   },
   {
@@ -1235,7 +1311,8 @@
     "streets": [
      "Aspen Drive",
      "South Twin Road"
-    ]
+    ],
+    "nodeId": 89663971
    }
   },
   {
@@ -1251,7 +1328,8 @@
     "streets": [
      "Eagle Nest Road;NFR 32044F",
      "South Twin Road"
-    ]
+    ],
+    "nodeId": 89817784
    }
   },
   {
@@ -1267,7 +1345,8 @@
     "streets": [
      "Lisa Lane",
      "Ronda Lane"
-    ]
+    ],
+    "nodeId": 89485757
    }
   },
   {
@@ -1283,7 +1362,8 @@
     "streets": [
      "Dunderberg Meadow",
      "Dunderburg Meadow Road"
-    ]
+    ],
+    "nodeId": 89711056
    }
   },
   {
@@ -1299,7 +1379,8 @@
     "streets": [
      "Dunderburg Meadow Road",
      "Green Creek Road"
-    ]
+    ],
+    "nodeId": 89771563
    }
   },
   {
@@ -1315,7 +1396,8 @@
     "streets": [
      "Adler Strasse",
      "Leonard Avenue"
-    ]
+    ],
+    "nodeId": 89789283
    }
   },
   {
@@ -1331,7 +1413,8 @@
     "streets": [
      "Garnet Drive",
      "Rainbow Street"
-    ]
+    ],
+    "nodeId": 89732113
    }
   },
   {
@@ -1347,7 +1430,8 @@
     "streets": [
      "Jessie Street",
      "Minaret Road"
-    ]
+    ],
+    "nodeId": 89732122
    }
   },
   {
@@ -1363,7 +1447,8 @@
     "streets": [
      "Aspen Grove Lane",
      "Minaret Road"
-    ]
+    ],
+    "nodeId": 10065663116
    }
   },
   {
@@ -1379,7 +1464,8 @@
     "streets": [
      "Jessie Street",
      "Steelhead Road"
-    ]
+    ],
+    "nodeId": 89732130
    }
   },
   {
@@ -1395,7 +1481,8 @@
     "streets": [
      "Sunni's Way",
      "Sunny Slopes Road"
-    ]
+    ],
+    "nodeId": 89743652
    }
   },
   {
@@ -1411,7 +1498,8 @@
     "streets": [
      "Pinyon Hill Road",
      "Sunni's Way"
-    ]
+    ],
+    "nodeId": 89743661
    }
   },
   {
@@ -1427,7 +1515,8 @@
     "streets": [
      "Golden Creek",
      "Timber Creek"
-    ]
+    ],
+    "nodeId": 89809600
    }
   },
   {
@@ -1443,7 +1532,8 @@
     "streets": [
      "Carner Drive",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89780107
    }
   },
   {
@@ -1459,7 +1549,8 @@
     "streets": [
      "Aspen Lane",
      "Carner Drive"
-    ]
+    ],
+    "nodeId": 89801544
    }
   },
   {
@@ -1475,7 +1566,8 @@
     "streets": [
      "Hideway Lane",
      "Rea Drive"
-    ]
+    ],
+    "nodeId": 89761499
    }
   },
   {
@@ -1493,7 +1585,8 @@
      "Steelhead Drive",
      "Texas Street",
      "West Steelhead Drive"
-    ]
+    ],
+    "nodeId": 89761517
    }
   },
   {
@@ -1510,7 +1603,8 @@
      "Christie Lane",
      "Grand Army of the Republic Highway;US 6",
      "Mono Mills Road;CA 120"
-    ]
+    ],
+    "nodeId": 89762096
    }
   },
   {
@@ -1526,7 +1620,8 @@
     "streets": [
      "CA 203",
      "Mammoth Helispot Road;03S49"
-    ]
+    ],
+    "nodeId": 89628204
    }
   },
   {
@@ -1542,7 +1637,8 @@
     "streets": [
      "Bald Mountain Road",
      "Bald Mountain Springs Road"
-    ]
+    ],
+    "nodeId": 89762604
    }
   },
   {
@@ -1558,7 +1654,8 @@
     "streets": [
      "Grindelwald Road",
      "Vacation Place"
-    ]
+    ],
+    "nodeId": 89763734
    }
   },
   {
@@ -1574,7 +1671,8 @@
     "streets": [
      "Rush Creek Road",
      "Test Station Road"
-    ]
+    ],
+    "nodeId": 89466720
    }
   },
   {
@@ -1590,7 +1688,8 @@
     "streets": [
      "Oil Plant Road",
      "Rush Creek Road"
-    ]
+    ],
+    "nodeId": 89491422
    }
   },
   {
@@ -1606,7 +1705,8 @@
     "streets": [
      "Chidago Canyon Road",
      "Hieroglyph Road"
-    ]
+    ],
+    "nodeId": 89764500
    }
   },
   {
@@ -1622,7 +1722,8 @@
     "streets": [
      "Chidago Canyon Road",
      "Fish Slough Road"
-    ]
+    ],
+    "nodeId": 89764521
    }
   },
   {
@@ -1638,7 +1739,8 @@
     "streets": [
      "Chidago Canyon Road",
      "Van Loon Cutoff"
-    ]
+    ],
+    "nodeId": 89614306
    }
   },
   {
@@ -1654,7 +1756,8 @@
     "streets": [
      "Benton Crossing Road",
      "Chidago Canyon Road"
-    ]
+    ],
+    "nodeId": 89765450
    }
   },
   {
@@ -1670,7 +1773,8 @@
     "streets": [
      "Mountain View Drive",
      "North Valley View Drive"
-    ]
+    ],
+    "nodeId": 89765554
    }
   },
   {
@@ -1686,7 +1790,8 @@
     "streets": [
      "North Valley View Drive",
      "Swall Meadows Road"
-    ]
+    ],
+    "nodeId": 89765573
    }
   },
   {
@@ -1702,7 +1807,8 @@
     "streets": [
      "Davison",
      "John Muir Road"
-    ]
+    ],
+    "nodeId": 89765689
    }
   },
   {
@@ -1718,7 +1824,8 @@
     "streets": [
      "Little Walker Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89766024
    }
   },
   {
@@ -1734,7 +1841,8 @@
     "streets": [
      "Cowcamp Creek Road;NFR 32108",
      "Little Walker Road"
-    ]
+    ],
+    "nodeId": 89579956
    }
   },
   {
@@ -1750,7 +1858,8 @@
     "streets": [
      "Valley Vista Drive",
      "Valley Vista Place"
-    ]
+    ],
+    "nodeId": 89768479
    }
   },
   {
@@ -1766,7 +1875,8 @@
     "streets": [
      "Sherwin Creek Road",
      "Sherwin Creek Road;NFR 04S08"
-    ]
+    ],
+    "nodeId": 89769739
    }
   },
   {
@@ -1782,7 +1892,8 @@
     "streets": [
      "Boulder Drive",
      "Garnet Drive"
-    ]
+    ],
+    "nodeId": 89770298
    }
   },
   {
@@ -1798,7 +1909,8 @@
     "streets": [
      "Garnet Drive",
      "June Lake Loop;CA 158"
-    ]
+    ],
+    "nodeId": 89770299
    }
   },
   {
@@ -1814,7 +1926,8 @@
     "streets": [
      "Rea Drive",
      "Wyoming Street"
-    ]
+    ],
+    "nodeId": 89770305
    }
   },
   {
@@ -1830,7 +1943,8 @@
     "streets": [
      "Idaho Street",
      "Rea Drive"
-    ]
+    ],
+    "nodeId": 89770321
    }
   },
   {
@@ -1846,7 +1960,8 @@
     "streets": [
      "Idaho Court",
      "Rea Drive"
-    ]
+    ],
+    "nodeId": 89770323
    }
   },
   {
@@ -1862,7 +1977,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 6",
      "Morris Drive"
-    ]
+    ],
+    "nodeId": 89770334
    }
   },
   {
@@ -1878,7 +1994,8 @@
     "streets": [
      "Crowley Lake Drive",
      "Hilton Creek Place"
-    ]
+    ],
+    "nodeId": 89770360
    }
   },
   {
@@ -1895,7 +2012,8 @@
      "Club Drive",
      "Old Mammoth Road",
      "Ski Trail"
-    ]
+    ],
+    "nodeId": 89770392
    }
   },
   {
@@ -1911,7 +2029,8 @@
     "streets": [
      "Mill City Tract Road",
      "Old Mammoth Road"
-    ]
+    ],
+    "nodeId": 89770398
    }
   },
   {
@@ -1927,7 +2046,8 @@
     "streets": [
      "Monterey Circle",
      "Monterey Pine Road"
-    ]
+    ],
+    "nodeId": 89770478
    }
   },
   {
@@ -1943,7 +2063,8 @@
     "streets": [
      "Monterey Pine Road",
      "Monterey Place"
-    ]
+    ],
+    "nodeId": 89770493
    }
   },
   {
@@ -1959,7 +2080,8 @@
     "streets": [
      "Monterey Court",
      "Monterey Pine Road"
-    ]
+    ],
+    "nodeId": 89770498
    }
   },
   {
@@ -1975,7 +2097,8 @@
     "streets": [
      "Monterey Pine Road",
      "Pine Hurst Road"
-    ]
+    ],
+    "nodeId": 89770499
    }
   },
   {
@@ -1991,7 +2114,8 @@
     "streets": [
      "Monterey Pine Road",
      "Sugar Pine Drive"
-    ]
+    ],
+    "nodeId": 89770507
    }
   },
   {
@@ -2007,7 +2131,8 @@
     "streets": [
      "Monterey Pine Road",
      "Silver Tip Lane"
-    ]
+    ],
+    "nodeId": 89770511
    }
   },
   {
@@ -2023,7 +2148,8 @@
     "streets": [
      "Old Mammoth Road",
      "Woodmen Street"
-    ]
+    ],
+    "nodeId": 89770584
    }
   },
   {
@@ -2039,7 +2165,8 @@
     "streets": [
      "Mill Street",
      "Woodmen Street"
-    ]
+    ],
+    "nodeId": 5389797014
    }
   },
   {
@@ -2055,7 +2182,8 @@
     "streets": [
      "Mohawk Street",
      "Mount View Lane"
-    ]
+    ],
+    "nodeId": 89770628
    }
   },
   {
@@ -2071,7 +2199,8 @@
     "streets": [
      "Kirkwood Drive",
      "South Patterson Drive"
-    ]
+    ],
+    "nodeId": 89770647
    }
   },
   {
@@ -2087,7 +2216,8 @@
     "streets": [
      "Aspen Drive",
      "Kirkwood Drive"
-    ]
+    ],
+    "nodeId": 89770654
    }
   },
   {
@@ -2103,7 +2233,8 @@
     "streets": [
      "Hunewill Drive",
      "Lake Shore Drive"
-    ]
+    ],
+    "nodeId": 89770658
    }
   },
   {
@@ -2119,7 +2250,8 @@
     "streets": [
      "Hunewill Drive",
      "Twin Creek Drive"
-    ]
+    ],
+    "nodeId": 89655891
    }
   },
   {
@@ -2136,7 +2268,8 @@
      "By Day Drive",
      "Hunewill Drive",
      "Parker Drive"
-    ]
+    ],
+    "nodeId": 8040639201
    }
   },
   {
@@ -2152,7 +2285,8 @@
     "streets": [
      "Saint Anton",
      "Snowcreek Road"
-    ]
+    ],
+    "nodeId": 89770696
    }
   },
   {
@@ -2168,7 +2302,8 @@
     "streets": [
      "Hideaway Lane",
      "Los Angeles Street"
-    ]
+    ],
+    "nodeId": 89770707
    }
   },
   {
@@ -2184,7 +2319,8 @@
     "streets": [
      "Los Angeles Street",
      "Steelhead"
-    ]
+    ],
+    "nodeId": 89770710
    }
   },
   {
@@ -2200,7 +2336,8 @@
     "streets": [
      "June Lake Loop;CA 158",
      "Los Angeles Street"
-    ]
+    ],
+    "nodeId": 89770724
    }
   },
   {
@@ -2216,7 +2353,8 @@
     "streets": [
      "Meridian Boulevard",
      "Sierra Manor Road"
-    ]
+    ],
+    "nodeId": 89770729
    }
   },
   {
@@ -2232,7 +2370,8 @@
     "streets": [
      "Sierra Manor Road",
      "Sierra Nevada Road"
-    ]
+    ],
+    "nodeId": 89464831
    }
   },
   {
@@ -2248,7 +2387,8 @@
     "streets": [
      "Sierra Manor Road",
      "Tavern Road"
-    ]
+    ],
+    "nodeId": 89770735
    }
   },
   {
@@ -2264,7 +2404,8 @@
     "streets": [
      "Chateau Road",
      "Sierra Manor Road"
-    ]
+    ],
+    "nodeId": 89770739
    }
   },
   {
@@ -2280,7 +2421,8 @@
     "streets": [
      "Reservoir Road",
      "Utu Utu Road"
-    ]
+    ],
+    "nodeId": 89770778
    }
   },
   {
@@ -2297,7 +2439,8 @@
      "Kamu Loop",
      "Utu Utu Road",
      "Yellow Jacket Road;BIA 217"
-    ]
+    ],
+    "nodeId": 89770788
    }
   },
   {
@@ -2313,7 +2456,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 6",
      "Petroglyph Road"
-    ]
+    ],
+    "nodeId": 89770793
    }
   },
   {
@@ -2329,7 +2473,8 @@
     "streets": [
      "Route 395;US 395",
      "West Mill Creek Road"
-    ]
+    ],
+    "nodeId": 89771213
    }
   },
   {
@@ -2346,7 +2491,8 @@
      "Meadow Drive",
      "Meadow Lane",
      "West Mill Creek Road"
-    ]
+    ],
+    "nodeId": 89466211
    }
   },
   {
@@ -2363,7 +2509,8 @@
      "Gold Hill",
      "Goldhill",
      "Sunshine"
-    ]
+    ],
+    "nodeId": 89771289
    }
   },
   {
@@ -2379,7 +2526,8 @@
     "streets": [
      "Goldhill",
      "Snowcreek Road"
-    ]
+    ],
+    "nodeId": 89771295
    }
   },
   {
@@ -2395,7 +2543,8 @@
     "streets": [
      "Blue Lake Way",
      "Twin Lakes Drive"
-    ]
+    ],
+    "nodeId": 89771298
    }
   },
   {
@@ -2411,7 +2560,8 @@
     "streets": [
      "Green Lake Court",
      "Twin Lakes Drive"
-    ]
+    ],
+    "nodeId": 89771303
    }
   },
   {
@@ -2427,7 +2577,8 @@
     "streets": [
      "Lake Helen Court",
      "Twin Lakes Drive"
-    ]
+    ],
+    "nodeId": 89771304
    }
   },
   {
@@ -2443,7 +2594,8 @@
     "streets": [
      "2nd Street",
      "Lee Vining Avenue"
-    ]
+    ],
+    "nodeId": 89771312
    }
   },
   {
@@ -2459,7 +2611,8 @@
     "streets": [
      "3rd Street",
      "Lee Vining Avenue"
-    ]
+    ],
+    "nodeId": 89771315
    }
   },
   {
@@ -2475,7 +2628,8 @@
     "streets": [
      "D Street",
      "Lee Vining Avenue"
-    ]
+    ],
+    "nodeId": 89771317
    }
   },
   {
@@ -2491,7 +2645,8 @@
     "streets": [
      "4th Street",
      "Lee Vining Avenue"
-    ]
+    ],
+    "nodeId": 89771319
    }
   },
   {
@@ -2507,7 +2662,8 @@
     "streets": [
      "Lee Vining Avenue",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89771364
    }
   },
   {
@@ -2524,7 +2680,8 @@
      "Lecht Court",
      "Saint Mortiz Road",
      "Zurs Court"
-    ]
+    ],
+    "nodeId": 89771371
    }
   },
   {
@@ -2540,7 +2697,8 @@
     "streets": [
      "Green Creek Road",
      "Upper Summers Meadows Road"
-    ]
+    ],
+    "nodeId": 89771806
    }
   },
   {
@@ -2556,7 +2714,8 @@
     "streets": [
      "Paoha Drive",
      "Yosemite Drive"
-    ]
+    ],
+    "nodeId": 89772618
    }
   },
   {
@@ -2573,7 +2732,8 @@
      "Casey Drive",
      "Iowa Street",
      "Steelhead Drive"
-    ]
+    ],
+    "nodeId": 89772625
    }
   },
   {
@@ -2589,7 +2749,8 @@
     "streets": [
      "Iowa Street",
      "June Lake Loop;CA 158"
-    ]
+    ],
+    "nodeId": 89772632
    }
   },
   {
@@ -2605,7 +2766,8 @@
     "streets": [
      "Mount Patterson Drive",
      "Potato Peak Road"
-    ]
+    ],
+    "nodeId": 89789758
    }
   },
   {
@@ -2621,7 +2783,8 @@
     "streets": [
      "Mount Patterson Drive",
      "Rickey Peak Road"
-    ]
+    ],
+    "nodeId": 89798353
    }
   },
   {
@@ -2637,7 +2800,8 @@
     "streets": [
      "Eagle Peak Road",
      "Mount Patterson Drive"
-    ]
+    ],
+    "nodeId": 89772665
    }
   },
   {
@@ -2653,7 +2817,8 @@
     "streets": [
      "Castle Peak Road",
      "Mount Patterson Drive"
-    ]
+    ],
+    "nodeId": 89728115
    }
   },
   {
@@ -2669,7 +2834,8 @@
     "streets": [
      "Mount Patterson Drive",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89780104
    }
   },
   {
@@ -2685,7 +2851,8 @@
     "streets": [
      "Hill Street",
      "Old Mammoth Road"
-    ]
+    ],
+    "nodeId": 8855514713
    }
   },
   {
@@ -2701,7 +2868,8 @@
     "streets": [
      "Hill Street",
      "Owen Street"
-    ]
+    ],
+    "nodeId": 89772697
    }
   },
   {
@@ -2717,7 +2885,8 @@
     "streets": [
      "Hill Street",
      "Waterford Avenue"
-    ]
+    ],
+    "nodeId": 89776324
    }
   },
   {
@@ -2733,7 +2902,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 6",
      "Walker Place"
-    ]
+    ],
+    "nodeId": 89773082
    }
   },
   {
@@ -2749,7 +2919,8 @@
     "streets": [
      "Hackney Drive",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89773088
    }
   },
   {
@@ -2766,7 +2937,8 @@
      "Ski Trail",
      "Ski Trails Road",
      "Summit Street"
-    ]
+    ],
+    "nodeId": 89773233
    }
   },
   {
@@ -2782,7 +2954,8 @@
     "streets": [
      "Davison",
      "Lee Road"
-    ]
+    ],
+    "nodeId": 89773259
    }
   },
   {
@@ -2798,7 +2971,8 @@
     "streets": [
      "Lake Mary Road",
      "Lee Road"
-    ]
+    ],
+    "nodeId": 89773267
    }
   },
   {
@@ -2814,7 +2988,8 @@
     "streets": [
      "Corina Court",
      "Grindelwald Road"
-    ]
+    ],
+    "nodeId": 89773372
    }
   },
   {
@@ -2830,7 +3005,8 @@
     "streets": [
      "Fascination",
      "Snowcreek Road"
-    ]
+    ],
+    "nodeId": 89773396
    }
   },
   {
@@ -2846,7 +3022,8 @@
     "streets": [
      "Bramlett Ranch Road",
      "Foothill Road"
-    ]
+    ],
+    "nodeId": 3366863802
    }
   },
   {
@@ -2862,7 +3039,8 @@
     "streets": [
      "Lauterbrunnen Strasse",
      "Leonard Avenue"
-    ]
+    ],
+    "nodeId": 89773513
    }
   },
   {
@@ -2878,7 +3056,8 @@
     "streets": [
      "Chamonix Place",
      "Grindelwald Road"
-    ]
+    ],
+    "nodeId": 89824878
    }
   },
   {
@@ -2894,7 +3073,8 @@
     "streets": [
      "Willow Road",
      "Wilson Road"
-    ]
+    ],
+    "nodeId": 89773562
    }
   },
   {
@@ -2910,7 +3090,8 @@
     "streets": [
      "Power Line Road",
      "State Line Road"
-    ]
+    ],
+    "nodeId": 89774629
    }
   },
   {
@@ -2926,7 +3107,8 @@
     "streets": [
      "CA 266",
      "State Line Road"
-    ]
+    ],
+    "nodeId": 89774623
    }
   },
   {
@@ -2942,7 +3124,8 @@
     "streets": [
      "Garnet Street",
      "Gull Street"
-    ]
+    ],
+    "nodeId": 89774643
    }
   },
   {
@@ -2958,7 +3141,8 @@
     "streets": [
      "Gull Street",
      "Sunny Slope Lane"
-    ]
+    ],
+    "nodeId": 89774664
    }
   },
   {
@@ -2974,7 +3158,8 @@
     "streets": [
      "Upper Summers Meadows Road",
      "Upper Summers Meadows Road;NFR 32144"
-    ]
+    ],
+    "nodeId": 89775522
    }
   },
   {
@@ -2990,7 +3175,8 @@
     "streets": [
      "Owens Gorge Road",
      "Wheeler View Road"
-    ]
+    ],
+    "nodeId": 89529033
    }
   },
   {
@@ -3007,7 +3193,8 @@
      "Montana Road",
      "Wheeler View Drive",
      "Wheeler View Road"
-    ]
+    ],
+    "nodeId": 89776212
    }
   },
   {
@@ -3023,7 +3210,8 @@
     "streets": [
      "Mono Inn Drive",
      "Mono Inn Road"
-    ]
+    ],
+    "nodeId": 89494669
    }
   },
   {
@@ -3040,7 +3228,8 @@
      "Day Lane",
      "Emigrant Street",
      "Kirkwood Street"
-    ]
+    ],
+    "nodeId": 89776300
    }
   },
   {
@@ -3056,7 +3245,8 @@
     "streets": [
      "Creekview Place",
      "Majestic Pines Drive"
-    ]
+    ],
+    "nodeId": 89776307
    }
   },
   {
@@ -3072,7 +3262,8 @@
     "streets": [
      "Old Mammoth Road",
      "Waterford Avenue"
-    ]
+    ],
+    "nodeId": 89776312
    }
   },
   {
@@ -3088,7 +3279,8 @@
     "streets": [
      "Alexander Lane",
      "Waterford Avenue"
-    ]
+    ],
+    "nodeId": 89776334
    }
   },
   {
@@ -3104,7 +3296,8 @@
     "streets": [
      "Creek Lane",
      "Waterford Avenue"
-    ]
+    ],
+    "nodeId": 3346997324
    }
   },
   {
@@ -3121,7 +3314,8 @@
      "Kirkwood Street",
      "Main Street;US 395",
      "Twin Lakes Road"
-    ]
+    ],
+    "nodeId": 89776362
    }
   },
   {
@@ -3137,7 +3331,8 @@
     "streets": [
      "Canyon Boulevard",
      "Canyon Place"
-    ]
+    ],
+    "nodeId": 89467200
    }
   },
   {
@@ -3153,7 +3348,8 @@
     "streets": [
      "Masonic Road;FS 32046",
      "Sweetwater Road;CA 182"
-    ]
+    ],
+    "nodeId": 89777964
    }
   },
   {
@@ -3170,7 +3366,8 @@
      "Bruce Street",
      "Forest Road",
      "Knoll Avenue"
-    ]
+    ],
+    "nodeId": 89774552
    }
   },
   {
@@ -3186,7 +3383,8 @@
     "streets": [
      "Bruce Street",
      "Leonard Avenue"
-    ]
+    ],
+    "nodeId": 89601584
    }
   },
   {
@@ -3202,7 +3400,8 @@
     "streets": [
      "Bruce Street",
      "Howard Avenue"
-    ]
+    ],
+    "nodeId": 89601593
    }
   },
   {
@@ -3218,7 +3417,8 @@
     "streets": [
      "Bruce Street",
      "Granite Avenue"
-    ]
+    ],
+    "nodeId": 89778039
    }
   },
   {
@@ -3234,7 +3434,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 6",
      "Pedro Ranch Road"
-    ]
+    ],
+    "nodeId": 89778052
    }
   },
   {
@@ -3250,7 +3451,8 @@
     "streets": [
      "Benton Crossing Road",
      "Watterson Troughs Road"
-    ]
+    ],
+    "nodeId": 8436950868
    }
   },
   {
@@ -3266,7 +3468,8 @@
     "streets": [
      "Main Street;CA 203",
      "Viewpoint Road"
-    ]
+    ],
+    "nodeId": 89778622
    }
   },
   {
@@ -3282,7 +3485,8 @@
     "streets": [
      "Juniper Drive",
      "Lager Lane"
-    ]
+    ],
+    "nodeId": 89778824
    }
   },
   {
@@ -3298,7 +3502,8 @@
     "streets": [
      "Juniper Drive",
      "Turkey Lane"
-    ]
+    ],
+    "nodeId": 89778830
    }
   },
   {
@@ -3314,7 +3519,8 @@
     "streets": [
      "Juniper Drive",
      "Waterman Road"
-    ]
+    ],
+    "nodeId": 89778846
    }
   },
   {
@@ -3330,7 +3536,8 @@
     "streets": [
      "Juniper Drive",
      "Pinon Drive"
-    ]
+    ],
+    "nodeId": 89778855
    }
   },
   {
@@ -3346,7 +3553,8 @@
     "streets": [
      "Berry Drive",
      "Juniper Drive"
-    ]
+    ],
+    "nodeId": 89591524
    }
   },
   {
@@ -3362,7 +3570,8 @@
     "streets": [
      "Center Street",
      "Main Street"
-    ]
+    ],
+    "nodeId": 89794145
    }
   },
   {
@@ -3378,7 +3587,8 @@
     "streets": [
      "Forest Trail",
      "Main Street"
-    ]
+    ],
+    "nodeId": 89778988
    }
   },
   {
@@ -3394,7 +3604,8 @@
     "streets": [
      "Lupin Street",
      "Main Street"
-    ]
+    ],
+    "nodeId": 89779000
    }
   },
   {
@@ -3410,7 +3621,8 @@
     "streets": [
      "Main Street",
      "Mono Street"
-    ]
+    ],
+    "nodeId": 89779002
    }
   },
   {
@@ -3427,7 +3639,8 @@
      "Frontage Road",
      "Main Street",
      "Manzanita Road"
-    ]
+    ],
+    "nodeId": 89779007
    }
   },
   {
@@ -3443,7 +3656,8 @@
     "streets": [
      "Summit Street",
      "Sunny Slope Lane"
-    ]
+    ],
+    "nodeId": 89779053
    }
   },
   {
@@ -3459,7 +3673,8 @@
     "streets": [
      "Sunny Slope Lane",
      "Tamarack Street"
-    ]
+    ],
+    "nodeId": 89779066
    }
   },
   {
@@ -3475,7 +3690,8 @@
     "streets": [
      "Route 395;US 395",
      "Swauger Creek Road;NFR 32029"
-    ]
+    ],
+    "nodeId": 89782426
    }
   },
   {
@@ -3491,7 +3707,8 @@
     "streets": [
      "Chidago Way",
      "White Mountain Drive"
-    ]
+    ],
+    "nodeId": 89786865
    }
   },
   {
@@ -3507,7 +3724,8 @@
     "streets": [
      "Chidago Way",
      "Piute Lane"
-    ]
+    ],
+    "nodeId": 89786867
    }
   },
   {
@@ -3523,7 +3741,8 @@
     "streets": [
      "Chidago Way",
      "Valley Road"
-    ]
+    ],
+    "nodeId": 89786869
    }
   },
   {
@@ -3539,7 +3758,8 @@
     "streets": [
      "Dorrance Avenue",
      "Joaquin Road"
-    ]
+    ],
+    "nodeId": 89787399
    }
   },
   {
@@ -3555,7 +3775,8 @@
     "streets": [
      "Dorrance Avenue",
      "Lupin Street"
-    ]
+    ],
+    "nodeId": 89787403
    }
   },
   {
@@ -3571,7 +3792,8 @@
     "streets": [
      "Dorrance Avenue",
      "Mono Street"
-    ]
+    ],
+    "nodeId": 89787414
    }
   },
   {
@@ -3589,7 +3811,8 @@
      "Main Street;CA 203",
      "Sawmill Cutoff;NFR 03S08",
      "Sierra Park Road"
-    ]
+    ],
+    "nodeId": 89787471
    }
   },
   {
@@ -3605,7 +3828,8 @@
     "streets": [
      "Rainbow Street",
      "Steelhead Road"
-    ]
+    ],
+    "nodeId": 89787539
    }
   },
   {
@@ -3622,7 +3846,8 @@
      "Fairway Drive",
      "Minaret Road",
      "Old Mammoth Road"
-    ]
+    ],
+    "nodeId": 89788669
    }
   },
   {
@@ -3638,7 +3863,8 @@
     "streets": [
      "Meadow Lane",
      "Minaret Road"
-    ]
+    ],
+    "nodeId": 89788678
    }
   },
   {
@@ -3654,7 +3880,8 @@
     "streets": [
      "Minaret Road",
      "Snowcreek Road"
-    ]
+    ],
+    "nodeId": 89712168
    }
   },
   {
@@ -3670,7 +3897,8 @@
     "streets": [
      "Chateau Road",
      "Minaret Road"
-    ]
+    ],
+    "nodeId": 89787719
    }
   },
   {
@@ -3686,7 +3914,8 @@
     "streets": [
      "Snowcreek Road",
      "Sunshine"
-    ]
+    ],
+    "nodeId": 89788745
    }
   },
   {
@@ -3702,7 +3931,8 @@
     "streets": [
      "Megeve Way",
      "Saint Anton Circle"
-    ]
+    ],
+    "nodeId": 89788770
    }
   },
   {
@@ -3718,7 +3948,8 @@
     "streets": [
      "Saint Anton Circle",
      "Zermat Court"
-    ]
+    ],
+    "nodeId": 89788780
    }
   },
   {
@@ -3734,7 +3965,8 @@
     "streets": [
      "Saint Anton Circle",
      "Val Disere Place"
-    ]
+    ],
+    "nodeId": 89788787
    }
   },
   {
@@ -3750,7 +3982,8 @@
     "streets": [
      "Klosters Court",
      "Saint Anton Circle"
-    ]
+    ],
+    "nodeId": 89788802
    }
   },
   {
@@ -3766,7 +3999,8 @@
     "streets": [
      "D Street",
      "Mono Lake Avenue"
-    ]
+    ],
+    "nodeId": 89789181
    }
   },
   {
@@ -3782,7 +4016,8 @@
     "streets": [
      "Scott Road",
      "Westridge Road"
-    ]
+    ],
+    "nodeId": 89789222
    }
   },
   {
@@ -3798,7 +4033,8 @@
     "streets": [
      "Horseshoe Drive",
      "Lakeview Boulevard"
-    ]
+    ],
+    "nodeId": 89794142
    }
   },
   {
@@ -3814,7 +4050,8 @@
     "streets": [
      "Beaver Trail",
      "Horseshoe Drive"
-    ]
+    ],
+    "nodeId": 89789560
    }
   },
   {
@@ -3830,7 +4067,8 @@
     "streets": [
      "Canyon Boulevard",
      "Horseshoe Drive"
-    ]
+    ],
+    "nodeId": 89467230
    }
   },
   {
@@ -3846,7 +4084,8 @@
     "streets": [
      "Arrowhead Drive",
      "Chaparral Road"
-    ]
+    ],
+    "nodeId": 89789642
    }
   },
   {
@@ -3862,7 +4101,8 @@
     "streets": [
      "Chaparral Road",
      "Sierra Nevada Road"
-    ]
+    ],
+    "nodeId": 89464789
    }
   },
   {
@@ -3878,7 +4118,8 @@
     "streets": [
      "By Day Drive",
      "Lake Shore Drive"
-    ]
+    ],
+    "nodeId": 8040639197
    }
   },
   {
@@ -3894,7 +4135,8 @@
     "streets": [
      "Sacramento Street",
      "Valley Road"
-    ]
+    ],
+    "nodeId": 89789717
    }
   },
   {
@@ -3910,7 +4152,8 @@
     "streets": [
      "Locust Street",
      "Valley Road"
-    ]
+    ],
+    "nodeId": 89789724
    }
   },
   {
@@ -3926,7 +4169,8 @@
     "streets": [
      "Chaparral Road",
      "Valley Road"
-    ]
+    ],
+    "nodeId": 89789728
    }
   },
   {
@@ -3942,7 +4186,8 @@
     "streets": [
      "Brown Subdivision Road",
      "Valley Road"
-    ]
+    ],
+    "nodeId": 89789729
    }
   },
   {
@@ -3958,7 +4203,8 @@
     "streets": [
      "Mountain View Avenue",
      "Valley Road"
-    ]
+    ],
+    "nodeId": 89789733
    }
   },
   {
@@ -3974,7 +4220,8 @@
     "streets": [
      "Hunter Avenue",
      "Valley Road"
-    ]
+    ],
+    "nodeId": 89789740
    }
   },
   {
@@ -3990,7 +4237,8 @@
     "streets": [
      "Milk Ranch Road",
      "South Buckeye Drive"
-    ]
+    ],
+    "nodeId": 89789745
    }
   },
   {
@@ -4006,7 +4254,8 @@
     "streets": [
      "Aurora Canyon Road",
      "South Buckeye Drive"
-    ]
+    ],
+    "nodeId": 89827448
    }
   },
   {
@@ -4022,7 +4271,8 @@
     "streets": [
      "Lupin Street",
      "Meridian Boulevard"
-    ]
+    ],
+    "nodeId": 89816525
    }
   },
   {
@@ -4038,7 +4288,8 @@
     "streets": [
      "Mammoth Scenic Loop",
      "Minaret Road;CA 203"
-    ]
+    ],
+    "nodeId": 89787948
    }
   },
   {
@@ -4054,7 +4305,8 @@
     "streets": [
      "Connell Street",
      "Sherwin Street"
-    ]
+    ],
+    "nodeId": 89790252
    }
   },
   {
@@ -4070,7 +4322,8 @@
     "streets": [
      "Nevada Street",
      "Silver Meadows Lane"
-    ]
+    ],
+    "nodeId": 89790411
    }
   },
   {
@@ -4086,7 +4339,8 @@
     "streets": [
      "California Street",
      "Nevada Street"
-    ]
+    ],
+    "nodeId": 89790465
    }
   },
   {
@@ -4102,7 +4356,8 @@
     "streets": [
      "June Lake Loop;CA 158",
      "Nevada Street"
-    ]
+    ],
+    "nodeId": 89790478
    }
   },
   {
@@ -4118,7 +4373,8 @@
     "streets": [
      "Lodestar Drive",
      "Majestic Pines Drive"
-    ]
+    ],
+    "nodeId": 3414359908
    }
   },
   {
@@ -4134,7 +4390,8 @@
     "streets": [
      "Clover Lane",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89783858
    }
   },
   {
@@ -4150,7 +4407,8 @@
     "streets": [
      "Clover Lane",
      "Meadow Drive"
-    ]
+    ],
+    "nodeId": 89466222
    }
   },
   {
@@ -4166,7 +4424,8 @@
     "streets": [
      "Chase Avenue",
      "Hunter Avenue"
-    ]
+    ],
+    "nodeId": 89790658
    }
   },
   {
@@ -4182,7 +4441,8 @@
     "streets": [
      "Peeler Lake Drive",
      "Silver Lake Way"
-    ]
+    ],
+    "nodeId": 89790668
    }
   },
   {
@@ -4198,7 +4458,8 @@
     "streets": [
      "Majestic Pines Drive",
      "Valley Vista Drive"
-    ]
+    ],
+    "nodeId": 89790786
    }
   },
   {
@@ -4214,7 +4475,8 @@
     "streets": [
      "Valley Vista Drive",
      "Villa Vista Drive"
-    ]
+    ],
+    "nodeId": 89790834
    }
   },
   {
@@ -4231,7 +4493,8 @@
      "Aspen Terrace",
      "Crowley Lake Drive",
      "Hilton Creek Drive"
-    ]
+    ],
+    "nodeId": 89791089
    }
   },
   {
@@ -4247,7 +4510,8 @@
     "streets": [
      "Cottonwood Canyon Road",
      "Dobie Meadows Road"
-    ]
+    ],
+    "nodeId": 4374766199
    }
   },
   {
@@ -4263,7 +4527,8 @@
     "streets": [
      "Dobie Meadows Road",
      "Pole Line Road;CA 167"
-    ]
+    ],
+    "nodeId": 89791286
    }
   },
   {
@@ -4279,7 +4544,8 @@
     "streets": [
      "Dobie Meadows Road",
      "Mono Mills Road;CA 120"
-    ]
+    ],
+    "nodeId": 89600492
    }
   },
   {
@@ -4295,7 +4561,8 @@
     "streets": [
      "3rd Street",
      "Mono Lake Avenue"
-    ]
+    ],
+    "nodeId": 89791962
    }
   },
   {
@@ -4311,7 +4578,8 @@
     "streets": [
      "Mono Lake Avenue",
      "Yosemite Drive"
-    ]
+    ],
+    "nodeId": 89791963
    }
   },
   {
@@ -4327,7 +4595,8 @@
     "streets": [
      "2nd Street",
      "Mono Lake Avenue"
-    ]
+    ],
+    "nodeId": 89791969
    }
   },
   {
@@ -4344,7 +4613,8 @@
      "1st Street",
      "Beaver Lane",
      "Mono Lake Avenue"
-    ]
+    ],
+    "nodeId": 89791979
    }
   },
   {
@@ -4360,7 +4630,8 @@
     "streets": [
      "Eastside Lane",
      "North River Lane"
-    ]
+    ],
+    "nodeId": 89791988
    }
   },
   {
@@ -4377,7 +4648,8 @@
      "Carson",
      "Carson Street",
      "Casey Drive"
-    ]
+    ],
+    "nodeId": 89792098
    }
   },
   {
@@ -4393,7 +4665,8 @@
     "streets": [
      "Carson",
      "Hideaway Lane"
-    ]
+    ],
+    "nodeId": 89792103
    }
   },
   {
@@ -4409,7 +4682,8 @@
     "streets": [
      "Cunningham Lane",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89784017
    }
   },
   {
@@ -4425,7 +4699,8 @@
     "streets": [
      "Cunningham Lane",
      "Eastside Lane"
-    ]
+    ],
+    "nodeId": 89684527
    }
   },
   {
@@ -4441,7 +4716,8 @@
     "streets": [
      "Crowley Lake Drive",
      "Meadow View"
-    ]
+    ],
+    "nodeId": 89793767
    }
   },
   {
@@ -4457,7 +4733,8 @@
     "streets": [
      "Lake Manor Place",
      "Meadow View"
-    ]
+    ],
+    "nodeId": 89793791
    }
   },
   {
@@ -4473,7 +4750,8 @@
     "streets": [
      "Delta Drive",
      "Meadow View"
-    ]
+    ],
+    "nodeId": 89793799
    }
   },
   {
@@ -4489,7 +4767,8 @@
     "streets": [
      "Glacier Place",
      "Matterhorn Drive"
-    ]
+    ],
+    "nodeId": 89793804
    }
   },
   {
@@ -4506,7 +4785,8 @@
      "Eastside Lane",
      "Eastside Road",
      "Larson Lane"
-    ]
+    ],
+    "nodeId": 89793840
    }
   },
   {
@@ -4522,7 +4802,8 @@
     "streets": [
      "Chalfant Loop Road",
      "Grand Army of the Republic Highway;US 6"
-    ]
+    ],
+    "nodeId": 89793907
    }
   },
   {
@@ -4538,7 +4819,8 @@
     "streets": [
      "Chalfant Loop Road",
      "Tungsten Road"
-    ]
+    ],
+    "nodeId": 89793878
    }
   },
   {
@@ -4554,7 +4836,8 @@
     "streets": [
      "Ridgecrest Drive",
      "Ridgecrest Place"
-    ]
+    ],
+    "nodeId": 89793916
    }
   },
   {
@@ -4570,7 +4853,8 @@
     "streets": [
      "Majestic Pines Drive",
      "Silver Tip Lane"
-    ]
+    ],
+    "nodeId": 89794079
    }
   },
   {
@@ -4586,7 +4870,8 @@
     "streets": [
      "Center Street",
      "Main Street;CA 203"
-    ]
+    ],
+    "nodeId": 89794147
    }
   },
   {
@@ -4602,7 +4887,8 @@
     "streets": [
      "Center Street",
      "Frontage Road"
-    ]
+    ],
+    "nodeId": 89794149
    }
   },
   {
@@ -4618,7 +4904,8 @@
     "streets": [
      "Washington Street",
      "Wyoming Street"
-    ]
+    ],
+    "nodeId": 89794172
    }
   },
   {
@@ -4634,7 +4921,8 @@
     "streets": [
      "California Street",
      "Washington Street"
-    ]
+    ],
+    "nodeId": 89794175
    }
   },
   {
@@ -4650,7 +4938,8 @@
     "streets": [
      "Inaja Ranch Road",
      "Owens River Road"
-    ]
+    ],
+    "nodeId": 89604303
    }
   },
   {
@@ -4666,7 +4955,8 @@
     "streets": [
      "Antelope Springs Road;FR 3S05",
      "Owens River Road"
-    ]
+    ],
+    "nodeId": 89794551
    }
   },
   {
@@ -4682,7 +4972,8 @@
     "streets": [
      "Hot Creek Hatchery Road",
      "Owens River Road"
-    ]
+    ],
+    "nodeId": 89794614
    }
   },
   {
@@ -4698,7 +4989,8 @@
     "streets": [
      "Main Street;US 395",
      "Sinclair Street"
-    ]
+    ],
+    "nodeId": 89779023
    }
   },
   {
@@ -4714,7 +5006,8 @@
     "streets": [
      "Bryant Street",
      "Sinclair Street"
-    ]
+    ],
+    "nodeId": 89795063
    }
   },
   {
@@ -4730,7 +5023,8 @@
     "streets": [
      "Emigrant Street",
      "Sinclair Street"
-    ]
+    ],
+    "nodeId": 89795065
    }
   },
   {
@@ -4746,7 +5040,8 @@
     "streets": [
      "Forest Trail",
      "Twin Lakes Lane"
-    ]
+    ],
+    "nodeId": 89795069
    }
   },
   {
@@ -4762,7 +5057,8 @@
     "streets": [
      "Jahan Drive",
      "Twin Lakes Lane"
-    ]
+    ],
+    "nodeId": 89795070
    }
   },
   {
@@ -4778,7 +5074,8 @@
     "streets": [
      "Canyon Boulevard",
      "Twin Lakes Lane"
-    ]
+    ],
+    "nodeId": 89467223
    }
   },
   {
@@ -4794,7 +5091,8 @@
     "streets": [
      "Burcham Flat Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89782981
    }
   },
   {
@@ -4810,7 +5108,8 @@
     "streets": [
      "Shady Rest Road",
      "Tavern Road"
-    ]
+    ],
+    "nodeId": 9018698764
    }
   },
   {
@@ -4826,7 +5125,8 @@
     "streets": [
      "Innsbruck Place",
      "Tyrol Lane"
-    ]
+    ],
+    "nodeId": 89796267
    }
   },
   {
@@ -4842,7 +5142,8 @@
     "streets": [
      "Big Rock Road",
      "June Lake Loop;CA 158"
-    ]
+    ],
+    "nodeId": 570529659
    }
   },
   {
@@ -4858,7 +5159,8 @@
     "streets": [
      "Mountain View Avenue",
      "Virginia Avenue"
-    ]
+    ],
+    "nodeId": 89796298
    }
   },
   {
@@ -4874,7 +5176,8 @@
     "streets": [
      "Pinecrest Avenue",
      "Slalom Lane"
-    ]
+    ],
+    "nodeId": 89797447
    }
   },
   {
@@ -4890,7 +5193,8 @@
     "streets": [
      "Crowley Lake Drive",
      "McGee Creek Road"
-    ]
+    ],
+    "nodeId": 89539942
    }
   },
   {
@@ -4906,7 +5210,8 @@
     "streets": [
      "McGee Creek Road",
      "West Park Road"
-    ]
+    ],
+    "nodeId": 3528978961
    }
   },
   {
@@ -4922,7 +5227,8 @@
     "streets": [
      "Hidden Valley Road",
      "Lake Mary Road"
-    ]
+    ],
+    "nodeId": 89797997
    }
   },
   {
@@ -4938,7 +5244,8 @@
     "streets": [
      "Foothill Road",
      "Mountain View Drive"
-    ]
+    ],
+    "nodeId": 89798317
    }
   },
   {
@@ -4954,7 +5261,8 @@
     "streets": [
      "Grindelwald Road",
      "Holiday Way"
-    ]
+    ],
+    "nodeId": 89798337
    }
   },
   {
@@ -4970,7 +5278,8 @@
     "streets": [
      "Forest Trail",
      "Holiday Way"
-    ]
+    ],
+    "nodeId": 89798345
    }
   },
   {
@@ -4986,7 +5295,8 @@
     "streets": [
      "Mount Jackson Road",
      "Rickey Peak Road"
-    ]
+    ],
+    "nodeId": 89798358
    }
   },
   {
@@ -5002,7 +5312,8 @@
     "streets": [
      "Potato Peak Road",
      "Rickey Peak Road"
-    ]
+    ],
+    "nodeId": 8118831576
    }
   },
   {
@@ -5018,7 +5329,8 @@
     "streets": [
      "Majestic Pines Drive",
      "Whispering Pines Place"
-    ]
+    ],
+    "nodeId": 89794055
    }
   },
   {
@@ -5034,7 +5346,8 @@
     "streets": [
      "Beaver Trail",
      "Jahan Drive"
-    ]
+    ],
+    "nodeId": 89799307
    }
   },
   {
@@ -5050,7 +5363,8 @@
     "streets": [
      "Beaver Place",
      "Beaver Trail"
-    ]
+    ],
+    "nodeId": 89799324
    }
   },
   {
@@ -5066,7 +5380,8 @@
     "streets": [
      "Beaver Court",
      "Beaver Trail"
-    ]
+    ],
+    "nodeId": 89799328
    }
   },
   {
@@ -5082,7 +5397,8 @@
     "streets": [
      "Beaver Trail",
      "Larkspur Way"
-    ]
+    ],
+    "nodeId": 89799330
    }
   },
   {
@@ -5098,7 +5414,8 @@
     "streets": [
      "Utu Utu Road",
      "Yellow Jacket Road;BIA 217"
-    ]
+    ],
+    "nodeId": 89799375
    }
   },
   {
@@ -5114,7 +5431,8 @@
     "streets": [
      "Kamu Loop",
      "Yellow Jacket Road;BIA 217"
-    ]
+    ],
+    "nodeId": 89799383
    }
   },
   {
@@ -5130,7 +5448,8 @@
     "streets": [
      "Monnegan Court",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89784046
    }
   },
   {
@@ -5146,7 +5465,8 @@
     "streets": [
      "Crowley Lake Drive",
      "Rainbow Tarns Road"
-    ]
+    ],
+    "nodeId": 89799977
    }
   },
   {
@@ -5162,7 +5482,8 @@
     "streets": [
      "Summit Road",
      "Westridge Road"
-    ]
+    ],
+    "nodeId": 89800081
    }
   },
   {
@@ -5178,7 +5499,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 6",
      "Richardson Drive"
-    ]
+    ],
+    "nodeId": 89800094
    }
   },
   {
@@ -5194,7 +5516,8 @@
     "streets": [
      "Old Mammoth Road",
      "Tavern Road"
-    ]
+    ],
+    "nodeId": 89800494
    }
   },
   {
@@ -5210,7 +5533,8 @@
     "streets": [
      "Laurel Mountain Road",
      "Tavern Road"
-    ]
+    ],
+    "nodeId": 89800484
    }
   },
   {
@@ -5226,7 +5550,8 @@
     "streets": [
      "Inyo Road",
      "Tavern Road"
-    ]
+    ],
+    "nodeId": 12133958324
    }
   },
   {
@@ -5242,7 +5567,8 @@
     "streets": [
      "Shetler Drive",
      "Western Drive"
-    ]
+    ],
+    "nodeId": 89790282
    }
   },
   {
@@ -5258,7 +5584,8 @@
     "streets": [
      "Evergreen",
      "Old Mammoth Road"
-    ]
+    ],
+    "nodeId": 89800520
    }
   },
   {
@@ -5274,7 +5601,8 @@
     "streets": [
      "Obsidian Dome Road;NF 2S10",
      "Obsidian Loop Road;2S79"
-    ]
+    ],
+    "nodeId": 89809887
    }
   },
   {
@@ -5290,7 +5618,8 @@
     "streets": [
      "Mono Mills Road;CA 120",
      "Reichart Ranch Road"
-    ]
+    ],
+    "nodeId": 89768381
    }
   },
   {
@@ -5306,7 +5635,8 @@
     "streets": [
      "Cold Water Road",
      "White Mountain Drive"
-    ]
+    ],
+    "nodeId": 89800708
    }
   },
   {
@@ -5322,7 +5652,8 @@
     "streets": [
      "Cold Water Road",
      "Piute Lane"
-    ]
+    ],
+    "nodeId": 89800716
    }
   },
   {
@@ -5338,7 +5669,8 @@
     "streets": [
      "Parker Drive",
      "South Patterson Drive"
-    ]
+    ],
+    "nodeId": 89800815
    }
   },
   {
@@ -5354,7 +5686,8 @@
     "streets": [
      "South Patterson Drive",
      "Westwood Drive"
-    ]
+    ],
+    "nodeId": 89789700
    }
   },
   {
@@ -5371,7 +5704,8 @@
      "Lake Shore Drive",
      "North Patterson Drive",
      "South Patterson Drive"
-    ]
+    ],
+    "nodeId": 89592748
    }
   },
   {
@@ -5388,7 +5722,8 @@
      "1504",
      "Crooked Meadow Road",
      "Pilot Spring Road"
-    ]
+    ],
+    "nodeId": 89800817
    }
   },
   {
@@ -5404,7 +5739,8 @@
     "streets": [
      "1504",
      "Mono Mills Road;CA 120"
-    ]
+    ],
+    "nodeId": 89767100
    }
   },
   {
@@ -5420,7 +5756,8 @@
     "streets": [
      "Hackamore Place",
      "Kayak Road"
-    ]
+    ],
+    "nodeId": 89801322
    }
   },
   {
@@ -5437,7 +5774,8 @@
      "Arizona Street",
      "Steelhead Drive",
      "West Steelhead Drive"
-    ]
+    ],
+    "nodeId": 89801358
    }
   },
   {
@@ -5453,7 +5791,8 @@
     "streets": [
      "Castle Peak Road",
      "Mount Jackson Road"
-    ]
+    ],
+    "nodeId": 89801370
    }
   },
   {
@@ -5469,7 +5808,8 @@
     "streets": [
      "Castle Peak Road",
      "Potato Peak Road"
-    ]
+    ],
+    "nodeId": 8118831536
    }
   },
   {
@@ -5485,7 +5825,8 @@
     "streets": [
      "Meridian Boulevard",
      "Villa Vista Drive"
-    ]
+    ],
+    "nodeId": 1183086578
    }
   },
   {
@@ -5501,7 +5842,8 @@
     "streets": [
      "Holiday Vista Drive",
      "Villa Vista Drive"
-    ]
+    ],
+    "nodeId": 89801381
    }
   },
   {
@@ -5517,7 +5859,8 @@
     "streets": [
      "Brown Subdivision Road",
      "Grand Army of the Republic Highway;US 6"
-    ]
+    ],
+    "nodeId": 89801463
    }
   },
   {
@@ -5533,7 +5876,8 @@
     "streets": [
      "Aspen Lane",
      "Lakeview Boulevard"
-    ]
+    ],
+    "nodeId": 89801501
    }
   },
   {
@@ -5549,7 +5893,8 @@
     "streets": [
      "Crowley Lake Drive",
      "Gregory Lane"
-    ]
+    ],
+    "nodeId": 89801571
    }
   },
   {
@@ -5565,7 +5910,8 @@
     "streets": [
      "Gregory Circle",
      "Gregory Lane"
-    ]
+    ],
+    "nodeId": 8716057433
    }
   },
   {
@@ -5581,7 +5927,8 @@
     "streets": [
      "Forest Place",
      "Forest Trail"
-    ]
+    ],
+    "nodeId": 89801630
    }
   },
   {
@@ -5597,7 +5944,8 @@
     "streets": [
      "Bryant Street",
      "School Street"
-    ]
+    ],
+    "nodeId": 89801645
    }
   },
   {
@@ -5613,7 +5961,8 @@
     "streets": [
      "Buckeye Road;FR 32017",
      "Day Ranch Road"
-    ]
+    ],
+    "nodeId": 89691709
    }
   },
   {
@@ -5629,7 +5978,8 @@
     "streets": [
      "Foothill Road",
      "Swall Meadows Road"
-    ]
+    ],
+    "nodeId": 89801833
    }
   },
   {
@@ -5645,7 +5995,8 @@
     "streets": [
      "Meadow Road",
      "Swall Meadows Road"
-    ]
+    ],
+    "nodeId": 89801844
    }
   },
   {
@@ -5661,7 +6012,8 @@
     "streets": [
      "Orchard Road",
      "Swall Meadows Road"
-    ]
+    ],
+    "nodeId": 89714708
    }
   },
   {
@@ -5677,7 +6029,8 @@
     "streets": [
      "Swall Meadows Road",
      "Willow Road"
-    ]
+    ],
+    "nodeId": 89800575
    }
   },
   {
@@ -5693,7 +6046,8 @@
     "streets": [
      "Swall Meadows Road",
      "Wilson Road"
-    ]
+    ],
+    "nodeId": 89773588
    }
   },
   {
@@ -5709,7 +6063,8 @@
     "streets": [
      "Glacier Place",
      "Twin Lakes Road"
-    ]
+    ],
+    "nodeId": 89802181
    }
   },
   {
@@ -5725,7 +6080,8 @@
     "streets": [
      "Eagle Peak Drive",
      "Glacier Place"
-    ]
+    ],
+    "nodeId": 89802182
    }
   },
   {
@@ -5741,7 +6097,8 @@
     "streets": [
      "1556",
      "1N02"
-    ]
+    ],
+    "nodeId": 89802232
    }
   },
   {
@@ -5757,7 +6114,8 @@
     "streets": [
      "1556",
      "Crooked Meadow Road"
-    ]
+    ],
+    "nodeId": 89572343
    }
   },
   {
@@ -5773,7 +6131,8 @@
     "streets": [
      "Crowley Lake Drive",
      "Delta Drive"
-    ]
+    ],
+    "nodeId": 89802410
    }
   },
   {
@@ -5789,7 +6148,8 @@
     "streets": [
      "Delta Drive",
      "Placer Road"
-    ]
+    ],
+    "nodeId": 89802419
    }
   },
   {
@@ -5805,7 +6165,8 @@
     "streets": [
      "Paradise Point",
      "Westridge Road"
-    ]
+    ],
+    "nodeId": 89802537
    }
   },
   {
@@ -5821,7 +6182,8 @@
     "streets": [
      "Madera Street",
      "Sherwin Street"
-    ]
+    ],
+    "nodeId": 89802628
    }
   },
   {
@@ -5837,7 +6199,8 @@
     "streets": [
      "Aspen Drive",
      "Parker Drive"
-    ]
+    ],
+    "nodeId": 89802661
    }
   },
   {
@@ -5853,7 +6216,8 @@
     "streets": [
      "Benton Crossing Road",
      "Pit Road"
-    ]
+    ],
+    "nodeId": 89803259
    }
   },
   {
@@ -5869,7 +6233,8 @@
     "streets": [
      "Owens River Road",
      "Pit Road"
-    ]
+    ],
+    "nodeId": 89794699
    }
   },
   {
@@ -5885,7 +6250,8 @@
     "streets": [
      "Alpine Circle",
      "Rusty Lane"
-    ]
+    ],
+    "nodeId": 89803295
    }
   },
   {
@@ -5901,7 +6267,8 @@
     "streets": [
      "Forest Trail",
      "Rusty Lane"
-    ]
+    ],
+    "nodeId": 89803312
    }
   },
   {
@@ -5917,7 +6284,8 @@
     "streets": [
      "Main Street;US 395",
      "School Street"
-    ]
+    ],
+    "nodeId": 89779025
    }
   },
   {
@@ -5933,7 +6301,8 @@
     "streets": [
      "Emigrant Street",
      "School Street"
-    ]
+    ],
+    "nodeId": 89803319
    }
   },
   {
@@ -5949,7 +6318,8 @@
     "streets": [
      "Benton Crossing Road",
      "Casa Diablo Road"
-    ]
+    ],
+    "nodeId": 89803322
    }
   },
   {
@@ -5965,7 +6335,8 @@
     "streets": [
      "Casa Diablo Road",
      "Sheep Camp Road"
-    ]
+    ],
+    "nodeId": 89803396
    }
   },
   {
@@ -5981,7 +6352,8 @@
     "streets": [
      "Casa Diablo Mine Cutoff",
      "Casa Diablo Road"
-    ]
+    ],
+    "nodeId": 89617677
    }
   },
   {
@@ -5997,7 +6369,8 @@
     "streets": [
      "Mammoth Knolls Drive",
      "Sestriere Place"
-    ]
+    ],
+    "nodeId": 89804345
    }
   },
   {
@@ -6013,7 +6386,8 @@
     "streets": [
      "Lisa Lane",
      "Mary Lane"
-    ]
+    ],
+    "nodeId": 89805125
    }
   },
   {
@@ -6029,7 +6403,8 @@
     "streets": [
      "Hayes Street",
      "Kingsley Street"
-    ]
+    ],
+    "nodeId": 89805302
    }
   },
   {
@@ -6046,7 +6421,8 @@
      "Bridge Street",
      "Hayes Street",
      "Main Street;US 395"
-    ]
+    ],
+    "nodeId": 89778980
    }
   },
   {
@@ -6062,7 +6438,8 @@
     "streets": [
      "CA 266",
      "White Wolf Canyon Road"
-    ]
+    ],
+    "nodeId": 89802895
    }
   },
   {
@@ -6078,7 +6455,8 @@
     "streets": [
      "Hillside Court",
      "Hillside Drive"
-    ]
+    ],
+    "nodeId": 89805320
    }
   },
   {
@@ -6094,7 +6472,8 @@
     "streets": [
      "Jahan Drive",
      "Snowridge Lane"
-    ]
+    ],
+    "nodeId": 89805324
    }
   },
   {
@@ -6110,7 +6489,8 @@
     "streets": [
      "Azimuth Drive",
      "Meridian Boulevard"
-    ]
+    ],
+    "nodeId": 89805337
    }
   },
   {
@@ -6126,7 +6506,8 @@
     "streets": [
      "Dustin Lane",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89783834
    }
   },
   {
@@ -6142,7 +6523,8 @@
     "streets": [
      "Cornice",
      "Snowcreek Road"
-    ]
+    ],
+    "nodeId": 89805520
    }
   },
   {
@@ -6158,7 +6540,8 @@
     "streets": [
      "Sanctuary",
      "Snowcreek Road"
-    ]
+    ],
+    "nodeId": 89805522
    }
   },
   {
@@ -6174,7 +6557,8 @@
     "streets": [
      "Snowcreek Road",
      "Solitude"
-    ]
+    ],
+    "nodeId": 89805534
    }
   },
   {
@@ -6190,7 +6574,8 @@
     "streets": [
      "Snowcreek Road",
      "White Bark"
-    ]
+    ],
+    "nodeId": 3540617302
    }
   },
   {
@@ -6206,7 +6591,8 @@
     "streets": [
      "Glen Court",
      "Westridge Road"
-    ]
+    ],
+    "nodeId": 89805559
    }
   },
   {
@@ -6222,7 +6608,8 @@
     "streets": [
      "Kingsley Street",
      "Twin Lakes Road"
-    ]
+    ],
+    "nodeId": 89805565
    }
   },
   {
@@ -6238,7 +6625,8 @@
     "streets": [
      "Kingsley Street",
      "School Street"
-    ]
+    ],
+    "nodeId": 89803317
    }
   },
   {
@@ -6254,7 +6642,8 @@
     "streets": [
      "Kingsley Street",
      "Sinclair Street"
-    ]
+    ],
+    "nodeId": 89795061
    }
   },
   {
@@ -6270,7 +6659,8 @@
     "streets": [
      "Kingsley Street",
      "Laurel Avenue"
-    ]
+    ],
+    "nodeId": 89805569
    }
   },
   {
@@ -6286,7 +6676,8 @@
     "streets": [
      "Hixon Drive",
      "Pinenut Road"
-    ]
+    ],
+    "nodeId": 89805957
    }
   },
   {
@@ -6302,7 +6693,8 @@
     "streets": [
      "4th Street",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89780257
    }
   },
   {
@@ -6318,7 +6710,8 @@
     "streets": [
      "4th Street",
      "C Street"
-    ]
+    ],
+    "nodeId": 89806765
    }
   },
   {
@@ -6334,7 +6727,8 @@
     "streets": [
      "Chalfant Road",
      "Grand Army of the Republic Highway;US 6"
-    ]
+    ],
+    "nodeId": 89806781
    }
   },
   {
@@ -6350,7 +6744,8 @@
     "streets": [
      "Conway Road",
      "Goat Ranch Cutoff"
-    ]
+    ],
+    "nodeId": 89722246
    }
   },
   {
@@ -6366,7 +6761,8 @@
     "streets": [
      "Conway Road",
      "Wilson Creek Road"
-    ]
+    ],
+    "nodeId": 89806813
    }
   },
   {
@@ -6382,7 +6778,8 @@
     "streets": [
      "Camp Antelope Road",
      "Patricia Lane"
-    ]
+    ],
+    "nodeId": 89806872
    }
   },
   {
@@ -6398,7 +6795,8 @@
     "streets": [
      "Casa Diablo Mine Cutoff",
      "Owens Gorge Road"
-    ]
+    ],
+    "nodeId": 4806595816
    }
   },
   {
@@ -6414,7 +6812,8 @@
     "streets": [
      "Casa Diablo Mine Cutoff",
      "Round Mountain Road"
-    ]
+    ],
+    "nodeId": 89806966
    }
   },
   {
@@ -6430,7 +6829,8 @@
     "streets": [
      "Casa Diablo Mine Cutoff",
      "Sheep Camp Road"
-    ]
+    ],
+    "nodeId": 89807029
    }
   },
   {
@@ -6446,7 +6846,8 @@
     "streets": [
      "Aspen Drive",
      "Lake Shore Drive"
-    ]
+    ],
+    "nodeId": 89807470
    }
   },
   {
@@ -6462,7 +6863,8 @@
     "streets": [
      "Lake Shore Drive",
      "Westwood Drive"
-    ]
+    ],
+    "nodeId": 8218245303
    }
   },
   {
@@ -6478,7 +6880,8 @@
     "streets": [
      "Lake Shore Drive",
      "Twin Creek Drive"
-    ]
+    ],
+    "nodeId": 8040563666
    }
   },
   {
@@ -6494,7 +6897,8 @@
     "streets": [
      "Crest Drive",
      "Lake Shore Drive"
-    ]
+    ],
+    "nodeId": 89803252
    }
   },
   {
@@ -6510,7 +6914,8 @@
     "streets": [
      "Cattle Drive Road",
      "Yellow Jacket Road"
-    ]
+    ],
+    "nodeId": 89799431
    }
   },
   {
@@ -6526,7 +6931,8 @@
     "streets": [
      "Cattle Drive Road",
      "Mono Mills Road;CA 120"
-    ]
+    ],
+    "nodeId": 89767976
    }
   },
   {
@@ -6542,7 +6948,8 @@
     "streets": [
      "Crest Lane",
      "Ridgecrest Drive"
-    ]
+    ],
+    "nodeId": 89807606
    }
   },
   {
@@ -6558,7 +6965,8 @@
     "streets": [
      "Crystal Lane",
      "Ridgecrest Drive"
-    ]
+    ],
+    "nodeId": 89807627
    }
   },
   {
@@ -6574,7 +6982,8 @@
     "streets": [
      "Canyon Boulevard",
      "Ridgecrest Drive"
-    ]
+    ],
+    "nodeId": 89467206
    }
   },
   {
@@ -6591,7 +7000,8 @@
      "Court Street",
      "Milk Ranch Road",
      "Sweetwater Road;CA 182"
-    ]
+    ],
+    "nodeId": 89661277
    }
   },
   {
@@ -6607,7 +7017,8 @@
     "streets": [
      "Hackamore Place",
      "Spur Court"
-    ]
+    ],
+    "nodeId": 89807705
    }
   },
   {
@@ -6623,7 +7034,8 @@
     "streets": [
      "CA 182",
      "Sweet Water Road;CA 182"
-    ]
+    ],
+    "nodeId": 89747358
    }
   },
   {
@@ -6639,7 +7051,8 @@
     "streets": [
      "Tioga Road;CA 120",
      "Utility Road"
-    ]
+    ],
+    "nodeId": 89807827
    }
   },
   {
@@ -6655,7 +7068,8 @@
     "streets": [
      "Route 395;US 395",
      "Utility Road"
-    ]
+    ],
+    "nodeId": 89780281
    }
   },
   {
@@ -6671,7 +7085,8 @@
     "streets": [
      "Pinenut Circle",
      "Sagebrush Drive"
-    ]
+    ],
+    "nodeId": 89807903
    }
   },
   {
@@ -6687,7 +7102,8 @@
     "streets": [
      "Camp Antelope Road",
      "Eastside Lane"
-    ]
+    ],
+    "nodeId": 89808034
    }
   },
   {
@@ -6703,7 +7119,8 @@
     "streets": [
      "Eastside Lane",
      "Eastside Road"
-    ]
+    ],
+    "nodeId": 89808041
    }
   },
   {
@@ -6719,7 +7136,8 @@
     "streets": [
      "Eastside Lane",
      "Pinon Place"
-    ]
+    ],
+    "nodeId": 6453504863
    }
   },
   {
@@ -6735,7 +7153,8 @@
     "streets": [
      "Eastside Lane",
      "Topaz Lane"
-    ]
+    ],
+    "nodeId": 89807966
    }
   },
   {
@@ -6751,7 +7170,8 @@
     "streets": [
      "Pinecrest Avenue",
      "Sierra Boulevard"
-    ]
+    ],
+    "nodeId": 89808158
    }
   },
   {
@@ -6767,7 +7187,8 @@
     "streets": [
      "Rimrock Drive",
      "Valley View Road"
-    ]
+    ],
+    "nodeId": 89808617
    }
   },
   {
@@ -6783,7 +7204,8 @@
     "streets": [
      "Rimrock Drive",
      "Sierra Wave"
-    ]
+    ],
+    "nodeId": 2065715876
    }
   },
   {
@@ -6799,7 +7221,8 @@
     "streets": [
      "Pinon Drive",
      "Rimrock Drive"
-    ]
+    ],
+    "nodeId": 89808630
    }
   },
   {
@@ -6815,7 +7238,8 @@
     "streets": [
      "Cougar Run",
      "Rimrock Drive"
-    ]
+    ],
+    "nodeId": 4115093778
    }
   },
   {
@@ -6831,7 +7255,8 @@
     "streets": [
      "Dennis Way",
      "Westridge Road"
-    ]
+    ],
+    "nodeId": 89808634
    }
   },
   {
@@ -6847,7 +7272,8 @@
     "streets": [
      "Route 395;US 395",
      "Thompson Road"
-    ]
+    ],
+    "nodeId": 11295793607
    }
   },
   {
@@ -6863,7 +7289,8 @@
     "streets": [
      "Cemetery Road",
      "Thompson Road"
-    ]
+    ],
+    "nodeId": 8042701031
    }
   },
   {
@@ -6879,7 +7306,8 @@
     "streets": [
      "Oregon Street",
      "Steelhead Drive"
-    ]
+    ],
+    "nodeId": 89809248
    }
   },
   {
@@ -6895,7 +7323,8 @@
     "streets": [
      "Courchevel Court",
      "Grindelwald Road"
-    ]
+    ],
+    "nodeId": 89773554
    }
   },
   {
@@ -6911,7 +7340,8 @@
     "streets": [
      "Jahan Drive",
      "Lakeview Boulevard"
-    ]
+    ],
+    "nodeId": 89809541
    }
   },
   {
@@ -6927,7 +7357,8 @@
     "streets": [
      "June Lake Loop;CA 158",
      "Rainbow Street"
-    ]
+    ],
+    "nodeId": 89809560
    }
   },
   {
@@ -6943,7 +7374,8 @@
     "streets": [
      "Minaret Road",
      "Rainbow Street"
-    ]
+    ],
+    "nodeId": 89809577
    }
   },
   {
@@ -6959,7 +7391,8 @@
     "streets": [
      "Palisades Drive",
      "Rainbow Street"
-    ]
+    ],
+    "nodeId": 89791076
    }
   },
   {
@@ -6975,7 +7408,8 @@
     "streets": [
      "Old Mammoth Road",
      "Timber Creek"
-    ]
+    ],
+    "nodeId": 89809586
    }
   },
   {
@@ -6991,7 +7425,8 @@
     "streets": [
      "Timber Creek",
      "Trout Creek Place"
-    ]
+    ],
+    "nodeId": 3472659766
    }
   },
   {
@@ -7007,7 +7442,8 @@
     "streets": [
      "Timber Creek",
      "Trout Creek Court"
-    ]
+    ],
+    "nodeId": 3694074047
    }
   },
   {
@@ -7023,7 +7459,8 @@
     "streets": [
      "Clear Creek",
      "Timber Creek"
-    ]
+    ],
+    "nodeId": 3472659763
    }
   },
   {
@@ -7039,7 +7476,8 @@
     "streets": [
      "Boulder Creek Road",
      "Timber Creek"
-    ]
+    ],
+    "nodeId": 3472659758
    }
   },
   {
@@ -7055,7 +7493,8 @@
     "streets": [
      "Dawson Ranch Road",
      "Grand Army of the Republic Highway;US 6"
-    ]
+    ],
+    "nodeId": 89808334
    }
   },
   {
@@ -7071,7 +7510,8 @@
     "streets": [
      "Garnet Street",
      "June Street"
-    ]
+    ],
+    "nodeId": 89809667
    }
   },
   {
@@ -7087,7 +7527,8 @@
     "streets": [
      "3rd Street",
      "C Street"
-    ]
+    ],
+    "nodeId": 89809725
    }
   },
   {
@@ -7103,7 +7544,8 @@
     "streets": [
      "North Valley View Drive",
      "Sky Meadow Road"
-    ]
+    ],
+    "nodeId": 89809770
    }
   },
   {
@@ -7119,7 +7561,8 @@
     "streets": [
      "Ranch Road",
      "Woodcrest Trail"
-    ]
+    ],
+    "nodeId": 89809836
    }
   },
   {
@@ -7135,7 +7578,8 @@
     "streets": [
      "Hidden Lake Circle",
      "Woodcrest Trail"
-    ]
+    ],
+    "nodeId": 6131540770
    }
   },
   {
@@ -7151,7 +7595,8 @@
     "streets": [
      "Sunny Slopes Road",
      "Wogani Road"
-    ]
+    ],
+    "nodeId": 89809871
    }
   },
   {
@@ -7167,7 +7612,8 @@
     "streets": [
      "Owens Gorge Road",
      "Sunny Slopes Road"
-    ]
+    ],
+    "nodeId": 89809882
    }
   },
   {
@@ -7183,7 +7629,8 @@
     "streets": [
      "Appleton Road",
      "Crowley Lake Drive"
-    ]
+    ],
+    "nodeId": 89809952
    }
   },
   {
@@ -7199,7 +7646,8 @@
     "streets": [
      "Cottonwood Canyon Road",
      "Pole Line Road;CA 167"
-    ]
+    ],
+    "nodeId": 89810614
    }
   },
   {
@@ -7215,7 +7663,8 @@
     "streets": [
      "Cottonwood Canyon Road",
      "Goat Ranch Cutoff"
-    ]
+    ],
+    "nodeId": 8121210488
    }
   },
   {
@@ -7231,7 +7680,8 @@
     "streets": [
      "Hot Creek Hatchery Road",
      "Whitmore Tubs Road"
-    ]
+    ],
+    "nodeId": 89810645
    }
   },
   {
@@ -7247,7 +7697,8 @@
     "streets": [
      "Benton Crossing Road",
      "Whitmore Tubs Road"
-    ]
+    ],
+    "nodeId": 9330928475
    }
   },
   {
@@ -7263,7 +7714,8 @@
     "streets": [
      "Grindelwald Road",
      "Megeve Way"
-    ]
+    ],
+    "nodeId": 89810782
    }
   },
   {
@@ -7279,7 +7731,8 @@
     "streets": [
      "Roberts Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89784190
    }
   },
   {
@@ -7295,7 +7748,8 @@
     "streets": [
      "Picnic Grounds Road",
      "Test Station Road"
-    ]
+    ],
+    "nodeId": 89466815
    }
   },
   {
@@ -7311,7 +7765,8 @@
     "streets": [
      "Hub Circle",
      "Wagon Wheel Road"
-    ]
+    ],
+    "nodeId": 89465736
    }
   },
   {
@@ -7327,7 +7782,8 @@
     "streets": [
      "Granite Avenue",
      "Howard Avenue"
-    ]
+    ],
+    "nodeId": 89811579
    }
   },
   {
@@ -7343,7 +7799,8 @@
     "streets": [
      "Kiba Way",
      "Sagebrush Drive"
-    ]
+    ],
+    "nodeId": 89811597
    }
   },
   {
@@ -7359,7 +7816,8 @@
     "streets": [
      "Deer Peak Trail",
      "Eagle Vista"
-    ]
+    ],
+    "nodeId": 89811675
    }
   },
   {
@@ -7375,7 +7833,8 @@
     "streets": [
      "Juniper Road",
      "Lake Mary Road"
-    ]
+    ],
+    "nodeId": 89812123
    }
   },
   {
@@ -7391,7 +7850,8 @@
     "streets": [
      "Lakeview Boulevard",
      "Lakeview Road"
-    ]
+    ],
+    "nodeId": 89812279
    }
   },
   {
@@ -7407,7 +7867,8 @@
     "streets": [
      "Lake Mary Road",
      "Lakeview Road"
-    ]
+    ],
+    "nodeId": 89812170
    }
   },
   {
@@ -7423,7 +7884,8 @@
     "streets": [
      "Davos Court",
      "Grindelwald Road"
-    ]
+    ],
+    "nodeId": 89824882
    }
   },
   {
@@ -7439,7 +7901,8 @@
     "streets": [
      "Hidden Valley Condiminium Road",
      "Lake Mary Road"
-    ]
+    ],
+    "nodeId": 89812192
    }
   },
   {
@@ -7455,7 +7918,8 @@
     "streets": [
      "Easy Street",
      "Virginia Lakes Road"
-    ]
+    ],
+    "nodeId": 89471638
    }
   },
   {
@@ -7471,7 +7935,8 @@
     "streets": [
      "Main Street;CA 203",
      "Manzanita Road"
-    ]
+    ],
+    "nodeId": 89813979
    }
   },
   {
@@ -7487,7 +7952,8 @@
     "streets": [
      "Cemetery Road",
      "Pole Line Road;CA 167"
-    ]
+    ],
+    "nodeId": 89814153
    }
   },
   {
@@ -7503,7 +7969,8 @@
     "streets": [
      "Aurora Canyon Road",
      "Cemetery Road"
-    ]
+    ],
+    "nodeId": 89814191
    }
   },
   {
@@ -7519,7 +7986,8 @@
     "streets": [
      "Cemetery Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89782722
    }
   },
   {
@@ -7535,7 +8003,8 @@
     "streets": [
      "Cemetery Road",
      "Mono Inn Drive"
-    ]
+    ],
+    "nodeId": 89494667
    }
   },
   {
@@ -7551,7 +8020,8 @@
     "streets": [
      "Kelly Road",
      "Tyrol Lane"
-    ]
+    ],
+    "nodeId": 89814388
    }
   },
   {
@@ -7567,7 +8037,8 @@
     "streets": [
      "Airport Road",
      "Pumice Road"
-    ]
+    ],
+    "nodeId": 89814393
    }
   },
   {
@@ -7585,7 +8056,8 @@
      " Pumice",
      "Airport Road",
      "SCE "
-    ]
+    ],
+    "nodeId": 89814415
    }
   },
   {
@@ -7601,7 +8073,8 @@
     "streets": [
      "Airport Road",
      "Hot Creek Hatchery Road"
-    ]
+    ],
+    "nodeId": 89814639
    }
   },
   {
@@ -7618,7 +8091,8 @@
      "El Camino Sierra;US 395",
      "Owens Gorge Road",
      "Rock Creek Road"
-    ]
+    ],
+    "nodeId": 89784908
    }
   },
   {
@@ -7634,7 +8108,8 @@
     "streets": [
      "Owens Gorge Road",
      "Tuff Campground Road;FR 04S11"
-    ]
+    ],
+    "nodeId": 89815654
    }
   },
   {
@@ -7650,7 +8125,8 @@
     "streets": [
      "Bishop Tuff Scenic Loop Road;FR 04S38",
      "Owens Gorge Road"
-    ]
+    ],
+    "nodeId": 3982343804
    }
   },
   {
@@ -7666,7 +8142,8 @@
     "streets": [
      "Dry Trail;NFR 04S115-2",
      "Owens Gorge Road"
-    ]
+    ],
+    "nodeId": 89815784
    }
   },
   {
@@ -7682,7 +8159,8 @@
     "streets": [
      "Mono Inn Drive",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89779117
    }
   },
   {
@@ -7699,7 +8177,8 @@
      "Dave McCoy Memorial Highway",
      "Dave McCoy Memorial Highway;US 395",
      "Hot Creek Hatchery Road"
-    ]
+    ],
+    "nodeId": 89508998
    }
   },
   {
@@ -7715,7 +8194,8 @@
     "streets": [
      "Meridian Boulevard",
      "Wagon Wheel Road"
-    ]
+    ],
+    "nodeId": 89465764
    }
   },
   {
@@ -7731,7 +8211,8 @@
     "streets": [
      "Fir Street",
      "Old Mammoth Road"
-    ]
+    ],
+    "nodeId": 1052711609
    }
   },
   {
@@ -7747,7 +8228,8 @@
     "streets": [
      "Old Mammoth Road",
      "Sherwin Street"
-    ]
+    ],
+    "nodeId": 3169083168
    }
   },
   {
@@ -7763,7 +8245,8 @@
     "streets": [
      "Old Mammoth Road",
      "Tamarack Street"
-    ]
+    ],
+    "nodeId": 89817087
    }
   },
   {
@@ -7779,7 +8262,8 @@
     "streets": [
      "Cinnamon Ranch Road",
      "Hammil Road"
-    ]
+    ],
+    "nodeId": 89831301
    }
   },
   {
@@ -7796,7 +8280,8 @@
      "Emigrant Street",
      "Main Street;US 395",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 1895244500
    }
   },
   {
@@ -7812,7 +8297,8 @@
     "streets": [
      "Aspen Drive",
      "Rickey Drive"
-    ]
+    ],
+    "nodeId": 89817572
    }
   },
   {
@@ -7828,7 +8314,8 @@
     "streets": [
      "Pine Hurst Road",
      "Sugar Pine Drive"
-    ]
+    ],
+    "nodeId": 89776378
    }
   },
   {
@@ -7844,7 +8331,8 @@
     "streets": [
      "Majestic Pines Drive",
      "Pine Hurst Road"
-    ]
+    ],
+    "nodeId": 89794073
    }
   },
   {
@@ -7860,7 +8348,8 @@
     "streets": [
      "Alderman Street",
      "Knoll Avenue"
-    ]
+    ],
+    "nodeId": 89817816
    }
   },
   {
@@ -7876,7 +8365,8 @@
     "streets": [
      "Alderman Street",
      "Foster Avenue"
-    ]
+    ],
+    "nodeId": 89817822
    }
   },
   {
@@ -7892,7 +8382,8 @@
     "streets": [
      "Alderman Street",
      "Crawford Avenue"
-    ]
+    ],
+    "nodeId": 89817823
    }
   },
   {
@@ -7908,7 +8399,8 @@
     "streets": [
      "Alderman Street",
      "Granite Avenue"
-    ]
+    ],
+    "nodeId": 89817824
    }
   },
   {
@@ -7924,7 +8416,8 @@
     "streets": [
      "Crest Lane",
      "Forest Trail"
-    ]
+    ],
+    "nodeId": 89818077
    }
   },
   {
@@ -7940,7 +8433,8 @@
     "streets": [
      "Goolsby Ranch Road",
      "Grand Army of the Republic Highway;US 6"
-    ]
+    ],
+    "nodeId": 89808188
    }
   },
   {
@@ -7956,7 +8450,8 @@
     "streets": [
      "Mountain Boulevard",
      "Sierra Boulevard"
-    ]
+    ],
+    "nodeId": 89818380
    }
   },
   {
@@ -7972,7 +8467,8 @@
     "streets": [
      "Alpine Circle",
      "Mountain Boulevard"
-    ]
+    ],
+    "nodeId": 89818393
    }
   },
   {
@@ -7988,7 +8484,8 @@
     "streets": [
      "Hillside Drive",
      "Hillside Place"
-    ]
+    ],
+    "nodeId": 89818575
    }
   },
   {
@@ -8004,7 +8501,8 @@
     "streets": [
      "Cargill Drive",
      "Twin Lakes Road"
-    ]
+    ],
+    "nodeId": 89818723
    }
   },
   {
@@ -8020,7 +8518,8 @@
     "streets": [
      "Eagle Peak Drive",
      "Twin Lakes Road"
-    ]
+    ],
+    "nodeId": 89818733
    }
   },
   {
@@ -8036,7 +8535,8 @@
     "streets": [
      "North Patterson Drive",
      "Twin Lakes Road"
-    ]
+    ],
+    "nodeId": 89818737
    }
   },
   {
@@ -8052,7 +8552,8 @@
     "streets": [
      "South Twin Road",
      "Twin Lakes Road"
-    ]
+    ],
+    "nodeId": 89818863
    }
   },
   {
@@ -8068,7 +8569,8 @@
     "streets": [
      "Canyon Boulevard",
      "Crystal Lane"
-    ]
+    ],
+    "nodeId": 89467226
    }
   },
   {
@@ -8084,7 +8586,8 @@
     "streets": [
      "Canyon Boulevard",
      "Mammoth Slopes Drive"
-    ]
+    ],
+    "nodeId": 89467190
    }
   },
   {
@@ -8100,7 +8603,8 @@
     "streets": [
      "Mammoth Slopes Drive",
      "Mammoth Slopes Way"
-    ]
+    ],
+    "nodeId": 89478620
    }
   },
   {
@@ -8116,7 +8620,8 @@
     "streets": [
      "Lakeview Boulevard",
      "Mammoth Slopes Drive"
-    ]
+    ],
+    "nodeId": 89820074
    }
   },
   {
@@ -8132,7 +8637,8 @@
     "streets": [
      "Mammoth Slopes Drive",
      "Top of the Slopes Court"
-    ]
+    ],
+    "nodeId": 89820082
    }
   },
   {
@@ -8148,7 +8654,8 @@
     "streets": [
      "Mammoth Slopes Drive",
      "Rainbow Lane"
-    ]
+    ],
+    "nodeId": 89820088
    }
   },
   {
@@ -8164,7 +8671,8 @@
     "streets": [
      "Mountain Vista Drive",
      "Northshore Drive"
-    ]
+    ],
+    "nodeId": 269918777
    }
   },
   {
@@ -8180,7 +8688,8 @@
     "streets": [
      "Garmisch Place",
      "Saint Mortiz Road"
-    ]
+    ],
+    "nodeId": 89776271
    }
   },
   {
@@ -8196,7 +8705,8 @@
     "streets": [
      "Mammoth Knolls Drive",
      "Saint Mortiz Road"
-    ]
+    ],
+    "nodeId": 89776295
    }
   },
   {
@@ -8212,7 +8722,8 @@
     "streets": [
      "Mono Mills Road;CA 120",
      "Sage Hen Meadows Road"
-    ]
+    ],
+    "nodeId": 89767172
    }
   },
   {
@@ -8228,7 +8739,8 @@
     "streets": [
      "1N02",
      "Sage Hen Meadows Road"
-    ]
+    ],
+    "nodeId": 89537151
    }
   },
   {
@@ -8244,7 +8756,8 @@
     "streets": [
      "Forest Trail",
      "Main Street;CA 203"
-    ]
+    ],
+    "nodeId": 89493540
    }
   },
   {
@@ -8260,7 +8773,8 @@
     "streets": [
      "Forest Trail",
      "Sierra Boulevard"
-    ]
+    ],
+    "nodeId": 89821056
    }
   },
   {
@@ -8276,7 +8790,8 @@
     "streets": [
      "Forest Trail",
      "Knob Hill Lane"
-    ]
+    ],
+    "nodeId": 89821060
    }
   },
   {
@@ -8292,7 +8807,8 @@
     "streets": [
      "Forest Trail",
      "Grindelwald Road"
-    ]
+    ],
+    "nodeId": 89821064
    }
   },
   {
@@ -8308,7 +8824,8 @@
     "streets": [
      "Berner Street",
      "Forest Trail"
-    ]
+    ],
+    "nodeId": 4430056829
    }
   },
   {
@@ -8324,7 +8841,8 @@
     "streets": [
      "Forest Trail",
      "Minaret Road;CA 203"
-    ]
+    ],
+    "nodeId": 89787820
    }
   },
   {
@@ -8340,7 +8858,8 @@
     "streets": [
      "Aspen Terrace",
      "Crowley Lake Drive"
-    ]
+    ],
+    "nodeId": 89821484
    }
   },
   {
@@ -8356,7 +8875,8 @@
     "streets": [
      "Aspen Place",
      "Aspen Terrace"
-    ]
+    ],
+    "nodeId": 89821507
    }
   },
   {
@@ -8374,7 +8894,8 @@
      "Main Street;CA 203",
      "Minaret Road",
      "Minaret Road;CA 203"
-    ]
+    ],
+    "nodeId": 89787709
    }
   },
   {
@@ -8390,7 +8911,8 @@
     "streets": [
      "Main Street;CA 203",
      "Sierra Boulevard"
-    ]
+    ],
+    "nodeId": 89821536
    }
   },
   {
@@ -8406,7 +8928,8 @@
     "streets": [
      "Kelly Road",
      "Lake Mary Road"
-    ]
+    ],
+    "nodeId": 89812165
    }
   },
   {
@@ -8422,7 +8945,8 @@
     "streets": [
      "Kelly Road",
      "Silver Tip Lane"
-    ]
+    ],
+    "nodeId": 89800964
    }
   },
   {
@@ -8438,7 +8962,8 @@
     "streets": [
      "East Mono Lake Drive",
      "Pole Line Road;CA 167"
-    ]
+    ],
+    "nodeId": 89483780
    }
   },
   {
@@ -8454,7 +8979,8 @@
     "streets": [
      "Blue Lake Way",
      "East Mono Lake Drive"
-    ]
+    ],
+    "nodeId": 89821840
    }
   },
   {
@@ -8470,7 +8996,8 @@
     "streets": [
      "Crawford Avenue",
      "Knoll Avenue"
-    ]
+    ],
+    "nodeId": 89471528
    }
   },
   {
@@ -8486,7 +9013,8 @@
     "streets": [
      "Boulder Drive;CA 158",
      "Knoll Avenue"
-    ]
+    ],
+    "nodeId": 89822192
    }
   },
   {
@@ -8502,7 +9030,8 @@
     "streets": [
      "CA 266",
      "Power Line Road"
-    ]
+    ],
+    "nodeId": 6315193807
    }
   },
   {
@@ -8518,7 +9047,8 @@
     "streets": [
      "Valley View Road",
      "Wilson Road"
-    ]
+    ],
+    "nodeId": 89773580
    }
   },
   {
@@ -8534,7 +9064,8 @@
     "streets": [
      "Mono Mills Road;CA 120",
      "Sand Flat Cutoff"
-    ]
+    ],
+    "nodeId": 89767015
    }
   },
   {
@@ -8550,7 +9081,8 @@
     "streets": [
      "Bald Mountain Road",
      "Sand Flat Cutoff"
-    ]
+    ],
+    "nodeId": 89763308
    }
   },
   {
@@ -8566,7 +9098,8 @@
     "streets": [
      "Jessie Street",
      "Mono Drive"
-    ]
+    ],
+    "nodeId": 89823379
    }
   },
   {
@@ -8582,7 +9115,8 @@
     "streets": [
      "Majestic Pines Drive",
      "Pineknoll Place"
-    ]
+    ],
+    "nodeId": 89794060
    }
   },
   {
@@ -8598,7 +9132,8 @@
     "streets": [
      "Dawson Ranch Road",
      "Indian Creek Road"
-    ]
+    ],
+    "nodeId": 89809641
    }
   },
   {
@@ -8614,7 +9149,8 @@
     "streets": [
      "Davison",
      "Lake Mary Road"
-    ]
+    ],
+    "nodeId": 89812163
    }
   },
   {
@@ -8631,7 +9167,8 @@
      "Davison",
      "Lakeview Boulevard",
      "Rainbow Lane"
-    ]
+    ],
+    "nodeId": 89823471
    }
   },
   {
@@ -8647,7 +9184,8 @@
     "streets": [
      "Mount Jackson Road",
      "Potato Peak Road"
-    ]
+    ],
+    "nodeId": 89789764
    }
   },
   {
@@ -8663,7 +9201,8 @@
     "streets": [
      "Eagle Peak Road",
      "Mount Jackson Road"
-    ]
+    ],
+    "nodeId": 89823476
    }
   },
   {
@@ -8679,7 +9218,8 @@
     "streets": [
      "Mount Jackson Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89780105
    }
   },
   {
@@ -8695,7 +9235,8 @@
     "streets": [
      "Gull Lake Campground Road",
      "June Lake Loop;CA 158"
-    ]
+    ],
+    "nodeId": 89831049
    }
   },
   {
@@ -8711,7 +9252,8 @@
     "streets": [
      "Grindelwald Road",
      "Mammoth Knolls Drive"
-    ]
+    ],
+    "nodeId": 6438965227
    }
   },
   {
@@ -8727,7 +9269,8 @@
     "streets": [
      "Grindelwald Road",
      "Kitzbuhel Place"
-    ]
+    ],
+    "nodeId": 89809253
    }
   },
   {
@@ -8743,7 +9286,8 @@
     "streets": [
      "Holiday Vista Drive",
      "Majestic Pines Drive"
-    ]
+    ],
+    "nodeId": 89639690
    }
   },
   {
@@ -8759,7 +9303,8 @@
     "streets": [
      "Rainbow Lane",
      "Rainbow Place"
-    ]
+    ],
+    "nodeId": 89797934
    }
   },
   {
@@ -8775,7 +9320,8 @@
     "streets": [
      "Forest Trail",
      "Rainbow Lane"
-    ]
+    ],
+    "nodeId": 89821163
    }
   },
   {
@@ -8791,7 +9337,8 @@
     "streets": [
      "Cameron Drive",
      "Sierra View Drive"
-    ]
+    ],
+    "nodeId": 89660985
    }
   },
   {
@@ -8807,7 +9354,8 @@
     "streets": [
      "Garnet Street",
      "Summit Street"
-    ]
+    ],
+    "nodeId": 89825623
    }
   },
   {
@@ -8823,7 +9371,8 @@
     "streets": [
      "Alpine Circle",
      "Mala Ulice"
-    ]
+    ],
+    "nodeId": 89802174
    }
   },
   {
@@ -8839,7 +9388,8 @@
     "streets": [
      "Alpine Circle",
      "Berner Street"
-    ]
+    ],
+    "nodeId": 89825774
    }
   },
   {
@@ -8855,7 +9405,8 @@
     "streets": [
      "Alexander Lane",
      "Owen Street"
-    ]
+    ],
+    "nodeId": 89825793
    }
   },
   {
@@ -8872,7 +9423,8 @@
      "Meadow Creek",
      "North Street",
      "Sherwin Street"
-    ]
+    ],
+    "nodeId": 89825813
    }
   },
   {
@@ -8888,7 +9440,8 @@
     "streets": [
      "Beaver Lane",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89780246
    }
   },
   {
@@ -8904,7 +9457,8 @@
     "streets": [
      "Benton Crossing Road",
      "Deer Spring Road"
-    ]
+    ],
+    "nodeId": 89640660
    }
   },
   {
@@ -8920,7 +9474,8 @@
     "streets": [
      "Aspen Road",
      "Pine Crest Avenue"
-    ]
+    ],
+    "nodeId": 89826134
    }
   },
   {
@@ -8936,7 +9491,8 @@
     "streets": [
      "Aspen Road",
      "Willow Avenue"
-    ]
+    ],
+    "nodeId": 7576335464
    }
   },
   {
@@ -8952,7 +9508,8 @@
     "streets": [
      "Aspen Road",
      "June Lake Loop;CA 158"
-    ]
+    ],
+    "nodeId": 89826167
    }
   },
   {
@@ -8968,7 +9525,8 @@
     "streets": [
      "Boulder Drive;CA 158",
      "Gull Lake Road"
-    ]
+    ],
+    "nodeId": 539331952
    }
   },
   {
@@ -8984,7 +9542,8 @@
     "streets": [
      "Cherokee Lane",
      "Gull Lake Road"
-    ]
+    ],
+    "nodeId": 3031065036
    }
   },
   {
@@ -9000,7 +9559,8 @@
     "streets": [
      "Granite Avenue",
      "Gull Lake Road"
-    ]
+    ],
+    "nodeId": 3031065035
    }
   },
   {
@@ -9016,7 +9576,8 @@
     "streets": [
      "Juniper Court",
      "Juniper Road"
-    ]
+    ],
+    "nodeId": 89826332
    }
   },
   {
@@ -9032,7 +9593,8 @@
     "streets": [
      "Mammoth Knolls Drive",
      "Minaret Road;CA 203"
-    ]
+    ],
+    "nodeId": 89787843
    }
   },
   {
@@ -9048,7 +9610,8 @@
     "streets": [
      "Hillside Drive",
      "Lakeview Boulevard"
-    ]
+    ],
+    "nodeId": 89826623
    }
   },
   {
@@ -9064,7 +9627,8 @@
     "streets": [
      "Trails End Road",
      "Wagon Wheel Road"
-    ]
+    ],
+    "nodeId": 89465695
    }
   },
   {
@@ -9080,7 +9644,8 @@
     "streets": [
      "Aurora Canyon Road",
      "Sagebrush Drive"
-    ]
+    ],
+    "nodeId": 89826746
    }
   },
   {
@@ -9096,7 +9661,8 @@
     "streets": [
      "Aurora Canyon Road",
      "Sweetwater Road;CA 182"
-    ]
+    ],
+    "nodeId": 89825089
    }
   },
   {
@@ -9113,7 +9679,8 @@
      "Aurora Canyon Road",
      "North Tamarack Drive",
      "South Tamarack"
-    ]
+    ],
+    "nodeId": 89502525
    }
   },
   {
@@ -9129,7 +9696,8 @@
     "streets": [
      "Aurora Canyon Road",
      "North Buckeye Drive"
-    ]
+    ],
+    "nodeId": 89789754
    }
   },
   {
@@ -9145,7 +9713,8 @@
     "streets": [
      "Fish Slough Road",
      "Hieroglyph Road"
-    ]
+    ],
+    "nodeId": 8268158175
    }
   },
   {
@@ -9161,7 +9730,8 @@
     "streets": [
      "Fish Slough Road",
      "Van Loon Cutoff"
-    ]
+    ],
+    "nodeId": 8918644223
    }
   },
   {
@@ -9177,7 +9747,8 @@
     "streets": [
      "Black Rock Mine Road",
      "Fish Slough Road"
-    ]
+    ],
+    "nodeId": 89827982
    }
   },
   {
@@ -9193,7 +9764,8 @@
     "streets": [
      "Black Rock Mine Road",
      "Rabbitt Ranch Road"
-    ]
+    ],
+    "nodeId": 89828015
    }
   },
   {
@@ -9209,7 +9781,8 @@
     "streets": [
      "Rabbitt Ranch Road",
      "Yellow Jacket Road"
-    ]
+    ],
+    "nodeId": 89799650
    }
   },
   {
@@ -9225,7 +9798,8 @@
     "streets": [
      "Ponderosa Street",
      "Tungsten Road"
-    ]
+    ],
+    "nodeId": 89570261
    }
   },
   {
@@ -9241,7 +9815,8 @@
     "streets": [
      "Joe Main Road",
      "Yellow Jacket Road"
-    ]
+    ],
+    "nodeId": 89799605
    }
   },
   {
@@ -9257,7 +9832,8 @@
     "streets": [
      "Black Rock Mine Road",
      "Joe Main Road"
-    ]
+    ],
+    "nodeId": 89829057
    }
   },
   {
@@ -9273,7 +9849,8 @@
     "streets": [
      "Charley Day Drive",
      "North Patterson Drive"
-    ]
+    ],
+    "nodeId": 89483006
    }
   },
   {
@@ -9289,7 +9866,8 @@
     "streets": [
      "Mohawk Street",
      "Wyoming Street"
-    ]
+    ],
+    "nodeId": 89829110
    }
   },
   {
@@ -9305,7 +9883,8 @@
     "streets": [
      "Hackamore Place",
      "Twin Lakes Road"
-    ]
+    ],
+    "nodeId": 89818972
    }
   },
   {
@@ -9321,7 +9900,8 @@
     "streets": [
      "Sacramento Street",
      "White Mountain Drive"
-    ]
+    ],
+    "nodeId": 89664463
    }
   },
   {
@@ -9337,7 +9917,8 @@
     "streets": [
      "Benton Crossing Road",
      "Owens Gorge Road"
-    ]
+    ],
+    "nodeId": 89573024
    }
   },
   {
@@ -9353,7 +9934,8 @@
     "streets": [
      "Jessie Street",
      "Palisades Drive"
-    ]
+    ],
+    "nodeId": 89791079
    }
   },
   {
@@ -9369,7 +9951,8 @@
     "streets": [
      "Jessie Street",
      "Piute Drive"
-    ]
+    ],
+    "nodeId": 89831293
    }
   },
   {
@@ -9386,7 +9969,8 @@
      "Black Rock Mine Road",
      "Cinnamon Ranch Road",
      "Grand Army of the Republic Highway;US 6"
-    ]
+    ],
+    "nodeId": 89808314
    }
   },
   {
@@ -9402,7 +9986,8 @@
     "streets": [
      "1516",
      "1590"
-    ]
+    ],
+    "nodeId": 89617939
    }
   },
   {
@@ -9418,7 +10003,8 @@
     "streets": [
      "1516",
      "Mono Mills Road;CA 120"
-    ]
+    ],
+    "nodeId": 89767720
    }
   },
   {
@@ -9434,7 +10020,8 @@
     "streets": [
      "Pinyon Hill Road",
      "Wogani Road"
-    ]
+    ],
+    "nodeId": 89832248
    }
   },
   {
@@ -9450,7 +10037,8 @@
     "streets": [
      "Pinon Drive",
      "Quail Circle"
-    ]
+    ],
+    "nodeId": 7549324137
    }
   },
   {
@@ -9466,7 +10054,8 @@
     "streets": [
      "1590",
      "Crooked Meadow Road"
-    ]
+    ],
+    "nodeId": 89833968
    }
   },
   {
@@ -9482,7 +10071,8 @@
     "streets": [
      "Boundary Road",
      "Cow Camp Road"
-    ]
+    ],
+    "nodeId": 89801011
    }
   },
   {
@@ -9498,7 +10088,8 @@
     "streets": [
      "Summit Drive",
      "Tip Top Lane"
-    ]
+    ],
+    "nodeId": 89834992
    }
   },
   {
@@ -9515,7 +10106,8 @@
      "Summit Drive",
      "Tamarack Lane",
      "Tip Top Lane"
-    ]
+    ],
+    "nodeId": 4023042324
    }
   },
   {
@@ -9531,7 +10123,8 @@
     "streets": [
      "Conway Ranch Road",
      "Goat Ranch Cutoff"
-    ]
+    ],
+    "nodeId": 89489385
    }
   },
   {
@@ -9547,7 +10140,8 @@
     "streets": [
      "Goat Ranch Cutoff",
      "Pole Line Road;CA 167"
-    ]
+    ],
+    "nodeId": 89825860
    }
   },
   {
@@ -9563,7 +10157,8 @@
     "streets": [
      "Forest Lane",
      "Forest Trail"
-    ]
+    ],
+    "nodeId": 89821141
    }
   },
   {
@@ -9579,7 +10174,8 @@
     "streets": [
      "Commerce Circle",
      "Commerce Drive"
-    ]
+    ],
+    "nodeId": 89836253
    }
   },
   {
@@ -9595,7 +10191,8 @@
     "streets": [
      "Round Mountain Road",
      "Sheep Camp Road"
-    ]
+    ],
+    "nodeId": 89836291
    }
   },
   {
@@ -9611,7 +10208,8 @@
     "streets": [
      "Owens Gorge Road",
      "Sheep Camp Road"
-    ]
+    ],
+    "nodeId": 89815369
    }
   },
   {
@@ -9627,7 +10225,8 @@
     "streets": [
      "CA 89",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89784182
    }
   },
   {
@@ -9643,7 +10242,8 @@
     "streets": [
      "Crawford Avenue",
      "Raymond Avenue"
-    ]
+    ],
+    "nodeId": 89837678
    }
   },
   {
@@ -9659,7 +10259,8 @@
     "streets": [
      "Crawford Avenue",
      "Foster Avenue"
-    ]
+    ],
+    "nodeId": 89837679
    }
   },
   {
@@ -9675,7 +10276,8 @@
     "streets": [
      "Fairway Circle",
      "Fairway Drive"
-    ]
+    ],
+    "nodeId": 89818566
    }
   },
   {
@@ -9691,7 +10293,8 @@
     "streets": [
      "Azimuth Drive",
      "Chateau Road"
-    ]
+    ],
+    "nodeId": 10769700331
    }
   },
   {
@@ -9707,7 +10310,8 @@
     "streets": [
      "Chateau Road",
      "Old Mammoth Road"
-    ]
+    ],
+    "nodeId": 89817194
    }
   },
   {
@@ -9723,7 +10327,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 6",
      "Sipes Ranch Road"
-    ]
+    ],
+    "nodeId": 89808561
    }
   },
   {
@@ -9739,7 +10344,8 @@
     "streets": [
      "Buckeye Drive",
      "Eagle Peak Drive"
-    ]
+    ],
+    "nodeId": 89838637
    }
   },
   {
@@ -9755,7 +10361,8 @@
     "streets": [
      "Hillside Drive",
      "June Lake Loop;CA 158"
-    ]
+    ],
+    "nodeId": 89838771
    }
   },
   {
@@ -9771,7 +10378,8 @@
     "streets": [
      "Aspen Drive",
      "Westwood Drive"
-    ]
+    ],
+    "nodeId": 89789712
    }
   },
   {
@@ -9787,7 +10395,8 @@
     "streets": [
      "Mono Mills Road;CA 120",
      "Pilot Spring Road"
-    ]
+    ],
+    "nodeId": 89767078
    }
   },
   {
@@ -9803,7 +10412,8 @@
     "streets": [
      "Logging Camp Road",
      "Pilot Spring Road"
-    ]
+    ],
+    "nodeId": 89839474
    }
   },
   {
@@ -9819,7 +10429,8 @@
     "streets": [
      "1501",
      "Black Canyon Road"
-    ]
+    ],
+    "nodeId": 89805606
    }
   },
   {
@@ -9837,7 +10448,8 @@
      "Pumice Road",
      "Route 395;US 395",
      "Tioga Road;CA 120"
-    ]
+    ],
+    "nodeId": 89780297
    }
   },
   {
@@ -9853,7 +10465,8 @@
     "streets": [
      "Badger Road",
      "Summit Street"
-    ]
+    ],
+    "nodeId": 3639731519
    }
   },
   {
@@ -9869,7 +10482,8 @@
     "streets": [
      "Crestview Drive",
      "Grand Army of the Republic Highway;US 6"
-    ]
+    ],
+    "nodeId": 89808321
    }
   },
   {
@@ -9885,7 +10499,8 @@
     "streets": [
      "Cedar Crest Court",
      "Ranch Road"
-    ]
+    ],
+    "nodeId": 9014574066
    }
   },
   {
@@ -9901,7 +10516,8 @@
     "streets": [
      "Conway Ranch Road",
      "Pole Line Road;CA 167"
-    ]
+    ],
+    "nodeId": 7204833874
    }
   },
   {
@@ -9917,7 +10533,8 @@
     "streets": [
      "June Lake Loop;CA 158",
      "Shadow Pines"
-    ]
+    ],
+    "nodeId": 569895757
    }
   },
   {
@@ -9933,7 +10550,8 @@
     "streets": [
      "Court Street",
      "Stock Drive"
-    ]
+    ],
+    "nodeId": 89661270
    }
   },
   {
@@ -9949,7 +10567,8 @@
     "streets": [
      "1st Street",
      "Mattly Avenue"
-    ]
+    ],
+    "nodeId": 89803911
    }
   },
   {
@@ -9965,7 +10584,8 @@
     "streets": [
      "Mattly Avenue",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89780253
    }
   },
   {
@@ -9981,7 +10601,8 @@
     "streets": [
      "Majestic Pines Court",
      "Majestic Pines Drive"
-    ]
+    ],
+    "nodeId": 89793964
    }
   },
   {
@@ -9997,7 +10618,8 @@
     "streets": [
      "Sequoia Street",
      "Tungsten Road"
-    ]
+    ],
+    "nodeId": 89821203
    }
   },
   {
@@ -10014,7 +10636,8 @@
      "Frontage Road",
      "Joaquin Road",
      "Main Street"
-    ]
+    ],
+    "nodeId": 89778993
    }
   },
   {
@@ -10030,7 +10653,8 @@
     "streets": [
      "Callahan Way",
      "Frontage Road"
-    ]
+    ],
+    "nodeId": 3314934068
    }
   },
   {
@@ -10046,7 +10670,8 @@
     "streets": [
      "Frontage Road",
      "Laurel Mountain Road"
-    ]
+    ],
+    "nodeId": 89842837
    }
   },
   {
@@ -10062,7 +10687,8 @@
     "streets": [
      "Joaquin Road",
      "Meridian Boulevard"
-    ]
+    ],
+    "nodeId": 89816527
    }
   },
   {
@@ -10078,7 +10704,8 @@
     "streets": [
      "Bald Mountain Road",
      "Logging Camp Road"
-    ]
+    ],
+    "nodeId": 89763334
    }
   },
   {
@@ -10094,7 +10721,8 @@
     "streets": [
      "South Landing Road",
      "Willow Brook Road"
-    ]
+    ],
+    "nodeId": 89839849
    }
   },
   {
@@ -10110,7 +10738,8 @@
     "streets": [
      "Sagebrush Drive",
      "Sweetwater Road;CA 182"
-    ]
+    ],
+    "nodeId": 89825100
    }
   },
   {
@@ -10126,7 +10755,8 @@
     "streets": [
      "Antelope Springs Road",
      "Antelope Springs Road;FR 3S05"
-    ]
+    ],
+    "nodeId": 89801413
    }
   },
   {
@@ -10142,7 +10772,8 @@
     "streets": [
      "Big Virginia Lakes Road;NFR 32021A",
      "Virginia Lakes Road"
-    ]
+    ],
+    "nodeId": 89472032
    }
   },
   {
@@ -10158,7 +10789,8 @@
     "streets": [
      "Laurel Mountain Road",
      "Main Street;CA 203"
-    ]
+    ],
+    "nodeId": 89821560
    }
   },
   {
@@ -10174,7 +10806,8 @@
     "streets": [
      "Crowley Lake Drive",
      "Ellison Place"
-    ]
+    ],
+    "nodeId": 89838386
    }
   },
   {
@@ -10190,7 +10823,8 @@
     "streets": [
      "Commerce Drive",
      "Meridian Boulevard"
-    ]
+    ],
+    "nodeId": 89816437
    }
   },
   {
@@ -10206,7 +10840,8 @@
     "streets": [
      "Crowley Lake Drive",
      "Purple Lake"
-    ]
+    ],
+    "nodeId": 89838272
    }
   },
   {
@@ -10222,7 +10857,8 @@
     "streets": [
      "Crowley Lake Drive",
      "Hilton Pack Station Road;4S14"
-    ]
+    ],
+    "nodeId": 89838368
    }
   },
   {
@@ -10238,7 +10874,8 @@
     "streets": [
      "Meridian Boulevard",
      "Sierra Star Parkway"
-    ]
+    ],
+    "nodeId": 89816630
    }
   },
   {
@@ -10254,7 +10891,8 @@
     "streets": [
      "Sierra Star Parkway",
      "West Bear Parkway"
-    ]
+    ],
+    "nodeId": 89845878
    }
   },
   {
@@ -10270,7 +10908,8 @@
     "streets": [
      "3rd Street",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89780255
    }
   },
   {
@@ -10286,7 +10925,8 @@
     "streets": [
      "Lakeside Drive",
      "Sweetwater Road;CA 182"
-    ]
+    ],
+    "nodeId": 89825139
    }
   },
   {
@@ -10302,7 +10942,8 @@
     "streets": [
      "2nd Street",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89780251
    }
   },
   {
@@ -10318,7 +10959,8 @@
     "streets": [
      "Convict Drive",
      "Forest Trail"
-    ]
+    ],
+    "nodeId": 89821164
    }
   },
   {
@@ -10334,7 +10976,8 @@
     "streets": [
      "Convict Drive",
      "Convict Place"
-    ]
+    ],
+    "nodeId": 89829226
    }
   },
   {
@@ -10350,7 +10993,8 @@
     "streets": [
      "Canyon Boulevard",
      "Convict Drive"
-    ]
+    ],
+    "nodeId": 89467219
    }
   },
   {
@@ -10366,7 +11010,8 @@
     "streets": [
      "Hunter Avenue",
      "Virginia Avenue"
-    ]
+    ],
+    "nodeId": 89842686
    }
   },
   {
@@ -10382,7 +11027,8 @@
     "streets": [
      "CA 266",
      "NV 264"
-    ]
+    ],
+    "nodeId": 89802901
    }
   },
   {
@@ -10398,7 +11044,8 @@
     "streets": [
      "South Tufa Parking Road;FR 1N51A",
      "Test Station Road"
-    ]
+    ],
+    "nodeId": 89466580
    }
   },
   {
@@ -10414,7 +11061,8 @@
     "streets": [
      "Canyon Boulevard",
      "Forest Trail"
-    ]
+    ],
+    "nodeId": 89467204
    }
   },
   {
@@ -10430,7 +11078,8 @@
     "streets": [
      "Canyon Boulevard",
      "Lakeview Boulevard"
-    ]
+    ],
+    "nodeId": 89467231
    }
   },
   {
@@ -10446,7 +11095,8 @@
     "streets": [
      "Canyon Boulevard",
      "Hillside Drive"
-    ]
+    ],
+    "nodeId": 89467235
    }
   },
   {
@@ -10462,7 +11112,8 @@
     "streets": [
      "CA 203",
      "Substation Road"
-    ]
+    ],
+    "nodeId": 89560398
    }
   },
   {
@@ -10478,7 +11129,8 @@
     "streets": [
      "Falls Tract Road",
      "Lake Mary Road"
-    ]
+    ],
+    "nodeId": 89618643
    }
   },
   {
@@ -10494,7 +11146,8 @@
     "streets": [
      "Old Mammoth Road",
      "Sherwin Creek Road;NFR 04S08"
-    ]
+    ],
+    "nodeId": 89817176
    }
   },
   {
@@ -10510,7 +11163,8 @@
     "streets": [
      "Sweet Water Road;CA 182",
      "Sweetwater Road;CA 182"
-    ]
+    ],
+    "nodeId": 89825283
    }
   },
   {
@@ -10526,7 +11180,8 @@
     "streets": [
      "Bodie Road",
      "Cottonwood Canyon Road"
-    ]
+    ],
+    "nodeId": 1105544422
    }
   },
   {
@@ -10542,7 +11197,8 @@
     "streets": [
      "Benton Crossing Road",
      "Owens River Road"
-    ]
+    ],
+    "nodeId": 89794777
    }
   },
   {
@@ -10558,7 +11214,8 @@
     "streets": [
      "Mono Mills Road;CA 120",
      "Panum Crater Road;FR 1N28"
-    ]
+    ],
+    "nodeId": 89619912
    }
   },
   {
@@ -10574,7 +11231,8 @@
     "streets": [
      "Buckeye Road;FR 32017",
      "Twin Lakes Road"
-    ]
+    ],
+    "nodeId": 89539771
    }
   },
   {
@@ -10590,7 +11248,8 @@
     "streets": [
      "Flat Road;NFR 32248",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 1935285018
    }
   },
   {
@@ -10606,7 +11265,8 @@
     "streets": [
      "Highland Drive",
      "Leonard Avenue"
-    ]
+    ],
+    "nodeId": 570522595
    }
   },
   {
@@ -10622,7 +11282,8 @@
     "streets": [
      "Leonard Avenue",
      "Skyline Drive"
-    ]
+    ],
+    "nodeId": 3031257916
    }
   },
   {
@@ -10638,7 +11299,8 @@
     "streets": [
      "Carson View Drive",
      "Leonard Avenue"
-    ]
+    ],
+    "nodeId": 3031297746
    }
   },
   {
@@ -10654,7 +11316,8 @@
     "streets": [
      "Highland Drive",
      "Mountain Vista Drive"
-    ]
+    ],
+    "nodeId": 570522606
    }
   },
   {
@@ -10670,7 +11333,8 @@
     "streets": [
      "Highland Drive",
      "Highland Place"
-    ]
+    ],
+    "nodeId": 570522622
    }
   },
   {
@@ -10686,7 +11350,8 @@
     "streets": [
      "June Lake Loop Road;CA 158",
      "June Lake Loop;CA 158"
-    ]
+    ],
+    "nodeId": 572953909
    }
   },
   {
@@ -10702,7 +11367,8 @@
     "streets": [
      "Chalfant Road",
      "Lisa Lane"
-    ]
+    ],
+    "nodeId": 3639963469
    }
   },
   {
@@ -10718,7 +11384,8 @@
     "streets": [
      "Hot Creek Hatchery Road",
      "Hot Creek Ranch Road"
-    ]
+    ],
+    "nodeId": 7539592753
    }
   },
   {
@@ -10734,7 +11401,8 @@
     "streets": [
      "Route 395;US 395",
      "Simpson Way"
-    ]
+    ],
+    "nodeId": 89784193
    }
   },
   {
@@ -10750,7 +11418,8 @@
     "streets": [
      "Hot Springs Road",
      "Old Highway 395"
-    ]
+    ],
+    "nodeId": 9029170246
    }
   },
   {
@@ -10766,7 +11435,8 @@
     "streets": [
      "Crowley Lake Drive",
      "Rock Creek Road"
-    ]
+    ],
+    "nodeId": 89529788
    }
   },
   {
@@ -10782,7 +11452,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "Rock Creek Road"
-    ]
+    ],
+    "nodeId": 89781734
    }
   },
   {
@@ -10798,7 +11469,8 @@
     "streets": [
      "Black Rock Mine Road",
      "Van Loon Cutoff"
-    ]
+    ],
+    "nodeId": 7939551697
    }
   },
   {
@@ -10814,7 +11486,8 @@
     "streets": [
      "Black Rock Mine Road",
      "Yellow Jacket Road"
-    ]
+    ],
+    "nodeId": 89799660
    }
   },
   {
@@ -10830,7 +11503,8 @@
     "streets": [
      "Fir Street",
      "LeVerne Street"
-    ]
+    ],
+    "nodeId": 9007464998
    }
   },
   {
@@ -10846,7 +11520,8 @@
     "streets": [
      "Dorrance Avenue",
      "Manzanita Road"
-    ]
+    ],
+    "nodeId": 89787415
    }
   },
   {
@@ -10862,7 +11537,8 @@
     "streets": [
      "Manzanita Road",
      "Meridian Boulevard"
-    ]
+    ],
+    "nodeId": 89663605
    }
   },
   {
@@ -10878,7 +11554,8 @@
     "streets": [
      "Center Street",
      "Inyo Road"
-    ]
+    ],
+    "nodeId": 89794162
    }
   },
   {
@@ -10895,7 +11572,8 @@
      "College Parkway",
      "Meridian Boulevard",
      "Wagon Wheel Road"
-    ]
+    ],
+    "nodeId": 89816676
    }
   },
   {
@@ -10911,7 +11589,8 @@
     "streets": [
      "College Parkway",
      "Meridian Boulevard"
-    ]
+    ],
+    "nodeId": 89816491
    }
   },
   {
@@ -10927,7 +11606,8 @@
     "streets": [
      "Eastside Lane",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89783798
    }
   },
   {
@@ -10943,7 +11623,8 @@
     "streets": [
      "Route 395;US 395",
      "Topaz Lane"
-    ]
+    ],
+    "nodeId": 89784104
    }
   },
   {
@@ -10959,7 +11640,8 @@
     "streets": [
      "Park Ranch",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89784181
    }
   },
   {
@@ -10975,7 +11657,8 @@
     "streets": [
      "CA 168",
      "CA 266"
-    ]
+    ],
+    "nodeId": 89802802
    }
   },
   {
@@ -10991,7 +11674,8 @@
     "streets": [
      "Antelope Springs Road",
      "Substation Road"
-    ]
+    ],
+    "nodeId": 89560393
    }
   },
   {
@@ -11007,7 +11691,8 @@
     "streets": [
      "Hot Springs Road",
      "Substation Road"
-    ]
+    ],
+    "nodeId": 89560359
    }
   },
   {
@@ -11023,7 +11708,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 6",
      "South Road"
-    ]
+    ],
+    "nodeId": 89808192
    }
   },
   {
@@ -11039,7 +11725,8 @@
     "streets": [
      "Burcham Flat Road",
      "Camp Antelope Road"
-    ]
+    ],
+    "nodeId": 89796107
    }
   },
   {
@@ -11055,7 +11742,8 @@
     "streets": [
      "Golden Gate Road",
      "Mill Canyon Road"
-    ]
+    ],
+    "nodeId": 89769588
    }
   },
   {
@@ -11071,7 +11759,8 @@
     "streets": [
      "Mill Creek Drive",
      "Western Drive"
-    ]
+    ],
+    "nodeId": 89765509
    }
   },
   {
@@ -11089,7 +11778,8 @@
      "El Camino Sierra;US 395",
      "El Camino Sierra;US 395;CA 120",
      "Mono Mills Road;CA 120"
-    ]
+    ],
+    "nodeId": 89766492
    }
   },
   {
@@ -11105,7 +11795,8 @@
     "streets": [
      "Buckeye Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 1895078694
    }
   },
   {
@@ -11122,7 +11813,8 @@
      "Benton Cutoff;CA 120",
      "El Camino Sierra;US 395",
      "El Camino Sierra;US 395;CA 120"
-    ]
+    ],
+    "nodeId": 89766487
    }
   },
   {
@@ -11138,7 +11830,8 @@
     "streets": [
      "CA 108",
      "Silver Creek Road"
-    ]
+    ],
+    "nodeId": 89553893
    }
   },
   {
@@ -11154,7 +11847,8 @@
     "streets": [
      "CA 108",
      "Toiyabe Street"
-    ]
+    ],
+    "nodeId": 89552394
    }
   },
   {
@@ -11170,7 +11864,8 @@
     "streets": [
      "CA 203",
      "Sawmill Road"
-    ]
+    ],
+    "nodeId": 89762106
    }
   },
   {
@@ -11187,7 +11882,8 @@
      "East Bear Parkway",
      "Minaret Road",
      "West Bear Parkway"
-    ]
+    ],
+    "nodeId": 2000094293
    }
   },
   {
@@ -11203,7 +11899,8 @@
     "streets": [
      "Meridian Boulevard",
      "Minaret Road"
-    ]
+    ],
+    "nodeId": 89787670
    }
   },
   {
@@ -11219,7 +11916,8 @@
     "streets": [
      "CA 203",
      "Minaret Road;CA 203"
-    ]
+    ],
+    "nodeId": 89788464
    }
   },
   {
@@ -11235,7 +11933,8 @@
     "streets": [
      "Ridge View Road",
      "Sierra Wave"
-    ]
+    ],
+    "nodeId": 2065715861
    }
   },
   {
@@ -11251,7 +11950,8 @@
     "streets": [
      "Cougar Run",
      "Ridge View Road"
-    ]
+    ],
+    "nodeId": 4115093787
    }
   },
   {
@@ -11267,7 +11967,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 6",
      "Hunter Avenue"
-    ]
+    ],
+    "nodeId": 89808441
    }
   },
   {
@@ -11283,7 +11984,8 @@
     "streets": [
      "Mono Mills Road;CA 120",
      "Test Station Road"
-    ]
+    ],
+    "nodeId": 89677417
    }
   },
   {
@@ -11299,7 +12001,8 @@
     "streets": [
      "Jack Sawyer Road",
      "Travertine Road"
-    ]
+    ],
+    "nodeId": 8118830285
    }
   },
   {
@@ -11315,7 +12018,8 @@
     "streets": [
      "Jack Sawyer Road",
      "Travertine Hot Springs Road"
-    ]
+    ],
+    "nodeId": 2628940751
    }
   },
   {
@@ -11331,7 +12035,8 @@
     "streets": [
      "Jack Sawyer Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89712961
    }
   },
   {
@@ -11347,7 +12052,8 @@
     "streets": [
      "Buckeye Creek Road;FR 32160",
      "Southway Road;FR 32017L"
-    ]
+    ],
+    "nodeId": 89517716
    }
   },
   {
@@ -11363,7 +12069,8 @@
     "streets": [
      "Buckeye Road;FR 32017",
      "Southway Road;FR 32017L"
-    ]
+    ],
+    "nodeId": 4054088128
    }
   },
   {
@@ -11379,7 +12086,8 @@
     "streets": [
      "Bodie Road",
      "Bodie Road;CA 270"
-    ]
+    ],
+    "nodeId": 89467529
    }
   },
   {
@@ -11395,7 +12103,8 @@
     "streets": [
      "Old Mammoth Road",
      "Ranch Road"
-    ]
+    ],
+    "nodeId": 89817111
    }
   },
   {
@@ -11411,7 +12120,8 @@
     "streets": [
      "Mill Creek Powerhouse Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89465006
    }
   },
   {
@@ -11427,7 +12137,8 @@
     "streets": [
      "Poole Power Plant Road",
      "Tioga Road;CA 120"
-    ]
+    ],
+    "nodeId": 874796136
    }
   },
   {
@@ -11443,7 +12154,8 @@
     "streets": [
      "Log Cabin Mine Road;NF 1N05",
      "Tioga Road;CA 120"
-    ]
+    ],
+    "nodeId": 89479937
    }
   },
   {
@@ -11459,7 +12171,8 @@
     "streets": [
      "Buckeye Road;FR 32017",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 13067702864
    }
   },
   {
@@ -11475,7 +12188,8 @@
     "streets": [
      "1st Street",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89780249
    }
   },
   {
@@ -11491,7 +12205,8 @@
     "streets": [
      "Route 395;US 395",
      "Travertine Road"
-    ]
+    ],
+    "nodeId": 89498615
    }
   },
   {
@@ -11507,7 +12222,8 @@
     "streets": [
      "Huggans Lane",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 5444038415
    }
   },
   {
@@ -11523,7 +12239,8 @@
     "streets": [
      "Green Creek Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89771550
    }
   },
   {
@@ -11539,7 +12256,8 @@
     "streets": [
      "Meridian Boulevard",
      "Mono Street"
-    ]
+    ],
+    "nodeId": 1910169760
    }
   },
   {
@@ -11555,7 +12273,8 @@
     "streets": [
      "Meadow Ridge Entrance",
      "Meridian Boulevard"
-    ]
+    ],
+    "nodeId": 89816640
    }
   },
   {
@@ -11571,7 +12290,8 @@
     "streets": [
      "Lodestar Drive",
      "Meridian Boulevard"
-    ]
+    ],
+    "nodeId": 89816656
    }
   },
   {
@@ -11587,7 +12307,8 @@
     "streets": [
      "Lyle Terrace Road",
      "Reversed Creek Campground Road"
-    ]
+    ],
+    "nodeId": 3031033270
    }
   },
   {
@@ -11603,7 +12324,8 @@
     "streets": [
      "June Lake Loop;CA 158",
      "Reversed Creek Campground Road"
-    ]
+    ],
+    "nodeId": 3031033279
    }
   },
   {
@@ -11619,7 +12341,8 @@
     "streets": [
      "Chipmunk Lane",
      "June Lake Loop;CA 158"
-    ]
+    ],
+    "nodeId": 3031039216
    }
   },
   {
@@ -11635,7 +12358,8 @@
     "streets": [
      "Lyell Terrace Road",
      "Lyle Terrace Road"
-    ]
+    ],
+    "nodeId": 3031040241
    }
   },
   {
@@ -11651,7 +12375,8 @@
     "streets": [
      "June Lake Loop;CA 158",
      "Lyell Terrace Road"
-    ]
+    ],
+    "nodeId": 3031040242
    }
   },
   {
@@ -11667,7 +12392,8 @@
     "streets": [
      "Forest Knoll",
      "Forest Road"
-    ]
+    ],
+    "nodeId": 3031268130
    }
   },
   {
@@ -11683,7 +12409,8 @@
     "streets": [
      "Forest Road",
      "Reversed Peak Road"
-    ]
+    ],
+    "nodeId": 89774579
    }
   },
   {
@@ -11699,7 +12426,8 @@
     "streets": [
      "Northshore Drive",
      "Pine Cliff Road"
-    ]
+    ],
+    "nodeId": 3701304753
    }
   },
   {
@@ -11715,7 +12443,8 @@
     "streets": [
      "Little Walker Road",
      "NFR 32066C"
-    ]
+    ],
+    "nodeId": 89581316
    }
   },
   {
@@ -11731,7 +12460,8 @@
     "streets": [
      "Pack Station Road;FR 32020F",
      "Virginia Lakes Road"
-    ]
+    ],
+    "nodeId": 4023042328
    }
   },
   {
@@ -11747,7 +12477,8 @@
     "streets": [
      "Glacier Drive",
      "Virginia Lakes Road"
-    ]
+    ],
+    "nodeId": 4023042327
    }
   },
   {
@@ -11763,7 +12494,8 @@
     "streets": [
      "Lodgepole Drive",
      "Virginia Lakes Road"
-    ]
+    ],
+    "nodeId": 4023042307
    }
   },
   {
@@ -11779,7 +12511,8 @@
     "streets": [
      "Tamarack Lane",
      "Virginia Lakes Road"
-    ]
+    ],
+    "nodeId": 4023042302
    }
   },
   {
@@ -11795,7 +12528,8 @@
     "streets": [
      "Pinecrest Drive",
      "Virginia Lakes Road"
-    ]
+    ],
+    "nodeId": 89464843
    }
   },
   {
@@ -11811,7 +12545,8 @@
     "streets": [
      "Tip Top Lane",
      "Virginia Lakes Road"
-    ]
+    ],
+    "nodeId": 89471625
    }
   },
   {
@@ -11827,7 +12562,8 @@
     "streets": [
      "Little Virginia Lakes Road",
      "Virginia Lakes Road"
-    ]
+    ],
+    "nodeId": 8221355528
    }
   },
   {
@@ -11843,7 +12579,8 @@
     "streets": [
      "Juniper Springs Drive",
      "Majestic Pines Drive"
-    ]
+    ],
+    "nodeId": 3348827461
    }
   },
   {
@@ -11859,7 +12596,8 @@
     "streets": [
      "Sierra Park Road",
      "Tavern Road"
-    ]
+    ],
+    "nodeId": 89800496
    }
   },
   {
@@ -11875,7 +12613,8 @@
     "streets": [
      "Sierra Nevada Road",
      "Sierra Park Road"
-    ]
+    ],
+    "nodeId": 89464832
    }
   },
   {
@@ -11891,7 +12630,8 @@
     "streets": [
      "Meridian Boulevard",
      "Sierra Park Road"
-    ]
+    ],
+    "nodeId": 89805510
    }
   },
   {
@@ -11907,7 +12647,8 @@
     "streets": [
      "Juniper Crest",
      "Juniper Springs Drive"
-    ]
+    ],
+    "nodeId": 3348827465
    }
   },
   {
@@ -11923,7 +12664,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 6",
      "Tungsten Road"
-    ]
+    ],
+    "nodeId": 89681556
    }
   },
   {
@@ -11939,7 +12681,8 @@
     "streets": [
      "Foothill Road",
      "Mono Mills Road;CA 120"
-    ]
+    ],
+    "nodeId": 89768325
    }
   },
   {
@@ -11955,7 +12698,8 @@
     "streets": [
      "Eastside Lane",
      "Old Smith Valley Road"
-    ]
+    ],
+    "nodeId": 89761528
    }
   },
   {
@@ -11971,7 +12715,8 @@
     "streets": [
      "Hunewill Ranch Road",
      "Twin Lakes Road"
-    ]
+    ],
+    "nodeId": 89789550
    }
   },
   {
@@ -11987,7 +12732,8 @@
     "streets": [
      "NFR 01S33",
      "Northshore Drive"
-    ]
+    ],
+    "nodeId": 89788924
    }
   },
   {
@@ -12003,7 +12749,8 @@
     "streets": [
      "Hidden Canyon Court",
      "Pearson Road"
-    ]
+    ],
+    "nodeId": 3744330562
    }
   },
   {
@@ -12019,7 +12766,8 @@
     "streets": [
      "Lake Ridge Trail",
      "Red Bluff Trail"
-    ]
+    ],
+    "nodeId": 3744330585
    }
   },
   {
@@ -12035,7 +12783,8 @@
     "streets": [
      "Cimarron Circle",
      "Lake Ridge Trail"
-    ]
+    ],
+    "nodeId": 8719712694
    }
   },
   {
@@ -12051,7 +12800,8 @@
     "streets": [
      "Larkspur Drive",
      "Shanna Circle"
-    ]
+    ],
+    "nodeId": 5266779754
    }
   },
   {
@@ -12067,7 +12817,8 @@
     "streets": [
      "Larkspur Drive",
      "Pearson Road"
-    ]
+    ],
+    "nodeId": 3744330580
    }
   },
   {
@@ -12083,7 +12834,8 @@
     "streets": [
      "Larkspur Drive",
      "Red Bluff Trail"
-    ]
+    ],
+    "nodeId": 3744330600
    }
   },
   {
@@ -12099,7 +12851,8 @@
     "streets": [
      "Pearson Road",
      "Sierra Springs Drive"
-    ]
+    ],
+    "nodeId": 89476272
    }
   },
   {
@@ -12115,7 +12868,8 @@
     "streets": [
      "FR 04S121",
      "NFR 04S121"
-    ]
+    ],
+    "nodeId": 3900713978
    }
   },
   {
@@ -12131,7 +12885,8 @@
     "streets": [
      "NFR 04S121",
      "NFR 04S43"
-    ]
+    ],
+    "nodeId": 3900714013
    }
   },
   {
@@ -12147,7 +12902,8 @@
     "streets": [
      "1S23",
      "Farrington Siphon Road"
-    ]
+    ],
+    "nodeId": 3035429672
    }
   },
   {
@@ -12163,7 +12919,8 @@
     "streets": [
      "Oil Plant Road",
      "Oil Plant Road;FR 1N18"
-    ]
+    ],
+    "nodeId": 10759589747
    }
   },
   {
@@ -12179,7 +12936,8 @@
     "streets": [
      "Beaver Run",
      "Lodgepole Drive"
-    ]
+    ],
+    "nodeId": 4023042304
    }
   },
   {
@@ -12195,7 +12953,8 @@
     "streets": [
      "Beaver Run",
      "Tamarack Lane"
-    ]
+    ],
+    "nodeId": 8221355113
    }
   },
   {
@@ -12211,7 +12970,8 @@
     "streets": [
      "Hawthorne Road",
      "Pinecrest Drive"
-    ]
+    ],
+    "nodeId": 8221355148
    }
   },
   {
@@ -12227,7 +12987,8 @@
     "streets": [
      "Pinecrest Drive",
      "Tip Top Lane"
-    ]
+    ],
+    "nodeId": 4023042319
    }
   },
   {
@@ -12243,7 +13004,8 @@
     "streets": [
      "Buckeye Creek Road;FR 32160",
      "Buckeye Road;FR 32017"
-    ]
+    ],
+    "nodeId": 2629033510
    }
   },
   {
@@ -12259,7 +13021,8 @@
     "streets": [
      "Main Street;CA 203",
      "Old Mammoth Road"
-    ]
+    ],
+    "nodeId": 89817209
    }
   },
   {
@@ -12275,7 +13038,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "FR 04S121"
-    ]
+    ],
+    "nodeId": 89781841
    }
   },
   {
@@ -12291,7 +13055,8 @@
     "streets": [
      "Dave McCoy Memorial Highway",
      "Dave McCoy Memorial Highway;US 395"
-    ]
+    ],
+    "nodeId": 4814090996
    }
   },
   {
@@ -12307,7 +13072,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "Glass Creek Road"
-    ]
+    ],
+    "nodeId": 89780906
    }
   },
   {
@@ -12324,7 +13090,8 @@
      "2S21",
      "El Camino Sierra;US 395",
      "Glass Creek Road"
-    ]
+    ],
+    "nodeId": 89494651
    }
   },
   {
@@ -12340,7 +13107,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "June Lake Loop;CA 158"
-    ]
+    ],
+    "nodeId": 150960057
    }
   },
   {
@@ -12356,7 +13124,8 @@
     "streets": [
      "1535",
      "El Camino Sierra;US 395"
-    ]
+    ],
+    "nodeId": 4814389992
    }
   },
   {
@@ -12372,7 +13141,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "Obsidian Dome Road;NF 2S10"
-    ]
+    ],
+    "nodeId": 89780783
    }
   },
   {
@@ -12389,7 +13159,8 @@
      "El Camino Sierra;US 395",
      "Grant Lake Road",
      "West Portal Road"
-    ]
+    ],
+    "nodeId": 3978214131
    }
   },
   {
@@ -12405,7 +13176,8 @@
     "streets": [
      "Conway Ranch Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89531308
    }
   },
   {
@@ -12421,7 +13193,8 @@
     "streets": [
      "Bodie Road;CA 270",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89779897
    }
   },
   {
@@ -12438,7 +13211,8 @@
      "Main Street;US 395",
      "Route 395;US 395",
      "Sweetwater Road;CA 182"
-    ]
+    ],
+    "nodeId": 89780128
    }
   },
   {
@@ -12454,7 +13228,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "Lower Rock Creek Road"
-    ]
+    ],
+    "nodeId": 89472910
    }
   },
   {
@@ -12470,7 +13245,8 @@
     "streets": [
      "Crowley Circle",
      "South Landing Road"
-    ]
+    ],
+    "nodeId": 89476182
    }
   },
   {
@@ -12486,7 +13262,8 @@
     "streets": [
      "Elderberry Lane",
      "South Landing Road"
-    ]
+    ],
+    "nodeId": 89715017
    }
   },
   {
@@ -12502,7 +13279,8 @@
     "streets": [
      "Forest Trail",
      "Lakeview Boulevard"
-    ]
+    ],
+    "nodeId": 89821183
    }
   },
   {
@@ -12518,7 +13296,8 @@
     "streets": [
      "Cottonwood Canyon Ranch Road",
      "Grand Army of the Republic Highway;US 6"
-    ]
+    ],
+    "nodeId": 89591054
    }
   },
   {
@@ -12534,7 +13313,8 @@
     "streets": [
      "Meridian Boulevard",
      "Old Mammoth Road"
-    ]
+    ],
+    "nodeId": 89816506
    }
   },
   {
@@ -12550,7 +13330,8 @@
     "streets": [
      "Cameron Drive",
      "Sweetwater Road;CA 182"
-    ]
+    ],
+    "nodeId": 5444046264
    }
   },
   {
@@ -12566,7 +13347,8 @@
     "streets": [
      "Aquaduct Road",
      "Walker Lake Road"
-    ]
+    ],
+    "nodeId": 89515331
    }
   },
   {
@@ -12582,7 +13364,8 @@
     "streets": [
      "June Lake Loop Road;CA 158",
      "Parker Lake Road"
-    ]
+    ],
+    "nodeId": 89466100
    }
   },
   {
@@ -12598,7 +13381,8 @@
     "streets": [
      "Farrington Siphon Road",
      "Parker Lake Road"
-    ]
+    ],
+    "nodeId": 89466086
    }
   },
   {
@@ -12614,7 +13398,8 @@
     "streets": [
      "Larson Lane",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89783942
    }
   },
   {
@@ -12630,7 +13415,8 @@
     "streets": [
      "Carrie Bethel Road",
      "Gibbs Siphon Road"
-    ]
+    ],
+    "nodeId": 5499463715
    }
   },
   {
@@ -12647,7 +13433,8 @@
      "Carrie Bethel Road",
      "Horse Meadows Road;FR 01N16",
      "Horse Meadows Road;FR 1N16"
-    ]
+    ],
+    "nodeId": 89604488
    }
   },
   {
@@ -12663,7 +13450,8 @@
     "streets": [
      "Boulder Drive;CA 158",
      "Cherokee Lane"
-    ]
+    ],
+    "nodeId": 3031065045
    }
   },
   {
@@ -12679,7 +13467,8 @@
     "streets": [
      "Saddlebag Lake Road;NF 1N04",
      "Tioga Road;CA 120"
-    ]
+    ],
+    "nodeId": 89824271
    }
   },
   {
@@ -12695,7 +13484,8 @@
     "streets": [
      "Mill Creek Drive",
      "Shetler Drive"
-    ]
+    ],
+    "nodeId": 89765523
    }
   },
   {
@@ -12711,7 +13501,8 @@
     "streets": [
      "Grant Lake Road",
      "June Lake Loop Road;CA 158"
-    ]
+    ],
+    "nodeId": 89712220
    }
   },
   {
@@ -12727,7 +13518,8 @@
     "streets": [
      "Pearson Road",
      "South Landing Road"
-    ]
+    ],
+    "nodeId": 3744330577
    }
   },
   {
@@ -12743,7 +13535,8 @@
     "streets": [
      "Crowley Lake Drive",
      "South Landing Road"
-    ]
+    ],
+    "nodeId": 11414251632
    }
   },
   {
@@ -12759,7 +13552,8 @@
     "streets": [
      "Covington Lane",
      "Jeffery Pine Road"
-    ]
+    ],
+    "nodeId": 7539592704
    }
   },
   {
@@ -12775,7 +13569,8 @@
     "streets": [
      "Jeffery Pine Road",
      "Wheeler View Drive"
-    ]
+    ],
+    "nodeId": 7539592719
    }
   },
   {
@@ -12791,7 +13586,8 @@
     "streets": [
      "Dry Trail;NFR 04S115-2",
      "Pine Glade Road;NFR 04S113"
-    ]
+    ],
+    "nodeId": 7552945751
    }
   },
   {
@@ -12807,7 +13603,8 @@
     "streets": [
      "Crowley Lake Drive",
      "Lake Manor Place"
-    ]
+    ],
+    "nodeId": 7552946575
    }
   },
   {
@@ -12823,7 +13620,8 @@
     "streets": [
      "Sierra Street",
      "Toiyabe Street"
-    ]
+    ],
+    "nodeId": 3391345292
    }
   },
   {
@@ -12839,7 +13637,8 @@
     "streets": [
      "Black Canyon Road",
      "Mono Mills Road;CA 120"
-    ]
+    ],
+    "nodeId": 89690564
    }
   },
   {
@@ -12855,7 +13654,8 @@
     "streets": [
      "Benton Crossing Road",
      "Mono Mills Road;CA 120"
-    ]
+    ],
+    "nodeId": 89767873
    }
   },
   {
@@ -12871,7 +13671,8 @@
     "streets": [
      "Mono Mills Road;CA 120",
      "Yellow Jacket Road"
-    ]
+    ],
+    "nodeId": 89768223
    }
   },
   {
@@ -12887,7 +13688,8 @@
     "streets": [
      "Hawthorne Road",
      "Tip Top Lane"
-    ]
+    ],
+    "nodeId": 8221355155
    }
   },
   {
@@ -12903,7 +13705,8 @@
     "streets": [
      "Crest Drive",
      "Twin Creek Drive"
-    ]
+    ],
+    "nodeId": 8218245266
    }
   },
   {
@@ -12920,7 +13723,8 @@
      "Farrington Siphon Road",
      "Farrington Siphon Road;FR 1N17",
      "Oil Plant Road;FR 1N18"
-    ]
+    ],
+    "nodeId": 89515384
    }
   },
   {
@@ -12936,7 +13740,8 @@
     "streets": [
      "Farrington Siphon Road;FR 1N17",
      "Horse Meadows Road;FR 1N16"
-    ]
+    ],
+    "nodeId": 8043299689
    }
   },
   {
@@ -12952,7 +13757,8 @@
     "streets": [
      "Green Creek Road",
      "Green Creek Road;NFR 32142C"
-    ]
+    ],
+    "nodeId": 89771903
    }
   },
   {
@@ -12968,7 +13774,8 @@
     "streets": [
      "Tuolumne Road",
      "Watkins Place"
-    ]
+    ],
+    "nodeId": 8456526364
    }
   },
   {
@@ -12984,7 +13791,8 @@
     "streets": [
      "Canyon Boulevard",
      "Lake Mary Road"
-    ]
+    ],
+    "nodeId": 1183086465
    }
   },
   {
@@ -13000,7 +13808,8 @@
     "streets": [
      "Tioga Road;CA 120",
      "Vista Point Drive"
-    ]
+    ],
+    "nodeId": 89824844
    }
   },
   {
@@ -13016,7 +13825,8 @@
     "streets": [
      "Mill Creek Drive",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89765542
    }
   },
   {
@@ -13032,7 +13842,8 @@
     "streets": [
      "CA 203",
      "Meridian Boulevard"
-    ]
+    ],
+    "nodeId": 89787508
    }
   },
   {
@@ -13048,7 +13859,8 @@
     "streets": [
      "Aspen Grove Lane",
      "Palisades Drive"
-    ]
+    ],
+    "nodeId": 524217899
    }
   },
   {
@@ -13064,7 +13876,8 @@
     "streets": [
      "Horse Meadows Road",
      "Horse Meadows Road;FR 01N16"
-    ]
+    ],
+    "nodeId": 10759591988
    }
   },
   {
@@ -13080,7 +13893,8 @@
     "streets": [
      "1N19",
      "Walker Lake Road"
-    ]
+    ],
+    "nodeId": 10773769302
    }
   },
   {
@@ -13096,7 +13910,8 @@
     "streets": [
      "CA 108",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 150978622
    }
   },
   {
@@ -13113,7 +13928,8 @@
      "Chidago Canyon Road",
      "Grand Army of the Republic Highway;US 6",
      "White Mountain Ranch Road"
-    ]
+    ],
+    "nodeId": 89764302
    }
   },
   {
@@ -13129,7 +13945,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 6",
      "Truman Meadows Road"
-    ]
+    ],
+    "nodeId": 89808511
    }
   },
   {
@@ -13145,7 +13962,8 @@
     "streets": [
      "Bramlett Ranch Road",
      "Grand Army of the Republic Highway;US 6"
-    ]
+    ],
+    "nodeId": 89773480
    }
   },
   {
@@ -13161,7 +13979,8 @@
     "streets": [
      "Clark Ranch Road",
      "Mono Mills Road;CA 120"
-    ]
+    ],
+    "nodeId": 89768374
    }
   },
   {
@@ -13177,7 +13996,8 @@
     "streets": [
      "Route 395;US 395",
      "Virginia Lakes Road"
-    ]
+    ],
+    "nodeId": 89471958
    }
   },
   {
@@ -13193,7 +14013,8 @@
     "streets": [
      "Lower Rock Creek Road",
      "Westridge Road"
-    ]
+    ],
+    "nodeId": 89472157
    }
   },
   {
@@ -13209,7 +14030,8 @@
     "streets": [
      "Lower Rock Creek Road",
      "Westridge Road"
-    ]
+    ],
+    "nodeId": 89472215
    }
   },
   {
@@ -13225,7 +14047,8 @@
     "streets": [
      "Lake Mary Road",
      "Twin Lakes Road"
-    ]
+    ],
+    "nodeId": 89521019
    }
   },
   {
@@ -13241,7 +14064,8 @@
     "streets": [
      "Lake Mary Road",
      "Twin Lakes Road"
-    ]
+    ],
+    "nodeId": 89523661
    }
   },
   {
@@ -13257,7 +14081,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "Mount Morrison Road"
-    ]
+    ],
+    "nodeId": 89781367
    }
   },
   {
@@ -13274,7 +14099,8 @@
      "Convict Lake Road",
      "Dave McCoy Memorial Highway;US 395",
      "El Camino Sierra;US 395"
-    ]
+    ],
+    "nodeId": 89758544
    }
   },
   {
@@ -13291,7 +14117,8 @@
      "Convict Lake Road",
      "Dave McCoy Memorial Highway;US 395",
      "El Camino Sierra;US 395"
-    ]
+    ],
+    "nodeId": 89781339
    }
   },
   {
@@ -13307,7 +14134,8 @@
     "streets": [
      "Club Drive",
      "Golden Creek"
-    ]
+    ],
+    "nodeId": 89745709
    }
   },
   {
@@ -13323,7 +14151,8 @@
     "streets": [
      "Club Drive",
      "Golden Creek"
-    ]
+    ],
+    "nodeId": 89592275
    }
   },
   {
@@ -13339,7 +14168,8 @@
     "streets": [
      "Dream Mountain Drive",
      "June Lake Loop;CA 158"
-    ]
+    ],
+    "nodeId": 89763741
    }
   },
   {
@@ -13355,7 +14185,8 @@
     "streets": [
      "Dream Mountain Drive",
      "June Lake Loop;CA 158"
-    ]
+    ],
+    "nodeId": 89763772
    }
   },
   {
@@ -13371,7 +14202,8 @@
     "streets": [
      "Chidago Canyon Road",
      "Chidago Loop"
-    ]
+    ],
+    "nodeId": 89765083
    }
   },
   {
@@ -13387,7 +14219,8 @@
     "streets": [
      "Chidago Canyon Road",
      "Chidago Loop"
-    ]
+    ],
+    "nodeId": 89765321
    }
   },
   {
@@ -13403,7 +14236,8 @@
     "streets": [
      "Majestic Pines Drive",
      "Monterey Pine Road"
-    ]
+    ],
+    "nodeId": 89770476
    }
   },
   {
@@ -13419,7 +14253,8 @@
     "streets": [
      "Majestic Pines Drive",
      "Monterey Pine Road"
-    ]
+    ],
+    "nodeId": 89770535
    }
   },
   {
@@ -13435,7 +14270,8 @@
     "streets": [
      "Cliff Circle",
      "Woodmen Street"
-    ]
+    ],
+    "nodeId": 89770587
    }
   },
   {
@@ -13451,7 +14287,8 @@
     "streets": [
      "Cliff Circle",
      "Woodmen Street"
-    ]
+    ],
+    "nodeId": 89770589
    }
   },
   {
@@ -13467,7 +14304,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "West Portal Road"
-    ]
+    ],
+    "nodeId": 89772721
    }
   },
   {
@@ -13483,7 +14321,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "West Portal Road"
-    ]
+    ],
+    "nodeId": 89772741
    }
   },
   {
@@ -13499,7 +14338,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "West Portal Road"
-    ]
+    ],
+    "nodeId": 3978214132
    }
   },
   {
@@ -13515,7 +14355,8 @@
     "streets": [
      "Old Mammoth Road",
      "Red Fir Road"
-    ]
+    ],
+    "nodeId": 89773594
    }
   },
   {
@@ -13531,7 +14372,8 @@
     "streets": [
      "Old Mammoth Road",
      "Red Fir Road"
-    ]
+    ],
+    "nodeId": 89773654
    }
   },
   {
@@ -13547,7 +14389,8 @@
     "streets": [
      "Crowley Lake Drive",
      "Juniper Drive"
-    ]
+    ],
+    "nodeId": 89778811
    }
   },
   {
@@ -13563,7 +14406,8 @@
     "streets": [
      "Crowley Lake Drive",
      "Juniper Drive"
-    ]
+    ],
+    "nodeId": 89778885
    }
   },
   {
@@ -13579,7 +14423,8 @@
     "streets": [
      "Mammoth Knolls Drive",
      "Saint Anton Circle"
-    ]
+    ],
+    "nodeId": 89788759
    }
   },
   {
@@ -13595,7 +14440,8 @@
     "streets": [
      "Mammoth Knolls Drive",
      "Saint Anton Circle"
-    ]
+    ],
+    "nodeId": 89788820
    }
   },
   {
@@ -13611,7 +14457,8 @@
     "streets": [
      "Boulder Drive;CA 158",
      "Lakeview Drive"
-    ]
+    ],
+    "nodeId": 89789598
    }
   },
   {
@@ -13627,7 +14474,8 @@
     "streets": [
      "Boulder Drive;CA 158",
      "Lakeview Drive"
-    ]
+    ],
+    "nodeId": 89789636
    }
   },
   {
@@ -13643,7 +14491,8 @@
     "streets": [
      "By Day Drive",
      "Westwood Drive"
-    ]
+    ],
+    "nodeId": 8218245312
    }
   },
   {
@@ -13659,7 +14508,8 @@
     "streets": [
      "By Day Drive",
      "Westwood Drive"
-    ]
+    ],
+    "nodeId": 8040639195
    }
   },
   {
@@ -13675,7 +14525,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "Mammoth Scenic Loop"
-    ]
+    ],
+    "nodeId": 89781004
    }
   },
   {
@@ -13691,7 +14542,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "Mammoth Scenic Loop"
-    ]
+    ],
+    "nodeId": 89519453
    }
   },
   {
@@ -13707,7 +14559,8 @@
     "streets": [
      "Pinecrest Avenue",
      "Snowcrest Avenue"
-    ]
+    ],
+    "nodeId": 89790504
    }
   },
   {
@@ -13723,7 +14576,8 @@
     "streets": [
      "Pinecrest Avenue",
      "Snowcrest Avenue"
-    ]
+    ],
+    "nodeId": 89790540
    }
   },
   {
@@ -13739,7 +14593,8 @@
     "streets": [
      "Yellow Jacket Road",
      "Yellow Jacket Road;BIA 217"
-    ]
+    ],
+    "nodeId": 12610797868
    }
   },
   {
@@ -13755,7 +14610,8 @@
     "streets": [
      "Yellow Jacket Road",
      "Yellow Jacket Road;BIA 217"
-    ]
+    ],
+    "nodeId": 89799407
    }
   },
   {
@@ -13771,7 +14627,8 @@
     "streets": [
      "1590",
      "Mc Gee Canyon Road"
-    ]
+    ],
+    "nodeId": 89799709
    }
   },
   {
@@ -13787,7 +14644,8 @@
     "streets": [
      "1590",
      "Mc Gee Canyon Road"
-    ]
+    ],
+    "nodeId": 89799972
    }
   },
   {
@@ -13803,7 +14661,8 @@
     "streets": [
      "June Lake Loop;CA 158",
      "Venice Street"
-    ]
+    ],
+    "nodeId": 89800722
    }
   },
   {
@@ -13819,7 +14678,8 @@
     "streets": [
      "June Lake Loop;CA 158",
      "Venice Street"
-    ]
+    ],
+    "nodeId": 569895809
    }
   },
   {
@@ -13835,7 +14695,8 @@
     "streets": [
      "Sky Meadow Road",
      "Swall Meadows Road"
-    ]
+    ],
+    "nodeId": 89801863
    }
   },
   {
@@ -13851,7 +14712,8 @@
     "streets": [
      "Sky Meadow Road",
      "Swall Meadows Road"
-    ]
+    ],
+    "nodeId": 89801865
    }
   },
   {
@@ -13867,7 +14729,8 @@
     "streets": [
      "Eastside Lane",
      "Lone Company Road"
-    ]
+    ],
+    "nodeId": 89776541
    }
   },
   {
@@ -13883,7 +14746,8 @@
     "streets": [
      "Eastside Lane",
      "Lone Company Road"
-    ]
+    ],
+    "nodeId": 89808079
    }
   },
   {
@@ -13899,7 +14763,8 @@
     "streets": [
      "Forest Trail",
      "Pinecrest Avenue"
-    ]
+    ],
+    "nodeId": 89808148
    }
   },
   {
@@ -13915,7 +14780,8 @@
     "streets": [
      "Forest Trail",
      "Pinecrest Avenue"
-    ]
+    ],
+    "nodeId": 89601405
    }
   },
   {
@@ -13931,7 +14797,8 @@
     "streets": [
      "Pine Drive",
      "Sky Meadow Road"
-    ]
+    ],
+    "nodeId": 89809759
    }
   },
   {
@@ -13947,7 +14814,8 @@
     "streets": [
      "Pine Drive",
      "Sky Meadow Road"
-    ]
+    ],
+    "nodeId": 89809745
    }
   },
   {
@@ -13963,7 +14831,8 @@
     "streets": [
      "Around Lake Mary Road",
      "Lake Mary Road"
-    ]
+    ],
+    "nodeId": 89812244
    }
   },
   {
@@ -13979,7 +14848,8 @@
     "streets": [
      "Around Lake Mary Road",
      "Lake Mary Road"
-    ]
+    ],
+    "nodeId": 89812268
    }
   },
   {
@@ -13995,7 +14865,8 @@
     "streets": [
      "CA 203",
      "San Joaquin Ridge Road"
-    ]
+    ],
+    "nodeId": 2149052261
    }
   },
   {
@@ -14011,7 +14882,8 @@
     "streets": [
      "June Lake Loop;CA 158",
      "Northshore Drive"
-    ]
+    ],
+    "nodeId": 89811663
    }
   },
   {
@@ -14027,7 +14899,8 @@
     "streets": [
      "June Lake Loop;CA 158",
      "Northshore Drive"
-    ]
+    ],
+    "nodeId": 89593447
    }
   },
   {
@@ -14043,7 +14916,8 @@
     "streets": [
      "East Mono Lake Drive",
      "Peeler Lake Drive"
-    ]
+    ],
+    "nodeId": 89821874
    }
   },
   {
@@ -14059,7 +14933,8 @@
     "streets": [
      "East Mono Lake Drive",
      "Peeler Lake Drive"
-    ]
+    ],
+    "nodeId": 89713336
    }
   },
   {
@@ -14075,7 +14950,8 @@
     "streets": [
      "Steelhead Drive",
      "Wyoming Street"
-    ]
+    ],
+    "nodeId": 570509120
    }
   },
   {
@@ -14091,7 +14967,8 @@
     "streets": [
      "Steelhead Drive",
      "Wyoming Street"
-    ]
+    ],
+    "nodeId": 89824992
    }
   },
   {
@@ -14107,7 +14984,8 @@
     "streets": [
      "Sierra View Drive",
      "Sweetwater Road;CA 182"
-    ]
+    ],
+    "nodeId": 89815981
    }
   },
   {
@@ -14123,7 +15001,8 @@
     "streets": [
      "Sierra View Drive",
      "Sweetwater Road;CA 182"
-    ]
+    ],
+    "nodeId": 89825094
    }
   },
   {
@@ -14139,7 +15018,8 @@
     "streets": [
      "Fairway Circle",
      "Links Way"
-    ]
+    ],
+    "nodeId": 89818552
    }
   },
   {
@@ -14155,7 +15035,8 @@
     "streets": [
      "Fairway Circle",
      "Links Way"
-    ]
+    ],
+    "nodeId": 89818516
    }
   },
   {
@@ -14171,7 +15052,8 @@
     "streets": [
      "Fairway Circle",
      "Par Court"
-    ]
+    ],
+    "nodeId": 89818509
    }
   },
   {
@@ -14187,7 +15069,8 @@
     "streets": [
      "Fairway Circle",
      "Par Court"
-    ]
+    ],
+    "nodeId": 89818511
    }
   },
   {
@@ -14203,7 +15086,8 @@
     "streets": [
      "Aspen Springs Ranch Road",
      "Crowley Lake Drive"
-    ]
+    ],
+    "nodeId": 89838526
    }
   },
   {
@@ -14219,7 +15103,8 @@
     "streets": [
      "Aspen Springs Ranch Road",
      "Crowley Lake Drive"
-    ]
+    ],
+    "nodeId": 89838538
    }
   },
   {
@@ -14235,7 +15120,8 @@
     "streets": [
      "Forest Trail",
      "Hillside Drive"
-    ]
+    ],
+    "nodeId": 89821105
    }
   },
   {
@@ -14251,7 +15137,8 @@
     "streets": [
      "Forest Trail",
      "Hillside Drive"
-    ]
+    ],
+    "nodeId": 89821130
    }
   },
   {
@@ -14267,7 +15154,8 @@
     "streets": [
      "Bay Street",
      "June Lake Loop;CA 158"
-    ]
+    ],
+    "nodeId": 89830921
    }
   },
   {
@@ -14283,7 +15171,8 @@
     "streets": [
      "Bay Street",
      "June Lake Loop;CA 158"
-    ]
+    ],
+    "nodeId": 89830923
    }
   },
   {
@@ -14299,7 +15188,8 @@
     "streets": [
      "Dave McCoy Memorial Highway;US 395",
      "El Camino Sierra;US 395"
-    ]
+    ],
+    "nodeId": 343642443
    }
   },
   {
@@ -14315,7 +15205,8 @@
     "streets": [
      "Dave McCoy Memorial Highway;US 395",
      "El Camino Sierra;US 395"
-    ]
+    ],
+    "nodeId": 89781212
    }
   },
   {
@@ -14331,7 +15222,8 @@
     "streets": [
      "Patriarch Grove Road;FR 4S01E",
      "White Mountain Road;FR 4S01"
-    ]
+    ],
+    "nodeId": 89662284
    }
   },
   {
@@ -14347,7 +15239,8 @@
     "streets": [
      "Patriarch Grove Road;FR 4S01E",
      "White Mountain Road;FR 4S01"
-    ]
+    ],
+    "nodeId": 89719196
    }
   },
   {
@@ -14363,7 +15256,8 @@
     "streets": [
      "June Lake Loop Road;CA 158",
      "Silver Lake Resort"
-    ]
+    ],
+    "nodeId": 10088912602
    }
   },
   {
@@ -14379,7 +15273,8 @@
     "streets": [
      "June Lake Loop Road;CA 158",
      "Silver Lake Resort"
-    ]
+    ],
+    "nodeId": 10088912578
    }
   },
   {
@@ -14395,7 +15290,8 @@
     "streets": [
      "Benton Crossing Road",
      "El Camino Sierra;US 395"
-    ]
+    ],
+    "nodeId": 870986843
    }
   },
   {
@@ -14411,7 +15307,8 @@
     "streets": [
      "Benton Crossing Road",
      "El Camino Sierra;US 395"
-    ]
+    ],
+    "nodeId": 89785395
    }
   },
   {
@@ -14427,7 +15324,8 @@
     "streets": [
      "Fir Street",
      "Pine Street"
-    ]
+    ],
+    "nodeId": 1052711642
    }
   },
   {
@@ -14443,7 +15341,8 @@
     "streets": [
      "Fir Street",
      "Pine Street"
-    ]
+    ],
+    "nodeId": 1052711689
    }
   },
   {
@@ -14459,7 +15358,8 @@
     "streets": [
      "Bodie Road",
      "Bypass Road"
-    ]
+    ],
+    "nodeId": 539477019
    }
   },
   {
@@ -14475,7 +15375,8 @@
     "streets": [
      "Bodie Road",
      "Bypass Road"
-    ]
+    ],
+    "nodeId": 1586525397
    }
   },
   {
@@ -14491,7 +15392,8 @@
     "streets": [
      "Mill Canyon Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89769672
    }
   },
   {
@@ -14507,7 +15409,8 @@
     "streets": [
      "Mill Canyon Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 89769683
    }
   },
   {
@@ -14523,7 +15426,8 @@
     "streets": [
      "Buckeye Court",
      "Buckeye Road"
-    ]
+    ],
+    "nodeId": 1895078700
    }
   },
   {
@@ -14539,7 +15443,8 @@
     "streets": [
      "Buckeye Court",
      "Buckeye Road"
-    ]
+    ],
+    "nodeId": 1895078701
    }
   },
   {
@@ -14555,7 +15460,8 @@
     "streets": [
      "Buckeye Court",
      "Buckeye Road"
-    ]
+    ],
+    "nodeId": 1895078709
    }
   },
   {
@@ -14571,7 +15477,8 @@
     "streets": [
      "El Camino Sierra;US 395;CA 120",
      "June Lake Loop Road;CA 158"
-    ]
+    ],
+    "nodeId": 574972648
    }
   },
   {
@@ -14587,7 +15494,8 @@
     "streets": [
      "El Camino Sierra;US 395;CA 120",
      "June Lake Loop Road;CA 158"
-    ]
+    ],
+    "nodeId": 574972646
    }
   },
   {
@@ -14603,7 +15511,8 @@
     "streets": [
      "El Camino Sierra;US 395;CA 120",
      "Oil Plant Road"
-    ]
+    ],
+    "nodeId": 2952248904
    }
   },
   {
@@ -14619,7 +15528,8 @@
     "streets": [
      "El Camino Sierra;US 395;CA 120",
      "Oil Plant Road"
-    ]
+    ],
+    "nodeId": 89491514
    }
   },
   {
@@ -14635,7 +15545,8 @@
     "streets": [
      "Evening Star Drive",
      "Minaret Road"
-    ]
+    ],
+    "nodeId": 1910169650
    }
   },
   {
@@ -14651,7 +15562,8 @@
     "streets": [
      "Evening Star Drive",
      "Minaret Road"
-    ]
+    ],
+    "nodeId": 1910169643
    }
   },
   {
@@ -14667,7 +15579,8 @@
     "streets": [
      "El Camino Sierra;US 395;CA 120",
      "Picnic Grounds Road"
-    ]
+    ],
+    "nodeId": 89780324
    }
   },
   {
@@ -14683,7 +15596,8 @@
     "streets": [
      "El Camino Sierra;US 395;CA 120",
      "Picnic Grounds Road"
-    ]
+    ],
+    "nodeId": 2724384188
    }
   },
   {
@@ -14699,7 +15613,8 @@
     "streets": [
      "El Camino Sierra;US 395;CA 120",
      "Horse Meadows Road"
-    ]
+    ],
+    "nodeId": 89780337
    }
   },
   {
@@ -14715,7 +15630,8 @@
     "streets": [
      "El Camino Sierra;US 395;CA 120",
      "Horse Meadows Road"
-    ]
+    ],
+    "nodeId": 1896619383
    }
   },
   {
@@ -14731,7 +15647,8 @@
     "streets": [
      "Majestic Pines Drive",
      "Meridian Boulevard"
-    ]
+    ],
+    "nodeId": 89794033
    }
   },
   {
@@ -14747,7 +15664,8 @@
     "streets": [
      "Majestic Pines Drive",
      "Meridian Boulevard"
-    ]
+    ],
+    "nodeId": 89793944
    }
   },
   {
@@ -14763,7 +15681,8 @@
     "streets": [
      "Gibbs Siphon Road",
      "Horse Meadows Road;FR 1N16"
-    ]
+    ],
+    "nodeId": 89743622
    }
   },
   {
@@ -14779,7 +15698,8 @@
     "streets": [
      "Gibbs Siphon Road",
      "Horse Meadows Road;FR 1N16"
-    ]
+    ],
+    "nodeId": 89832589
    }
   },
   {
@@ -14795,7 +15715,8 @@
     "streets": [
      "Gorge Road",
      "NFR 04S43"
-    ]
+    ],
+    "nodeId": 3900714125
    }
   },
   {
@@ -14811,7 +15732,8 @@
     "streets": [
      "Gorge Road",
      "NFR 04S43"
-    ]
+    ],
+    "nodeId": 8436887879
    }
   },
   {
@@ -14827,7 +15749,8 @@
     "streets": [
      "Grant Lake Road",
      "Grant Lake Road;NFR 01S29"
-    ]
+    ],
+    "nodeId": 9721465731
    }
   },
   {
@@ -14843,7 +15766,8 @@
     "streets": [
      "Grant Lake Road",
      "Grant Lake Road;NFR 01S29"
-    ]
+    ],
+    "nodeId": 4814390009
    }
   },
   {
@@ -14859,7 +15783,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "McGee Creek Road"
-    ]
+    ],
+    "nodeId": 89539951
    }
   },
   {
@@ -14875,7 +15800,8 @@
     "streets": [
      "Crowley Lake Drive",
      "El Camino Sierra;US 395"
-    ]
+    ],
+    "nodeId": 89781444
    }
   },
   {
@@ -14891,7 +15817,8 @@
     "streets": [
      "Dave McCoy Memorial Highway;US 395",
      "Sherwin Creek Road"
-    ]
+    ],
+    "nodeId": 89769732
    }
   },
   {
@@ -14907,7 +15834,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "Sawmill Cutoff;NFR 03S08"
-    ]
+    ],
+    "nodeId": 89550527
    }
   },
   {
@@ -14923,7 +15851,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "Sawmill Cutoff;NFR 03S08"
-    ]
+    ],
+    "nodeId": 89550535
    }
   },
   {
@@ -14939,7 +15868,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "Owens River Road"
-    ]
+    ],
+    "nodeId": 89780955
    }
   },
   {
@@ -14955,7 +15885,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "Owens River Road"
-    ]
+    ],
+    "nodeId": 89785749
    }
   },
   {
@@ -14971,7 +15902,8 @@
     "streets": [
      "Deadman Creek Road",
      "El Camino Sierra;US 395"
-    ]
+    ],
+    "nodeId": 89780931
    }
   },
   {
@@ -14987,7 +15919,8 @@
     "streets": [
      "Deadman Creek Road",
      "El Camino Sierra;US 395"
-    ]
+    ],
+    "nodeId": 89785773
    }
   },
   {
@@ -15003,7 +15936,8 @@
     "streets": [
      "Aquaduct Road",
      "Farrington Siphon Road"
-    ]
+    ],
+    "nodeId": 10773769278
    }
   },
   {
@@ -15019,7 +15953,8 @@
     "streets": [
      "Aquaduct Road",
      "Farrington Siphon Road"
-    ]
+    ],
+    "nodeId": 10773769063
    }
   },
   {
@@ -15035,7 +15970,8 @@
     "streets": [
      "Boulder Drive;CA 158",
      "June Lake Loop;CA 158"
-    ]
+    ],
+    "nodeId": 9716992756
    }
   },
   {
@@ -15051,7 +15987,8 @@
     "streets": [
      "Boulder Drive;CA 158",
      "June Lake Loop;CA 158"
-    ]
+    ],
+    "nodeId": 89830726
    }
   },
   {
@@ -15067,7 +16004,8 @@
     "streets": [
      "Grand Army of the Republic Highway",
      "Grand Army of the Republic Highway;US 6"
-    ]
+    ],
+    "nodeId": 89726943
    }
   },
   {
@@ -15083,7 +16021,8 @@
     "streets": [
      "Grand Army of the Republic Highway",
      "Grand Army of the Republic Highway;US 6"
-    ]
+    ],
+    "nodeId": 9010847956
    }
   }
  ]

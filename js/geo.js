@@ -456,7 +456,7 @@ function avgGps(iter) {
 		latSum += i.coordinates[0];
 		lonSum += i.coordinates[1];
 	}
-	const avg = { coordinates: [latSum / n, lonSum / n], raw: iter[0].raw, streets: iter[0].streets };
+	const avg = { coordinates: [latSum / n, lonSum / n], raw: iter[0].raw, streets: iter[0].streets, nodeId:iter[0].nodeId };
 
 	return avg;
 }
@@ -819,12 +819,28 @@ function notAllMotorwayLinks(nodeId) {
 	const setWays = mapNodeIdToWays.get(nodeId);
 
 	for (const way of setWays) {
-		if (way.tags.highway != 'motorway_link') {
+		if (way.tags.highway != MOTORWAY_LINK) {
 			return true
 		}
 	}
 	return false;
 }
+
+
+function allMotorwayAndLinks(nodeId) {
+
+	const setWays = mapNodeIdToWays.get(nodeId);
+
+	for (const way of setWays) {
+		const highwayType = way.tags.highway;
+
+		if ((highwayType != MOTORWAY_LINK) && (highwayType != MOTORWAY)) {
+			return false
+		}
+	}
+	return true;
+}
+
 
 function debugStreet( street, intersections) {
 	const interesting = intersections.filter( (i) => (i.streets.includes(street)));
@@ -859,6 +875,11 @@ function findintersections(ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
 
 			// there are at least 2 streets, make sure they are not all motorway_links
 			if (!notAllMotorwayLinks(node)) {
+				continue;
+			}
+
+			// skip motorway name changes, and motorway exits
+			if (allMotorwayAndLinks(node)) {
 				continue;
 			}
 			//	console.log(node, nameSet);
@@ -940,7 +961,7 @@ function makeIntersectionGeoJson(intersections) {
 		const coords = [lon, lat]
 
 		const streets = intersection.streets.split(SLASH);
-		const properties = { 'streets': streets };
+		const properties = { 'streets': streets, nodeId:intersection.nodeId };
 		const feature = makePointFeature(coords, properties);
 		arrFeatures.push(feature);
 	}

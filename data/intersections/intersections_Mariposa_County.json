@@ -14,7 +14,8 @@
     "streets": [
      "Mill Canyon Road",
      "Mill Canyon Road;5S17"
-    ]
+    ],
+    "nodeId": 563753039
    }
   },
   {
@@ -30,7 +31,8 @@
     "streets": [
      "Mill Canyon Road;5S17",
      "Southern Yosemite Highway;CA 41"
-    ]
+    ],
+    "nodeId": 88844260
    }
   },
   {
@@ -46,7 +48,8 @@
     "streets": [
      "Aurora Court",
      "Chowchilla Mountain Road"
-    ]
+    ],
+    "nodeId": 88889211
    }
   },
   {
@@ -62,7 +65,8 @@
     "streets": [
      "Grove Street",
      "Hillside Avenue"
-    ]
+    ],
+    "nodeId": 88889277
    }
   },
   {
@@ -78,7 +82,8 @@
     "streets": [
      "Buckeye Creek Road",
      "Doe Run Road"
-    ]
+    ],
+    "nodeId": 88889372
    }
   },
   {
@@ -94,7 +99,8 @@
     "streets": [
      "Granite Springs Road",
      "Tulipan Way"
-    ]
+    ],
+    "nodeId": 88889415
    }
   },
   {
@@ -110,7 +116,8 @@
     "streets": [
      "Grillo Drive",
      "Tulipan Way"
-    ]
+    ],
+    "nodeId": 88889430
    }
   },
   {
@@ -126,7 +133,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Hornitos Road"
-    ]
+    ],
+    "nodeId": 88889434
    }
   },
   {
@@ -142,7 +150,8 @@
     "streets": [
      "Granite Lane",
      "Hornitos Road"
-    ]
+    ],
+    "nodeId": 88889457
    }
   },
   {
@@ -158,7 +167,8 @@
     "streets": [
      "Hornitos Road",
      "Mc Cay Road"
-    ]
+    ],
+    "nodeId": 88889487
    }
   },
   {
@@ -174,7 +184,8 @@
     "streets": [
      "El Toro Road",
      "Hornitos Road"
-    ]
+    ],
+    "nodeId": 88889524
    }
   },
   {
@@ -190,7 +201,8 @@
     "streets": [
      "Hornitos Road",
      "Oak Woods Court"
-    ]
+    ],
+    "nodeId": 88889546
    }
   },
   {
@@ -206,7 +218,8 @@
     "streets": [
      "Hornitos Road",
      "Oakwoods Court"
-    ]
+    ],
+    "nodeId": 88889566
    }
   },
   {
@@ -222,7 +235,8 @@
     "streets": [
      "Hornitos Road",
      "Quail Meadows Lane"
-    ]
+    ],
+    "nodeId": 88890016
    }
   },
   {
@@ -238,7 +252,8 @@
     "streets": [
      "Blue Drive",
      "Hornitos Road"
-    ]
+    ],
+    "nodeId": 88890030
    }
   },
   {
@@ -254,7 +269,8 @@
     "streets": [
      "Blue Oak Drive",
      "Hornitos Road"
-    ]
+    ],
+    "nodeId": 88890050
    }
   },
   {
@@ -270,7 +286,8 @@
     "streets": [
      "Hornitos Road",
      "Old Toll Road"
-    ]
+    ],
+    "nodeId": 88890158
    }
   },
   {
@@ -287,7 +304,8 @@
      "Hornitos Road",
      "Mount Gaines Road",
      "Slate Gulch Road"
-    ]
+    ],
+    "nodeId": 88890258
    }
   },
   {
@@ -303,7 +321,8 @@
     "streets": [
      "Hornitos Road",
      "Indian Gulch Road"
-    ]
+    ],
+    "nodeId": 88890387
    }
   },
   {
@@ -319,7 +338,8 @@
     "streets": [
      "High Street",
      "Hornitos Road"
-    ]
+    ],
+    "nodeId": 88890459
    }
   },
   {
@@ -336,7 +356,8 @@
      "Bear Valley Road;J16",
      "Hornitos Road",
      "Hornitos Road;J16"
-    ]
+    ],
+    "nodeId": 88890467
    }
   },
   {
@@ -352,7 +373,8 @@
     "streets": [
      "Cedar Street",
      "Laurel Way"
-    ]
+    ],
+    "nodeId": 88891006
    }
   },
   {
@@ -368,7 +390,8 @@
     "streets": [
      "Laurel Way",
      "Pine Street"
-    ]
+    ],
+    "nodeId": 88891012
    }
   },
   {
@@ -384,7 +407,8 @@
     "streets": [
      "Chaparral Street",
      "Laurel Way"
-    ]
+    ],
+    "nodeId": 88891023
    }
   },
   {
@@ -400,7 +424,8 @@
     "streets": [
      "Forest Drive",
      "Laurel Way"
-    ]
+    ],
+    "nodeId": 88891032
    }
   },
   {
@@ -416,7 +441,8 @@
     "streets": [
      "Indian Peak Road",
      "Sebastopol Road"
-    ]
+    ],
+    "nodeId": 88891175
    }
   },
   {
@@ -433,7 +459,8 @@
      "CA 49",
      "Indian Peak Road",
      "Silva Road"
-    ]
+    ],
+    "nodeId": 88891186
    }
   },
   {
@@ -449,7 +476,8 @@
     "streets": [
      "Indian Peak Road",
      "Usona Road"
-    ]
+    ],
+    "nodeId": 88891197
    }
   },
   {
@@ -465,7 +493,8 @@
     "streets": [
      "Broncho Hollow Lane",
      "Indian Peak Road"
-    ]
+    ],
+    "nodeId": 88891391
    }
   },
   {
@@ -481,7 +510,8 @@
     "streets": [
      "Hirsch Road",
      "Indian Peak Road"
-    ]
+    ],
+    "nodeId": 88891495
    }
   },
   {
@@ -497,7 +527,8 @@
     "streets": [
      "Indian Peak Road",
      "Sierra Vista Way"
-    ]
+    ],
+    "nodeId": 88891528
    }
   },
   {
@@ -514,7 +545,8 @@
      "Indian Peak Road",
      "Miwuk Road",
      "Oak Grove Road"
-    ]
+    ],
+    "nodeId": 88891574
    }
   },
   {
@@ -530,7 +562,8 @@
     "streets": [
      "Indian Peak Road",
      "Oak Grove Road"
-    ]
+    ],
+    "nodeId": 88891590
    }
   },
   {
@@ -546,7 +579,8 @@
     "streets": [
      "Humbug Creek Road",
      "Indian Peak Road"
-    ]
+    ],
+    "nodeId": 88891668
    }
   },
   {
@@ -562,7 +596,8 @@
     "streets": [
      "Burl Drive",
      "Old Highway Road"
-    ]
+    ],
+    "nodeId": 88895121
    }
   },
   {
@@ -578,7 +613,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Mariposa Dump Road"
-    ]
+    ],
+    "nodeId": 88900987
    }
   },
   {
@@ -594,7 +630,8 @@
     "streets": [
      "Old Highway Road",
      "Totokon Road"
-    ]
+    ],
+    "nodeId": 88909653
    }
   },
   {
@@ -610,7 +647,8 @@
     "streets": [
      "Mountain Way",
      "Sierra Vista Way"
-    ]
+    ],
+    "nodeId": 10240595689
    }
   },
   {
@@ -626,7 +664,8 @@
     "streets": [
      "Guenthart Way",
      "Poppy Ranch Road"
-    ]
+    ],
+    "nodeId": 88954607
    }
   },
   {
@@ -642,7 +681,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Guenthart Way"
-    ]
+    ],
+    "nodeId": 88954625
    }
   },
   {
@@ -658,7 +698,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Joe Howard Street"
-    ]
+    ],
+    "nodeId": 89230229
    }
   },
   {
@@ -674,7 +715,8 @@
     "streets": [
      "Fournier Road",
      "Joe Howard Street"
-    ]
+    ],
+    "nodeId": 89226971
    }
   },
   {
@@ -691,7 +733,8 @@
      "Old Yosemite Coulterville Road",
      "Old Yosemite Road",
      "State Route 2S01"
-    ]
+    ],
+    "nodeId": 88984183
    }
   },
   {
@@ -707,7 +750,8 @@
     "streets": [
      "Bumguardner Mountain Road",
      "Central Yosemite Highway;CA 140"
-    ]
+    ],
+    "nodeId": 89102664
    }
   },
   {
@@ -723,7 +767,8 @@
     "streets": [
      "2S45",
      "Bull Creek Road"
-    ]
+    ],
+    "nodeId": 10940010073
    }
   },
   {
@@ -739,7 +784,8 @@
     "streets": [
      "2S45",
      "Dogtown Road"
-    ]
+    ],
+    "nodeId": 89002207
    }
   },
   {
@@ -755,7 +801,8 @@
     "streets": [
      "Hamilton Station Loop",
      "Hamilton Station Loop Road"
-    ]
+    ],
+    "nodeId": 89056757
    }
   },
   {
@@ -771,7 +818,8 @@
     "streets": [
      "Buck Meadows Road",
      "Hamilton Station Loop"
-    ]
+    ],
+    "nodeId": 89142373
    }
   },
   {
@@ -787,7 +835,8 @@
     "streets": [
      "Hamilton Station Loop",
      "Highway 120;CA 120"
-    ]
+    ],
+    "nodeId": 88969817
    }
   },
   {
@@ -803,7 +852,8 @@
     "streets": [
      "Lakeside Road",
      "Pine Canyon Rd"
-    ]
+    ],
+    "nodeId": 89025147
    }
   },
   {
@@ -819,7 +869,8 @@
     "streets": [
      "Ernst Road",
      "Holtzel Road"
-    ]
+    ],
+    "nodeId": 89052151
    }
   },
   {
@@ -835,7 +886,8 @@
     "streets": [
      "Holtzel Road",
      "Stewart Lane"
-    ]
+    ],
+    "nodeId": 89114958
    }
   },
   {
@@ -851,7 +903,8 @@
     "streets": [
      "Holtzel Road",
      "Shetland Lane"
-    ]
+    ],
+    "nodeId": 88925862
    }
   },
   {
@@ -867,7 +920,8 @@
     "streets": [
      "Holtzel Road",
      "Millbrow Lane"
-    ]
+    ],
+    "nodeId": 89114987
    }
   },
   {
@@ -883,7 +937,8 @@
     "streets": [
      "Greeley Hill Road;CR J132",
      "Holtzel Road"
-    ]
+    ],
+    "nodeId": 89114996
    }
   },
   {
@@ -899,7 +954,8 @@
     "streets": [
      "2S43",
      "Dogtown Road"
-    ]
+    ],
+    "nodeId": 89067983
    }
   },
   {
@@ -915,7 +971,8 @@
     "streets": [
      "Blackberry Creek Road",
      "Morningstar Lane"
-    ]
+    ],
+    "nodeId": 376626864
    }
   },
   {
@@ -932,7 +989,8 @@
      "Clouds Rest",
      "Illiloutte Fall West",
      "Rainbow Falls"
-    ]
+    ],
+    "nodeId": 89077659
    }
   },
   {
@@ -948,7 +1006,8 @@
     "streets": [
      "Bear Valley Road;J16",
      "Mechanic Street"
-    ]
+    ],
+    "nodeId": 89077704
    }
   },
   {
@@ -964,7 +1023,8 @@
     "streets": [
      "High Street",
      "Mechanic Street"
-    ]
+    ],
+    "nodeId": 89077709
    }
   },
   {
@@ -980,7 +1040,8 @@
     "streets": [
      "Old Highway",
      "Wilber's Road"
-    ]
+    ],
+    "nodeId": 89077721
    }
   },
   {
@@ -996,7 +1057,8 @@
     "streets": [
      "Chilnualna Avenue",
      "Yosemite Avenue"
-    ]
+    ],
+    "nodeId": 89077760
    }
   },
   {
@@ -1012,7 +1074,8 @@
     "streets": [
      "El Portal Road",
      "Foresta Road"
-    ]
+    ],
+    "nodeId": 559917879
    }
   },
   {
@@ -1028,7 +1091,8 @@
     "streets": [
      "Brook Road",
      "Parmabelle Road"
-    ]
+    ],
+    "nodeId": 89078625
    }
   },
   {
@@ -1044,7 +1108,8 @@
     "streets": [
      "Harris Cut Off Road",
      "Parmabelle Road"
-    ]
+    ],
+    "nodeId": 89078684
    }
   },
   {
@@ -1060,7 +1125,8 @@
     "streets": [
      "Banderilla Drive",
      "Lorenzo Street"
-    ]
+    ],
+    "nodeId": 89078695
    }
   },
   {
@@ -1076,7 +1142,8 @@
     "streets": [
      "Dolorosa Street",
      "Lorenzo Street"
-    ]
+    ],
+    "nodeId": 89078720
    }
   },
   {
@@ -1092,7 +1159,8 @@
     "streets": [
      "Lorenzo Street",
      "Ranchito Drive"
-    ]
+    ],
+    "nodeId": 89078738
    }
   },
   {
@@ -1108,7 +1176,8 @@
     "streets": [
      "County Road 38F",
      "Stockton Street"
-    ]
+    ],
+    "nodeId": 89078743
    }
   },
   {
@@ -1124,7 +1193,8 @@
     "streets": [
      "County Road 38F",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89078742
    }
   },
   {
@@ -1140,7 +1210,8 @@
     "streets": [
      "Bullion Street",
      "Campbell Way"
-    ]
+    ],
+    "nodeId": 89079149
    }
   },
   {
@@ -1156,7 +1227,8 @@
     "streets": [
      "2nd Street",
      "Bullion Street"
-    ]
+    ],
+    "nodeId": 89079153
    }
   },
   {
@@ -1172,7 +1244,8 @@
     "streets": [
      "Koon Hollar Road",
      "Wawona Way"
-    ]
+    ],
+    "nodeId": 8949049382
    }
   },
   {
@@ -1188,7 +1261,8 @@
     "streets": [
      "Coachman Road",
      "Red Ibis Court"
-    ]
+    ],
+    "nodeId": 89079310
    }
   },
   {
@@ -1204,7 +1278,8 @@
     "streets": [
      "Coachman Road",
      "Harris Cut Off Road"
-    ]
+    ],
+    "nodeId": 89079336
    }
   },
   {
@@ -1220,7 +1295,8 @@
     "streets": [
      "Coachman Road",
      "Grayling Road"
-    ]
+    ],
+    "nodeId": 89079361
    }
   },
   {
@@ -1236,7 +1312,8 @@
     "streets": [
      "Buckhorn Fire Road",
      "Schilling Road"
-    ]
+    ],
+    "nodeId": 88964743
    }
   },
   {
@@ -1252,7 +1329,8 @@
     "streets": [
      "Buckhorn Fire Road",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89080072
    }
   },
   {
@@ -1269,7 +1347,8 @@
      "Chowchilla Mountain Road",
      "Harris Cut Off Road",
      "Leaning Pine Way"
-    ]
+    ],
+    "nodeId": 89080107
    }
   },
   {
@@ -1285,7 +1364,8 @@
     "streets": [
      "Harris Cut Off Road",
      "Silver Doctor Court"
-    ]
+    ],
+    "nodeId": 89080208
    }
   },
   {
@@ -1301,7 +1381,8 @@
     "streets": [
      "Harris Cut Off Road",
      "Kokanee Road"
-    ]
+    ],
+    "nodeId": 89080211
    }
   },
   {
@@ -1317,7 +1398,8 @@
     "streets": [
      "Harris Cut Off Road",
      "Harris Road"
-    ]
+    ],
+    "nodeId": 89080225
    }
   },
   {
@@ -1333,7 +1415,8 @@
     "streets": [
      "Harris Cut Off Road",
      "Speckled Court"
-    ]
+    ],
+    "nodeId": 89080232
    }
   },
   {
@@ -1350,7 +1433,8 @@
      "Brown Court",
      "Harris Cut Off Road",
      "Rainbow Road"
-    ]
+    ],
+    "nodeId": 89080251
    }
   },
   {
@@ -1366,7 +1450,8 @@
     "streets": [
      "Golden Court",
      "Harris Cut Off Road"
-    ]
+    ],
+    "nodeId": 89080261
    }
   },
   {
@@ -1382,7 +1467,8 @@
     "streets": [
      "Chowchilla Mountain Road",
      "Harris Cut Off Road"
-    ]
+    ],
+    "nodeId": 89080275
    }
   },
   {
@@ -1398,7 +1484,8 @@
     "streets": [
      "Carson Creek View",
      "Wilburs Way"
-    ]
+    ],
+    "nodeId": 89080281
    }
   },
   {
@@ -1414,7 +1501,8 @@
     "streets": [
      "Donkey Lane",
      "Jackass Creek Access Road"
-    ]
+    ],
+    "nodeId": 89080286
    }
   },
   {
@@ -1431,7 +1519,8 @@
      "Jackass Creek Access Road",
      "Jackass Ridge Access",
      "Jackass Ridge Road"
-    ]
+    ],
+    "nodeId": 89080316
    }
   },
   {
@@ -1447,7 +1536,8 @@
     "streets": [
      "Jackass Creek Access Road",
      "Jackass Ridge Road"
-    ]
+    ],
+    "nodeId": 89080325
    }
   },
   {
@@ -1463,7 +1553,8 @@
     "streets": [
      "Cuneo Road",
      "Jackass Creek Access Road"
-    ]
+    ],
+    "nodeId": 89080330
    }
   },
   {
@@ -1479,7 +1570,8 @@
     "streets": [
      "CA 49",
      "Middle Fork Chowchilla River"
-    ]
+    ],
+    "nodeId": 89080342
    }
   },
   {
@@ -1495,7 +1587,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Mari Way"
-    ]
+    ],
+    "nodeId": 89080376
    }
   },
   {
@@ -1511,7 +1604,8 @@
     "streets": [
      "Mari Way",
      "Pietra Lane"
-    ]
+    ],
+    "nodeId": 89080402
    }
   },
   {
@@ -1527,7 +1621,8 @@
     "streets": [
      "Briceburg Road",
      "Bull Creek Road"
-    ]
+    ],
+    "nodeId": 89080430
    }
   },
   {
@@ -1543,7 +1638,8 @@
     "streets": [
      "Briceburg Road",
      "Central Yosemite Highway;CA 140"
-    ]
+    ],
+    "nodeId": 89080825
    }
   },
   {
@@ -1559,7 +1655,8 @@
     "streets": [
      "Bull Creek Road",
      "Forest Route 2S02"
-    ]
+    ],
+    "nodeId": 89083115
    }
   },
   {
@@ -1575,7 +1672,8 @@
     "streets": [
      "Bull Creek Road",
      "Old Yosemite Coulterville Road"
-    ]
+    ],
+    "nodeId": 5776314105
    }
   },
   {
@@ -1591,7 +1689,8 @@
     "streets": [
      "Darrah Road",
      "Pinecrest Drive"
-    ]
+    ],
+    "nodeId": 89083855
    }
   },
   {
@@ -1607,7 +1706,8 @@
     "streets": [
      "Chowchilla Court",
      "Harris Road"
-    ]
+    ],
+    "nodeId": 89083927
    }
   },
   {
@@ -1624,7 +1724,8 @@
      "Montain View Street",
      "Vine Street",
      "White Chief Mountain Road"
-    ]
+    ],
+    "nodeId": 89212865
    }
   },
   {
@@ -1640,7 +1741,8 @@
     "streets": [
      "Broadway",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89084767
    }
   },
   {
@@ -1656,7 +1758,8 @@
     "streets": [
      "Broadway",
      "Park Lane"
-    ]
+    ],
+    "nodeId": 89084769
    }
   },
   {
@@ -1672,7 +1775,8 @@
     "streets": [
      "Broadway",
      "Cemetery Road"
-    ]
+    ],
+    "nodeId": 89084774
    }
   },
   {
@@ -1688,7 +1792,8 @@
     "streets": [
      "Broadway",
      "Greeley Hill Road;CR J132"
-    ]
+    ],
+    "nodeId": 89084781
    }
   },
   {
@@ -1704,7 +1809,8 @@
     "streets": [
      "Cedar Avenue",
      "Pine Avenue"
-    ]
+    ],
+    "nodeId": 89084785
    }
   },
   {
@@ -1720,7 +1826,8 @@
     "streets": [
      "Cedar Avenue",
      "Fir Street"
-    ]
+    ],
+    "nodeId": 89084792
    }
   },
   {
@@ -1736,7 +1843,8 @@
     "streets": [
      "Cedar Avenue",
      "Southern Yosemite Highway;CA 41"
-    ]
+    ],
+    "nodeId": 89084795
    }
   },
   {
@@ -1752,7 +1860,8 @@
     "streets": [
      "Corey Pines Road",
      "East Whitlock Road"
-    ]
+    ],
+    "nodeId": 89084800
    }
   },
   {
@@ -1768,7 +1877,8 @@
     "streets": [
      "Indian Gulch Road",
      "Slate Gulch Road"
-    ]
+    ],
+    "nodeId": 89084865
    }
   },
   {
@@ -1784,7 +1894,8 @@
     "streets": [
      "Dudley Ranch Road",
      "Smith Station Road;CR J132"
-    ]
+    ],
+    "nodeId": 89085285
    }
   },
   {
@@ -1800,7 +1911,8 @@
     "streets": [
      "Broncho Hollow Lane",
      "Windy Hollow Road"
-    ]
+    ],
+    "nodeId": 89085291
    }
   },
   {
@@ -1817,7 +1929,8 @@
      "Broncho Hollow Lane",
      "River Haven Drive",
      "Windy Hollow Road"
-    ]
+    ],
+    "nodeId": 89085384
    }
   },
   {
@@ -1833,7 +1946,8 @@
     "streets": [
      "Broncho Hollow Lane",
      "Hidden Valley Road"
-    ]
+    ],
+    "nodeId": 89085443
    }
   },
   {
@@ -1849,7 +1963,8 @@
     "streets": [
      "Dogtown Road",
      "Red Cloud Mine Road"
-    ]
+    ],
+    "nodeId": 89085452
    }
   },
   {
@@ -1865,7 +1980,8 @@
     "streets": [
      "Greeley Hill Road;CR J132",
      "Red Cloud Mine Road"
-    ]
+    ],
+    "nodeId": 89085799
    }
   },
   {
@@ -1881,7 +1997,8 @@
     "streets": [
      "Chilnualna Falls Road",
      "Van Campen Way"
-    ]
+    ],
+    "nodeId": 8511685185
    }
   },
   {
@@ -1897,7 +2014,8 @@
     "streets": [
      "Chilnualna Falls Road",
      "Larke Street"
-    ]
+    ],
+    "nodeId": 89085824
    }
   },
   {
@@ -1913,7 +2031,8 @@
     "streets": [
      "Chilnualna Falls Road",
      "River Road"
-    ]
+    ],
+    "nodeId": 89085841
    }
   },
   {
@@ -1930,7 +2049,8 @@
      "Chilnualna Falls Road",
      "North Hoover Way",
      "South Hoover Way"
-    ]
+    ],
+    "nodeId": 89085855
    }
   },
   {
@@ -1946,7 +2066,8 @@
     "streets": [
      "Chilnualna Falls Road",
      "East Bruce Road"
-    ]
+    ],
+    "nodeId": 89085870
    }
   },
   {
@@ -1963,7 +2084,8 @@
      "Chilnualna Falls Road",
      "West Bruce Road",
      "Yosemite Pines Lane"
-    ]
+    ],
+    "nodeId": 89085880
    }
   },
   {
@@ -1979,7 +2101,8 @@
     "streets": [
      "Chilnualna Falls Road",
      "Mariposa Avenue"
-    ]
+    ],
+    "nodeId": 89085897
    }
   },
   {
@@ -1995,7 +2118,8 @@
     "streets": [
      "Chilnualna Falls Road",
      "Spelt Road"
-    ]
+    ],
+    "nodeId": 89085910
    }
   },
   {
@@ -2011,7 +2135,8 @@
     "streets": [
      "Chilnualna Falls Road",
      "Wawona Road"
-    ]
+    ],
+    "nodeId": 89276921
    }
   },
   {
@@ -2028,7 +2153,8 @@
      "Creek View Drive",
      "Oakdale Drive",
      "Valley Oak Circle"
-    ]
+    ],
+    "nodeId": 89085943
    }
   },
   {
@@ -2044,7 +2170,8 @@
     "streets": [
      "Ahwahnee Drive",
      "Village Drive"
-    ]
+    ],
+    "nodeId": 89085954
    }
   },
   {
@@ -2060,7 +2187,8 @@
     "streets": [
      "Cumo Wagne",
      "Wildrose Lane"
-    ]
+    ],
+    "nodeId": 89086030
    }
   },
   {
@@ -2076,7 +2204,8 @@
     "streets": [
      "Cumo Wagne",
      "Incense Cedar Trail"
-    ]
+    ],
+    "nodeId": 95095182
    }
   },
   {
@@ -2093,7 +2222,8 @@
      "Allans Way",
      "Heron Circle",
      "Reiff Way"
-    ]
+    ],
+    "nodeId": 89086038
    }
   },
   {
@@ -2109,7 +2239,8 @@
     "streets": [
      "Allans Way",
      "Stout Lane"
-    ]
+    ],
+    "nodeId": 89086085
    }
   },
   {
@@ -2126,7 +2257,8 @@
      "Maxwell Road",
      "Maxwell Street",
      "Pine Street"
-    ]
+    ],
+    "nodeId": 89086109
    }
   },
   {
@@ -2142,7 +2274,8 @@
     "streets": [
      "Pine Street",
      "Water Street"
-    ]
+    ],
+    "nodeId": 89086126
    }
   },
   {
@@ -2158,7 +2291,8 @@
     "streets": [
      "Main Street;CR J132",
      "Pine Street"
-    ]
+    ],
+    "nodeId": 89086128
    }
   },
   {
@@ -2174,7 +2308,8 @@
     "streets": [
      "Round Tree Saddle Road",
      "Standard Mill Road"
-    ]
+    ],
+    "nodeId": 88996309
    }
   },
   {
@@ -2190,7 +2325,8 @@
     "streets": [
      "Abbie Road",
      "Trailer Court Road"
-    ]
+    ],
+    "nodeId": 88998588
    }
   },
   {
@@ -2206,7 +2342,8 @@
     "streets": [
      "Forest Drive",
      "Summit Road"
-    ]
+    ],
+    "nodeId": 88891036
    }
   },
   {
@@ -2222,7 +2359,8 @@
     "streets": [
      "Forest Drive",
      "Railroad Avenue"
-    ]
+    ],
+    "nodeId": 89087270
    }
   },
   {
@@ -2238,7 +2376,8 @@
     "streets": [
      "Cedar Street",
      "Forest Drive"
-    ]
+    ],
+    "nodeId": 89087319
    }
   },
   {
@@ -2254,7 +2393,8 @@
     "streets": [
      "Grist Road",
      "Indian Rock Trail"
-    ]
+    ],
+    "nodeId": 89087455
    }
   },
   {
@@ -2270,7 +2410,8 @@
     "streets": [
      "Allred Road",
      "Spring View Court"
-    ]
+    ],
+    "nodeId": 376624708
    }
   },
   {
@@ -2286,7 +2427,8 @@
     "streets": [
      "CA 49",
      "Peg Leg Road"
-    ]
+    ],
+    "nodeId": 89087665
    }
   },
   {
@@ -2302,7 +2444,8 @@
     "streets": [
      "Abbie Road",
      "Central Yosemite Highway;CA 140"
-    ]
+    ],
+    "nodeId": 89087684
    }
   },
   {
@@ -2318,7 +2461,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Trailer Court Access Road"
-    ]
+    ],
+    "nodeId": 10051756489
    }
   },
   {
@@ -2334,7 +2478,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Trailer Court"
-    ]
+    ],
+    "nodeId": 89087711
    }
   },
   {
@@ -2350,7 +2495,8 @@
     "streets": [
      "Chicharra Court",
      "Chicharra Way"
-    ]
+    ],
+    "nodeId": 89087914
    }
   },
   {
@@ -2366,7 +2512,8 @@
     "streets": [
      "Pilot Peak Road",
      "Piute Court"
-    ]
+    ],
+    "nodeId": 89087917
    }
   },
   {
@@ -2382,7 +2529,8 @@
     "streets": [
      "CA 49",
      "Jacobs Road"
-    ]
+    ],
+    "nodeId": 89088050
    }
   },
   {
@@ -2398,7 +2546,8 @@
     "streets": [
      "Tip Top Road",
      "Triangle Road"
-    ]
+    ],
+    "nodeId": 89088055
    }
   },
   {
@@ -2414,7 +2563,8 @@
     "streets": [
      "Tip Top Road",
      "Wass Road"
-    ]
+    ],
+    "nodeId": 89088056
    }
   },
   {
@@ -2431,7 +2581,8 @@
      "Country Lane",
      "Hillside Drive",
      "Tip Top Road"
-    ]
+    ],
+    "nodeId": 89088075
    }
   },
   {
@@ -2447,7 +2598,8 @@
     "streets": [
      "Hillside Drive",
      "Tip Top Road"
-    ]
+    ],
+    "nodeId": 89088077
    }
   },
   {
@@ -2463,7 +2615,8 @@
     "streets": [
      "Poppy Lake Road",
      "Tip Top Road"
-    ]
+    ],
+    "nodeId": 89088100
    }
   },
   {
@@ -2479,7 +2632,8 @@
     "streets": [
      "Ridge Top Road",
      "Tip Top Road"
-    ]
+    ],
+    "nodeId": 89088103
    }
   },
   {
@@ -2495,7 +2649,8 @@
     "streets": [
      "Gunther Road",
      "Tip Top Road"
-    ]
+    ],
+    "nodeId": 89088149
    }
   },
   {
@@ -2511,7 +2666,8 @@
     "streets": [
      "Pilot Ridge Road",
      "Scott Ridge Road"
-    ]
+    ],
+    "nodeId": 89015132
    }
   },
   {
@@ -2527,7 +2683,8 @@
     "streets": [
      "Buck Meadows Road",
      "Scott Ridge Road"
-    ]
+    ],
+    "nodeId": 89088562
    }
   },
   {
@@ -2543,7 +2700,8 @@
     "streets": [
      "Quailmine Road",
      "Texas Hill Road"
-    ]
+    ],
+    "nodeId": 89089537
    }
   },
   {
@@ -2559,7 +2717,8 @@
     "streets": [
      "Ben Hur Road",
      "Preston Road"
-    ]
+    ],
+    "nodeId": 89089563
    }
   },
   {
@@ -2575,7 +2734,8 @@
     "streets": [
      "Ben Hur Road",
      "Buckeye Road"
-    ]
+    ],
+    "nodeId": 89090974
    }
   },
   {
@@ -2592,7 +2752,8 @@
      "Ben Hur Road",
      "Mormom Bar Crossing",
      "Mormon Bar Crossing"
-    ]
+    ],
+    "nodeId": 89011124
    }
   },
   {
@@ -2608,7 +2769,8 @@
     "streets": [
      "Ben Hur Road",
      "Green Hills Road"
-    ]
+    ],
+    "nodeId": 10240572881
    }
   },
   {
@@ -2624,7 +2786,8 @@
     "streets": [
      "Ben Hur Road",
      "Foxfield Lane"
-    ]
+    ],
+    "nodeId": 89091121
    }
   },
   {
@@ -2640,7 +2803,8 @@
     "streets": [
      "Ben Hur Road",
      "Blue Bonnet Lane"
-    ]
+    ],
+    "nodeId": 89091295
    }
   },
   {
@@ -2656,7 +2820,8 @@
     "streets": [
      "Ben Hur Road",
      "Mormon Bar Crossing"
-    ]
+    ],
+    "nodeId": 376660862
    }
   },
   {
@@ -2673,7 +2838,8 @@
      "Ben Hur Road",
      "CA 49",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 376660821
    }
   },
   {
@@ -2689,7 +2855,8 @@
     "streets": [
      "Fachada Way",
      "Vista Verde Circle"
-    ]
+    ],
+    "nodeId": 89091487
    }
   },
   {
@@ -2705,7 +2872,8 @@
     "streets": [
      "Hernandez Drive",
      "Vista Verde Circle"
-    ]
+    ],
+    "nodeId": 89091489
    }
   },
   {
@@ -2722,7 +2890,8 @@
      "Dexter Road",
      "Fiske Road",
      "Lone Oak Drive"
-    ]
+    ],
+    "nodeId": 88905198
    }
   },
   {
@@ -2738,7 +2907,8 @@
     "streets": [
      "Converse Road",
      "Fiske Road"
-    ]
+    ],
+    "nodeId": 89092876
    }
   },
   {
@@ -2754,7 +2924,8 @@
     "streets": [
      "Fiske Road",
      "Greeley Hill Road;CR J132"
-    ]
+    ],
+    "nodeId": 89093033
    }
   },
   {
@@ -2770,7 +2941,8 @@
     "streets": [
      "Fiske Road",
      "Shy Fox Lane"
-    ]
+    ],
+    "nodeId": 89093059
    }
   },
   {
@@ -2787,7 +2959,8 @@
      "Cerro Sierra Drive",
      "Fiske Hill Road",
      "Fiske Road"
-    ]
+    ],
+    "nodeId": 89093080
    }
   },
   {
@@ -2803,7 +2976,8 @@
     "streets": [
      "Cierra Sierra Drive",
      "Fiske Road"
-    ]
+    ],
+    "nodeId": 89093097
    }
   },
   {
@@ -2820,7 +2994,8 @@
      "Converse Road",
      "Dexter Road",
      "Fiske Road"
-    ]
+    ],
+    "nodeId": 89093136
    }
   },
   {
@@ -2836,7 +3011,8 @@
     "streets": [
      "Banderilla Drive",
      "Hidalgo Street"
-    ]
+    ],
+    "nodeId": 89093670
    }
   },
   {
@@ -2852,7 +3028,8 @@
     "streets": [
      "Alamo Drive",
      "Banderilla Drive"
-    ]
+    ],
+    "nodeId": 89093628
    }
   },
   {
@@ -2868,7 +3045,8 @@
     "streets": [
      "Banderilla Drive",
      "Villarreal Drive"
-    ]
+    ],
+    "nodeId": 89093609
    }
   },
   {
@@ -2884,7 +3062,8 @@
     "streets": [
      "Banderilla Drive",
      "Carrizo Way"
-    ]
+    ],
+    "nodeId": 89093593
    }
   },
   {
@@ -2900,7 +3079,8 @@
     "streets": [
      "Banderilla Drive",
      "Rastro Way"
-    ]
+    ],
+    "nodeId": 89093591
    }
   },
   {
@@ -2916,7 +3096,8 @@
     "streets": [
      "Banderilla Drive",
      "Paraiso Boulevard"
-    ]
+    ],
+    "nodeId": 89093587
    }
   },
   {
@@ -2932,7 +3113,8 @@
     "streets": [
      "Banderilla Drive",
      "Picadero Way"
-    ]
+    ],
+    "nodeId": 89093572
    }
   },
   {
@@ -2948,7 +3130,8 @@
     "streets": [
      "Banderilla Drive",
      "Laredo Street"
-    ]
+    ],
+    "nodeId": 89093556
    }
   },
   {
@@ -2964,7 +3147,8 @@
     "streets": [
      "Banderilla Drive",
      "Ranchito Drive"
-    ]
+    ],
+    "nodeId": 89093541
    }
   },
   {
@@ -2980,7 +3164,8 @@
     "streets": [
      "Banderilla Drive",
      "El Campo Drive"
-    ]
+    ],
+    "nodeId": 89093534
    }
   },
   {
@@ -2996,7 +3181,8 @@
     "streets": [
      "Banderilla Drive",
      "Zelma Way"
-    ]
+    ],
+    "nodeId": 89093497
    }
   },
   {
@@ -3012,7 +3198,8 @@
     "streets": [
      "Banderilla Drive",
      "Mojica Way"
-    ]
+    ],
+    "nodeId": 89093337
    }
   },
   {
@@ -3028,7 +3215,8 @@
     "streets": [
      "Banderilla Drive",
      "Luna Court"
-    ]
+    ],
+    "nodeId": 89093331
    }
   },
   {
@@ -3044,7 +3232,8 @@
     "streets": [
      "Banderilla Drive",
      "Dolorosa Street"
-    ]
+    ],
+    "nodeId": 89093321
    }
   },
   {
@@ -3060,7 +3249,8 @@
     "streets": [
      "Banderilla Drive",
      "Jalisco Way"
-    ]
+    ],
+    "nodeId": 89093288
    }
   },
   {
@@ -3076,7 +3266,8 @@
     "streets": [
      "Banderilla Drive",
      "Capullo Circle"
-    ]
+    ],
+    "nodeId": 89093243
    }
   },
   {
@@ -3093,7 +3284,8 @@
      "Banderilla Drive",
      "Capullo Circle",
      "Jalisco Way"
-    ]
+    ],
+    "nodeId": 89093187
    }
   },
   {
@@ -3110,7 +3302,8 @@
      "Banderilla Drive",
      "Ranchito Drive",
      "Villarreal Drive"
-    ]
+    ],
+    "nodeId": 89093182
    }
   },
   {
@@ -3126,7 +3319,8 @@
     "streets": [
      "Chipmonk Hollow",
      "River Road"
-    ]
+    ],
+    "nodeId": 89093692
    }
   },
   {
@@ -3142,7 +3336,8 @@
     "streets": [
      "Bear Valley Road;J16",
      "Saint Catherine Street"
-    ]
+    ],
+    "nodeId": 89093844
    }
   },
   {
@@ -3158,7 +3353,8 @@
     "streets": [
      "Oak Road",
      "Yosemite Oaks Road"
-    ]
+    ],
+    "nodeId": 89093849
    }
   },
   {
@@ -3174,7 +3370,8 @@
     "streets": [
      "Oak Road",
      "Windsong Lane"
-    ]
+    ],
+    "nodeId": 89093852
    }
   },
   {
@@ -3190,7 +3387,8 @@
     "streets": [
      "Eagle Peak Road",
      "Pine Road Lane"
-    ]
+    ],
+    "nodeId": 89231659
    }
   },
   {
@@ -3206,7 +3404,8 @@
     "streets": [
      "Eagle Peak Road",
      "Pine Road"
-    ]
+    ],
+    "nodeId": 559918045
    }
   },
   {
@@ -3222,7 +3421,8 @@
     "streets": [
      "Crane Creek Road",
      "Eagle Peak Road"
-    ]
+    ],
+    "nodeId": 559918029
    }
   },
   {
@@ -3238,7 +3438,8 @@
     "streets": [
      "Bear Clover Lane",
      "Scott Road"
-    ]
+    ],
+    "nodeId": 89094298
    }
   },
   {
@@ -3254,7 +3455,8 @@
     "streets": [
      "Paso Pass Road",
      "Stumpfield Mountain Road"
-    ]
+    ],
+    "nodeId": 89094441
    }
   },
   {
@@ -3270,7 +3472,8 @@
     "streets": [
      "Cricket Hill Road",
      "Paso Pass Road"
-    ]
+    ],
+    "nodeId": 89094516
    }
   },
   {
@@ -3286,7 +3489,8 @@
     "streets": [
      "Tierra Vista",
      "Vista Lago"
-    ]
+    ],
+    "nodeId": 89094521
    }
   },
   {
@@ -3303,7 +3507,8 @@
      "Cadena Way",
      "Gusano Court",
      "Gusano Way"
-    ]
+    ],
+    "nodeId": 89094545
    }
   },
   {
@@ -3319,7 +3524,8 @@
     "streets": [
      "Black Jack Mine Road",
      "Gusano Way"
-    ]
+    ],
+    "nodeId": 89094555
    }
   },
   {
@@ -3335,7 +3541,8 @@
     "streets": [
      "Blanchard Road",
      "Gusano Way"
-    ]
+    ],
+    "nodeId": 89094573
    }
   },
   {
@@ -3351,7 +3558,8 @@
     "streets": [
      "Oak Grove Road",
      "Oak Grove School Road"
-    ]
+    ],
+    "nodeId": 89095378
    }
   },
   {
@@ -3367,7 +3575,8 @@
     "streets": [
      "Blade Creek Road",
      "Oak Grove Road"
-    ]
+    ],
+    "nodeId": 89095764
    }
   },
   {
@@ -3383,7 +3592,8 @@
     "streets": [
      "Grayling Road",
      "Kokanee Road"
-    ]
+    ],
+    "nodeId": 89096050
    }
   },
   {
@@ -3399,7 +3609,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "West First Street"
-    ]
+    ],
+    "nodeId": 11246068198
    }
   },
   {
@@ -3415,7 +3626,8 @@
     "streets": [
      "Azucena Court",
      "Blanchard Road"
-    ]
+    ],
+    "nodeId": 89096300
    }
   },
   {
@@ -3431,7 +3643,8 @@
     "streets": [
      "Azucena Court",
      "Chicharra Way"
-    ]
+    ],
+    "nodeId": 89096312
    }
   },
   {
@@ -3447,7 +3660,8 @@
     "streets": [
      "Forest Route 1S15",
      "Forest Route 1S16"
-    ]
+    ],
+    "nodeId": 89005749
    }
   },
   {
@@ -3463,7 +3677,8 @@
     "streets": [
      "Ashworth Road",
      "Silver Lane"
-    ]
+    ],
+    "nodeId": 89097540
    }
   },
   {
@@ -3479,7 +3694,8 @@
     "streets": [
      "Ponds Way",
      "Silver Lane"
-    ]
+    ],
+    "nodeId": 89097599
    }
   },
   {
@@ -3496,7 +3712,8 @@
      "Lakeside Dr",
      "Lakeside Drive",
      "Lakeside Road"
-    ]
+    ],
+    "nodeId": 89097736
    }
   },
   {
@@ -3512,7 +3729,8 @@
     "streets": [
      "Royal Arches",
      "Snow Creek Fall"
-    ]
+    ],
+    "nodeId": 89097795
    }
   },
   {
@@ -3528,7 +3746,8 @@
     "streets": [
      "Royal Arches",
      "Silverstrand Fall"
-    ]
+    ],
+    "nodeId": 89097799
    }
   },
   {
@@ -3544,7 +3763,8 @@
     "streets": [
      "Larkspur Lane",
      "South Hoover Way"
-    ]
+    ],
+    "nodeId": 89097826
    }
   },
   {
@@ -3560,7 +3780,8 @@
     "streets": [
      "Larkspur Lane",
      "River Road"
-    ]
+    ],
+    "nodeId": 89097838
    }
   },
   {
@@ -3576,7 +3797,8 @@
     "streets": [
      "Forest Route 1S16",
      "Smith Peak Lookout Road"
-    ]
+    ],
+    "nodeId": 89097964
    }
   },
   {
@@ -3592,7 +3814,8 @@
     "streets": [
      "Forest Route 1S16",
      "Smith Station Road;CR J132"
-    ]
+    ],
+    "nodeId": 89097971
    }
   },
   {
@@ -3609,7 +3832,8 @@
      "C Y A Road",
      "Half Way",
      "Mount Bullion Ridge Road"
-    ]
+    ],
+    "nodeId": 89098006
    }
   },
   {
@@ -3625,7 +3849,8 @@
     "streets": [
      "Morrissey Lane",
      "Mount Bullion Ridge Road"
-    ]
+    ],
+    "nodeId": 89098233
    }
   },
   {
@@ -3641,7 +3866,8 @@
     "streets": [
      "Mount Bullion Ridge Road",
      "Mount Bullon Ridge Road"
-    ]
+    ],
+    "nodeId": 89098271
    }
   },
   {
@@ -3657,7 +3883,8 @@
     "streets": [
      "Darrah Road",
      "Owl Creek Road"
-    ]
+    ],
+    "nodeId": 89098533
    }
   },
   {
@@ -3673,7 +3900,8 @@
     "streets": [
      "Owl Creek Road",
      "Quail Ridge Drive"
-    ]
+    ],
+    "nodeId": 89098580
    }
   },
   {
@@ -3689,7 +3917,8 @@
     "streets": [
      "Henness Circle",
      "Henness Ridge Drive"
-    ]
+    ],
+    "nodeId": 89098668
    }
   },
   {
@@ -3705,7 +3934,8 @@
     "streets": [
      "Henness Ridge Drive",
      "Henness Ridge Road"
-    ]
+    ],
+    "nodeId": 89098705
    }
   },
   {
@@ -3721,7 +3951,8 @@
     "streets": [
      "Henness Ridge Drive",
      "Wawona Road"
-    ]
+    ],
+    "nodeId": 88902353
    }
   },
   {
@@ -3737,7 +3968,8 @@
     "streets": [
      "Bogey Circle",
      "East Bruce Road"
-    ]
+    ],
+    "nodeId": 89099482
    }
   },
   {
@@ -3753,7 +3985,8 @@
     "streets": [
      "Ahwahnee Street",
      "Nevada Fall"
-    ]
+    ],
+    "nodeId": 89099487
    }
   },
   {
@@ -3769,7 +4002,8 @@
     "streets": [
      "Glacier Point",
      "Ribbon Fall"
-    ]
+    ],
+    "nodeId": 89099541
    }
   },
   {
@@ -3785,7 +4019,8 @@
     "streets": [
      "Ahwahnee Street",
      "Glacier Point"
-    ]
+    ],
+    "nodeId": 89099565
    }
   },
   {
@@ -3802,7 +4037,8 @@
      "Creel Road",
      "Garcia Court",
      "Shoshone Road"
-    ]
+    ],
+    "nodeId": 89099666
    }
   },
   {
@@ -3818,7 +4054,8 @@
     "streets": [
      "Coho Court",
      "Shoshone Road"
-    ]
+    ],
+    "nodeId": 89099680
    }
   },
   {
@@ -3834,7 +4071,8 @@
     "streets": [
      "Mono Court",
      "Shoshone Road"
-    ]
+    ],
+    "nodeId": 89099698
    }
   },
   {
@@ -3850,7 +4088,8 @@
     "streets": [
      "Pilot Peak Road",
      "Shoshone Road"
-    ]
+    ],
+    "nodeId": 89099719
    }
   },
   {
@@ -3866,7 +4105,8 @@
     "streets": [
      "Buckskin Road",
      "Morningstar Lane"
-    ]
+    ],
+    "nodeId": 89099771
    }
   },
   {
@@ -3882,7 +4122,8 @@
     "streets": [
      "Old Toll Road",
      "Pendola Garden Road"
-    ]
+    ],
+    "nodeId": 89099831
    }
   },
   {
@@ -3898,7 +4139,8 @@
     "streets": [
      "Carstens Road",
      "Central Yosemite Highway;CA 140"
-    ]
+    ],
+    "nodeId": 89100277
    }
   },
   {
@@ -3914,7 +4156,8 @@
     "streets": [
      "Carstens Road",
      "Ponderosa Way"
-    ]
+    ],
+    "nodeId": 89100442
    }
   },
   {
@@ -3930,7 +4173,8 @@
     "streets": [
      "Jenny Lane",
      "Old Allred Road"
-    ]
+    ],
+    "nodeId": 89101042
    }
   },
   {
@@ -3946,7 +4190,8 @@
     "streets": [
      "Stout Lane",
      "Sugar Pine Drive"
-    ]
+    ],
+    "nodeId": 89101047
    }
   },
   {
@@ -3962,7 +4207,8 @@
     "streets": [
      "Reiff Way",
      "Sugar Pine Drive"
-    ]
+    ],
+    "nodeId": 89101061
    }
   },
   {
@@ -3978,7 +4224,8 @@
     "streets": [
      "Heron Circle",
      "Sugar Pine Drive"
-    ]
+    ],
+    "nodeId": 89101066
    }
   },
   {
@@ -3994,7 +4241,8 @@
     "streets": [
      "Half Way",
      "Half Way Road"
-    ]
+    ],
+    "nodeId": 88969806
    }
   },
   {
@@ -4010,7 +4258,8 @@
     "streets": [
      "Drunken Gulch Road",
      "Half Way Road"
-    ]
+    ],
+    "nodeId": 89101214
    }
   },
   {
@@ -4026,7 +4275,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Merced Street"
-    ]
+    ],
+    "nodeId": 89101219
    }
   },
   {
@@ -4043,7 +4293,8 @@
      "Ferry Road",
      "Merced Street",
      "Water Street"
-    ]
+    ],
+    "nodeId": 89101222
    }
   },
   {
@@ -4059,7 +4310,8 @@
     "streets": [
      "Emerson Lane",
      "Heritage Lane"
-    ]
+    ],
+    "nodeId": 89101225
    }
   },
   {
@@ -4075,7 +4327,8 @@
     "streets": [
      "Crane Flat Road",
      "Le Conte Way"
-    ]
+    ],
+    "nodeId": 89101245
    }
   },
   {
@@ -4091,7 +4344,8 @@
     "streets": [
      "Campground Road",
      "Le Conte Way"
-    ]
+    ],
+    "nodeId": 89105920
    }
   },
   {
@@ -4107,7 +4361,8 @@
     "streets": [
      "El Campo Drive",
      "Zelma Way"
-    ]
+    ],
+    "nodeId": 89101355
    }
   },
   {
@@ -4123,7 +4378,8 @@
     "streets": [
      "Torre Drive",
      "Zelma Way"
-    ]
+    ],
+    "nodeId": 89101379
    }
   },
   {
@@ -4139,7 +4395,8 @@
     "streets": [
      "Dexter Road",
      "Pine Lake Drive"
-    ]
+    ],
+    "nodeId": 89101415
    }
   },
   {
@@ -4155,7 +4412,8 @@
     "streets": [
      "Dexter Road",
      "Pine Drive"
-    ]
+    ],
+    "nodeId": 89101554
    }
   },
   {
@@ -4171,7 +4429,8 @@
     "streets": [
      "Dexter Road",
      "Ponderosa Way"
-    ]
+    ],
+    "nodeId": 89176966
    }
   },
   {
@@ -4187,7 +4446,8 @@
     "streets": [
      "Ganns Coreal Road",
      "Gavilch Road"
-    ]
+    ],
+    "nodeId": 89101566
    }
   },
   {
@@ -4203,7 +4463,8 @@
     "streets": [
      "Gavilan Road",
      "Gavilch Road"
-    ]
+    ],
+    "nodeId": 89101595
    }
   },
   {
@@ -4219,7 +4480,8 @@
     "streets": [
      "Quail Hollow",
      "Windy Hollow Road"
-    ]
+    ],
+    "nodeId": 89101600
    }
   },
   {
@@ -4235,7 +4497,8 @@
     "streets": [
      "Mirasol Way",
      "Rincon Court"
-    ]
+    ],
+    "nodeId": 89101622
    }
   },
   {
@@ -4251,7 +4514,8 @@
     "streets": [
      "Boyer Road",
      "CA 49"
-    ]
+    ],
+    "nodeId": 376644061
    }
   },
   {
@@ -4267,7 +4531,8 @@
     "streets": [
      "Boyer Road",
      "Wood Rush Lane"
-    ]
+    ],
+    "nodeId": 376644700
    }
   },
   {
@@ -4283,7 +4548,8 @@
     "streets": [
      "Boyer Road",
      "Homestead Road"
-    ]
+    ],
+    "nodeId": 89101714
    }
   },
   {
@@ -4299,7 +4565,8 @@
     "streets": [
      "Boyer Road",
      "Italian Creek Road"
-    ]
+    ],
+    "nodeId": 376645900
    }
   },
   {
@@ -4315,7 +4582,8 @@
     "streets": [
      "Boyer Road",
      "Fox Hollow Lane"
-    ]
+    ],
+    "nodeId": 376645985
    }
   },
   {
@@ -4331,7 +4599,8 @@
     "streets": [
      "Hornitos Road;J16",
      "Merced Fall Hornitos Road"
-    ]
+    ],
+    "nodeId": 88890736
    }
   },
   {
@@ -4347,7 +4616,8 @@
     "streets": [
      "Old Highway Road",
      "Scrubby Oak Drive"
-    ]
+    ],
+    "nodeId": 89101920
    }
   },
   {
@@ -4363,7 +4633,8 @@
     "streets": [
      "Schafer Road",
      "Silva Road"
-    ]
+    ],
+    "nodeId": 89101964
    }
   },
   {
@@ -4379,7 +4650,8 @@
     "streets": [
      "Paqala Springs Road",
      "Schafer Road"
-    ]
+    ],
+    "nodeId": 88914799
    }
   },
   {
@@ -4395,7 +4667,8 @@
     "streets": [
      "Laredo Street",
      "Rastro Way"
-    ]
+    ],
+    "nodeId": 89102170
    }
   },
   {
@@ -4411,7 +4684,8 @@
     "streets": [
      "Laredo Street",
      "Zamora Street"
-    ]
+    ],
+    "nodeId": 89102205
    }
   },
   {
@@ -4427,7 +4701,8 @@
     "streets": [
      "Buena Vista Drive",
      "Laredo Street"
-    ]
+    ],
+    "nodeId": 89102222
    }
   },
   {
@@ -4443,7 +4718,8 @@
     "streets": [
      "Baytree Lane",
      "Mariposa Creek Circle"
-    ]
+    ],
+    "nodeId": 89102291
    }
   },
   {
@@ -4459,7 +4735,8 @@
     "streets": [
      "Smith Road",
      "Spriggs Lane"
-    ]
+    ],
+    "nodeId": 89102355
    }
   },
   {
@@ -4475,7 +4752,8 @@
     "streets": [
      "Spriggs Lane",
      "Terrace View Lane"
-    ]
+    ],
+    "nodeId": 89102362
    }
   },
   {
@@ -4491,7 +4769,8 @@
     "streets": [
      "Guadalupe Creek Road",
      "Quail Court"
-    ]
+    ],
+    "nodeId": 89102367
    }
   },
   {
@@ -4507,7 +4786,8 @@
     "streets": [
      "Meadow Lane",
      "Old Orchard Lane"
-    ]
+    ],
+    "nodeId": 89103861
    }
   },
   {
@@ -4523,7 +4803,8 @@
     "streets": [
      "4th Street",
      "Bullion Street"
-    ]
+    ],
+    "nodeId": 89079164
    }
   },
   {
@@ -4540,7 +4821,8 @@
      "4th Street",
      "Central Yosemite Highway;CA 49",
      "Central Yosemite Highway;CA 49;CA 140"
-    ]
+    ],
+    "nodeId": 89103898
    }
   },
   {
@@ -4557,7 +4839,8 @@
      "El Dorado Street",
      "Plaza Alley",
      "Wilson Avenue"
-    ]
+    ],
+    "nodeId": 89103917
    }
   },
   {
@@ -4573,7 +4856,8 @@
     "streets": [
      "Southern Yosemite Highway;CA 41",
      "Summit Road"
-    ]
+    ],
+    "nodeId": 89087254
    }
   },
   {
@@ -4589,7 +4873,8 @@
     "streets": [
      "Bailey Flats Road",
      "Usona Road"
-    ]
+    ],
+    "nodeId": 89030021
    }
   },
   {
@@ -4606,7 +4891,8 @@
      "CA 49",
      "Usona Road",
      "Wass Road"
-    ]
+    ],
+    "nodeId": 89105430
    }
   },
   {
@@ -4622,7 +4908,8 @@
     "streets": [
      "Leonard Road",
      "Usona Road"
-    ]
+    ],
+    "nodeId": 89105540
    }
   },
   {
@@ -4638,7 +4925,8 @@
     "streets": [
      "Bear Trap Lane",
      "Mykleoaks Road"
-    ]
+    ],
+    "nodeId": 89105738
    }
   },
   {
@@ -4654,7 +4942,8 @@
     "streets": [
      "Lazo Way",
      "Zarzo Way"
-    ]
+    ],
+    "nodeId": 89105971
    }
   },
   {
@@ -4670,7 +4959,8 @@
     "streets": [
      "Coronado Drive",
      "Zarzo Way"
-    ]
+    ],
+    "nodeId": 89106020
    }
   },
   {
@@ -4686,7 +4976,8 @@
     "streets": [
      "Buckeye Creek Road",
      "Buckeye Road"
-    ]
+    ],
+    "nodeId": 89106028
    }
   },
   {
@@ -4702,7 +4993,8 @@
     "streets": [
      "Buckeye Creek Road",
      "Rock Spring Lane"
-    ]
+    ],
+    "nodeId": 89106124
    }
   },
   {
@@ -4718,7 +5010,8 @@
     "streets": [
      "Buck Pass Road",
      "Buckeye Creek Road"
-    ]
+    ],
+    "nodeId": 89106131
    }
   },
   {
@@ -4734,7 +5027,8 @@
     "streets": [
      "Double Eagle Road",
      "Hites Cove Road"
-    ]
+    ],
+    "nodeId": 89106236
    }
   },
   {
@@ -4750,7 +5044,8 @@
     "streets": [
      "Double Eagle Road",
      "Lytton View Road"
-    ]
+    ],
+    "nodeId": 89106254
    }
   },
   {
@@ -4766,7 +5061,8 @@
     "streets": [
      "Cranes Nest Road",
      "Double Eagle Road"
-    ]
+    ],
+    "nodeId": 89106320
    }
   },
   {
@@ -4782,7 +5078,8 @@
     "streets": [
      "French Camp Road",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 7262626771
    }
   },
   {
@@ -4798,7 +5095,8 @@
     "streets": [
      "9th Street",
      "Bullion Street"
-    ]
+    ],
+    "nodeId": 89079182
    }
   },
   {
@@ -4814,7 +5112,8 @@
     "streets": [
      "9th Street",
      "Jones Street"
-    ]
+    ],
+    "nodeId": 89106565
    }
   },
   {
@@ -4830,7 +5129,8 @@
     "streets": [
      "9th Street",
      "Old Highway North"
-    ]
+    ],
+    "nodeId": 2702090830
    }
   },
   {
@@ -4846,7 +5146,8 @@
     "streets": [
      "9th Street",
      "Central Yosemite Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89106571
    }
   },
   {
@@ -4862,7 +5163,8 @@
     "streets": [
      "9th Street",
      "Jessie Street"
-    ]
+    ],
+    "nodeId": 89106572
    }
   },
   {
@@ -4878,7 +5180,8 @@
     "streets": [
      "Las Mariposas Lane",
      "Old Highway"
-    ]
+    ],
+    "nodeId": 89106640
    }
   },
   {
@@ -4894,7 +5197,8 @@
     "streets": [
      "Normom Bar Crossing",
      "Old Highway"
-    ]
+    ],
+    "nodeId": 89106647
    }
   },
   {
@@ -4910,7 +5214,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Stockton Creek Road"
-    ]
+    ],
+    "nodeId": 376660364
    }
   },
   {
@@ -4926,7 +5231,8 @@
     "streets": [
      "Chowchilla Mountain Road",
      "East Westfall Road"
-    ]
+    ],
+    "nodeId": 89107313
    }
   },
   {
@@ -4942,7 +5248,8 @@
     "streets": [
      "Conifer Lane",
      "East Westfall Road"
-    ]
+    ],
+    "nodeId": 89015606
    }
   },
   {
@@ -4958,7 +5265,8 @@
     "streets": [
      "Avoca Vale Road",
      "Grosjean Road"
-    ]
+    ],
+    "nodeId": 89107719
    }
   },
   {
@@ -4974,7 +5282,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Martin Road"
-    ]
+    ],
+    "nodeId": 89107804
    }
   },
   {
@@ -4990,7 +5299,8 @@
     "streets": [
      "Oak Street",
      "Spelt Road"
-    ]
+    ],
+    "nodeId": 89108022
    }
   },
   {
@@ -5006,7 +5316,8 @@
     "streets": [
      "Buck Meadows Road",
      "Moore Pilot Ridge Road"
-    ]
+    ],
+    "nodeId": 89142245
    }
   },
   {
@@ -5022,7 +5333,8 @@
     "streets": [
      "Forest Route 2S62",
      "Moore Pilot Ridge Road"
-    ]
+    ],
+    "nodeId": 89108323
    }
   },
   {
@@ -5039,7 +5351,8 @@
      "River Road",
      "Riverview Lane",
      "Sugarpine Place"
-    ]
+    ],
+    "nodeId": 89108965
    }
   },
   {
@@ -5055,7 +5368,8 @@
     "streets": [
      "Sugarpine Place",
      "Woodpecker Way"
-    ]
+    ],
+    "nodeId": 8947726015
    }
   },
   {
@@ -5071,7 +5385,8 @@
     "streets": [
      "Pine Lake Drive",
      "Pine Lake Road"
-    ]
+    ],
+    "nodeId": 89108976
    }
   },
   {
@@ -5087,7 +5402,8 @@
     "streets": [
      "Lake Hill Road",
      "Pine Lake Road"
-    ]
+    ],
+    "nodeId": 89109018
    }
   },
   {
@@ -5103,7 +5419,8 @@
     "streets": [
      "Brook Road",
      "Rainbow Road"
-    ]
+    ],
+    "nodeId": 89109024
    }
   },
   {
@@ -5119,7 +5436,8 @@
     "streets": [
      "Carrillo Way",
      "Ranchito Drive"
-    ]
+    ],
+    "nodeId": 89109059
    }
   },
   {
@@ -5135,7 +5453,8 @@
     "streets": [
      "Carrillo Way",
      "Panchito Way"
-    ]
+    ],
+    "nodeId": 89109073
    }
   },
   {
@@ -5151,7 +5470,8 @@
     "streets": [
      "Hayward Road",
      "Ranchito Drive"
-    ]
+    ],
+    "nodeId": 89109077
    }
   },
   {
@@ -5167,7 +5487,8 @@
     "streets": [
      "Gaza Way",
      "Ranchito Drive"
-    ]
+    ],
+    "nodeId": 89109102
    }
   },
   {
@@ -5183,7 +5504,8 @@
     "streets": [
      "Golfito Way",
      "Ranchito Drive"
-    ]
+    ],
+    "nodeId": 89109103
    }
   },
   {
@@ -5199,7 +5521,8 @@
     "streets": [
      "Panchito Way",
      "Ranchito Drive"
-    ]
+    ],
+    "nodeId": 89109120
    }
   },
   {
@@ -5215,7 +5538,8 @@
     "streets": [
      "Hernandez Drive",
      "Ranchito Drive"
-    ]
+    ],
+    "nodeId": 89109129
    }
   },
   {
@@ -5231,7 +5555,8 @@
     "streets": [
      "Ranchito Drive",
      "Zarzal Court"
-    ]
+    ],
+    "nodeId": 89109173
    }
   },
   {
@@ -5247,7 +5572,8 @@
     "streets": [
      "Paraiso Boulevard",
      "Ranchito Drive"
-    ]
+    ],
+    "nodeId": 89109185
    }
   },
   {
@@ -5263,7 +5589,8 @@
     "streets": [
      "Dolorosa Street",
      "Ranchito Drive"
-    ]
+    ],
+    "nodeId": 89109213
    }
   },
   {
@@ -5279,7 +5606,8 @@
     "streets": [
      "Picadero Way",
      "Ranchito Drive"
-    ]
+    ],
+    "nodeId": 89109239
    }
   },
   {
@@ -5295,7 +5623,8 @@
     "streets": [
      "Ranchito Drive",
      "Torre Drive"
-    ]
+    ],
+    "nodeId": 89109258
    }
   },
   {
@@ -5312,7 +5641,8 @@
      "Barrett Cove Road",
      "Merced Falls Road",
      "Ranchito Drive"
-    ]
+    ],
+    "nodeId": 89109309
    }
   },
   {
@@ -5328,7 +5658,8 @@
     "streets": [
      "Ahwahnee Street",
      "Vernal Fall"
-    ]
+    ],
+    "nodeId": 89109318
    }
   },
   {
@@ -5344,7 +5675,8 @@
     "streets": [
      "Mueller Court",
      "Mueller Road"
-    ]
+    ],
+    "nodeId": 89109330
    }
   },
   {
@@ -5360,7 +5692,8 @@
     "streets": [
      "Buck Meadows Road",
      "Moore Creek Road"
-    ]
+    ],
+    "nodeId": 89109608
    }
   },
   {
@@ -5376,7 +5709,8 @@
     "streets": [
      "C Y A Road",
      "Lyons Gulch Road"
-    ]
+    ],
+    "nodeId": 89110381
    }
   },
   {
@@ -5392,7 +5726,8 @@
     "streets": [
      "Spring Creek Drive",
      "Spring Creek Road"
-    ]
+    ],
+    "nodeId": 89110421
    }
   },
   {
@@ -5408,7 +5743,8 @@
     "streets": [
      "Bondurant Mine Road",
      "Forest Service Road"
-    ]
+    ],
+    "nodeId": 89110479
    }
   },
   {
@@ -5424,7 +5760,8 @@
     "streets": [
      "Converse Road",
      "Red Flat Road"
-    ]
+    ],
+    "nodeId": 89110664
    }
   },
   {
@@ -5440,7 +5777,8 @@
     "streets": [
      "Converse Road",
      "Old Converse Road"
-    ]
+    ],
+    "nodeId": 89110683
    }
   },
   {
@@ -5456,7 +5794,8 @@
     "streets": [
      "CA 132",
      "Hidalgo Street"
-    ]
+    ],
+    "nodeId": 89110782
    }
   },
   {
@@ -5472,7 +5811,8 @@
     "streets": [
      "Hidalgo Street",
      "Jalapa Way"
-    ]
+    ],
+    "nodeId": 89110790
    }
   },
   {
@@ -5488,7 +5828,8 @@
     "streets": [
      "Hidalgo Street",
      "Jardincito Court"
-    ]
+    ],
+    "nodeId": 89110804
    }
   },
   {
@@ -5504,7 +5845,8 @@
     "streets": [
      "Azulete Way",
      "Hidalgo Street"
-    ]
+    ],
+    "nodeId": 89110819
    }
   },
   {
@@ -5520,7 +5862,8 @@
     "streets": [
      "Chinatown Main Street",
      "Kow Street"
-    ]
+    ],
+    "nodeId": 89110973
    }
   },
   {
@@ -5536,7 +5879,8 @@
     "streets": [
      "Greeley Hill Road;CR J132",
      "Kow Street"
-    ]
+    ],
+    "nodeId": 89110976
    }
   },
   {
@@ -5552,7 +5896,8 @@
     "streets": [
      "English Lane",
      "North Hoover Way"
-    ]
+    ],
+    "nodeId": 89111096
    }
   },
   {
@@ -5569,7 +5914,8 @@
      "County Road 72A",
      "Mount Bullion Cutoff Road",
      "Road 72A"
-    ]
+    ],
+    "nodeId": 89113201
    }
   },
   {
@@ -5585,7 +5931,8 @@
     "streets": [
      "Hites Cove Road",
      "Snyder Creek Road"
-    ]
+    ],
+    "nodeId": 89113209
    }
   },
   {
@@ -5601,7 +5948,8 @@
     "streets": [
      "Cedar Lane",
      "Snyder Creek Road"
-    ]
+    ],
+    "nodeId": 89113215
    }
   },
   {
@@ -5617,7 +5965,8 @@
     "streets": [
      "Snyder Creek Road",
      "Snyder Ridge Road"
-    ]
+    ],
+    "nodeId": 89113282
    }
   },
   {
@@ -5633,7 +5982,8 @@
     "streets": [
      "Ganns Coreal Road",
      "Little Bear Road"
-    ]
+    ],
+    "nodeId": 89113296
    }
   },
   {
@@ -5649,7 +5999,8 @@
     "streets": [
      "County Road 72B",
      "Mount Bullion Cutoff Road"
-    ]
+    ],
+    "nodeId": 89113558
    }
   },
   {
@@ -5665,7 +6016,8 @@
     "streets": [
      "County Road 72B",
      "Princeton Way"
-    ]
+    ],
+    "nodeId": 89113559
    }
   },
   {
@@ -5681,7 +6033,8 @@
     "streets": [
      "Hamby Road",
      "Smithers Road"
-    ]
+    ],
+    "nodeId": 89113562
    }
   },
   {
@@ -5697,7 +6050,8 @@
     "streets": [
      "Dogtown Road",
      "Jeffery Lane"
-    ]
+    ],
+    "nodeId": 89113591
    }
   },
   {
@@ -5713,7 +6067,8 @@
     "streets": [
      "Jeffery Lane",
      "Jeffrey Lane"
-    ]
+    ],
+    "nodeId": 89113630
    }
   },
   {
@@ -5729,7 +6084,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Valley Lane"
-    ]
+    ],
+    "nodeId": 7248635124
    }
   },
   {
@@ -5745,7 +6101,8 @@
     "streets": [
      "Darrah Road",
      "Quail Ridge Drive"
-    ]
+    ],
+    "nodeId": 89113768
    }
   },
   {
@@ -5761,7 +6118,8 @@
     "streets": [
      "Meadow View Drive",
      "Quail Ridge Drive"
-    ]
+    ],
+    "nodeId": 89113815
    }
   },
   {
@@ -5777,7 +6135,8 @@
     "streets": [
      "Quail Ridge Drive",
      "Ridge Court"
-    ]
+    ],
+    "nodeId": 89113819
    }
   },
   {
@@ -5793,7 +6152,8 @@
     "streets": [
      "East Woodland Drive",
      "Woodland Drive"
-    ]
+    ],
+    "nodeId": 89113868
    }
   },
   {
@@ -5809,7 +6169,8 @@
     "streets": [
      "Live Oak Road",
      "Yaqui Gulch Road"
-    ]
+    ],
+    "nodeId": 89114061
    }
   },
   {
@@ -5825,7 +6186,8 @@
     "streets": [
      "Spelt Road",
      "Willow Street"
-    ]
+    ],
+    "nodeId": 89114390
    }
   },
   {
@@ -5841,7 +6203,8 @@
     "streets": [
      "Fir Street",
      "Spelt Road"
-    ]
+    ],
+    "nodeId": 89114397
    }
   },
   {
@@ -5857,7 +6220,8 @@
     "streets": [
      "Louis Marty Road",
      "Spelt Road"
-    ]
+    ],
+    "nodeId": 89114409
    }
   },
   {
@@ -5873,7 +6237,8 @@
     "streets": [
      "Greeley Hill Road;CR J132",
      "Greeley Lane"
-    ]
+    ],
+    "nodeId": 89114539
    }
   },
   {
@@ -5890,7 +6255,8 @@
      "Cornetts Ent Road",
      "Old Highway",
      "School House Road"
-    ]
+    ],
+    "nodeId": 89102653
    }
   },
   {
@@ -5906,7 +6272,8 @@
     "streets": [
      "Owens Creek Road",
      "School House Road"
-    ]
+    ],
+    "nodeId": 89114672
    }
   },
   {
@@ -5922,7 +6289,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "School House Road"
-    ]
+    ],
+    "nodeId": 89114729
    }
   },
   {
@@ -5938,7 +6306,8 @@
     "streets": [
      "Dogtown Road",
      "Holtzel Road"
-    ]
+    ],
+    "nodeId": 89114793
    }
   },
   {
@@ -5954,7 +6323,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Princeton Way"
-    ]
+    ],
+    "nodeId": 89115003
    }
   },
   {
@@ -5970,7 +6340,8 @@
     "streets": [
      "Amapola Court",
      "Lozano Road"
-    ]
+    ],
+    "nodeId": 89116998
    }
   },
   {
@@ -5987,7 +6358,8 @@
      "Colorado Road",
      "Lakeside Road",
      "Wilderness View Dr"
-    ]
+    ],
+    "nodeId": 89117400
    }
   },
   {
@@ -6003,7 +6375,8 @@
     "streets": [
      "Colorado Road",
      "Mining Road"
-    ]
+    ],
+    "nodeId": 89117469
    }
   },
   {
@@ -6019,7 +6392,8 @@
     "streets": [
      "Colorado Road",
      "Sherlock Road"
-    ]
+    ],
+    "nodeId": 89117587
    }
   },
   {
@@ -6035,7 +6409,8 @@
     "streets": [
      "Colorado Road",
      "Deer Meadow Way"
-    ]
+    ],
+    "nodeId": 89117604
    }
   },
   {
@@ -6051,7 +6426,8 @@
     "streets": [
      "Colorado Road",
      "Davis Road"
-    ]
+    ],
+    "nodeId": 89117662
    }
   },
   {
@@ -6067,7 +6443,8 @@
     "streets": [
      "Colorado Road",
      "Rumley Mine Road"
-    ]
+    ],
+    "nodeId": 89117672
    }
   },
   {
@@ -6083,7 +6460,8 @@
     "streets": [
      "Colorado Road",
      "Rancheria Creek Road"
-    ]
+    ],
+    "nodeId": 89117675
    }
   },
   {
@@ -6099,7 +6477,8 @@
     "streets": [
      "Colorado Road",
      "Quail Lane"
-    ]
+    ],
+    "nodeId": 89117875
    }
   },
   {
@@ -6115,7 +6494,8 @@
     "streets": [
      "Colorado Road",
      "East Whitlock Road"
-    ]
+    ],
+    "nodeId": 89117966
    }
   },
   {
@@ -6131,7 +6511,8 @@
     "streets": [
      "Greeley Hill Road;CR J132",
      "Smith Station Road;CR J132"
-    ]
+    ],
+    "nodeId": 89118325
    }
   },
   {
@@ -6147,7 +6528,8 @@
     "streets": [
      "Bull Creek Road",
      "Smith Station Road;CR J132"
-    ]
+    ],
+    "nodeId": 13017415921
    }
   },
   {
@@ -6164,7 +6546,8 @@
      "Forest Route 2S37",
      "Red Flat Road",
      "Smith Station Road;CR J132"
-    ]
+    ],
+    "nodeId": 89118528
    }
   },
   {
@@ -6180,7 +6563,8 @@
     "streets": [
      "Forest Route 2S08",
      "Smith Station Road;CR J132"
-    ]
+    ],
+    "nodeId": 89118599
    }
   },
   {
@@ -6196,7 +6580,8 @@
     "streets": [
      "Smith Station Road;CR J132",
      "Vic Canter Road"
-    ]
+    ],
+    "nodeId": 89118628
    }
   },
   {
@@ -6212,7 +6597,8 @@
     "streets": [
      "Forest Route 2S36",
      "Smith Station Road;CR J132"
-    ]
+    ],
+    "nodeId": 88984066
    }
   },
   {
@@ -6228,7 +6614,8 @@
     "streets": [
      "Jordan Creek Road",
      "Smith Station Road;CR J132"
-    ]
+    ],
+    "nodeId": 89118681
    }
   },
   {
@@ -6244,7 +6631,8 @@
     "streets": [
      "Gusanillo Court",
      "Gusanillo Way"
-    ]
+    ],
+    "nodeId": 89118719
    }
   },
   {
@@ -6260,7 +6648,8 @@
     "streets": [
      "Bull Creek Road",
      "Jordan Creek Road"
-    ]
+    ],
+    "nodeId": 89119015
    }
   },
   {
@@ -6276,7 +6665,8 @@
     "streets": [
      "Clouds Rest",
      "Half Dome Court"
-    ]
+    ],
+    "nodeId": 89119299
    }
   },
   {
@@ -6292,7 +6682,8 @@
     "streets": [
      "Darrah Road",
      "Deer Springs Road"
-    ]
+    ],
+    "nodeId": 376639949
    }
   },
   {
@@ -6308,7 +6699,8 @@
     "streets": [
      "Happy Isle Fall",
      "Meadow Lane"
-    ]
+    ],
+    "nodeId": 89119672
    }
   },
   {
@@ -6324,7 +6716,8 @@
     "streets": [
      "Parker Drive",
      "Pilot Peak Road"
-    ]
+    ],
+    "nodeId": 9377798920
    }
   },
   {
@@ -6340,7 +6733,8 @@
     "streets": [
      "Parker Drive",
      "Ponderosa Court"
-    ]
+    ],
+    "nodeId": 89280103
    }
   },
   {
@@ -6356,7 +6750,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Macready Way"
-    ]
+    ],
+    "nodeId": 2622850991
    }
   },
   {
@@ -6372,7 +6767,8 @@
     "streets": [
      "East Bruce Road",
      "West Bruce Road"
-    ]
+    ],
+    "nodeId": 89119779
    }
   },
   {
@@ -6388,7 +6784,8 @@
     "streets": [
      "Leonard Road",
      "Moody Lane"
-    ]
+    ],
+    "nodeId": 89119785
    }
   },
   {
@@ -6404,7 +6801,8 @@
     "streets": [
      "10th Street",
      "Jessie Street"
-    ]
+    ],
+    "nodeId": 89119843
    }
   },
   {
@@ -6421,7 +6819,8 @@
      "10th Street",
      "Central Yosemite Highway;CA 49",
      "Central Yosemite Highway;CA 49;CA 140"
-    ]
+    ],
+    "nodeId": 89119848
    }
   },
   {
@@ -6437,7 +6836,8 @@
     "streets": [
      "Ahwahnee Street",
      "Bridal Veil Fall"
-    ]
+    ],
+    "nodeId": 89119850
    }
   },
   {
@@ -6453,7 +6853,8 @@
     "streets": [
      "Buckingham Mountain Road",
      "Triangle Road"
-    ]
+    ],
+    "nodeId": 89195949
    }
   },
   {
@@ -6469,7 +6870,8 @@
     "streets": [
      "Buckingham Mountain Road",
      "Plumbar Creek Road"
-    ]
+    ],
+    "nodeId": 89119872
    }
   },
   {
@@ -6485,7 +6887,8 @@
     "streets": [
      "Buckingham Mountain Road",
      "Carter Road"
-    ]
+    ],
+    "nodeId": 89120064
    }
   },
   {
@@ -6502,7 +6905,8 @@
      "Gann's Corral Road",
      "Ganns Coreal Road",
      "Marklee Road"
-    ]
+    ],
+    "nodeId": 89120106
    }
   },
   {
@@ -6518,7 +6922,8 @@
     "streets": [
      "Marklee Road",
      "Marshall Road"
-    ]
+    ],
+    "nodeId": 89011723
    }
   },
   {
@@ -6534,7 +6939,8 @@
     "streets": [
      "Marklee Road",
      "Tenaya Trail Road"
-    ]
+    ],
+    "nodeId": 89011778
    }
   },
   {
@@ -6550,7 +6956,8 @@
     "streets": [
      "Corral Road",
      "Marklee Road"
-    ]
+    ],
+    "nodeId": 89120146
    }
   },
   {
@@ -6566,7 +6973,8 @@
     "streets": [
      "Creel Road",
      "Mepps Court"
-    ]
+    ],
+    "nodeId": 89120153
    }
   },
   {
@@ -6582,7 +6990,8 @@
     "streets": [
      "Rancheria Flat Court",
      "Rancheria Flat Road"
-    ]
+    ],
+    "nodeId": 89120392
    }
   },
   {
@@ -6598,7 +7007,8 @@
     "streets": [
      "Boulder Lane",
      "Rancheria Flat Road"
-    ]
+    ],
+    "nodeId": 89120386
    }
   },
   {
@@ -6614,7 +7024,8 @@
     "streets": [
      "Elderberry Lane",
      "Rancheria Flat Road"
-    ]
+    ],
+    "nodeId": 2431297837
    }
   },
   {
@@ -6630,7 +7041,8 @@
     "streets": [
      "Rancheria Flat Road",
      "Red Bud Lane"
-    ]
+    ],
+    "nodeId": 89120382
    }
   },
   {
@@ -6646,7 +7058,8 @@
     "streets": [
      "Barium Mine Road",
      "Rancheria Flat Road"
-    ]
+    ],
+    "nodeId": 89120374
    }
   },
   {
@@ -6662,7 +7075,8 @@
     "streets": [
      "Foresta Road",
      "Rancheria Flat Road"
-    ]
+    ],
+    "nodeId": 89120341
    }
   },
   {
@@ -6678,7 +7092,8 @@
     "streets": [
      "Cedar Circle",
      "East Bruce Road"
-    ]
+    ],
+    "nodeId": 89120396
    }
   },
   {
@@ -6694,7 +7109,8 @@
     "streets": [
      "Greeley Hill Road;CR J132",
      "Old Converse Road"
-    ]
+    ],
+    "nodeId": 89120475
    }
   },
   {
@@ -6710,7 +7126,8 @@
     "streets": [
      "Owens Creek Road",
      "Owens Dam Road"
-    ]
+    ],
+    "nodeId": 88901824
    }
   },
   {
@@ -6726,7 +7143,8 @@
     "streets": [
      "Forest Route 2S02",
      "Forest Route 2S71"
-    ]
+    ],
+    "nodeId": 88953483
    }
   },
   {
@@ -6742,7 +7160,8 @@
     "streets": [
      "Forest Route 2S02",
      "State Route 2S01"
-    ]
+    ],
+    "nodeId": 89122266
    }
   },
   {
@@ -6758,7 +7177,8 @@
     "streets": [
      "Preston Road",
      "West Westfall Road"
-    ]
+    ],
+    "nodeId": 89131008
    }
   },
   {
@@ -6774,7 +7194,8 @@
     "streets": [
      "Old Highway",
      "Wilburs Way"
-    ]
+    ],
+    "nodeId": 89133503
    }
   },
   {
@@ -6790,7 +7211,8 @@
     "streets": [
      "Guadalupe Fire Road",
      "Wilburs Way"
-    ]
+    ],
+    "nodeId": 89134321
    }
   },
   {
@@ -6806,7 +7228,8 @@
     "streets": [
      "Darrah Road",
      "Montana del Oro Drive"
-    ]
+    ],
+    "nodeId": 89137753
    }
   },
   {
@@ -6822,7 +7245,8 @@
     "streets": [
      "Grist Road",
      "Tracy Road"
-    ]
+    ],
+    "nodeId": 89140637
    }
   },
   {
@@ -6838,7 +7262,8 @@
     "streets": [
      "Heddon Court",
      "Pilot Peak Road"
-    ]
+    ],
+    "nodeId": 89140682
    }
   },
   {
@@ -6854,7 +7279,8 @@
     "streets": [
      "Anglers Court",
      "Creel Road"
-    ]
+    ],
+    "nodeId": 89140707
    }
   },
   {
@@ -6870,7 +7296,8 @@
     "streets": [
      "Cole Road",
      "Iron Oaks Drive"
-    ]
+    ],
+    "nodeId": 89140719
    }
   },
   {
@@ -6886,7 +7313,8 @@
     "streets": [
      "6th Street",
      "Mariposa Street"
-    ]
+    ],
+    "nodeId": 89140739
    }
   },
   {
@@ -6902,7 +7330,8 @@
     "streets": [
      "Mariposa Street",
      "Trabucco Street"
-    ]
+    ],
+    "nodeId": 4631296918
    }
   },
   {
@@ -6918,7 +7347,8 @@
     "streets": [
      "Birdie Circle",
      "East Bruce Road"
-    ]
+    ],
+    "nodeId": 89140777
    }
   },
   {
@@ -6934,7 +7364,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Old Highway North"
-    ]
+    ],
+    "nodeId": 89140879
    }
   },
   {
@@ -6950,7 +7381,8 @@
     "streets": [
      "Old Highway North",
      "Wild Peach"
-    ]
+    ],
+    "nodeId": 7214667650
    }
   },
   {
@@ -6966,7 +7398,8 @@
     "streets": [
      "10th Street",
      "Old Highway North"
-    ]
+    ],
+    "nodeId": 89119836
    }
   },
   {
@@ -6982,7 +7415,8 @@
     "streets": [
      "8th Street",
      "Old Highway North"
-    ]
+    ],
+    "nodeId": 88997170
    }
   },
   {
@@ -6999,7 +7433,8 @@
      "Forest Route 2S08",
      "Forest Route 2S36",
      "Wagner Ridge Road"
-    ]
+    ],
+    "nodeId": 89043451
    }
   },
   {
@@ -7015,7 +7450,8 @@
     "streets": [
      "Coronado Drive",
      "Lazo Way"
-    ]
+    ],
+    "nodeId": 89021693
    }
   },
   {
@@ -7031,7 +7467,8 @@
     "streets": [
      "Creek View Drive",
      "Hirsch Road"
-    ]
+    ],
+    "nodeId": 89012374
    }
   },
   {
@@ -7047,7 +7484,8 @@
     "streets": [
      "Buck Meadows Road",
      "Bull Creek Road"
-    ]
+    ],
+    "nodeId": 89083831
    }
   },
   {
@@ -7063,7 +7501,8 @@
     "streets": [
      "Buck Meadows Road",
      "Forest Route 2S65"
-    ]
+    ],
+    "nodeId": 89142094
    }
   },
   {
@@ -7079,7 +7518,8 @@
     "streets": [
      "Chowchilla Mountain Road",
      "Varden Court"
-    ]
+    ],
+    "nodeId": 89143392
    }
   },
   {
@@ -7095,7 +7535,8 @@
     "streets": [
      "Piney Creek Road",
      "Stoney Oak Road"
-    ]
+    ],
+    "nodeId": 89143440
    }
   },
   {
@@ -7111,7 +7552,8 @@
     "streets": [
      "Azilia",
      "Henness Circle"
-    ]
+    ],
+    "nodeId": 89143561
    }
   },
   {
@@ -7128,7 +7570,8 @@
      "Meadow Lane",
      "Monte Vista Lane",
      "Triangle Road"
-    ]
+    ],
+    "nodeId": 900163056
    }
   },
   {
@@ -7144,7 +7587,8 @@
     "streets": [
      "Grillo Drive",
      "Violeta Way"
-    ]
+    ],
+    "nodeId": 89144034
    }
   },
   {
@@ -7160,7 +7604,8 @@
     "streets": [
      "Chicharra Way",
      "Violeta Way"
-    ]
+    ],
+    "nodeId": 89144077
    }
   },
   {
@@ -7176,7 +7621,8 @@
     "streets": [
      "Muir Way",
      "Old Yosemite Coulterville Road"
-    ]
+    ],
+    "nodeId": 89253184
    }
   },
   {
@@ -7192,7 +7638,8 @@
     "streets": [
      "Muir Way",
      "Old Yosemite-Coulterville Road"
-    ]
+    ],
+    "nodeId": 89144096
    }
   },
   {
@@ -7209,7 +7656,8 @@
      "Bandurant Mine Road",
      "Road 8032",
      "Texas Hill Road"
-    ]
+    ],
+    "nodeId": 89144478
    }
   },
   {
@@ -7226,7 +7674,8 @@
      "Dogtown Road",
      "Ponderosa Way",
      "Texas Hill Road"
-    ]
+    ],
+    "nodeId": 89144664
    }
   },
   {
@@ -7242,7 +7691,8 @@
     "streets": [
      "Darrah Road",
      "Shubin Lane"
-    ]
+    ],
+    "nodeId": 89144693
    }
   },
   {
@@ -7258,7 +7708,8 @@
     "streets": [
      "Lakeview Drive",
      "Yaqui Gulch Road"
-    ]
+    ],
+    "nodeId": 89144721
    }
   },
   {
@@ -7274,7 +7725,8 @@
     "streets": [
      "Kimberly Lane",
      "Lakeview Drive"
-    ]
+    ],
+    "nodeId": 89144792
    }
   },
   {
@@ -7290,7 +7742,8 @@
     "streets": [
      "Heritage Lane",
      "Lakeview Drive"
-    ]
+    ],
+    "nodeId": 89144837
    }
   },
   {
@@ -7306,7 +7759,8 @@
     "streets": [
      "Alamo Drive",
      "Carrizo Way"
-    ]
+    ],
+    "nodeId": 89144882
    }
   },
   {
@@ -7322,7 +7776,8 @@
     "streets": [
      "Alamo Drive",
      "Villarreal Drive"
-    ]
+    ],
+    "nodeId": 89144898
    }
   },
   {
@@ -7338,7 +7793,8 @@
     "streets": [
      "Alamo Drive",
      "Canasta Court"
-    ]
+    ],
+    "nodeId": 89144904
    }
   },
   {
@@ -7354,7 +7810,8 @@
     "streets": [
      "Adelfa Street",
      "Alamo Drive"
-    ]
+    ],
+    "nodeId": 89144905
    }
   },
   {
@@ -7370,7 +7827,8 @@
     "streets": [
      "Marshall Road",
      "Old Highway"
-    ]
+    ],
+    "nodeId": 89145064
    }
   },
   {
@@ -7386,7 +7844,8 @@
     "streets": [
      "Hilltop Drive",
      "Oakdale Drive"
-    ]
+    ],
+    "nodeId": 89145155
    }
   },
   {
@@ -7402,7 +7861,8 @@
     "streets": [
      "Knoll Lane",
      "Owens Creek Road"
-    ]
+    ],
+    "nodeId": 89145165
    }
   },
   {
@@ -7418,7 +7878,8 @@
     "streets": [
      "Millbrow Lane",
      "Stewart Lane"
-    ]
+    ],
+    "nodeId": 89018315
    }
   },
   {
@@ -7435,7 +7896,8 @@
      "Cemetery Road",
      "Greeley Hill Road;CR J132",
      "Main Street;CR J132"
-    ]
+    ],
+    "nodeId": 89145487
    }
   },
   {
@@ -7451,7 +7913,8 @@
     "streets": [
      "Cemetery Road",
      "Oak Ridge Road"
-    ]
+    ],
+    "nodeId": 89145491
    }
   },
   {
@@ -7467,7 +7930,8 @@
     "streets": [
      "Forest Route 2S13",
      "Old Yosemite Coulterville Road"
-    ]
+    ],
+    "nodeId": 89145936
    }
   },
   {
@@ -7483,7 +7947,8 @@
     "streets": [
      "Joya Court",
      "Rastro Way"
-    ]
+    ],
+    "nodeId": 89146257
    }
   },
   {
@@ -7499,7 +7964,8 @@
     "streets": [
      "Chicharra Way",
      "Clavel Way"
-    ]
+    ],
+    "nodeId": 89146313
    }
   },
   {
@@ -7515,7 +7981,8 @@
     "streets": [
      "Chapulin Way",
      "Chicharra Way"
-    ]
+    ],
+    "nodeId": 89146319
    }
   },
   {
@@ -7531,7 +7998,8 @@
     "streets": [
      "Veredita Street",
      "Villarreal Drive"
-    ]
+    ],
+    "nodeId": 89146633
    }
   },
   {
@@ -7547,7 +8015,8 @@
     "streets": [
      "Torito Way",
      "Veredita Street"
-    ]
+    ],
+    "nodeId": 89146669
    }
   },
   {
@@ -7563,7 +8032,8 @@
     "streets": [
      "Hernandez Drive",
      "Veredita Street"
-    ]
+    ],
+    "nodeId": 89146694
    }
   },
   {
@@ -7579,7 +8049,8 @@
     "streets": [
      "Carter Road",
      "Deer Creek"
-    ]
+    ],
+    "nodeId": 89146698
    }
   },
   {
@@ -7595,7 +8066,8 @@
     "streets": [
      "Deer Creek",
      "Deer Creek Road"
-    ]
+    ],
+    "nodeId": 89146709
    }
   },
   {
@@ -7611,7 +8083,8 @@
     "streets": [
      "Espuela Street",
      "Villarreal Drive"
-    ]
+    ],
+    "nodeId": 89146716
    }
   },
   {
@@ -7627,7 +8100,8 @@
     "streets": [
      "Cuneo Road",
      "Hursh Lane"
-    ]
+    ],
+    "nodeId": 89146733
    }
   },
   {
@@ -7643,7 +8117,8 @@
     "streets": [
      "Hursh Lane",
      "Stout Lane"
-    ]
+    ],
+    "nodeId": 89146735
    }
   },
   {
@@ -7659,7 +8134,8 @@
     "streets": [
      "Hursh Lane",
      "Wagner Ridge Road"
-    ]
+    ],
+    "nodeId": 89146967
    }
   },
   {
@@ -7675,7 +8151,8 @@
     "streets": [
      "Copper Leaf Drive",
      "Gold Leaf Drive"
-    ]
+    ],
+    "nodeId": 89146982
    }
   },
   {
@@ -7691,7 +8168,8 @@
     "streets": [
      "Mount Raymond Road",
      "Wawona Road"
-    ]
+    ],
+    "nodeId": 89147149
    }
   },
   {
@@ -7707,7 +8185,8 @@
     "streets": [
      "Bear Valley Road;J16",
      "Jenny Lind Road"
-    ]
+    ],
+    "nodeId": 89147152
    }
   },
   {
@@ -7723,7 +8202,8 @@
     "streets": [
      "Exchequer Road",
      "Jenny Lind Road"
-    ]
+    ],
+    "nodeId": 89147428
    }
   },
   {
@@ -7739,7 +8219,8 @@
     "streets": [
      "Hospital Road",
      "Saint Andrew's Road"
-    ]
+    ],
+    "nodeId": 89147440
    }
   },
   {
@@ -7755,7 +8236,8 @@
     "streets": [
      "Fachada Way",
      "Mirasol Way"
-    ]
+    ],
+    "nodeId": 89147818
    }
   },
   {
@@ -7771,7 +8253,8 @@
     "streets": [
      "Valley Vista Road",
      "Wagner Ridge Road"
-    ]
+    ],
+    "nodeId": 89018591
    }
   },
   {
@@ -7787,7 +8270,8 @@
     "streets": [
      "Kemble Road",
      "Nutter Ranch Road"
-    ]
+    ],
+    "nodeId": 89148119
    }
   },
   {
@@ -7803,7 +8287,8 @@
     "streets": [
      "Bootjack-Ahwahnee Road",
      "Kemble Road"
-    ]
+    ],
+    "nodeId": 89148231
    }
   },
   {
@@ -7819,7 +8304,8 @@
     "streets": [
      "Jasmine Court",
      "Jasmine Way"
-    ]
+    ],
+    "nodeId": 89148250
    }
   },
   {
@@ -7835,7 +8321,8 @@
     "streets": [
      "Ashworth Road",
      "Old Oak Lane"
-    ]
+    ],
+    "nodeId": 89149157
    }
   },
   {
@@ -7851,7 +8338,8 @@
     "streets": [
      "Ashworth Road",
      "Humbug Creek"
-    ]
+    ],
+    "nodeId": 89149642
    }
   },
   {
@@ -7867,7 +8355,8 @@
     "streets": [
      "Ashworth Road",
      "Silver Lane Road"
-    ]
+    ],
+    "nodeId": 89149703
    }
   },
   {
@@ -7883,7 +8372,8 @@
     "streets": [
      "Ashworth Road",
      "Grist Road"
-    ]
+    ],
+    "nodeId": 89149751
    }
   },
   {
@@ -7899,7 +8389,8 @@
     "streets": [
      "Ashworth Road",
      "Spring Creek Drive"
-    ]
+    ],
+    "nodeId": 376623354
    }
   },
   {
@@ -7915,7 +8406,8 @@
     "streets": [
      "Ashworth Road",
      "CA 49"
-    ]
+    ],
+    "nodeId": 89149867
    }
   },
   {
@@ -7931,7 +8423,8 @@
     "streets": [
      "Moonshadow Road",
      "Streeter Mountain Road"
-    ]
+    ],
+    "nodeId": 89150222
    }
   },
   {
@@ -7947,7 +8440,8 @@
     "streets": [
      "Streeter Mountain Road",
      "Wildwood Road"
-    ]
+    ],
+    "nodeId": 89150261
    }
   },
   {
@@ -7963,7 +8457,8 @@
     "streets": [
      "Hidden Springs Road",
      "Streeter Mountain Road"
-    ]
+    ],
+    "nodeId": 89150298
    }
   },
   {
@@ -7979,7 +8474,8 @@
     "streets": [
      "CA 49",
      "Streeter Mountain Road"
-    ]
+    ],
+    "nodeId": 89150304
    }
   },
   {
@@ -7996,7 +8492,8 @@
      "Clouds Rest",
      "Lehamite Fall",
      "Staircase Fall"
-    ]
+    ],
+    "nodeId": 89150518
    }
   },
   {
@@ -8012,7 +8509,8 @@
     "streets": [
      "Echo Hill Drive",
      "Lehamite Fall"
-    ]
+    ],
+    "nodeId": 89150522
    }
   },
   {
@@ -8028,7 +8526,8 @@
     "streets": [
      "Crystal Cove Lane",
      "Darrah Road"
-    ]
+    ],
+    "nodeId": 89150594
    }
   },
   {
@@ -8044,7 +8543,8 @@
     "streets": [
      "Best Road",
      "Scott Road"
-    ]
+    ],
+    "nodeId": 89150638
    }
   },
   {
@@ -8060,7 +8560,8 @@
     "streets": [
      "Best Road",
      "Comet Mine Lane"
-    ]
+    ],
+    "nodeId": 89150710
    }
   },
   {
@@ -8076,7 +8577,8 @@
     "streets": [
      "Best Road",
      "Hites Cove Road"
-    ]
+    ],
+    "nodeId": 89150831
    }
   },
   {
@@ -8092,7 +8594,8 @@
     "streets": [
      "Creek Front Road",
      "Owens Creek Road"
-    ]
+    ],
+    "nodeId": 89150842
    }
   },
   {
@@ -8108,7 +8611,8 @@
     "streets": [
      "Blue Oak Drive",
      "Wild Rose Court"
-    ]
+    ],
+    "nodeId": 89150860
    }
   },
   {
@@ -8124,7 +8628,8 @@
     "streets": [
      "Mount Bullion Cut Off Road",
      "Mount Bullion Cutoff Road"
-    ]
+    ],
+    "nodeId": 89153146
    }
   },
   {
@@ -8140,7 +8645,8 @@
     "streets": [
      "Bandurant Mine Road",
      "Ponderosa Way;2S85"
-    ]
+    ],
+    "nodeId": 89153161
    }
   },
   {
@@ -8156,7 +8662,8 @@
     "streets": [
      "25.21 Road",
      "Bandurant Mine Road"
-    ]
+    ],
+    "nodeId": 89153196
    }
   },
   {
@@ -8172,7 +8679,8 @@
     "streets": [
      "Bandurant Mine Road",
      "Cs Road"
-    ]
+    ],
+    "nodeId": 89153213
    }
   },
   {
@@ -8188,7 +8696,8 @@
     "streets": [
      "Bandurant Mine Road",
      "Bondurant Mine Road"
-    ]
+    ],
+    "nodeId": 89153244
    }
   },
   {
@@ -8204,7 +8713,8 @@
     "streets": [
      "Cole Road",
      "Darrah Road"
-    ]
+    ],
+    "nodeId": 89153656
    }
   },
   {
@@ -8220,7 +8730,8 @@
     "streets": [
      "Darrah Road",
      "Snow Creek Road"
-    ]
+    ],
+    "nodeId": 89153742
    }
   },
   {
@@ -8236,7 +8747,8 @@
     "streets": [
      "Darrah Road",
      "Sherrod Road"
-    ]
+    ],
+    "nodeId": 89153776
    }
   },
   {
@@ -8252,7 +8764,8 @@
     "streets": [
      "Darrah Road",
      "Valley View Road"
-    ]
+    ],
+    "nodeId": 89153899
    }
   },
   {
@@ -8268,7 +8781,8 @@
     "streets": [
      "Darrah Road",
      "Nickel Plate Road"
-    ]
+    ],
+    "nodeId": 89153927
    }
   },
   {
@@ -8285,7 +8799,8 @@
      "Darrah Road",
      "Jerseydale Road",
      "Triangle Road"
-    ]
+    ],
+    "nodeId": 89154057
    }
   },
   {
@@ -8301,7 +8816,8 @@
     "streets": [
      "Greeley Hill Road;CR J132",
      "McMahon Road"
-    ]
+    ],
+    "nodeId": 89154093
    }
   },
   {
@@ -8317,7 +8833,8 @@
     "streets": [
      "McMahon Road",
      "View Hill Road"
-    ]
+    ],
+    "nodeId": 89154195
    }
   },
   {
@@ -8333,7 +8850,8 @@
     "streets": [
      "Stumpfield Mountain Road",
      "Watt Road"
-    ]
+    ],
+    "nodeId": 89155144
    }
   },
   {
@@ -8349,7 +8867,8 @@
     "streets": [
      "Leonard Road",
      "Stumpfield Mountain Road"
-    ]
+    ],
+    "nodeId": 89155449
    }
   },
   {
@@ -8365,7 +8884,8 @@
     "streets": [
      "CA 49",
      "Stumpfield Mountain Road"
-    ]
+    ],
+    "nodeId": 89155451
    }
   },
   {
@@ -8381,7 +8901,8 @@
     "streets": [
      "Harvest Drive",
      "Vine Court"
-    ]
+    ],
+    "nodeId": 89155644
    }
   },
   {
@@ -8397,7 +8918,8 @@
     "streets": [
      "Aqua Fria Road",
      "Central Yosemite Highway;CA 140"
-    ]
+    ],
+    "nodeId": 89156524
    }
   },
   {
@@ -8413,7 +8935,8 @@
     "streets": [
      "Corral Road",
      "Mariposa Creek Circle"
-    ]
+    ],
+    "nodeId": 89156723
    }
   },
   {
@@ -8429,7 +8952,8 @@
     "streets": [
      "CA 132",
      "Josefina Way"
-    ]
+    ],
+    "nodeId": 89156737
    }
   },
   {
@@ -8445,7 +8969,8 @@
     "streets": [
      "Jaime Way",
      "Josefina Way"
-    ]
+    ],
+    "nodeId": 89156755
    }
   },
   {
@@ -8461,7 +8986,8 @@
     "streets": [
      "Jalapa Way",
      "Josefina Way"
-    ]
+    ],
+    "nodeId": 89146546
    }
   },
   {
@@ -8477,7 +9003,8 @@
     "streets": [
      "Oak Ridge Court",
      "Oak Ridge Road"
-    ]
+    ],
+    "nodeId": 89156920
    }
   },
   {
@@ -8493,7 +9020,8 @@
     "streets": [
      "Dogtown Road",
      "Greeley Hill Road;CR J132"
-    ]
+    ],
+    "nodeId": 89158114
    }
   },
   {
@@ -8509,7 +9037,8 @@
     "streets": [
      "Bull Creek Road",
      "Dogtown Road"
-    ]
+    ],
+    "nodeId": 89158393
    }
   },
   {
@@ -8525,7 +9054,8 @@
     "streets": [
      "25.21 Road",
      "Dogtown Road"
-    ]
+    ],
+    "nodeId": 89158466
    }
   },
   {
@@ -8542,7 +9072,8 @@
      "Acorn Circle",
      "Hilltop Drive",
      "Moonshadow Road"
-    ]
+    ],
+    "nodeId": 89158717
    }
   },
   {
@@ -8558,7 +9089,8 @@
     "streets": [
      "Gaza Way",
      "Golfito Way"
-    ]
+    ],
+    "nodeId": 89158727
    }
   },
   {
@@ -8574,7 +9106,8 @@
     "streets": [
      "Oak Ridge Road",
      "Oakridge Road"
-    ]
+    ],
+    "nodeId": 89158757
    }
   },
   {
@@ -8590,7 +9123,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Oakridge Road"
-    ]
+    ],
+    "nodeId": 89158770
    }
   },
   {
@@ -8606,7 +9140,8 @@
     "streets": [
      "Hidden Springs Road",
      "Oakridge Road"
-    ]
+    ],
+    "nodeId": 89158772
    }
   },
   {
@@ -8622,7 +9157,8 @@
     "streets": [
      "Forest Route 2S37",
      "Wagner Ridge Road"
-    ]
+    ],
+    "nodeId": 3648165409
    }
   },
   {
@@ -8639,7 +9175,8 @@
      "Chapin Road",
      "Cuneo Road",
      "Wagner Ridge Road"
-    ]
+    ],
+    "nodeId": 89158984
    }
   },
   {
@@ -8655,7 +9192,8 @@
     "streets": [
      "Cuneo Road",
      "Wagner Ridge Road"
-    ]
+    ],
+    "nodeId": 89159127
    }
   },
   {
@@ -8672,7 +9210,8 @@
      "Ernst Road",
      "Wagner Ridge Road",
      "Wagner Road"
-    ]
+    ],
+    "nodeId": 88894721
    }
   },
   {
@@ -8688,7 +9227,8 @@
     "streets": [
      "Dogtown Road",
      "Wagner Ridge Road"
-    ]
+    ],
+    "nodeId": 89157323
    }
   },
   {
@@ -8704,7 +9244,8 @@
     "streets": [
      "Hites Cove Road",
      "Scott Road"
-    ]
+    ],
+    "nodeId": 89159458
    }
   },
   {
@@ -8720,7 +9261,8 @@
     "streets": [
      "Hites Cove Road",
      "Snyder Ridge Road"
-    ]
+    ],
+    "nodeId": 89159465
    }
   },
   {
@@ -8736,7 +9278,8 @@
     "streets": [
      "Grove Street",
      "Spring Street"
-    ]
+    ],
+    "nodeId": 89160568
    }
   },
   {
@@ -8752,7 +9295,8 @@
     "streets": [
      "Bill's Hill Road",
      "Koon Hollar Road"
-    ]
+    ],
+    "nodeId": 8949049390
    }
   },
   {
@@ -8768,7 +9312,8 @@
     "streets": [
      "CA 132",
      "Narciso Way"
-    ]
+    ],
+    "nodeId": 89160859
    }
   },
   {
@@ -8784,7 +9329,8 @@
     "streets": [
      "Jasmine Way",
      "Narciso Way"
-    ]
+    ],
+    "nodeId": 89160889
    }
   },
   {
@@ -8800,7 +9346,8 @@
     "streets": [
      "Maravilla Drive",
      "Narciso Way"
-    ]
+    ],
+    "nodeId": 89160912
    }
   },
   {
@@ -8817,7 +9364,8 @@
      "Buckeye Road",
      "Old Highway Road",
      "Yaqui Gulch Road"
-    ]
+    ],
+    "nodeId": 89160937
    }
   },
   {
@@ -8833,7 +9381,8 @@
     "streets": [
      "Vista Grande Way",
      "Yaqui Gulch Road"
-    ]
+    ],
+    "nodeId": 10239575245
    }
   },
   {
@@ -8849,7 +9398,8 @@
     "streets": [
      "Guadalupe Creek Road",
      "Yaqui Gulch Road"
-    ]
+    ],
+    "nodeId": 89161037
    }
   },
   {
@@ -8865,7 +9415,8 @@
     "streets": [
      "Burney Drive",
      "Yaqui Gulch Road"
-    ]
+    ],
+    "nodeId": 89161040
    }
   },
   {
@@ -8881,7 +9432,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Yaqui Gulch Road"
-    ]
+    ],
+    "nodeId": 89161328
    }
   },
   {
@@ -8897,7 +9449,8 @@
     "streets": [
      "Mosher Road",
      "West Whitlock Road"
-    ]
+    ],
+    "nodeId": 89161535
    }
   },
   {
@@ -8913,7 +9466,8 @@
     "streets": [
      "Mosher Road",
      "Nutmeg Road"
-    ]
+    ],
+    "nodeId": 89161563
    }
   },
   {
@@ -8929,7 +9483,8 @@
     "streets": [
      "Black Oak Ridge Road",
      "East Whitlock Road"
-    ]
+    ],
+    "nodeId": 89162879
    }
   },
   {
@@ -8945,7 +9500,8 @@
     "streets": [
      "Black Oak Ridge Road",
      "Placer Lane"
-    ]
+    ],
+    "nodeId": 89162927
    }
   },
   {
@@ -8962,7 +9518,8 @@
      "Deer Park Drive",
      "Feliciana Mountain Road",
      "Ponderosa Way"
-    ]
+    ],
+    "nodeId": 89163318
    }
   },
   {
@@ -8978,7 +9535,8 @@
     "streets": [
      "Miller Road",
      "Old Highway"
-    ]
+    ],
+    "nodeId": 89163424
    }
   },
   {
@@ -8994,7 +9552,8 @@
     "streets": [
      "Bridgeport Drive",
      "Buckeye Road"
-    ]
+    ],
+    "nodeId": 89163566
    }
   },
   {
@@ -9010,7 +9569,8 @@
     "streets": [
      "Bridgeport Drive",
      "Old Highway Road"
-    ]
+    ],
+    "nodeId": 89163559
    }
   },
   {
@@ -9026,7 +9586,8 @@
     "streets": [
      "Jerseydale Road",
      "Wild Dove Lane"
-    ]
+    ],
+    "nodeId": 89163890
    }
   },
   {
@@ -9042,7 +9603,8 @@
     "streets": [
      "Jerseydale Road",
      "Scott Road"
-    ]
+    ],
+    "nodeId": 89164071
    }
   },
   {
@@ -9058,7 +9620,8 @@
     "streets": [
      "Granite Springs Road",
      "Penon Blanco Road"
-    ]
+    ],
+    "nodeId": 89164420
    }
   },
   {
@@ -9074,7 +9637,8 @@
     "streets": [
      "Granite Springs Road",
      "Piney Creek Road"
-    ]
+    ],
+    "nodeId": 89164719
    }
   },
   {
@@ -9090,7 +9654,8 @@
     "streets": [
      "Granite Dell Road",
      "Granite Springs Road"
-    ]
+    ],
+    "nodeId": 89164735
    }
   },
   {
@@ -9106,7 +9671,8 @@
     "streets": [
      "Azalea Lane",
      "Henness Circle"
-    ]
+    ],
+    "nodeId": 559917840
    }
   },
   {
@@ -9122,7 +9688,8 @@
     "streets": [
      "Country Court",
      "Country Lane"
-    ]
+    ],
+    "nodeId": 89164786
    }
   },
   {
@@ -9138,7 +9705,8 @@
     "streets": [
      "CA 49",
      "Wass Road"
-    ]
+    ],
+    "nodeId": 89164834
    }
   },
   {
@@ -9155,7 +9723,8 @@
      "Creel Road",
      "Harris Ctf",
      "Harris Road"
-    ]
+    ],
+    "nodeId": 89164928
    }
   },
   {
@@ -9171,7 +9740,8 @@
     "streets": [
      "Harris Ctf",
      "Harris Road"
-    ]
+    ],
+    "nodeId": 89164931
    }
   },
   {
@@ -9187,7 +9757,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Old Highway"
-    ]
+    ],
+    "nodeId": 89164936
    }
   },
   {
@@ -9203,7 +9774,8 @@
     "streets": [
      "Coulterville Road",
      "Horseshoe Bend"
-    ]
+    ],
+    "nodeId": 89166453
    }
   },
   {
@@ -9219,7 +9791,8 @@
     "streets": [
      "CA 132",
      "Horseshoe Bend"
-    ]
+    ],
+    "nodeId": 89166500
    }
   },
   {
@@ -9235,7 +9808,8 @@
     "streets": [
      "Campbell Way",
      "Dexter View"
-    ]
+    ],
+    "nodeId": 89166507
    }
   },
   {
@@ -9252,7 +9826,8 @@
      "Campbell Street",
      "Campbell Way",
      "Dexter View"
-    ]
+    ],
+    "nodeId": 89166520
    }
   },
   {
@@ -9268,7 +9843,8 @@
     "streets": [
      "Ham Coward Road",
      "Road 8032"
-    ]
+    ],
+    "nodeId": 88952355
    }
   },
   {
@@ -9284,7 +9860,8 @@
     "streets": [
      "Dogtown Road",
      "Ham Coward Road"
-    ]
+    ],
+    "nodeId": 89157362
    }
   },
   {
@@ -9300,7 +9877,8 @@
     "streets": [
      "Brodiea Lane",
      "Cole Road"
-    ]
+    ],
+    "nodeId": 89167461
    }
   },
   {
@@ -9316,7 +9894,8 @@
     "streets": [
      "Cole Road",
      "Falcon Lane"
-    ]
+    ],
+    "nodeId": 89167516
    }
   },
   {
@@ -9332,7 +9911,8 @@
     "streets": [
      "Jalisco Way",
      "Rosalinda Court"
-    ]
+    ],
+    "nodeId": 89167549
    }
   },
   {
@@ -9348,7 +9928,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Williams Road"
-    ]
+    ],
+    "nodeId": 89167562
    }
   },
   {
@@ -9364,7 +9945,8 @@
     "streets": [
      "Grillo Drive",
      "Lirio Court"
-    ]
+    ],
+    "nodeId": 89167602
    }
   },
   {
@@ -9380,7 +9962,8 @@
     "streets": [
      "Pine Drive",
      "Sierra Drive"
-    ]
+    ],
+    "nodeId": 89168643
    }
   },
   {
@@ -9396,7 +9979,8 @@
     "streets": [
      "Pine Drive",
      "Stout Lane"
-    ]
+    ],
+    "nodeId": 89168679
    }
   },
   {
@@ -9412,7 +9996,8 @@
     "streets": [
      "Gusanillo Way",
      "Paloma Court"
-    ]
+    ],
+    "nodeId": 89168691
    }
   },
   {
@@ -9428,7 +10013,8 @@
     "streets": [
      "17th Street",
      "Fournier Road"
-    ]
+    ],
+    "nodeId": 89168696
    }
   },
   {
@@ -9445,7 +10031,8 @@
      "Boot Jack - Ahwahnee Road;CA 49",
      "Boot Jack Road;CA 49",
      "Worman Road"
-    ]
+    ],
+    "nodeId": 88901037
    }
   },
   {
@@ -9461,7 +10048,8 @@
     "streets": [
      "Boot Jack - Ahwahnee Road;CA 49",
      "Stagecoach Road"
-    ]
+    ],
+    "nodeId": 89174516
    }
   },
   {
@@ -9477,7 +10065,8 @@
     "streets": [
      "Boot Jack - Ahwahnee Road;CA 49",
      "Harris Road"
-    ]
+    ],
+    "nodeId": 88944967
    }
   },
   {
@@ -9493,7 +10082,8 @@
     "streets": [
      "Boot Jack - Ahwahnee Road;CA 49",
      "CA 49"
-    ]
+    ],
+    "nodeId": 2955324719
    }
   },
   {
@@ -9509,7 +10099,8 @@
     "streets": [
      "3rd Street",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89169706
    }
   },
   {
@@ -9525,7 +10116,8 @@
     "streets": [
      "3rd Street",
      "Bullion Street"
-    ]
+    ],
+    "nodeId": 89079161
    }
   },
   {
@@ -9541,7 +10133,8 @@
     "streets": [
      "CA 49",
      "Whitmore Drive"
-    ]
+    ],
+    "nodeId": 89168832
    }
   },
   {
@@ -9557,7 +10150,8 @@
     "streets": [
      "CA 132",
      "Hayward Road"
-    ]
+    ],
+    "nodeId": 89171924
    }
   },
   {
@@ -9573,7 +10167,8 @@
     "streets": [
      "CA 132",
      "Maravilla Drive"
-    ]
+    ],
+    "nodeId": 89172112
    }
   },
   {
@@ -9589,7 +10184,8 @@
     "streets": [
      "CA 132",
      "Gusanillo Way"
-    ]
+    ],
+    "nodeId": 89172120
    }
   },
   {
@@ -9605,7 +10201,8 @@
     "streets": [
      "CA 132",
      "Hormiga Way"
-    ]
+    ],
+    "nodeId": 89172121
    }
   },
   {
@@ -9621,7 +10218,8 @@
     "streets": [
      "CA 132",
      "Piney Creek Road"
-    ]
+    ],
+    "nodeId": 89172205
    }
   },
   {
@@ -9637,7 +10235,8 @@
     "streets": [
      "CA 132",
      "Granite Dell Road"
-    ]
+    ],
+    "nodeId": 89172214
    }
   },
   {
@@ -9653,7 +10252,8 @@
     "streets": [
      "CA 132",
      "Coulterville"
-    ]
+    ],
+    "nodeId": 89172373
    }
   },
   {
@@ -9669,7 +10269,8 @@
     "streets": [
      "CA 132",
      "Old Highway 49"
-    ]
+    ],
+    "nodeId": 89172635
    }
   },
   {
@@ -9685,7 +10286,8 @@
     "streets": [
      "CA 132",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89172645
    }
   },
   {
@@ -9702,7 +10304,8 @@
      "Bondurant Mine Road",
      "Dogtown Road",
      "Mohawk Road"
-    ]
+    ],
+    "nodeId": 89158503
    }
   },
   {
@@ -9718,7 +10321,8 @@
     "streets": [
      "Mohawk Road",
      "Piute Place"
-    ]
+    ],
+    "nodeId": 89172809
    }
   },
   {
@@ -9736,7 +10340,8 @@
      "Mojave Drive",
      "Navajo Lane",
      "Opeechee Lane"
-    ]
+    ],
+    "nodeId": 89172826
    }
   },
   {
@@ -9752,7 +10357,8 @@
     "streets": [
      "East Whitlock Road",
      "Whitlock Road"
-    ]
+    ],
+    "nodeId": 89072245
    }
   },
   {
@@ -9768,7 +10374,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Whitlock Road"
-    ]
+    ],
+    "nodeId": 89172837
    }
   },
   {
@@ -9784,7 +10391,8 @@
     "streets": [
      "Creel Road",
      "Pilot Peak Road"
-    ]
+    ],
+    "nodeId": 89173272
    }
   },
   {
@@ -9800,7 +10408,8 @@
     "streets": [
      "Creel Road",
      "Pautzke Court"
-    ]
+    ],
+    "nodeId": 89173297
    }
   },
   {
@@ -9816,7 +10425,8 @@
     "streets": [
      "Bull Creek Road",
      "Forest Route 2S42"
-    ]
+    ],
+    "nodeId": 89173498
    }
   },
   {
@@ -9832,7 +10442,8 @@
     "streets": [
      "Falling Acorn Lane",
      "Triangle Road"
-    ]
+    ],
+    "nodeId": 88895719
    }
   },
   {
@@ -9848,7 +10459,8 @@
     "streets": [
      "Incline Road",
      "Spur Road"
-    ]
+    ],
+    "nodeId": 559916893
    }
   },
   {
@@ -9864,7 +10476,8 @@
     "streets": [
      "Elizabeth Lane",
      "Trower Road"
-    ]
+    ],
+    "nodeId": 89173752
    }
   },
   {
@@ -9880,7 +10493,8 @@
     "streets": [
      "Adams Ranch Road",
      "Hornitos Road;J16"
-    ]
+    ],
+    "nodeId": 88890500
    }
   },
   {
@@ -9896,7 +10510,8 @@
     "streets": [
      "River Road",
      "Woodpecker Way"
-    ]
+    ],
+    "nodeId": 89174357
    }
   },
   {
@@ -9913,7 +10528,8 @@
      "Apple Seed Lane",
      "Miami Meadow Lane",
      "Nutter Ranch Road"
-    ]
+    ],
+    "nodeId": 89174359
    }
   },
   {
@@ -9929,7 +10545,8 @@
     "streets": [
      "Hernandez Drive",
      "Torito Way"
-    ]
+    ],
+    "nodeId": 89174395
    }
   },
   {
@@ -9945,7 +10562,8 @@
     "streets": [
      "Nutter Ranch Road",
      "Stagecoach Road"
-    ]
+    ],
+    "nodeId": 89174629
    }
   },
   {
@@ -9961,7 +10579,8 @@
     "streets": [
      "Harvest Drive",
      "Leonard Road"
-    ]
+    ],
+    "nodeId": 89174844
    }
   },
   {
@@ -9977,7 +10596,8 @@
     "streets": [
      "Oak Drive",
      "Tenaya Trail Road"
-    ]
+    ],
+    "nodeId": 89174977
    }
   },
   {
@@ -9993,7 +10613,8 @@
     "streets": [
      "Mariposa Creek Circle",
      "Tenaya Trail Road"
-    ]
+    ],
+    "nodeId": 89174987
    }
   },
   {
@@ -10009,7 +10630,8 @@
     "streets": [
      "Deer Run Road",
      "Windy Hollow Road"
-    ]
+    ],
+    "nodeId": 89175100
    }
   },
   {
@@ -10025,7 +10647,8 @@
     "streets": [
      "Lake Cherry Lane",
      "Yosemite Park Way"
-    ]
+    ],
+    "nodeId": 89175249
    }
   },
   {
@@ -10041,7 +10664,8 @@
     "streets": [
      "8th Street",
      "Stroming Road"
-    ]
+    ],
+    "nodeId": 89175293
    }
   },
   {
@@ -10057,7 +10681,8 @@
     "streets": [
      "8th Street",
      "Jessie Street"
-    ]
+    ],
+    "nodeId": 89175311
    }
   },
   {
@@ -10073,7 +10698,8 @@
     "streets": [
      "8th Street",
      "Central Yosemite Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89175313
    }
   },
   {
@@ -10089,7 +10715,8 @@
     "streets": [
      "8th Street",
      "Charles Streer"
-    ]
+    ],
+    "nodeId": 7217376892
    }
   },
   {
@@ -10105,7 +10732,8 @@
     "streets": [
      "8th Street",
      "Bullion Street"
-    ]
+    ],
+    "nodeId": 89079181
    }
   },
   {
@@ -10121,7 +10749,8 @@
     "streets": [
      "8th Street",
      "Jones Street"
-    ]
+    ],
+    "nodeId": 89175320
    }
   },
   {
@@ -10137,7 +10766,8 @@
     "streets": [
      "Maravilla Drive",
      "Rosa Court"
-    ]
+    ],
+    "nodeId": 89175323
    }
   },
   {
@@ -10154,7 +10784,8 @@
      "Feliciana Mountain Road",
      "Leichtlin Lane",
      "Ponderosa Way"
-    ]
+    ],
+    "nodeId": 89175504
    }
   },
   {
@@ -10170,7 +10801,8 @@
     "streets": [
      "Ponderosa Way",
      "Schilling Road"
-    ]
+    ],
+    "nodeId": 89167680
    }
   },
   {
@@ -10186,7 +10818,8 @@
     "streets": [
      "Ponderosa Way",
      "Wagner Road"
-    ]
+    ],
+    "nodeId": 89178694
    }
   },
   {
@@ -10202,7 +10835,8 @@
     "streets": [
      "Ponderosa Way",
      "View Hill Road"
-    ]
+    ],
+    "nodeId": 89176638
    }
   },
   {
@@ -10218,7 +10852,8 @@
     "streets": [
      "Pine Lake Drive",
      "Ponderosa Way"
-    ]
+    ],
+    "nodeId": 89176692
    }
   },
   {
@@ -10234,7 +10869,8 @@
     "streets": [
      "K Road",
      "Ponderosa Way"
-    ]
+    ],
+    "nodeId": 89176855
    }
   },
   {
@@ -10250,7 +10886,8 @@
     "streets": [
      "Cuneo Road",
      "Ponderosa Way"
-    ]
+    ],
+    "nodeId": 89101561
    }
   },
   {
@@ -10267,7 +10904,8 @@
      "East Whitlock Road",
      "Sherlock Road",
      "West Whitlock Road"
-    ]
+    ],
+    "nodeId": 89179875
    }
   },
   {
@@ -10283,7 +10921,8 @@
     "streets": [
      "Salamander Drive",
      "Sherlock Road"
-    ]
+    ],
+    "nodeId": 89179891
    }
   },
   {
@@ -10299,7 +10938,8 @@
     "streets": [
      "Sherlock Road",
      "Telegraph Road"
-    ]
+    ],
+    "nodeId": 89180023
    }
   },
   {
@@ -10315,7 +10955,8 @@
     "streets": [
      "Sherlock Road",
      "Telegraph Hill Road"
-    ]
+    ],
+    "nodeId": 89180043
    }
   },
   {
@@ -10331,7 +10972,8 @@
     "streets": [
      "Sherlock",
      "Sherlock Road"
-    ]
+    ],
+    "nodeId": 89180210
    }
   },
   {
@@ -10347,7 +10989,8 @@
     "streets": [
      "Harris Road",
      "Ponderosa Court"
-    ]
+    ],
+    "nodeId": 89180890
    }
   },
   {
@@ -10363,7 +11006,8 @@
     "streets": [
      "Glacier Point Road",
      "Wawona Road"
-    ]
+    ],
+    "nodeId": 89181021
    }
   },
   {
@@ -10379,7 +11023,8 @@
     "streets": [
      "Rivet Street",
      "White Chief Mountain Road"
-    ]
+    ],
+    "nodeId": 89182484
    }
   },
   {
@@ -10395,7 +11040,8 @@
     "streets": [
      "Meadow Lane",
      "Rainbow View"
-    ]
+    ],
+    "nodeId": 89182490
    }
   },
   {
@@ -10411,7 +11057,8 @@
     "streets": [
      "CA 140",
      "Central Yosemite Highway;CA 140"
-    ]
+    ],
+    "nodeId": 950456613
    }
   },
   {
@@ -10427,7 +11074,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Owens Creek Road"
-    ]
+    ],
+    "nodeId": 89182594
    }
   },
   {
@@ -10443,7 +11091,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Slaughterhouse Road"
-    ]
+    ],
+    "nodeId": 89184090
    }
   },
   {
@@ -10459,7 +11108,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Lakeview Road"
-    ]
+    ],
+    "nodeId": 89184095
    }
   },
   {
@@ -10475,7 +11125,8 @@
     "streets": [
      "Road 601",
      "Worman Road"
-    ]
+    ],
+    "nodeId": 89185133
    }
   },
   {
@@ -10491,7 +11142,8 @@
     "streets": [
      "Maguire Street",
      "Road 72A"
-    ]
+    ],
+    "nodeId": 89185137
    }
   },
   {
@@ -10507,7 +11159,8 @@
     "streets": [
      "Foresta Road",
      "Incline Road"
-    ]
+    ],
+    "nodeId": 89185237
    }
   },
   {
@@ -10523,7 +11176,8 @@
     "streets": [
      "Barium Mine Road",
      "Foresta Road"
-    ]
+    ],
+    "nodeId": 89185284
    }
   },
   {
@@ -10539,7 +11193,8 @@
     "streets": [
      "Chapel Road",
      "Foresta Road"
-    ]
+    ],
+    "nodeId": 89185417
    }
   },
   {
@@ -10555,7 +11210,8 @@
     "streets": [
      "Foresta Road",
      "Rocky Road"
-    ]
+    ],
+    "nodeId": 89185438
    }
   },
   {
@@ -10571,7 +11227,8 @@
     "streets": [
      "Buckeye Road",
      "Foresta Road"
-    ]
+    ],
+    "nodeId": 89185446
    }
   },
   {
@@ -10588,7 +11245,8 @@
      "Crane Creek Road",
      "Foresta Road",
      "Old Yosemite-Coulterville Road"
-    ]
+    ],
+    "nodeId": 559917976
    }
   },
   {
@@ -10604,7 +11262,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Incline Road"
-    ]
+    ],
+    "nodeId": 89087721
    }
   },
   {
@@ -10620,7 +11279,8 @@
     "streets": [
      "Cerro Sierra Drive",
      "Cierra Sierra Drive"
-    ]
+    ],
+    "nodeId": 89186496
    }
   },
   {
@@ -10636,7 +11296,8 @@
     "streets": [
      "Allred Road",
      "Yellow Pine Hill Road"
-    ]
+    ],
+    "nodeId": 376624814
    }
   },
   {
@@ -10652,7 +11313,8 @@
     "streets": [
      "Barrett",
      "Ranger Road"
-    ]
+    ],
+    "nodeId": 89187759
    }
   },
   {
@@ -10669,7 +11331,8 @@
      "Barrett",
      "Barrett Cove Road",
      "Piney Creek Road"
-    ]
+    ],
+    "nodeId": 89187785
    }
   },
   {
@@ -10685,7 +11348,8 @@
     "streets": [
      "Blacks Creek Road",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89187852
    }
   },
   {
@@ -10701,7 +11365,8 @@
     "streets": [
      "Blacks Creek Road",
      "Penon Blanco Road"
-    ]
+    ],
+    "nodeId": 89187860
    }
   },
   {
@@ -10717,7 +11382,8 @@
     "streets": [
      "Allred Road",
      "Paquala Springs Road"
-    ]
+    ],
+    "nodeId": 376624728
    }
   },
   {
@@ -10733,7 +11399,8 @@
     "streets": [
      "Grove Street",
      "Madison Avenue"
-    ]
+    ],
+    "nodeId": 89188361
    }
   },
   {
@@ -10749,7 +11416,8 @@
     "streets": [
      "2S55A",
      "Forest Route 2S55"
-    ]
+    ],
+    "nodeId": 89088567
    }
   },
   {
@@ -10766,7 +11434,8 @@
      "Bondurant Mine Road",
      "Bondurant Road",
      "Forest Route 2S55"
-    ]
+    ],
+    "nodeId": 89188458
    }
   },
   {
@@ -10782,7 +11451,8 @@
     "streets": [
      "Grist Road",
      "Old Oak Lane"
-    ]
+    ],
+    "nodeId": 89188490
    }
   },
   {
@@ -10798,7 +11468,8 @@
     "streets": [
      "Circle Drive",
      "Easy Street"
-    ]
+    ],
+    "nodeId": 89188622
    }
   },
   {
@@ -10814,7 +11485,8 @@
     "streets": [
      "Blue Oak Drive",
      "Lilac Circle"
-    ]
+    ],
+    "nodeId": 89188915
    }
   },
   {
@@ -10830,7 +11502,8 @@
     "streets": [
      "Forest Route 2S62",
      "Pilot Ridge Road"
-    ]
+    ],
+    "nodeId": 88993885
    }
   },
   {
@@ -10846,7 +11519,8 @@
     "streets": [
      "Yosemite Avenue",
      "Yosemite Pines Lane"
-    ]
+    ],
+    "nodeId": 89190511
    }
   },
   {
@@ -10862,7 +11536,8 @@
     "streets": [
      "Hernandez Drive",
      "Mirasol Way"
-    ]
+    ],
+    "nodeId": 89190539
    }
   },
   {
@@ -10878,7 +11553,8 @@
     "streets": [
      "Hernandez Drive",
      "Romero Street"
-    ]
+    ],
+    "nodeId": 89190572
    }
   },
   {
@@ -10894,7 +11570,8 @@
     "streets": [
      "Adelfa Street",
      "Hernandez Drive"
-    ]
+    ],
+    "nodeId": 89190664
    }
   },
   {
@@ -10910,7 +11587,8 @@
     "streets": [
      "Quail Hollow Road",
      "Windy Hollow Road"
-    ]
+    ],
+    "nodeId": 89190889
    }
   },
   {
@@ -10926,7 +11604,8 @@
     "streets": [
      "Gun",
      "Windy Hollow Road"
-    ]
+    ],
+    "nodeId": 89191004
    }
   },
   {
@@ -10942,7 +11621,8 @@
     "streets": [
      "Deer Run",
      "Windy Hollow Road"
-    ]
+    ],
+    "nodeId": 89191017
    }
   },
   {
@@ -10958,7 +11638,8 @@
     "streets": [
      "Quail Run Road",
      "Windy Hollow Road"
-    ]
+    ],
+    "nodeId": 89191049
    }
   },
   {
@@ -10974,7 +11655,8 @@
     "streets": [
      "Wildcat Springs Road",
      "Windy Hollow Road"
-    ]
+    ],
+    "nodeId": 89191080
    }
   },
   {
@@ -10990,7 +11672,8 @@
     "streets": [
      "Chapulin Way",
      "Granite Springs Road"
-    ]
+    ],
+    "nodeId": 89164463
    }
   },
   {
@@ -11006,7 +11689,8 @@
     "streets": [
      "Chapulin Way",
      "Margarita Court"
-    ]
+    ],
+    "nodeId": 89191386
    }
   },
   {
@@ -11022,7 +11706,8 @@
     "streets": [
      "Chapulin Way",
      "Clavel Way"
-    ]
+    ],
+    "nodeId": 89191483
    }
   },
   {
@@ -11038,7 +11723,8 @@
     "streets": [
      "Mirasol Way",
      "Romero Street"
-    ]
+    ],
+    "nodeId": 89191622
    }
   },
   {
@@ -11054,7 +11740,8 @@
     "streets": [
      "Mary Harrison Mine Road",
      "Old Highway 49"
-    ]
+    ],
+    "nodeId": 89192783
    }
   },
   {
@@ -11070,7 +11757,8 @@
     "streets": [
      "Rastro Way",
      "Zamora Street"
-    ]
+    ],
+    "nodeId": 89193062
    }
   },
   {
@@ -11086,7 +11774,8 @@
     "streets": [
      "Forest Drive",
      "Wawona Road"
-    ]
+    ],
+    "nodeId": 89193118
    }
   },
   {
@@ -11102,7 +11791,8 @@
     "streets": [
      "Fig Tree Spring Road",
      "Wildwood Road"
-    ]
+    ],
+    "nodeId": 89193939
    }
   },
   {
@@ -11118,7 +11808,8 @@
     "streets": [
      "Chinatown Main Street",
      "Greeley Hill Road;CR J132"
-    ]
+    ],
+    "nodeId": 89194029
    }
   },
   {
@@ -11134,7 +11825,8 @@
     "streets": [
      "Dawn Road",
      "Digger Pine Drive"
-    ]
+    ],
+    "nodeId": 89194071
    }
   },
   {
@@ -11150,7 +11842,8 @@
     "streets": [
      "Italian",
      "Italian Creek Road"
-    ]
+    ],
+    "nodeId": 89194198
    }
   },
   {
@@ -11166,7 +11859,8 @@
     "streets": [
      "Hamilton Station Loop Road",
      "Highway 120;CA 120"
-    ]
+    ],
+    "nodeId": 89194525
    }
   },
   {
@@ -11182,7 +11876,8 @@
     "streets": [
      "Buck Brush Lane",
      "Yosemite Park Way"
-    ]
+    ],
+    "nodeId": 89194568
    }
   },
   {
@@ -11198,7 +11893,8 @@
     "streets": [
      "Telegraph Hill Road",
      "Telegraph Road"
-    ]
+    ],
+    "nodeId": 89194644
    }
   },
   {
@@ -11214,7 +11910,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Triangle Road"
-    ]
+    ],
+    "nodeId": 89184216
    }
   },
   {
@@ -11230,7 +11927,8 @@
     "streets": [
      "Carleton Road",
      "Triangle Road"
-    ]
+    ],
+    "nodeId": 4567417161
    }
   },
   {
@@ -11246,7 +11944,8 @@
     "streets": [
      "Silva Road",
      "Triangle Road"
-    ]
+    ],
+    "nodeId": 376628910
    }
   },
   {
@@ -11262,7 +11961,8 @@
     "streets": [
      "Butterfly Ridge Road",
      "Triangle Road"
-    ]
+    ],
+    "nodeId": 89196113
    }
   },
   {
@@ -11278,7 +11978,8 @@
     "streets": [
      "Carter Road",
      "Triangle Road"
-    ]
+    ],
+    "nodeId": 89196129
    }
   },
   {
@@ -11294,7 +11995,8 @@
     "streets": [
      "Nickel Plate Road",
      "Triangle Road"
-    ]
+    ],
+    "nodeId": 89196303
    }
   },
   {
@@ -11310,7 +12012,8 @@
     "streets": [
      "Meadow Lane",
      "Triangle Road"
-    ]
+    ],
+    "nodeId": 89196593
    }
   },
   {
@@ -11326,7 +12029,8 @@
     "streets": [
      "East Westfall Road",
      "Triangle Road"
-    ]
+    ],
+    "nodeId": 89107273
    }
   },
   {
@@ -11342,7 +12046,8 @@
     "streets": [
      "CA 49",
      "Triangle Road"
-    ]
+    ],
+    "nodeId": 89168860
    }
   },
   {
@@ -11358,7 +12063,8 @@
     "streets": [
      "Gann's Corral Road",
      "Old Highway"
-    ]
+    ],
+    "nodeId": 89197896
    }
   },
   {
@@ -11376,7 +12082,8 @@
      "Central Yosemite Highway;CA 49;CA 140",
      "Golden Chain Highway;CA 49",
      "Jones Street"
-    ]
+    ],
+    "nodeId": 89183929
    }
   },
   {
@@ -11392,7 +12099,8 @@
     "streets": [
      "13th Street",
      "Jones Street"
-    ]
+    ],
+    "nodeId": 89197991
    }
   },
   {
@@ -11408,7 +12116,8 @@
     "streets": [
      "12th Street",
      "Jones Street"
-    ]
+    ],
+    "nodeId": 89197994
    }
   },
   {
@@ -11424,7 +12133,8 @@
     "streets": [
      "10th Street",
      "Jones Street"
-    ]
+    ],
+    "nodeId": 89119833
    }
   },
   {
@@ -11440,7 +12150,8 @@
     "streets": [
      "7th Street",
      "Jones Street"
-    ]
+    ],
+    "nodeId": 89198002
    }
   },
   {
@@ -11456,7 +12167,8 @@
     "streets": [
      "6th Street",
      "Jones Street"
-    ]
+    ],
+    "nodeId": 89198008
    }
   },
   {
@@ -11472,7 +12184,8 @@
     "streets": [
      "13th Street",
      "Bullion Street"
-    ]
+    ],
+    "nodeId": 89079192
    }
   },
   {
@@ -11488,7 +12201,8 @@
     "streets": [
      "13th Street",
      "Charles Street"
-    ]
+    ],
+    "nodeId": 89198030
    }
   },
   {
@@ -11504,7 +12218,8 @@
     "streets": [
      "Lake McClure Road",
      "Village Drive"
-    ]
+    ],
+    "nodeId": 89199241
    }
   },
   {
@@ -11520,7 +12235,8 @@
     "streets": [
      "Tecoya Road",
      "Village Drive"
-    ]
+    ],
+    "nodeId": 89085945
    }
   },
   {
@@ -11536,7 +12252,8 @@
     "streets": [
      "East Westfall Road",
      "Smithers Road"
-    ]
+    ],
+    "nodeId": 89107213
    }
   },
   {
@@ -11552,7 +12269,8 @@
     "streets": [
      "Fir Street",
      "Southern Yosemite Highway;CA 41"
-    ]
+    ],
+    "nodeId": 89200422
    }
   },
   {
@@ -11568,7 +12286,8 @@
     "streets": [
      "Fir Street",
      "Mariposa Avenue"
-    ]
+    ],
+    "nodeId": 8947499921
    }
   },
   {
@@ -11584,7 +12303,8 @@
     "streets": [
      "Aqua Fria Road",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89200493
    }
   },
   {
@@ -11600,7 +12320,8 @@
     "streets": [
      "Mercado Drive",
      "Merced Falls Road"
-    ]
+    ],
+    "nodeId": 89200866
    }
   },
   {
@@ -11616,7 +12337,8 @@
     "streets": [
      "Mercado Drive",
      "Torre Drive"
-    ]
+    ],
+    "nodeId": 89200898
    }
   },
   {
@@ -11632,7 +12354,8 @@
     "streets": [
      "Manzanita Lane",
      "Yosemite Park Way"
-    ]
+    ],
+    "nodeId": 89102140
    }
   },
   {
@@ -11648,7 +12371,8 @@
     "streets": [
      "Henness Ridge Road",
      "Yosemite Park Way"
-    ]
+    ],
+    "nodeId": 89201120
    }
   },
   {
@@ -11664,7 +12388,8 @@
     "streets": [
      "Avoca Vale Road",
      "Serpentine Drive"
-    ]
+    ],
+    "nodeId": 6432147966
    }
   },
   {
@@ -11680,7 +12405,8 @@
     "streets": [
      "Apple Seed Lane",
      "Nutter Ranch Road"
-    ]
+    ],
+    "nodeId": 89201356
    }
   },
   {
@@ -11696,7 +12422,8 @@
     "streets": [
      "Yosemite National Park Road",
      "Yosemite Way"
-    ]
+    ],
+    "nodeId": 89202869
    }
   },
   {
@@ -11712,7 +12439,8 @@
     "streets": [
      "Crane Flat Road",
      "Yosemite National Park Road"
-    ]
+    ],
+    "nodeId": 89203718
    }
   },
   {
@@ -11728,7 +12456,8 @@
     "streets": [
      "Old Yosemite Coulterville Road",
      "Old Yosemite-Coulterville Road"
-    ]
+    ],
+    "nodeId": 89205118
    }
   },
   {
@@ -11744,7 +12473,8 @@
     "streets": [
      "Campground Road",
      "Old Yosemite-Coulterville Road"
-    ]
+    ],
+    "nodeId": 1756800812
    }
   },
   {
@@ -11760,7 +12490,8 @@
     "streets": [
      "Big Oak Flat Road",
      "Old Yosemite-Coulterville Road"
-    ]
+    ],
+    "nodeId": 89198883
    }
   },
   {
@@ -11776,7 +12507,8 @@
     "streets": [
      "Meadow Lane",
      "Pine Top Drive"
-    ]
+    ],
+    "nodeId": 89205802
    }
   },
   {
@@ -11792,7 +12524,8 @@
     "streets": [
      "Jalapa Way",
      "Parasol Court"
-    ]
+    ],
+    "nodeId": 89146555
    }
   },
   {
@@ -11808,7 +12541,8 @@
     "streets": [
      "East Whitlock Road",
      "Yosemite Oaks Road"
-    ]
+    ],
+    "nodeId": 89206008
    }
   },
   {
@@ -11824,7 +12558,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Yosemite Oaks Road"
-    ]
+    ],
+    "nodeId": 89184209
    }
   },
   {
@@ -11840,7 +12575,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Utah Street"
-    ]
+    ],
+    "nodeId": 89207002
    }
   },
   {
@@ -11856,7 +12592,8 @@
     "streets": [
      "Carleton Road",
      "Indian Rock Lane"
-    ]
+    ],
+    "nodeId": 376628095
    }
   },
   {
@@ -11872,7 +12609,8 @@
     "streets": [
      "Bull Pine Lane",
      "Hirsch Road"
-    ]
+    ],
+    "nodeId": 89207099
    }
   },
   {
@@ -11888,7 +12626,8 @@
     "streets": [
      "Southern Yosemite Highway;CA 41",
      "White Chief Mountain Road"
-    ]
+    ],
+    "nodeId": 89207224
    }
   },
   {
@@ -11904,7 +12643,8 @@
     "streets": [
      "East Whitlock Road",
      "Paddy Hill Road"
-    ]
+    ],
+    "nodeId": 89208003
    }
   },
   {
@@ -11920,7 +12660,8 @@
     "streets": [
      "Clouds Rest",
      "Sierra Pines Drive"
-    ]
+    ],
+    "nodeId": 89209457
    }
   },
   {
@@ -11937,7 +12678,8 @@
      "Greeley Hill Road;CR J132",
      "Park Circle Drive",
      "Red Cloud Drive"
-    ]
+    ],
+    "nodeId": 89209974
    }
   },
   {
@@ -11953,7 +12695,8 @@
     "streets": [
      "Cedar Lane",
      "Snyder Ridge Road"
-    ]
+    ],
+    "nodeId": 89210002
    }
   },
   {
@@ -11969,7 +12712,8 @@
     "streets": [
      "Cascade Creek Fall",
      "Clouds Rest"
-    ]
+    ],
+    "nodeId": 89210149
    }
   },
   {
@@ -11985,7 +12729,8 @@
     "streets": [
      "Clouds Rest",
      "El Capitan"
-    ]
+    ],
+    "nodeId": 89210222
    }
   },
   {
@@ -12001,7 +12746,8 @@
     "streets": [
      "Cathedral Spires",
      "Clouds Rest"
-    ]
+    ],
+    "nodeId": 89210269
    }
   },
   {
@@ -12018,7 +12764,8 @@
      "Gusanillo Way",
      "Hormiga Court",
      "Hormiga Way"
-    ]
+    ],
+    "nodeId": 89210455
    }
   },
   {
@@ -12035,7 +12782,8 @@
      "Greeley Hill Road;CR J132",
      "Main Street;CR J132",
      "Park Lane"
-    ]
+    ],
+    "nodeId": 89024203
    }
   },
   {
@@ -12051,7 +12799,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "West Whitlock Road"
-    ]
+    ],
+    "nodeId": 89210682
    }
   },
   {
@@ -12067,7 +12816,8 @@
     "streets": [
      "Blue Oak Ridge",
      "West Whitlock Road"
-    ]
+    ],
+    "nodeId": 89210788
    }
   },
   {
@@ -12083,7 +12833,8 @@
     "streets": [
      "Black Bear Court",
      "Usona Ridge Road"
-    ]
+    ],
+    "nodeId": 89211558
    }
   },
   {
@@ -12099,7 +12850,8 @@
     "streets": [
      "Chinche Court",
      "Maravilla Drive"
-    ]
+    ],
+    "nodeId": 89211636
    }
   },
   {
@@ -12115,7 +12867,8 @@
     "streets": [
      "Alta Vista Road",
      "Foran Road"
-    ]
+    ],
+    "nodeId": 89211745
    }
   },
   {
@@ -12131,7 +12884,8 @@
     "streets": [
      "Blanchard Road",
      "Cadena Way"
-    ]
+    ],
+    "nodeId": 89211982
    }
   },
   {
@@ -12147,7 +12901,8 @@
     "streets": [
      "Cya Camp",
      "Lyons Gulch Road"
-    ]
+    ],
+    "nodeId": 89212071
    }
   },
   {
@@ -12163,7 +12918,8 @@
     "streets": [
      "Leonard Way",
      "Wawona Road"
-    ]
+    ],
+    "nodeId": 89212622
    }
   },
   {
@@ -12179,7 +12935,8 @@
     "streets": [
      "Allred Road",
      "Morningstar Lane"
-    ]
+    ],
+    "nodeId": 376626224
    }
   },
   {
@@ -12195,7 +12952,8 @@
     "streets": [
      "Morningstar Lane",
      "Twin Oaks Road"
-    ]
+    ],
+    "nodeId": 376626534
    }
   },
   {
@@ -12211,7 +12969,8 @@
     "streets": [
      "Carleton Road",
      "Morningstar Lane"
-    ]
+    ],
+    "nodeId": 88937753
    }
   },
   {
@@ -12227,7 +12986,8 @@
     "streets": [
      "6th Street",
      "Bullion Street"
-    ]
+    ],
+    "nodeId": 89079169
    }
   },
   {
@@ -12243,7 +13003,8 @@
     "streets": [
      "6th Street",
      "Central Yosemite Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89212826
    }
   },
   {
@@ -12259,7 +13020,8 @@
     "streets": [
      "Dana Way",
      "Yosemite Way"
-    ]
+    ],
+    "nodeId": 1756800827
    }
   },
   {
@@ -12275,7 +13037,8 @@
     "streets": [
      "Dana Way",
      "First Street"
-    ]
+    ],
+    "nodeId": 89213033
    }
   },
   {
@@ -12291,7 +13054,8 @@
     "streets": [
      "Dana Way",
      "Old Yosemite-Coulterville Road"
-    ]
+    ],
+    "nodeId": 89213044
    }
   },
   {
@@ -12308,7 +13072,8 @@
      "Bear Valley Road",
      "Blm Road",
      "Hunters Valley Access Road"
-    ]
+    ],
+    "nodeId": 89213080
    }
   },
   {
@@ -12324,7 +13089,8 @@
     "streets": [
      "Blm Road",
      "Hunters Valley Access Road"
-    ]
+    ],
+    "nodeId": 88981813
    }
   },
   {
@@ -12340,7 +13106,8 @@
     "streets": [
      "Esperance Lane",
      "Guadalupe Creek Road"
-    ]
+    ],
+    "nodeId": 89213215
    }
   },
   {
@@ -12356,7 +13123,8 @@
     "streets": [
      "Ernst Road",
      "Shetland Lane"
-    ]
+    ],
+    "nodeId": 88904638
    }
   },
   {
@@ -12372,7 +13140,8 @@
     "streets": [
      "Ahwahnee Street",
      "Yosemite Fall"
-    ]
+    ],
+    "nodeId": 89213442
    }
   },
   {
@@ -12388,7 +13157,8 @@
     "streets": [
      "Bear Valley Road;J16",
      "Chinatown Alley"
-    ]
+    ],
+    "nodeId": 89213506
    }
   },
   {
@@ -12404,7 +13174,8 @@
     "streets": [
      "East Westfall Road",
      "Old Mill Road"
-    ]
+    ],
+    "nodeId": 89107140
    }
   },
   {
@@ -12420,7 +13191,8 @@
     "streets": [
      "Cedar Lane",
      "Deer Lane"
-    ]
+    ],
+    "nodeId": 89214184
    }
   },
   {
@@ -12436,7 +13208,8 @@
     "streets": [
      "Cathedral Spires",
      "Sentinel Dome"
-    ]
+    ],
+    "nodeId": 89214514
    }
   },
   {
@@ -12452,7 +13225,8 @@
     "streets": [
      "Cathedral Spires",
      "Meadow Lane"
-    ]
+    ],
+    "nodeId": 89214520
    }
   },
   {
@@ -12468,7 +13242,8 @@
     "streets": [
      "Ernst Road",
      "Manzanita Way"
-    ]
+    ],
+    "nodeId": 9641615459
    }
   },
   {
@@ -12484,7 +13259,8 @@
     "streets": [
      "Detweiler Road",
      "Detwiller Road"
-    ]
+    ],
+    "nodeId": 89214751
    }
   },
   {
@@ -12500,7 +13276,8 @@
     "streets": [
      "French Road",
      "Pinetree Road"
-    ]
+    ],
+    "nodeId": 89215167
    }
   },
   {
@@ -12516,7 +13293,8 @@
     "streets": [
      "CA 49",
      "Pinetree Road"
-    ]
+    ],
+    "nodeId": 89214891
    }
   },
   {
@@ -12532,7 +13310,8 @@
     "streets": [
      "Briceburg Road",
      "Burma Grade Road"
-    ]
+    ],
+    "nodeId": 4816641054
    }
   },
   {
@@ -12548,7 +13327,8 @@
     "streets": [
      "Jasmine Way",
      "Maravilla Drive"
-    ]
+    ],
+    "nodeId": 89216756
    }
   },
   {
@@ -12565,7 +13345,8 @@
      "Amelia Drive",
      "Pauline Drive",
      "Spring Court"
-    ]
+    ],
+    "nodeId": 89216806
    }
   },
   {
@@ -12581,7 +13362,8 @@
     "streets": [
      "Pauline Drive",
      "Silva Road"
-    ]
+    ],
+    "nodeId": 89216832
    }
   },
   {
@@ -12597,7 +13379,8 @@
     "streets": [
      "Cole Road",
      "Lupine Lane"
-    ]
+    ],
+    "nodeId": 89216844
    }
   },
   {
@@ -12613,7 +13396,8 @@
     "streets": [
      "Cole Road",
      "La Rosa Road"
-    ]
+    ],
+    "nodeId": 88977563
    }
   },
   {
@@ -12629,7 +13413,8 @@
     "streets": [
      "Cole Road",
      "Silva Road"
-    ]
+    ],
+    "nodeId": 89216939
    }
   },
   {
@@ -12645,7 +13430,8 @@
     "streets": [
      "Carleton Road",
      "Silva Road"
-    ]
+    ],
+    "nodeId": 89217018
    }
   },
   {
@@ -12661,7 +13447,8 @@
     "streets": [
      "South Waltz Road",
      "Waltz Road"
-    ]
+    ],
+    "nodeId": 89218970
    }
   },
   {
@@ -12677,7 +13464,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Smith Road"
-    ]
+    ],
+    "nodeId": 89183945
    }
   },
   {
@@ -12693,7 +13481,8 @@
     "streets": [
      "Hospital Road",
      "Smith Road"
-    ]
+    ],
+    "nodeId": 89219003
    }
   },
   {
@@ -12709,7 +13498,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Smith Road"
-    ]
+    ],
+    "nodeId": 89219035
    }
   },
   {
@@ -12725,7 +13515,8 @@
     "streets": [
      "Bear Valley Road;J16",
      "Exchequer Road"
-    ]
+    ],
+    "nodeId": 89219097
    }
   },
   {
@@ -12741,7 +13532,8 @@
     "streets": [
      "Bear Valley Road;J16",
      "Hunters Valley Road"
-    ]
+    ],
+    "nodeId": 89219698
    }
   },
   {
@@ -12757,7 +13549,8 @@
     "streets": [
      "Cotton Creek Road",
      "Hunters Valley Road"
-    ]
+    ],
+    "nodeId": 89220577
    }
   },
   {
@@ -12773,7 +13566,8 @@
     "streets": [
      "Campbell Lane",
      "Wagner Road"
-    ]
+    ],
+    "nodeId": 89221177
    }
   },
   {
@@ -12789,7 +13583,8 @@
     "streets": [
      "Ahwahnee Street",
      "Meadow Lane"
-    ]
+    ],
+    "nodeId": 89221422
    }
   },
   {
@@ -12805,7 +13600,8 @@
     "streets": [
      "El Capitan",
      "Meadow Lane"
-    ]
+    ],
+    "nodeId": 89221470
    }
   },
   {
@@ -12821,7 +13617,8 @@
     "streets": [
      "CA 49",
      "Chowchilla Mountain Road"
-    ]
+    ],
+    "nodeId": 89168831
    }
   },
   {
@@ -12837,7 +13634,8 @@
     "streets": [
      "Chowchilla Mountain Road",
      "Round Tree Saddle Road"
-    ]
+    ],
+    "nodeId": 89221921
    }
   },
   {
@@ -12853,7 +13651,8 @@
     "streets": [
      "Grillo Drive",
      "Mosca Court"
-    ]
+    ],
+    "nodeId": 89223931
    }
   },
   {
@@ -12869,7 +13668,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "School Lane"
-    ]
+    ],
+    "nodeId": 89223978
    }
   },
   {
@@ -12885,7 +13685,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Indian Gulch Road"
-    ]
+    ],
+    "nodeId": 89183023
    }
   },
   {
@@ -12901,7 +13702,8 @@
     "streets": [
      "Bondurant",
      "Bondurant Road"
-    ]
+    ],
+    "nodeId": 89225440
    }
   },
   {
@@ -12917,7 +13719,8 @@
     "streets": [
      "Ferry Road",
      "Maxwell Street"
-    ]
+    ],
+    "nodeId": 89226946
    }
   },
   {
@@ -12933,7 +13736,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Mary Harrison Mine Road"
-    ]
+    ],
+    "nodeId": 89228176
    }
   },
   {
@@ -12949,7 +13753,8 @@
     "streets": [
      "Crown Lead Road",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89228183
    }
   },
   {
@@ -12965,7 +13770,8 @@
     "streets": [
      "Fairgrounds Road",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89193078
    }
   },
   {
@@ -12981,7 +13787,8 @@
     "streets": [
      "Carza Street",
      "Hayward Road"
-    ]
+    ],
+    "nodeId": 89230540
    }
   },
   {
@@ -12997,7 +13804,8 @@
     "streets": [
      "Breeze Way",
      "Circle Drive"
-    ]
+    ],
+    "nodeId": 89230598
    }
   },
   {
@@ -13013,7 +13821,8 @@
     "streets": [
      "Shady Crest Road",
      "Worman Road"
-    ]
+    ],
+    "nodeId": 7132647115
    }
   },
   {
@@ -13029,7 +13838,8 @@
     "streets": [
      "Stockton Street",
      "West Street"
-    ]
+    ],
+    "nodeId": 89230835
    }
   },
   {
@@ -13045,7 +13855,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Stockton Street"
-    ]
+    ],
+    "nodeId": 89228113
    }
   },
   {
@@ -13061,7 +13872,8 @@
     "streets": [
      "Fish Camp Lane",
      "Silver Tip Lane"
-    ]
+    ],
+    "nodeId": 89230864
    }
   },
   {
@@ -13077,7 +13889,8 @@
     "streets": [
      "Blanchard Road",
      "Granite Springs Road"
-    ]
+    ],
+    "nodeId": 89164580
    }
   },
   {
@@ -13093,7 +13906,8 @@
     "streets": [
      "12th Street",
      "Charles Street"
-    ]
+    ],
+    "nodeId": 89231094
    }
   },
   {
@@ -13109,7 +13923,8 @@
     "streets": [
      "11th Street",
      "Charles Street"
-    ]
+    ],
+    "nodeId": 89231096
    }
   },
   {
@@ -13125,7 +13940,8 @@
     "streets": [
      "Escalon Court",
      "Rastro Way"
-    ]
+    ],
+    "nodeId": 89231164
    }
   },
   {
@@ -13141,7 +13957,8 @@
     "streets": [
      "Granite Springs Road",
      "Grillo Drive"
-    ]
+    ],
+    "nodeId": 89164472
    }
   },
   {
@@ -13157,7 +13974,8 @@
     "streets": [
      "CA 49",
      "Varain Road"
-    ]
+    ],
+    "nodeId": 89169298
    }
   },
   {
@@ -13173,7 +13991,8 @@
     "streets": [
      "Alamo Creek Road",
      "Lookout Mountain Road"
-    ]
+    ],
+    "nodeId": 89232228
    }
   },
   {
@@ -13189,7 +14008,8 @@
     "streets": [
      "Foxfield Lane",
      "Lookout Mountain Road"
-    ]
+    ],
+    "nodeId": 89232149
    }
   },
   {
@@ -13206,7 +14026,8 @@
      "Allred Road",
      "Jenny Lane",
      "Yellow Pine Hill"
-    ]
+    ],
+    "nodeId": 376624192
    }
   },
   {
@@ -13222,7 +14043,8 @@
     "streets": [
      "Buckeye Road",
      "Burl Drive"
-    ]
+    ],
+    "nodeId": 89233053
    }
   },
   {
@@ -13238,7 +14060,8 @@
     "streets": [
      "Buckeye Road",
      "Ramsden Road"
-    ]
+    ],
+    "nodeId": 89233129
    }
   },
   {
@@ -13254,7 +14077,8 @@
     "streets": [
      "Buckeye Road",
      "Old Yosemite-Coulterville Road"
-    ]
+    ],
+    "nodeId": 559918009
    }
   },
   {
@@ -13270,7 +14094,8 @@
     "streets": [
      "Coyote Court",
      "Silva Road"
-    ]
+    ],
+    "nodeId": 89233993
    }
   },
   {
@@ -13286,7 +14111,8 @@
     "streets": [
      "Amelia Drive",
      "Silva Road"
-    ]
+    ],
+    "nodeId": 89233995
    }
   },
   {
@@ -13303,7 +14129,8 @@
      "Golden Chain Highway;CA 49",
      "Haigh Road",
      "Penon Blanco Road"
-    ]
+    ],
+    "nodeId": 89227975
    }
   },
   {
@@ -13319,7 +14146,8 @@
     "streets": [
      "Coronado Drive",
      "Merced Falls Road"
-    ]
+    ],
+    "nodeId": 89235228
    }
   },
   {
@@ -13335,7 +14163,8 @@
     "streets": [
      "Coronado Drive",
      "Torre Drive"
-    ]
+    ],
+    "nodeId": 89235305
    }
   },
   {
@@ -13351,7 +14180,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Chamberlain Drive"
-    ]
+    ],
+    "nodeId": 89184394
    }
   },
   {
@@ -13367,7 +14197,8 @@
     "streets": [
      "Chamberlain Drive",
      "Chmberlain Drive"
-    ]
+    ],
+    "nodeId": 88968310
    }
   },
   {
@@ -13384,7 +14215,8 @@
      "Curry Village Drive",
      "Northside Drive",
      "Southside Drive"
-    ]
+    ],
+    "nodeId": 89150502
    }
   },
   {
@@ -13401,7 +14233,8 @@
      "Brooks Road",
      "Hirsch Road",
      "Woodland Drive"
-    ]
+    ],
+    "nodeId": 89237828
    }
   },
   {
@@ -13417,7 +14250,8 @@
     "streets": [
      "Woodland Drive",
      "Woodland Park Drive"
-    ]
+    ],
+    "nodeId": 89237859
    }
   },
   {
@@ -13433,7 +14267,8 @@
     "streets": [
      "Greeley Hill Road;CR J132",
      "Priest Coulterville Road"
-    ]
+    ],
+    "nodeId": 89237942
    }
   },
   {
@@ -13449,7 +14284,8 @@
     "streets": [
      "Cuneo Road",
      "Priest Coulterville Road"
-    ]
+    ],
+    "nodeId": 89238243
    }
   },
   {
@@ -13465,7 +14301,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Hummingbird Lane"
-    ]
+    ],
+    "nodeId": 89183480
    }
   },
   {
@@ -13481,7 +14318,8 @@
     "streets": [
      "Allred Road",
      "CA 49"
-    ]
+    ],
+    "nodeId": 89169221
    }
   },
   {
@@ -13497,7 +14335,8 @@
     "streets": [
      "Allred Road",
      "Slaughterhouse Road"
-    ]
+    ],
+    "nodeId": 89240352
    }
   },
   {
@@ -13513,7 +14352,8 @@
     "streets": [
      "Allred Road",
      "Central Yosemite Highway;CA 140"
-    ]
+    ],
+    "nodeId": 89011199
    }
   },
   {
@@ -13529,7 +14369,8 @@
     "streets": [
      "7th Street",
      "Central Yosemite Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89240834
    }
   },
   {
@@ -13545,7 +14386,8 @@
     "streets": [
      "7th Street",
      "Bullion Street"
-    ]
+    ],
+    "nodeId": 89079172
    }
   },
   {
@@ -13561,7 +14403,8 @@
     "streets": [
      "Foran Road",
      "Penny Royal"
-    ]
+    ],
+    "nodeId": 89240838
    }
   },
   {
@@ -13577,7 +14420,8 @@
     "streets": [
      "Household Road",
      "Piney Creek Road"
-    ]
+    ],
+    "nodeId": 89241265
    }
   },
   {
@@ -13593,7 +14437,8 @@
     "streets": [
      "County Road 121A",
      "Old Yosemite-Coulterville Road"
-    ]
+    ],
+    "nodeId": 89241683
    }
   },
   {
@@ -13609,7 +14454,8 @@
     "streets": [
      "Gusanillo Way",
      "Maravilla Drive"
-    ]
+    ],
+    "nodeId": 89242785
    }
   },
   {
@@ -13625,7 +14471,8 @@
     "streets": [
      "Billy Falls Way",
      "Mariposa Avenue"
-    ]
+    ],
+    "nodeId": 89243024
    }
   },
   {
@@ -13641,7 +14488,8 @@
     "streets": [
      "Mormom Bar Crossing",
      "Old Highway"
-    ]
+    ],
+    "nodeId": 376661664
    }
   },
   {
@@ -13657,7 +14505,8 @@
     "streets": [
      "Fournier Street",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89230136
    }
   },
   {
@@ -13673,7 +14522,8 @@
     "streets": [
      "Cedar Lane",
      "River Road"
-    ]
+    ],
+    "nodeId": 89243467
    }
   },
   {
@@ -13689,7 +14539,8 @@
     "streets": [
      "Raccoon Road",
      "River Road"
-    ]
+    ],
+    "nodeId": 8947726004
    }
   },
   {
@@ -13705,7 +14556,8 @@
     "streets": [
      "Bluejay Way",
      "River Road"
-    ]
+    ],
+    "nodeId": 8947765573
    }
   },
   {
@@ -13721,7 +14573,8 @@
     "streets": [
      "Dolorosa Street",
      "Mojica Way"
-    ]
+    ],
+    "nodeId": 89243544
    }
   },
   {
@@ -13737,7 +14590,8 @@
     "streets": [
      "East Whitlock Road",
      "Foran Road"
-    ]
+    ],
+    "nodeId": 89243935
    }
   },
   {
@@ -13753,7 +14607,8 @@
     "streets": [
      "Clavel Court",
      "Clavel Way"
-    ]
+    ],
+    "nodeId": 89243985
    }
   },
   {
@@ -13769,7 +14624,8 @@
     "streets": [
      "Loop Road",
      "Robin Lane"
-    ]
+    ],
+    "nodeId": 8947785552
    }
   },
   {
@@ -13785,7 +14641,8 @@
     "streets": [
      "Larke Street",
      "Loop Road"
-    ]
+    ],
+    "nodeId": 7903256118
    }
   },
   {
@@ -13801,7 +14658,8 @@
     "streets": [
      "Hornitos Road;J16",
      "La Paloma Road"
-    ]
+    ],
+    "nodeId": 88890659
    }
   },
   {
@@ -13817,7 +14675,8 @@
     "streets": [
      "Blue Oak Drive",
      "Silver Bush Place"
-    ]
+    ],
+    "nodeId": 89244232
    }
   },
   {
@@ -13833,7 +14692,8 @@
     "streets": [
      "Merced Falls Road",
      "Torre Drive"
-    ]
+    ],
+    "nodeId": 89244642
    }
   },
   {
@@ -13849,7 +14709,8 @@
     "streets": [
      "Carlos Court",
      "Clavel Way"
-    ]
+    ],
+    "nodeId": 89244712
    }
   },
   {
@@ -13865,7 +14726,8 @@
     "streets": [
      "Conifer Lane",
      "Oliver Creek Road"
-    ]
+    ],
+    "nodeId": 89244867
    }
   },
   {
@@ -13881,7 +14743,8 @@
     "streets": [
      "12th Street",
      "Central Yosemite Highway;CA 49;CA 140"
-    ]
+    ],
+    "nodeId": 89244975
    }
   },
   {
@@ -13897,7 +14760,8 @@
     "streets": [
      "12th Street",
      "Jessie Street"
-    ]
+    ],
+    "nodeId": 89195480
    }
   },
   {
@@ -13913,7 +14777,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Guadalupe Fire Road"
-    ]
+    ],
+    "nodeId": 89183436
    }
   },
   {
@@ -13929,7 +14794,8 @@
     "streets": [
      "Barium Mine Road",
      "River View Road"
-    ]
+    ],
+    "nodeId": 89246793
    }
   },
   {
@@ -13945,7 +14811,8 @@
     "streets": [
      "B L M Road",
      "Hunters Valley Access Road"
-    ]
+    ],
+    "nodeId": 88981967
    }
   },
   {
@@ -13961,7 +14828,8 @@
     "streets": [
      "Mount Gaines Road",
      "North Nine Road"
-    ]
+    ],
+    "nodeId": 89250218
    }
   },
   {
@@ -13977,7 +14845,8 @@
     "streets": [
      "Bear Valley Road;J16",
      "North Nine Road"
-    ]
+    ],
+    "nodeId": 89250425
    }
   },
   {
@@ -13993,7 +14862,8 @@
     "streets": [
      "Barrett Cove Road",
      "Merced Falls Road"
-    ]
+    ],
+    "nodeId": 89251060
    }
   },
   {
@@ -14009,7 +14879,8 @@
     "streets": [
      "Boulder Ridge Road",
      "Usona Road"
-    ]
+    ],
+    "nodeId": 89105064
    }
   },
   {
@@ -14025,7 +14896,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Cobey Lane"
-    ]
+    ],
+    "nodeId": 89184388
    }
   },
   {
@@ -14041,7 +14913,8 @@
     "streets": [
      "Hirsch Road",
      "Mullein Lane"
-    ]
+    ],
+    "nodeId": 89254193
    }
   },
   {
@@ -14057,7 +14930,8 @@
     "streets": [
      "Lakeview Road",
      "Serpentine Drive"
-    ]
+    ],
+    "nodeId": 89201303
    }
   },
   {
@@ -14073,7 +14947,8 @@
     "streets": [
      "Indian Gulch",
      "South Waltz Road"
-    ]
+    ],
+    "nodeId": 89255115
    }
   },
   {
@@ -14089,7 +14964,8 @@
     "streets": [
      "Granite Springs Road",
      "Narciso Way"
-    ]
+    ],
+    "nodeId": 89164546
    }
   },
   {
@@ -14105,7 +14981,8 @@
     "streets": [
      "Hirsch Road",
      "Wildcat Road"
-    ]
+    ],
+    "nodeId": 89255488
    }
   },
   {
@@ -14121,7 +14998,8 @@
     "streets": [
      "Scenic Drive",
      "View Hill Drive"
-    ]
+    ],
+    "nodeId": 89256041
    }
   },
   {
@@ -14137,7 +15015,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Greeley Hill Road;CR J132"
-    ]
+    ],
+    "nodeId": 89096200
    }
   },
   {
@@ -14153,7 +15032,8 @@
     "streets": [
      "Dogtown Road",
      "Wagner Road"
-    ]
+    ],
+    "nodeId": 89157591
    }
   },
   {
@@ -14169,7 +15049,8 @@
     "streets": [
      "West Westfall Road",
      "White Rock Road"
-    ]
+    ],
+    "nodeId": 89128400
    }
   },
   {
@@ -14185,7 +15066,8 @@
     "streets": [
      "Bear Valley Road;J16",
      "Water Street"
-    ]
+    ],
+    "nodeId": 89259588
    }
   },
   {
@@ -14201,7 +15083,8 @@
     "streets": [
      "Greeley Hill Road;CR J132",
      "Water Street"
-    ]
+    ],
+    "nodeId": 89259608
    }
   },
   {
@@ -14217,7 +15100,8 @@
     "streets": [
      "Rancho Vista Drive",
      "Woodview Lane"
-    ]
+    ],
+    "nodeId": 89259867
    }
   },
   {
@@ -14233,7 +15117,8 @@
     "streets": [
      "Oak Grove Road",
      "Woodview Lane"
-    ]
+    ],
+    "nodeId": 89096018
    }
   },
   {
@@ -14249,7 +15134,8 @@
     "streets": [
      "5524",
      "Jerseydale Road"
-    ]
+    ],
+    "nodeId": 89164390
    }
   },
   {
@@ -14266,7 +15152,8 @@
      "Gold Leaf Drive",
      "Golden Chain Highway;CA 49",
      "Mykleoaks Road"
-    ]
+    ],
+    "nodeId": 89230124
    }
   },
   {
@@ -14282,7 +15169,8 @@
     "streets": [
      "Dexter Lane",
      "Park Circle Drive"
-    ]
+    ],
+    "nodeId": 559916654
    }
   },
   {
@@ -14298,7 +15186,8 @@
     "streets": [
      "Greeley Hill Road;CR J132",
      "Park Circle Drive"
-    ]
+    ],
+    "nodeId": 89257919
    }
   },
   {
@@ -14314,7 +15203,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Crane Creek Road"
-    ]
+    ],
+    "nodeId": 2579247454
    }
   },
   {
@@ -14330,7 +15220,8 @@
     "streets": [
      "5th Street",
      "Central Yosemite Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89261089
    }
   },
   {
@@ -14346,7 +15237,8 @@
     "streets": [
      "5th Street",
      "Bullion Street"
-    ]
+    ],
+    "nodeId": 89079166
    }
   },
   {
@@ -14362,7 +15254,8 @@
     "streets": [
      "Manzanita Way",
      "Wagner Road"
-    ]
+    ],
+    "nodeId": 89258972
    }
   },
   {
@@ -14378,7 +15271,8 @@
     "streets": [
      "Fish Camp Lane",
      "Southern Yosemite Highway;CA 41"
-    ]
+    ],
+    "nodeId": 89264529
    }
   },
   {
@@ -14394,7 +15288,8 @@
     "streets": [
      "Crane Flat Road",
      "Old Yosemite-Coulterville Road"
-    ]
+    ],
+    "nodeId": 89262015
    }
   },
   {
@@ -14410,7 +15305,8 @@
     "streets": [
      "Lone Oak Drive",
      "View Hill Drive"
-    ]
+    ],
+    "nodeId": 89263414
    }
   },
   {
@@ -14426,7 +15322,8 @@
     "streets": [
      "CA 49",
      "Drunken Gulch Road"
-    ]
+    ],
+    "nodeId": 89229700
    }
   },
   {
@@ -14442,7 +15339,8 @@
     "streets": [
      "CA 49",
      "Thompson Lane"
-    ]
+    ],
+    "nodeId": 89031925
    }
   },
   {
@@ -14458,7 +15356,8 @@
     "streets": [
      "County Park Road",
      "Stroming Road"
-    ]
+    ],
+    "nodeId": 89264768
    }
   },
   {
@@ -14474,7 +15373,8 @@
     "streets": [
      "Guadalupe Creek Road",
      "Our Lady Lane"
-    ]
+    ],
+    "nodeId": 89264960
    }
   },
   {
@@ -14490,7 +15390,8 @@
     "streets": [
      "Dexter Lane",
      "Fiske Hill Road"
-    ]
+    ],
+    "nodeId": 88908505
    }
   },
   {
@@ -14506,7 +15407,8 @@
     "streets": [
      "Boneyard Road",
      "Cuneo Road"
-    ]
+    ],
+    "nodeId": 94988697
    }
   },
   {
@@ -14522,7 +15424,8 @@
     "streets": [
      "CA 49",
      "Moss Creek Lane"
-    ]
+    ],
+    "nodeId": 89168808
    }
   },
   {
@@ -14538,7 +15441,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Fremount Turnpike"
-    ]
+    ],
+    "nodeId": 89183800
    }
   },
   {
@@ -14554,7 +15458,8 @@
     "streets": [
      "Bear Valley Road;J16",
      "Low Street"
-    ]
+    ],
+    "nodeId": 89210485
    }
   },
   {
@@ -14570,7 +15475,8 @@
     "streets": [
      "11th Street",
      "Central Yosemite Highway;CA 49;CA 140"
-    ]
+    ],
+    "nodeId": 89274739
    }
   },
   {
@@ -14586,7 +15492,8 @@
     "streets": [
      "Brooks Road",
      "CA 49"
-    ]
+    ],
+    "nodeId": 89169028
    }
   },
   {
@@ -14602,7 +15509,8 @@
     "streets": [
      "Heritage Lane",
      "Jeannine Lane"
-    ]
+    ],
+    "nodeId": 89275206
    }
   },
   {
@@ -14618,7 +15526,8 @@
     "streets": [
      "Southern Yosemite Highway;CA 41",
      "Wawona Road"
-    ]
+    ],
+    "nodeId": 1950134780
    }
   },
   {
@@ -14634,7 +15543,8 @@
     "streets": [
      "Happy Isles Loop Road",
      "Southside Drive"
-    ]
+    ],
+    "nodeId": 89150461
    }
   },
   {
@@ -14650,7 +15560,8 @@
     "streets": [
      "Coakley Circle",
      "Jessie Street"
-    ]
+    ],
+    "nodeId": 89195478
    }
   },
   {
@@ -14666,7 +15577,8 @@
     "streets": [
      "Coakley Circle",
      "Joe Howard Street"
-    ]
+    ],
+    "nodeId": 88957010
    }
   },
   {
@@ -14682,7 +15594,8 @@
     "streets": [
      "Bear Valley Road;J16",
      "High Street"
-    ]
+    ],
+    "nodeId": 89119366
    }
   },
   {
@@ -14698,7 +15611,8 @@
     "streets": [
      "Bear Valley Road;J16",
      "Mount Gaines Road"
-    ]
+    ],
+    "nodeId": 89272787
    }
   },
   {
@@ -14714,7 +15628,8 @@
     "streets": [
      "11th Street",
      "Bullion Street"
-    ]
+    ],
+    "nodeId": 89079188
    }
   },
   {
@@ -14730,7 +15645,8 @@
     "streets": [
      "Oak Grove Road",
      "Rancho Vista Drive"
-    ]
+    ],
+    "nodeId": 89095979
    }
   },
   {
@@ -14746,7 +15662,8 @@
     "streets": [
      "CA 49",
      "Hirsch Road"
-    ]
+    ],
+    "nodeId": 89169013
    }
   },
   {
@@ -14762,7 +15679,8 @@
     "streets": [
      "CA 49",
      "Sebastopol Road"
-    ]
+    ],
+    "nodeId": 89169151
    }
   },
   {
@@ -14778,7 +15696,8 @@
     "streets": [
      "6th Street",
      "Stroming Road"
-    ]
+    ],
+    "nodeId": 89212832
    }
   },
   {
@@ -14794,7 +15713,8 @@
     "streets": [
      "Enramada Drive",
      "Granite Springs Road"
-    ]
+    ],
+    "nodeId": 94789284
    }
   },
   {
@@ -14810,7 +15730,8 @@
     "streets": [
      "CA 132",
      "Granite Springs Road"
-    ]
+    ],
+    "nodeId": 94825265
    }
   },
   {
@@ -14826,7 +15747,8 @@
     "streets": [
      "Boneyard Road",
      "Wagner Ridge Road"
-    ]
+    ],
+    "nodeId": 94893060
    }
   },
   {
@@ -14842,7 +15764,8 @@
     "streets": [
      "Cuneo Road",
      "Stonecrest Drive"
-    ]
+    ],
+    "nodeId": 94975038
    }
   },
   {
@@ -14858,7 +15781,8 @@
     "streets": [
      "Boneyard Road",
      "Incense Cedar Trail"
-    ]
+    ],
+    "nodeId": 94988773
    }
   },
   {
@@ -14874,7 +15798,8 @@
     "streets": [
      "Curry Village Drive",
      "Southside Drive"
-    ]
+    ],
+    "nodeId": 89150488
    }
   },
   {
@@ -14890,7 +15815,8 @@
     "streets": [
      "Incline Road",
      "Sugar Pine Road"
-    ]
+    ],
+    "nodeId": 89216357
    }
   },
   {
@@ -14906,7 +15832,8 @@
     "streets": [
      "May Lake Road",
      "Tioga Road"
-    ]
+    ],
+    "nodeId": 88958386
    }
   },
   {
@@ -14923,7 +15850,8 @@
      "CA 49",
      "Central Yosemite Highway;CA 140",
      "Central Yosemite Highway;CA 49;CA 140"
-    ]
+    ],
+    "nodeId": 89183883
    }
   },
   {
@@ -14939,7 +15867,8 @@
     "streets": [
      "Eagle Peak Road",
      "Old Yosemite-Coulterville Road"
-    ]
+    ],
+    "nodeId": 2431297861
    }
   },
   {
@@ -14956,7 +15885,8 @@
      "Big Oak Flat Road",
      "El Portal Road",
      "Northside Drive"
-    ]
+    ],
+    "nodeId": 89078599
    }
   },
   {
@@ -14972,7 +15902,8 @@
     "streets": [
      "Converse Road",
      "Greeley Hill Road;CR J132"
-    ]
+    ],
+    "nodeId": 10940009046
    }
   },
   {
@@ -14988,7 +15919,8 @@
     "streets": [
      "First Street",
      "Old Yosemite Coulterville Road"
-    ]
+    ],
+    "nodeId": 1898495596
    }
   },
   {
@@ -15005,7 +15937,8 @@
      " Big Sandy Road",
      "Jackson ",
      "Southern Yosemite Highway;CA 41"
-    ]
+    ],
+    "nodeId": 88908016
    }
   },
   {
@@ -15021,7 +15954,8 @@
     "streets": [
      "Bear Valley Road;J16",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89229858
    }
   },
   {
@@ -15037,7 +15971,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Pendola Garden Road"
-    ]
+    ],
+    "nodeId": 89100270
    }
   },
   {
@@ -15053,7 +15988,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Old Toll Road"
-    ]
+    ],
+    "nodeId": 89209245
    }
   },
   {
@@ -15069,7 +16005,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Mount Bullion Cutoff Road"
-    ]
+    ],
+    "nodeId": 89152995
    }
   },
   {
@@ -15085,7 +16022,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Spaulding Road"
-    ]
+    ],
+    "nodeId": 89188488
    }
   },
   {
@@ -15101,7 +16039,8 @@
     "streets": [
      "Frank Wilson Road",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 12881364863
    }
   },
   {
@@ -15117,7 +16056,8 @@
     "streets": [
      "Miami Motorcycle Trail",
      "Miami Mountain Road"
-    ]
+    ],
+    "nodeId": 89113084
    }
   },
   {
@@ -15133,7 +16073,8 @@
     "streets": [
      "6S17",
      "6S24"
-    ]
+    ],
+    "nodeId": 88799351
    }
   },
   {
@@ -15149,7 +16090,8 @@
     "streets": [
      "Buckeye Road",
      "Buckyeye Court"
-    ]
+    ],
+    "nodeId": 2431297818
    }
   },
   {
@@ -15165,7 +16107,8 @@
     "streets": [
      "Chowchilla Mountain Road",
      "Wawona Road"
-    ]
+    ],
+    "nodeId": 89223663
    }
   },
   {
@@ -15181,7 +16124,8 @@
     "streets": [
      "Big Oak Flat Road",
      "Tioga Road"
-    ]
+    ],
+    "nodeId": 89091499
    }
   },
   {
@@ -15197,7 +16141,8 @@
     "streets": [
      "Sierra Circle",
      "Southside Drive"
-    ]
+    ],
+    "nodeId": 89280581
    }
   },
   {
@@ -15213,7 +16158,8 @@
     "streets": [
      "Meadow Lane",
      "Northside Drive"
-    ]
+    ],
+    "nodeId": 89237551
    }
   },
   {
@@ -15229,7 +16175,8 @@
     "streets": [
      "Northside Drive",
      "Yosemite Lodge Drive"
-    ]
+    ],
+    "nodeId": 4783947427
    }
   },
   {
@@ -15245,7 +16192,8 @@
     "streets": [
      "10th Street",
      "Bullion Street"
-    ]
+    ],
+    "nodeId": 89079186
    }
   },
   {
@@ -15261,7 +16209,8 @@
     "streets": [
      "Granite Springs Road",
      "Gusanillo Way"
-    ]
+    ],
+    "nodeId": 89164570
    }
   },
   {
@@ -15277,7 +16226,8 @@
     "streets": [
      "Pacific Bars Road",
      "Silva Road"
-    ]
+    ],
+    "nodeId": 4100233933
    }
   },
   {
@@ -15293,7 +16243,8 @@
     "streets": [
      "Old Highway",
      "White Rock Road"
-    ]
+    ],
+    "nodeId": 89130598
    }
   },
   {
@@ -15309,7 +16260,8 @@
     "streets": [
      "River Haven Drive",
      "Usona Road"
-    ]
+    ],
+    "nodeId": 89105216
    }
   },
   {
@@ -15325,7 +16277,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Highway 140"
-    ]
+    ],
+    "nodeId": 89280882
    }
   },
   {
@@ -15341,7 +16294,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Oak Road"
-    ]
+    ],
+    "nodeId": 89094104
    }
   },
   {
@@ -15357,7 +16311,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Ponderosa Way"
-    ]
+    ],
+    "nodeId": 88893656
    }
   },
   {
@@ -15373,7 +16328,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Colorado Road"
-    ]
+    ],
+    "nodeId": 89117926
    }
   },
   {
@@ -15389,7 +16345,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Miller Road"
-    ]
+    ],
+    "nodeId": 89163514
    }
   },
   {
@@ -15405,7 +16362,8 @@
     "streets": [
      "Central Yosemite Highway;CA 49",
      "Charles Streer"
-    ]
+    ],
+    "nodeId": 7217376896
    }
   },
   {
@@ -15421,7 +16379,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Paso Del Oso Road"
-    ]
+    ],
+    "nodeId": 88992776
    }
   },
   {
@@ -15437,7 +16396,8 @@
     "streets": [
      "Bull Creek Road",
      "Burma Grade Road"
-    ]
+    ],
+    "nodeId": 89067807
    }
   },
   {
@@ -15453,7 +16413,8 @@
     "streets": [
      "Hospital Road",
      "Old Meadows Road"
-    ]
+    ],
+    "nodeId": 89274820
    }
   },
   {
@@ -15469,7 +16430,8 @@
     "streets": [
      "High Street",
      "Plaza Alley"
-    ]
+    ],
+    "nodeId": 89119354
    }
   },
   {
@@ -15485,7 +16447,8 @@
     "streets": [
      "12th Street",
      "Bullion Street"
-    ]
+    ],
+    "nodeId": 89079190
    }
   },
   {
@@ -15501,7 +16464,8 @@
     "streets": [
      "Central Yosemite Highway;CA 49;CA 140",
      "Jessie Street"
-    ]
+    ],
+    "nodeId": 3455133140
    }
   },
   {
@@ -15517,7 +16481,8 @@
     "streets": [
      "Central Yosemite Highway;CA 49;CA 140",
      "Coakley Circle"
-    ]
+    ],
+    "nodeId": 89274746
    }
   },
   {
@@ -15533,7 +16498,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Old Highway"
-    ]
+    ],
+    "nodeId": 89230389
    }
   },
   {
@@ -15549,7 +16515,8 @@
     "streets": [
      "Fournier Road",
      "Standen Park Road"
-    ]
+    ],
+    "nodeId": 12881364853
    }
   },
   {
@@ -15565,7 +16532,8 @@
     "streets": [
      "Oak Canyon Drive",
      "Paso Del Oso Road"
-    ]
+    ],
+    "nodeId": 88992782
    }
   },
   {
@@ -15581,7 +16549,8 @@
     "streets": [
      "Mark Twain Lane",
      "Old Highway"
-    ]
+    ],
+    "nodeId": 8276817215
    }
   },
   {
@@ -15597,7 +16566,8 @@
     "streets": [
      "Guadalupe Fire Road",
      "Old Highway"
-    ]
+    ],
+    "nodeId": 89165872
    }
   },
   {
@@ -15613,7 +16583,8 @@
     "streets": [
      "Frank Wilson Road",
      "Lemee Lane"
-    ]
+    ],
+    "nodeId": 7261599351
    }
   },
   {
@@ -15629,7 +16600,8 @@
     "streets": [
      "Bill's Hill Road",
      "SDA Camp Road"
-    ]
+    ],
+    "nodeId": 8949265588
    }
   },
   {
@@ -15645,7 +16617,8 @@
     "streets": [
      "Four Mile Road",
      "Wawona Road"
-    ]
+    ],
+    "nodeId": 8409003423
    }
   },
   {
@@ -15661,7 +16634,8 @@
     "streets": [
      "Dogtown Road",
      "Schilling Road"
-    ]
+    ],
+    "nodeId": 89157394
    }
   },
   {
@@ -15677,7 +16651,8 @@
     "streets": [
      "Miami Mountain Road",
      "Southern Yosemite Highway;CA 41"
-    ]
+    ],
+    "nodeId": 89260953
    }
   },
   {
@@ -15693,7 +16668,8 @@
     "streets": [
      "Mariposa Grove Road",
      "Wawona Road"
-    ]
+    ],
+    "nodeId": 6779963469
    }
   },
   {
@@ -15709,7 +16685,8 @@
     "streets": [
      "El Capitan Drive",
      "Northside Drive"
-    ]
+    ],
+    "nodeId": 88889286
    }
   },
   {
@@ -15725,7 +16702,8 @@
     "streets": [
      "El Capitan Drive",
      "Northside Drive"
-    ]
+    ],
+    "nodeId": 89060081
    }
   },
   {
@@ -15741,7 +16719,8 @@
     "streets": [
      "Bear Creek Drive",
      "Hornitos Road"
-    ]
+    ],
+    "nodeId": 88889538
    }
   },
   {
@@ -15757,7 +16736,8 @@
     "streets": [
      "Bear Creek Drive",
      "Hornitos Road"
-    ]
+    ],
+    "nodeId": 88889943
    }
   },
   {
@@ -15773,7 +16753,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Schilling Road"
-    ]
+    ],
+    "nodeId": 88979580
    }
   },
   {
@@ -15789,7 +16770,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Schilling Road"
-    ]
+    ],
+    "nodeId": 11246067785
    }
   },
   {
@@ -15805,7 +16787,8 @@
     "streets": [
      "El Capitan Drive",
      "Southside Drive"
-    ]
+    ],
+    "nodeId": 89059894
    }
   },
   {
@@ -15821,7 +16804,8 @@
     "streets": [
      "El Capitan Drive",
      "Southside Drive"
-    ]
+    ],
+    "nodeId": 4496530389
    }
   },
   {
@@ -15837,7 +16821,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "El Portal Road"
-    ]
+    ],
+    "nodeId": 89077786
    }
   },
   {
@@ -15853,7 +16838,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "El Portal Road"
-    ]
+    ],
+    "nodeId": 89087850
    }
   },
   {
@@ -15869,7 +16855,8 @@
     "streets": [
      "Bullion Street",
      "Jones Street"
-    ]
+    ],
+    "nodeId": 89079146
    }
   },
   {
@@ -15885,7 +16872,8 @@
     "streets": [
      "Bullion Street",
      "Jones Street"
-    ]
+    ],
+    "nodeId": 89079194
    }
   },
   {
@@ -15901,7 +16889,8 @@
     "streets": [
      "Farfalla Circle",
      "Mari Way"
-    ]
+    ],
+    "nodeId": 89080398
    }
   },
   {
@@ -15917,7 +16906,8 @@
     "streets": [
      "Farfalla Circle",
      "Mari Way"
-    ]
+    ],
+    "nodeId": 88892416
    }
   },
   {
@@ -15933,7 +16923,8 @@
     "streets": [
      "Enramada Drive",
      "Tuolumne County Road"
-    ]
+    ],
+    "nodeId": 89080411
    }
   },
   {
@@ -15949,7 +16940,8 @@
     "streets": [
      "Enramada Drive",
      "Tuolumne County Road"
-    ]
+    ],
+    "nodeId": 94789071
    }
   },
   {
@@ -15965,7 +16957,8 @@
     "streets": [
      "Enramada Drive",
      "Tuolumne County Road"
-    ]
+    ],
+    "nodeId": 89275295
    }
   },
   {
@@ -15981,7 +16974,8 @@
     "streets": [
      "Enramada Drive",
      "Tuolumne County Road"
-    ]
+    ],
+    "nodeId": 89275299
    }
   },
   {
@@ -15997,7 +16991,8 @@
     "streets": [
      "Enramada Drive",
      "Tuolumne County Road"
-    ]
+    ],
+    "nodeId": 89275286
    }
   },
   {
@@ -16013,7 +17008,8 @@
     "streets": [
      "Exchequer Dam Road",
      "Exchequer Road"
-    ]
+    ],
+    "nodeId": 89084613
    }
   },
   {
@@ -16029,7 +17025,8 @@
     "streets": [
      "Exchequer Dam Road",
      "Exchequer Road"
-    ]
+    ],
+    "nodeId": 89101172
    }
   },
   {
@@ -16045,7 +17042,8 @@
     "streets": [
      "Chilnualna Falls Road",
      "Loop Road"
-    ]
+    ],
+    "nodeId": 8947785548
    }
   },
   {
@@ -16061,7 +17059,8 @@
     "streets": [
      "Chilnualna Falls Road",
      "Loop Road"
-    ]
+    ],
+    "nodeId": 3049943389
    }
   },
   {
@@ -16077,7 +17076,8 @@
     "streets": [
      "Madison Avenue",
      "Pine Street"
-    ]
+    ],
+    "nodeId": 89086114
    }
   },
   {
@@ -16093,7 +17093,8 @@
     "streets": [
      "Madison Avenue",
      "Pine Street"
-    ]
+    ],
+    "nodeId": 88909308
    }
   },
   {
@@ -16109,7 +17110,8 @@
     "streets": [
      "Campbell Way",
      "Pine Street"
-    ]
+    ],
+    "nodeId": 89086131
    }
   },
   {
@@ -16125,7 +17127,8 @@
     "streets": [
      "Campbell Way",
      "Pine Street"
-    ]
+    ],
+    "nodeId": 89086132
    }
   },
   {
@@ -16141,7 +17144,8 @@
     "streets": [
      "Old Yosemite Coulterville Road",
      "Old Yosemite Coulterville Road;1S12"
-    ]
+    ],
+    "nodeId": 89091559
    }
   },
   {
@@ -16157,7 +17161,8 @@
     "streets": [
      "Old Yosemite Coulterville Road",
      "Old Yosemite Coulterville Road;1S12"
-    ]
+    ],
+    "nodeId": 89252509
    }
   },
   {
@@ -16173,7 +17178,8 @@
     "streets": [
      "High Street",
      "Saint Catherine Street"
-    ]
+    ],
+    "nodeId": 89093697
    }
   },
   {
@@ -16189,7 +17195,8 @@
     "streets": [
      "High Street",
      "Saint Catherine Street"
-    ]
+    ],
+    "nodeId": 89093705
    }
   },
   {
@@ -16205,7 +17212,8 @@
     "streets": [
      "Gold Creek Lane",
      "West Whitlock Road"
-    ]
+    ],
+    "nodeId": 89094122
    }
   },
   {
@@ -16221,7 +17229,8 @@
     "streets": [
      "Gold Creek Lane",
      "West Whitlock Road"
-    ]
+    ],
+    "nodeId": 89210887
    }
   },
   {
@@ -16237,7 +17246,8 @@
     "streets": [
      "Mount Lilac Road",
      "Oak Grove Road"
-    ]
+    ],
+    "nodeId": 89095847
    }
   },
   {
@@ -16253,7 +17263,8 @@
     "streets": [
      "Mount Lilac Road",
      "Oak Grove Road"
-    ]
+    ],
+    "nodeId": 89095968
    }
   },
   {
@@ -16269,7 +17280,8 @@
     "streets": [
      "Meadow Lane",
      "Royal Arches"
-    ]
+    ],
+    "nodeId": 89097771
    }
   },
   {
@@ -16285,7 +17297,8 @@
     "streets": [
      "Meadow Lane",
      "Royal Arches"
-    ]
+    ],
+    "nodeId": 89097818
    }
   },
   {
@@ -16301,7 +17314,8 @@
     "streets": [
      "Glacier Point",
      "Meadow Lane"
-    ]
+    ],
+    "nodeId": 89099528
    }
   },
   {
@@ -16317,7 +17331,8 @@
     "streets": [
      "Glacier Point",
      "Meadow Lane"
-    ]
+    ],
+    "nodeId": 89099584
    }
   },
   {
@@ -16333,7 +17348,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Mount Ophir Road"
-    ]
+    ],
+    "nodeId": 89099588
    }
   },
   {
@@ -16349,7 +17365,8 @@
     "streets": [
      "Golden Chain Highway;CA 49",
      "Mount Ophir Road"
-    ]
+    ],
+    "nodeId": 89099662
    }
   },
   {
@@ -16365,7 +17382,8 @@
     "streets": [
      "Saint Andrew's Lane",
      "Saint Andrew's Road"
-    ]
+    ],
+    "nodeId": 89147450
    }
   },
   {
@@ -16381,7 +17399,8 @@
     "streets": [
      "Saint Andrew's Lane",
      "Saint Andrew's Road"
-    ]
+    ],
+    "nodeId": 89099760
    }
   },
   {
@@ -16397,7 +17416,8 @@
     "streets": [
      "Sugar Pine Drive",
      "Suger Pine Drive"
-    ]
+    ],
+    "nodeId": 89021539
    }
   },
   {
@@ -16413,7 +17433,8 @@
     "streets": [
      "Sugar Pine Drive",
      "Suger Pine Drive"
-    ]
+    ],
+    "nodeId": 89101072
    }
   },
   {
@@ -16429,7 +17450,8 @@
     "streets": [
      "Hayward",
      "Hayward Road"
-    ]
+    ],
+    "nodeId": 89101302
    }
   },
   {
@@ -16445,7 +17467,8 @@
     "streets": [
      "Hayward",
      "Hayward Road"
-    ]
+    ],
+    "nodeId": 88954806
    }
   },
   {
@@ -16461,7 +17484,8 @@
     "streets": [
      "Ranchito Drive",
      "Zelma Way"
-    ]
+    ],
+    "nodeId": 89101333
    }
   },
   {
@@ -16477,7 +17501,8 @@
     "streets": [
      "Ranchito Drive",
      "Zelma Way"
-    ]
+    ],
+    "nodeId": 89101391
    }
   },
   {
@@ -16493,7 +17518,8 @@
     "streets": [
      "Dexter Road",
      "K Road"
-    ]
+    ],
+    "nodeId": 89101482
    }
   },
   {
@@ -16509,7 +17535,8 @@
     "streets": [
      "Dexter Road",
      "K Road"
-    ]
+    ],
+    "nodeId": 89101500
    }
   },
   {
@@ -16525,7 +17552,8 @@
     "streets": [
      "Dexter Road",
      "Sierra Drive"
-    ]
+    ],
+    "nodeId": 89101546
    }
   },
   {
@@ -16541,7 +17569,8 @@
     "streets": [
      "Dexter Road",
      "Sierra Drive"
-    ]
+    ],
+    "nodeId": 88965635
    }
   },
   {
@@ -16557,7 +17586,8 @@
     "streets": [
      "Baytree Lane",
      "Corral Road"
-    ]
+    ],
+    "nodeId": 89102232
    }
   },
   {
@@ -16573,7 +17603,8 @@
     "streets": [
      "Baytree Lane",
      "Corral Road"
-    ]
+    ],
+    "nodeId": 89102287
    }
   },
   {
@@ -16589,7 +17620,8 @@
     "streets": [
      "Sentinel Drive",
      "Southside Drive"
-    ]
+    ],
+    "nodeId": 89102319
    }
   },
   {
@@ -16605,7 +17637,8 @@
     "streets": [
      "Sentinel Drive",
      "Southside Drive"
-    ]
+    ],
+    "nodeId": 12485865740
    }
   },
   {
@@ -16621,7 +17654,8 @@
     "streets": [
      "Sharp Lane",
      "Usona Road"
-    ]
+    ],
+    "nodeId": 89105502
    }
   },
   {
@@ -16637,7 +17671,8 @@
     "streets": [
      "Sharp Lane",
      "Usona Road"
-    ]
+    ],
+    "nodeId": 89105511
    }
   },
   {
@@ -16653,7 +17688,8 @@
     "streets": [
      "Usona Ridge Road",
      "Usona Road"
-    ]
+    ],
+    "nodeId": 89105577
    }
   },
   {
@@ -16669,7 +17705,8 @@
     "streets": [
      "Usona Ridge Road",
      "Usona Road"
-    ]
+    ],
+    "nodeId": 89105603
    }
   },
   {
@@ -16685,7 +17722,8 @@
     "streets": [
      "Heather Way",
      "River Haven Drive"
-    ]
+    ],
+    "nodeId": 89105842
    }
   },
   {
@@ -16701,7 +17739,8 @@
     "streets": [
      "Heather Way",
      "River Haven Drive"
-    ]
+    ],
+    "nodeId": 89105872
    }
   },
   {
@@ -16717,7 +17756,8 @@
     "streets": [
      "East Westfall Road",
      "Oliver Creek Road"
-    ]
+    ],
+    "nodeId": 89107467
    }
   },
   {
@@ -16733,7 +17773,8 @@
     "streets": [
      "East Westfall Road",
      "Oliver Creek Road"
-    ]
+    ],
+    "nodeId": 89107509
    }
   },
   {
@@ -16749,7 +17790,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Grosjean Road"
-    ]
+    ],
+    "nodeId": 89107799
    }
   },
   {
@@ -16765,7 +17807,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Grosjean Road"
-    ]
+    ],
+    "nodeId": 7280451736
    }
   },
   {
@@ -16781,7 +17824,8 @@
     "streets": [
      "C Y A Road",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89109645
    }
   },
   {
@@ -16797,7 +17841,8 @@
     "streets": [
      "C Y A Road",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89110408
    }
   },
   {
@@ -16813,7 +17858,8 @@
     "streets": [
      "Converse Road",
      "Valley Vista Road"
-    ]
+    ],
+    "nodeId": 89110582
    }
   },
   {
@@ -16829,7 +17875,8 @@
     "streets": [
      "Converse Road",
      "Valley Vista Road"
-    ]
+    ],
+    "nodeId": 89110587
    }
   },
   {
@@ -16845,7 +17892,8 @@
     "streets": [
      "Wagner Ridge Road",
      "Wildrose Lane"
-    ]
+    ],
+    "nodeId": 94861918
    }
   },
   {
@@ -16861,7 +17909,8 @@
     "streets": [
      "Wagner Ridge Road",
      "Wildrose Lane"
-    ]
+    ],
+    "nodeId": 89110866
    }
   },
   {
@@ -16877,7 +17926,8 @@
     "streets": [
      "Blanchard Road",
      "Castano Way"
-    ]
+    ],
+    "nodeId": 89114423
    }
   },
   {
@@ -16893,7 +17943,8 @@
     "streets": [
      "Blanchard Road",
      "Castano Way"
-    ]
+    ],
+    "nodeId": 89114456
    }
   },
   {
@@ -16909,7 +17960,8 @@
     "streets": [
      "Lillian Lane",
      "Mykleoaks Road"
-    ]
+    ],
+    "nodeId": 2738325809
    }
   },
   {
@@ -16925,7 +17977,8 @@
     "streets": [
      "Lillian Lane",
      "Mykleoaks Road"
-    ]
+    ],
+    "nodeId": 2738325810
    }
   },
   {
@@ -16941,7 +17994,8 @@
     "streets": [
      "Dogwood Lane",
      "Henness Circle"
-    ]
+    ],
+    "nodeId": 89140794
    }
   },
   {
@@ -16957,7 +18011,8 @@
     "streets": [
      "Dogwood Lane",
      "Henness Circle"
-    ]
+    ],
+    "nodeId": 89140844
    }
   },
   {
@@ -16973,7 +18028,8 @@
     "streets": [
      "Black Oak Lane",
      "Yosemite Park Way"
-    ]
+    ],
+    "nodeId": 89143528
    }
   },
   {
@@ -16989,7 +18045,8 @@
     "streets": [
      "Black Oak Lane",
      "Yosemite Park Way"
-    ]
+    ],
+    "nodeId": 89143554
    }
   },
   {
@@ -17005,7 +18062,8 @@
     "streets": [
      "Monte Vista Lane",
      "Vista Lago"
-    ]
+    ],
+    "nodeId": 89144011
    }
   },
   {
@@ -17021,7 +18079,8 @@
     "streets": [
      "Monte Vista Lane",
      "Vista Lago"
-    ]
+    ],
+    "nodeId": 89173050
    }
   },
   {
@@ -17037,7 +18096,8 @@
     "streets": [
      "Alamo Drive",
      "Paraiso Boulevard"
-    ]
+    ],
+    "nodeId": 89144846
    }
   },
   {
@@ -17053,7 +18113,8 @@
     "streets": [
      "Alamo Drive",
      "Paraiso Boulevard"
-    ]
+    ],
+    "nodeId": 89144869
    }
   },
   {
@@ -17069,7 +18130,8 @@
     "streets": [
      "CA 132",
      "Jalapa Way"
-    ]
+    ],
+    "nodeId": 89146560
    }
   },
   {
@@ -17085,7 +18147,8 @@
     "streets": [
      "CA 132",
      "Jalapa Way"
-    ]
+    ],
+    "nodeId": 4351916751
    }
   },
   {
@@ -17101,7 +18164,8 @@
     "streets": [
      "CA 132",
      "Jalapa Way"
-    ]
+    ],
+    "nodeId": 89146627
    }
   },
   {
@@ -17117,7 +18181,8 @@
     "streets": [
      "CA 49",
      "Darrah Road"
-    ]
+    ],
+    "nodeId": 89153619
    }
   },
   {
@@ -17133,7 +18198,8 @@
     "streets": [
      "CA 49",
      "Darrah Road"
-    ]
+    ],
+    "nodeId": 89051919
    }
   },
   {
@@ -17149,7 +18215,8 @@
     "streets": [
      "Bootjack Lane",
      "Darrah Road"
-    ]
+    ],
+    "nodeId": 89153654
    }
   },
   {
@@ -17165,7 +18232,8 @@
     "streets": [
      "Bootjack Lane",
      "Darrah Road"
-    ]
+    ],
+    "nodeId": 89153672
    }
   },
   {
@@ -17181,7 +18249,8 @@
     "streets": [
      "Bear Creek Drive",
      "Pine Tree Court"
-    ]
+    ],
+    "nodeId": 89155508
    }
   },
   {
@@ -17197,7 +18266,8 @@
     "streets": [
      "Bear Creek Drive",
      "Pine Tree Court"
-    ]
+    ],
+    "nodeId": 89155550
    }
   },
   {
@@ -17213,7 +18283,8 @@
     "streets": [
      "Italian Creek Road",
      "Manzanita Road"
-    ]
+    ],
+    "nodeId": 89156243
    }
   },
   {
@@ -17229,7 +18300,8 @@
     "streets": [
      "Italian Creek Road",
      "Manzanita Road"
-    ]
+    ],
+    "nodeId": 89156432
    }
   },
   {
@@ -17245,7 +18317,8 @@
     "streets": [
      "Forest Drive",
      "Koon Hollar Road"
-    ]
+    ],
+    "nodeId": 89160759
    }
   },
   {
@@ -17261,7 +18334,8 @@
     "streets": [
      "Forest Drive",
      "Koon Hollar Road"
-    ]
+    ],
+    "nodeId": 89193233
    }
   },
   {
@@ -17277,7 +18351,8 @@
     "streets": [
      "Forest Drive",
      "Koon Hollar Road"
-    ]
+    ],
+    "nodeId": 89079203
    }
   },
   {
@@ -17293,7 +18368,8 @@
     "streets": [
      "Old Highway",
      "Old Highway Road"
-    ]
+    ],
+    "nodeId": 89166439
    }
   },
   {
@@ -17309,7 +18385,8 @@
     "streets": [
      "Old Highway",
      "Old Highway Road"
-    ]
+    ],
+    "nodeId": 89077715
    }
   },
   {
@@ -17325,7 +18402,8 @@
     "streets": [
      "Granite Springs Road",
      "Lozano Road"
-    ]
+    ],
+    "nodeId": 89169584
    }
   },
   {
@@ -17341,7 +18419,8 @@
     "streets": [
      "Granite Springs Road",
      "Lozano Road"
-    ]
+    ],
+    "nodeId": 89164594
    }
   },
   {
@@ -17357,7 +18436,8 @@
     "streets": [
      "Alta Way",
      "Whitmore Drive"
-    ]
+    ],
+    "nodeId": 89169740
    }
   },
   {
@@ -17373,7 +18453,8 @@
     "streets": [
      "Alta Way",
      "Whitmore Drive"
-    ]
+    ],
+    "nodeId": 89169792
    }
   },
   {
@@ -17389,7 +18470,8 @@
     "streets": [
      "CA 132",
      "Jones Road"
-    ]
+    ],
+    "nodeId": 89169914
    }
   },
   {
@@ -17405,7 +18487,8 @@
     "streets": [
      "CA 132",
      "Jones Road"
-    ]
+    ],
+    "nodeId": 89170405
    }
   },
   {
@@ -17421,7 +18504,8 @@
     "streets": [
      "CA 132",
      "Coulterville Road"
-    ]
+    ],
+    "nodeId": 89172378
    }
   },
   {
@@ -17437,7 +18521,8 @@
     "streets": [
      "CA 132",
      "Coulterville Road"
-    ]
+    ],
+    "nodeId": 89172471
    }
   },
   {
@@ -17453,7 +18538,8 @@
     "streets": [
      "CA 132",
      "Coulterville Road"
-    ]
+    ],
+    "nodeId": 89172523
    }
   },
   {
@@ -17470,7 +18556,8 @@
      "Lone Oak Road",
      "Pine Lake Drive",
      "Scenic Drive"
-    ]
+    ],
+    "nodeId": 89173241
    }
   },
   {
@@ -17487,7 +18574,8 @@
      "Lone Oak Road",
      "Pine Lake Drive",
      "Scenic Drive"
-    ]
+    ],
+    "nodeId": 89173243
    }
   },
   {
@@ -17503,7 +18591,8 @@
     "streets": [
      "Foresta Road",
      "Spur Road"
-    ]
+    ],
+    "nodeId": 89173737
    }
   },
   {
@@ -17519,7 +18608,8 @@
     "streets": [
      "Foresta Road",
      "Spur Road"
-    ]
+    ],
+    "nodeId": 89173747
    }
   },
   {
@@ -17535,7 +18625,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Trower Road"
-    ]
+    ],
+    "nodeId": 88987499
    }
   },
   {
@@ -17551,7 +18642,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Trower Road"
-    ]
+    ],
+    "nodeId": 88985766
    }
   },
   {
@@ -17567,7 +18659,8 @@
     "streets": [
      "Green Street",
      "Trower Road"
-    ]
+    ],
+    "nodeId": 89173934
    }
   },
   {
@@ -17583,7 +18676,8 @@
     "streets": [
      "Green Street",
      "Trower Road"
-    ]
+    ],
+    "nodeId": 89173940
    }
   },
   {
@@ -17599,7 +18693,8 @@
     "streets": [
      "Feliciana Mountain Road",
      "Ponderosa Way"
-    ]
+    ],
+    "nodeId": 89175368
    }
   },
   {
@@ -17615,7 +18710,8 @@
     "streets": [
      "Feliciana Mountain Road",
      "Ponderosa Way"
-    ]
+    ],
+    "nodeId": 89175603
    }
   },
   {
@@ -17631,7 +18727,8 @@
     "streets": [
      "Greeley Hill Road;CR J132",
      "Ponderosa Way"
-    ]
+    ],
+    "nodeId": 89176281
    }
   },
   {
@@ -17647,7 +18744,8 @@
     "streets": [
      "Greeley Hill Road;CR J132",
      "Ponderosa Way"
-    ]
+    ],
+    "nodeId": 89176993
    }
   },
   {
@@ -17663,7 +18761,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Foresta Road"
-    ]
+    ],
+    "nodeId": 89087768
    }
   },
   {
@@ -17679,7 +18778,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Foresta Road"
-    ]
+    ],
+    "nodeId": 89087737
    }
   },
   {
@@ -17695,7 +18795,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Foresta Road"
-    ]
+    ],
+    "nodeId": 89185401
    }
   },
   {
@@ -17711,7 +18812,8 @@
     "streets": [
      "Caracol Circle",
      "Mirasol Way"
-    ]
+    ],
+    "nodeId": 89191603
    }
   },
   {
@@ -17727,7 +18829,8 @@
     "streets": [
      "Caracol Circle",
      "Mirasol Way"
-    ]
+    ],
+    "nodeId": 89191615
    }
   },
   {
@@ -17743,7 +18846,8 @@
     "streets": [
      "Piney",
      "Piney Creek Road"
-    ]
+    ],
+    "nodeId": 89191635
    }
   },
   {
@@ -17759,7 +18863,8 @@
     "streets": [
      "Piney",
      "Piney Creek Road"
-    ]
+    ],
+    "nodeId": 89191748
    }
   },
   {
@@ -17775,7 +18880,8 @@
     "streets": [
      "Forest Drive",
      "Leonard Way"
-    ]
+    ],
+    "nodeId": 89193183
    }
   },
   {
@@ -17791,7 +18897,8 @@
     "streets": [
      "Forest Drive",
      "Leonard Way"
-    ]
+    ],
+    "nodeId": 8947785528
    }
   },
   {
@@ -17807,7 +18914,8 @@
     "streets": [
      "Forest Drive",
      "SDA Camp Road"
-    ]
+    ],
+    "nodeId": 8949302131
    }
   },
   {
@@ -17823,7 +18931,8 @@
     "streets": [
      "Forest Drive",
      "SDA Camp Road"
-    ]
+    ],
+    "nodeId": 8949302130
    }
   },
   {
@@ -17839,7 +18948,8 @@
     "streets": [
      "Buckeye Road",
      "Digger Pine Drive"
-    ]
+    ],
+    "nodeId": 89194038
    }
   },
   {
@@ -17855,7 +18965,8 @@
     "streets": [
      "Buckeye Road",
      "Digger Pine Drive"
-    ]
+    ],
+    "nodeId": 89194043
    }
   },
   {
@@ -17871,7 +18982,8 @@
     "streets": [
      "Black Pine Way",
      "Silver Tip Lane"
-    ]
+    ],
+    "nodeId": 89195406
    }
   },
   {
@@ -17887,7 +18999,8 @@
     "streets": [
      "Black Pine Way",
      "Silver Tip Lane"
-    ]
+    ],
+    "nodeId": 89195455
    }
   },
   {
@@ -17903,7 +19016,8 @@
     "streets": [
      "Monte Vista Lane",
      "Triangle Road"
-    ]
+    ],
+    "nodeId": 89196602
    }
   },
   {
@@ -17919,7 +19033,8 @@
     "streets": [
      "Monte Vista Lane",
      "Triangle Road"
-    ]
+    ],
+    "nodeId": 89196714
    }
   },
   {
@@ -17935,7 +19050,8 @@
     "streets": [
      "Penon Blanco Lookout Road",
      "Penon Blanco Road"
-    ]
+    ],
+    "nodeId": 89199509
    }
   },
   {
@@ -17951,7 +19067,8 @@
     "streets": [
      "Penon Blanco Lookout Road",
      "Penon Blanco Road"
-    ]
+    ],
+    "nodeId": 89234872
    }
   },
   {
@@ -17967,7 +19084,8 @@
     "streets": [
      "Dana Way",
      "Yosemite National Park Road"
-    ]
+    ],
+    "nodeId": 89202907
    }
   },
   {
@@ -17983,7 +19101,8 @@
     "streets": [
      "Dana Way",
      "Yosemite National Park Road"
-    ]
+    ],
+    "nodeId": 89203148
    }
   },
   {
@@ -17999,7 +19118,8 @@
     "streets": [
      "Dana Way",
      "Yosemite National Park Road"
-    ]
+    ],
+    "nodeId": 89203098
    }
   },
   {
@@ -18015,7 +19135,8 @@
     "streets": [
      "Apache Way",
      "Mojave Drive"
-    ]
+    ],
+    "nodeId": 89207243
    }
   },
   {
@@ -18031,7 +19152,8 @@
     "streets": [
      "Apache Way",
      "Mojave Drive"
-    ]
+    ],
+    "nodeId": 89207262
    }
   },
   {
@@ -18047,7 +19169,8 @@
     "streets": [
      "Clouds Rest",
      "Meadow Lane"
-    ]
+    ],
+    "nodeId": 89210072
    }
   },
   {
@@ -18063,7 +19186,8 @@
     "streets": [
      "Clouds Rest",
      "Meadow Lane"
-    ]
+    ],
+    "nodeId": 89210376
    }
   },
   {
@@ -18079,7 +19203,8 @@
     "streets": [
      "Allen Court",
      "Woodview Lane"
-    ]
+    ],
+    "nodeId": 89212015
    }
   },
   {
@@ -18095,7 +19220,8 @@
     "streets": [
      "Allen Court",
      "Woodview Lane"
-    ]
+    ],
+    "nodeId": 89259688
    }
   },
   {
@@ -18111,7 +19237,8 @@
     "streets": [
      "Drunken Gulch Road",
      "Pinetree Road"
-    ]
+    ],
+    "nodeId": 89214908
    }
   },
   {
@@ -18127,7 +19254,8 @@
     "streets": [
      "Drunken Gulch Road",
      "Pinetree Road"
-    ]
+    ],
+    "nodeId": 89016295
    }
   },
   {
@@ -18143,7 +19271,8 @@
     "streets": [
      "Lake Hill Road",
      "Pine Lake Drive"
-    ]
+    ],
+    "nodeId": 89218424
    }
   },
   {
@@ -18159,7 +19288,8 @@
     "streets": [
      "Lake Hill Road",
      "Pine Lake Drive"
-    ]
+    ],
+    "nodeId": 89218455
    }
   },
   {
@@ -18175,7 +19305,8 @@
     "streets": [
      "Lake Hill Road",
      "Pine Lake Drive"
-    ]
+    ],
+    "nodeId": 89218473
    }
   },
   {
@@ -18191,7 +19322,8 @@
     "streets": [
      "Lone Oak Drive",
      "Pine Lake Drive"
-    ]
+    ],
+    "nodeId": 89218425
    }
   },
   {
@@ -18207,7 +19339,8 @@
     "streets": [
      "Lone Oak Drive",
      "Pine Lake Drive"
-    ]
+    ],
+    "nodeId": 89218481
    }
   },
   {
@@ -18223,7 +19356,8 @@
     "streets": [
      "Mueller Road",
      "Smith Road"
-    ]
+    ],
+    "nodeId": 89218993
    }
   },
   {
@@ -18239,7 +19373,8 @@
     "streets": [
      "Mueller Road",
      "Smith Road"
-    ]
+    ],
+    "nodeId": 89219026
    }
   },
   {
@@ -18255,7 +19390,8 @@
     "streets": [
      "Detwiller Road",
      "Hunters Valley Road"
-    ]
+    ],
+    "nodeId": 89220410
    }
   },
   {
@@ -18271,7 +19407,8 @@
     "streets": [
      "Detwiller Road",
      "Hunters Valley Road"
-    ]
+    ],
+    "nodeId": 89220604
    }
   },
   {
@@ -18287,7 +19424,8 @@
     "streets": [
      "Evergreen Lane",
      "Meadow Lane"
-    ]
+    ],
+    "nodeId": 89221204
    }
   },
   {
@@ -18303,7 +19441,8 @@
     "streets": [
      "Evergreen Lane",
      "Meadow Lane"
-    ]
+    ],
+    "nodeId": 89221224
    }
   },
   {
@@ -18319,7 +19458,8 @@
     "streets": [
      "Evergreen Lane",
      "Meadow Lane"
-    ]
+    ],
+    "nodeId": 89221509
    }
   },
   {
@@ -18335,7 +19475,8 @@
     "streets": [
      "Bear Valley Road;J16",
      "Cotton Creek Road"
-    ]
+    ],
+    "nodeId": 89225755
    }
   },
   {
@@ -18351,7 +19492,8 @@
     "streets": [
      "Bear Valley Road;J16",
      "Cotton Creek Road"
-    ]
+    ],
+    "nodeId": 89226892
    }
   },
   {
@@ -18367,7 +19509,8 @@
     "streets": [
      "CA 49",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 89229235
    }
   },
   {
@@ -18383,7 +19526,8 @@
     "streets": [
      "CA 49",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 88919228
    }
   },
   {
@@ -18399,7 +19543,8 @@
     "streets": [
      "CA 49",
      "Golden Chain Highway;CA 49"
-    ]
+    ],
+    "nodeId": 2742349240
    }
   },
   {
@@ -18415,7 +19560,8 @@
     "streets": [
      "Bondurant Mine Road",
      "Bondurant Road"
-    ]
+    ],
+    "nodeId": 89236527
    }
   },
   {
@@ -18431,7 +19577,8 @@
     "streets": [
      "Bondurant Mine Road",
      "Bondurant Road"
-    ]
+    ],
+    "nodeId": 89044883
    }
   },
   {
@@ -18447,7 +19594,8 @@
     "streets": [
      "Paraje Way",
      "Villarreal Drive"
-    ]
+    ],
+    "nodeId": 89254002
    }
   },
   {
@@ -18463,7 +19611,8 @@
     "streets": [
      "Paraje Way",
      "Villarreal Drive"
-    ]
+    ],
+    "nodeId": 89254035
    }
   },
   {
@@ -18479,7 +19628,8 @@
     "streets": [
      "Dolorosa Street",
      "Paraiso Boulevard"
-    ]
+    ],
+    "nodeId": 89260132
    }
   },
   {
@@ -18495,7 +19645,8 @@
     "streets": [
      "Dolorosa Street",
      "Paraiso Boulevard"
-    ]
+    ],
+    "nodeId": 89260214
    }
   },
   {
@@ -18511,7 +19662,8 @@
     "streets": [
      "Chilnualna Falls Road",
      "River Street"
-    ]
+    ],
+    "nodeId": 4022629839
    }
   },
   {
@@ -18527,7 +19679,8 @@
     "streets": [
      "Chilnualna Falls Road",
      "River Street"
-    ]
+    ],
+    "nodeId": 4022629847
    }
   },
   {
@@ -18543,7 +19696,8 @@
     "streets": [
      "Circle of the Oaks",
      "Guadalupe Creek Road"
-    ]
+    ],
+    "nodeId": 89265061
    }
   },
   {
@@ -18559,7 +19713,8 @@
     "streets": [
      "Circle of the Oaks",
      "Guadalupe Creek Road"
-    ]
+    ],
+    "nodeId": 89265068
    }
   },
   {
@@ -18575,7 +19730,8 @@
     "streets": [
      "Southside Drive",
      "Wawona Road"
-    ]
+    ],
+    "nodeId": 1500356124
    }
   },
   {
@@ -18591,7 +19747,8 @@
     "streets": [
      "Southside Drive",
      "Wawona Road"
-    ]
+    ],
+    "nodeId": 88975240
    }
   },
   {
@@ -18607,7 +19764,8 @@
     "streets": [
      "CA 49",
      "Watt Road"
-    ]
+    ],
+    "nodeId": 89168763
    }
   },
   {
@@ -18623,7 +19781,8 @@
     "streets": [
      "CA 49",
      "Watt Road"
-    ]
+    ],
+    "nodeId": 89168772
    }
   },
   {
@@ -18639,7 +19798,8 @@
     "streets": [
      "Wawona Road",
      "Wawona Tunnel"
-    ]
+    ],
+    "nodeId": 89279281
    }
   },
   {
@@ -18655,7 +19815,8 @@
     "streets": [
      "Wawona Road",
      "Wawona Tunnel"
-    ]
+    ],
+    "nodeId": 89279153
    }
   },
   {
@@ -18671,7 +19832,8 @@
     "streets": [
      "Northside Drive",
      "Sentinel Drive"
-    ]
+    ],
+    "nodeId": 89237705
    }
   },
   {
@@ -18687,7 +19849,8 @@
     "streets": [
      "Northside Drive",
      "Sentinel Drive"
-    ]
+    ],
+    "nodeId": 12485865748
    }
   },
   {
@@ -18703,7 +19866,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Yosemite All-Year Highway;CA 140"
-    ]
+    ],
+    "nodeId": 346843930
    }
   },
   {
@@ -18719,7 +19883,8 @@
     "streets": [
      "Central Yosemite Highway;CA 140",
      "Yosemite All-Year Highway;CA 140"
-    ]
+    ],
+    "nodeId": 772808739
    }
   },
   {
@@ -18735,7 +19900,8 @@
     "streets": [
      "Northside Drive",
      "Village Drive"
-    ]
+    ],
+    "nodeId": 12485865737
    }
   },
   {
@@ -18751,7 +19917,8 @@
     "streets": [
      "Northside Drive",
      "Village Drive"
-    ]
+    ],
+    "nodeId": 89199428
    }
   },
   {
@@ -18767,7 +19934,8 @@
     "streets": [
      "Northside Drive",
      "Village Drive"
-    ]
+    ],
+    "nodeId": 5074399037
    }
   },
   {
@@ -18783,7 +19951,8 @@
     "streets": [
      "Northside Drive",
      "Village Drive"
-    ]
+    ],
+    "nodeId": 1742215570
    }
   },
   {
@@ -18799,7 +19968,8 @@
     "streets": [
      "Tioga Pass Road",
      "Tioga Road"
-    ]
+    ],
+    "nodeId": 89115472
    }
   },
   {
@@ -18815,7 +19985,8 @@
     "streets": [
      "Tioga Pass Road",
      "Tioga Road"
-    ]
+    ],
+    "nodeId": 89115473
    }
   },
   {
@@ -18831,7 +20002,8 @@
     "streets": [
      "Blue Bonnet Lane",
      "Lone Star circle"
-    ]
+    ],
+    "nodeId": 12888555158
    }
   },
   {
@@ -18847,7 +20019,8 @@
     "streets": [
      "Blue Bonnet Lane",
      "Lone Star circle"
-    ]
+    ],
+    "nodeId": 12888555145
    }
   }
  ]

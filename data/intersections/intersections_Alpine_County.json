@@ -14,7 +14,8 @@
     "streets": [
      "Emigrant Trail",
      "Shakehill Road"
-    ]
+    ],
+    "nodeId": 86281482
    }
   },
   {
@@ -30,7 +31,8 @@
     "streets": [
      "Bloods Ridge Road",
      "Quaking Aspen Road"
-    ]
+    ],
+    "nodeId": 86281492
    }
   },
   {
@@ -46,7 +48,8 @@
     "streets": [
      "Bear Valley Road",
      "Bloods Ridge Road"
-    ]
+    ],
+    "nodeId": 86281543
    }
   },
   {
@@ -62,7 +65,8 @@
     "streets": [
      "Bear Valley Road",
      "Lake Road"
-    ]
+    ],
+    "nodeId": 86281618
    }
   },
   {
@@ -78,7 +82,8 @@
     "streets": [
      "East Meadows Drive",
      "Heather Court"
-    ]
+    ],
+    "nodeId": 460309649
    }
   },
   {
@@ -94,7 +99,8 @@
     "streets": [
      "Dutch Valley Road",
      "Washoe Boulevard"
-    ]
+    ],
+    "nodeId": 86281737
    }
   },
   {
@@ -110,7 +116,8 @@
     "streets": [
      "Dutch Valley Road",
      "Hung A Lel Ti Way"
-    ]
+    ],
+    "nodeId": 86281739
    }
   },
   {
@@ -126,7 +133,8 @@
     "streets": [
      "Awohopi Drive",
      "Dutch Valley Road"
-    ]
+    ],
+    "nodeId": 86281747
    }
   },
   {
@@ -142,7 +150,8 @@
     "streets": [
      "CA 88;CA 89",
      "Snowshoe Springs Road"
-    ]
+    ],
+    "nodeId": 86281757
    }
   },
   {
@@ -158,7 +167,8 @@
     "streets": [
      "Ox Bow",
      "Pleasant Valley Road"
-    ]
+    ],
+    "nodeId": 86282180
    }
   },
   {
@@ -174,7 +184,8 @@
     "streets": [
      "Larkspur Drive",
      "Sorrel Court"
-    ]
+    ],
+    "nodeId": 86282190
    }
   },
   {
@@ -190,7 +201,8 @@
     "streets": [
      "CA 108",
      "Sonora Pass Highway;CA 108"
-    ]
+    ],
+    "nodeId": 3054897739
    }
   },
   {
@@ -206,7 +218,8 @@
     "streets": [
      "CA 88;CA 89",
      "Douglas Way"
-    ]
+    ],
+    "nodeId": 86282242
    }
   },
   {
@@ -222,7 +235,8 @@
     "streets": [
      "CA 89",
      "Laramie Street;E1"
-    ]
+    ],
+    "nodeId": 86282286
    }
   },
   {
@@ -238,7 +252,8 @@
     "streets": [
      "Pinon Road",
      "Pleasant Valley Road"
-    ]
+    ],
+    "nodeId": 86282340
    }
   },
   {
@@ -254,7 +269,8 @@
     "streets": [
      "CA 88",
      "Carson River Road"
-    ]
+    ],
+    "nodeId": 86299001
    }
   },
   {
@@ -270,7 +286,8 @@
     "streets": [
      "Carson River Road",
      "Diamond Valley Road"
-    ]
+    ],
+    "nodeId": 86282468
    }
   },
   {
@@ -286,7 +303,8 @@
     "streets": [
      "Forest Route 7N75C",
      "Union Reservoir West Campground"
-    ]
+    ],
+    "nodeId": 7649925767
    }
   },
   {
@@ -302,7 +320,8 @@
     "streets": [
      "Kirkwood Meadows Drive",
      "Powerhouse Road"
-    ]
+    ],
+    "nodeId": 86285762
    }
   },
   {
@@ -319,7 +338,8 @@
      "East Meadows Drive",
      "Kirkwood Meadows Drive",
      "Powerhouse Road"
-    ]
+    ],
+    "nodeId": 86295128
    }
   },
   {
@@ -335,7 +355,8 @@
     "streets": [
      "Station House Road",
      "Toll Gate Road"
-    ]
+    ],
+    "nodeId": 86292709
    }
   },
   {
@@ -351,7 +372,8 @@
     "streets": [
      "Manzanita Lane",
      "Zellmer Lane"
-    ]
+    ],
+    "nodeId": 86292792
    }
   },
   {
@@ -367,7 +389,8 @@
     "streets": [
      "Bear Valley Road",
      "Quaking Aspen Road"
-    ]
+    ],
+    "nodeId": 86292813
    }
   },
   {
@@ -383,7 +406,8 @@
     "streets": [
      "Monte Wolf Road",
      "Quaking Aspen Road"
-    ]
+    ],
+    "nodeId": 86292866
    }
   },
   {
@@ -400,7 +424,8 @@
      "Bear Valley Road",
      "Creekside Drive",
      "Quaking Aspen Road"
-    ]
+    ],
+    "nodeId": 86292880
    }
   },
   {
@@ -416,7 +441,8 @@
     "streets": [
      "Creekside Drive",
      "Flynn Road"
-    ]
+    ],
+    "nodeId": 3749760548
    }
   },
   {
@@ -432,7 +458,8 @@
     "streets": [
      "Bear Valley Road",
      "Eberhardt Circle"
-    ]
+    ],
+    "nodeId": 86294386
    }
   },
   {
@@ -448,7 +475,8 @@
     "streets": [
      "California Road",
      "Carson View"
-    ]
+    ],
+    "nodeId": 86294523
    }
   },
   {
@@ -464,7 +492,8 @@
     "streets": [
      "Carson View",
      "Nevada Road"
-    ]
+    ],
+    "nodeId": 86294526
    }
   },
   {
@@ -480,7 +509,8 @@
     "streets": [
      "Carson View",
      "Larson Canyon"
-    ]
+    ],
+    "nodeId": 86294529
    }
   },
   {
@@ -496,7 +526,8 @@
     "streets": [
      "CA 4",
      "Mount Reba Road;CA 207"
-    ]
+    ],
+    "nodeId": 86296611
    }
   },
   {
@@ -512,7 +543,8 @@
     "streets": [
      "Lava Cap",
      "Pleasant Valley Road"
-    ]
+    ],
+    "nodeId": 86294558
    }
   },
   {
@@ -528,7 +560,8 @@
     "streets": [
      "Barber Road",
      "CA 89"
-    ]
+    ],
+    "nodeId": 86294627
    }
   },
   {
@@ -544,7 +577,8 @@
     "streets": [
      "Barber Road",
      "Pine Avenue"
-    ]
+    ],
+    "nodeId": 86288650
    }
   },
   {
@@ -560,7 +594,8 @@
     "streets": [
      "Lombardi Lane",
      "Toll Gate Road"
-    ]
+    ],
+    "nodeId": 3778838863
    }
   },
   {
@@ -576,7 +611,8 @@
     "streets": [
      "CA 89",
      "Montgomery Street"
-    ]
+    ],
+    "nodeId": 86294656
    }
   },
   {
@@ -592,7 +628,8 @@
     "streets": [
      "Montgomery Street",
      "School Street"
-    ]
+    ],
+    "nodeId": 86294659
    }
   },
   {
@@ -609,7 +646,8 @@
      "Hot Springs Road;E1",
      "Laramie Street;E1",
      "Montgomery Street"
-    ]
+    ],
+    "nodeId": 86294651
    }
   },
   {
@@ -625,7 +663,8 @@
     "streets": [
      "Bear Valley Road",
      "Monte Wolf Road"
-    ]
+    ],
+    "nodeId": 3778847229
    }
   },
   {
@@ -641,7 +680,8 @@
     "streets": [
      "Galis Dungal",
      "Hung A Lel Ti Way"
-    ]
+    ],
+    "nodeId": 86294988
    }
   },
   {
@@ -657,7 +697,8 @@
     "streets": [
      "Emigrant Trail",
      "Nevada Road"
-    ]
+    ],
+    "nodeId": 86295107
    }
   },
   {
@@ -673,7 +714,8 @@
     "streets": [
      "California Road",
      "Diamond View"
-    ]
+    ],
+    "nodeId": 86295112
    }
   },
   {
@@ -689,7 +731,8 @@
     "streets": [
      "California Road",
      "Topaz Place"
-    ]
+    ],
+    "nodeId": 86295116
    }
   },
   {
@@ -705,7 +748,8 @@
     "streets": [
      "California Road",
      "Emigrant Trail"
-    ]
+    ],
+    "nodeId": 86295122
    }
   },
   {
@@ -721,7 +765,8 @@
     "streets": [
      "Cornice Court",
      "East Meadows Drive"
-    ]
+    ],
+    "nodeId": 3775336305
    }
   },
   {
@@ -737,7 +782,8 @@
     "streets": [
      "Bear Valley Road",
      "Schimke Road"
-    ]
+    ],
+    "nodeId": 86295148
    }
   },
   {
@@ -754,7 +800,8 @@
      "Bear Valley Road",
      "John Ebbetts Road",
      "Schimke Road"
-    ]
+    ],
+    "nodeId": 86295180
    }
   },
   {
@@ -770,7 +817,8 @@
     "streets": [
      "CA 89",
      "Monroe Ranch Road"
-    ]
+    ],
+    "nodeId": 86295195
    }
   },
   {
@@ -786,7 +834,8 @@
     "streets": [
      "Blue Lakes Road",
      "Forestdale Road"
-    ]
+    ],
+    "nodeId": 86291618
    }
   },
   {
@@ -802,7 +851,8 @@
     "streets": [
      "Foothill Road",
      "Fredericksburg Lane"
-    ]
+    ],
+    "nodeId": 376616231
    }
   },
   {
@@ -818,7 +868,8 @@
     "streets": [
      "CA 88",
      "Fredericksburg Lane"
-    ]
+    ],
+    "nodeId": 86295625
    }
   },
   {
@@ -834,7 +885,8 @@
     "streets": [
      "CA 4",
      "Highway 4;CA 4"
-    ]
+    ],
+    "nodeId": 86846145
    }
   },
   {
@@ -850,7 +902,8 @@
     "streets": [
      "Bear Valley Road",
      "CA 4"
-    ]
+    ],
+    "nodeId": 86296564
    }
   },
   {
@@ -866,7 +919,8 @@
     "streets": [
      "Creekside Drive",
      "Granite Vista Road"
-    ]
+    ],
+    "nodeId": 86296841
    }
   },
   {
@@ -882,7 +936,8 @@
     "streets": [
      "Airport Road",
      "CA 89"
-    ]
+    ],
+    "nodeId": 86296948
    }
   },
   {
@@ -898,7 +953,8 @@
     "streets": [
      "Alpine Way",
      "Monte Vista"
-    ]
+    ],
+    "nodeId": 86297182
    }
   },
   {
@@ -914,7 +970,8 @@
     "streets": [
      "Bear Valley Road",
      "Tamarack Circle"
-    ]
+    ],
+    "nodeId": 3749725285
    }
   },
   {
@@ -930,7 +987,8 @@
     "streets": [
      "Meadow Drive",
      "Silvertip Road"
-    ]
+    ],
+    "nodeId": 86297381
    }
   },
   {
@@ -946,7 +1004,8 @@
     "streets": [
      "Aster Court",
      "Larkspur Drive"
-    ]
+    ],
+    "nodeId": 86297409
    }
   },
   {
@@ -962,7 +1021,8 @@
     "streets": [
      "Kirkwood Meadows Drive",
      "Palisades Drive"
-    ]
+    ],
+    "nodeId": 1110843581
    }
   },
   {
@@ -978,7 +1038,8 @@
     "streets": [
      "CA 89",
      "Water Street"
-    ]
+    ],
+    "nodeId": 86297563
    }
   },
   {
@@ -994,7 +1055,8 @@
     "streets": [
      "Columbine Circle",
      "Larkspur Drive"
-    ]
+    ],
+    "nodeId": 86297622
    }
   },
   {
@@ -1010,7 +1072,8 @@
     "streets": [
      "Bryan Way",
      "CA 89"
-    ]
+    ],
+    "nodeId": 86297663
    }
   },
   {
@@ -1026,7 +1089,8 @@
     "streets": [
      "Bryan Way",
      "Diamond Valley Road"
-    ]
+    ],
+    "nodeId": 86297666
    }
   },
   {
@@ -1042,7 +1106,8 @@
     "streets": [
      "CA 89",
      "Diamond Valley Road"
-    ]
+    ],
+    "nodeId": 86297839
    }
   },
   {
@@ -1058,7 +1123,8 @@
     "streets": [
      "Bear Valley Road",
      "John Ebbetts Road"
-    ]
+    ],
+    "nodeId": 86297927
    }
   },
   {
@@ -1074,7 +1140,8 @@
     "streets": [
      "Bear Valley Road",
      "No Name Road"
-    ]
+    ],
+    "nodeId": 86289702
    }
   },
   {
@@ -1090,7 +1157,8 @@
     "streets": [
      "Barrett Court",
      "Montgomery Street"
-    ]
+    ],
+    "nodeId": 86294660
    }
   },
   {
@@ -1106,7 +1174,8 @@
     "streets": [
      "CA 89",
      "Turtle Rock Park Road"
-    ]
+    ],
+    "nodeId": 86298611
    }
   },
   {
@@ -1122,7 +1191,8 @@
     "streets": [
      "Pine Avenue",
      "Sage Avenue"
-    ]
+    ],
+    "nodeId": 86298678
    }
   },
   {
@@ -1138,7 +1208,8 @@
     "streets": [
      "Aspen Way",
      "Pine Avenue"
-    ]
+    ],
+    "nodeId": 86298680
    }
   },
   {
@@ -1154,7 +1225,8 @@
     "streets": [
      "Canon View",
      "Pleasant Valley Road"
-    ]
+    ],
+    "nodeId": 86298692
    }
   },
   {
@@ -1170,7 +1242,8 @@
     "streets": [
      "Emigrant Trail",
      "Spring Canyon Drive"
-    ]
+    ],
+    "nodeId": 86299302
    }
   },
   {
@@ -1186,7 +1259,8 @@
     "streets": [
      "CA 89",
      "Manzanita Lane"
-    ]
+    ],
+    "nodeId": 86299314
    }
   },
   {
@@ -1202,7 +1276,8 @@
     "streets": [
      "CA 88",
      "Schneider Cow Camp Road"
-    ]
+    ],
+    "nodeId": 86299130
    }
   },
   {
@@ -1220,7 +1295,8 @@
      "CA 88;CA 89",
      "CA 89",
      "Old Pony Express Way"
-    ]
+    ],
+    "nodeId": 86298982
    }
   },
   {
@@ -1236,7 +1312,8 @@
     "streets": [
      "Creekside Drive",
      "No Name Road"
-    ]
+    ],
+    "nodeId": 86298574
    }
   },
   {
@@ -1252,7 +1329,8 @@
     "streets": [
      "CA 4",
      "Highland Lakes Road"
-    ]
+    ],
+    "nodeId": 12299515097
    }
   },
   {
@@ -1269,7 +1347,8 @@
      "CA 88",
      "Emigrant Trail",
      "River Ranch Road"
-    ]
+    ],
+    "nodeId": 86294313
    }
   },
   {
@@ -1285,7 +1364,8 @@
     "streets": [
      "Emigrant Trail",
      "Foothill Road"
-    ]
+    ],
+    "nodeId": 86296800
    }
   },
   {
@@ -1301,7 +1381,8 @@
     "streets": [
      "Emigrant Trail",
      "Pioneer Trail"
-    ]
+    ],
+    "nodeId": 3754929019
    }
   },
   {
@@ -1317,7 +1398,8 @@
     "streets": [
      "CA 88",
      "Emigrant Trail"
-    ]
+    ],
+    "nodeId": 451129008
    }
   },
   {
@@ -1333,7 +1415,8 @@
     "streets": [
      "East Fork Road",
      "Scossa Canyon Road"
-    ]
+    ],
+    "nodeId": 3756195395
    }
   },
   {
@@ -1349,7 +1432,8 @@
     "streets": [
      "Alpine Way",
      "Station House Road"
-    ]
+    ],
+    "nodeId": 86300790
    }
   },
   {
@@ -1365,7 +1449,8 @@
     "streets": [
      "CA 88;CA 89",
      "Old Pony Express Way"
-    ]
+    ],
+    "nodeId": 86298976
    }
   },
   {
@@ -1381,7 +1466,8 @@
     "streets": [
      "CA 88",
      "Old Pony Express Way"
-    ]
+    ],
+    "nodeId": 86298994
    }
   },
   {
@@ -1397,7 +1483,8 @@
     "streets": [
      "Bear Valley Road",
      "Cub Lane"
-    ]
+    ],
+    "nodeId": 86294701
    }
   },
   {
@@ -1413,7 +1500,8 @@
     "streets": [
      "Slick Rock Road",
      "West Lake Alpine Road"
-    ]
+    ],
+    "nodeId": 806223237
    }
   },
   {
@@ -1429,7 +1517,8 @@
     "streets": [
      "CA 4",
      "West Lake Alpine Road"
-    ]
+    ],
+    "nodeId": 86296634
    }
   },
   {
@@ -1445,7 +1534,8 @@
     "streets": [
      "Cedar Lane",
      "Sage Avenue"
-    ]
+    ],
+    "nodeId": 86301161
    }
   },
   {
@@ -1461,7 +1551,8 @@
     "streets": [
      "Forestdale Road",
      "Red Vista Road"
-    ]
+    ],
+    "nodeId": 451145642
    }
   },
   {
@@ -1477,7 +1568,8 @@
     "streets": [
      "Chambers Lane",
      "Diamond Valley Road"
-    ]
+    ],
+    "nodeId": 86297824
    }
   },
   {
@@ -1493,7 +1585,8 @@
     "streets": [
      "Chambers Lane",
      "River Ranch Road"
-    ]
+    ],
+    "nodeId": 86294307
    }
   },
   {
@@ -1510,7 +1603,8 @@
      "Diamond Valley Road",
      "Hawkside Court",
      "Hawkside Drive"
-    ]
+    ],
+    "nodeId": 86282281
    }
   },
   {
@@ -1526,7 +1620,8 @@
     "streets": [
      "CA 88",
      "Woods Lake Road"
-    ]
+    ],
+    "nodeId": 86299162
    }
   },
   {
@@ -1542,7 +1637,8 @@
     "streets": [
      "CA 89",
      "Webster Street"
-    ]
+    ],
+    "nodeId": 86299835
    }
   },
   {
@@ -1558,7 +1654,8 @@
     "streets": [
      "Avalanche Road",
      "Snowshoe Road"
-    ]
+    ],
+    "nodeId": 86301949
    }
   },
   {
@@ -1574,7 +1671,8 @@
     "streets": [
      "Crystal Springs Road",
      "Merk Creek Court"
-    ]
+    ],
+    "nodeId": 86300840
    }
   },
   {
@@ -1590,7 +1688,8 @@
     "streets": [
      "CA 89",
      "Lower Manzanita Lane"
-    ]
+    ],
+    "nodeId": 86300030
    }
   },
   {
@@ -1606,7 +1705,8 @@
     "streets": [
      "Cole Court",
      "Montgomery Street"
-    ]
+    ],
+    "nodeId": 86294661
    }
   },
   {
@@ -1622,7 +1722,8 @@
     "streets": [
      "Clark Fork Road;FR 7N83",
      "Forest Route 6N06"
-    ]
+    ],
+    "nodeId": 94627078
    }
   },
   {
@@ -1639,7 +1740,8 @@
      "CA 88",
      "Diamond Valley Road",
      "Foothill Road"
-    ]
+    ],
+    "nodeId": 86297826
    }
   },
   {
@@ -1656,7 +1758,8 @@
      "CA 88",
      "CA 88;CA 89",
      "Luther Pass Road;CA 89"
-    ]
+    ],
+    "nodeId": 86295219
    }
   },
   {
@@ -1672,7 +1775,8 @@
     "streets": [
      "Raymond View Drive",
      "Silver Peak Road"
-    ]
+    ],
+    "nodeId": 934035362
    }
   },
   {
@@ -1688,7 +1792,8 @@
     "streets": [
      "Hot Springs Road;E1",
      "Raymond View Drive"
-    ]
+    ],
+    "nodeId": 934035344
    }
   },
   {
@@ -1704,7 +1809,8 @@
     "streets": [
      "Gold Rush Trail",
      "Sunrise Trail"
-    ]
+    ],
+    "nodeId": 1914243190
    }
   },
   {
@@ -1720,7 +1826,8 @@
     "streets": [
      "Chisholm Trail",
      "Larson Canyon"
-    ]
+    ],
+    "nodeId": 1914243169
    }
   },
   {
@@ -1736,7 +1843,8 @@
     "streets": [
      "CA 88",
      "Red Vista Road"
-    ]
+    ],
+    "nodeId": 86295585
    }
   },
   {
@@ -1752,7 +1860,8 @@
     "streets": [
      "CA 4",
      "CA 89"
-    ]
+    ],
+    "nodeId": 810975437
    }
   },
   {
@@ -1768,7 +1877,8 @@
     "streets": [
      "CA 89",
      "Leviathan Mine Road"
-    ]
+    ],
+    "nodeId": 86299520
    }
   },
   {
@@ -1784,7 +1894,8 @@
     "streets": [
      "Clark Fork Road;FR 7N83",
      "County Road 920;FR 7N83"
-    ]
+    ],
+    "nodeId": 94743887
    }
   },
   {
@@ -1800,7 +1911,8 @@
     "streets": [
      "Foothill Road",
      "Jenny May Way"
-    ]
+    ],
+    "nodeId": 3548295340
    }
   },
   {
@@ -1816,7 +1928,8 @@
     "streets": [
      "CA 89",
      "Hawkins Ranch Road"
-    ]
+    ],
+    "nodeId": 3548685588
    }
   },
   {
@@ -1832,7 +1945,8 @@
     "streets": [
      "Bear Valley Road",
      "Creekside Drive"
-    ]
+    ],
+    "nodeId": 86298496
    }
   },
   {
@@ -1848,7 +1962,8 @@
     "streets": [
      "CA 89",
      "West Fork Lane"
-    ]
+    ],
+    "nodeId": 86300074
    }
   },
   {
@@ -1864,7 +1979,8 @@
     "streets": [
      "West Fork Lane",
      "Woodfords Lane"
-    ]
+    ],
+    "nodeId": 3753593839
    }
   },
   {
@@ -1880,7 +1996,8 @@
     "streets": [
      "Pleasant Valley Road",
      "Sawmill Road"
-    ]
+    ],
+    "nodeId": 86285311
    }
   },
   {
@@ -1896,7 +2013,8 @@
     "streets": [
      "Hot Springs Road;E1",
      "Pleasant Valley Road"
-    ]
+    ],
+    "nodeId": 86295081
    }
   },
   {
@@ -1912,7 +2030,8 @@
     "streets": [
      "CA 4",
      "Wolf Creek Road"
-    ]
+    ],
+    "nodeId": 86296390
    }
   },
   {
@@ -1928,7 +2047,8 @@
     "streets": [
      "Blue Lakes Road",
      "CA 88"
-    ]
+    ],
+    "nodeId": 86298108
    }
   },
   {
@@ -1944,7 +2064,8 @@
     "streets": [
      "Forest Route 7N17",
      "Slick Rock Road"
-    ]
+    ],
+    "nodeId": 86302334
    }
   },
   {
@@ -1960,7 +2081,8 @@
     "streets": [
      "Forest Route 7N17",
      "Slick Rock Reroute"
-    ]
+    ],
+    "nodeId": 86302339
    }
   },
   {
@@ -1976,7 +2098,8 @@
     "streets": [
      "Slick Rock Reroute",
      "Slick Rock Road"
-    ]
+    ],
+    "nodeId": 86300925
    }
   },
   {
@@ -1992,7 +2115,8 @@
     "streets": [
      "Airport Road",
      "Scossa Canyon Road"
-    ]
+    ],
+    "nodeId": 3756195387
    }
   },
   {
@@ -2008,7 +2132,8 @@
     "streets": [
      "Airport Road",
      "Diamond Valley Road"
-    ]
+    ],
+    "nodeId": 86297101
    }
   },
   {
@@ -2024,7 +2149,8 @@
     "streets": [
      "Union Reservior East Boat Launch",
      "Union Reservoir East Campground"
-    ]
+    ],
+    "nodeId": 13036296412
    }
   },
   {
@@ -2040,7 +2166,8 @@
     "streets": [
      "Bloods Ridge Road",
      "Snowshoe Road"
-    ]
+    ],
+    "nodeId": 86281524
    }
   },
   {
@@ -2056,7 +2183,8 @@
     "streets": [
      "Bloods Ridge Road",
      "Snowshoe Road"
-    ]
+    ],
+    "nodeId": 86281533
    }
   },
   {
@@ -2072,7 +2200,8 @@
     "streets": [
      "Hot Springs Road;E1",
      "Shay Creek Road"
-    ]
+    ],
+    "nodeId": 86281598
    }
   },
   {
@@ -2088,7 +2217,8 @@
     "streets": [
      "Hot Springs Road;E1",
      "Shay Creek Road"
-    ]
+    ],
+    "nodeId": 3757581729
    }
   },
   {
@@ -2104,7 +2234,8 @@
     "streets": [
      "East Meadows Drive",
      "Larkspur Drive"
-    ]
+    ],
+    "nodeId": 86281721
    }
   },
   {
@@ -2120,7 +2251,8 @@
     "streets": [
      "East Meadows Drive",
      "Larkspur Drive"
-    ]
+    ],
+    "nodeId": 86300664
    }
   },
   {
@@ -2136,7 +2268,8 @@
     "streets": [
      "Pleasant Valley Road",
      "Timber Lane"
-    ]
+    ],
+    "nodeId": 86282362
    }
   },
   {
@@ -2152,7 +2285,8 @@
     "streets": [
      "Pleasant Valley Road",
      "Timber Lane"
-    ]
+    ],
+    "nodeId": 86282385
    }
   },
   {
@@ -2168,7 +2302,8 @@
     "streets": [
      "Forest Route 7N75",
      "Union Reservoir East Campground"
-    ]
+    ],
+    "nodeId": 13036296413
    }
   },
   {
@@ -2184,7 +2319,8 @@
     "streets": [
      "Forest Route 7N75",
      "Union Reservoir East Campground"
-    ]
+    ],
+    "nodeId": 86283121
    }
   },
   {
@@ -2200,7 +2336,8 @@
     "streets": [
      "Diamond Valley Road",
      "Mud Lake Road"
-    ]
+    ],
+    "nodeId": 86289033
    }
   },
   {
@@ -2216,7 +2353,8 @@
     "streets": [
      "Diamond Valley Road",
      "Mud Lake Road"
-    ]
+    ],
+    "nodeId": 3552207993
    }
   },
   {
@@ -2232,7 +2370,8 @@
     "streets": [
      "Fremont Road",
      "Quaking Aspen Road"
-    ]
+    ],
+    "nodeId": 86292870
    }
   },
   {
@@ -2248,7 +2387,8 @@
     "streets": [
      "Fremont Road",
      "Quaking Aspen Road"
-    ]
+    ],
+    "nodeId": 86292874
    }
   },
   {
@@ -2264,7 +2404,8 @@
     "streets": [
      "Alpine Way",
      "Lombardi Lane"
-    ]
+    ],
+    "nodeId": 86297385
    }
   },
   {
@@ -2280,7 +2421,8 @@
     "streets": [
      "Alpine Way",
      "Lombardi Lane"
-    ]
+    ],
+    "nodeId": 86297403
    }
   },
   {
@@ -2296,7 +2438,8 @@
     "streets": [
      "Bear Valley Road",
      "Mule Ear Road"
-    ]
+    ],
+    "nodeId": 86297648
    }
   },
   {
@@ -2312,7 +2455,8 @@
     "streets": [
      "Bear Valley Road",
      "Mule Ear Road"
-    ]
+    ],
+    "nodeId": 86297658
    }
   },
   {
@@ -2328,7 +2472,8 @@
     "streets": [
      "Diamond Valley Road",
      "Washoe Boulevard"
-    ]
+    ],
+    "nodeId": 86297760
    }
   },
   {
@@ -2344,7 +2489,8 @@
     "streets": [
      "Diamond Valley Road",
      "Washoe Boulevard"
-    ]
+    ],
+    "nodeId": 86297734
    }
   },
   {
@@ -2360,7 +2506,8 @@
     "streets": [
      "Circle Drive",
      "Washoe Boulevard"
-    ]
+    ],
+    "nodeId": 86297882
    }
   },
   {
@@ -2376,7 +2523,8 @@
     "streets": [
      "Circle Drive",
      "Washoe Boulevard"
-    ]
+    ],
+    "nodeId": 86297892
    }
   },
   {
@@ -2392,7 +2540,8 @@
     "streets": [
      "Bear Valley Road",
      "Orvis Road"
-    ]
+    ],
+    "nodeId": 86298429
    }
   },
   {
@@ -2408,7 +2557,8 @@
     "streets": [
      "Bear Valley Road",
      "Orvis Road"
-    ]
+    ],
+    "nodeId": 86298421
    }
   },
   {
@@ -2424,7 +2574,8 @@
     "streets": [
      "Emigrant Trail",
      "Hawkins Peak Road"
-    ]
+    ],
+    "nodeId": 933985011
    }
   },
   {
@@ -2440,7 +2591,8 @@
     "streets": [
      "Emigrant Trail",
      "Hawkins Peak Road"
-    ]
+    ],
+    "nodeId": 86300570
    }
   },
   {
@@ -2456,7 +2608,8 @@
     "streets": [
      "Emigrant Trail",
      "Sunrise Trail"
-    ]
+    ],
+    "nodeId": 1914243184
    }
   },
   {
@@ -2472,7 +2625,8 @@
     "streets": [
      "Emigrant Trail",
      "Sunrise Trail"
-    ]
+    ],
+    "nodeId": 86300582
    }
   },
   {
@@ -2488,7 +2642,8 @@
     "streets": [
      "CA 88;CA 89",
      "Crystal Springs Road"
-    ]
+    ],
+    "nodeId": 86298943
    }
   },
   {
@@ -2504,7 +2659,8 @@
     "streets": [
      "CA 88;CA 89",
      "Crystal Springs Road"
-    ]
+    ],
+    "nodeId": 86298959
    }
   },
   {
@@ -2520,7 +2676,8 @@
     "streets": [
      "Bear Valley Road",
      "Spring Cliff Road"
-    ]
+    ],
+    "nodeId": 86298490
    }
   },
   {
@@ -2536,7 +2693,8 @@
     "streets": [
      "Bear Valley Road",
      "Spring Cliff Road"
-    ]
+    ],
+    "nodeId": 86298482
    }
   },
   {
@@ -2552,7 +2710,8 @@
     "streets": [
      "Forest Route 7N17",
      "Slick Rock Trail;7N17"
-    ]
+    ],
+    "nodeId": 86302582
    }
   },
   {
@@ -2568,7 +2727,8 @@
     "streets": [
      "Forest Route 7N17",
      "Slick Rock Trail;7N17"
-    ]
+    ],
+    "nodeId": 86302343
    }
   },
   {
@@ -2584,7 +2744,8 @@
     "streets": [
      "CA 4",
      "Centerville Bridge;CA 4"
-    ]
+    ],
+    "nodeId": 86296404
    }
   },
   {
@@ -2600,7 +2761,8 @@
     "streets": [
      "CA 4",
      "Centerville Bridge;CA 4"
-    ]
+    ],
+    "nodeId": 86296406
    }
   }
  ]

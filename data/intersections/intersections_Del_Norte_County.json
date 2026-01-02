@@ -14,7 +14,8 @@
     "streets": [
      "Cooke Street",
      "Frontage Road"
-    ]
+    ],
+    "nodeId": 84947021
    }
   },
   {
@@ -30,7 +31,8 @@
     "streets": [
      "Prigmore Street",
      "Surf Drive"
-    ]
+    ],
+    "nodeId": 84947045
    }
   },
   {
@@ -46,7 +48,8 @@
     "streets": [
      "De Mars Drive",
      "Prigmore Street"
-    ]
+    ],
+    "nodeId": 84947047
    }
   },
   {
@@ -62,7 +65,8 @@
     "streets": [
      "Prigmore Street",
      "Vergine Drive"
-    ]
+    ],
+    "nodeId": 84947053
    }
   },
   {
@@ -78,7 +82,8 @@
     "streets": [
      "Carson Drive",
      "Prigmore Street"
-    ]
+    ],
+    "nodeId": 84947055
    }
   },
   {
@@ -94,7 +99,8 @@
     "streets": [
      "Ocean Drive",
      "Prigmore Street"
-    ]
+    ],
+    "nodeId": 84947056
    }
   },
   {
@@ -110,7 +116,8 @@
     "streets": [
      "Hinckley Drive",
      "Prigmore Street"
-    ]
+    ],
+    "nodeId": 84947059
    }
   },
   {
@@ -126,7 +133,8 @@
     "streets": [
      "Fisher Drive",
      "Prigmore Street"
-    ]
+    ],
+    "nodeId": 84947070
    }
   },
   {
@@ -142,7 +150,8 @@
     "streets": [
      "Distelrath Drive",
      "Prigmore Street"
-    ]
+    ],
+    "nodeId": 84947074
    }
   },
   {
@@ -158,7 +167,8 @@
     "streets": [
      "Prigmore Street",
      "Tell Boulevard"
-    ]
+    ],
+    "nodeId": 84947101
    }
   },
   {
@@ -175,7 +185,8 @@
      "Martin Street",
      "Prigmore Street",
      "Tell Boulevard"
-    ]
+    ],
+    "nodeId": 84947102
    }
   },
   {
@@ -191,7 +202,8 @@
     "streets": [
      "Gasquet-Orleans Road;FR 15N01",
      "Horse Creek Road;FR 15N39"
-    ]
+    ],
+    "nodeId": 84947453
    }
   },
   {
@@ -207,7 +219,8 @@
     "streets": [
      "Bear Basin Road;17N04",
      "Forest Road 17N05;17N05"
-    ]
+    ],
+    "nodeId": 84947465
    }
   },
   {
@@ -223,7 +236,8 @@
     "streets": [
      "Forest Road 17N05;17N05",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 84948516
    }
   },
   {
@@ -239,7 +253,8 @@
     "streets": [
      "B Street",
      "Battery Street"
-    ]
+    ],
+    "nodeId": 84948524
    }
   },
   {
@@ -255,7 +270,8 @@
     "streets": [
      "Battery Street",
      "Howe Drive"
-    ]
+    ],
+    "nodeId": 85240114
    }
   },
   {
@@ -271,7 +287,8 @@
     "streets": [
      "Carson Drive",
      "Lake Avenue"
-    ]
+    ],
+    "nodeId": 84948548
    }
   },
   {
@@ -287,7 +304,8 @@
     "streets": [
      "Clifton Street",
      "Whipple Street"
-    ]
+    ],
+    "nodeId": 84948559
    }
   },
   {
@@ -303,7 +321,8 @@
     "streets": [
      "Jo-An Lane",
      "Laguna Street"
-    ]
+    ],
+    "nodeId": 84948562
    }
   },
   {
@@ -319,7 +338,8 @@
     "streets": [
      "Barker Street",
      "Capitol Street"
-    ]
+    ],
+    "nodeId": 84948571
    }
   },
   {
@@ -335,7 +355,8 @@
     "streets": [
      "Capitol Street",
      "Temple Street"
-    ]
+    ],
+    "nodeId": 84948595
    }
   },
   {
@@ -351,7 +372,8 @@
     "streets": [
      "Capitol Street",
      "Olive Street"
-    ]
+    ],
+    "nodeId": 84948598
    }
   },
   {
@@ -367,7 +389,8 @@
     "streets": [
      "Capitol Street",
      "Waldo Street"
-    ]
+    ],
+    "nodeId": 84948609
    }
   },
   {
@@ -383,7 +406,8 @@
     "streets": [
      "Capitol Street",
      "Kerby Street"
-    ]
+    ],
+    "nodeId": 84948624
    }
   },
   {
@@ -399,7 +423,8 @@
     "streets": [
      "Snag Road",
      "Wonder Stump Road"
-    ]
+    ],
+    "nodeId": 84948627
    }
   },
   {
@@ -415,7 +440,8 @@
     "streets": [
      "Freeman Street",
      "South Pebble Beach Drive"
-    ]
+    ],
+    "nodeId": 84948641
    }
   },
   {
@@ -431,7 +457,8 @@
     "streets": [
      "Freeman Street",
      "Lipowitz Avenue"
-    ]
+    ],
+    "nodeId": 84948642
    }
   },
   {
@@ -447,7 +474,8 @@
     "streets": [
      "Freeman Street",
      "Stanton Avenue"
-    ]
+    ],
+    "nodeId": 84948646
    }
   },
   {
@@ -463,7 +491,8 @@
     "streets": [
      "Freeman Street",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 84948648
    }
   },
   {
@@ -479,7 +508,8 @@
     "streets": [
      "Charlie Drive",
      "Ginny Lane"
-    ]
+    ],
+    "nodeId": 84948649
    }
   },
   {
@@ -495,7 +525,8 @@
     "streets": [
      "Ginny Lane",
      "North Bank Road;CA 197"
-    ]
+    ],
+    "nodeId": 84948670
    }
   },
   {
@@ -511,7 +542,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Lassen Street"
-    ]
+    ],
+    "nodeId": 84950288
    }
   },
   {
@@ -527,7 +559,8 @@
     "streets": [
      "Pioneer Road",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85198048
    }
   },
   {
@@ -543,7 +576,8 @@
     "streets": [
      "South Pebble Beach Drive",
      "West 9th Street"
-    ]
+    ],
+    "nodeId": 4069429645
    }
   },
   {
@@ -559,7 +593,8 @@
     "streets": [
      "Gainard Street",
      "West 9th Street"
-    ]
+    ],
+    "nodeId": 4069429632
    }
   },
   {
@@ -575,7 +610,8 @@
     "streets": [
      "Anzio Street",
      "West 9th Street"
-    ]
+    ],
+    "nodeId": 84950340
    }
   },
   {
@@ -591,7 +627,8 @@
     "streets": [
      "Taylor Street",
      "West 9th Street"
-    ]
+    ],
+    "nodeId": 84950341
    }
   },
   {
@@ -607,7 +644,8 @@
     "streets": [
      "Jaccard Street",
      "West 9th Street"
-    ]
+    ],
+    "nodeId": 84950343
    }
   },
   {
@@ -623,7 +661,8 @@
     "streets": [
      "Wendell Street",
      "West 9th Street"
-    ]
+    ],
+    "nodeId": 84950345
    }
   },
   {
@@ -639,7 +678,8 @@
     "streets": [
      "Huntington Street",
      "West 9th Street"
-    ]
+    ],
+    "nodeId": 84950346
    }
   },
   {
@@ -656,7 +696,8 @@
      "9th Street",
      "A Street",
      "West 9th Street"
-    ]
+    ],
+    "nodeId": 84950349
    }
   },
   {
@@ -672,7 +713,8 @@
     "streets": [
      "Elias Way",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952006
    }
   },
   {
@@ -688,7 +730,8 @@
     "streets": [
      "Pelican Beach Vista",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952000
    }
   },
   {
@@ -704,7 +747,8 @@
     "streets": [
      "U10",
      "U400 Road"
-    ]
+    ],
+    "nodeId": 84957716
    }
   },
   {
@@ -720,7 +764,8 @@
     "streets": [
      "Meadow Road;FR 13N35",
      "Red Mountain Road;FR 14N01"
-    ]
+    ],
+    "nodeId": 85149912
    }
   },
   {
@@ -736,7 +781,8 @@
     "streets": [
      "Lado del Rio Road",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 84972733
    }
   },
   {
@@ -752,7 +798,8 @@
     "streets": [
      "Muslatt Mountain Road;FR 15N36",
      "Ship Mountain Road;FR 16N02"
-    ]
+    ],
+    "nodeId": 85222835
    }
   },
   {
@@ -768,7 +815,8 @@
     "streets": [
      "Bolan Lake Road;FR 4812-000",
      "Happy Camp Road;NF 48"
-    ]
+    ],
+    "nodeId": 92771952
    }
   },
   {
@@ -784,7 +832,8 @@
     "streets": [
      "Compass Court",
      "Reeves Road"
-    ]
+    ],
+    "nodeId": 85008522
    }
   },
   {
@@ -800,7 +849,8 @@
     "streets": [
      "Camp 5 Lane",
      "Rellim Road"
-    ]
+    ],
+    "nodeId": 3288191909
    }
   },
   {
@@ -816,7 +866,8 @@
     "streets": [
      "1st Street",
      "First Street"
-    ]
+    ],
+    "nodeId": 85067641
    }
   },
   {
@@ -832,7 +883,8 @@
     "streets": [
      "1st Street",
      "Sarina Road North"
-    ]
+    ],
+    "nodeId": 85067633
    }
   },
   {
@@ -848,7 +900,8 @@
     "streets": [
      "Gasquet Mountain Road;FR 17N49",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85166013
    }
   },
   {
@@ -864,7 +917,8 @@
     "streets": [
      "Gasquet Mountain Road;FR 17N49",
      "Low Divide Road;CR 305"
-    ]
+    ],
+    "nodeId": 85078452
    }
   },
   {
@@ -880,7 +934,8 @@
     "streets": [
      "RM300 Road",
      "Red Mountain Road"
-    ]
+    ],
+    "nodeId": 85087182
    }
   },
   {
@@ -896,7 +951,8 @@
     "streets": [
      "RM300 Road",
      "U10"
-    ]
+    ],
+    "nodeId": 85056095
    }
   },
   {
@@ -912,7 +968,8 @@
     "streets": [
      "Alder Camp Road",
      "Coastal Drive"
-    ]
+    ],
+    "nodeId": 85094952
    }
   },
   {
@@ -928,7 +985,8 @@
     "streets": [
      "Adrian Way",
      "Angel Lane"
-    ]
+    ],
+    "nodeId": 85099275
    }
   },
   {
@@ -944,7 +1002,8 @@
     "streets": [
      "Adrian Way",
      "Rio Drive"
-    ]
+    ],
+    "nodeId": 85099279
    }
   },
   {
@@ -960,7 +1019,8 @@
     "streets": [
      "N Street",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 85151594
    }
   },
   {
@@ -976,7 +1036,8 @@
     "streets": [
      "Front Street",
      "N Street"
-    ]
+    ],
+    "nodeId": 85100210
    }
   },
   {
@@ -992,7 +1053,8 @@
     "streets": [
      "Peacock Road",
      "Tan Oak Drive"
-    ]
+    ],
+    "nodeId": 85014096
    }
   },
   {
@@ -1008,7 +1070,8 @@
     "streets": [
      "Holiday Road;CR 315",
      "Patrick Creek Road;CR 316"
-    ]
+    ],
+    "nodeId": 85028162
    }
   },
   {
@@ -1024,7 +1087,8 @@
     "streets": [
      "Holiday Road;CR 315",
      "Old Gasquet Toll Road;CR 314"
-    ]
+    ],
+    "nodeId": 85113970
    }
   },
   {
@@ -1041,7 +1105,8 @@
      "Ocean View Drive;D5",
      "US 101",
      "White Rock Loop"
-    ]
+    ],
+    "nodeId": 84952856
    }
   },
   {
@@ -1057,7 +1122,8 @@
     "streets": [
      "Keller Avenue",
      "Spruce Street"
-    ]
+    ],
+    "nodeId": 85140316
    }
   },
   {
@@ -1073,7 +1139,8 @@
     "streets": [
      "Spruce Street",
      "Willow Street"
-    ]
+    ],
+    "nodeId": 85140324
    }
   },
   {
@@ -1089,7 +1156,8 @@
     "streets": [
      "Murphy Avenue",
      "Spruce Street"
-    ]
+    ],
+    "nodeId": 85081746
    }
   },
   {
@@ -1105,7 +1173,8 @@
     "streets": [
      "Bertsch Street",
      "Roy Avenue"
-    ]
+    ],
+    "nodeId": 85140340
    }
   },
   {
@@ -1121,7 +1190,8 @@
     "streets": [
      "Bertsch Street",
      "Quinlan Avenue"
-    ]
+    ],
+    "nodeId": 85140341
    }
   },
   {
@@ -1137,7 +1207,8 @@
     "streets": [
      "Bertsch Street",
      "Peveler Avenue"
-    ]
+    ],
+    "nodeId": 85140343
    }
   },
   {
@@ -1153,7 +1224,8 @@
     "streets": [
      "Bertsch Street",
      "Oliver Avenue"
-    ]
+    ],
+    "nodeId": 85140345
    }
   },
   {
@@ -1169,7 +1241,8 @@
     "streets": [
      "Bertsch Street",
      "Maher Avenue"
-    ]
+    ],
+    "nodeId": 85140354
    }
   },
   {
@@ -1185,7 +1258,8 @@
     "streets": [
      "Bertsch Street",
      "Le Clair Avenue"
-    ]
+    ],
+    "nodeId": 85140360
    }
   },
   {
@@ -1201,7 +1275,8 @@
     "streets": [
      "Bertsch Street",
      "Dodane Avenue"
-    ]
+    ],
+    "nodeId": 85140385
    }
   },
   {
@@ -1217,7 +1292,8 @@
     "streets": [
      "Bertsch Street",
      "Hinky Lane"
-    ]
+    ],
+    "nodeId": 85140410
    }
   },
   {
@@ -1233,7 +1309,8 @@
     "streets": [
      "Bertsch Street",
      "Howland Hill Road"
-    ]
+    ],
+    "nodeId": 84950919
    }
   },
   {
@@ -1249,7 +1326,8 @@
     "streets": [
      "Hobbs Wall Road",
      "Richardson Road"
-    ]
+    ],
+    "nodeId": 85140436
    }
   },
   {
@@ -1265,7 +1343,8 @@
     "streets": [
      "Boulder Avenue",
      "Hobbs Wall Road"
-    ]
+    ],
+    "nodeId": 85140442
    }
   },
   {
@@ -1281,7 +1360,8 @@
     "streets": [
      "Blackwell Lane",
      "Hobbs Wall Road"
-    ]
+    ],
+    "nodeId": 85140447
    }
   },
   {
@@ -1297,7 +1377,8 @@
     "streets": [
      "Garner Lane",
      "Hobbs Wall Road"
-    ]
+    ],
+    "nodeId": 85140451
    }
   },
   {
@@ -1313,7 +1394,8 @@
     "streets": [
      "Riverside Street",
      "West Washington Boulevard;D1"
-    ]
+    ],
+    "nodeId": 375780385
    }
   },
   {
@@ -1329,7 +1411,8 @@
     "streets": [
      "Riverside Street",
      "West Adams Avenue"
-    ]
+    ],
+    "nodeId": 563675326
    }
   },
   {
@@ -1345,7 +1428,8 @@
     "streets": [
      "Riverside Street",
      "West Jefferson Street"
-    ]
+    ],
+    "nodeId": 563675361
    }
   },
   {
@@ -1361,7 +1445,8 @@
     "streets": [
      "Esta Avenue",
      "Lake Earl Drive;D3"
-    ]
+    ],
+    "nodeId": 85140649
    }
   },
   {
@@ -1377,7 +1462,8 @@
     "streets": [
      "Esta Avenue",
      "Esta Lane"
-    ]
+    ],
+    "nodeId": 85140653
    }
   },
   {
@@ -1393,7 +1479,8 @@
     "streets": [
      "Shelter Island Circle",
      "Shelter Island Court"
-    ]
+    ],
+    "nodeId": 85140657
    }
   },
   {
@@ -1409,7 +1496,8 @@
     "streets": [
      "Shelter Island Circle",
      "Shelter Island Way"
-    ]
+    ],
+    "nodeId": 85140659
    }
   },
   {
@@ -1426,7 +1514,8 @@
      "Shelter Island Circle",
      "Shelter Island Drive",
      "Shelter Island Lane"
-    ]
+    ],
+    "nodeId": 85140664
    }
   },
   {
@@ -1443,7 +1532,8 @@
      "Shelter Island Avenue",
      "Shelter Island Circle",
      "Shelter Island Place"
-    ]
+    ],
+    "nodeId": 85140668
    }
   },
   {
@@ -1460,7 +1550,8 @@
      "Shelter Island Boulevard",
      "Shelter Island Circle",
      "Shelter Island Terrace"
-    ]
+    ],
+    "nodeId": 85140672
    }
   },
   {
@@ -1477,7 +1568,8 @@
      "Mouth of Smith River Road;D6",
      "Rivers End Road",
      "South Indian Road"
-    ]
+    ],
+    "nodeId": 85141114
    }
   },
   {
@@ -1493,7 +1585,8 @@
     "streets": [
      "Mouth of Smith River Road;D6",
      "Sid Harvard Drive"
-    ]
+    ],
+    "nodeId": 6506389545
    }
   },
   {
@@ -1509,7 +1602,8 @@
     "streets": [
      "Mouth of Smith River Road;D6",
      "Prince Island Drive"
-    ]
+    ],
+    "nodeId": 85141135
    }
   },
   {
@@ -1526,7 +1620,8 @@
      "Mouth of Smith River Road",
      "Mouth of Smith River Road;D6",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952941
    }
   },
   {
@@ -1542,7 +1637,8 @@
     "streets": [
      "Mouth of Smith River Road",
      "Ocean View Drive;D5"
-    ]
+    ],
+    "nodeId": 85141144
    }
   },
   {
@@ -1558,7 +1654,8 @@
     "streets": [
      "Rowdy Creek Road",
      "Shavely Road"
-    ]
+    ],
+    "nodeId": 85141148
    }
   },
   {
@@ -1574,7 +1671,8 @@
     "streets": [
      "Lynch Road",
      "Scott Lane"
-    ]
+    ],
+    "nodeId": 85141438
    }
   },
   {
@@ -1590,7 +1688,8 @@
     "streets": [
      "Lynch Road",
      "Pine Grove Road"
-    ]
+    ],
+    "nodeId": 85141452
    }
   },
   {
@@ -1606,7 +1705,8 @@
     "streets": [
      "Royale Street",
      "Surfsound Court"
-    ]
+    ],
+    "nodeId": 85141461
    }
   },
   {
@@ -1622,7 +1722,8 @@
     "streets": [
      "Hollingworth Court",
      "Royale Street"
-    ]
+    ],
+    "nodeId": 85141467
    }
   },
   {
@@ -1638,7 +1739,8 @@
     "streets": [
      "Perch Street",
      "Royale Street"
-    ]
+    ],
+    "nodeId": 85141472
    }
   },
   {
@@ -1654,7 +1756,8 @@
     "streets": [
      "Royale Street",
      "US 101"
-    ]
+    ],
+    "nodeId": 8532838503
    }
   },
   {
@@ -1670,7 +1773,8 @@
     "streets": [
      "California Street",
      "Mason Court"
-    ]
+    ],
+    "nodeId": 85141819
    }
   },
   {
@@ -1686,7 +1790,8 @@
     "streets": [
      "Maris Lane",
      "South Fred D Haight Drive;D4"
-    ]
+    ],
+    "nodeId": 85141822
    }
   },
   {
@@ -1702,7 +1807,8 @@
     "streets": [
      "Church Tree Road",
      "National Park Way"
-    ]
+    ],
+    "nodeId": 85141871
    }
   },
   {
@@ -1718,7 +1824,8 @@
     "streets": [
      "Malone Road",
      "Railroad Avenue"
-    ]
+    ],
+    "nodeId": 85141883
    }
   },
   {
@@ -1735,7 +1842,8 @@
      "Lake Earl Drive;D3",
      "Lakeview Road",
      "Malone Road"
-    ]
+    ],
+    "nodeId": 85141918
    }
   },
   {
@@ -1751,7 +1859,8 @@
     "streets": [
      "Rossini Lane",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952095
    }
   },
   {
@@ -1767,7 +1876,8 @@
     "streets": [
      "Kevin Court",
      "Rossini Lane"
-    ]
+    ],
+    "nodeId": 85141948
    }
   },
   {
@@ -1783,7 +1893,8 @@
     "streets": [
      "Oma Lane",
      "Rossini Lane"
-    ]
+    ],
+    "nodeId": 85141961
    }
   },
   {
@@ -1799,7 +1910,8 @@
     "streets": [
      "High Meadow Drive",
      "Rossini Lane"
-    ]
+    ],
+    "nodeId": 85141963
    }
   },
   {
@@ -1815,7 +1927,8 @@
     "streets": [
      "Ashford Road",
      "Hyatt Heights"
-    ]
+    ],
+    "nodeId": 85142051
    }
   },
   {
@@ -1831,7 +1944,8 @@
     "streets": [
      "Dayton Road",
      "Mallard Road"
-    ]
+    ],
+    "nodeId": 85142059
    }
   },
   {
@@ -1847,7 +1961,8 @@
     "streets": [
      "Ocean Drive",
      "Surf Drive"
-    ]
+    ],
+    "nodeId": 85142067
    }
   },
   {
@@ -1863,7 +1978,8 @@
     "streets": [
      "De Mars Drive",
      "Ocean Drive"
-    ]
+    ],
+    "nodeId": 85142078
    }
   },
   {
@@ -1879,7 +1995,8 @@
     "streets": [
      "Ocean Drive",
      "Porteck Street"
-    ]
+    ],
+    "nodeId": 85142094
    }
   },
   {
@@ -1895,7 +2012,8 @@
     "streets": [
      "Ocean Drive",
      "Placone Street"
-    ]
+    ],
+    "nodeId": 85142095
    }
   },
   {
@@ -1911,7 +2029,8 @@
     "streets": [
      "Ocean Drive",
      "Valentine Street"
-    ]
+    ],
+    "nodeId": 85142097
    }
   },
   {
@@ -1927,7 +2046,8 @@
     "streets": [
      "Nemeth Street",
      "Ocean Drive"
-    ]
+    ],
+    "nodeId": 85142099
    }
   },
   {
@@ -1943,7 +2063,8 @@
     "streets": [
      "Martin Street",
      "Ocean Drive"
-    ]
+    ],
+    "nodeId": 85142106
    }
   },
   {
@@ -1959,7 +2080,8 @@
     "streets": [
      "Marish Street",
      "Ocean Drive"
-    ]
+    ],
+    "nodeId": 85103064
    }
   },
   {
@@ -1976,7 +2098,8 @@
      "A Street",
      "East Essex Street",
      "West Essex Street"
-    ]
+    ],
+    "nodeId": 85142115
    }
   },
   {
@@ -1992,7 +2115,8 @@
     "streets": [
      "East Essex Street",
      "Gary Street"
-    ]
+    ],
+    "nodeId": 85142117
    }
   },
   {
@@ -2008,7 +2132,8 @@
     "streets": [
      "East Essex Street",
      "Margie Street"
-    ]
+    ],
+    "nodeId": 85142120
    }
   },
   {
@@ -2024,7 +2149,8 @@
     "streets": [
      "Azalea Court",
      "Azalea Lane"
-    ]
+    ],
+    "nodeId": 85142123
    }
   },
   {
@@ -2040,7 +2166,8 @@
     "streets": [
      "Klamath Beach Road;D8",
      "Southeast Klamath Beach Road"
-    ]
+    ],
+    "nodeId": 84978473
    }
   },
   {
@@ -2056,7 +2183,8 @@
     "streets": [
      "Elk Creek Road",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85142654
    }
   },
   {
@@ -2072,7 +2200,8 @@
     "streets": [
      "Elk Creek Road",
      "Elk View Road"
-    ]
+    ],
+    "nodeId": 85142657
    }
   },
   {
@@ -2088,7 +2217,8 @@
     "streets": [
      "Elk Creek Road",
      "Joseph Lane"
-    ]
+    ],
+    "nodeId": 85142676
    }
   },
   {
@@ -2104,7 +2234,8 @@
     "streets": [
      "Franklin Court",
      "West Adams Avenue"
-    ]
+    ],
+    "nodeId": 85142689
    }
   },
   {
@@ -2120,7 +2251,8 @@
     "streets": [
      "Blackwell Lane",
      "Collins Road"
-    ]
+    ],
+    "nodeId": 85142711
    }
   },
   {
@@ -2136,7 +2268,8 @@
     "streets": [
      "D Street",
      "Front Street"
-    ]
+    ],
+    "nodeId": 85142715
    }
   },
   {
@@ -2152,7 +2285,8 @@
     "streets": [
      "2nd Street",
      "D Street"
-    ]
+    ],
+    "nodeId": 85142717
    }
   },
   {
@@ -2168,7 +2302,8 @@
     "streets": [
      "3rd Street",
      "D Street"
-    ]
+    ],
+    "nodeId": 85142719
    }
   },
   {
@@ -2184,7 +2319,8 @@
     "streets": [
      "4th Street",
      "D Street"
-    ]
+    ],
+    "nodeId": 85142721
    }
   },
   {
@@ -2200,7 +2336,8 @@
     "streets": [
      "5th Street",
      "D Street"
-    ]
+    ],
+    "nodeId": 563675216
    }
   },
   {
@@ -2216,7 +2353,8 @@
     "streets": [
      "6th Street",
      "D Street"
-    ]
+    ],
+    "nodeId": 563675220
    }
   },
   {
@@ -2232,7 +2370,8 @@
     "streets": [
      "7th Street",
      "D Street"
-    ]
+    ],
+    "nodeId": 563675199
    }
   },
   {
@@ -2248,7 +2387,8 @@
     "streets": [
      "8th Street",
      "D Street"
-    ]
+    ],
+    "nodeId": 85142728
    }
   },
   {
@@ -2264,7 +2404,8 @@
     "streets": [
      "9th Street",
      "D Street"
-    ]
+    ],
+    "nodeId": 85142730
    }
   },
   {
@@ -2280,7 +2421,8 @@
     "streets": [
      "10th Street",
      "D Street"
-    ]
+    ],
+    "nodeId": 85142733
    }
   },
   {
@@ -2296,7 +2438,8 @@
     "streets": [
      "Darby Street",
      "Dodane Street"
-    ]
+    ],
+    "nodeId": 85142836
    }
   },
   {
@@ -2312,7 +2455,8 @@
     "streets": [
      "Dodane Street",
      "Humboldt Road"
-    ]
+    ],
+    "nodeId": 85142840
    }
   },
   {
@@ -2328,7 +2472,8 @@
     "streets": [
      "Nemeth Street",
      "Tell Boulevard"
-    ]
+    ],
+    "nodeId": 85142854
    }
   },
   {
@@ -2345,7 +2490,8 @@
      "Corsaro Drive",
      "Nemeth Street",
      "Tell Boulevard"
-    ]
+    ],
+    "nodeId": 85142938
    }
   },
   {
@@ -2361,7 +2507,8 @@
     "streets": [
      "Critter's Way",
      "Cunningham Lane"
-    ]
+    ],
+    "nodeId": 2997156377
    }
   },
   {
@@ -2377,7 +2524,8 @@
     "streets": [
      "Cunningham Lane",
      "Sandpiper Lane"
-    ]
+    ],
+    "nodeId": 2997156385
    }
   },
   {
@@ -2393,7 +2541,8 @@
     "streets": [
      "Cunningham Lane",
      "Paige Lane"
-    ]
+    ],
+    "nodeId": 2997156392
    }
   },
   {
@@ -2409,7 +2558,8 @@
     "streets": [
      "Conrad Road",
      "Cunningham Lane"
-    ]
+    ],
+    "nodeId": 2997156403
    }
   },
   {
@@ -2425,7 +2575,8 @@
     "streets": [
      "Cunningham Lane",
      "Elk Valley Cross Road;D2"
-    ]
+    ],
+    "nodeId": 85142963
    }
   },
   {
@@ -2441,7 +2592,8 @@
     "streets": [
      "Haley Lane",
      "Wier Lane"
-    ]
+    ],
+    "nodeId": 85142968
    }
   },
   {
@@ -2457,7 +2609,8 @@
     "streets": [
      "Star Trek Drive",
      "Wonder Stump Road"
-    ]
+    ],
+    "nodeId": 85143036
    }
   },
   {
@@ -2473,7 +2626,8 @@
     "streets": [
      "Alpine Street",
      "Laurel Lane"
-    ]
+    ],
+    "nodeId": 85143316
    }
   },
   {
@@ -2489,7 +2643,8 @@
     "streets": [
      "Alpine Street",
      "Vincent Street"
-    ]
+    ],
+    "nodeId": 85143321
    }
   },
   {
@@ -2505,7 +2660,8 @@
     "streets": [
      "Parkway Drive",
      "Sherwood Lane"
-    ]
+    ],
+    "nodeId": 85143327
    }
   },
   {
@@ -2521,7 +2677,8 @@
     "streets": [
      "Brookings Avenue",
      "North Street"
-    ]
+    ],
+    "nodeId": 85143345
    }
   },
   {
@@ -2537,7 +2694,8 @@
     "streets": [
      "North Street",
      "Wallace Avenue"
-    ]
+    ],
+    "nodeId": 85143346
    }
   },
   {
@@ -2553,7 +2711,8 @@
     "streets": [
      "North Fred D Haight Drive;D4",
      "North Street"
-    ]
+    ],
+    "nodeId": 85143347
    }
   },
   {
@@ -2569,7 +2728,8 @@
     "streets": [
      "Conner Way",
      "Railroad Avenue"
-    ]
+    ],
+    "nodeId": 85143348
    }
   },
   {
@@ -2586,7 +2746,8 @@
      "Endert Avenue",
      "Endert Street",
      "Le Clair Avenue"
-    ]
+    ],
+    "nodeId": 85143353
    }
   },
   {
@@ -2602,7 +2763,8 @@
     "streets": [
      "Endert Avenue",
      "Kelly Avenue"
-    ]
+    ],
+    "nodeId": 85143355
    }
   },
   {
@@ -2618,7 +2780,8 @@
     "streets": [
      "Endert Avenue",
      "Jones Avenue"
-    ]
+    ],
+    "nodeId": 85143357
    }
   },
   {
@@ -2634,7 +2797,8 @@
     "streets": [
      "Douglas Street",
      "Wilson Avenue"
-    ]
+    ],
+    "nodeId": 373692641
    }
   },
   {
@@ -2650,7 +2814,8 @@
     "streets": [
      "Douglas Street",
      "East Harding Avenue"
-    ]
+    ],
+    "nodeId": 85143780
    }
   },
   {
@@ -2666,7 +2831,8 @@
     "streets": [
      "Douglas Street",
      "East Coolidge Avenue"
-    ]
+    ],
+    "nodeId": 85143782
    }
   },
   {
@@ -2682,7 +2848,8 @@
     "streets": [
      "Douglas Street",
      "East Hoover Avenue"
-    ]
+    ],
+    "nodeId": 85143784
    }
   },
   {
@@ -2698,7 +2865,8 @@
     "streets": [
      "Duffy Court",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85143791
    }
   },
   {
@@ -2714,7 +2882,8 @@
     "streets": [
      "Pine Street",
      "South Fork Road;CR 427"
-    ]
+    ],
+    "nodeId": 85143800
    }
   },
   {
@@ -2730,7 +2899,8 @@
     "streets": [
      "Harper Lane",
      "Jed Smith Lane"
-    ]
+    ],
+    "nodeId": 85144123
    }
   },
   {
@@ -2746,7 +2916,8 @@
     "streets": [
      "Klamath Boulevard",
      "Klamath Mill Road"
-    ]
+    ],
+    "nodeId": 85144138
    }
   },
   {
@@ -2762,7 +2933,8 @@
     "streets": [
      "Ocean View Drive;D5",
      "Peregrine Drive"
-    ]
+    ],
+    "nodeId": 85144191
    }
   },
   {
@@ -2779,7 +2951,8 @@
      "Dream Street",
      "El Dorado Street",
      "Hamilton Avenue"
-    ]
+    ],
+    "nodeId": 85144226
    }
   },
   {
@@ -2795,7 +2968,8 @@
     "streets": [
      "Fresno Street",
      "Hamilton Avenue"
-    ]
+    ],
+    "nodeId": 85144228
    }
   },
   {
@@ -2811,7 +2985,8 @@
     "streets": [
      "Glenn Street",
      "Hamilton Avenue"
-    ]
+    ],
+    "nodeId": 85144230
    }
   },
   {
@@ -2827,7 +3002,8 @@
     "streets": [
      "Hamilton Avenue",
      "Humboldt Street"
-    ]
+    ],
+    "nodeId": 85144232
    }
   },
   {
@@ -2843,7 +3019,8 @@
     "streets": [
      "Hamilton Avenue",
      "Inyo Street"
-    ]
+    ],
+    "nodeId": 85144240
    }
   },
   {
@@ -2859,7 +3036,8 @@
     "streets": [
      "Park Place",
      "Tanglewood Lane"
-    ]
+    ],
+    "nodeId": 85144245
    }
   },
   {
@@ -2875,7 +3053,8 @@
     "streets": [
      "Arlington Drive",
      "Colonial Court"
-    ]
+    ],
+    "nodeId": 85145540
    }
   },
   {
@@ -2891,7 +3070,8 @@
     "streets": [
      "Darlington Lane",
      "Gasquet Flat Road"
-    ]
+    ],
+    "nodeId": 85145577
    }
   },
   {
@@ -2907,7 +3087,8 @@
     "streets": [
      "Redwood Highway;US 199",
      "Sierra Wood Road"
-    ]
+    ],
+    "nodeId": 85145587
    }
   },
   {
@@ -2923,7 +3104,8 @@
     "streets": [
      "Sierra Wood Road",
      "Valley View Road"
-    ]
+    ],
+    "nodeId": 85145588
    }
   },
   {
@@ -2939,7 +3121,8 @@
     "streets": [
      "Low Divide Road;CR 305",
      "Ruiz Canyon Dr"
-    ]
+    ],
+    "nodeId": 5136059612
    }
   },
   {
@@ -2955,7 +3138,8 @@
     "streets": [
      "Glenn Street",
      "Small Avenue"
-    ]
+    ],
+    "nodeId": 85060392
    }
   },
   {
@@ -2971,7 +3155,8 @@
     "streets": [
      "Inyo Street",
      "Small Avenue"
-    ]
+    ],
+    "nodeId": 85145651
    }
   },
   {
@@ -2987,7 +3172,8 @@
     "streets": [
      "Howland Hill Road",
      "Mathews Street"
-    ]
+    ],
+    "nodeId": 84950937
    }
   },
   {
@@ -3003,7 +3189,8 @@
     "streets": [
      "Mathews Street",
      "Norris Ave"
-    ]
+    ],
+    "nodeId": 85073441
    }
   },
   {
@@ -3019,7 +3206,8 @@
     "streets": [
      "Borough Lane",
      "South Fred D Haight Drive;D4"
-    ]
+    ],
+    "nodeId": 84976757
    }
   },
   {
@@ -3035,7 +3223,8 @@
     "streets": [
      "Borough Lane",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952073
    }
   },
   {
@@ -3051,7 +3240,8 @@
     "streets": [
      "Cowley Lane",
      "Elk Valley Road;D2"
-    ]
+    ],
+    "nodeId": 85145709
    }
   },
   {
@@ -3067,7 +3257,8 @@
     "streets": [
      "Cody Lane",
      "Purdy Lane"
-    ]
+    ],
+    "nodeId": 85145772
    }
   },
   {
@@ -3083,7 +3274,8 @@
     "streets": [
      "Maple Road",
      "Terwer Riffle Road"
-    ]
+    ],
+    "nodeId": 85145779
    }
   },
   {
@@ -3099,7 +3291,8 @@
     "streets": [
      "Maple Road",
      "Redwood Road"
-    ]
+    ],
+    "nodeId": 85145781
    }
   },
   {
@@ -3115,7 +3308,8 @@
     "streets": [
      "Darby Street",
      "Roy Avenue"
-    ]
+    ],
+    "nodeId": 85146427
    }
   },
   {
@@ -3131,7 +3325,8 @@
     "streets": [
      "Darby Street",
      "Quinlan Avenue"
-    ]
+    ],
+    "nodeId": 85146429
    }
   },
   {
@@ -3147,7 +3342,8 @@
     "streets": [
      "Darby Street",
      "Peveler Avenue"
-    ]
+    ],
+    "nodeId": 85146431
    }
   },
   {
@@ -3163,7 +3359,8 @@
     "streets": [
      "Darby Street",
      "Oliver Avenue"
-    ]
+    ],
+    "nodeId": 85146432
    }
   },
   {
@@ -3179,7 +3376,8 @@
     "streets": [
      "Darby Street",
      "Nickel Avenue"
-    ]
+    ],
+    "nodeId": 85146434
    }
   },
   {
@@ -3195,7 +3393,8 @@
     "streets": [
      "Darby Street",
      "Maher Avenue"
-    ]
+    ],
+    "nodeId": 85146436
    }
   },
   {
@@ -3211,7 +3410,8 @@
     "streets": [
      "Darby Street",
      "Le Clair Avenue"
-    ]
+    ],
+    "nodeId": 85146438
    }
   },
   {
@@ -3227,7 +3427,8 @@
     "streets": [
      "Boyet Street",
      "Darby Street"
-    ]
+    ],
+    "nodeId": 85146467
    }
   },
   {
@@ -3243,7 +3444,8 @@
     "streets": [
      "Cushing Street",
      "Darby Street"
-    ]
+    ],
+    "nodeId": 85146469
    }
   },
   {
@@ -3260,7 +3462,8 @@
      "Dell Lane",
      "Oak Road",
      "Pau Hanna Place"
-    ]
+    ],
+    "nodeId": 85146517
    }
   },
   {
@@ -3276,7 +3479,8 @@
     "streets": [
      "Northcrest Drive;D3",
      "Oak Road"
-    ]
+    ],
+    "nodeId": 85146525
    }
   },
   {
@@ -3293,7 +3497,8 @@
      "Blake Road",
      "Klamath Glen Road;CA 169",
      "Terwer Riffle Road"
-    ]
+    ],
+    "nodeId": 85147095
    }
   },
   {
@@ -3309,7 +3514,8 @@
     "streets": [
      "Redwood Road",
      "Terwer Riffle Road"
-    ]
+    ],
+    "nodeId": 85147108
    }
   },
   {
@@ -3325,7 +3531,8 @@
     "streets": [
      "Huckleberry Lane",
      "Terwer Riffle Road"
-    ]
+    ],
+    "nodeId": 85147125
    }
   },
   {
@@ -3341,7 +3548,8 @@
     "streets": [
      "Blackberry Patch Circle",
      "Terwer Riffle Road"
-    ]
+    ],
+    "nodeId": 85147130
    }
   },
   {
@@ -3357,7 +3565,8 @@
     "streets": [
      "Cedar Street",
      "Terwer Riffle Road"
-    ]
+    ],
+    "nodeId": 85147136
    }
   },
   {
@@ -3373,7 +3582,8 @@
     "streets": [
      "Hill Road",
      "Terwer Riffle Road"
-    ]
+    ],
+    "nodeId": 85147139
    }
   },
   {
@@ -3389,7 +3599,8 @@
     "streets": [
      "Lorenzo Lane",
      "Morgan Court"
-    ]
+    ],
+    "nodeId": 85147158
    }
   },
   {
@@ -3406,7 +3617,8 @@
      "Elk Valley Cross Road;D2",
      "Railroad Avenue",
      "Wonder Stump Road"
-    ]
+    ],
+    "nodeId": 85147179
    }
   },
   {
@@ -3422,7 +3634,8 @@
     "streets": [
      "Maciel Lane",
      "Wonder Stump Road"
-    ]
+    ],
+    "nodeId": 85147182
    }
   },
   {
@@ -3438,7 +3651,8 @@
     "streets": [
      "Tony Rosa Road",
      "Wonder Stump Road"
-    ]
+    ],
+    "nodeId": 85147183
    }
   },
   {
@@ -3454,7 +3668,8 @@
     "streets": [
      "Vivienne Lane",
      "Wonder Stump Road"
-    ]
+    ],
+    "nodeId": 85147184
    }
   },
   {
@@ -3470,7 +3685,8 @@
     "streets": [
      "Mobile Lane",
      "Wonder Stump Road"
-    ]
+    ],
+    "nodeId": 85147185
    }
   },
   {
@@ -3486,7 +3702,8 @@
     "streets": [
      "Old Wagon Road",
      "Wonder Stump Road"
-    ]
+    ],
+    "nodeId": 85147190
    }
   },
   {
@@ -3502,7 +3719,8 @@
     "streets": [
      "Sorrel Ridge Road",
      "Wonder Stump Road"
-    ]
+    ],
+    "nodeId": 85147192
    }
   },
   {
@@ -3518,7 +3736,8 @@
     "streets": [
      "Donna Declue Road",
      "Wonder Stump Road"
-    ]
+    ],
+    "nodeId": 3567151123
    }
   },
   {
@@ -3534,7 +3753,8 @@
     "streets": [
      "Ecnav Lane",
      "Wonder Stump Road"
-    ]
+    ],
+    "nodeId": 85147194
    }
   },
   {
@@ -3550,7 +3770,8 @@
     "streets": [
      "Orchard Lane",
      "Wonder Stump Road"
-    ]
+    ],
+    "nodeId": 85147197
    }
   },
   {
@@ -3566,7 +3787,8 @@
     "streets": [
      "Coulson Lane",
      "Wonder Stump Road"
-    ]
+    ],
+    "nodeId": 85147203
    }
   },
   {
@@ -3582,7 +3804,8 @@
     "streets": [
      "Wheeler Lane",
      "Wonder Stump Road"
-    ]
+    ],
+    "nodeId": 85147206
    }
   },
   {
@@ -3598,7 +3821,8 @@
     "streets": [
      "US 101",
      "Wonder Stump Road"
-    ]
+    ],
+    "nodeId": 84952147
    }
   },
   {
@@ -3614,7 +3838,8 @@
     "streets": [
      "Kings Valley Road",
      "Wonder Stump Road"
-    ]
+    ],
+    "nodeId": 85147261
    }
   },
   {
@@ -3630,7 +3855,8 @@
     "streets": [
      "Big Flat Road",
      "Ship Mountain Road;FR 16N02"
-    ]
+    ],
+    "nodeId": 85222184
    }
   },
   {
@@ -3646,7 +3872,8 @@
     "streets": [
      "Bear Basin Road;17N04",
      "Ship Mountain Road;FR 16N02"
-    ]
+    ],
+    "nodeId": 85147268
    }
   },
   {
@@ -3663,7 +3890,8 @@
      "Bear Basin Road;17N04",
      "Big Flat Road;CR 405",
      "French Hill Road;CR 405"
-    ]
+    ],
+    "nodeId": 85147947
    }
   },
   {
@@ -3679,7 +3907,8 @@
     "streets": [
      "Ariel Lane",
      "Maeghan Way"
-    ]
+    ],
+    "nodeId": 85149536
    }
   },
   {
@@ -3695,7 +3924,8 @@
     "streets": [
      "Knotty Pine Lane",
      "Maeghan Way"
-    ]
+    ],
+    "nodeId": 85149543
    }
   },
   {
@@ -3711,7 +3941,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Maeghan Way"
-    ]
+    ],
+    "nodeId": 85149556
    }
   },
   {
@@ -3727,7 +3958,8 @@
     "streets": [
      "Lower Lake Road",
      "Moseley Road"
-    ]
+    ],
+    "nodeId": 85149856
    }
   },
   {
@@ -3743,7 +3975,8 @@
     "streets": [
      "Bailey Road",
      "Moseley Road"
-    ]
+    ],
+    "nodeId": 85078049
    }
   },
   {
@@ -3759,7 +3992,8 @@
     "streets": [
      "Ramey Street",
      "Stukey Street"
-    ]
+    ],
+    "nodeId": 85149875
    }
   },
   {
@@ -3775,7 +4009,8 @@
     "streets": [
      "Ramey Street",
      "Shutt Street"
-    ]
+    ],
+    "nodeId": 85149884
    }
   },
   {
@@ -3791,7 +4026,8 @@
     "streets": [
      "Duncan Road",
      "Weber Drive"
-    ]
+    ],
+    "nodeId": 85149886
    }
   },
   {
@@ -3808,7 +4044,8 @@
      "Lopez Court",
      "North Indian Road",
      "Ocean View Drive;D5"
-    ]
+    ],
+    "nodeId": 85150047
    }
   },
   {
@@ -3824,7 +4061,8 @@
     "streets": [
      "North Indian Road",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952916
    }
   },
   {
@@ -3840,7 +4078,8 @@
     "streets": [
      "Indian Court",
      "North Indian Road"
-    ]
+    ],
+    "nodeId": 85150052
    }
   },
   {
@@ -3856,7 +4095,8 @@
     "streets": [
      "North Indian Road",
      "South Indian Road"
-    ]
+    ],
+    "nodeId": 85150056
    }
   },
   {
@@ -3872,7 +4112,8 @@
     "streets": [
      "Cannon Drive",
      "Mobile Lane"
-    ]
+    ],
+    "nodeId": 85150062
    }
   },
   {
@@ -3888,7 +4129,8 @@
     "streets": [
      "Shutt Street",
      "Stukey Street"
-    ]
+    ],
+    "nodeId": 85150099
    }
   },
   {
@@ -3904,7 +4146,8 @@
     "streets": [
      "McBeth Way",
      "Trinity Way"
-    ]
+    ],
+    "nodeId": 85100684
    }
   },
   {
@@ -3921,7 +4164,8 @@
      "Alder Lane",
      "Del Norte Way",
      "McBeth Way"
-    ]
+    ],
+    "nodeId": 85150108
    }
   },
   {
@@ -3938,7 +4182,8 @@
      "Dayton Road",
      "Dillman Road",
      "Old Mill Road"
-    ]
+    ],
+    "nodeId": 85150113
    }
   },
   {
@@ -3954,7 +4199,8 @@
     "streets": [
      "Dayton Road",
      "Mallard Drive"
-    ]
+    ],
+    "nodeId": 85150139
    }
   },
   {
@@ -3970,7 +4216,8 @@
     "streets": [
      "Hartwick Lane",
      "Hartwick Way"
-    ]
+    ],
+    "nodeId": 85150145
    }
   },
   {
@@ -3986,7 +4233,8 @@
     "streets": [
      "Middleton Drive",
      "Surf Drive"
-    ]
+    ],
+    "nodeId": 85150536
    }
   },
   {
@@ -4002,7 +4250,8 @@
     "streets": [
      "De Mars Drive",
      "Middleton Drive"
-    ]
+    ],
+    "nodeId": 85150542
    }
   },
   {
@@ -4018,7 +4267,8 @@
     "streets": [
      "Martin Street",
      "Middleton Drive"
-    ]
+    ],
+    "nodeId": 85110371
    }
   },
   {
@@ -4034,7 +4284,8 @@
     "streets": [
      "Marish Street",
      "Middleton Drive"
-    ]
+    ],
+    "nodeId": 85150562
    }
   },
   {
@@ -4050,7 +4301,8 @@
     "streets": [
      "Christensen Way",
      "Douglas Park Drive;CR 417"
-    ]
+    ],
+    "nodeId": 85150571
    }
   },
   {
@@ -4066,7 +4318,8 @@
     "streets": [
      "Vipond Drive",
      "Vipond Lane"
-    ]
+    ],
+    "nodeId": 85150580
    }
   },
   {
@@ -4082,7 +4335,8 @@
     "streets": [
      "Kerby Street",
      "State Street"
-    ]
+    ],
+    "nodeId": 85150588
    }
   },
   {
@@ -4098,7 +4352,8 @@
     "streets": [
      "Kerby Street",
      "Shirley Street"
-    ]
+    ],
+    "nodeId": 85150590
    }
   },
   {
@@ -4114,7 +4369,8 @@
     "streets": [
      "Howland Hill Road",
      "Kerby Street"
-    ]
+    ],
+    "nodeId": 84950948
    }
   },
   {
@@ -4130,7 +4386,8 @@
     "streets": [
      "Kerby Street",
      "Seashore Drive"
-    ]
+    ],
+    "nodeId": 85150598
    }
   },
   {
@@ -4146,7 +4403,8 @@
     "streets": [
      "Deirdre Court",
      "North Fork Road"
-    ]
+    ],
+    "nodeId": 85150614
    }
   },
   {
@@ -4162,7 +4420,8 @@
     "streets": [
      "Citizens Dock Road",
      "Marine Way"
-    ]
+    ],
+    "nodeId": 85150765
    }
   },
   {
@@ -4178,7 +4437,8 @@
     "streets": [
      "Citizens Dock Road",
      "Starfish Way"
-    ]
+    ],
+    "nodeId": 8914347727
    }
   },
   {
@@ -4194,7 +4454,8 @@
     "streets": [
      "Citizens Dock Road",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 85150772
    }
   },
   {
@@ -4210,7 +4471,8 @@
     "streets": [
      "Clyde Street",
      "Elk Valley Road;D2"
-    ]
+    ],
+    "nodeId": 85151552
    }
   },
   {
@@ -4226,7 +4488,8 @@
     "streets": [
      "Clyde Street",
      "Lenore Way"
-    ]
+    ],
+    "nodeId": 85151558
    }
   },
   {
@@ -4242,7 +4505,8 @@
     "streets": [
      "Clyde Street",
      "Olivine Way"
-    ]
+    ],
+    "nodeId": 85151561
    }
   },
   {
@@ -4259,7 +4523,8 @@
      "Clyde Street",
      "Parkway Drive",
      "Prince Road"
-    ]
+    ],
+    "nodeId": 85151570
    }
   },
   {
@@ -4276,7 +4541,8 @@
      "Fernwood Lane",
      "Parkway Drive",
      "Tsunami Lane"
-    ]
+    ],
+    "nodeId": 85151574
    }
   },
   {
@@ -4292,7 +4558,8 @@
     "streets": [
      "Fernwood Lane",
      "Garrette Way"
-    ]
+    ],
+    "nodeId": 85151580
    }
   },
   {
@@ -4308,7 +4575,8 @@
     "streets": [
      "Elk Valley Road;D2",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 85151596
    }
   },
   {
@@ -4324,7 +4592,8 @@
     "streets": [
      "Sandman Road",
      "Sleepy Hollow Road"
-    ]
+    ],
+    "nodeId": 85152906
    }
   },
   {
@@ -4340,7 +4609,8 @@
     "streets": [
      "Courtney Lane",
      "Sleepy Hollow Road"
-    ]
+    ],
+    "nodeId": 85152928
    }
   },
   {
@@ -4356,7 +4626,8 @@
     "streets": [
      "Gasquet-Orleans Road;FR 15N01",
      "South Fork Road;CR 427"
-    ]
+    ],
+    "nodeId": 85154302
    }
   },
   {
@@ -4373,7 +4644,8 @@
      "Breen Street",
      "East Coolidge Avenue",
      "West Coolidge Avenue"
-    ]
+    ],
+    "nodeId": 85154383
    }
   },
   {
@@ -4389,7 +4661,8 @@
     "streets": [
      "Nita Lane",
      "Placone Street"
-    ]
+    ],
+    "nodeId": 85154405
    }
   },
   {
@@ -4406,7 +4679,8 @@
      "East Adams Avenue",
      "Northcrest Drive;D3",
      "Shelter Island Boulevard"
-    ]
+    ],
+    "nodeId": 85154420
    }
   },
   {
@@ -4422,7 +4696,8 @@
     "streets": [
      "Dundas Road",
      "Jeremiah Court"
-    ]
+    ],
+    "nodeId": 85154424
    }
   },
   {
@@ -4438,7 +4713,8 @@
     "streets": [
      "Redland Lane",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952942
    }
   },
   {
@@ -4454,7 +4730,8 @@
     "streets": [
      "Lake Street",
      "West Washington Boulevard;D1"
-    ]
+    ],
+    "nodeId": 375780409
    }
   },
   {
@@ -4470,7 +4747,8 @@
     "streets": [
      "Beech Street",
      "Lake Street"
-    ]
+    ],
+    "nodeId": 85155239
    }
   },
   {
@@ -4486,7 +4764,8 @@
     "streets": [
      "Lake Street",
      "Reddy Avenue"
-    ]
+    ],
+    "nodeId": 85155255
    }
   },
   {
@@ -4502,7 +4781,8 @@
     "streets": [
      "Foxglove Lane",
      "Wheeler Lane"
-    ]
+    ],
+    "nodeId": 85155293
    }
   },
   {
@@ -4519,7 +4799,8 @@
      "5th Street",
      "A Street",
      "West 5th Street"
-    ]
+    ],
+    "nodeId": 85155311
    }
   },
   {
@@ -4535,7 +4816,8 @@
     "streets": [
      "Wendell Street",
      "West 5th Street"
-    ]
+    ],
+    "nodeId": 85155313
    }
   },
   {
@@ -4551,7 +4833,8 @@
     "streets": [
      "Taylor Street",
      "West 5th Street"
-    ]
+    ],
+    "nodeId": 85155318
    }
   },
   {
@@ -4567,7 +4850,8 @@
     "streets": [
      "Alexandria Way",
      "Georgetown Place"
-    ]
+    ],
+    "nodeId": 85155324
    }
   },
   {
@@ -4583,7 +4867,8 @@
     "streets": [
      "Bachelor Road",
      "Devol Court"
-    ]
+    ],
+    "nodeId": 85155329
    }
   },
   {
@@ -4599,7 +4884,8 @@
     "streets": [
      "Bachelor Road",
      "Lake Earl Drive;D3"
-    ]
+    ],
+    "nodeId": 85155341
    }
   },
   {
@@ -4616,7 +4902,8 @@
      "Dundas Road",
      "Early Lane",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85156220
    }
   },
   {
@@ -4632,7 +4919,8 @@
     "streets": [
      "Dundas Road",
      "Elk View Road"
-    ]
+    ],
+    "nodeId": 85156227
    }
   },
   {
@@ -4648,7 +4936,8 @@
     "streets": [
      "Red Mountain Lookout Road;FR 13N36",
      "Red Mountain Road;FR 14N01"
-    ]
+    ],
+    "nodeId": 84959405
    }
   },
   {
@@ -4664,7 +4953,8 @@
     "streets": [
      "A10",
      "Red Mountain Road"
-    ]
+    ],
+    "nodeId": 85157686
    }
   },
   {
@@ -4680,7 +4970,8 @@
     "streets": [
      "Siskiyou Way",
      "Trinity Way"
-    ]
+    ],
+    "nodeId": 85159568
    }
   },
   {
@@ -4697,7 +4988,8 @@
      "Del Norte Way",
      "Laurel Lane",
      "Siskiyou Way"
-    ]
+    ],
+    "nodeId": 85159589
    }
   },
   {
@@ -4713,7 +5005,8 @@
     "streets": [
      "Joaquin Street",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 373692527
    }
   },
   {
@@ -4729,7 +5022,8 @@
     "streets": [
      "Joaquin Street",
      "Macken Avenue"
-    ]
+    ],
+    "nodeId": 85220963
    }
   },
   {
@@ -4745,7 +5039,8 @@
     "streets": [
      "Joaquin Street",
      "Lauff Avenue"
-    ]
+    ],
+    "nodeId": 85159597
    }
   },
   {
@@ -4761,7 +5056,8 @@
     "streets": [
      "Childs Avenue",
      "Joaquin Street"
-    ]
+    ],
+    "nodeId": 85159602
    }
   },
   {
@@ -4777,7 +5073,8 @@
     "streets": [
      "Joaquin Street",
      "Murphy Avenue"
-    ]
+    ],
+    "nodeId": 85159603
    }
   },
   {
@@ -4793,7 +5090,8 @@
     "streets": [
      "Joaquin Street",
      "Keller Avenue"
-    ]
+    ],
+    "nodeId": 85159605
    }
   },
   {
@@ -4809,7 +5107,8 @@
     "streets": [
      "Joaquin Street",
      "McNamara Avenue"
-    ]
+    ],
+    "nodeId": 85159606
    }
   },
   {
@@ -4825,7 +5124,8 @@
     "streets": [
      "Beech Street",
      "Joaquin Street"
-    ]
+    ],
+    "nodeId": 85159615
    }
   },
   {
@@ -4841,7 +5141,8 @@
     "streets": [
      "Inyo Court",
      "Inyo Street"
-    ]
+    ],
+    "nodeId": 11289633964
    }
   },
   {
@@ -4858,7 +5159,8 @@
      "Porteck Street",
      "Surf Drive",
      "View Drive"
-    ]
+    ],
+    "nodeId": 85159632
    }
   },
   {
@@ -4874,7 +5176,8 @@
     "streets": [
      "De Mars Drive",
      "Porteck Street"
-    ]
+    ],
+    "nodeId": 85159636
    }
   },
   {
@@ -4890,7 +5193,8 @@
     "streets": [
      "Porteck Street",
      "Vergine Drive"
-    ]
+    ],
+    "nodeId": 85159646
    }
   },
   {
@@ -4906,7 +5210,8 @@
     "streets": [
      "Hinckley Drive",
      "Porteck Street"
-    ]
+    ],
+    "nodeId": 85159648
    }
   },
   {
@@ -4922,7 +5227,8 @@
     "streets": [
      "Fisher Drive",
      "Porteck Street"
-    ]
+    ],
+    "nodeId": 85159657
    }
   },
   {
@@ -4938,7 +5244,8 @@
     "streets": [
      "Distelrath Drive",
      "Porteck Street"
-    ]
+    ],
+    "nodeId": 85159659
    }
   },
   {
@@ -4954,7 +5261,8 @@
     "streets": [
      "East Condor Street",
      "Gary Street"
-    ]
+    ],
+    "nodeId": 85159740
    }
   },
   {
@@ -4971,7 +5279,8 @@
      "A Street",
      "East Condor Street",
      "West Condor Street"
-    ]
+    ],
+    "nodeId": 85159756
    }
   },
   {
@@ -4987,7 +5296,8 @@
     "streets": [
      "US 101",
      "Wilodell Lane"
-    ]
+    ],
+    "nodeId": 84952142
    }
   },
   {
@@ -5003,7 +5313,8 @@
     "streets": [
      "Fern Lane",
      "Tanbark Lane"
-    ]
+    ],
+    "nodeId": 85159794
    }
   },
   {
@@ -5019,7 +5330,8 @@
     "streets": [
      "California Street",
      "East Coolidge Avenue"
-    ]
+    ],
+    "nodeId": 85160178
    }
   },
   {
@@ -5035,7 +5347,8 @@
     "streets": [
      "East Coolidge Avenue",
      "Oregon Street"
-    ]
+    ],
+    "nodeId": 85160179
    }
   },
   {
@@ -5052,7 +5365,8 @@
      "Crowville Street",
      "East Coolidge Avenue",
      "Marshall Street"
-    ]
+    ],
+    "nodeId": 85160181
    }
   },
   {
@@ -5068,7 +5382,8 @@
     "streets": [
      "East Coolidge Avenue",
      "Northcrest Drive;D3"
-    ]
+    ],
+    "nodeId": 85160200
    }
   },
   {
@@ -5084,7 +5399,8 @@
     "streets": [
      "East Coolidge Avenue",
      "Jordan Street"
-    ]
+    ],
+    "nodeId": 85160203
    }
   },
   {
@@ -5100,7 +5416,8 @@
     "streets": [
      "East Coolidge Avenue",
      "Harrold Street"
-    ]
+    ],
+    "nodeId": 85160205
    }
   },
   {
@@ -5116,7 +5433,8 @@
     "streets": [
      "Burtschell Street",
      "East Coolidge Avenue"
-    ]
+    ],
+    "nodeId": 85160207
    }
   },
   {
@@ -5133,7 +5451,8 @@
      "Cherrywood Court",
      "Potomac Court",
      "West Jefferson Street"
-    ]
+    ],
+    "nodeId": 85160489
    }
   },
   {
@@ -5149,7 +5468,8 @@
     "streets": [
      "Clausen Lane",
      "Michael Lane"
-    ]
+    ],
+    "nodeId": 85160500
    }
   },
   {
@@ -5165,7 +5485,8 @@
     "streets": [
      "Alder Lane",
      "Mc Beth Way"
-    ]
+    ],
+    "nodeId": 85160530
    }
   },
   {
@@ -5181,7 +5502,8 @@
     "streets": [
      "Hummingbird Lane",
      "Toad Road"
-    ]
+    ],
+    "nodeId": 85160540
    }
   },
   {
@@ -5197,7 +5519,8 @@
     "streets": [
      "Dogwood Lane",
      "Toad Road"
-    ]
+    ],
+    "nodeId": 85160549
    }
   },
   {
@@ -5213,7 +5536,8 @@
     "streets": [
      "Anzio Street",
      "West Condor Street"
-    ]
+    ],
+    "nodeId": 85161243
    }
   },
   {
@@ -5229,7 +5553,8 @@
     "streets": [
      "Forrest River Lane",
      "Gasquet Flat Road"
-    ]
+    ],
+    "nodeId": 85161250
    }
   },
   {
@@ -5245,7 +5570,8 @@
     "streets": [
      "South Pebble Beach Drive",
      "Taylor Street"
-    ]
+    ],
+    "nodeId": 6680695825
    }
   },
   {
@@ -5262,7 +5588,8 @@
      "Annandale Court",
      "Fairfax Court",
      "Madison Avenue"
-    ]
+    ],
+    "nodeId": 85161269
    }
   },
   {
@@ -5278,7 +5605,8 @@
     "streets": [
      "Freda Street",
      "Irene Lane"
-    ]
+    ],
+    "nodeId": 85161275
    }
   },
   {
@@ -5294,7 +5622,8 @@
     "streets": [
      "Freda Street",
      "James Road"
-    ]
+    ],
+    "nodeId": 85161277
    }
   },
   {
@@ -5310,7 +5639,8 @@
     "streets": [
      "Eric Street",
      "Freda Street"
-    ]
+    ],
+    "nodeId": 85161281
    }
   },
   {
@@ -5326,7 +5656,8 @@
     "streets": [
      "Surfsound Court",
      "Whipple Street"
-    ]
+    ],
+    "nodeId": 85161288
    }
   },
   {
@@ -5342,7 +5673,8 @@
     "streets": [
      "Ozzie Street",
      "Whipple Street"
-    ]
+    ],
+    "nodeId": 85161292
    }
   },
   {
@@ -5358,7 +5690,8 @@
     "streets": [
      "Perch Street",
      "Whipple Street"
-    ]
+    ],
+    "nodeId": 85161294
    }
   },
   {
@@ -5374,7 +5707,8 @@
     "streets": [
      "Blackwell Lane",
      "Gale Way"
-    ]
+    ],
+    "nodeId": 85161299
    }
   },
   {
@@ -5390,7 +5724,8 @@
     "streets": [
      "El Dorado Street",
      "West Harding Avenue"
-    ]
+    ],
+    "nodeId": 373692599
    }
   },
   {
@@ -5406,7 +5741,8 @@
     "streets": [
      "Harding Avenue",
      "West Harding Avenue"
-    ]
+    ],
+    "nodeId": 373692592
    }
   },
   {
@@ -5422,7 +5758,8 @@
     "streets": [
      "El Monte Road",
      "West Washington Boulevard;D1"
-    ]
+    ],
+    "nodeId": 373692608
    }
   },
   {
@@ -5438,7 +5775,8 @@
     "streets": [
      "El Monte Road",
      "West Adams Avenue"
-    ]
+    ],
+    "nodeId": 85161328
    }
   },
   {
@@ -5454,7 +5792,8 @@
     "streets": [
      "El Monte Road",
      "West Jefferson Street"
-    ]
+    ],
+    "nodeId": 85161330
    }
   },
   {
@@ -5470,7 +5809,8 @@
     "streets": [
      "El Monte Road",
      "Madison Avenue"
-    ]
+    ],
+    "nodeId": 85161332
    }
   },
   {
@@ -5486,7 +5826,8 @@
     "streets": [
      "Gasquet-Orleans Road;FR 15N01",
      "Red Mountain Road;FR 14N01"
-    ]
+    ],
+    "nodeId": 85162079
    }
   },
   {
@@ -5502,7 +5843,8 @@
     "streets": [
      "China Creek Road",
      "Lakeside Loop"
-    ]
+    ],
+    "nodeId": 85162111
    }
   },
   {
@@ -5518,7 +5860,8 @@
     "streets": [
      "Candlelight Road",
      "Lake Earl Drive;D3"
-    ]
+    ],
+    "nodeId": 85163572
    }
   },
   {
@@ -5534,7 +5877,8 @@
     "streets": [
      "Leland Drive",
      "Turnbull Lane"
-    ]
+    ],
+    "nodeId": 85163615
    }
   },
   {
@@ -5550,7 +5894,8 @@
     "streets": [
      "Front Street",
      "G Street"
-    ]
+    ],
+    "nodeId": 85163621
    }
   },
   {
@@ -5566,7 +5911,8 @@
     "streets": [
      "2nd Street",
      "G Street"
-    ]
+    ],
+    "nodeId": 85163625
    }
   },
   {
@@ -5582,7 +5928,8 @@
     "streets": [
      "3rd Street",
      "G Street"
-    ]
+    ],
+    "nodeId": 85163627
    }
   },
   {
@@ -5598,7 +5945,8 @@
     "streets": [
      "4th Street",
      "G Street"
-    ]
+    ],
+    "nodeId": 85163629
    }
   },
   {
@@ -5614,7 +5962,8 @@
     "streets": [
      "5th Street",
      "G Street"
-    ]
+    ],
+    "nodeId": 85163630
    }
   },
   {
@@ -5630,7 +5979,8 @@
     "streets": [
      "6th Street",
      "G Street"
-    ]
+    ],
+    "nodeId": 85163632
    }
   },
   {
@@ -5646,7 +5996,8 @@
     "streets": [
      "Fisher Drive",
      "Marish Street"
-    ]
+    ],
+    "nodeId": 85103046
    }
   },
   {
@@ -5662,7 +6013,8 @@
     "streets": [
      "Fisher Drive",
      "Martin Street"
-    ]
+    ],
+    "nodeId": 85163654
    }
   },
   {
@@ -5678,7 +6030,8 @@
     "streets": [
      "Fisher Drive",
      "Nemeth Street"
-    ]
+    ],
+    "nodeId": 85163658
    }
   },
   {
@@ -5694,7 +6047,8 @@
     "streets": [
      "Fisher Drive",
      "Valentine Street"
-    ]
+    ],
+    "nodeId": 85163662
    }
   },
   {
@@ -5710,7 +6064,8 @@
     "streets": [
      "Fisher Drive",
      "Placone Street"
-    ]
+    ],
+    "nodeId": 85163664
    }
   },
   {
@@ -5726,7 +6081,8 @@
     "streets": [
      "Breakwater Drive",
      "Whaleview Court"
-    ]
+    ],
+    "nodeId": 85163671
    }
   },
   {
@@ -5743,7 +6099,8 @@
      "Downing Street",
      "Railroad Avenue",
      "Trillium Lane"
-    ]
+    ],
+    "nodeId": 85164592
    }
   },
   {
@@ -5759,7 +6116,8 @@
     "streets": [
      "Countess Lane",
      "Trillium Lane"
-    ]
+    ],
+    "nodeId": 85164602
    }
   },
   {
@@ -5776,7 +6134,8 @@
      "4th Street",
      "A Street",
      "West 4th Street"
-    ]
+    ],
+    "nodeId": 85164609
    }
   },
   {
@@ -5792,7 +6151,8 @@
     "streets": [
      "4th Street",
      "B Street"
-    ]
+    ],
+    "nodeId": 85164611
    }
   },
   {
@@ -5808,7 +6168,8 @@
     "streets": [
      "4th Street",
      "C Street"
-    ]
+    ],
+    "nodeId": 85164613
    }
   },
   {
@@ -5824,7 +6185,8 @@
     "streets": [
      "4th Street",
      "E Street"
-    ]
+    ],
+    "nodeId": 85164615
    }
   },
   {
@@ -5840,7 +6202,8 @@
     "streets": [
      "4th Street",
      "F Street"
-    ]
+    ],
+    "nodeId": 85164617
    }
   },
   {
@@ -5856,7 +6219,8 @@
     "streets": [
      "4th Street",
      "H Street"
-    ]
+    ],
+    "nodeId": 85164619
    }
   },
   {
@@ -5872,7 +6236,8 @@
     "streets": [
      "4th Street",
      "I Street"
-    ]
+    ],
+    "nodeId": 85164621
    }
   },
   {
@@ -5888,7 +6253,8 @@
     "streets": [
      "4th Street",
      "J Street"
-    ]
+    ],
+    "nodeId": 85164624
    }
   },
   {
@@ -5904,7 +6270,8 @@
     "streets": [
      "4th Street",
      "K Street"
-    ]
+    ],
+    "nodeId": 85164626
    }
   },
   {
@@ -5921,7 +6288,8 @@
      "4th Street",
      "Beckstead Avenue",
      "Highland Avenue"
-    ]
+    ],
+    "nodeId": 85164634
    }
   },
   {
@@ -5937,7 +6305,8 @@
     "streets": [
      "4th Street",
      "North Bradford Street"
-    ]
+    ],
+    "nodeId": 85164639
    }
   },
   {
@@ -5953,7 +6322,8 @@
     "streets": [
      "Harding Avenue",
      "Lincoln Court"
-    ]
+    ],
+    "nodeId": 85165398
    }
   },
   {
@@ -5969,7 +6339,8 @@
     "streets": [
      "Blackwell Lane",
      "Trevor Way"
-    ]
+    ],
+    "nodeId": 85165405
    }
   },
   {
@@ -5985,7 +6356,8 @@
     "streets": [
      "El Dorado Street",
      "Reddy Avenue"
-    ]
+    ],
+    "nodeId": 85165435
    }
   },
   {
@@ -6001,7 +6373,8 @@
     "streets": [
      "El Dorado Street",
      "McNamara Avenue"
-    ]
+    ],
+    "nodeId": 85165436
    }
   },
   {
@@ -6017,7 +6390,8 @@
     "streets": [
      "El Dorado Street",
      "Keller Avenue"
-    ]
+    ],
+    "nodeId": 85165437
    }
   },
   {
@@ -6033,7 +6407,8 @@
     "streets": [
      "El Dorado Street",
      "Murphy Avenue"
-    ]
+    ],
+    "nodeId": 85165438
    }
   },
   {
@@ -6049,7 +6424,8 @@
     "streets": [
      "Childs Avenue",
      "El Dorado Street"
-    ]
+    ],
+    "nodeId": 85165439
    }
   },
   {
@@ -6065,7 +6441,8 @@
     "streets": [
      "Cooper Avenue",
      "El Dorado Street"
-    ]
+    ],
+    "nodeId": 85165440
    }
   },
   {
@@ -6081,7 +6458,8 @@
     "streets": [
      "El Dorado Street",
      "Lauff Avenue"
-    ]
+    ],
+    "nodeId": 85165441
    }
   },
   {
@@ -6097,7 +6475,8 @@
     "streets": [
      "El Dorado Street",
      "Macken Avenue"
-    ]
+    ],
+    "nodeId": 85165443
    }
   },
   {
@@ -6114,7 +6493,8 @@
      "El Dorado Street",
      "Margie Street",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 373692536
    }
   },
   {
@@ -6131,7 +6511,8 @@
      "Cooper Avenue",
      "East Cooper Avenue",
      "Meridian Street"
-    ]
+    ],
+    "nodeId": 85165453
    }
   },
   {
@@ -6147,7 +6528,8 @@
     "streets": [
      "Amador Street",
      "Cooper Avenue"
-    ]
+    ],
+    "nodeId": 85165459
    }
   },
   {
@@ -6163,7 +6545,8 @@
     "streets": [
      "Butte Street",
      "Cooper Avenue"
-    ]
+    ],
+    "nodeId": 85165462
    }
   },
   {
@@ -6179,7 +6562,8 @@
     "streets": [
      "Calaveras Street",
      "Cooper Avenue"
-    ]
+    ],
+    "nodeId": 85165464
    }
   },
   {
@@ -6195,7 +6579,8 @@
     "streets": [
      "Cooper Avenue",
      "Del Norte Street"
-    ]
+    ],
+    "nodeId": 85165466
    }
   },
   {
@@ -6211,7 +6596,8 @@
     "streets": [
      "Cooper Avenue",
      "Fresno Street"
-    ]
+    ],
+    "nodeId": 85165468
    }
   },
   {
@@ -6227,7 +6613,8 @@
     "streets": [
      "Cooper Avenue",
      "Glenn Street"
-    ]
+    ],
+    "nodeId": 85165469
    }
   },
   {
@@ -6243,7 +6630,8 @@
     "streets": [
      "Cooper Avenue",
      "Humboldt Street"
-    ]
+    ],
+    "nodeId": 85165471
    }
   },
   {
@@ -6259,7 +6647,8 @@
     "streets": [
      "Cooper Avenue",
      "Inyo Street"
-    ]
+    ],
+    "nodeId": 85165472
    }
   },
   {
@@ -6275,7 +6664,8 @@
     "streets": [
      "Monument Drive",
      "Shady Lane"
-    ]
+    ],
+    "nodeId": 84998026
    }
   },
   {
@@ -6291,7 +6681,8 @@
     "streets": [
      "Monument Drive",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85165500
    }
   },
   {
@@ -6307,7 +6698,8 @@
     "streets": [
      "Cedar Street",
      "South Fork Road;CR 427"
-    ]
+    ],
+    "nodeId": 85153358
    }
   },
   {
@@ -6323,7 +6715,8 @@
     "streets": [
      "Cedar Street",
      "Redwood Road"
-    ]
+    ],
+    "nodeId": 85165533
    }
   },
   {
@@ -6339,7 +6732,8 @@
     "streets": [
      "Kim Way",
      "Kings Valley Road"
-    ]
+    ],
+    "nodeId": 85165539
    }
   },
   {
@@ -6355,7 +6749,8 @@
     "streets": [
      "Kim Way",
      "Stephanie Lane"
-    ]
+    ],
+    "nodeId": 85165564
    }
   },
   {
@@ -6371,7 +6766,8 @@
     "streets": [
      "Chelsey Lane",
      "Kim Way"
-    ]
+    ],
+    "nodeId": 85165571
    }
   },
   {
@@ -6387,7 +6783,8 @@
     "streets": [
      "Claylis Road",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85165588
    }
   },
   {
@@ -6403,7 +6800,8 @@
     "streets": [
      "Breen Street",
      "East Hoover Avenue"
-    ]
+    ],
+    "nodeId": 85165998
    }
   },
   {
@@ -6420,7 +6818,8 @@
      "Breen Street",
      "East Washington Boulevard;D1",
      "West Washington Boulevard;D1"
-    ]
+    ],
+    "nodeId": 373692612
    }
   },
   {
@@ -6436,7 +6835,8 @@
     "streets": [
      "Breen Street",
      "Harding Avenue"
-    ]
+    ],
+    "nodeId": 85166010
    }
   },
   {
@@ -6452,7 +6852,8 @@
     "streets": [
      "9th Street",
      "B Street"
-    ]
+    ],
+    "nodeId": 85167039
    }
   },
   {
@@ -6468,7 +6869,8 @@
     "streets": [
      "9th Street",
      "C Street"
-    ]
+    ],
+    "nodeId": 85167041
    }
   },
   {
@@ -6484,7 +6886,8 @@
     "streets": [
      "9th Street",
      "E Street"
-    ]
+    ],
+    "nodeId": 85167043
    }
   },
   {
@@ -6500,7 +6903,8 @@
     "streets": [
      "9th Street",
      "F Street"
-    ]
+    ],
+    "nodeId": 85167045
    }
   },
   {
@@ -6516,7 +6920,8 @@
     "streets": [
      "9th Street",
      "G Street"
-    ]
+    ],
+    "nodeId": 85163638
    }
   },
   {
@@ -6532,7 +6937,8 @@
     "streets": [
      "9th Street",
      "H Street"
-    ]
+    ],
+    "nodeId": 85167047
    }
   },
   {
@@ -6548,7 +6954,8 @@
     "streets": [
      "9th Street",
      "I Street"
-    ]
+    ],
+    "nodeId": 85167049
    }
   },
   {
@@ -6564,7 +6971,8 @@
     "streets": [
      "9th Street",
      "J Street"
-    ]
+    ],
+    "nodeId": 85167051
    }
   },
   {
@@ -6580,7 +6988,8 @@
     "streets": [
      "9th Street",
      "K Street"
-    ]
+    ],
+    "nodeId": 85167052
    }
   },
   {
@@ -6597,7 +7006,8 @@
      "9th Street",
      "L Street;US 101",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 84952408
    }
   },
   {
@@ -6614,7 +7024,8 @@
      "9th Street",
      "M Street;US 101",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 84952280
    }
   },
   {
@@ -6631,7 +7042,8 @@
      "Douglas Park Drive",
      "Douglas Park Drive;CR 417",
      "Neighbors Lane"
-    ]
+    ],
+    "nodeId": 85167094
    }
   },
   {
@@ -6647,7 +7059,8 @@
     "streets": [
      "Wendell Street",
      "West 3rd Street"
-    ]
+    ],
+    "nodeId": 85167204
    }
   },
   {
@@ -6663,7 +7076,8 @@
     "streets": [
      "Wendell Street",
      "West 4th Street"
-    ]
+    ],
+    "nodeId": 85167207
    }
   },
   {
@@ -6679,7 +7093,8 @@
     "streets": [
      "Wendell Street",
      "West 6th Street"
-    ]
+    ],
+    "nodeId": 85167209
    }
   },
   {
@@ -6695,7 +7110,8 @@
     "streets": [
      "Wendell Street",
      "West 7th Street"
-    ]
+    ],
+    "nodeId": 85167211
    }
   },
   {
@@ -6711,7 +7127,8 @@
     "streets": [
      "Wendell Street",
      "West 8th Street"
-    ]
+    ],
+    "nodeId": 85167213
    }
   },
   {
@@ -6727,7 +7144,8 @@
     "streets": [
      "Del Ponte Drive",
      "Silco Drive"
-    ]
+    ],
+    "nodeId": 85167240
    }
   },
   {
@@ -6743,7 +7161,8 @@
     "streets": [
      "Muncy Lane",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85167258
    }
   },
   {
@@ -6759,7 +7178,8 @@
     "streets": [
      "Muncey Lane",
      "Muncy Lane"
-    ]
+    ],
+    "nodeId": 85167265
    }
   },
   {
@@ -6775,7 +7195,8 @@
     "streets": [
      "Blackwell Lane",
      "Burcham Lane"
-    ]
+    ],
+    "nodeId": 85167289
    }
   },
   {
@@ -6791,7 +7212,8 @@
     "streets": [
      "Lonesome Road",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 85151868
    }
   },
   {
@@ -6807,7 +7229,8 @@
     "streets": [
      "Boomer Lane",
      "Mud Hen Village Road"
-    ]
+    ],
+    "nodeId": 85167702
    }
   },
   {
@@ -6823,7 +7246,8 @@
     "streets": [
      "Lower Lake Road",
      "Mud Hen Village Road"
-    ]
+    ],
+    "nodeId": 85167769
    }
   },
   {
@@ -6840,7 +7264,8 @@
      "Prince Island Court",
      "Prince Island Drive",
      "South Indian Road"
-    ]
+    ],
+    "nodeId": 85167800
    }
   },
   {
@@ -6856,7 +7281,8 @@
     "streets": [
      "Movie Lane",
      "Redwood Lane"
-    ]
+    ],
+    "nodeId": 85167820
    }
   },
   {
@@ -6872,7 +7298,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Redwood Lane"
-    ]
+    ],
+    "nodeId": 85167824
    }
   },
   {
@@ -6888,7 +7315,8 @@
     "streets": [
      "Haight Avenue",
      "Third Street"
-    ]
+    ],
+    "nodeId": 85167857
    }
   },
   {
@@ -6904,7 +7332,8 @@
     "streets": [
      "Haight Avenue",
      "Highland Avenue"
-    ]
+    ],
+    "nodeId": 85167858
    }
   },
   {
@@ -6920,7 +7349,8 @@
     "streets": [
      "Haight Avenue",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952387
    }
   },
   {
@@ -6936,7 +7366,8 @@
     "streets": [
      "Low Divide Road;CR 305",
      "North Bank Road;CA 197"
-    ]
+    ],
+    "nodeId": 85167859
    }
   },
   {
@@ -6952,7 +7383,8 @@
     "streets": [
      "Low Divide Road;CR 305",
      "Ruiz Canyon Drive"
-    ]
+    ],
+    "nodeId": 85168222
    }
   },
   {
@@ -6968,7 +7400,8 @@
     "streets": [
      "Low Divide Road;CR 305",
      "Sultan Creek Road"
-    ]
+    ],
+    "nodeId": 85142441
    }
   },
   {
@@ -6984,7 +7417,8 @@
     "streets": [
      "Low Divide Road;CR 305",
      "Rowdy Creek Road"
-    ]
+    ],
+    "nodeId": 85169654
    }
   },
   {
@@ -7000,7 +7434,8 @@
     "streets": [
      "Oak Street",
      "South Fork Road;CR 427"
-    ]
+    ],
+    "nodeId": 85153342
    }
   },
   {
@@ -7016,7 +7451,8 @@
     "streets": [
      "Blkvlyx Road",
      "Lake Earl Drive;D3"
-    ]
+    ],
+    "nodeId": 85172254
    }
   },
   {
@@ -7032,7 +7468,8 @@
     "streets": [
      "Doran Court",
      "Gainard Street"
-    ]
+    ],
+    "nodeId": 85172263
    }
   },
   {
@@ -7048,7 +7485,8 @@
     "streets": [
      "Gainard Street",
      "Linnet Court"
-    ]
+    ],
+    "nodeId": 85172265
    }
   },
   {
@@ -7064,7 +7502,8 @@
     "streets": [
      "Gainard Street",
      "West Condor Street"
-    ]
+    ],
+    "nodeId": 85172267
    }
   },
   {
@@ -7080,7 +7519,8 @@
     "streets": [
      "Gainard Street",
      "West Essex Street"
-    ]
+    ],
+    "nodeId": 85172280
    }
   },
   {
@@ -7096,7 +7536,8 @@
     "streets": [
      "Gainard Street",
      "West Indra Street"
-    ]
+    ],
+    "nodeId": 85172282
    }
   },
   {
@@ -7112,7 +7553,8 @@
     "streets": [
      "Gainard Street",
      "Jackie Street"
-    ]
+    ],
+    "nodeId": 85172284
    }
   },
   {
@@ -7128,7 +7570,8 @@
     "streets": [
      "Elk Valley Road;D2",
      "Ranch Creek Road"
-    ]
+    ],
+    "nodeId": 85172292
    }
   },
   {
@@ -7144,7 +7587,8 @@
     "streets": [
      "Burke Lane",
      "Ronrene Way"
-    ]
+    ],
+    "nodeId": 85172339
    }
   },
   {
@@ -7160,7 +7604,8 @@
     "streets": [
      "Kristian Lane",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952135
    }
   },
   {
@@ -7176,7 +7621,8 @@
     "streets": [
      "Longridge Road",
      "Sunkist Lane"
-    ]
+    ],
+    "nodeId": 85174227
    }
   },
   {
@@ -7192,7 +7638,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Mc Kay Lane"
-    ]
+    ],
+    "nodeId": 85174241
    }
   },
   {
@@ -7208,7 +7655,8 @@
     "streets": [
      "East Lauff Avenue",
      "K Street"
-    ]
+    ],
+    "nodeId": 85174260
    }
   },
   {
@@ -7224,7 +7672,8 @@
     "streets": [
      "East Lauff Avenue",
      "J Street"
-    ]
+    ],
+    "nodeId": 85174262
    }
   },
   {
@@ -7241,7 +7690,8 @@
      "East Lauff Avenue",
      "Lauff Avenue",
      "Meridian Street"
-    ]
+    ],
+    "nodeId": 85174264
    }
   },
   {
@@ -7257,7 +7707,8 @@
     "streets": [
      "Bob-White Lane",
      "Elk Valley Cross Road;D2"
-    ]
+    ],
+    "nodeId": 85174266
    }
   },
   {
@@ -7273,7 +7724,8 @@
     "streets": [
      "Bethesda Way",
      "Lexington Court"
-    ]
+    ],
+    "nodeId": 85174284
    }
   },
   {
@@ -7289,7 +7741,8 @@
     "streets": [
      "Dakota Street",
      "Union Street"
-    ]
+    ],
+    "nodeId": 85174290
    }
   },
   {
@@ -7305,7 +7758,8 @@
     "streets": [
      "Elk Valley Road;D2",
      "Iowa Street"
-    ]
+    ],
+    "nodeId": 85174300
    }
   },
   {
@@ -7321,7 +7775,8 @@
     "streets": [
      "Iowa Street",
      "Union Street"
-    ]
+    ],
+    "nodeId": 85174310
    }
   },
   {
@@ -7337,7 +7792,8 @@
     "streets": [
      "Brown Road",
      "Joseph Lane"
-    ]
+    ],
+    "nodeId": 85174315
    }
   },
   {
@@ -7353,7 +7809,8 @@
     "streets": [
      "Burtschell Street",
      "East Harding Avenue"
-    ]
+    ],
+    "nodeId": 85174326
    }
   },
   {
@@ -7369,7 +7826,8 @@
     "streets": [
      "East Harding Avenue",
      "Harrold Street"
-    ]
+    ],
+    "nodeId": 373692628
    }
   },
   {
@@ -7385,7 +7843,8 @@
     "streets": [
      "East Harding Avenue",
      "Jordan Street"
-    ]
+    ],
+    "nodeId": 373692626
    }
   },
   {
@@ -7402,7 +7861,8 @@
      "East Harding Avenue",
      "Harding Avenue",
      "Northcrest Drive;D3"
-    ]
+    ],
+    "nodeId": 85174337
    }
   },
   {
@@ -7418,7 +7878,8 @@
     "streets": [
      "Pine Grove Road",
      "Railroad Avenue"
-    ]
+    ],
+    "nodeId": 85174661
    }
   },
   {
@@ -7434,7 +7895,8 @@
     "streets": [
      "Cummins Lane",
      "Pine Grove Road"
-    ]
+    ],
+    "nodeId": 85174666
    }
   },
   {
@@ -7450,7 +7912,8 @@
     "streets": [
      "Northcrest Drive;D3",
      "Pine Grove Road"
-    ]
+    ],
+    "nodeId": 85174704
    }
   },
   {
@@ -7466,7 +7929,8 @@
     "streets": [
      "Duncan Road",
      "Silco Drive"
-    ]
+    ],
+    "nodeId": 85174709
    }
   },
   {
@@ -7482,7 +7946,8 @@
     "streets": [
      "Fizer Lane",
      "Patrick J Murphy Memorial Drive"
-    ]
+    ],
+    "nodeId": 85051417
    }
   },
   {
@@ -7499,7 +7964,8 @@
      "Gensaw Road",
      "Patrick J Murphy Memorial Drive",
      "Requa Road"
-    ]
+    ],
+    "nodeId": 85174767
    }
   },
   {
@@ -7515,7 +7981,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "West Alder Road"
-    ]
+    ],
+    "nodeId": 85174862
    }
   },
   {
@@ -7531,7 +7998,8 @@
     "streets": [
      "English Lane",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85174866
    }
   },
   {
@@ -7547,7 +8015,8 @@
     "streets": [
      "English Lane",
      "Prince Road"
-    ]
+    ],
+    "nodeId": 85174880
    }
   },
   {
@@ -7563,7 +8032,8 @@
     "streets": [
      "Distelrath Drive",
      "Marish Street"
-    ]
+    ],
+    "nodeId": 85103055
    }
   },
   {
@@ -7579,7 +8049,8 @@
     "streets": [
      "Hinckley Drive",
      "Marish Street"
-    ]
+    ],
+    "nodeId": 85103059
    }
   },
   {
@@ -7595,7 +8066,8 @@
     "streets": [
      "Alder Camp Road",
      "Chapman Street"
-    ]
+    ],
+    "nodeId": 84977338
    }
   },
   {
@@ -7611,7 +8083,8 @@
     "streets": [
      "Forks Placer Mine Road",
      "Gasquet Flat Road"
-    ]
+    ],
+    "nodeId": 85010569
    }
   },
   {
@@ -7627,7 +8100,8 @@
     "streets": [
      "Barregi Lane",
      "South Bank Road"
-    ]
+    ],
+    "nodeId": 85175090
    }
   },
   {
@@ -7643,7 +8117,8 @@
     "streets": [
      "Hillside Drive",
      "South Bank Road"
-    ]
+    ],
+    "nodeId": 85175098
    }
   },
   {
@@ -7659,7 +8134,8 @@
     "streets": [
      "Meadow Drive",
      "South Bank Road"
-    ]
+    ],
+    "nodeId": 85175100
    }
   },
   {
@@ -7675,7 +8151,8 @@
     "streets": [
      "South Bank Road",
      "Terrace Drive"
-    ]
+    ],
+    "nodeId": 85175105
    }
   },
   {
@@ -7691,7 +8168,8 @@
     "streets": [
      "Rellim Road",
      "South Bank Road"
-    ]
+    ],
+    "nodeId": 85175136
    }
   },
   {
@@ -7707,7 +8185,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "South Bank Road"
-    ]
+    ],
+    "nodeId": 85175220
    }
   },
   {
@@ -7723,7 +8202,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Staley Lane"
-    ]
+    ],
+    "nodeId": 85175238
    }
   },
   {
@@ -7739,7 +8219,8 @@
     "streets": [
      "Maranda Lane",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952893
    }
   },
   {
@@ -7755,7 +8236,8 @@
     "streets": [
      "Gahart Lane",
      "Kings Valley Road"
-    ]
+    ],
+    "nodeId": 85175519
    }
   },
   {
@@ -7772,7 +8254,8 @@
      "L Street;US 101",
      "M Street;US 101",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 85151590
    }
   },
   {
@@ -7788,7 +8271,8 @@
     "streets": [
      "Front Street",
      "M Street;US 101"
-    ]
+    ],
+    "nodeId": 85175567
    }
   },
   {
@@ -7804,7 +8288,8 @@
     "streets": [
      "Boyds Way",
      "Serenity Lane"
-    ]
+    ],
+    "nodeId": 85175580
    }
   },
   {
@@ -7820,7 +8305,8 @@
     "streets": [
      "Lafayette Way",
      "West Washington Boulevard;D1"
-    ]
+    ],
+    "nodeId": 373692610
    }
   },
   {
@@ -7836,7 +8322,8 @@
     "streets": [
      "Hill Road",
      "Redwood Road"
-    ]
+    ],
+    "nodeId": 85176354
    }
   },
   {
@@ -7852,7 +8339,8 @@
     "streets": [
      "Hill Road",
      "Will Road"
-    ]
+    ],
+    "nodeId": 85176356
    }
   },
   {
@@ -7868,7 +8356,8 @@
     "streets": [
      "Cable Lane",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85176478
    }
   },
   {
@@ -7884,7 +8373,8 @@
     "streets": [
      "Esta Lane",
      "Lakeview Road"
-    ]
+    ],
+    "nodeId": 85176486
    }
   },
   {
@@ -7900,7 +8390,8 @@
     "streets": [
      "Del Monte Street",
      "South Pebble Beach Drive"
-    ]
+    ],
+    "nodeId": 85176490
    }
   },
   {
@@ -7916,7 +8407,8 @@
     "streets": [
      "Del Monte Street",
      "Lipowitz Avenue"
-    ]
+    ],
+    "nodeId": 85176492
    }
   },
   {
@@ -7932,7 +8424,8 @@
     "streets": [
      "Del Monte Street",
      "Stanton Avenue"
-    ]
+    ],
+    "nodeId": 85176494
    }
   },
   {
@@ -7948,7 +8441,8 @@
     "streets": [
      "Del Monte Street",
      "Seville Avenue"
-    ]
+    ],
+    "nodeId": 85176499
    }
   },
   {
@@ -7964,7 +8458,8 @@
     "streets": [
      "Del Monte Street",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 85176501
    }
   },
   {
@@ -7981,7 +8476,8 @@
      "Hiouchi Drive",
      "Redwood Highway;US 199",
      "Thimbleberry Lane"
-    ]
+    ],
+    "nodeId": 85176505
    }
   },
   {
@@ -7997,7 +8493,8 @@
     "streets": [
      "Hiouchi Drive",
      "Jedediah Way"
-    ]
+    ],
+    "nodeId": 85176507
    }
   },
   {
@@ -8013,7 +8510,8 @@
     "streets": [
      "Blake Road",
      "Trobitz Road"
-    ]
+    ],
+    "nodeId": 85176609
    }
   },
   {
@@ -8029,7 +8527,8 @@
     "streets": [
      "Knopki Creek Road;FR 18N07",
      "Obrien-Elk Valley Road;FR 18N02"
-    ]
+    ],
+    "nodeId": 85067179
    }
   },
   {
@@ -8045,7 +8544,8 @@
     "streets": [
      "Knopki Creek Road;FR 18N07",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85179721
    }
   },
   {
@@ -8062,7 +8562,8 @@
      "Chinook Street",
      "James Street",
      "Ozzie Street"
-    ]
+    ],
+    "nodeId": 85179786
    }
   },
   {
@@ -8078,7 +8579,8 @@
     "streets": [
      "Redwood Highway;US 199",
      "Sunkist Lane"
-    ]
+    ],
+    "nodeId": 85179794
    }
   },
   {
@@ -8094,7 +8596,8 @@
     "streets": [
      "Myrtle Lane",
      "Railroad Avenue"
-    ]
+    ],
+    "nodeId": 85179821
    }
   },
   {
@@ -8110,7 +8613,8 @@
     "streets": [
      "Kelly Road",
      "Myrtle Lane"
-    ]
+    ],
+    "nodeId": 85179839
    }
   },
   {
@@ -8126,7 +8630,8 @@
     "streets": [
      "Downing Court",
      "Downing Street"
-    ]
+    ],
+    "nodeId": 85179860
    }
   },
   {
@@ -8143,7 +8648,8 @@
      "Mouth of Klamath Road",
      "Requa Road",
      "Requa Road;D7"
-    ]
+    ],
+    "nodeId": 85091860
    }
   },
   {
@@ -8159,7 +8665,8 @@
     "streets": [
      "Vergine Drive",
      "View Drive"
-    ]
+    ],
+    "nodeId": 85181807
    }
   },
   {
@@ -8176,7 +8683,8 @@
      "Arrowhead Drive",
      "Gavin Road",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952153
    }
   },
   {
@@ -8192,7 +8700,8 @@
     "streets": [
      "Arrowhead Drive",
      "Flint Lane"
-    ]
+    ],
+    "nodeId": 85181812
    }
   },
   {
@@ -8208,7 +8717,8 @@
     "streets": [
      "Arrowhead Drive",
      "Bow Lane"
-    ]
+    ],
+    "nodeId": 85181816
    }
   },
   {
@@ -8224,7 +8734,8 @@
     "streets": [
      "Darby Street",
      "Iler Street"
-    ]
+    ],
+    "nodeId": 85146446
    }
   },
   {
@@ -8240,7 +8751,8 @@
     "streets": [
      "Duncan Road",
      "Hunter Creek Road"
-    ]
+    ],
+    "nodeId": 85181994
    }
   },
   {
@@ -8256,7 +8768,8 @@
     "streets": [
      "Courtney Lane",
      "Marie Lane"
-    ]
+    ],
+    "nodeId": 85182398
    }
   },
   {
@@ -8272,7 +8785,8 @@
     "streets": [
      "Endert Street",
      "Maher Avenue"
-    ]
+    ],
+    "nodeId": 85182412
    }
   },
   {
@@ -8288,7 +8802,8 @@
     "streets": [
      "Humboldt Road",
      "Maher Avenue"
-    ]
+    ],
+    "nodeId": 85182413
    }
   },
   {
@@ -8304,7 +8819,8 @@
     "streets": [
      "Elk Valley Road;D2",
      "Steeps Lane"
-    ]
+    ],
+    "nodeId": 85138628
    }
   },
   {
@@ -8320,7 +8836,8 @@
     "streets": [
      "Heacock Lane",
      "Steeps Lane"
-    ]
+    ],
+    "nodeId": 85182418
    }
   },
   {
@@ -8336,7 +8853,8 @@
     "streets": [
      "James Road",
      "Karen Way"
-    ]
+    ],
+    "nodeId": 85182427
    }
   },
   {
@@ -8352,7 +8870,8 @@
     "streets": [
      "Eric Street",
      "James Road"
-    ]
+    ],
+    "nodeId": 85182435
    }
   },
   {
@@ -8368,7 +8887,8 @@
     "streets": [
      "James Road",
      "Lakeview Road"
-    ]
+    ],
+    "nodeId": 85182441
    }
   },
   {
@@ -8384,7 +8904,8 @@
     "streets": [
      "Hughes Road",
      "Requa Road;D7"
-    ]
+    ],
+    "nodeId": 85181759
    }
   },
   {
@@ -8400,7 +8921,8 @@
     "streets": [
      "Parkway Drive",
      "Tanglewood Lane"
-    ]
+    ],
+    "nodeId": 85182504
    }
   },
   {
@@ -8416,7 +8938,8 @@
     "streets": [
      "Langlois Drive",
      "Tanglewood Lane"
-    ]
+    ],
+    "nodeId": 85182510
    }
   },
   {
@@ -8432,7 +8955,8 @@
     "streets": [
      "Elk Valley Road;D2",
      "South Bend Avenue"
-    ]
+    ],
+    "nodeId": 85182515
    }
   },
   {
@@ -8448,7 +8972,8 @@
     "streets": [
      "Burtschell Place",
      "Burtschell Street"
-    ]
+    ],
+    "nodeId": 85182531
    }
   },
   {
@@ -8464,7 +8989,8 @@
     "streets": [
      "Raccoon Court",
      "Wheeler Lane"
-    ]
+    ],
+    "nodeId": 85182550
    }
   },
   {
@@ -8480,7 +9006,8 @@
     "streets": [
      "Miracle Lane",
      "Railroad Avenue"
-    ]
+    ],
+    "nodeId": 85182561
    }
   },
   {
@@ -8496,7 +9023,8 @@
     "streets": [
      "Malaney Drive",
      "Washington Boulevard"
-    ]
+    ],
+    "nodeId": 85182574
    }
   },
   {
@@ -8514,7 +9042,8 @@
      "North Pebble Beach Drive",
      "Radio Road",
      "West Washington Boulevard;D1"
-    ]
+    ],
+    "nodeId": 375780353
    }
   },
   {
@@ -8531,7 +9060,8 @@
      "North Pebble Beach Drive",
      "Pacific Avenue",
      "South Pebble Beach Drive"
-    ]
+    ],
+    "nodeId": 85182678
    }
   },
   {
@@ -8547,7 +9077,8 @@
     "streets": [
      "10th Street",
      "A Street"
-    ]
+    ],
+    "nodeId": 85174940
    }
   },
   {
@@ -8563,7 +9094,8 @@
     "streets": [
      "10th Street",
      "B Street"
-    ]
+    ],
+    "nodeId": 85182755
    }
   },
   {
@@ -8579,7 +9111,8 @@
     "streets": [
      "10th Street",
      "Gary Street"
-    ]
+    ],
+    "nodeId": 85182757
    }
   },
   {
@@ -8595,7 +9128,8 @@
     "streets": [
      "10th Street",
      "C Street"
-    ]
+    ],
+    "nodeId": 85182759
    }
   },
   {
@@ -8611,7 +9145,8 @@
     "streets": [
      "10th Street",
      "E Street"
-    ]
+    ],
+    "nodeId": 85182761
    }
   },
   {
@@ -8627,7 +9162,8 @@
     "streets": [
      "10th Street",
      "I Street"
-    ]
+    ],
+    "nodeId": 85182766
    }
   },
   {
@@ -8643,7 +9179,8 @@
     "streets": [
      "10th Street",
      "J Street"
-    ]
+    ],
+    "nodeId": 85182772
    }
   },
   {
@@ -8659,7 +9196,8 @@
     "streets": [
      "Harding Avenue",
      "Truman Court"
-    ]
+    ],
+    "nodeId": 85182776
    }
   },
   {
@@ -8675,7 +9213,8 @@
     "streets": [
      "Blake Road",
      "Starwein Road"
-    ]
+    ],
+    "nodeId": 85182989
    }
   },
   {
@@ -8691,7 +9230,8 @@
     "streets": [
      "First Street",
      "Wallace Avenue"
-    ]
+    ],
+    "nodeId": 85183054
    }
   },
   {
@@ -8707,7 +9247,8 @@
     "streets": [
      "Second Street",
      "Wallace Avenue"
-    ]
+    ],
+    "nodeId": 85183056
    }
   },
   {
@@ -8723,7 +9264,8 @@
     "streets": [
      "Hinckley Drive",
      "Nemeth Street"
-    ]
+    ],
+    "nodeId": 85183065
    }
   },
   {
@@ -8739,7 +9281,8 @@
     "streets": [
      "Nemeth Street",
      "Valentine Street"
-    ]
+    ],
+    "nodeId": 85183070
    }
   },
   {
@@ -8755,7 +9298,8 @@
     "streets": [
      "Distelrath Drive",
      "Nemeth Street"
-    ]
+    ],
+    "nodeId": 85183074
    }
   },
   {
@@ -8771,7 +9315,8 @@
     "streets": [
      "Lela Street",
      "Stanton Avenue"
-    ]
+    ],
+    "nodeId": 85184177
    }
   },
   {
@@ -8787,7 +9332,8 @@
     "streets": [
      "Lela Street",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 85184179
    }
   },
   {
@@ -8803,7 +9349,8 @@
     "streets": [
      "Front Street",
      "Play Street"
-    ]
+    ],
+    "nodeId": 85184200
    }
   },
   {
@@ -8819,7 +9366,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Red Hawk Lane"
-    ]
+    ],
+    "nodeId": 85184207
    }
   },
   {
@@ -8835,7 +9383,8 @@
     "streets": [
      "Benson Street",
      "Shirley Street"
-    ]
+    ],
+    "nodeId": 85184256
    }
   },
   {
@@ -8851,7 +9400,8 @@
     "streets": [
      "Benson Street",
      "State Street"
-    ]
+    ],
+    "nodeId": 85184259
    }
   },
   {
@@ -8867,7 +9417,8 @@
     "streets": [
      "South Pebble Beach Drive",
      "West 8th Street"
-    ]
+    ],
+    "nodeId": 85184818
    }
   },
   {
@@ -8883,7 +9434,8 @@
     "streets": [
      "Taylor Street",
      "West 8th Street"
-    ]
+    ],
+    "nodeId": 85161264
    }
   },
   {
@@ -8900,7 +9452,8 @@
      "8th Street",
      "A Street",
      "West 8th Street"
-    ]
+    ],
+    "nodeId": 85174939
    }
   },
   {
@@ -8916,7 +9469,8 @@
     "streets": [
      "Lower Lake Road",
      "Moorehead Road"
-    ]
+    ],
+    "nodeId": 85184823
    }
   },
   {
@@ -8932,7 +9486,8 @@
     "streets": [
      "Moorehead Road",
      "Waldermar Lane"
-    ]
+    ],
+    "nodeId": 2964534536
    }
   },
   {
@@ -8948,7 +9503,8 @@
     "streets": [
      "Aile Lane",
      "Moorehead Road"
-    ]
+    ],
+    "nodeId": 85184825
    }
   },
   {
@@ -8964,7 +9520,8 @@
     "streets": [
      "Moorehead Road",
      "Powerline Road"
-    ]
+    ],
+    "nodeId": 85184827
    }
   },
   {
@@ -8980,7 +9537,8 @@
     "streets": [
      "Bolen Lane",
      "Moorehead Road"
-    ]
+    ],
+    "nodeId": 11147481995
    }
   },
   {
@@ -8996,7 +9554,8 @@
     "streets": [
      "Moorehead Road",
      "Rl Hanson Lane"
-    ]
+    ],
+    "nodeId": 85184832
    }
   },
   {
@@ -9012,7 +9571,8 @@
     "streets": [
      "Beasley Road",
      "Moorehead Road"
-    ]
+    ],
+    "nodeId": 85008781
    }
   },
   {
@@ -9028,7 +9588,8 @@
     "streets": [
      "Moorehead Road",
      "Tomasin Road"
-    ]
+    ],
+    "nodeId": 2964532729
    }
   },
   {
@@ -9045,7 +9606,8 @@
      "Kings Valley Road",
      "Lake Earl Drive;D3",
      "Moorehead Road"
-    ]
+    ],
+    "nodeId": 85184842
    }
   },
   {
@@ -9061,7 +9623,8 @@
     "streets": [
      "Morrison Lane",
      "South Fred D Haight Drive;D4"
-    ]
+    ],
+    "nodeId": 85045599
    }
   },
   {
@@ -9077,7 +9640,8 @@
     "streets": [
      "Darby Street",
      "Hodge Avenue"
-    ]
+    ],
+    "nodeId": 85146450
    }
   },
   {
@@ -9093,7 +9657,8 @@
     "streets": [
      "Hodge Avenue",
      "Humboldt Road"
-    ]
+    ],
+    "nodeId": 85184868
    }
   },
   {
@@ -9109,7 +9674,8 @@
     "streets": [
      "Dean Lane",
      "Rivers End Road"
-    ]
+    ],
+    "nodeId": 85184884
    }
   },
   {
@@ -9125,7 +9691,8 @@
     "streets": [
      "Arenbee Court",
      "Spring Street"
-    ]
+    ],
+    "nodeId": 85184887
    }
   },
   {
@@ -9141,7 +9708,8 @@
     "streets": [
      "Hinckley Drive",
      "Martin Street"
-    ]
+    ],
+    "nodeId": 85184891
    }
   },
   {
@@ -9157,7 +9725,8 @@
     "streets": [
      "Distelrath Drive",
      "Martin Street"
-    ]
+    ],
+    "nodeId": 85184893
    }
   },
   {
@@ -9173,7 +9742,8 @@
     "streets": [
      "Corsaro Drive",
      "Martin Street"
-    ]
+    ],
+    "nodeId": 85184901
    }
   },
   {
@@ -9189,7 +9759,8 @@
     "streets": [
      "Rose Lane",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952088
    }
   },
   {
@@ -9205,7 +9776,8 @@
     "streets": [
      "Dale Court",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85184953
    }
   },
   {
@@ -9222,7 +9794,8 @@
      "First Street",
      "North Fred D Haight Drive;D4",
      "South Fred D Haight Drive;D4"
-    ]
+    ],
+    "nodeId": 85185271
    }
   },
   {
@@ -9238,7 +9811,8 @@
     "streets": [
      "North Fred D Haight Drive;D4",
      "Third Street"
-    ]
+    ],
+    "nodeId": 85185275
    }
   },
   {
@@ -9254,7 +9828,8 @@
     "streets": [
      "Howland Hill Road",
      "Montgomery Street"
-    ]
+    ],
+    "nodeId": 84950939
    }
   },
   {
@@ -9270,7 +9845,8 @@
     "streets": [
      "Montgomery Street",
      "Shirley Street"
-    ]
+    ],
+    "nodeId": 85185413
    }
   },
   {
@@ -9286,7 +9862,8 @@
     "streets": [
      "Montgomery Street",
      "State Street"
-    ]
+    ],
+    "nodeId": 85185415
    }
   },
   {
@@ -9303,7 +9880,8 @@
      "Blitz Avenue",
      "Red Robin",
      "Wier Lane"
-    ]
+    ],
+    "nodeId": 85185859
    }
   },
   {
@@ -9319,7 +9897,8 @@
     "streets": [
      "Hemlock Avenue",
      "North Pebble Beach Drive"
-    ]
+    ],
+    "nodeId": 85182717
    }
   },
   {
@@ -9335,7 +9914,8 @@
     "streets": [
      "Shorline Road",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952876
    }
   },
   {
@@ -9351,7 +9931,8 @@
     "streets": [
      "Madison Avenue",
      "Wildwood Lane"
-    ]
+    ],
+    "nodeId": 85185910
    }
   },
   {
@@ -9367,7 +9948,8 @@
     "streets": [
      "Bluff Creek Road;NF 13",
      "Laird Meadow Road;FR 12N10"
-    ]
+    ],
+    "nodeId": 85185917
    }
   },
   {
@@ -9383,7 +9965,8 @@
     "streets": [
      "Laird Meadow Road;FR 12N10",
      "Vans Road;FR 12N13"
-    ]
+    ],
+    "nodeId": 85009088
    }
   },
   {
@@ -9399,7 +9982,8 @@
     "streets": [
      "North Salmon Harbor Road",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952946
    }
   },
   {
@@ -9415,7 +9999,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Skycrest Drive"
-    ]
+    ],
+    "nodeId": 85186978
    }
   },
   {
@@ -9431,7 +10016,8 @@
     "streets": [
      "North Pebble Beach Drive",
      "Whaleview Court"
-    ]
+    ],
+    "nodeId": 85182692
    }
   },
   {
@@ -9447,7 +10033,8 @@
     "streets": [
      "2nd Street",
      "A Street"
-    ]
+    ],
+    "nodeId": 85174932
    }
   },
   {
@@ -9463,7 +10050,8 @@
     "streets": [
      "2nd Street",
      "B Street"
-    ]
+    ],
+    "nodeId": 85187038
    }
   },
   {
@@ -9479,7 +10067,8 @@
     "streets": [
      "2nd Street",
      "L Street;US 101"
-    ]
+    ],
+    "nodeId": 85187051
    }
   },
   {
@@ -9495,7 +10084,8 @@
     "streets": [
      "2nd Street",
      "M Street;US 101"
-    ]
+    ],
+    "nodeId": 85175569
    }
   },
   {
@@ -9511,7 +10101,8 @@
     "streets": [
      "2nd Street",
      "N Street"
-    ]
+    ],
+    "nodeId": 85187052
    }
   },
   {
@@ -9527,7 +10118,8 @@
     "streets": [
      "Brookings Avenue",
      "Second Street"
-    ]
+    ],
+    "nodeId": 85187055
    }
   },
   {
@@ -9543,7 +10135,8 @@
     "streets": [
      "Beckstead Avenue",
      "Second Street"
-    ]
+    ],
+    "nodeId": 85187056
    }
   },
   {
@@ -9559,7 +10152,8 @@
     "streets": [
      "Harmony Lane",
      "Old Mill Road"
-    ]
+    ],
+    "nodeId": 85187057
    }
   },
   {
@@ -9575,7 +10169,8 @@
     "streets": [
      "Blackwell Lane",
      "Scott Lane"
-    ]
+    ],
+    "nodeId": 85187088
    }
   },
   {
@@ -9591,7 +10186,8 @@
     "streets": [
      "Emfield Court",
      "Sunrise Lane"
-    ]
+    ],
+    "nodeId": 85187098
    }
   },
   {
@@ -9607,7 +10203,8 @@
     "streets": [
      "Cedar Camp Road;FR 12N12",
      "Vans Road;FR 12N13"
-    ]
+    ],
+    "nodeId": 94419803
    }
   },
   {
@@ -9623,7 +10220,8 @@
     "streets": [
      "Evert Sargent Lane",
      "Kings Valley Road"
-    ]
+    ],
+    "nodeId": 85188220
    }
   },
   {
@@ -9639,7 +10237,8 @@
     "streets": [
      "Humboldt Road",
      "Roy Avenue"
-    ]
+    ],
+    "nodeId": 85188248
    }
   },
   {
@@ -9655,7 +10254,8 @@
     "streets": [
      "Humboldt Road",
      "Quinlan Avenue"
-    ]
+    ],
+    "nodeId": 85188250
    }
   },
   {
@@ -9671,7 +10271,8 @@
     "streets": [
      "Humboldt Road",
      "Peveler Avenue"
-    ]
+    ],
+    "nodeId": 85188252
    }
   },
   {
@@ -9687,7 +10288,8 @@
     "streets": [
      "Humboldt Road",
      "Oliver Avenue"
-    ]
+    ],
+    "nodeId": 85084350
    }
   },
   {
@@ -9703,7 +10305,8 @@
     "streets": [
      "Humboldt Road",
      "Nickel Avenue"
-    ]
+    ],
+    "nodeId": 85041880
    }
   },
   {
@@ -9719,7 +10322,8 @@
     "streets": [
      "Humboldt Road",
      "Pineview Court"
-    ]
+    ],
+    "nodeId": 85188254
    }
   },
   {
@@ -9735,7 +10339,8 @@
     "streets": [
      "Humboldt Road",
      "Le Clair Avenue"
-    ]
+    ],
+    "nodeId": 85188256
    }
   },
   {
@@ -9751,7 +10356,8 @@
     "streets": [
      "Carmelita Court",
      "Humboldt Road"
-    ]
+    ],
+    "nodeId": 85188258
    }
   },
   {
@@ -9767,7 +10373,8 @@
     "streets": [
      "Humboldt Road",
      "Kelly Street"
-    ]
+    ],
+    "nodeId": 85188260
    }
   },
   {
@@ -9783,7 +10390,8 @@
     "streets": [
      "Humboldt Road",
      "Jones Street"
-    ]
+    ],
+    "nodeId": 85188262
    }
   },
   {
@@ -9800,7 +10408,8 @@
      "Edwards Avenue",
      "Humboldt Road",
      "State Street"
-    ]
+    ],
+    "nodeId": 85188272
    }
   },
   {
@@ -9816,7 +10425,8 @@
     "streets": [
      "Cushing Street",
      "Humboldt Road"
-    ]
+    ],
+    "nodeId": 85188274
    }
   },
   {
@@ -9832,7 +10442,8 @@
     "streets": [
      "Humboldt Road",
      "Shirley Street"
-    ]
+    ],
+    "nodeId": 85188276
    }
   },
   {
@@ -9848,7 +10459,8 @@
     "streets": [
      "Boyet Street",
      "Humboldt Road"
-    ]
+    ],
+    "nodeId": 85188280
    }
   },
   {
@@ -9864,7 +10476,8 @@
     "streets": [
      "Alpaugh Street",
      "Humboldt Road"
-    ]
+    ],
+    "nodeId": 85188282
    }
   },
   {
@@ -9880,7 +10493,8 @@
     "streets": [
      "Alpaugh Avenue",
      "Humboldt Road"
-    ]
+    ],
+    "nodeId": 85188284
    }
   },
   {
@@ -9896,7 +10510,8 @@
     "streets": [
      "Howland Hill Road",
      "Humboldt Road"
-    ]
+    ],
+    "nodeId": 84950932
    }
   },
   {
@@ -9912,7 +10527,8 @@
     "streets": [
      "Redwood Highway;US 199",
      "Wetherell Lane"
-    ]
+    ],
+    "nodeId": 85188312
    }
   },
   {
@@ -9928,7 +10544,8 @@
     "streets": [
      "Alexandria Way",
      "Madison Avenue"
-    ]
+    ],
+    "nodeId": 85188349
    }
   },
   {
@@ -9944,7 +10561,8 @@
     "streets": [
      "Alexandria Way",
      "Chevy Chase Way"
-    ]
+    ],
+    "nodeId": 85188351
    }
   },
   {
@@ -9960,7 +10578,8 @@
     "streets": [
      "Adair Street",
      "King Street"
-    ]
+    ],
+    "nodeId": 85188430
    }
   },
   {
@@ -9976,7 +10595,8 @@
     "streets": [
      "Butte Street",
      "McNamara Avenue"
-    ]
+    ],
+    "nodeId": 85188443
    }
   },
   {
@@ -9992,7 +10612,8 @@
     "streets": [
      "Del Norte Street",
      "McNamara Avenue"
-    ]
+    ],
+    "nodeId": 85188445
    }
   },
   {
@@ -10008,7 +10629,8 @@
     "streets": [
      "Fresno Street",
      "McNamara Avenue"
-    ]
+    ],
+    "nodeId": 85188447
    }
   },
   {
@@ -10024,7 +10646,8 @@
     "streets": [
      "Glenn Street",
      "McNamara Avenue"
-    ]
+    ],
+    "nodeId": 85188451
    }
   },
   {
@@ -10040,7 +10663,8 @@
     "streets": [
      "Humboldt Street",
      "McNamara Avenue"
-    ]
+    ],
+    "nodeId": 85188453
    }
   },
   {
@@ -10056,7 +10680,8 @@
     "streets": [
      "Inyo Street",
      "McNamara Avenue"
-    ]
+    ],
+    "nodeId": 85188455
    }
   },
   {
@@ -10072,7 +10697,8 @@
     "streets": [
      "Kern Street",
      "McNamara Avenue"
-    ]
+    ],
+    "nodeId": 85188457
    }
   },
   {
@@ -10088,7 +10714,8 @@
     "streets": [
      "Lake Street",
      "McNamara Avenue"
-    ]
+    ],
+    "nodeId": 85155229
    }
   },
   {
@@ -10104,7 +10731,8 @@
     "streets": [
      "McNamara Avenue",
      "Modoc Street"
-    ]
+    ],
+    "nodeId": 85188465
    }
   },
   {
@@ -10120,7 +10748,8 @@
     "streets": [
      "Felterwood Lane",
      "Movie Lane"
-    ]
+    ],
+    "nodeId": 85188474
    }
   },
   {
@@ -10136,7 +10765,8 @@
     "streets": [
      "Felterwood Lane",
      "Lake Earl Drive;D3"
-    ]
+    ],
+    "nodeId": 85188479
    }
   },
   {
@@ -10152,7 +10782,8 @@
     "streets": [
      "Bradbury Place",
      "North Bank Road;CA 197"
-    ]
+    ],
+    "nodeId": 85188482
    }
   },
   {
@@ -10169,7 +10800,8 @@
      "Elk Valley Road",
      "Kings Valley Road",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85188488
    }
   },
   {
@@ -10185,7 +10817,8 @@
     "streets": [
      "Kings Valley Road",
      "Lesina Road"
-    ]
+    ],
+    "nodeId": 85188514
    }
   },
   {
@@ -10201,7 +10834,8 @@
     "streets": [
      "Kings Valley Road",
      "Rellim Road"
-    ]
+    ],
+    "nodeId": 85188709
    }
   },
   {
@@ -10217,7 +10851,8 @@
     "streets": [
      "Kings Valley Road",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952130
    }
   },
   {
@@ -10233,7 +10868,8 @@
     "streets": [
      "Hillcrest Drive",
      "Kings Valley Road"
-    ]
+    ],
+    "nodeId": 85188727
    }
   },
   {
@@ -10249,7 +10885,8 @@
     "streets": [
      "Kings Valley Road",
      "Millers Lane"
-    ]
+    ],
+    "nodeId": 85188747
    }
   },
   {
@@ -10265,7 +10902,8 @@
     "streets": [
      "Kings Valley Road",
      "Quail Lane"
-    ]
+    ],
+    "nodeId": 85188755
    }
   },
   {
@@ -10281,7 +10919,8 @@
     "streets": [
      "Parkway Drive",
      "Sandman Road"
-    ]
+    ],
+    "nodeId": 85188785
    }
   },
   {
@@ -10297,7 +10936,8 @@
     "streets": [
      "Sandman Road",
      "Ternie Lane"
-    ]
+    ],
+    "nodeId": 85188798
    }
   },
   {
@@ -10313,7 +10953,8 @@
     "streets": [
      "Eau Claire Avenue",
      "Elk Valley Road;D2"
-    ]
+    ],
+    "nodeId": 85188801
    }
   },
   {
@@ -10329,7 +10970,8 @@
     "streets": [
      "Hill Street",
      "State Street"
-    ]
+    ],
+    "nodeId": 85188814
    }
   },
   {
@@ -10345,7 +10987,8 @@
     "streets": [
      "Hill Street",
      "Shirley Street"
-    ]
+    ],
+    "nodeId": 85188822
    }
   },
   {
@@ -10361,7 +11004,8 @@
     "streets": [
      "Hill Street",
      "Howland Hill Road"
-    ]
+    ],
+    "nodeId": 84950941
    }
   },
   {
@@ -10377,7 +11021,8 @@
     "streets": [
      "Howland Hill Road",
      "Wyentae Street"
-    ]
+    ],
+    "nodeId": 84950927
    }
   },
   {
@@ -10393,7 +11038,8 @@
     "streets": [
      "Norris Ave",
      "Wyentae Street"
-    ]
+    ],
+    "nodeId": 84954009
    }
   },
   {
@@ -10409,7 +11055,8 @@
     "streets": [
      "Blackwell Lane",
      "Sunrise Lane"
-    ]
+    ],
+    "nodeId": 85190207
    }
   },
   {
@@ -10425,7 +11072,8 @@
     "streets": [
      "Ledford Lane",
      "Sunrise Lane"
-    ]
+    ],
+    "nodeId": 85190208
    }
   },
   {
@@ -10441,7 +11089,8 @@
     "streets": [
      "Richardson Road",
      "Sunrise Lane"
-    ]
+    ],
+    "nodeId": 85094473
    }
   },
   {
@@ -10457,7 +11106,8 @@
     "streets": [
      "Boyds Way",
      "Hyda Way"
-    ]
+    ],
+    "nodeId": 85190240
    }
   },
   {
@@ -10473,7 +11123,8 @@
     "streets": [
      "Granite Lane",
      "Granite Road"
-    ]
+    ],
+    "nodeId": 85190244
    }
   },
   {
@@ -10489,7 +11140,8 @@
     "streets": [
      "Huntington Street",
      "West Condor Street"
-    ]
+    ],
+    "nodeId": 85190257
    }
   },
   {
@@ -10505,7 +11157,8 @@
     "streets": [
      "Huntington Street",
      "West Essex Street"
-    ]
+    ],
+    "nodeId": 85190259
    }
   },
   {
@@ -10521,7 +11174,8 @@
     "streets": [
      "James Street",
      "Lopez Street"
-    ]
+    ],
+    "nodeId": 85190262
    }
   },
   {
@@ -10537,7 +11191,8 @@
     "streets": [
      "Jones Avenue",
      "Merriam Avenue"
-    ]
+    ],
+    "nodeId": 85190273
    }
   },
   {
@@ -10553,7 +11208,8 @@
     "streets": [
      "Beckstead Avenue",
      "First Street"
-    ]
+    ],
+    "nodeId": 85190285
    }
   },
   {
@@ -10569,7 +11225,8 @@
     "streets": [
      "Beckstead Avenue",
      "Third Street"
-    ]
+    ],
+    "nodeId": 85190287
    }
   },
   {
@@ -10585,7 +11242,8 @@
     "streets": [
      "Beckstead Avenue",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952383
    }
   },
   {
@@ -10601,7 +11259,8 @@
     "streets": [
      "Alder Road",
      "Autumn Cove"
-    ]
+    ],
+    "nodeId": 85190291
    }
   },
   {
@@ -10617,7 +11276,8 @@
     "streets": [
      "De Mars Drive",
      "Wright Street"
-    ]
+    ],
+    "nodeId": 85190314
    }
   },
   {
@@ -10633,7 +11293,8 @@
     "streets": [
      "De Mars Drive",
      "Valentine Street"
-    ]
+    ],
+    "nodeId": 85190316
    }
   },
   {
@@ -10649,7 +11310,8 @@
     "streets": [
      "De Mars Drive",
      "Placone Street"
-    ]
+    ],
+    "nodeId": 85190318
    }
   },
   {
@@ -10665,7 +11327,8 @@
     "streets": [
      "De Mars Drive",
      "Vergine Drive"
-    ]
+    ],
+    "nodeId": 85190320
    }
   },
   {
@@ -10681,7 +11344,8 @@
     "streets": [
      "Carson Drive",
      "De Mars Drive"
-    ]
+    ],
+    "nodeId": 85190322
    }
   },
   {
@@ -10697,7 +11361,8 @@
     "streets": [
      "Hawkins Flat Road",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85190328
    }
   },
   {
@@ -10713,7 +11378,8 @@
     "streets": [
      "Hights View Drive",
      "Rowdy Creek Road"
-    ]
+    ],
+    "nodeId": 85191123
    }
   },
   {
@@ -10729,7 +11395,8 @@
     "streets": [
      "Rowdy Creek Road",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952040
    }
   },
   {
@@ -10746,7 +11413,8 @@
      "Grant Avenue",
      "Grant Court",
      "Marshall Street"
-    ]
+    ],
+    "nodeId": 85191191
    }
   },
   {
@@ -10762,7 +11430,8 @@
     "streets": [
      "Elk Valley Road;FR 14N03",
      "Gasquet-Orleans Road;NF 15"
-    ]
+    ],
+    "nodeId": 94341294
    }
   },
   {
@@ -10778,7 +11447,8 @@
     "streets": [
      "Cedar Camp Road;FR 12N12",
      "Gasquet-Orleans Road;NF 15"
-    ]
+    ],
+    "nodeId": 12738359475
    }
   },
   {
@@ -10794,7 +11464,8 @@
     "streets": [
      "Bluff Creek Road;NF 13",
      "Gasquet-Orleans Road;NF 15"
-    ]
+    ],
+    "nodeId": 85194958
    }
   },
   {
@@ -10810,7 +11481,8 @@
     "streets": [
      "Alder Road",
      "Boulder Avenue"
-    ]
+    ],
+    "nodeId": 85195249
    }
   },
   {
@@ -10826,7 +11498,8 @@
     "streets": [
      "Alder Road",
      "Deshon Drive"
-    ]
+    ],
+    "nodeId": 85195251
    }
   },
   {
@@ -10842,7 +11515,8 @@
     "streets": [
      "Alder Road",
      "Amber Lane"
-    ]
+    ],
+    "nodeId": 85195253
    }
   },
   {
@@ -10858,7 +11532,8 @@
     "streets": [
      "Alder Road",
      "Lake Earl Drive;D3"
-    ]
+    ],
+    "nodeId": 85195270
    }
   },
   {
@@ -10874,7 +11549,8 @@
     "streets": [
      "Brevus Street",
      "Butte Street"
-    ]
+    ],
+    "nodeId": 85195781
    }
   },
   {
@@ -10891,7 +11567,8 @@
      "3rd Street",
      "A Street",
      "West 3rd Street"
-    ]
+    ],
+    "nodeId": 85174934
    }
   },
   {
@@ -10907,7 +11584,8 @@
     "streets": [
      "Boulder Avenue",
      "Railroad Avenue"
-    ]
+    ],
+    "nodeId": 85195969
    }
   },
   {
@@ -10923,7 +11601,8 @@
     "streets": [
      "Boulder Avenue",
      "Countess Lane"
-    ]
+    ],
+    "nodeId": 85195978
    }
   },
   {
@@ -10939,7 +11618,8 @@
     "streets": [
      "Boulder Avenue",
      "Lake Earl Drive;D3"
-    ]
+    ],
+    "nodeId": 85195992
    }
   },
   {
@@ -10955,7 +11635,8 @@
     "streets": [
      "California Street",
      "Harding Avenue"
-    ]
+    ],
+    "nodeId": 85196284
    }
   },
   {
@@ -10971,7 +11652,8 @@
     "streets": [
      "California Street",
      "East Hoover Avenue"
-    ]
+    ],
+    "nodeId": 85196286
    }
   },
   {
@@ -10987,7 +11669,8 @@
     "streets": [
      "California Street",
      "East Washington Boulevard;D1"
-    ]
+    ],
+    "nodeId": 373692613
    }
   },
   {
@@ -11003,7 +11686,8 @@
     "streets": [
      "Del Mar Road",
      "West Washington Boulevard;D1"
-    ]
+    ],
+    "nodeId": 373692609
    }
   },
   {
@@ -11019,7 +11703,8 @@
     "streets": [
      "Del Mar Road",
      "West Adams Avenue"
-    ]
+    ],
+    "nodeId": 85196298
    }
   },
   {
@@ -11035,7 +11720,8 @@
     "streets": [
      "Del Mar Road",
      "West Jefferson Street"
-    ]
+    ],
+    "nodeId": 85196300
    }
   },
   {
@@ -11051,7 +11737,8 @@
     "streets": [
      "Del Mar Road",
      "Madison Avenue"
-    ]
+    ],
+    "nodeId": 85196302
    }
   },
   {
@@ -11067,7 +11754,8 @@
     "streets": [
      "Jaccard Street",
      "West Essex Street"
-    ]
+    ],
+    "nodeId": 85196324
    }
   },
   {
@@ -11084,7 +11772,8 @@
      "Foothill Drive",
      "Morrison Creek Road",
      "Woolworth Lane"
-    ]
+    ],
+    "nodeId": 85196333
    }
   },
   {
@@ -11100,7 +11789,8 @@
     "streets": [
      "Blue Jay Court",
      "Foothill Drive"
-    ]
+    ],
+    "nodeId": 85196335
    }
   },
   {
@@ -11116,7 +11806,8 @@
     "streets": [
      "Spring Street",
      "State Street"
-    ]
+    ],
+    "nodeId": 85196354
    }
   },
   {
@@ -11132,7 +11823,8 @@
     "streets": [
      "Shirley Street",
      "Spring Street"
-    ]
+    ],
+    "nodeId": 85196359
    }
   },
   {
@@ -11148,7 +11840,8 @@
     "streets": [
      "Howland Hill Road",
      "Spring Street"
-    ]
+    ],
+    "nodeId": 84950935
    }
   },
   {
@@ -11164,7 +11857,8 @@
     "streets": [
      "Elk Valley Cross Road;D2",
      "Turnbull Lane"
-    ]
+    ],
+    "nodeId": 85196442
    }
   },
   {
@@ -11180,7 +11874,8 @@
     "streets": [
      "Becky Street",
      "Gary Street"
-    ]
+    ],
+    "nodeId": 85196455
    }
   },
   {
@@ -11196,7 +11891,8 @@
     "streets": [
      "Fern Lane",
      "Ireland Way"
-    ]
+    ],
+    "nodeId": 85196459
    }
   },
   {
@@ -11212,7 +11908,8 @@
     "streets": [
      "Olive Street",
      "State Street"
-    ]
+    ],
+    "nodeId": 85196473
    }
   },
   {
@@ -11228,7 +11925,8 @@
     "streets": [
      "Olive Street",
      "Shirley Street"
-    ]
+    ],
+    "nodeId": 85196477
    }
   },
   {
@@ -11244,7 +11942,8 @@
     "streets": [
      "Howland Hill Road",
      "Olive Street"
-    ]
+    ],
+    "nodeId": 84950943
    }
   },
   {
@@ -11260,7 +11959,8 @@
     "streets": [
      "Amelia Street",
      "Lopez Street"
-    ]
+    ],
+    "nodeId": 85196485
    }
   },
   {
@@ -11276,7 +11976,8 @@
     "streets": [
      "Amelia Street",
      "Chinook Street"
-    ]
+    ],
+    "nodeId": 85196491
    }
   },
   {
@@ -11292,7 +11993,8 @@
     "streets": [
      "Middle Fork Gasquet Road",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85196494
    }
   },
   {
@@ -11308,7 +12010,8 @@
     "streets": [
      "Gasquet Flat Road",
      "Middle Fork Gasquet Road"
-    ]
+    ],
+    "nodeId": 84962479
    }
   },
   {
@@ -11324,7 +12027,8 @@
     "streets": [
      "Nara Lane",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 85196505
    }
   },
   {
@@ -11341,7 +12045,8 @@
      "Azalea Lane",
      "Gasquet Flat Road",
      "Gasquet Middle Fork Road"
-    ]
+    ],
+    "nodeId": 85196549
    }
   },
   {
@@ -11357,7 +12062,8 @@
     "streets": [
      "3rd Street",
      "J Street"
-    ]
+    ],
+    "nodeId": 85196554
    }
   },
   {
@@ -11373,7 +12079,8 @@
     "streets": [
      "5th Street",
      "J Street"
-    ]
+    ],
+    "nodeId": 85196556
    }
   },
   {
@@ -11389,7 +12096,8 @@
     "streets": [
      "6th Street",
      "J Street"
-    ]
+    ],
+    "nodeId": 85196558
    }
   },
   {
@@ -11405,7 +12113,8 @@
     "streets": [
      "7th Street",
      "J Street"
-    ]
+    ],
+    "nodeId": 85196560
    }
   },
   {
@@ -11421,7 +12130,8 @@
     "streets": [
      "8th Street",
      "J Street"
-    ]
+    ],
+    "nodeId": 85196562
    }
   },
   {
@@ -11437,7 +12147,8 @@
     "streets": [
      "East Macken Avenue",
      "J Street"
-    ]
+    ],
+    "nodeId": 85196570
    }
   },
   {
@@ -11453,7 +12164,8 @@
     "streets": [
      "East Cooper Avenue",
      "J Street"
-    ]
+    ],
+    "nodeId": 373692573
    }
   },
   {
@@ -11469,7 +12181,8 @@
     "streets": [
      "North Bank Road;CA 197",
      "Sharon Lane"
-    ]
+    ],
+    "nodeId": 85196574
    }
   },
   {
@@ -11485,7 +12198,8 @@
     "streets": [
      "Courtney Lane",
      "Kathryn L Avenue"
-    ]
+    ],
+    "nodeId": 85196595
    }
   },
   {
@@ -11501,7 +12215,8 @@
     "streets": [
      "Huckleberry Lane",
      "Redwood Road"
-    ]
+    ],
+    "nodeId": 85196620
    }
   },
   {
@@ -11517,7 +12232,8 @@
     "streets": [
      "Church Lane",
      "Redwood Road"
-    ]
+    ],
+    "nodeId": 85196624
    }
   },
   {
@@ -11533,7 +12249,8 @@
     "streets": [
      "Ash Road",
      "Redwood Road"
-    ]
+    ],
+    "nodeId": 85196636
    }
   },
   {
@@ -11549,7 +12266,8 @@
     "streets": [
      "Cloutier Street",
      "Stukey Street"
-    ]
+    ],
+    "nodeId": 85196655
    }
   },
   {
@@ -11565,7 +12283,8 @@
     "streets": [
      "Cloutier Street",
      "Distelrath Drive"
-    ]
+    ],
+    "nodeId": 85196685
    }
   },
   {
@@ -11581,7 +12300,8 @@
     "streets": [
      "Glenn Street",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 373692532
    }
   },
   {
@@ -11597,7 +12317,8 @@
     "streets": [
      "Glenn Street",
      "Macken Avenue"
-    ]
+    ],
+    "nodeId": 85196705
    }
   },
   {
@@ -11613,7 +12334,8 @@
     "streets": [
      "Glenn Street",
      "Lauff Avenue"
-    ]
+    ],
+    "nodeId": 85196707
    }
   },
   {
@@ -11629,7 +12351,8 @@
     "streets": [
      "Childs Avenue",
      "Glenn Street"
-    ]
+    ],
+    "nodeId": 85196709
    }
   },
   {
@@ -11645,7 +12368,8 @@
     "streets": [
      "Glenn Street",
      "Murphy Avenue"
-    ]
+    ],
+    "nodeId": 85196711
    }
   },
   {
@@ -11661,7 +12385,8 @@
     "streets": [
      "Glenn Street",
      "Keller Avenue"
-    ]
+    ],
+    "nodeId": 85196713
    }
   },
   {
@@ -11677,7 +12402,8 @@
     "streets": [
      "Glenn Street",
      "Reddy Avenue"
-    ]
+    ],
+    "nodeId": 85196715
    }
   },
   {
@@ -11693,7 +12419,8 @@
     "streets": [
      "Blitz Avenue",
      "Wier Lane"
-    ]
+    ],
+    "nodeId": 85196731
    }
   },
   {
@@ -11709,7 +12436,8 @@
     "streets": [
      "Elk Valley Road;D2",
      "Mayas Lane"
-    ]
+    ],
+    "nodeId": 85196742
    }
   },
   {
@@ -11725,7 +12453,8 @@
     "streets": [
      "Redwood Highway;US 101",
      "Walton Street"
-    ]
+    ],
+    "nodeId": 85151601
    }
   },
   {
@@ -11741,7 +12470,8 @@
     "streets": [
      "Vance Avenue",
      "Walton Street"
-    ]
+    ],
+    "nodeId": 85196752
    }
   },
   {
@@ -11757,7 +12487,8 @@
     "streets": [
      "Cable Lane",
      "Pharr Lane"
-    ]
+    ],
+    "nodeId": 12471108671
    }
   },
   {
@@ -11774,7 +12505,8 @@
      "Burtschell Street",
      "Redwood Highway;US 101",
      "Wilson Avenue"
-    ]
+    ],
+    "nodeId": 84952436
    }
   },
   {
@@ -11790,7 +12522,8 @@
     "streets": [
      "Burtschell Street",
      "East Washington Boulevard;D1"
-    ]
+    ],
+    "nodeId": 375783386
    }
   },
   {
@@ -11806,7 +12539,8 @@
     "streets": [
      "East Denney Lane",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952055
    }
   },
   {
@@ -11822,7 +12556,8 @@
     "streets": [
      "South Pebble Beach Drive",
      "West 6th Street"
-    ]
+    ],
+    "nodeId": 6680695823
    }
   },
   {
@@ -11838,7 +12573,8 @@
     "streets": [
      "South Pebble Beach Drive",
      "West 7th Street"
-    ]
+    ],
+    "nodeId": 85200300
    }
   },
   {
@@ -11854,7 +12590,8 @@
     "streets": [
      "South Pebble Beach Drive",
      "West Condor Street"
-    ]
+    ],
+    "nodeId": 85200331
    }
   },
   {
@@ -11870,7 +12607,8 @@
     "streets": [
      "Grand Street",
      "South Pebble Beach Drive"
-    ]
+    ],
+    "nodeId": 85200349
    }
   },
   {
@@ -11886,7 +12624,8 @@
     "streets": [
      "Humboldt Street",
      "Lauff Avenue"
-    ]
+    ],
+    "nodeId": 85200385
    }
   },
   {
@@ -11902,7 +12641,8 @@
     "streets": [
      "Childs Avenue",
      "Humboldt Street"
-    ]
+    ],
+    "nodeId": 85200387
    }
   },
   {
@@ -11918,7 +12658,8 @@
     "streets": [
      "Humboldt Street",
      "Murphy Avenue"
-    ]
+    ],
+    "nodeId": 85200390
    }
   },
   {
@@ -11934,7 +12675,8 @@
     "streets": [
      "Humboldt Street",
      "Keller Avenue"
-    ]
+    ],
+    "nodeId": 85200392
    }
   },
   {
@@ -11950,7 +12692,8 @@
     "streets": [
      "Humboldt Street",
      "Reddy Avenue"
-    ]
+    ],
+    "nodeId": 85200394
    }
   },
   {
@@ -11966,7 +12709,8 @@
     "streets": [
      "Grant Avenue",
      "Oregon Street"
-    ]
+    ],
+    "nodeId": 85172302
    }
   },
   {
@@ -11982,7 +12726,8 @@
     "streets": [
      "Harding Avenue",
      "Marshall Street"
-    ]
+    ],
+    "nodeId": 85200401
    }
   },
   {
@@ -11998,7 +12743,8 @@
     "streets": [
      "3rd Street",
      "B Street"
-    ]
+    ],
+    "nodeId": 85201679
    }
   },
   {
@@ -12014,7 +12760,8 @@
     "streets": [
      "3rd Street",
      "C Street"
-    ]
+    ],
+    "nodeId": 85201680
    }
   },
   {
@@ -12030,7 +12777,8 @@
     "streets": [
      "Highland Avenue",
      "Third Street"
-    ]
+    ],
+    "nodeId": 85201709
    }
   },
   {
@@ -12046,7 +12794,8 @@
     "streets": [
      "Brookings Avenue",
      "Third Street"
-    ]
+    ],
+    "nodeId": 85201711
    }
   },
   {
@@ -12062,7 +12811,8 @@
     "streets": [
      "Butte Street",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 85201716
    }
   },
   {
@@ -12078,7 +12828,8 @@
     "streets": [
      "Butte Street",
      "Macken Avenue"
-    ]
+    ],
+    "nodeId": 85201718
    }
   },
   {
@@ -12094,7 +12845,8 @@
     "streets": [
      "Butte Street",
      "Lauff Avenue"
-    ]
+    ],
+    "nodeId": 85201720
    }
   },
   {
@@ -12110,7 +12862,8 @@
     "streets": [
      "Butte Street",
      "Childs Avenue"
-    ]
+    ],
+    "nodeId": 85201722
    }
   },
   {
@@ -12126,7 +12879,8 @@
     "streets": [
      "Butte Street",
      "Murphy Avenue"
-    ]
+    ],
+    "nodeId": 85201724
    }
   },
   {
@@ -12142,7 +12896,8 @@
     "streets": [
      "Butte Street",
      "Maple Tree Lane"
-    ]
+    ],
+    "nodeId": 2997154352
    }
   },
   {
@@ -12158,7 +12913,8 @@
     "streets": [
      "Butte Street",
      "Keller Avenue"
-    ]
+    ],
+    "nodeId": 85201726
    }
   },
   {
@@ -12174,7 +12930,8 @@
     "streets": [
      "Butte Street",
      "Ruchong Lane"
-    ]
+    ],
+    "nodeId": 85201728
    }
   },
   {
@@ -12190,7 +12947,8 @@
     "streets": [
      "Calaveras Street",
      "Keller Avenue"
-    ]
+    ],
+    "nodeId": 85201744
    }
   },
   {
@@ -12206,7 +12964,8 @@
     "streets": [
      "Del Norte Street",
      "Keller Avenue"
-    ]
+    ],
+    "nodeId": 85201746
    }
   },
   {
@@ -12222,7 +12981,8 @@
     "streets": [
      "Fresno Street",
      "Keller Avenue"
-    ]
+    ],
+    "nodeId": 85201748
    }
   },
   {
@@ -12238,7 +12998,8 @@
     "streets": [
      "Inyo Street",
      "Keller Avenue"
-    ]
+    ],
+    "nodeId": 85201750
    }
   },
   {
@@ -12254,7 +13015,8 @@
     "streets": [
      "Keller Avenue",
      "Kern Street"
-    ]
+    ],
+    "nodeId": 85201756
    }
   },
   {
@@ -12270,7 +13032,8 @@
     "streets": [
      "Keller Avenue",
      "North Pebble Beach Drive"
-    ]
+    ],
+    "nodeId": 85182713
    }
   },
   {
@@ -12286,7 +13049,8 @@
     "streets": [
      "Earl Street",
      "White Lane"
-    ]
+    ],
+    "nodeId": 85202779
    }
   },
   {
@@ -12302,7 +13066,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "White Lane"
-    ]
+    ],
+    "nodeId": 85202809
    }
   },
   {
@@ -12318,7 +13083,8 @@
     "streets": [
      "Clausen Lane",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85197881
    }
   },
   {
@@ -12334,7 +13100,8 @@
     "streets": [
      "Harrold Street",
      "Wilson Avenue"
-    ]
+    ],
+    "nodeId": 373692637
    }
   },
   {
@@ -12350,7 +13117,8 @@
     "streets": [
      "East Hoover Avenue",
      "Harrold Street"
-    ]
+    ],
+    "nodeId": 85202917
    }
   },
   {
@@ -12366,7 +13134,8 @@
     "streets": [
      "East Washington Boulevard;D1",
      "Harrold Street"
-    ]
+    ],
+    "nodeId": 375783379
    }
   },
   {
@@ -12383,7 +13152,8 @@
      "North West Brook Lane",
      "US 101",
      "Westbrook Lane"
-    ]
+    ],
+    "nodeId": 84952378
    }
   },
   {
@@ -12400,7 +13170,8 @@
      "East Washington Boulevard",
      "Parkway Drive",
      "Washington Boulevard"
-    ]
+    ],
+    "nodeId": 85203127
    }
   },
   {
@@ -12416,7 +13187,8 @@
     "streets": [
      "South Railroad Avenue",
      "Washington Boulevard"
-    ]
+    ],
+    "nodeId": 2997149078
    }
   },
   {
@@ -12432,7 +13204,8 @@
     "streets": [
      "Fern Lane",
      "Pepperwood Drive"
-    ]
+    ],
+    "nodeId": 85203169
    }
   },
   {
@@ -12448,7 +13221,8 @@
     "streets": [
      "Fern Lane",
      "Railroad Avenue"
-    ]
+    ],
+    "nodeId": 85203176
    }
   },
   {
@@ -12464,7 +13238,8 @@
     "streets": [
      "Northcrest Drive;D3",
      "Wilson Avenue"
-    ]
+    ],
+    "nodeId": 85185294
    }
   },
   {
@@ -12480,7 +13255,8 @@
     "streets": [
      "Boyds Way",
      "Lake Earl Drive;D3"
-    ]
+    ],
+    "nodeId": 85203195
    }
   },
   {
@@ -12496,7 +13272,8 @@
     "streets": [
      "Big Flat Road",
      "Coburn Road"
-    ]
+    ],
+    "nodeId": 85203703
    }
   },
   {
@@ -12512,7 +13289,8 @@
     "streets": [
      "8th Street",
      "B Street"
-    ]
+    ],
+    "nodeId": 85203793
    }
   },
   {
@@ -12528,7 +13306,8 @@
     "streets": [
      "8th Street",
      "C Street"
-    ]
+    ],
+    "nodeId": 85203795
    }
   },
   {
@@ -12544,7 +13323,8 @@
     "streets": [
      "8th Street",
      "E Street"
-    ]
+    ],
+    "nodeId": 85203797
    }
   },
   {
@@ -12560,7 +13340,8 @@
     "streets": [
      "8th Street",
      "F Street"
-    ]
+    ],
+    "nodeId": 85203799
    }
   },
   {
@@ -12576,7 +13357,8 @@
     "streets": [
      "8th Street",
      "G Street"
-    ]
+    ],
+    "nodeId": 85163637
    }
   },
   {
@@ -12592,7 +13374,8 @@
     "streets": [
      "8th Street",
      "H Street"
-    ]
+    ],
+    "nodeId": 85203801
    }
   },
   {
@@ -12608,7 +13391,8 @@
     "streets": [
      "8th Street",
      "I Street"
-    ]
+    ],
+    "nodeId": 85203803
    }
   },
   {
@@ -12624,7 +13408,8 @@
     "streets": [
      "8th Street",
      "K Street"
-    ]
+    ],
+    "nodeId": 85203805
    }
   },
   {
@@ -12640,7 +13425,8 @@
     "streets": [
      "8th Street",
      "L Street;US 101"
-    ]
+    ],
+    "nodeId": 85203807
    }
   },
   {
@@ -12656,7 +13442,8 @@
     "streets": [
      "8th Street",
      "M Street;US 101"
-    ]
+    ],
+    "nodeId": 8047414577
    }
   },
   {
@@ -12672,7 +13459,8 @@
     "streets": [
      "3rd Street",
      "N Street"
-    ]
+    ],
+    "nodeId": 85201690
    }
   },
   {
@@ -12689,7 +13477,8 @@
      "Blackwell Lane",
      "Lake Earl Drive;D3",
      "Northcrest Drive;D3"
-    ]
+    ],
+    "nodeId": 85185352
    }
   },
   {
@@ -12705,7 +13494,8 @@
     "streets": [
      "Blackwell Lane",
      "Carole Lane"
-    ]
+    ],
+    "nodeId": 85203825
    }
   },
   {
@@ -12721,7 +13511,8 @@
     "streets": [
      "Blackwell Lane",
      "Holben Road"
-    ]
+    ],
+    "nodeId": 85203826
    }
   },
   {
@@ -12738,7 +13529,8 @@
      "Blackwell Lane",
      "Blueberry Lane",
      "Evergreen Lane"
-    ]
+    ],
+    "nodeId": 85203828
    }
   },
   {
@@ -12755,7 +13547,8 @@
      "Blackwell Lane",
      "Brennan Lane",
      "Cochrane Lane"
-    ]
+    ],
+    "nodeId": 85203831
    }
   },
   {
@@ -12771,7 +13564,8 @@
     "streets": [
      "Blackwell Lane",
      "Railroad Avenue"
-    ]
+    ],
+    "nodeId": 85203835
    }
   },
   {
@@ -12787,7 +13581,8 @@
     "streets": [
      "Lesina Road",
      "Titus Road"
-    ]
+    ],
+    "nodeId": 85122683
    }
   },
   {
@@ -12803,7 +13598,8 @@
     "streets": [
      "Redwood Highway;US 199",
      "Shady Lane"
-    ]
+    ],
+    "nodeId": 85197364
    }
   },
   {
@@ -12819,7 +13615,8 @@
     "streets": [
      "Ocean View Drive;D5",
      "Rither Creek Lane"
-    ]
+    ],
+    "nodeId": 85203965
    }
   },
   {
@@ -12835,7 +13632,8 @@
     "streets": [
      "Beech Street",
      "Napa Street"
-    ]
+    ],
+    "nodeId": 85204306
    }
   },
   {
@@ -12851,7 +13649,8 @@
     "streets": [
      "Katie Lane",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85204357
    }
   },
   {
@@ -12867,7 +13666,8 @@
     "streets": [
      "Charm Lane",
      "Paul Place"
-    ]
+    ],
+    "nodeId": 85204378
    }
   },
   {
@@ -12883,7 +13683,8 @@
     "streets": [
      "Bethesda Way",
      "West Jefferson Street"
-    ]
+    ],
+    "nodeId": 85204397
    }
   },
   {
@@ -12899,7 +13700,8 @@
     "streets": [
      "Arlington Drive",
      "West Jefferson Street"
-    ]
+    ],
+    "nodeId": 85204403
    }
   },
   {
@@ -12915,7 +13717,8 @@
     "streets": [
      "Joaquin Street",
      "West Jefferson Street"
-    ]
+    ],
+    "nodeId": 6506507712
    }
   },
   {
@@ -12931,7 +13734,8 @@
     "streets": [
      "Napa Street",
      "West Jefferson Street"
-    ]
+    ],
+    "nodeId": 85204426
    }
   },
   {
@@ -12947,7 +13751,8 @@
     "streets": [
      "Plumas Street",
      "West Jefferson Street"
-    ]
+    ],
+    "nodeId": 85204441
    }
   },
   {
@@ -12963,7 +13768,8 @@
     "streets": [
      "Elk Valley Cross Road;D2",
      "Lynwood Lane"
-    ]
+    ],
+    "nodeId": 85204514
    }
   },
   {
@@ -12979,7 +13785,8 @@
     "streets": [
      "Ferndale Lane",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85204574
    }
   },
   {
@@ -12995,7 +13802,8 @@
     "streets": [
      "Del Norte Street",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 373692538
    }
   },
   {
@@ -13011,7 +13819,8 @@
     "streets": [
      "Del Norte Street",
      "Macken Avenue"
-    ]
+    ],
+    "nodeId": 85204586
    }
   },
   {
@@ -13027,7 +13836,8 @@
     "streets": [
      "Del Norte Street",
      "Lauff Avenue"
-    ]
+    ],
+    "nodeId": 85204588
    }
   },
   {
@@ -13043,7 +13853,8 @@
     "streets": [
      "Childs Avenue",
      "Del Norte Street"
-    ]
+    ],
+    "nodeId": 85204590
    }
   },
   {
@@ -13059,7 +13870,8 @@
     "streets": [
      "Del Norte Street",
      "Murphy Avenue"
-    ]
+    ],
+    "nodeId": 85204592
    }
   },
   {
@@ -13076,7 +13888,8 @@
      "Del Norte Street",
      "Dream Street",
      "Reddy Avenue"
-    ]
+    ],
+    "nodeId": 85204594
    }
   },
   {
@@ -13092,7 +13905,8 @@
     "streets": [
      "Ames Way",
      "Darby Street"
-    ]
+    ],
+    "nodeId": 85146448
    }
   },
   {
@@ -13108,7 +13922,8 @@
     "streets": [
      "Ames Way",
      "Bonnie Lane"
-    ]
+    ],
+    "nodeId": 85204613
    }
   },
   {
@@ -13124,7 +13939,8 @@
     "streets": [
      "Kern Street",
      "Reddy Avenue"
-    ]
+    ],
+    "nodeId": 85204684
    }
   },
   {
@@ -13140,7 +13956,8 @@
     "streets": [
      "Kern Street",
      "Lauff Avenue"
-    ]
+    ],
+    "nodeId": 85204691
    }
   },
   {
@@ -13156,7 +13973,8 @@
     "streets": [
      "Kern Street",
      "Murphy Avenue"
-    ]
+    ],
+    "nodeId": 85204701
    }
   },
   {
@@ -13172,7 +13990,8 @@
     "streets": [
      "Madison Avenue",
      "Northcrest Drive;D3"
-    ]
+    ],
+    "nodeId": 85185319
    }
   },
   {
@@ -13188,7 +14007,8 @@
     "streets": [
      "Madison Avenue",
      "Victoria Lane"
-    ]
+    ],
+    "nodeId": 563675449
    }
   },
   {
@@ -13204,7 +14024,8 @@
     "streets": [
      "Arlington Drive",
      "Madison Avenue"
-    ]
+    ],
+    "nodeId": 85204711
    }
   },
   {
@@ -13220,7 +14041,8 @@
     "streets": [
      "Elk Valley Road;D2",
      "Madison Avenue"
-    ]
+    ],
+    "nodeId": 85204785
    }
   },
   {
@@ -13236,7 +14058,8 @@
     "streets": [
      "Easy Street",
      "Howland Hill Road"
-    ]
+    ],
+    "nodeId": 84950945
    }
   },
   {
@@ -13252,7 +14075,8 @@
     "streets": [
      "Endert Street",
      "Roy Avenue"
-    ]
+    ],
+    "nodeId": 85204795
    }
   },
   {
@@ -13268,7 +14092,8 @@
     "streets": [
      "Endert Street",
      "Quinlan Avenue"
-    ]
+    ],
+    "nodeId": 85204796
    }
   },
   {
@@ -13284,7 +14109,8 @@
     "streets": [
      "Endert Street",
      "Peveler Avenue"
-    ]
+    ],
+    "nodeId": 85204797
    }
   },
   {
@@ -13300,7 +14126,8 @@
     "streets": [
      "Endert Street",
      "Oliver Avenue"
-    ]
+    ],
+    "nodeId": 85204798
    }
   },
   {
@@ -13316,7 +14143,8 @@
     "streets": [
      "Endert Street",
      "Nickel Avenue"
-    ]
+    ],
+    "nodeId": 85204800
    }
   },
   {
@@ -13332,7 +14160,8 @@
     "streets": [
      "North Bank Road;CA 197",
      "Salmon Berry Court"
-    ]
+    ],
+    "nodeId": 85204827
    }
   },
   {
@@ -13348,7 +14177,8 @@
     "streets": [
      "Hazeltime Road",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85197354
    }
   },
   {
@@ -13364,7 +14194,8 @@
     "streets": [
      "Charm Lane",
      "Old Mill Road"
-    ]
+    ],
+    "nodeId": 85207519
    }
   },
   {
@@ -13380,7 +14211,8 @@
     "streets": [
      "Front Street",
      "H Street"
-    ]
+    ],
+    "nodeId": 85207525
    }
   },
   {
@@ -13396,7 +14228,8 @@
     "streets": [
      "2nd Street",
      "H Street"
-    ]
+    ],
+    "nodeId": 85187046
    }
   },
   {
@@ -13412,7 +14245,8 @@
     "streets": [
      "3rd Street",
      "H Street"
-    ]
+    ],
+    "nodeId": 85201683
    }
   },
   {
@@ -13428,7 +14262,8 @@
     "streets": [
      "5th Street",
      "H Street"
-    ]
+    ],
+    "nodeId": 85207527
    }
   },
   {
@@ -13444,7 +14279,8 @@
     "streets": [
      "French Hill Road;CR 405",
      "French Hill Road;CR 411"
-    ]
+    ],
+    "nodeId": 85137442
    }
   },
   {
@@ -13461,7 +14297,8 @@
      "Big Flat Road",
      "Big Flat Road;CR 405",
      "South Fork Road;CR 427"
-    ]
+    ],
+    "nodeId": 85154264
    }
   },
   {
@@ -13477,7 +14314,8 @@
     "streets": [
      "Geroni Street",
      "Lopez Street"
-    ]
+    ],
+    "nodeId": 85019374
    }
   },
   {
@@ -13493,7 +14331,8 @@
     "streets": [
      "Chinook Street",
      "Geroni Street"
-    ]
+    ],
+    "nodeId": 85212298
    }
   },
   {
@@ -13509,7 +14348,8 @@
     "streets": [
      "Colton Street",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85212303
    }
   },
   {
@@ -13525,7 +14365,8 @@
     "streets": [
      "Inyo Street",
      "Kenwood Lane"
-    ]
+    ],
+    "nodeId": 85212329
    }
   },
   {
@@ -13542,7 +14383,8 @@
      "North Fork Loop",
      "North Fork Road",
      "Stony Creek Trail Road"
-    ]
+    ],
+    "nodeId": 85213046
    }
   },
   {
@@ -13558,7 +14400,8 @@
     "streets": [
      "State Street",
      "Waldo Street"
-    ]
+    ],
+    "nodeId": 85213132
    }
   },
   {
@@ -13574,7 +14417,8 @@
     "streets": [
      "Shirley Street",
      "Waldo Street"
-    ]
+    ],
+    "nodeId": 85213134
    }
   },
   {
@@ -13590,7 +14434,8 @@
     "streets": [
      "Howland Hill Road",
      "Waldo Street"
-    ]
+    ],
+    "nodeId": 84950950
    }
   },
   {
@@ -13606,7 +14451,8 @@
     "streets": [
      "Fir Street",
      "South Fork Road;CR 427"
-    ]
+    ],
+    "nodeId": 85153334
    }
   },
   {
@@ -13622,7 +14468,8 @@
     "streets": [
      "Brush Creek Road",
      "Earl Street"
-    ]
+    ],
+    "nodeId": 85213244
    }
   },
   {
@@ -13638,7 +14485,8 @@
     "streets": [
      "Madeleine Lane",
      "Malvin Murphy Lane"
-    ]
+    ],
+    "nodeId": 85213251
    }
   },
   {
@@ -13654,7 +14502,8 @@
     "streets": [
      "Madeleine Lane",
      "Sequoia Lane"
-    ]
+    ],
+    "nodeId": 85213287
    }
   },
   {
@@ -13670,7 +14519,8 @@
     "streets": [
      "Bethesda Way",
      "West Adams Avenue"
-    ]
+    ],
+    "nodeId": 85213297
    }
   },
   {
@@ -13687,7 +14537,8 @@
      "Ocean View Drive;D5",
      "Sarina Road North",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952370
    }
   },
   {
@@ -13703,7 +14554,8 @@
     "streets": [
      "Ocean View Drive;D5",
      "Shadow Lane"
-    ]
+    ],
+    "nodeId": 85213369
    }
   },
   {
@@ -13719,7 +14571,8 @@
     "streets": [
      "Lopez Road",
      "Ocean View Drive;D5"
-    ]
+    ],
+    "nodeId": 85213466
    }
   },
   {
@@ -13735,7 +14588,8 @@
     "streets": [
      "Ocean Heights Way",
      "Ocean View Drive;D5"
-    ]
+    ],
+    "nodeId": 85213493
    }
   },
   {
@@ -13752,7 +14606,8 @@
      "Knutsen Lane",
      "US 101",
      "Ulrich Lane"
-    ]
+    ],
+    "nodeId": 84952090
    }
   },
   {
@@ -13768,7 +14623,8 @@
     "streets": [
      "High Meadow Drive",
      "Knutsen Lane"
-    ]
+    ],
+    "nodeId": 85213745
    }
   },
   {
@@ -13784,7 +14640,8 @@
     "streets": [
      "Deer Meadow Way",
      "Elk Valley Cross Road;D2"
-    ]
+    ],
+    "nodeId": 6506498338
    }
   },
   {
@@ -13800,7 +14657,8 @@
     "streets": [
      "Dryden Lane",
      "Elk Valley Cross Road;D2"
-    ]
+    ],
+    "nodeId": 85213798
    }
   },
   {
@@ -13816,7 +14674,8 @@
     "streets": [
      "Elk Valley Cross Road;D2",
      "Movie Lane"
-    ]
+    ],
+    "nodeId": 85213801
    }
   },
   {
@@ -13832,7 +14691,8 @@
     "streets": [
      "Elk Valley Cross Road;D2",
      "Parker Lane"
-    ]
+    ],
+    "nodeId": 3288191917
    }
   },
   {
@@ -13848,7 +14708,8 @@
     "streets": [
      "Elk Valley Cross Road;D2",
      "Lake Earl Drive;D3"
-    ]
+    ],
+    "nodeId": 85213803
    }
   },
   {
@@ -13864,7 +14725,8 @@
     "streets": [
      "Burke Lane",
      "Cummins Lane"
-    ]
+    ],
+    "nodeId": 85213828
    }
   },
   {
@@ -13880,7 +14742,8 @@
     "streets": [
      "Taylor Street",
      "West 7th Street"
-    ]
+    ],
+    "nodeId": 85161263
    }
   },
   {
@@ -13897,7 +14760,8 @@
      "7th Street",
      "A Street",
      "West 7th Street"
-    ]
+    ],
+    "nodeId": 85174937
    }
   },
   {
@@ -13913,7 +14777,8 @@
     "streets": [
      "Granite Road",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85213844
    }
   },
   {
@@ -13930,7 +14795,8 @@
      "Maiden Lane",
      "Nelson Lane",
      "Union Street"
-    ]
+    ],
+    "nodeId": 85213906
    }
   },
   {
@@ -13946,7 +14812,8 @@
     "streets": [
      "Carson Drive",
      "Surf Drive"
-    ]
+    ],
+    "nodeId": 85213963
    }
   },
   {
@@ -13962,7 +14829,8 @@
     "streets": [
      "Surf Drive",
      "Vergine Drive"
-    ]
+    ],
+    "nodeId": 85213965
    }
   },
   {
@@ -13978,7 +14846,8 @@
     "streets": [
      "Placone Street",
      "Surf Drive"
-    ]
+    ],
+    "nodeId": 85213967
    }
   },
   {
@@ -13994,7 +14863,8 @@
     "streets": [
      "Surf Drive",
      "Valentine Street"
-    ]
+    ],
+    "nodeId": 85213969
    }
   },
   {
@@ -14010,7 +14880,8 @@
     "streets": [
      "5th Street",
      "B Street"
-    ]
+    ],
+    "nodeId": 85214002
    }
   },
   {
@@ -14026,7 +14897,8 @@
     "streets": [
      "6th Street",
      "B Street"
-    ]
+    ],
+    "nodeId": 85214004
    }
   },
   {
@@ -14042,7 +14914,8 @@
     "streets": [
      "7th Street",
      "B Street"
-    ]
+    ],
+    "nodeId": 85214007
    }
   },
   {
@@ -14058,7 +14931,8 @@
     "streets": [
      "Darby Street",
      "Griffen Avenue"
-    ]
+    ],
+    "nodeId": 85146453
    }
   },
   {
@@ -14074,7 +14948,8 @@
     "streets": [
      "Brookings Avenue",
      "First Street"
-    ]
+    ],
+    "nodeId": 85214018
    }
   },
   {
@@ -14090,7 +14965,8 @@
     "streets": [
      "First Street",
      "Westbrook Lane"
-    ]
+    ],
+    "nodeId": 85214020
    }
   },
   {
@@ -14106,7 +14982,8 @@
     "streets": [
      "Darby Street",
      "Edwards Avenue"
-    ]
+    ],
+    "nodeId": 85146460
    }
   },
   {
@@ -14122,7 +14999,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Tedsen Lane"
-    ]
+    ],
+    "nodeId": 85214485
    }
   },
   {
@@ -14138,7 +15016,8 @@
     "streets": [
      "Amador Street",
      "Macken Avenue"
-    ]
+    ],
+    "nodeId": 85214491
    }
   },
   {
@@ -14154,7 +15033,8 @@
     "streets": [
      "Amador Street",
      "Lauff Avenue"
-    ]
+    ],
+    "nodeId": 85214493
    }
   },
   {
@@ -14170,7 +15050,8 @@
     "streets": [
      "Amador Street",
      "Childs Avenue"
-    ]
+    ],
+    "nodeId": 85214495
    }
   },
   {
@@ -14186,7 +15067,8 @@
     "streets": [
      "Amador Street",
      "West Washington Boulevard;D1"
-    ]
+    ],
+    "nodeId": 373692611
    }
   },
   {
@@ -14202,7 +15084,8 @@
     "streets": [
      "Lopez Street",
      "Surfsound Court"
-    ]
+    ],
+    "nodeId": 84961918
    }
   },
   {
@@ -14218,7 +15101,8 @@
     "streets": [
      "Lakeside Loop",
      "Vipond Drive"
-    ]
+    ],
+    "nodeId": 85214573
    }
   },
   {
@@ -14234,7 +15118,8 @@
     "streets": [
      "A Drive",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 84952445
    }
   },
   {
@@ -14250,7 +15135,8 @@
     "streets": [
      "Gasquet Flat Road",
      "Stage Coach Road"
-    ]
+    ],
+    "nodeId": 85215166
    }
   },
   {
@@ -14266,7 +15152,8 @@
     "streets": [
      "Reynolds Lane",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952124
    }
   },
   {
@@ -14282,7 +15169,8 @@
     "streets": [
      "Cooke Street",
      "Elk Valley Road;D2"
-    ]
+    ],
+    "nodeId": 85215185
    }
   },
   {
@@ -14298,7 +15186,8 @@
     "streets": [
      "Cooke Street",
      "Lenore Way"
-    ]
+    ],
+    "nodeId": 85215186
    }
   },
   {
@@ -14314,7 +15203,8 @@
     "streets": [
      "Cooke Street",
      "Olivine Way"
-    ]
+    ],
+    "nodeId": 85215188
    }
   },
   {
@@ -14330,7 +15220,8 @@
     "streets": [
      "Cooke Street",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85215191
    }
   },
   {
@@ -14346,7 +15237,8 @@
     "streets": [
      "Green Gate Road",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85199864
    }
   },
   {
@@ -14362,7 +15254,8 @@
     "streets": [
      "Siskiyou Street",
      "Yonkers Lane"
-    ]
+    ],
+    "nodeId": 85215598
    }
   },
   {
@@ -14378,7 +15271,8 @@
     "streets": [
      "Harding Avenue",
      "Oregon Street"
-    ]
+    ],
+    "nodeId": 85172307
    }
   },
   {
@@ -14394,7 +15288,8 @@
     "streets": [
      "Cleveland Lane",
      "French Hill Road;CR 411"
-    ]
+    ],
+    "nodeId": 85207942
    }
   },
   {
@@ -14410,7 +15305,8 @@
     "streets": [
      "French Hill Road;CR 411",
      "Old South Fork Highway"
-    ]
+    ],
+    "nodeId": 85207764
    }
   },
   {
@@ -14426,7 +15322,8 @@
     "streets": [
      "Distelrath Drive",
      "Landis Street"
-    ]
+    ],
+    "nodeId": 85103051
    }
   },
   {
@@ -14442,7 +15339,8 @@
     "streets": [
      "Curtain Street",
      "Distelrath Drive"
-    ]
+    ],
+    "nodeId": 85216429
    }
   },
   {
@@ -14458,7 +15356,8 @@
     "streets": [
      "Madrone Street",
      "South Fork Road;CR 427"
-    ]
+    ],
+    "nodeId": 85153346
    }
   },
   {
@@ -14474,7 +15373,8 @@
     "streets": [
      "Redwood Highway;US 101",
      "Sandmine Road"
-    ]
+    ],
+    "nodeId": 85151641
    }
   },
   {
@@ -14490,7 +15390,8 @@
     "streets": [
      "Tamarak Drive",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952145
    }
   },
   {
@@ -14506,7 +15407,8 @@
     "streets": [
      "Charleston Road",
      "Tamarak Drive"
-    ]
+    ],
+    "nodeId": 6506389573
    }
   },
   {
@@ -14522,7 +15424,8 @@
     "streets": [
      "6th Street",
      "F Street"
-    ]
+    ],
+    "nodeId": 563675215
    }
   },
   {
@@ -14538,7 +15441,8 @@
     "streets": [
      "6th Street",
      "H Street"
-    ]
+    ],
+    "nodeId": 85207528
    }
   },
   {
@@ -14554,7 +15458,8 @@
     "streets": [
      "6th Street",
      "I Street"
-    ]
+    ],
+    "nodeId": 85217799
    }
   },
   {
@@ -14570,7 +15475,8 @@
     "streets": [
      "6th Street",
      "K Street"
-    ]
+    ],
+    "nodeId": 85217801
    }
   },
   {
@@ -14586,7 +15492,8 @@
     "streets": [
      "6th Street",
      "L Street;US 101"
-    ]
+    ],
+    "nodeId": 85217803
    }
   },
   {
@@ -14602,7 +15509,8 @@
     "streets": [
      "6th Street",
      "M Street;US 101"
-    ]
+    ],
+    "nodeId": 85175574
    }
   },
   {
@@ -14619,7 +15527,8 @@
      "6th Street",
      "A Street",
      "West 6th Street"
-    ]
+    ],
+    "nodeId": 85174935
    }
   },
   {
@@ -14635,7 +15544,8 @@
     "streets": [
      "6th Street",
      "C Street"
-    ]
+    ],
+    "nodeId": 85217808
    }
   },
   {
@@ -14651,7 +15561,8 @@
     "streets": [
      "Hinckley Drive",
      "Placone Street"
-    ]
+    ],
+    "nodeId": 85218380
    }
   },
   {
@@ -14667,7 +15578,8 @@
     "streets": [
      "Hinckley Drive",
      "Valentine Street"
-    ]
+    ],
+    "nodeId": 85218382
    }
   },
   {
@@ -14683,7 +15595,8 @@
     "streets": [
      "Old Gasquet Toll Road;CR 311",
      "Old Gasquet Toll Road;CR 314"
-    ]
+    ],
+    "nodeId": 84991194
    }
   },
   {
@@ -14699,7 +15612,8 @@
     "streets": [
      "Buzzini Road",
      "Lake Earl Drive;D3"
-    ]
+    ],
+    "nodeId": 85220923
    }
   },
   {
@@ -14716,7 +15630,8 @@
      "East Macken Avenue",
      "Macken Avenue",
      "Meridian Street"
-    ]
+    ],
+    "nodeId": 85220945
    }
   },
   {
@@ -14732,7 +15647,8 @@
     "streets": [
      "Calaveras Street",
      "Macken Avenue"
-    ]
+    ],
+    "nodeId": 85220957
    }
   },
   {
@@ -14748,7 +15664,8 @@
     "streets": [
      "Fresno Street",
      "Macken Avenue"
-    ]
+    ],
+    "nodeId": 85220959
    }
   },
   {
@@ -14764,7 +15681,8 @@
     "streets": [
      "Inyo Street",
      "Macken Avenue"
-    ]
+    ],
+    "nodeId": 85220961
    }
   },
   {
@@ -14780,7 +15698,8 @@
     "streets": [
      "Macken Avenue",
      "North Pebble Beach Drive"
-    ]
+    ],
+    "nodeId": 85182684
    }
   },
   {
@@ -14796,7 +15715,8 @@
     "streets": [
      "Macken Avenue",
      "Modoc Street"
-    ]
+    ],
+    "nodeId": 85220972
    }
   },
   {
@@ -14812,7 +15732,8 @@
     "streets": [
      "Malvin Murphy Lane",
      "Nadine Lane"
-    ]
+    ],
+    "nodeId": 85220992
    }
   },
   {
@@ -14828,7 +15749,8 @@
     "streets": [
      "Beasley Road",
      "Gertrudes Lane"
-    ]
+    ],
+    "nodeId": 85221012
    }
   },
   {
@@ -14844,7 +15766,8 @@
     "streets": [
      "Northcrest Drive;D3",
      "Old Mill Road"
-    ]
+    ],
+    "nodeId": 85185329
    }
   },
   {
@@ -14860,7 +15783,8 @@
     "streets": [
      "Lagoon Street",
      "Old Mill Road"
-    ]
+    ],
+    "nodeId": 563675901
    }
   },
   {
@@ -14876,7 +15800,8 @@
     "streets": [
      "Laurel Lane",
      "Old Mill Road"
-    ]
+    ],
+    "nodeId": 85221225
    }
   },
   {
@@ -14892,7 +15817,8 @@
     "streets": [
      "Lazy Lane",
      "Old Mill Road"
-    ]
+    ],
+    "nodeId": 2997152500
    }
   },
   {
@@ -14908,7 +15834,8 @@
     "streets": [
      "Hights Access Road",
      "Old Mill Road"
-    ]
+    ],
+    "nodeId": 85221306
    }
   },
   {
@@ -14924,7 +15851,8 @@
     "streets": [
      "Old Mill Road",
      "Sand Hill Road"
-    ]
+    ],
+    "nodeId": 85203931
    }
   },
   {
@@ -14940,7 +15868,8 @@
     "streets": [
      "Elk Valley Cross Road;D2",
      "Our Road"
-    ]
+    ],
+    "nodeId": 85213785
    }
   },
   {
@@ -14956,7 +15885,8 @@
     "streets": [
      "Fizer Lane",
      "Fizer Road"
-    ]
+    ],
+    "nodeId": 85222052
    }
   },
   {
@@ -14972,7 +15902,8 @@
     "streets": [
      "Frosty Lane",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952148
    }
   },
   {
@@ -14988,7 +15919,8 @@
     "streets": [
      "Gavin Road",
      "Wila Jean Lane"
-    ]
+    ],
+    "nodeId": 85222139
    }
   },
   {
@@ -15004,7 +15936,8 @@
     "streets": [
      "Childs Avenue",
      "Meridian Street"
-    ]
+    ],
+    "nodeId": 85222158
    }
   },
   {
@@ -15020,7 +15953,8 @@
     "streets": [
      "Ehlers Avenue",
      "Klamath Boulevard"
-    ]
+    ],
+    "nodeId": 85222178
    }
   },
   {
@@ -15036,7 +15970,8 @@
     "streets": [
      "Ehlers Avenue",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 84953180
    }
   },
   {
@@ -15052,7 +15987,8 @@
     "streets": [
      "Front Street",
      "K Street"
-    ]
+    ],
+    "nodeId": 85224626
    }
   },
   {
@@ -15068,7 +16004,8 @@
     "streets": [
      "2nd Street",
      "K Street"
-    ]
+    ],
+    "nodeId": 85187050
    }
   },
   {
@@ -15084,7 +16021,8 @@
     "streets": [
      "3rd Street",
      "K Street"
-    ]
+    ],
+    "nodeId": 85201685
    }
   },
   {
@@ -15100,7 +16038,8 @@
     "streets": [
      "5th Street",
      "K Street"
-    ]
+    ],
+    "nodeId": 85224630
    }
   },
   {
@@ -15116,7 +16055,8 @@
     "streets": [
      "Cassel Lane",
      "Norma Court"
-    ]
+    ],
+    "nodeId": 85224672
    }
   },
   {
@@ -15132,7 +16072,8 @@
     "streets": [
      "Joy Lane",
      "Timbers Boulevard"
-    ]
+    ],
+    "nodeId": 85224932
    }
   },
   {
@@ -15148,7 +16089,8 @@
     "streets": [
      "Broken Tee Lane",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 85151843
    }
   },
   {
@@ -15164,7 +16106,8 @@
     "streets": [
      "North Bank Road;CA 197",
      "Slaughter Way"
-    ]
+    ],
+    "nodeId": 5136284024
    }
   },
   {
@@ -15180,7 +16123,8 @@
     "streets": [
      "Club Drive",
      "North Bank Road;CA 197"
-    ]
+    ],
+    "nodeId": 85225079
    }
   },
   {
@@ -15196,7 +16140,8 @@
     "streets": [
      "Bell Hole Loop",
      "North Bank Road;CA 197"
-    ]
+    ],
+    "nodeId": 85225104
    }
   },
   {
@@ -15212,7 +16157,8 @@
     "streets": [
      "Jed Smith Lane",
      "North Bank Road;CA 197"
-    ]
+    ],
+    "nodeId": 85225108
    }
   },
   {
@@ -15228,7 +16174,8 @@
     "streets": [
      "North Bank Road;CA 197",
      "Sun River Road"
-    ]
+    ],
+    "nodeId": 85225227
    }
   },
   {
@@ -15244,7 +16191,8 @@
     "streets": [
      "Peine Road",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 85151800
    }
   },
   {
@@ -15260,7 +16208,8 @@
     "streets": [
      "Duncan Road",
      "Zwierlein Drive"
-    ]
+    ],
+    "nodeId": 85225875
    }
   },
   {
@@ -15276,7 +16225,8 @@
     "streets": [
      "Klamath Glen Road;CA 169",
      "Terwer Valley Road"
-    ]
+    ],
+    "nodeId": 85225878
    }
   },
   {
@@ -15292,7 +16242,8 @@
     "streets": [
      "Alder Camp Road",
      "Klamath Beach Road;D8"
-    ]
+    ],
+    "nodeId": 85086093
    }
   },
   {
@@ -15308,7 +16259,8 @@
     "streets": [
      "Klamath Beach Road",
      "Klamath Beach Road;D8"
-    ]
+    ],
+    "nodeId": 85226588
    }
   },
   {
@@ -15324,7 +16276,8 @@
     "streets": [
      "Laurel Lane",
      "Vincent Road"
-    ]
+    ],
+    "nodeId": 85226855
    }
   },
   {
@@ -15340,7 +16293,8 @@
     "streets": [
      "Vincent Road",
      "Vincent Street"
-    ]
+    ],
+    "nodeId": 85226874
    }
   },
   {
@@ -15356,7 +16310,8 @@
     "streets": [
      "Calaveras Street",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 85212356
    }
   },
   {
@@ -15372,7 +16327,8 @@
     "streets": [
      "Calaveras Street",
      "Lauff Avenue"
-    ]
+    ],
+    "nodeId": 85226905
    }
   },
   {
@@ -15388,7 +16344,8 @@
     "streets": [
      "Calaveras Street",
      "Childs Avenue"
-    ]
+    ],
+    "nodeId": 85226907
    }
   },
   {
@@ -15404,7 +16361,8 @@
     "streets": [
      "Calaveras Street",
      "Murphy Avenue"
-    ]
+    ],
+    "nodeId": 85226909
    }
   },
   {
@@ -15420,7 +16378,8 @@
     "streets": [
      "Crescent Street",
      "East Cooper Avenue"
-    ]
+    ],
+    "nodeId": 85226918
    }
   },
   {
@@ -15436,7 +16395,8 @@
     "streets": [
      "Gilbert Way",
      "US 101"
-    ]
+    ],
+    "nodeId": 84951977
    }
   },
   {
@@ -15452,7 +16412,8 @@
     "streets": [
      "Grand Street",
      "Stanton Avenue"
-    ]
+    ],
+    "nodeId": 85227343
    }
   },
   {
@@ -15468,7 +16429,8 @@
     "streets": [
      "Grand Street",
      "Seville Avenue"
-    ]
+    ],
+    "nodeId": 85227345
    }
   },
   {
@@ -15484,7 +16446,8 @@
     "streets": [
      "Grand Street",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 85212350
    }
   },
   {
@@ -15500,7 +16463,8 @@
     "streets": [
      "Blueberry Lane",
      "Troyna Court"
-    ]
+    ],
+    "nodeId": 85227349
    }
   },
   {
@@ -15516,7 +16480,8 @@
     "streets": [
      "Knotty Pine Lane",
      "Malvin Murphy Lane"
-    ]
+    ],
+    "nodeId": 85003161
    }
   },
   {
@@ -15532,7 +16497,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Malvin Murphy Lane"
-    ]
+    ],
+    "nodeId": 85227389
    }
   },
   {
@@ -15548,7 +16514,8 @@
     "streets": [
      "Monopoly Road",
      "Summer Lane"
-    ]
+    ],
+    "nodeId": 85228258
    }
   },
   {
@@ -15564,7 +16531,8 @@
     "streets": [
      "Embarcadero Drive",
      "Summer Lane"
-    ]
+    ],
+    "nodeId": 85228260
    }
   },
   {
@@ -15580,7 +16548,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Lower Lake Road"
-    ]
+    ],
+    "nodeId": 85228286
    }
   },
   {
@@ -15596,7 +16565,8 @@
     "streets": [
      "Kellogg Road",
      "Lower Lake Road"
-    ]
+    ],
+    "nodeId": 85228428
    }
   },
   {
@@ -15612,7 +16582,8 @@
     "streets": [
      "Lower Lake Road",
      "Silva Road"
-    ]
+    ],
+    "nodeId": 85228489
    }
   },
   {
@@ -15628,7 +16599,8 @@
     "streets": [
      "Lower Lake Road",
      "Pala Road"
-    ]
+    ],
+    "nodeId": 85074107
    }
   },
   {
@@ -15644,7 +16616,8 @@
     "streets": [
      "Klamath Glen Road;CA 169",
      "Klamath Mill Road"
-    ]
+    ],
+    "nodeId": 85144184
    }
   },
   {
@@ -15660,7 +16633,8 @@
     "streets": [
      "Chapman Street",
      "Klamath Glen Road;CA 169"
-    ]
+    ],
+    "nodeId": 85066956
    }
   },
   {
@@ -15676,7 +16650,8 @@
     "streets": [
      "7th Street",
      "E Street"
-    ]
+    ],
+    "nodeId": 563675227
    }
   },
   {
@@ -15692,7 +16667,8 @@
     "streets": [
      "E Street",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 85212354
    }
   },
   {
@@ -15708,7 +16684,8 @@
     "streets": [
      "E Street",
      "Front Street"
-    ]
+    ],
+    "nodeId": 85230590
    }
   },
   {
@@ -15724,7 +16701,8 @@
     "streets": [
      "2nd Street",
      "E Street"
-    ]
+    ],
+    "nodeId": 85187042
    }
   },
   {
@@ -15740,7 +16718,8 @@
     "streets": [
      "3rd Street",
      "E Street"
-    ]
+    ],
+    "nodeId": 85201681
    }
   },
   {
@@ -15756,7 +16735,8 @@
     "streets": [
      "5th Street",
      "E Street"
-    ]
+    ],
+    "nodeId": 563675206
    }
   },
   {
@@ -15772,7 +16752,8 @@
     "streets": [
      "Elk Valley Road;D2",
      "Minnesota Avenue"
-    ]
+    ],
+    "nodeId": 85230946
    }
   },
   {
@@ -15788,7 +16769,8 @@
     "streets": [
      "Front Street",
      "South A Street"
-    ]
+    ],
+    "nodeId": 85174930
    }
   },
   {
@@ -15804,7 +16786,8 @@
     "streets": [
      "B Street",
      "Front Street"
-    ]
+    ],
+    "nodeId": 85214000
    }
   },
   {
@@ -15820,7 +16803,8 @@
     "streets": [
      "F Street",
      "Front Street"
-    ]
+    ],
+    "nodeId": 85230968
    }
   },
   {
@@ -15837,7 +16821,8 @@
      "Minot Creek Road",
      "Redwood Highway;US 101",
      "Requa Road;D7"
-    ]
+    ],
+    "nodeId": 85151790
    }
   },
   {
@@ -15853,7 +16838,8 @@
     "streets": [
      "Elk Valley Cross Road;D2",
      "Schlack's Lane"
-    ]
+    ],
+    "nodeId": 85213777
    }
   },
   {
@@ -15869,7 +16855,8 @@
     "streets": [
      "Emily Lane",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85231747
    }
   },
   {
@@ -15885,7 +16872,8 @@
     "streets": [
      "Cessna Drive",
      "Lorenzo Lane"
-    ]
+    ],
+    "nodeId": 85231773
    }
   },
   {
@@ -15901,7 +16889,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Wier Lane"
-    ]
+    ],
+    "nodeId": 85231795
    }
   },
   {
@@ -15917,7 +16906,8 @@
     "streets": [
      "Moore Place",
      "Railroad Avenue"
-    ]
+    ],
+    "nodeId": 85231817
    }
   },
   {
@@ -15933,7 +16923,8 @@
     "streets": [
      "Brookings Avenue",
      "Highland Avenue"
-    ]
+    ],
+    "nodeId": 85231854
    }
   },
   {
@@ -15949,7 +16940,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Standard Veneer Road"
-    ]
+    ],
+    "nodeId": 85231926
    }
   },
   {
@@ -15966,7 +16958,8 @@
      "East Washington Boulevard",
      "East Washington Boulevard;D1",
      "US 101"
-    ]
+    ],
+    "nodeId": 85118527
    }
   },
   {
@@ -15982,7 +16975,8 @@
     "streets": [
      "East Washington Boulevard;D1",
      "US 101"
-    ]
+    ],
+    "nodeId": 84961523
    }
   },
   {
@@ -15998,7 +16992,8 @@
     "streets": [
      "East Washington Boulevard;D1",
      "Summer Lane"
-    ]
+    ],
+    "nodeId": 85228285
    }
   },
   {
@@ -16014,7 +17009,8 @@
     "streets": [
      "East Washington Boulevard;D1",
      "Northcrest Drive;D3"
-    ]
+    ],
+    "nodeId": 85185306
    }
   },
   {
@@ -16031,7 +17027,8 @@
      "Gasquet Middle Fork Road",
      "North Fork Road",
      "Old Gasquet Toll Road;CR 311"
-    ]
+    ],
+    "nodeId": 85218392
    }
   },
   {
@@ -16047,7 +17044,8 @@
     "streets": [
      "Madame Gasquet Lane",
      "North Fork Road"
-    ]
+    ],
+    "nodeId": 85234259
    }
   },
   {
@@ -16063,7 +17061,8 @@
     "streets": [
      "State Street",
      "Temple Street"
-    ]
+    ],
+    "nodeId": 85234296
    }
   },
   {
@@ -16079,7 +17078,8 @@
     "streets": [
      "Shirley Street",
      "Temple Street"
-    ]
+    ],
+    "nodeId": 85234302
    }
   },
   {
@@ -16095,7 +17095,8 @@
     "streets": [
      "Howland Hill Road",
      "Temple Street"
-    ]
+    ],
+    "nodeId": 84950944
    }
   },
   {
@@ -16111,7 +17112,8 @@
     "streets": [
      "Beckett Lane",
      "Elk Valley Road;D2"
-    ]
+    ],
+    "nodeId": 85234307
    }
   },
   {
@@ -16127,7 +17129,8 @@
     "streets": [
      "Kasey Court",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85234447
    }
   },
   {
@@ -16144,7 +17147,8 @@
      "Elk Valley Road;D2",
      "Harbor View Dr",
      "Norris Ave"
-    ]
+    ],
+    "nodeId": 85234902
    }
   },
   {
@@ -16160,7 +17164,8 @@
     "streets": [
      "Gasquet Flat Road",
      "Hummingbird Lane"
-    ]
+    ],
+    "nodeId": 85234924
    }
   },
   {
@@ -16176,7 +17181,8 @@
     "streets": [
      "7th Street",
      "C Street"
-    ]
+    ],
+    "nodeId": 85235431
    }
   },
   {
@@ -16192,7 +17198,8 @@
     "streets": [
      "7th Street",
      "F Street"
-    ]
+    ],
+    "nodeId": 563675233
    }
   },
   {
@@ -16208,7 +17215,8 @@
     "streets": [
      "7th Street",
      "G Street"
-    ]
+    ],
+    "nodeId": 85163635
    }
   },
   {
@@ -16224,7 +17232,8 @@
     "streets": [
      "7th Street",
      "H Street"
-    ]
+    ],
+    "nodeId": 85207529
    }
   },
   {
@@ -16240,7 +17249,8 @@
     "streets": [
      "7th Street",
      "I Street"
-    ]
+    ],
+    "nodeId": 85235435
    }
   },
   {
@@ -16256,7 +17266,8 @@
     "streets": [
      "7th Street",
      "K Street"
-    ]
+    ],
+    "nodeId": 85224635
    }
   },
   {
@@ -16272,7 +17283,8 @@
     "streets": [
      "7th Street",
      "L Street;US 101"
-    ]
+    ],
+    "nodeId": 85235437
    }
   },
   {
@@ -16288,7 +17300,8 @@
     "streets": [
      "7th Street",
      "M Street;US 101"
-    ]
+    ],
+    "nodeId": 85175576
    }
   },
   {
@@ -16304,7 +17317,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Vipond Court"
-    ]
+    ],
+    "nodeId": 85236100
    }
   },
   {
@@ -16320,7 +17334,8 @@
     "streets": [
      "Placone Street",
      "Vergine Drive"
-    ]
+    ],
+    "nodeId": 85236134
    }
   },
   {
@@ -16336,7 +17351,8 @@
     "streets": [
      "Valentine Street",
      "Vergine Drive"
-    ]
+    ],
+    "nodeId": 85236136
    }
   },
   {
@@ -16352,7 +17368,8 @@
     "streets": [
      "Front Street",
      "I Street"
-    ]
+    ],
+    "nodeId": 85230970
    }
   },
   {
@@ -16368,7 +17385,8 @@
     "streets": [
      "3rd Street",
      "I Street"
-    ]
+    ],
+    "nodeId": 85201684
    }
   },
   {
@@ -16384,7 +17402,8 @@
     "streets": [
      "Earl Street",
      "Lake Earl Drive;D3"
-    ]
+    ],
+    "nodeId": 85236153
    }
   },
   {
@@ -16400,7 +17419,8 @@
     "streets": [
      "Lopez Street",
      "Richards Street"
-    ]
+    ],
+    "nodeId": 84961928
    }
   },
   {
@@ -16416,7 +17436,8 @@
     "streets": [
      "Chinook Street",
      "Richards Street"
-    ]
+    ],
+    "nodeId": 85236211
    }
   },
   {
@@ -16432,7 +17453,8 @@
     "streets": [
      "Klamath Street",
      "Laguna Street"
-    ]
+    ],
+    "nodeId": 85236353
    }
   },
   {
@@ -16448,7 +17470,8 @@
     "streets": [
      "Klamath Street",
      "Yonkers Lane"
-    ]
+    ],
+    "nodeId": 85236363
    }
   },
   {
@@ -16464,7 +17487,8 @@
     "streets": [
      "US 101",
      "Wilson Lane"
-    ]
+    ],
+    "nodeId": 84952067
    }
   },
   {
@@ -16480,7 +17504,8 @@
     "streets": [
      "South Fred D Haight Drive;D4",
      "Wilson Lane"
-    ]
+    ],
+    "nodeId": 85236968
    }
   },
   {
@@ -16496,7 +17521,8 @@
     "streets": [
      "Country Lane",
      "Railroad Avenue"
-    ]
+    ],
+    "nodeId": 85236991
    }
   },
   {
@@ -16512,7 +17538,8 @@
     "streets": [
      "Modoc Street",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 85212348
    }
   },
   {
@@ -16528,7 +17555,8 @@
     "streets": [
      "Lauff Avenue",
      "Modoc Street"
-    ]
+    ],
+    "nodeId": 85237015
    }
   },
   {
@@ -16544,7 +17572,8 @@
     "streets": [
      "Modoc Street",
      "Murphy Avenue"
-    ]
+    ],
+    "nodeId": 85237019
    }
   },
   {
@@ -16560,7 +17589,8 @@
     "streets": [
      "Harbor View Dr",
      "Seashore Drive"
-    ]
+    ],
+    "nodeId": 85234910
    }
   },
   {
@@ -16576,7 +17606,8 @@
     "streets": [
      "Seashore Drive",
      "Shore Cliff Drive"
-    ]
+    ],
+    "nodeId": 85237026
    }
   },
   {
@@ -16592,7 +17623,8 @@
     "streets": [
      "Sea Foam Drive",
      "Seashore Drive"
-    ]
+    ],
+    "nodeId": 85237032
    }
   },
   {
@@ -16608,7 +17640,8 @@
     "streets": [
      "Douglas Park Drive;CR 417",
      "Rain Tree Road"
-    ]
+    ],
+    "nodeId": 85167152
    }
   },
   {
@@ -16624,7 +17657,8 @@
     "streets": [
      "Fire House Road",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85197941
    }
   },
   {
@@ -16640,7 +17674,8 @@
     "streets": [
      "Fire House Road",
      "Gasquet Flat Road"
-    ]
+    ],
+    "nodeId": 11149275013
    }
   },
   {
@@ -16656,7 +17691,8 @@
     "streets": [
      "Dean Lane",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952944
    }
   },
   {
@@ -16673,7 +17709,8 @@
      "1st Street",
      "Sarina Road",
      "Sarina Road North"
-    ]
+    ],
+    "nodeId": 85214030
    }
   },
   {
@@ -16689,7 +17726,8 @@
     "streets": [
      "Barker Street",
      "State Street"
-    ]
+    ],
+    "nodeId": 85238648
    }
   },
   {
@@ -16705,7 +17743,8 @@
     "streets": [
      "Barker Street",
      "Shirley Street"
-    ]
+    ],
+    "nodeId": 85238650
    }
   },
   {
@@ -16721,7 +17760,8 @@
     "streets": [
      "Barker Street",
      "Howland Hill Road"
-    ]
+    ],
+    "nodeId": 84950947
    }
   },
   {
@@ -16738,7 +17778,8 @@
      "Gasquet Flat Road",
      "Redwood Highway;US 199",
      "Valley View Road"
-    ]
+    ],
+    "nodeId": 85197915
    }
   },
   {
@@ -16754,7 +17795,8 @@
     "streets": [
      "Elk View Road",
      "Tsunami Lane"
-    ]
+    ],
+    "nodeId": 85239115
    }
   },
   {
@@ -16770,7 +17812,8 @@
     "streets": [
      "Arlington Drive",
      "West Washington Boulevard;D1"
-    ]
+    ],
+    "nodeId": 85239712
    }
   },
   {
@@ -16787,7 +17830,8 @@
      "Adams Avenue",
      "Arlington Drive",
      "West Adams Avenue"
-    ]
+    ],
+    "nodeId": 85239731
    }
   },
   {
@@ -16803,7 +17847,8 @@
     "streets": [
      "Arlington Drive",
      "Joaquin Street"
-    ]
+    ],
+    "nodeId": 6506507706
    }
   },
   {
@@ -16819,7 +17864,8 @@
     "streets": [
      "Carole Lane",
      "Monopoly Road"
-    ]
+    ],
+    "nodeId": 85239743
    }
   },
   {
@@ -16835,7 +17881,8 @@
     "streets": [
      "Lagoon Street",
      "Penny Lane"
-    ]
+    ],
+    "nodeId": 563675908
    }
   },
   {
@@ -16851,7 +17898,8 @@
     "streets": [
      "Anchor Way",
      "Starfish Way"
-    ]
+    ],
+    "nodeId": 85240056
    }
   },
   {
@@ -16867,7 +17915,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Vipond Drive"
-    ]
+    ],
+    "nodeId": 85240169
    }
   },
   {
@@ -16883,7 +17932,8 @@
     "streets": [
      "Clayton Drive",
      "Vipond Drive"
-    ]
+    ],
+    "nodeId": 3288191927
    }
   },
   {
@@ -16899,7 +17949,8 @@
     "streets": [
      "Carole Lane",
      "Embarcadero Drive"
-    ]
+    ],
+    "nodeId": 2997152745
    }
   },
   {
@@ -16915,7 +17966,8 @@
     "streets": [
      "Arnett Street",
      "Northcrest Drive;D3"
-    ]
+    ],
+    "nodeId": 85185315
    }
   },
   {
@@ -16931,7 +17983,8 @@
     "streets": [
      "Nita Drive",
      "Placone Street"
-    ]
+    ],
+    "nodeId": 85242283
    }
   },
   {
@@ -16947,7 +18000,8 @@
     "streets": [
      "Elk Valley Road;D2",
      "Maiden Lane"
-    ]
+    ],
+    "nodeId": 85242290
    }
   },
   {
@@ -16963,7 +18017,8 @@
     "streets": [
      "Elk Valley Road;D2",
      "Michigan Avenue"
-    ]
+    ],
+    "nodeId": 85242291
    }
   },
   {
@@ -16980,7 +18035,8 @@
      "Lopez Road",
      "Lopez Street",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952954
    }
   },
   {
@@ -16996,7 +18052,8 @@
     "streets": [
      "Joshua Road",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85242386
    }
   },
   {
@@ -17012,7 +18069,8 @@
     "streets": [
      "Jaccard Street",
      "West Condor Street"
-    ]
+    ],
+    "nodeId": 85242639
    }
   },
   {
@@ -17028,7 +18086,8 @@
     "streets": [
      "Hamilton Road",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 85152707
    }
   },
   {
@@ -17044,7 +18103,8 @@
     "streets": [
      "Childs Avenue",
      "Inyo Street"
-    ]
+    ],
+    "nodeId": 85243379
    }
   },
   {
@@ -17060,7 +18120,8 @@
     "streets": [
      "Childs Avenue",
      "Fresno Street"
-    ]
+    ],
+    "nodeId": 85243381
    }
   },
   {
@@ -17077,7 +18138,8 @@
      "A Street",
      "Inyo Street",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 373692529
    }
   },
   {
@@ -17093,7 +18155,8 @@
     "streets": [
      "Inyo Street",
      "Lauff Avenue"
-    ]
+    ],
+    "nodeId": 85243410
    }
   },
   {
@@ -17109,7 +18172,8 @@
     "streets": [
      "Inyo Street",
      "Murphy Avenue"
-    ]
+    ],
+    "nodeId": 85243411
    }
   },
   {
@@ -17125,7 +18189,8 @@
     "streets": [
      "Inyo Street",
      "Reddy Avenue"
-    ]
+    ],
+    "nodeId": 85221624
    }
   },
   {
@@ -17141,7 +18206,8 @@
     "streets": [
      "Inyo Street",
      "West Washington Boulevard;D1"
-    ]
+    ],
+    "nodeId": 85243456
    }
   },
   {
@@ -17157,7 +18223,8 @@
     "streets": [
      "Elk Valley Road;D2",
      "National Boulevard"
-    ]
+    ],
+    "nodeId": 85244012
    }
   },
   {
@@ -17173,7 +18240,8 @@
     "streets": [
      "Ebba Lane",
      "Lake Earl Drive;D3"
-    ]
+    ],
+    "nodeId": 85244284
    }
   },
   {
@@ -17189,7 +18257,8 @@
     "streets": [
      "Crowville Street",
      "East Hoover Avenue"
-    ]
+    ],
+    "nodeId": 85244289
    }
   },
   {
@@ -17205,7 +18274,8 @@
     "streets": [
      "Fresno Street",
      "Murphy Avenue"
-    ]
+    ],
+    "nodeId": 85244309
    }
   },
   {
@@ -17221,7 +18291,8 @@
     "streets": [
      "Lake Street",
      "Murphy Avenue"
-    ]
+    ],
+    "nodeId": 85155218
    }
   },
   {
@@ -17237,7 +18308,8 @@
     "streets": [
      "Heggen Lane",
      "Lake Earl Drive;D3"
-    ]
+    ],
+    "nodeId": 85244678
    }
   },
   {
@@ -17253,7 +18325,8 @@
     "streets": [
      "Mc Millian Road",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 84953216
    }
   },
   {
@@ -17269,7 +18342,8 @@
     "streets": [
      "Fresno Street",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 85212352
    }
   },
   {
@@ -17285,7 +18359,8 @@
     "streets": [
      "Fresno Street",
      "Lauff Avenue"
-    ]
+    ],
+    "nodeId": 85245001
    }
   },
   {
@@ -17301,7 +18376,8 @@
     "streets": [
      "Fresno Street",
      "Reddy Avenue"
-    ]
+    ],
+    "nodeId": 85221622
    }
   },
   {
@@ -17317,7 +18393,8 @@
     "streets": [
      "South Fred D Haight Drive;D4",
      "Ulrich Lane"
-    ]
+    ],
+    "nodeId": 85245017
    }
   },
   {
@@ -17333,7 +18410,8 @@
     "streets": [
      "Taylor Street",
      "West 6th Street"
-    ]
+    ],
+    "nodeId": 85161260
    }
   },
   {
@@ -17349,7 +18427,8 @@
     "streets": [
      "South Fred D Haight Drive;D4",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952099
    }
   },
   {
@@ -17365,7 +18444,8 @@
     "streets": [
      "Mountain View Drive",
      "South Fred D Haight Drive;D4"
-    ]
+    ],
+    "nodeId": 85247496
    }
   },
   {
@@ -17381,7 +18461,8 @@
     "streets": [
      "Rainbow Lane",
      "South Fred D Haight Drive;D4"
-    ]
+    ],
+    "nodeId": 85247510
    }
   },
   {
@@ -17397,7 +18478,8 @@
     "streets": [
      "Jed Smith Lane",
      "Tolowa Road"
-    ]
+    ],
+    "nodeId": 85225754
    }
   },
   {
@@ -17413,7 +18495,8 @@
     "streets": [
      "Redwood Highway;US 199",
      "Storm Way"
-    ]
+    ],
+    "nodeId": 85197344
    }
   },
   {
@@ -17429,7 +18512,8 @@
     "streets": [
      "Church Tree Road",
      "Elk Valley Road;D2"
-    ]
+    ],
+    "nodeId": 85122626
    }
   },
   {
@@ -17445,7 +18529,8 @@
     "streets": [
      "Redwood Drive",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 85151845
    }
   },
   {
@@ -17461,7 +18546,8 @@
     "streets": [
      "Angel Lane",
      "Lake Earl Drive;D3"
-    ]
+    ],
+    "nodeId": 85248132
    }
   },
   {
@@ -17477,7 +18563,8 @@
     "streets": [
      "Napa Street",
      "West Washington Boulevard;D1"
-    ]
+    ],
+    "nodeId": 375780395
    }
   },
   {
@@ -17493,7 +18580,8 @@
     "streets": [
      "Napa Street",
      "West Adams Avenue"
-    ]
+    ],
+    "nodeId": 85248148
    }
   },
   {
@@ -17509,7 +18597,8 @@
     "streets": [
      "Madison Avenue",
      "Napa Street"
-    ]
+    ],
+    "nodeId": 85204741
    }
   },
   {
@@ -17525,7 +18614,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Reneken Road"
-    ]
+    ],
+    "nodeId": 85248156
    }
   },
   {
@@ -17541,7 +18631,8 @@
     "streets": [
      "Railroad Avenue",
      "Susan Lane"
-    ]
+    ],
+    "nodeId": 85248167
    }
   },
   {
@@ -17557,7 +18648,8 @@
     "streets": [
      "Front Street",
      "L Street;US 101"
-    ]
+    ],
+    "nodeId": 85230979
    }
   },
   {
@@ -17573,7 +18665,8 @@
     "streets": [
      "Genevieve Lane",
      "Lake Earl Drive;D3"
-    ]
+    ],
+    "nodeId": 85248581
    }
   },
   {
@@ -17589,7 +18682,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Rio Drive"
-    ]
+    ],
+    "nodeId": 85248591
    }
   },
   {
@@ -17605,7 +18699,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952113
    }
   },
   {
@@ -17621,7 +18716,8 @@
     "streets": [
      "Laurel Lane",
      "Mc Beth Way"
-    ]
+    ],
+    "nodeId": 85249134
    }
   },
   {
@@ -17637,7 +18733,8 @@
     "streets": [
      "McNamara Road",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85249236
    }
   },
   {
@@ -17653,7 +18750,8 @@
     "streets": [
      "High Meadow Drive",
      "Hilltop Manor"
-    ]
+    ],
+    "nodeId": 85249466
    }
   },
   {
@@ -17669,7 +18767,8 @@
     "streets": [
      "5th Street",
      "C Street"
-    ]
+    ],
+    "nodeId": 85243370
    }
   },
   {
@@ -17685,7 +18784,8 @@
     "streets": [
      "5th Street",
      "F Street"
-    ]
+    ],
+    "nodeId": 563675210
    }
   },
   {
@@ -17701,7 +18801,8 @@
     "streets": [
      "5th Street",
      "I Street"
-    ]
+    ],
+    "nodeId": 85236148
    }
   },
   {
@@ -17717,7 +18818,8 @@
     "streets": [
      "Howland Hill Road",
      "Pike Street"
-    ]
+    ],
+    "nodeId": 84950934
    }
   },
   {
@@ -17733,7 +18835,8 @@
     "streets": [
      "Crashers Road",
      "Northcrest Drive;D3"
-    ]
+    ],
+    "nodeId": 85185335
    }
   },
   {
@@ -17749,7 +18852,8 @@
     "streets": [
      "Elk Valley",
      "Elk Valley Road;D2"
-    ]
+    ],
+    "nodeId": 85249975
    }
   },
   {
@@ -17765,7 +18869,8 @@
     "streets": [
      "Houlie Drive",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85197346
    }
   },
   {
@@ -17781,7 +18886,8 @@
     "streets": [
      "Cable Rock Road",
      "Houlie Drive"
-    ]
+    ],
+    "nodeId": 85250762
    }
   },
   {
@@ -17797,7 +18903,8 @@
     "streets": [
      "East Jefferson Street",
      "Elk Valley Road;D2"
-    ]
+    ],
+    "nodeId": 85250778
    }
   },
   {
@@ -17813,7 +18920,8 @@
     "streets": [
      "Douglas Park Drive;CR 417",
      "Hartwick Way"
-    ]
+    ],
+    "nodeId": 85167158
    }
   },
   {
@@ -17829,7 +18937,8 @@
     "streets": [
      "Timbers Boulevard",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952053
    }
   },
   {
@@ -17845,7 +18954,8 @@
     "streets": [
      "Arrow Mill Road",
      "Klamath Glen Road;CA 169"
-    ]
+    ],
+    "nodeId": 85229537
    }
   },
   {
@@ -17861,7 +18971,8 @@
     "streets": [
      "2nd Street",
      "F Street"
-    ]
+    ],
+    "nodeId": 85187044
    }
   },
   {
@@ -17877,7 +18988,8 @@
     "streets": [
      "3rd Street",
      "F Street"
-    ]
+    ],
+    "nodeId": 85201682
    }
   },
   {
@@ -17893,7 +19005,8 @@
     "streets": [
      "Cessna Drive",
      "Parkview Lane"
-    ]
+    ],
+    "nodeId": 85251673
    }
   },
   {
@@ -17909,7 +19022,8 @@
     "streets": [
      "Lesina Road",
      "Titus Drive"
-    ]
+    ],
+    "nodeId": 85251722
    }
   },
   {
@@ -17925,7 +19039,8 @@
     "streets": [
      "East Hoover Avenue",
      "Oregon Street"
-    ]
+    ],
+    "nodeId": 85172309
    }
   },
   {
@@ -17941,7 +19056,8 @@
     "streets": [
      "East Hoover Avenue",
      "Northcrest Drive;D3"
-    ]
+    ],
+    "nodeId": 85185298
    }
   },
   {
@@ -17957,7 +19073,8 @@
     "streets": [
      "East Hoover Avenue",
      "Jordan Street"
-    ]
+    ],
+    "nodeId": 85253456
    }
   },
   {
@@ -17973,7 +19090,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Yonkers Lane"
-    ]
+    ],
+    "nodeId": 85248646
    }
   },
   {
@@ -17989,7 +19107,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Park Avenue"
-    ]
+    ],
+    "nodeId": 85248653
    }
   },
   {
@@ -18005,7 +19124,8 @@
     "streets": [
      "Parkway Drive",
      "Railroad Avenue"
-    ]
+    ],
+    "nodeId": 85249377
    }
   },
   {
@@ -18021,7 +19141,8 @@
     "streets": [
      "Elk Valley Road;D2",
      "Short Avenue"
-    ]
+    ],
+    "nodeId": 85253324
    }
   },
   {
@@ -18037,7 +19158,8 @@
     "streets": [
      "Cassel Lane",
      "Elk Valley Road;D2"
-    ]
+    ],
+    "nodeId": 85253358
    }
   },
   {
@@ -18053,7 +19175,8 @@
     "streets": [
      "Darby Street",
      "Fleming Avenue"
-    ]
+    ],
+    "nodeId": 85146454
    }
   },
   {
@@ -18069,7 +19192,8 @@
     "streets": [
      "A Street",
      "Jackie Street"
-    ]
+    ],
+    "nodeId": 85174946
    }
   },
   {
@@ -18085,7 +19209,8 @@
     "streets": [
      "Anchor Way",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 85151609
    }
   },
   {
@@ -18101,7 +19226,8 @@
     "streets": [
      "Redwood Highway;US 101",
      "Wilson Creek Road"
-    ]
+    ],
+    "nodeId": 85151968
    }
   },
   {
@@ -18117,7 +19243,8 @@
     "streets": [
      "11th Street",
      "G Street"
-    ]
+    ],
+    "nodeId": 85163641
    }
   },
   {
@@ -18133,7 +19260,8 @@
     "streets": [
      "11th Street",
      "H Street"
-    ]
+    ],
+    "nodeId": 85207530
    }
   },
   {
@@ -18149,7 +19277,8 @@
     "streets": [
      "A Street",
      "West Indra Street"
-    ]
+    ],
+    "nodeId": 85174945
    }
   },
   {
@@ -18165,7 +19294,8 @@
     "streets": [
      "Elk Valley Road;D2",
      "State Street"
-    ]
+    ],
+    "nodeId": 85253333
    }
   },
   {
@@ -18181,7 +19311,8 @@
     "streets": [
      "Pike Street",
      "State Street"
-    ]
+    ],
+    "nodeId": 85249590
    }
   },
   {
@@ -18197,7 +19328,8 @@
     "streets": [
      "Howland Hill Road",
      "Victory Lane"
-    ]
+    ],
+    "nodeId": 84950923
    }
   },
   {
@@ -18213,7 +19345,8 @@
     "streets": [
      "Elk Valley Cross Road;D2",
      "Lesina Road"
-    ]
+    ],
+    "nodeId": 85213782
    }
   },
   {
@@ -18229,7 +19362,8 @@
     "streets": [
      "Parkview Lane",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85057608
    }
   },
   {
@@ -18245,7 +19379,8 @@
     "streets": [
      "Lauff Avenue",
      "North Pebble Beach Drive"
-    ]
+    ],
+    "nodeId": 85182690
    }
   },
   {
@@ -18261,7 +19396,25 @@
     "streets": [
      "Coastal Drive",
      "Newton B Drury Scenic Parkway"
+    ],
+    "nodeId": 85795561
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1897372,
+     41.7694438
     ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "US 101"
+    ],
+    "nodeId": 276096921
    }
   },
   {
@@ -18277,7 +19430,8 @@
     "streets": [
      "Redwood Highway;US 199",
      "Walker Road"
-    ]
+    ],
+    "nodeId": 85197192
    }
   },
   {
@@ -18293,7 +19447,8 @@
     "streets": [
      "North Fred D Haight Drive;D4",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952394
    }
   },
   {
@@ -18309,7 +19464,8 @@
     "streets": [
      "North Bank Road;CA 197",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952101
    }
   },
   {
@@ -18325,7 +19481,8 @@
     "streets": [
      "Northcrest Drive;D3",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 84952263
    }
   },
   {
@@ -18341,7 +19498,8 @@
     "streets": [
      "Chinook Street",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952949
    }
   },
   {
@@ -18357,7 +19515,8 @@
     "streets": [
      "Morrison Creek Road",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952077
    }
   },
   {
@@ -18373,7 +19532,8 @@
     "streets": [
      "Mountain View Drive",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952086
    }
   },
   {
@@ -18390,7 +19550,8 @@
      "Elk Valley Cross Road;D2",
      "Elk Valley Road",
      "Elk Valley Road;D2"
-    ]
+    ],
+    "nodeId": 85213766
    }
   },
   {
@@ -18406,7 +19567,8 @@
     "streets": [
      "Elk Valley Road",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85249393
    }
   },
   {
@@ -18422,7 +19584,8 @@
     "streets": [
      "King Street",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 85151602
    }
   },
   {
@@ -18438,7 +19601,8 @@
     "streets": [
      "Humboldt Road",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 3847323578
    }
   },
   {
@@ -18454,7 +19618,8 @@
     "streets": [
      "Enderts Beach Road",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 3847323620
    }
   },
   {
@@ -18470,7 +19635,8 @@
     "streets": [
      "Redwood Highway;US 199",
      "South Fork Road;CR 427"
-    ]
+    ],
+    "nodeId": 85154194
    }
   },
   {
@@ -18486,7 +19652,8 @@
     "streets": [
      "Pharr Lane",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85196765
    }
   },
   {
@@ -18502,7 +19669,8 @@
     "streets": [
      "North Bank Road;CA 197",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85197259
    }
   },
   {
@@ -18518,7 +19686,8 @@
     "streets": [
      "Patrick Creek Road;CR 316",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85174128
    }
   },
   {
@@ -18534,7 +19703,8 @@
     "streets": [
      "Coastal Drive",
      "Klamath Beach Road"
-    ]
+    ],
+    "nodeId": 85154524
    }
   },
   {
@@ -18550,7 +19720,8 @@
     "streets": [
      "Douglas Park Drive",
      "Howland Hill Road"
-    ]
+    ],
+    "nodeId": 85167065
    }
   },
   {
@@ -18566,7 +19737,8 @@
     "streets": [
      "Island View Drive",
      "US 101"
-    ]
+    ],
+    "nodeId": 84952885
    }
   },
   {
@@ -18582,7 +19754,8 @@
     "streets": [
      "Ocean View Drive;D5",
      "Spyglass Road"
-    ]
+    ],
+    "nodeId": 85185201
    }
   },
   {
@@ -18598,7 +19771,8 @@
     "streets": [
      "East Washington Boulevard;D1",
      "Oregon Street"
-    ]
+    ],
+    "nodeId": 373692615
    }
   },
   {
@@ -18614,7 +19788,8 @@
     "streets": [
      "2nd Street",
      "C Street"
-    ]
+    ],
+    "nodeId": 85187040
    }
   },
   {
@@ -18630,7 +19805,8 @@
     "streets": [
      "3rd Street",
      "L Street;US 101"
-    ]
+    ],
+    "nodeId": 85201686
    }
   },
   {
@@ -18646,7 +19822,8 @@
     "streets": [
      "3rd Street",
      "M Street;US 101"
-    ]
+    ],
+    "nodeId": 85175571
    }
   },
   {
@@ -18662,7 +19839,8 @@
     "streets": [
      "10th Street",
      "H Street"
-    ]
+    ],
+    "nodeId": 85182751
    }
   },
   {
@@ -18679,7 +19857,8 @@
      "H Street",
      "Meridian Street",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 373692551
    }
   },
   {
@@ -18695,7 +19874,8 @@
     "streets": [
      "10th Street",
      "G Street"
-    ]
+    ],
+    "nodeId": 85163640
    }
   },
   {
@@ -18711,7 +19891,8 @@
     "streets": [
      "G Street",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 373692549
    }
   },
   {
@@ -18727,7 +19908,8 @@
     "streets": [
      "5th Street",
      "M Street;US 101"
-    ]
+    ],
+    "nodeId": 85175572
    }
   },
   {
@@ -18743,7 +19925,8 @@
     "streets": [
      "4th Street",
      "L Street;US 101"
-    ]
+    ],
+    "nodeId": 85164628
    }
   },
   {
@@ -18759,7 +19942,8 @@
     "streets": [
      "4th Street",
      "M Street;US 101"
-    ]
+    ],
+    "nodeId": 85164630
    }
   },
   {
@@ -18775,7 +19959,8 @@
     "streets": [
      "Skinney Lane",
      "Tomasin Road"
-    ]
+    ],
+    "nodeId": 2964532728
    }
   },
   {
@@ -18791,7 +19976,8 @@
     "streets": [
      "Scenic Creek Drive",
      "Summer Lane"
-    ]
+    ],
+    "nodeId": 85228272
    }
   },
   {
@@ -18807,7 +19993,8 @@
     "streets": [
      "Scenic Creek Drive",
      "Summer Park Court"
-    ]
+    ],
+    "nodeId": 2997152744
    }
   },
   {
@@ -18823,7 +20010,8 @@
     "streets": [
      "Summer Lane",
      "Winding Creek Circle"
-    ]
+    ],
+    "nodeId": 2997152742
    }
   },
   {
@@ -18839,7 +20027,8 @@
     "streets": [
      "Anderson Way",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 2997149104
    }
   },
   {
@@ -18855,7 +20044,8 @@
     "streets": [
      "Douglas Park Drive;CR 417",
      "South Fork Road;CR 427"
-    ]
+    ],
+    "nodeId": 85154119
    }
   },
   {
@@ -18871,7 +20061,8 @@
     "streets": [
      "A Street",
      "Pacific Avenue"
-    ]
+    ],
+    "nodeId": 3286864929
    }
   },
   {
@@ -18887,7 +20078,8 @@
     "streets": [
      "Shoreline Drive",
      "US 101"
-    ]
+    ],
+    "nodeId": 3372341622
    }
   },
   {
@@ -18903,7 +20095,8 @@
     "streets": [
      "Shoreline Drive",
      "Wavecrest Drive"
-    ]
+    ],
+    "nodeId": 3372341626
    }
   },
   {
@@ -18919,7 +20112,8 @@
     "streets": [
      "A10",
      "Arrow Mill Road"
-    ]
+    ],
+    "nodeId": 85251614
    }
   },
   {
@@ -18935,7 +20129,8 @@
     "streets": [
      "Patrick Creek Road;CR 316",
      "Wimer Road;NF 4402"
-    ]
+    ],
+    "nodeId": 9662115763
    }
   },
   {
@@ -18951,7 +20146,8 @@
     "streets": [
      "5th Street",
      "L Street;US 101"
-    ]
+    ],
+    "nodeId": 85248279
    }
   },
   {
@@ -18967,7 +20163,8 @@
     "streets": [
      "Ashford Road",
      "North Bank Road;CA 197"
-    ]
+    ],
+    "nodeId": 85203088
    }
   },
   {
@@ -18983,7 +20180,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Rock Billy Drive"
-    ]
+    ],
+    "nodeId": 85003028
    }
   },
   {
@@ -18999,7 +20197,8 @@
     "streets": [
      "DAT-NAA-SVT",
      "Ocean View Drive;D5"
-    ]
+    ],
+    "nodeId": 8035657971
    }
   },
   {
@@ -19015,7 +20214,8 @@
     "streets": [
      "Isabella Road",
      "Joaquin Street"
-    ]
+    ],
+    "nodeId": 6506507721
    }
   },
   {
@@ -19031,7 +20231,8 @@
     "streets": [
      "Adams Avenue",
      "Isabella Road"
-    ]
+    ],
+    "nodeId": 6506507716
    }
   },
   {
@@ -19048,7 +20249,8 @@
      "Elk Valley Cross Road;D2",
      "Redwood Highway;US 199",
      "US 199"
-    ]
+    ],
+    "nodeId": 85196835
    }
   },
   {
@@ -19064,7 +20266,8 @@
     "streets": [
      "Red Mountain Road",
      "Red Mountain Road;FR 14N01"
-    ]
+    ],
+    "nodeId": 85159374
    }
   },
   {
@@ -19080,7 +20283,8 @@
     "streets": [
      "DAT-NAA-SVT",
      "Dat-naa-svt Loop"
-    ]
+    ],
+    "nodeId": 8035657969
    }
   },
   {
@@ -19097,7 +20301,8 @@
      "Chis-chu Lane",
      "DAT-NAA-SVT",
      "Tee-la Lane"
-    ]
+    ],
+    "nodeId": 8561868303
    }
   },
   {
@@ -19113,7 +20318,8 @@
     "streets": [
      "DAT-NAA-SVT",
      "Duu-ma Lane"
-    ]
+    ],
+    "nodeId": 8035657966
    }
   },
   {
@@ -19129,7 +20335,8 @@
     "streets": [
      "Elk Valley Cross Road;D2",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85213767
    }
   },
   {
@@ -19145,7 +20352,8 @@
     "streets": [
      "Battery Street",
      "South A Street"
-    ]
+    ],
+    "nodeId": 84948521
    }
   },
   {
@@ -19161,7 +20369,8 @@
     "streets": [
      "French Hill Road;CR 411",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85197882
    }
   },
   {
@@ -19177,7 +20386,8 @@
     "streets": [
      "Humboldt Road",
      "Sandmine Road"
-    ]
+    ],
+    "nodeId": 8562027894
    }
   },
   {
@@ -19193,7 +20403,8 @@
     "streets": [
      "Frontage Road",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 84946977
    }
   },
   {
@@ -19209,7 +20420,8 @@
     "streets": [
      "Frontage Road",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 84947030
    }
   },
   {
@@ -19225,7 +20437,8 @@
     "streets": [
      "Freeman Street",
      "Sea View Circle"
-    ]
+    ],
+    "nodeId": 84948644
    }
   },
   {
@@ -19241,7 +20454,8 @@
     "streets": [
      "Freeman Street",
      "Sea View Circle"
-    ]
+    ],
+    "nodeId": 84948647
    }
   },
   {
@@ -19257,7 +20471,8 @@
     "streets": [
      "Red Mountain Road",
      "U10"
-    ]
+    ],
+    "nodeId": 84957926
    }
   },
   {
@@ -19273,7 +20488,8 @@
     "streets": [
      "Red Mountain Road",
      "U10"
-    ]
+    ],
+    "nodeId": 85072303
    }
   },
   {
@@ -19289,7 +20505,8 @@
     "streets": [
      "Klamath Boulevard",
      "Klamath Circle"
-    ]
+    ],
+    "nodeId": 85066885
    }
   },
   {
@@ -19305,7 +20522,8 @@
     "streets": [
      "Klamath Boulevard",
      "Klamath Circle"
-    ]
+    ],
+    "nodeId": 85066903
    }
   },
   {
@@ -19321,7 +20539,8 @@
     "streets": [
      "Gasquet-Orleans Road;NF 15",
      "Rock Creek Road;FR 13N10"
-    ]
+    ],
+    "nodeId": 85109732
    }
   },
   {
@@ -19337,7 +20556,8 @@
     "streets": [
      "Gasquet-Orleans Road;NF 15",
      "Rock Creek Road;FR 13N10"
-    ]
+    ],
+    "nodeId": 92220393
    }
   },
   {
@@ -19353,7 +20573,8 @@
     "streets": [
      "Beech Street",
      "Riverside Street"
-    ]
+    ],
+    "nodeId": 6506389574
    }
   },
   {
@@ -19369,7 +20590,8 @@
     "streets": [
      "Beech Street",
      "Riverside Street"
-    ]
+    ],
+    "nodeId": 2997152505
    }
   },
   {
@@ -19385,7 +20607,8 @@
     "streets": [
      "Ocean Drive",
      "Tell Boulevard"
-    ]
+    ],
+    "nodeId": 85142101
    }
   },
   {
@@ -19401,7 +20624,8 @@
     "streets": [
      "East Kalmath Beach Road",
      "Southeast Klamath Beach Road"
-    ]
+    ],
+    "nodeId": 85142559
    }
   },
   {
@@ -19417,7 +20641,8 @@
     "streets": [
      "East Kalmath Beach Road",
      "Southeast Klamath Beach Road"
-    ]
+    ],
+    "nodeId": 85142647
    }
   },
   {
@@ -19433,7 +20658,8 @@
     "streets": [
      "Kellogg Road",
      "Tell Boulevard"
-    ]
+    ],
+    "nodeId": 85142846
    }
   },
   {
@@ -19449,7 +20675,8 @@
     "streets": [
      "Kellogg Road",
      "Tell Boulevard"
-    ]
+    ],
+    "nodeId": 85142944
    }
   },
   {
@@ -19465,7 +20692,8 @@
     "streets": [
      "Porteck Street",
      "Tell Boulevard"
-    ]
+    ],
+    "nodeId": 85142848
    }
   },
   {
@@ -19481,7 +20709,8 @@
     "streets": [
      "Placone Street",
      "Tell Boulevard"
-    ]
+    ],
+    "nodeId": 85142852
    }
   },
   {
@@ -19497,7 +20726,8 @@
     "streets": [
      "Nita Drive",
      "Tell Boulevard"
-    ]
+    ],
+    "nodeId": 85142857
    }
   },
   {
@@ -19513,7 +20743,8 @@
     "streets": [
      "Distelrath Drive",
      "Tell Boulevard"
-    ]
+    ],
+    "nodeId": 85142859
    }
   },
   {
@@ -19529,7 +20760,8 @@
     "streets": [
      "Fisher Drive",
      "Tell Boulevard"
-    ]
+    ],
+    "nodeId": 85142861
    }
   },
   {
@@ -19545,7 +20777,8 @@
     "streets": [
      "Hinckley Drive",
      "Tell Boulevard"
-    ]
+    ],
+    "nodeId": 85142863
    }
   },
   {
@@ -19561,7 +20794,8 @@
     "streets": [
      "Carson Place",
      "Tell Boulevard"
-    ]
+    ],
+    "nodeId": 85142867
    }
   },
   {
@@ -19577,7 +20811,8 @@
     "streets": [
      "Middleton Drive",
      "Tell Boulevard"
-    ]
+    ],
+    "nodeId": 85142869
    }
   },
   {
@@ -19593,7 +20828,8 @@
     "streets": [
      "Tell Boulevard",
      "Wright Street"
-    ]
+    ],
+    "nodeId": 85142891
    }
   },
   {
@@ -19609,7 +20845,8 @@
     "streets": [
      "Bruegger Street",
      "Tell Boulevard"
-    ]
+    ],
+    "nodeId": 85142896
    }
   },
   {
@@ -19625,7 +20862,8 @@
     "streets": [
      "Grace Lane",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85142974
    }
   },
   {
@@ -19641,7 +20879,8 @@
     "streets": [
      "Grace Lane",
      "Parkway Drive"
-    ]
+    ],
+    "nodeId": 85143019
    }
   },
   {
@@ -19657,7 +20896,8 @@
     "streets": [
      "Coho Lane",
      "Elk Valley Cross Road;D2"
-    ]
+    ],
+    "nodeId": 85143077
    }
   },
   {
@@ -19673,7 +20913,8 @@
     "streets": [
      "Coho Lane",
      "Elk Valley Cross Road;D2"
-    ]
+    ],
+    "nodeId": 6506498348
    }
   },
   {
@@ -19689,7 +20930,8 @@
     "streets": [
      "Redwood Highway;US 101",
      "Sanders Road"
-    ]
+    ],
+    "nodeId": 85118753
    }
   },
   {
@@ -19705,7 +20947,8 @@
     "streets": [
      "Redwood Highway;US 101",
      "Sanders Road"
-    ]
+    ],
+    "nodeId": 85143154
    }
   },
   {
@@ -19721,7 +20964,8 @@
     "streets": [
      "Azalea Drive",
      "Redwood Drive"
-    ]
+    ],
+    "nodeId": 85145542
    }
   },
   {
@@ -19737,7 +20981,8 @@
     "streets": [
      "Azalea Drive",
      "Redwood Drive"
-    ]
+    ],
+    "nodeId": 85145573
    }
   },
   {
@@ -19753,7 +20998,8 @@
     "streets": [
      "Terwer Riffle Road",
      "Trinity Way"
-    ]
+    ],
+    "nodeId": 85100609
    }
   },
   {
@@ -19769,7 +21015,8 @@
     "streets": [
      "Terwer Riffle Road",
      "Trinity Way"
-    ]
+    ],
+    "nodeId": 8027125313
    }
   },
   {
@@ -19785,7 +21032,8 @@
     "streets": [
      "Weber Drive",
      "Zwierlein Drive"
-    ]
+    ],
+    "nodeId": 85149907
    }
   },
   {
@@ -19801,7 +21049,8 @@
     "streets": [
      "Weber Drive",
      "Zwierlein Drive"
-    ]
+    ],
+    "nodeId": 85225862
    }
   },
   {
@@ -19817,7 +21066,8 @@
     "streets": [
      "Joaquin Street",
      "West Washington Boulevard;D1"
-    ]
+    ],
+    "nodeId": 375780423
    }
   },
   {
@@ -19833,7 +21083,8 @@
     "streets": [
      "Joaquin Street",
      "West Washington Boulevard;D1"
-    ]
+    ],
+    "nodeId": 6506507710
    }
   },
   {
@@ -19849,7 +21100,8 @@
     "streets": [
      "Del Ponte Drive",
      "Duncan Road"
-    ]
+    ],
+    "nodeId": 85167217
    }
   },
   {
@@ -19865,7 +21117,8 @@
     "streets": [
      "Del Ponte Drive",
      "Duncan Road"
-    ]
+    ],
+    "nodeId": 85167252
    }
   },
   {
@@ -19881,7 +21134,8 @@
     "streets": [
      "Carole Lane",
      "Pine Grove Road"
-    ]
+    ],
+    "nodeId": 85174655
    }
   },
   {
@@ -19897,7 +21151,8 @@
     "streets": [
      "Carole Lane",
      "Pine Grove Road"
-    ]
+    ],
+    "nodeId": 85174692
    }
   },
   {
@@ -19913,7 +21168,8 @@
     "streets": [
      "Henry Lane",
      "South Bank Road"
-    ]
+    ],
+    "nodeId": 85175107
    }
   },
   {
@@ -19929,7 +21185,8 @@
     "streets": [
      "Henry Lane",
      "South Bank Road"
-    ]
+    ],
+    "nodeId": 85175113
    }
   },
   {
@@ -19945,7 +21202,8 @@
     "streets": [
      "Blackwell Lane",
      "Kyle Lane"
-    ]
+    ],
+    "nodeId": 85176364
    }
   },
   {
@@ -19961,7 +21219,8 @@
     "streets": [
      "Blackwell Lane",
      "Kyle Lane"
-    ]
+    ],
+    "nodeId": 85176365
    }
   },
   {
@@ -19977,7 +21236,8 @@
     "streets": [
      "North Bank Road;CA 197",
      "Tan Oak Drive"
-    ]
+    ],
+    "nodeId": 85176514
    }
   },
   {
@@ -19993,7 +21253,8 @@
     "streets": [
      "North Bank Road;CA 197",
      "Tan Oak Drive"
-    ]
+    ],
+    "nodeId": 85091065
    }
   },
   {
@@ -20009,7 +21270,8 @@
     "streets": [
      "Hunter Creek Road",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 85151815
    }
   },
   {
@@ -20025,7 +21287,8 @@
     "streets": [
      "Hunter Creek Road",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 85151810
    }
   },
   {
@@ -20042,7 +21305,8 @@
      "Howe Drive",
      "Play Street",
      "Stamps Way"
-    ]
+    ],
+    "nodeId": 85184183
    }
   },
   {
@@ -20059,7 +21323,8 @@
      "Howe Drive",
      "Play Street",
      "Stamps Way"
-    ]
+    ],
+    "nodeId": 85184186
    }
   },
   {
@@ -20075,7 +21340,8 @@
     "streets": [
      "Easter Court",
      "North Fork Road"
-    ]
+    ],
+    "nodeId": 85185529
    }
   },
   {
@@ -20091,7 +21357,8 @@
     "streets": [
      "Easter Court",
      "North Fork Road"
-    ]
+    ],
+    "nodeId": 85185545
    }
   },
   {
@@ -20107,7 +21374,8 @@
     "streets": [
      "Adair Street",
      "Elk Valley Road;D2"
-    ]
+    ],
+    "nodeId": 85188415
    }
   },
   {
@@ -20123,7 +21391,8 @@
     "streets": [
      "Adair Street",
      "Elk Valley Road;D2"
-    ]
+    ],
+    "nodeId": 85188416
    }
   },
   {
@@ -20139,7 +21408,8 @@
     "streets": [
      "Kings Valley Road",
      "South Kraft Road"
-    ]
+    ],
+    "nodeId": 85188534
    }
   },
   {
@@ -20155,7 +21425,8 @@
     "streets": [
      "Kings Valley Road",
      "South Kraft Road"
-    ]
+    ],
+    "nodeId": 85097476
    }
   },
   {
@@ -20171,7 +21442,8 @@
     "streets": [
      "Oregon Mountain Road;CR 324",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85188843
    }
   },
   {
@@ -20187,7 +21459,8 @@
     "streets": [
      "Oregon Mountain Road;CR 324",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85104736
    }
   },
   {
@@ -20203,7 +21476,8 @@
     "streets": [
      "Front Street",
      "Stamps Way"
-    ]
+    ],
+    "nodeId": 85190279
    }
   },
   {
@@ -20219,7 +21493,8 @@
     "streets": [
      "Front Street",
      "Stamps Way"
-    ]
+    ],
+    "nodeId": 85190282
    }
   },
   {
@@ -20235,7 +21510,8 @@
     "streets": [
      "Bailey Road",
      "Lake Earl Drive;D3"
-    ]
+    ],
+    "nodeId": 85195783
    }
   },
   {
@@ -20251,41 +21527,8 @@
     "streets": [
      "Bailey Road",
      "Lake Earl Drive;D3"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -124.150523,
-     41.799929
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101",
-     "US 101",
-     "US 199"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -124.1551881,
-     41.7965407
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101",
-     "US 101",
-     "US 199"
-    ]
+    ],
+    "nodeId": 85248771
    }
   },
   {
@@ -20301,7 +21544,8 @@
     "streets": [
      "Salmon Road",
      "Silverside Circle"
-    ]
+    ],
+    "nodeId": 85204519
    }
   },
   {
@@ -20317,7 +21561,8 @@
     "streets": [
      "Salmon Road",
      "Silverside Circle"
-    ]
+    ],
+    "nodeId": 85204548
    }
   },
   {
@@ -20333,7 +21578,8 @@
     "streets": [
      "Grand Street",
      "Lipowitz Avenue"
-    ]
+    ],
+    "nodeId": 85211461
    }
   },
   {
@@ -20349,7 +21595,8 @@
     "streets": [
      "Grand Street",
      "Lipowitz Avenue"
-    ]
+    ],
+    "nodeId": 85211467
    }
   },
   {
@@ -20365,7 +21612,8 @@
     "streets": [
      "Acacia Drive",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85197350
    }
   },
   {
@@ -20381,7 +21629,8 @@
     "streets": [
      "Acacia Drive",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 85197352
    }
   },
   {
@@ -20397,7 +21646,8 @@
     "streets": [
      "Chinook Street",
      "Surfsound Court"
-    ]
+    ],
+    "nodeId": 85214522
    }
   },
   {
@@ -20413,7 +21663,8 @@
     "streets": [
      "Klamath Boulevard",
      "Salmon Road"
-    ]
+    ],
+    "nodeId": 85215739
    }
   },
   {
@@ -20429,7 +21680,8 @@
     "streets": [
      "Klamath Boulevard",
      "Salmon Road"
-    ]
+    ],
+    "nodeId": 85215753
    }
   },
   {
@@ -20445,7 +21697,8 @@
     "streets": [
      "Distelrath Drive",
      "Placone Street"
-    ]
+    ],
+    "nodeId": 85216423
    }
   },
   {
@@ -20461,7 +21714,8 @@
     "streets": [
      "Distelrath Drive",
      "Placone Street"
-    ]
+    ],
+    "nodeId": 85216424
    }
   },
   {
@@ -20477,7 +21731,8 @@
     "streets": [
      "East Cooper Avenue",
      "Redwood Highway;US 101"
-    ]
+    ],
+    "nodeId": 84952424
    }
   },
   {
@@ -20493,7 +21748,8 @@
     "streets": [
      "Murphy Avenue",
      "North Pebble Beach Drive"
-    ]
+    ],
+    "nodeId": 85182698
    }
   },
   {
@@ -20509,7 +21765,8 @@
     "streets": [
      "Murphy Avenue",
      "North Pebble Beach Drive"
-    ]
+    ],
+    "nodeId": 85182703
    }
   },
   {
@@ -20525,7 +21782,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Nicholas Cove"
-    ]
+    ],
+    "nodeId": 85247882
    }
   },
   {
@@ -20541,7 +21799,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Nicholas Cove"
-    ]
+    ],
+    "nodeId": 6506389576
    }
   },
   {
@@ -20557,7 +21816,8 @@
     "streets": [
      "Pike Street",
      "Shirley Street"
-    ]
+    ],
+    "nodeId": 85249568
    }
   },
   {
@@ -20573,7 +21833,8 @@
     "streets": [
      "Pike Street",
      "Shirley Street"
-    ]
+    ],
+    "nodeId": 85249583
    }
   },
   {
@@ -20589,7 +21850,8 @@
     "streets": [
      "Requa Road;D7",
      "Salt Creek Road"
-    ]
+    ],
+    "nodeId": 85181765
    }
   },
   {
@@ -20605,7 +21867,8 @@
     "streets": [
      "Requa Road;D7",
      "Salt Creek Road"
-    ]
+    ],
+    "nodeId": 85181771
    }
   },
   {
@@ -20621,7 +21884,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Purdy Lane"
-    ]
+    ],
+    "nodeId": 85248738
    }
   },
   {
@@ -20637,7 +21901,8 @@
     "streets": [
      "Lake Earl Drive;D3",
      "Purdy Lane"
-    ]
+    ],
+    "nodeId": 85248736
    }
   },
   {
@@ -20653,55 +21918,8 @@
     "streets": [
      "Elk Valley Cross Road;D2",
      "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -124.1853072,
-     41.7760461
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -124.1847423,
-     41.7760884
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101",
-     "US 101"
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -124.1897372,
-     41.7694438
-    ]
-   },
-   "properties": {
-    "streets": [
-     "Redwood Highway;US 101",
-     "US 101"
-    ]
+    ],
+    "nodeId": 84952534
    }
   },
   {
@@ -20717,7 +21935,8 @@
     "streets": [
      "Elk Valley Road;D2",
      "Howland Hill Road"
-    ]
+    ],
+    "nodeId": 84950955
    }
   },
   {
@@ -20733,7 +21952,8 @@
     "streets": [
      "Collier Tunnel;US 199",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 796167676
    }
   },
   {
@@ -20749,7 +21969,8 @@
     "streets": [
      "Collier Tunnel;US 199",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 796167670
    }
   },
   {
@@ -20765,7 +21986,8 @@
     "streets": [
      "Redwood Highway",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 9009328349
    }
   },
   {
@@ -20781,7 +22003,8 @@
     "streets": [
      "Redwood Highway",
      "Redwood Highway;US 199"
-    ]
+    ],
+    "nodeId": 9009328356
    }
   },
   {
@@ -20797,7 +22020,8 @@
     "streets": [
      "Hermosa Road",
      "Joaquin Street"
-    ]
+    ],
+    "nodeId": 6506507734
    }
   },
   {
@@ -20813,7 +22037,8 @@
     "streets": [
      "Hermosa Road",
      "Joaquin Street"
-    ]
+    ],
+    "nodeId": 6506507728
    }
   },
   {
@@ -20829,7 +22054,8 @@
     "streets": [
      "Adams Avenue",
      "Joaquin Street"
-    ]
+    ],
+    "nodeId": 6506507711
    }
   },
   {
@@ -20845,7 +22071,8 @@
     "streets": [
      "Adams Avenue",
      "Joaquin Street"
-    ]
+    ],
+    "nodeId": 6506507715
    }
   }
  ]

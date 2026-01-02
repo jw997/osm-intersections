@@ -14,7 +14,8 @@
     "streets": [
      "Harry Wade Road",
      "Harry Wade Road;BLM D224"
-    ]
+    ],
+    "nodeId": 88168399
    }
   },
   {
@@ -31,7 +32,8 @@
      "Badwater Road",
      "Harry Wade Road;BLM D224",
      "Jubilee Pass Road;CA 178"
-    ]
+    ],
+    "nodeId": 88364752
    }
   },
   {
@@ -47,7 +49,8 @@
     "streets": [
      "Excelsior Mine Road",
      "Smith Talc Road"
-    ]
+    ],
+    "nodeId": 6725771902
    }
   },
   {
@@ -63,7 +66,8 @@
     "streets": [
      "Bob White Way",
      "Downey Road"
-    ]
+    ],
+    "nodeId": 87756685
    }
   },
   {
@@ -79,7 +83,8 @@
     "streets": [
      "Bob White Way",
      "Pat Road"
-    ]
+    ],
+    "nodeId": 87756686
    }
   },
   {
@@ -95,7 +100,8 @@
     "streets": [
      "Bob White Way",
      "Harris Road"
-    ]
+    ],
+    "nodeId": 8749019890
    }
   },
   {
@@ -111,7 +117,8 @@
     "streets": [
      "Bob White Way",
      "Bonita Vista"
-    ]
+    ],
+    "nodeId": 87756692
    }
   },
   {
@@ -127,7 +134,8 @@
     "streets": [
      "Bob White Way",
      "Grimshaw Road"
-    ]
+    ],
+    "nodeId": 87756697
    }
   },
   {
@@ -143,7 +151,8 @@
     "streets": [
      "Bob White Way",
      "Furnace Creek Road"
-    ]
+    ],
+    "nodeId": 87756705
    }
   },
   {
@@ -159,7 +168,8 @@
     "streets": [
      "Quarry Road",
      "Trona-Wildrose Road"
-    ]
+    ],
+    "nodeId": 87758238
    }
   },
   {
@@ -175,7 +185,8 @@
     "streets": [
      "Death Valley - Big Pine Road;FR 9S18",
      "Waucoba Saline Road"
-    ]
+    ],
+    "nodeId": 87760198
    }
   },
   {
@@ -191,7 +202,8 @@
     "streets": [
      "Furnace Creek Wash Road;AR125",
      "Jubilee Pass Road;CA 178"
-    ]
+    ],
+    "nodeId": 88376477
    }
   },
   {
@@ -207,7 +219,8 @@
     "streets": [
      "Mumy Lane",
      "Mumy Road"
-    ]
+    ],
+    "nodeId": 87764854
    }
   },
   {
@@ -223,7 +236,8 @@
     "streets": [
      "Mumy Road",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 1926734771
    }
   },
   {
@@ -240,7 +254,8 @@
      "East Market Street",
      "North Clay Street",
      "South Clay Street"
-    ]
+    ],
+    "nodeId": 87767217
    }
   },
   {
@@ -256,7 +271,8 @@
     "streets": [
      "East Kearsarge Street",
      "South Clay Street"
-    ]
+    ],
+    "nodeId": 87767219
    }
   },
   {
@@ -272,7 +288,8 @@
     "streets": [
      "East Payne Street",
      "South Clay Street"
-    ]
+    ],
+    "nodeId": 87767221
    }
   },
   {
@@ -288,7 +305,8 @@
     "streets": [
      "East Park Street",
      "South Clay Street"
-    ]
+    ],
+    "nodeId": 87767231
    }
   },
   {
@@ -304,7 +322,8 @@
     "streets": [
      "Indian Ranch Road",
      "Surprise Canyon Road"
-    ]
+    ],
+    "nodeId": 87768797
    }
   },
   {
@@ -320,7 +339,8 @@
     "streets": [
      "China Ranch Road",
      "Death Valley Road;CA 127"
-    ]
+    ],
+    "nodeId": 87788376
    }
   },
   {
@@ -336,7 +356,8 @@
     "streets": [
      "AR021",
      "China Ranch Road"
-    ]
+    ],
+    "nodeId": 87788372
    }
   },
   {
@@ -352,7 +373,8 @@
     "streets": [
      "Brown Road",
      "Tower Road"
-    ]
+    ],
+    "nodeId": 87913469
    }
   },
   {
@@ -369,7 +391,8 @@
      "Harry Clark Way",
      "North Barlow Lane",
      "Paco Lane"
-    ]
+    ],
+    "nodeId": 87830807
    }
   },
   {
@@ -385,7 +408,8 @@
     "streets": [
      "Saline Valley Road",
      "Waucoba Saline Road"
-    ]
+    ],
+    "nodeId": 318416130
    }
   },
   {
@@ -401,7 +425,8 @@
     "streets": [
      "Pacu Lane",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 87936271
    }
   },
   {
@@ -417,7 +442,8 @@
     "streets": [
      "Nadeau Road",
      "Onyx Road"
-    ]
+    ],
+    "nodeId": 87970439
    }
   },
   {
@@ -433,7 +459,8 @@
     "streets": [
      "Harmony Borax Road",
      "Mustard Canyon Road"
-    ]
+    ],
+    "nodeId": 87974337
    }
   },
   {
@@ -449,7 +476,8 @@
     "streets": [
      "Eureka Valley Road",
      "Willow Creek Road"
-    ]
+    ],
+    "nodeId": 87976594
    }
   },
   {
@@ -465,7 +493,8 @@
     "streets": [
      "Jean Blanc Road",
      "Joe Smith Road"
-    ]
+    ],
+    "nodeId": 88368864
    }
   },
   {
@@ -481,7 +510,8 @@
     "streets": [
      "J Diamond Ranch",
      "North Main Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88053987
    }
   },
   {
@@ -497,7 +527,8 @@
     "streets": [
      "Saline Valley Road",
      "Saline Valley Road;S3085"
-    ]
+    ],
+    "nodeId": 88054449
    }
   },
   {
@@ -513,7 +544,8 @@
     "streets": [
      "Racetrack Valley Road",
      "Ubehebe Crater Road"
-    ]
+    ],
+    "nodeId": 88132398
    }
   },
   {
@@ -529,7 +561,8 @@
     "streets": [
      "Harry Wade Road",
      "Jubilee Pass Road;CA 178"
-    ]
+    ],
+    "nodeId": 88168380
    }
   },
   {
@@ -545,7 +578,8 @@
     "streets": [
      "South Washington Street",
      "West Citrus Street"
-    ]
+    ],
+    "nodeId": 88257182
    }
   },
   {
@@ -562,7 +596,8 @@
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "South Edwards Street;US 395;US 6 Hist",
      "West Citrus Street"
-    ]
+    ],
+    "nodeId": 88207186
    }
   },
   {
@@ -578,7 +613,8 @@
     "streets": [
      "Charcoal Kilns Road",
      "Wildrose Campground Road"
-    ]
+    ],
+    "nodeId": 2429200957
    }
   },
   {
@@ -594,7 +630,8 @@
     "streets": [
      "Charcoal Kilns Road",
      "Emigrant Canyon Road"
-    ]
+    ],
+    "nodeId": 88224854
    }
   },
   {
@@ -611,7 +648,8 @@
      "Blake Street",
      "School Street",
      "South School Street"
-    ]
+    ],
+    "nodeId": 87768374
    }
   },
   {
@@ -628,7 +666,8 @@
      "Harry Street",
      "Sepsey Street",
      "South School Street"
-    ]
+    ],
+    "nodeId": 88227512
    }
   },
   {
@@ -644,7 +683,8 @@
     "streets": [
      "Cornell Street",
      "Rossi Lane"
-    ]
+    ],
+    "nodeId": 88241174
    }
   },
   {
@@ -660,7 +700,8 @@
     "streets": [
      "Nancy Lane",
      "Rossi Lane"
-    ]
+    ],
+    "nodeId": 88260772
    }
   },
   {
@@ -676,7 +717,8 @@
     "streets": [
      "Cerro Gordo Road",
      "White Mountain Talc Road"
-    ]
+    ],
+    "nodeId": 88318166
    }
   },
   {
@@ -692,7 +734,8 @@
     "streets": [
      "Furance Creek Boulevard",
      "Furnace Creek Boulevard"
-    ]
+    ],
+    "nodeId": 88242685
    }
   },
   {
@@ -708,7 +751,8 @@
     "streets": [
      "Furance Creek Boulevard",
      "Highway 190;CA 190"
-    ]
+    ],
+    "nodeId": 88242680
    }
   },
   {
@@ -724,7 +768,8 @@
     "streets": [
      "Maciver Street",
      "Spruce Street"
-    ]
+    ],
+    "nodeId": 88254380
    }
   },
   {
@@ -740,7 +785,8 @@
     "streets": [
      "Spruce Street",
      "Wye Road"
-    ]
+    ],
+    "nodeId": 87789455
    }
   },
   {
@@ -757,7 +803,8 @@
      "North Brewery Street",
      "South Brewery Street",
      "West Mountain View Street"
-    ]
+    ],
+    "nodeId": 88254397
    }
   },
   {
@@ -773,7 +820,8 @@
     "streets": [
      "North Brewery Street",
      "West Locust Street"
-    ]
+    ],
+    "nodeId": 88254410
    }
   },
   {
@@ -790,7 +838,8 @@
      "South Washington Street",
      "Tim Holt Street",
      "Washingthon Street"
-    ]
+    ],
+    "nodeId": 88254428
    }
   },
   {
@@ -806,7 +855,8 @@
     "streets": [
      "Washingthon Street",
      "West Gene Autry Lane"
-    ]
+    ],
+    "nodeId": 88254430
    }
   },
   {
@@ -822,7 +872,8 @@
     "streets": [
      "East Begole Street",
      "North Jackson Street"
-    ]
+    ],
+    "nodeId": 88255438
    }
   },
   {
@@ -838,7 +889,8 @@
     "streets": [
      "East Begole Street",
      "North Main Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88255453
    }
   },
   {
@@ -854,7 +906,8 @@
     "streets": [
      "North Tu-Su Lane",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 88255458
    }
   },
   {
@@ -870,7 +923,8 @@
     "streets": [
      "North Tu-Su Lane",
      "Taboose Lane"
-    ]
+    ],
+    "nodeId": 88255462
    }
   },
   {
@@ -886,7 +940,8 @@
     "streets": [
      "Diaz Lane",
      "North Tu-Su Lane"
-    ]
+    ],
+    "nodeId": 88255465
    }
   },
   {
@@ -903,7 +958,8 @@
      "North Washington Street",
      "South Washington Street",
      "West Mountain View Street"
-    ]
+    ],
+    "nodeId": 88256022
    }
   },
   {
@@ -921,7 +977,8 @@
      "North Main Street;US 395;US 6 Hist",
      "South Main Street;US 395;US 6 Hist",
      "West Mountain View Street"
-    ]
+    ],
+    "nodeId": 88256025
    }
   },
   {
@@ -937,7 +994,8 @@
     "streets": [
      "Home Street",
      "Rome Drive"
-    ]
+    ],
+    "nodeId": 88256031
    }
   },
   {
@@ -953,7 +1011,8 @@
     "streets": [
      "Cinder Road",
      "Gill Station Coso Road"
-    ]
+    ],
+    "nodeId": 88256328
    }
   },
   {
@@ -969,7 +1028,8 @@
     "streets": [
      "Pine Creek Road",
      "Virginia Street"
-    ]
+    ],
+    "nodeId": 88256503
    }
   },
   {
@@ -985,7 +1045,8 @@
     "streets": [
      "South Main Street;US 395;US 6 Hist",
      "Teya Road"
-    ]
+    ],
+    "nodeId": 88256515
    }
   },
   {
@@ -1001,7 +1062,8 @@
     "streets": [
      "Teya Road",
      "Zucco Road"
-    ]
+    ],
+    "nodeId": 88256522
    }
   },
   {
@@ -1017,7 +1079,8 @@
     "streets": [
      "Pah Ha Vitch Road",
      "Teya Road"
-    ]
+    ],
+    "nodeId": 88256528
    }
   },
   {
@@ -1033,7 +1096,8 @@
     "streets": [
      "Goodwin Road",
      "Teya Road"
-    ]
+    ],
+    "nodeId": 88256534
    }
   },
   {
@@ -1049,7 +1113,8 @@
     "streets": [
      "Esha Street",
      "Teya Road"
-    ]
+    ],
+    "nodeId": 88256543
    }
   },
   {
@@ -1065,7 +1130,8 @@
     "streets": [
      "Kelso Road",
      "Sierra Street"
-    ]
+    ],
+    "nodeId": 88256550
    }
   },
   {
@@ -1081,7 +1147,8 @@
     "streets": [
      "Kelso Road",
      "Sycamore Drive"
-    ]
+    ],
+    "nodeId": 88256552
    }
   },
   {
@@ -1097,7 +1164,8 @@
     "streets": [
      "Kelso Road",
      "Maple Street"
-    ]
+    ],
+    "nodeId": 88256554
    }
   },
   {
@@ -1113,7 +1181,8 @@
     "streets": [
      "Argyle Lane",
      "Loch Lomond Avenue"
-    ]
+    ],
+    "nodeId": 88257016
    }
   },
   {
@@ -1129,7 +1198,8 @@
     "streets": [
      "Loch Lomond Avenue",
      "Macgregor Avenue"
-    ]
+    ],
+    "nodeId": 88257022
    }
   },
   {
@@ -1145,7 +1215,8 @@
     "streets": [
      "Dunbar Lane",
      "Loch Lomond Avenue"
-    ]
+    ],
+    "nodeId": 88257033
    }
   },
   {
@@ -1161,7 +1232,8 @@
     "streets": [
      "Central Avenue",
      "East Pine Street"
-    ]
+    ],
+    "nodeId": 88257036
    }
   },
   {
@@ -1177,7 +1249,8 @@
     "streets": [
      "Central Avenue",
      "East Elm Street"
-    ]
+    ],
+    "nodeId": 88257037
    }
   },
   {
@@ -1193,7 +1266,8 @@
     "streets": [
      "Chestnut Street",
      "Hall Street"
-    ]
+    ],
+    "nodeId": 88257072
    }
   },
   {
@@ -1209,7 +1283,8 @@
     "streets": [
      "Dewey Street",
      "Hall Street"
-    ]
+    ],
+    "nodeId": 88257074
    }
   },
   {
@@ -1225,7 +1300,8 @@
     "streets": [
      "South Falcon Way",
      "West Charleston Lane"
-    ]
+    ],
+    "nodeId": 4366194469
    }
   },
   {
@@ -1241,7 +1317,8 @@
     "streets": [
      "South Purple Sage Way",
      "West Charleston Lane"
-    ]
+    ],
+    "nodeId": 4366194468
    }
   },
   {
@@ -1257,7 +1334,8 @@
     "streets": [
      "Hawk Way",
      "West Charleston Lane"
-    ]
+    ],
+    "nodeId": 4366194467
    }
   },
   {
@@ -1273,7 +1351,8 @@
     "streets": [
      "Ironwood Way",
      "West Charleston Lane"
-    ]
+    ],
+    "nodeId": 4366194466
    }
   },
   {
@@ -1289,7 +1368,8 @@
     "streets": [
      "South Deming Way",
      "West Charleston Lane"
-    ]
+    ],
+    "nodeId": 4366194464
    }
   },
   {
@@ -1306,7 +1386,8 @@
      "East Charleston Lane",
      "South Rose Way",
      "West Charleston Lane"
-    ]
+    ],
+    "nodeId": 3448752040
    }
   },
   {
@@ -1322,7 +1403,8 @@
     "streets": [
      "Collins Road",
      "Gerkin Road"
-    ]
+    ],
+    "nodeId": 88257114
    }
   },
   {
@@ -1340,7 +1422,8 @@
      "North Edwards Street;US 395;US 6 Hist",
      "South Edwards Street;US 395;US 6 Hist",
      "West Market Street"
-    ]
+    ],
+    "nodeId": 88257197
    }
   },
   {
@@ -1357,7 +1440,8 @@
      "East Market Street",
      "North Jackson Street",
      "South Jackson Street"
-    ]
+    ],
+    "nodeId": 88257200
    }
   },
   {
@@ -1373,7 +1457,8 @@
     "streets": [
      "East Market Street",
      "South Rosedale Street"
-    ]
+    ],
+    "nodeId": 88257210
    }
   },
   {
@@ -1389,7 +1474,8 @@
     "streets": [
      "East Market Street",
      "South Valley View Drive"
-    ]
+    ],
+    "nodeId": 88257213
    }
   },
   {
@@ -1405,7 +1491,8 @@
     "streets": [
      "Crater Road",
      "Steward Lane"
-    ]
+    ],
+    "nodeId": 2193571681
    }
   },
   {
@@ -1422,7 +1509,8 @@
      "Grand Army of the Republic Highway;US 6",
      "North Main Street;US 6",
      "Wye Road"
-    ]
+    ],
+    "nodeId": 88342389
    }
   },
   {
@@ -1439,7 +1527,8 @@
      "East Yaney Street",
      "Park Avenue",
      "Spruce Street"
-    ]
+    ],
+    "nodeId": 87788741
    }
   },
   {
@@ -1456,7 +1545,8 @@
      "East Yaney Street",
      "North Main Street;US 395;US 6 Hist",
      "West Yaney Street"
-    ]
+    ],
+    "nodeId": 88257478
    }
   },
   {
@@ -1472,7 +1562,8 @@
     "streets": [
      "Carol Lane",
      "Irene Way"
-    ]
+    ],
+    "nodeId": 88257492
    }
   },
   {
@@ -1488,7 +1579,8 @@
     "streets": [
      "Gerkin Road",
      "North Street"
-    ]
+    ],
+    "nodeId": 88257542
    }
   },
   {
@@ -1505,7 +1597,8 @@
      "East Inyo Street",
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "North Edwards Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88257550
    }
   },
   {
@@ -1522,7 +1615,8 @@
      "East Wall Street",
      "North Edwards Street;US 395;US 6 Hist",
      "West Wall Street"
-    ]
+    ],
+    "nodeId": 88257555
    }
   },
   {
@@ -1539,7 +1633,8 @@
      "East Main Street",
      "North Edwards Street;US 395;US 6 Hist",
      "West Main Street"
-    ]
+    ],
+    "nodeId": 88257559
    }
   },
   {
@@ -1555,7 +1650,8 @@
     "streets": [
      "East Center Street",
      "North Edwards Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88257562
    }
   },
   {
@@ -1571,7 +1667,8 @@
     "streets": [
      "North Edwards Street;US 395;US 6 Hist",
      "West Center Street"
-    ]
+    ],
+    "nodeId": 88257564
    }
   },
   {
@@ -1587,7 +1684,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Pine Street"
-    ]
+    ],
+    "nodeId": 88257598
    }
   },
   {
@@ -1603,7 +1701,8 @@
     "streets": [
      "Alley Alley",
      "Pine Street"
-    ]
+    ],
+    "nodeId": 88257620
    }
   },
   {
@@ -1619,7 +1718,8 @@
     "streets": [
      "Home Street",
      "Pine Street"
-    ]
+    ],
+    "nodeId": 88257627
    }
   },
   {
@@ -1635,7 +1735,8 @@
     "streets": [
      "Locust Street",
      "Pine Street"
-    ]
+    ],
+    "nodeId": 88257630
    }
   },
   {
@@ -1651,7 +1752,8 @@
     "streets": [
      "Center Street",
      "Pine Street"
-    ]
+    ],
+    "nodeId": 88257632
    }
   },
   {
@@ -1667,7 +1769,8 @@
     "streets": [
      "Pine Street",
      "Poplar Street"
-    ]
+    ],
+    "nodeId": 88257634
    }
   },
   {
@@ -1683,7 +1786,8 @@
     "streets": [
      "East Birch Street",
      "Pa Me Lane"
-    ]
+    ],
+    "nodeId": 1926679942
    }
   },
   {
@@ -1699,7 +1803,8 @@
     "streets": [
      "East Birch Street",
      "Wildrose Lane"
-    ]
+    ],
+    "nodeId": 88260525
    }
   },
   {
@@ -1715,7 +1820,8 @@
     "streets": [
      "Poleta Road",
      "Van Loon Lane"
-    ]
+    ],
+    "nodeId": 88260539
    }
   },
   {
@@ -1732,7 +1838,8 @@
      "Ed Powers Road",
      "Red Hill Road",
      "Rocking K Road"
-    ]
+    ],
+    "nodeId": 88260777
    }
   },
   {
@@ -1748,7 +1855,8 @@
     "streets": [
      "Otey Road",
      "Red Hill Road"
-    ]
+    ],
+    "nodeId": 3067503693
    }
   },
   {
@@ -1765,7 +1873,8 @@
      "CA 168",
      "Red Hill Road",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 1926734799
    }
   },
   {
@@ -1781,7 +1890,8 @@
     "streets": [
      "Thundercloud Lane",
      "Tuttle Creek Road"
-    ]
+    ],
+    "nodeId": 88260843
    }
   },
   {
@@ -1797,7 +1907,8 @@
     "streets": [
      "Sunset Drive",
      "Thundercloud Lane"
-    ]
+    ],
+    "nodeId": 88112361
    }
   },
   {
@@ -1813,7 +1924,8 @@
     "streets": [
      "Shahar Avenue",
      "Thundercloud Lane"
-    ]
+    ],
+    "nodeId": 88260905
    }
   },
   {
@@ -1829,7 +1941,8 @@
     "streets": [
      "Argyle Lane",
      "Edinburgh Avenue"
-    ]
+    ],
+    "nodeId": 88260911
    }
   },
   {
@@ -1845,7 +1958,8 @@
     "streets": [
      "Edinburgh Avenue",
      "Macgregor Avenue"
-    ]
+    ],
+    "nodeId": 88260923
    }
   },
   {
@@ -1861,7 +1975,8 @@
     "streets": [
      "Dunbar Lane",
      "Edinburgh Avenue"
-    ]
+    ],
+    "nodeId": 88260930
    }
   },
   {
@@ -1877,7 +1992,8 @@
     "streets": [
      "Argyle Lane",
      "Galloway Avenue"
-    ]
+    ],
+    "nodeId": 88261104
    }
   },
   {
@@ -1893,7 +2009,8 @@
     "streets": [
      "Galloway Avenue",
      "Macgregor Avenue"
-    ]
+    ],
+    "nodeId": 88261123
    }
   },
   {
@@ -1909,7 +2026,8 @@
     "streets": [
      "Dunbar Lane",
      "Galloway Avenue"
-    ]
+    ],
+    "nodeId": 88261131
    }
   },
   {
@@ -1925,7 +2043,8 @@
     "streets": [
      "Apollo Circle",
      "Starlite Drive"
-    ]
+    ],
+    "nodeId": 88261137
    }
   },
   {
@@ -1942,7 +2061,8 @@
      "East Cedar Street",
      "Mesquite Road",
      "Pinion Road"
-    ]
+    ],
+    "nodeId": 88261218
    }
   },
   {
@@ -1958,7 +2078,8 @@
     "streets": [
      "East Cedar Street",
      "Grandview Drive"
-    ]
+    ],
+    "nodeId": 88261221
    }
   },
   {
@@ -1974,7 +2095,8 @@
     "streets": [
      "Idaho Street",
      "Pine Creek Road"
-    ]
+    ],
+    "nodeId": 88262184
    }
   },
   {
@@ -1990,7 +2112,8 @@
     "streets": [
      "Manzanar Reward Road",
      "Manzanar Road;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88262202
    }
   },
   {
@@ -2006,7 +2129,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395",
      "Manzanar Reward Road"
-    ]
+    ],
+    "nodeId": 2193482658
    }
   },
   {
@@ -2022,7 +2146,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Manzanar Reward Road"
-    ]
+    ],
+    "nodeId": 3051051072
    }
   },
   {
@@ -2038,7 +2163,8 @@
     "streets": [
      "Nevada Avenue",
      "Olancha Darwin Road"
-    ]
+    ],
+    "nodeId": 88262406
    }
   },
   {
@@ -2054,7 +2180,8 @@
     "streets": [
      "Haiwee Street",
      "Pah Ha Vitch Road"
-    ]
+    ],
+    "nodeId": 88262409
    }
   },
   {
@@ -2070,7 +2197,8 @@
     "streets": [
      "Barrett Circle",
      "Cottonwood Drive"
-    ]
+    ],
+    "nodeId": 88262489
    }
   },
   {
@@ -2086,7 +2214,8 @@
     "streets": [
      "Cottonwood Drive",
      "Jeffrey Circle"
-    ]
+    ],
+    "nodeId": 88262516
    }
   },
   {
@@ -2102,7 +2231,8 @@
     "streets": [
      "Bunting Lane",
      "Cottonwood Drive"
-    ]
+    ],
+    "nodeId": 88262522
    }
   },
   {
@@ -2118,7 +2248,8 @@
     "streets": [
      "Cherry Tree Circle",
      "Cottonwood Drive"
-    ]
+    ],
+    "nodeId": 88262525
    }
   },
   {
@@ -2134,7 +2265,8 @@
     "streets": [
      "Cottonwood Drive",
      "Gerkin Road"
-    ]
+    ],
+    "nodeId": 9035769491
    }
   },
   {
@@ -2150,7 +2282,8 @@
     "streets": [
      "North Round Valley Road",
      "Ocean View Road"
-    ]
+    ],
+    "nodeId": 88262550
    }
   },
   {
@@ -2166,7 +2299,8 @@
     "streets": [
      "Ocean View Road",
      "Oceanview Road"
-    ]
+    ],
+    "nodeId": 88262552
    }
   },
   {
@@ -2183,7 +2317,8 @@
      "Laurel Road",
      "Meadow Lane",
      "Pinion Road"
-    ]
+    ],
+    "nodeId": 88262560
    }
   },
   {
@@ -2199,7 +2334,8 @@
     "streets": [
      "Laurel Road",
      "Mesquite Road"
-    ]
+    ],
+    "nodeId": 88262569
    }
   },
   {
@@ -2215,7 +2351,8 @@
     "streets": [
      "Grandview Drive",
      "Laurel Road"
-    ]
+    ],
+    "nodeId": 88262570
    }
   },
   {
@@ -2232,7 +2369,8 @@
      "Arboles Drive",
      "Houston Drive",
      "Mesa Vista Drive"
-    ]
+    ],
+    "nodeId": 88263098
    }
   },
   {
@@ -2248,7 +2386,8 @@
     "streets": [
      "Aliso Circle",
      "Arboles Drive"
-    ]
+    ],
+    "nodeId": 88263118
    }
   },
   {
@@ -2264,7 +2403,8 @@
     "streets": [
      "Arboles Drive",
      "Del Monte Road"
-    ]
+    ],
+    "nodeId": 88263120
    }
   },
   {
@@ -2280,7 +2420,8 @@
     "streets": [
      "Arboles Drive",
      "Majorca Circle"
-    ]
+    ],
+    "nodeId": 88263122
    }
   },
   {
@@ -2296,7 +2437,8 @@
     "streets": [
      "Goodwin Road",
      "Haiwee Street"
-    ]
+    ],
+    "nodeId": 88263149
    }
   },
   {
@@ -2312,7 +2454,8 @@
     "streets": [
      "CA 168",
      "Canyon Road"
-    ]
+    ],
+    "nodeId": 88263176
    }
   },
   {
@@ -2328,7 +2471,8 @@
     "streets": [
      "Canyon Road",
      "Eureka Valley Road"
-    ]
+    ],
+    "nodeId": 88263191
    }
   },
   {
@@ -2344,7 +2488,8 @@
     "streets": [
      "Altair Circle",
      "Starlite Drive"
-    ]
+    ],
+    "nodeId": 88264924
    }
   },
   {
@@ -2360,7 +2505,8 @@
     "streets": [
      "Owens Circle Road",
      "South Round Valley Road"
-    ]
+    ],
+    "nodeId": 88264930
    }
   },
   {
@@ -2376,7 +2522,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Lone Pine Narrow Gauge Road"
-    ]
+    ],
+    "nodeId": 88264976
    }
   },
   {
@@ -2392,7 +2539,8 @@
     "streets": [
      "North Washington Street",
      "West Main Street"
-    ]
+    ],
+    "nodeId": 88265119
    }
   },
   {
@@ -2408,7 +2556,8 @@
     "streets": [
      "North Webster Street",
      "West Main Street"
-    ]
+    ],
+    "nodeId": 88265123
    }
   },
   {
@@ -2424,7 +2573,8 @@
     "streets": [
      "North Grant Street",
      "West Main Street"
-    ]
+    ],
+    "nodeId": 88265125
    }
   },
   {
@@ -2440,7 +2590,8 @@
     "streets": [
      "Chuka Way",
      "Olancha Darwin Road"
-    ]
+    ],
+    "nodeId": 88265131
    }
   },
   {
@@ -2456,7 +2607,8 @@
     "streets": [
      "Laws Avenue",
      "Oliver Street"
-    ]
+    ],
+    "nodeId": 88265585
    }
   },
   {
@@ -2472,7 +2624,8 @@
     "streets": [
      "Oliver Street",
      "Railroad Avenue"
-    ]
+    ],
+    "nodeId": 88265588
    }
   },
   {
@@ -2488,7 +2641,8 @@
     "streets": [
      "Old State Highway",
      "Oliver Street"
-    ]
+    ],
+    "nodeId": 88265590
    }
   },
   {
@@ -2504,7 +2658,8 @@
     "streets": [
      "Manzanar Reward Road",
      "Owenyo Lone Pine Road"
-    ]
+    ],
+    "nodeId": 88262337
    }
   },
   {
@@ -2520,7 +2675,8 @@
     "streets": [
      "Lone Pine Narrow Gauge Road",
      "Owenyo Lone Pine Road"
-    ]
+    ],
+    "nodeId": 88265100
    }
   },
   {
@@ -2536,7 +2692,8 @@
     "streets": [
      "Dolomite Loop",
      "Owenyo Lone Pine Road"
-    ]
+    ],
+    "nodeId": 88265966
    }
   },
   {
@@ -2552,7 +2709,8 @@
     "streets": [
      "Sioux Circle",
      "Sioux Street"
-    ]
+    ],
+    "nodeId": 88265972
    }
   },
   {
@@ -2568,7 +2726,8 @@
     "streets": [
      "North Barlow Lane",
      "See Huvah Lane"
-    ]
+    ],
+    "nodeId": 88266001
    }
   },
   {
@@ -2584,7 +2743,8 @@
     "streets": [
      "Sawaye Lane",
      "See Huvah Lane"
-    ]
+    ],
+    "nodeId": 88266002
    }
   },
   {
@@ -2600,7 +2760,8 @@
     "streets": [
      "Nine Mile Canyon Road;CR J41",
      "Sterling Road"
-    ]
+    ],
+    "nodeId": 376297892
    }
   },
   {
@@ -2616,7 +2777,8 @@
     "streets": [
      "Pearson Road",
      "Sterling Road"
-    ]
+    ],
+    "nodeId": 87805048
    }
   },
   {
@@ -2633,7 +2795,8 @@
      "Pearson Road",
      "Sterling Road",
      "US 395 West Frontage Road"
-    ]
+    ],
+    "nodeId": 2751278671
    }
   },
   {
@@ -2649,7 +2812,8 @@
     "streets": [
      "Schober Lane",
      "Sunland Indian Reservation Road"
-    ]
+    ],
+    "nodeId": 88266096
    }
   },
   {
@@ -2665,7 +2829,8 @@
     "streets": [
      "Schober Lane",
      "Sunland Drive"
-    ]
+    ],
+    "nodeId": 88266118
    }
   },
   {
@@ -2681,7 +2846,8 @@
     "streets": [
      "Gerkin Road",
      "Owens Road"
-    ]
+    ],
+    "nodeId": 88262540
    }
   },
   {
@@ -2697,7 +2863,8 @@
     "streets": [
      "North Main Street;US 395;US 6 Hist",
      "West Elm Street"
-    ]
+    ],
+    "nodeId": 88266180
    }
   },
   {
@@ -2713,7 +2880,8 @@
     "streets": [
      "North Warren Street",
      "West Elm Street"
-    ]
+    ],
+    "nodeId": 88266184
    }
   },
   {
@@ -2729,7 +2897,8 @@
     "streets": [
      "May Street",
      "North Main Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 11385938201
    }
   },
   {
@@ -2745,7 +2914,8 @@
     "streets": [
      "May Street",
      "Rose Street"
-    ]
+    ],
+    "nodeId": 88266210
    }
   },
   {
@@ -2761,7 +2931,8 @@
     "streets": [
      "High Street",
      "May Street"
-    ]
+    ],
+    "nodeId": 88266211
    }
   },
   {
@@ -2777,7 +2948,8 @@
     "streets": [
      "Nancy Lane",
      "West Street"
-    ]
+    ],
+    "nodeId": 8933790880
    }
   },
   {
@@ -2793,7 +2965,8 @@
     "streets": [
      "Fuller Road",
      "Tinemaha Road"
-    ]
+    ],
+    "nodeId": 88266235
    }
   },
   {
@@ -2809,7 +2982,8 @@
     "streets": [
      "Juniper Street",
      "North Valley View Drive"
-    ]
+    ],
+    "nodeId": 88268380
    }
   },
   {
@@ -2825,7 +2999,8 @@
     "streets": [
      "Dixon Lane",
      "North Valley View Drive"
-    ]
+    ],
+    "nodeId": 88268392
    }
   },
   {
@@ -2841,7 +3016,8 @@
     "streets": [
      "A Street",
      "West Willow Street"
-    ]
+    ],
+    "nodeId": 88268398
    }
   },
   {
@@ -2857,7 +3033,8 @@
     "streets": [
      "North Washington Street",
      "West Willow Street"
-    ]
+    ],
+    "nodeId": 88268401
    }
   },
   {
@@ -2874,7 +3051,8 @@
      "East Willow Street",
      "North Main Street;US 395;US 6 Hist",
      "West Willow Street"
-    ]
+    ],
+    "nodeId": 88268405
    }
   },
   {
@@ -2890,7 +3068,8 @@
     "streets": [
      "Argyle Lane",
      "Baskerville Avenue"
-    ]
+    ],
+    "nodeId": 88268562
    }
   },
   {
@@ -2906,7 +3085,8 @@
     "streets": [
      "Baskerville Avenue",
      "Macgregor Avenue"
-    ]
+    ],
+    "nodeId": 88268575
    }
   },
   {
@@ -2922,7 +3102,8 @@
     "streets": [
      "Baskerville Avenue",
      "Dunbar Lane"
-    ]
+    ],
+    "nodeId": 88268582
    }
   },
   {
@@ -2938,7 +3119,8 @@
     "streets": [
      "Mount Tom Road",
      "Ranch Road"
-    ]
+    ],
+    "nodeId": 88268590
    }
   },
   {
@@ -2956,7 +3138,8 @@
      "Lake Street",
      "North Cartago Street",
      "South Cartago Street"
-    ]
+    ],
+    "nodeId": 9404148514
    }
   },
   {
@@ -2972,7 +3155,8 @@
     "streets": [
      "Lake Street",
      "Sierra Street"
-    ]
+    ],
+    "nodeId": 88268600
    }
   },
   {
@@ -2990,7 +3174,8 @@
      "Lake Street;US Route 395 Business",
      "Old U.S. Route 395",
      "Old U.S. Route 395;US Route 395 Business"
-    ]
+    ],
+    "nodeId": 87997350
    }
   },
   {
@@ -3006,7 +3191,8 @@
     "streets": [
      "Keough Hot Springs Road",
      "Te-Ko Lane"
-    ]
+    ],
+    "nodeId": 87994249
    }
   },
   {
@@ -3022,7 +3208,8 @@
     "streets": [
      "Alley Alley",
      "North Main Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88268643
    }
   },
   {
@@ -3038,7 +3225,8 @@
     "streets": [
      "Chestnut Street",
      "Sara Lane"
-    ]
+    ],
+    "nodeId": 88269272
    }
   },
   {
@@ -3054,7 +3242,8 @@
     "streets": [
      "Gerkin Road",
      "Panorama Drive"
-    ]
+    ],
+    "nodeId": 88269326
    }
   },
   {
@@ -3070,7 +3259,8 @@
     "streets": [
      "Foothill Drive",
      "Gerkin Road"
-    ]
+    ],
+    "nodeId": 88269329
    }
   },
   {
@@ -3086,7 +3276,8 @@
     "streets": [
      "Gerkin Road",
      "Rawson Creek Road"
-    ]
+    ],
+    "nodeId": 88269335
    }
   },
   {
@@ -3102,7 +3293,8 @@
     "streets": [
      "Gerkin Road",
      "Sierra Grande Street"
-    ]
+    ],
+    "nodeId": 88269338
    }
   },
   {
@@ -3118,7 +3310,8 @@
     "streets": [
      "Gerkin Road",
      "Sierra Bonita Street"
-    ]
+    ],
+    "nodeId": 88269348
    }
   },
   {
@@ -3134,7 +3327,8 @@
     "streets": [
      "Gerkin Road",
      "Sunland Drive"
-    ]
+    ],
+    "nodeId": 88269428
    }
   },
   {
@@ -3150,7 +3344,8 @@
     "streets": [
      "El Camino Sierra;US 395;CA 168;US 6 Hist",
      "Gerkin Road"
-    ]
+    ],
+    "nodeId": 88269444
    }
   },
   {
@@ -3166,7 +3361,8 @@
     "streets": [
      "Plume Lane",
      "West Axford Lane"
-    ]
+    ],
+    "nodeId": 88269472
    }
   },
   {
@@ -3183,7 +3379,8 @@
      "Bunting Lane",
      "East Axford Lane",
      "West Axford Lane"
-    ]
+    ],
+    "nodeId": 88269478
    }
   },
   {
@@ -3199,7 +3396,8 @@
     "streets": [
      "Fairbanks Street",
      "West Bush Street"
-    ]
+    ],
+    "nodeId": 88208671
    }
   },
   {
@@ -3215,7 +3413,8 @@
     "streets": [
      "A Street",
      "West Bush Street"
-    ]
+    ],
+    "nodeId": 88274630
    }
   },
   {
@@ -3231,7 +3430,8 @@
     "streets": [
      "North Washington Street",
      "West Bush Street"
-    ]
+    ],
+    "nodeId": 88274632
    }
   },
   {
@@ -3248,7 +3448,8 @@
      "East Bush Street",
      "North Main Street;US 395;US 6 Hist",
      "West Bush Street"
-    ]
+    ],
+    "nodeId": 88274635
    }
   },
   {
@@ -3264,7 +3465,8 @@
     "streets": [
      "Malone Street",
      "Maud Street"
-    ]
+    ],
+    "nodeId": 88274686
    }
   },
   {
@@ -3280,7 +3482,8 @@
     "streets": [
      "Malone Street",
      "Yerington Avenue"
-    ]
+    ],
+    "nodeId": 88274694
    }
   },
   {
@@ -3296,7 +3499,8 @@
     "streets": [
      "Malone Street",
      "Old State Highway"
-    ]
+    ],
+    "nodeId": 88274697
    }
   },
   {
@@ -3312,7 +3516,8 @@
     "streets": [
      "Malone Street",
      "Railroad Avenue"
-    ]
+    ],
+    "nodeId": 88274701
    }
   },
   {
@@ -3328,7 +3533,8 @@
     "streets": [
      "Laws Avenue",
      "Malone Street"
-    ]
+    ],
+    "nodeId": 88274704
    }
   },
   {
@@ -3344,7 +3550,8 @@
     "streets": [
      "Hawley Avenue",
      "Malone Street"
-    ]
+    ],
+    "nodeId": 88274707
    }
   },
   {
@@ -3360,7 +3567,8 @@
     "streets": [
      "CA 136",
      "Malone Street"
-    ]
+    ],
+    "nodeId": 376292979
    }
   },
   {
@@ -3376,7 +3584,8 @@
     "streets": [
      "Centerline Road",
      "Darwin Road"
-    ]
+    ],
+    "nodeId": 88247812
    }
   },
   {
@@ -3392,7 +3601,8 @@
     "streets": [
      "Sierra Bonita Street",
      "Sierra Ladera Street"
-    ]
+    ],
+    "nodeId": 88274775
    }
   },
   {
@@ -3408,7 +3618,8 @@
     "streets": [
      "Brigadoon Avenue",
      "Dunbar Lane"
-    ]
+    ],
+    "nodeId": 88274853
    }
   },
   {
@@ -3424,7 +3635,8 @@
     "streets": [
      "Brigadoon Avenue",
      "Macgregor Avenue"
-    ]
+    ],
+    "nodeId": 88274864
    }
   },
   {
@@ -3441,7 +3653,8 @@
      "East Locust Street",
      "North Main Street;US 395;US 6 Hist",
      "West Locust Street"
-    ]
+    ],
+    "nodeId": 88275483
    }
   },
   {
@@ -3457,7 +3670,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "North Main Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 4604357673
    }
   },
   {
@@ -3474,7 +3688,8 @@
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Nine Mile Canyon Road",
      "Nine Mile Canyon Road;CR J41"
-    ]
+    ],
+    "nodeId": 88276350
    }
   },
   {
@@ -3491,7 +3706,8 @@
      "El Camino Sierra;US 395",
      "Pleasant Valley Dam Road",
      "Sawmill Road"
-    ]
+    ],
+    "nodeId": 88276479
    }
   },
   {
@@ -3507,7 +3723,8 @@
     "streets": [
      "County Road",
      "El Camino Sierra;US 395;CA 168;US 6 Hist"
-    ]
+    ],
+    "nodeId": 12643609022
    }
   },
   {
@@ -3523,7 +3740,8 @@
     "streets": [
      "El Camino Sierra;US 395;CA 168;US 6 Hist",
      "Grand Army of the Republic Highway;US 395;CA 168;US 6 Hist"
-    ]
+    ],
+    "nodeId": 4816416107
    }
   },
   {
@@ -3539,7 +3757,8 @@
     "streets": [
      "Del Monte Road",
      "Mesa Vista Drive"
-    ]
+    ],
+    "nodeId": 88280484
    }
   },
   {
@@ -3555,7 +3774,8 @@
     "streets": [
      "Date Grove Road",
      "Furnace Creek Boulevard"
-    ]
+    ],
+    "nodeId": 88258879
    }
   },
   {
@@ -3571,7 +3791,8 @@
     "streets": [
      "Date Grove Road",
      "Greenland Boulevard"
-    ]
+    ],
+    "nodeId": 88280771
    }
   },
   {
@@ -3587,7 +3808,8 @@
     "streets": [
      "Furnace Creek Boulevard",
      "Highway 190;CA 190"
-    ]
+    ],
+    "nodeId": 88242704
    }
   },
   {
@@ -3603,7 +3825,8 @@
     "streets": [
      "Bloss Road",
      "Elias Road"
-    ]
+    ],
+    "nodeId": 88280780
    }
   },
   {
@@ -3619,7 +3842,8 @@
     "streets": [
      "Laws Poleta Road",
      "Silver Canyon Road;FR 6S02"
-    ]
+    ],
+    "nodeId": 88228855
    }
   },
   {
@@ -3635,7 +3859,8 @@
     "streets": [
      "Laws Poleta Road",
      "Poleta Road"
-    ]
+    ],
+    "nodeId": 88280890
    }
   },
   {
@@ -3651,7 +3876,8 @@
     "streets": [
      "South Washington Street",
      "West Kearsarge Street"
-    ]
+    ],
+    "nodeId": 88280935
    }
   },
   {
@@ -3667,7 +3893,8 @@
     "streets": [
      "South Washington Street",
      "West Payne Street"
-    ]
+    ],
+    "nodeId": 88258096
    }
   },
   {
@@ -3683,7 +3910,8 @@
     "streets": [
      "South Washington Street",
      "West Pavilion Street"
-    ]
+    ],
+    "nodeId": 88280936
    }
   },
   {
@@ -3699,7 +3927,8 @@
     "streets": [
      "South Washington Street",
      "West Park Street"
-    ]
+    ],
+    "nodeId": 88280938
    }
   },
   {
@@ -3715,7 +3944,8 @@
     "streets": [
      "South Washington Street",
      "Whitney Portal Road"
-    ]
+    ],
+    "nodeId": 88280942
    }
   },
   {
@@ -3731,7 +3961,8 @@
     "streets": [
      "South Washington Street",
      "West Post Street"
-    ]
+    ],
+    "nodeId": 88280945
    }
   },
   {
@@ -3748,7 +3979,8 @@
      "Aberdeen Station Road",
      "Taboose Creek Road;11S04",
      "Tinemaha Road"
-    ]
+    ],
+    "nodeId": 88280950
    }
   },
   {
@@ -3764,7 +3996,8 @@
     "streets": [
      "Sierra Grande",
      "Sierra Grande Street"
-    ]
+    ],
+    "nodeId": 88167419
    }
   },
   {
@@ -3780,7 +4013,8 @@
     "streets": [
      "Baker Lane",
      "Crater Street"
-    ]
+    ],
+    "nodeId": 88281144
    }
   },
   {
@@ -3796,7 +4030,8 @@
     "streets": [
      "Callina Street",
      "Crater Street"
-    ]
+    ],
+    "nodeId": 88281154
    }
   },
   {
@@ -3812,7 +4047,8 @@
     "streets": [
      "Bowers Street",
      "Crater Street"
-    ]
+    ],
+    "nodeId": 1772218958
    }
   },
   {
@@ -3828,7 +4064,8 @@
     "streets": [
      "Bartell Road",
      "Crater Street"
-    ]
+    ],
+    "nodeId": 88281157
    }
   },
   {
@@ -3844,7 +4081,8 @@
     "streets": [
      "Crater Street",
      "East Sepsey Lane"
-    ]
+    ],
+    "nodeId": 88281159
    }
   },
   {
@@ -3860,7 +4098,8 @@
     "streets": [
      "Butcher Lane",
      "Crater Street"
-    ]
+    ],
+    "nodeId": 376285633
    }
   },
   {
@@ -3876,7 +4115,8 @@
     "streets": [
      "Anderson Way",
      "Cemetery Road"
-    ]
+    ],
+    "nodeId": 88281173
    }
   },
   {
@@ -3892,7 +4132,8 @@
     "streets": [
      "Anderson Way",
      "Downey Road"
-    ]
+    ],
+    "nodeId": 88281177
    }
   },
   {
@@ -3908,7 +4149,8 @@
     "streets": [
      "Anderson Way",
      "Pat Road"
-    ]
+    ],
+    "nodeId": 10800400208
    }
   },
   {
@@ -3925,7 +4167,8 @@
      "East Miller",
      "Shabbell Lane",
      "West Miller"
-    ]
+    ],
+    "nodeId": 88281195
    }
   },
   {
@@ -3941,7 +4184,8 @@
     "streets": [
      "East Miller",
      "Fort Independence Road"
-    ]
+    ],
+    "nodeId": 88281202
    }
   },
   {
@@ -3957,7 +4201,8 @@
     "streets": [
      "East Wall Street",
      "North Crockett Street"
-    ]
+    ],
+    "nodeId": 88283652
    }
   },
   {
@@ -3973,7 +4218,8 @@
     "streets": [
      "Indian Creek Drive",
      "South Tumbleweed Road"
-    ]
+    ],
+    "nodeId": 88283662
    }
   },
   {
@@ -3989,7 +4235,8 @@
     "streets": [
      "Indian Creek Drive",
      "Pa Me Lane"
-    ]
+    ],
+    "nodeId": 1926702076
    }
   },
   {
@@ -4005,7 +4252,8 @@
     "streets": [
      "Greenland Boulevard",
      "Zabriskie Boulevard"
-    ]
+    ],
+    "nodeId": 12990310429
    }
   },
   {
@@ -4021,7 +4269,8 @@
     "streets": [
      "Blake Street",
      "Watson Street"
-    ]
+    ],
+    "nodeId": 376285556
    }
   },
   {
@@ -4037,7 +4286,8 @@
     "streets": [
      "Sepsey Street",
      "Watson Street"
-    ]
+    ],
+    "nodeId": 88227514
    }
   },
   {
@@ -4053,7 +4303,8 @@
     "streets": [
      "4th Street",
      "West Fulton Street"
-    ]
+    ],
+    "nodeId": 87831488
    }
   },
   {
@@ -4069,7 +4320,8 @@
     "streets": [
      "4th Street",
      "West Market Street"
-    ]
+    ],
+    "nodeId": 88286543
    }
   },
   {
@@ -4085,7 +4337,8 @@
     "streets": [
      "East Post Street",
      "Line Street"
-    ]
+    ],
+    "nodeId": 88286761
    }
   },
   {
@@ -4101,7 +4354,8 @@
     "streets": [
      "East South Street",
      "Line Street"
-    ]
+    ],
+    "nodeId": 88286764
    }
   },
   {
@@ -4117,7 +4371,8 @@
     "streets": [
      "East Muir Street",
      "Line Street"
-    ]
+    ],
+    "nodeId": 88116716
    }
   },
   {
@@ -4133,7 +4388,8 @@
     "streets": [
      "East School Street",
      "Line Street"
-    ]
+    ],
+    "nodeId": 88286765
    }
   },
   {
@@ -4150,7 +4406,8 @@
      "East Inyo Street",
      "Line Street",
      "Sub Station Road"
-    ]
+    ],
+    "nodeId": 88286766
    }
   },
   {
@@ -4166,7 +4423,8 @@
     "streets": [
      "Dusty Lane",
      "West Dusty Lane"
-    ]
+    ],
+    "nodeId": 88286819
    }
   },
   {
@@ -4182,7 +4440,8 @@
     "streets": [
      "North Willow Lane",
      "West Dusty Lane"
-    ]
+    ],
+    "nodeId": 88286820
    }
   },
   {
@@ -4199,7 +4458,8 @@
      "East Reddy Street",
      "North Main Street",
      "West Reddy Street"
-    ]
+    ],
+    "nodeId": 88307467
    }
   },
   {
@@ -4215,7 +4475,8 @@
     "streets": [
      "East Reddy Street",
      "Northeast First Avenue"
-    ]
+    ],
+    "nodeId": 88286836
    }
   },
   {
@@ -4231,7 +4492,8 @@
     "streets": [
      "Morningside Drive",
      "Pa Me Lane"
-    ]
+    ],
+    "nodeId": 1926679906
    }
   },
   {
@@ -4247,7 +4509,8 @@
     "streets": [
      "Morningside Drive",
      "Wildrose Lane"
-    ]
+    ],
+    "nodeId": 88286849
    }
   },
   {
@@ -4263,7 +4526,8 @@
     "streets": [
      "Grandview Drive",
      "Morningside Drive"
-    ]
+    ],
+    "nodeId": 88286851
    }
   },
   {
@@ -4279,7 +4543,8 @@
     "streets": [
      "Mesquite Road",
      "Morningside Drive"
-    ]
+    ],
+    "nodeId": 88286853
    }
   },
   {
@@ -4295,7 +4560,8 @@
     "streets": [
      "Chestnut Street",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88278196
    }
   },
   {
@@ -4311,7 +4577,8 @@
     "streets": [
      "Chestnut Street",
      "School Street"
-    ]
+    ],
+    "nodeId": 88287823
    }
   },
   {
@@ -4327,7 +4594,8 @@
     "streets": [
      "Paiute Circle",
      "Saniger Lane"
-    ]
+    ],
+    "nodeId": 88210883
    }
   },
   {
@@ -4343,7 +4611,8 @@
     "streets": [
      "Beatty Cutoff Road",
      "Highway 190;CA 190"
-    ]
+    ],
+    "nodeId": 150936134
    }
   },
   {
@@ -4360,7 +4629,8 @@
      "Beatty Cutoff Road",
      "Daylight Pass Road",
      "Mud Canyon Road"
-    ]
+    ],
+    "nodeId": 88289522
    }
   },
   {
@@ -4376,7 +4646,8 @@
     "streets": [
      "Enchanted Lake Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88215118
    }
   },
   {
@@ -4392,7 +4663,8 @@
     "streets": [
      "Kiowa Circle",
      "Shoshone Drive"
-    ]
+    ],
+    "nodeId": 88289837
    }
   },
   {
@@ -4408,7 +4680,8 @@
     "streets": [
      "Cone Road",
      "Glacier Lodge Road;9S21"
-    ]
+    ],
+    "nodeId": 88289891
    }
   },
   {
@@ -4424,7 +4697,8 @@
     "streets": [
      "East School Street",
      "South Lake View Street"
-    ]
+    ],
+    "nodeId": 88289899
    }
   },
   {
@@ -4441,7 +4715,8 @@
      "East Mountain View Street",
      "North Lone Pine Avenue",
      "South Lone Pine Avenue"
-    ]
+    ],
+    "nodeId": 88289903
    }
   },
   {
@@ -4457,7 +4732,8 @@
     "streets": [
      "South Lone Pine Avenue",
      "Whitney Portal Road"
-    ]
+    ],
+    "nodeId": 88289908
    }
   },
   {
@@ -4473,7 +4749,8 @@
     "streets": [
      "East Post Street",
      "South Lone Pine Avenue"
-    ]
+    ],
+    "nodeId": 88289912
    }
   },
   {
@@ -4489,7 +4766,8 @@
     "streets": [
      "East Muir Street",
      "South Lone Pine Avenue"
-    ]
+    ],
+    "nodeId": 88289915
    }
   },
   {
@@ -4505,7 +4783,8 @@
     "streets": [
      "Darwin",
      "Ophir Road"
-    ]
+    ],
+    "nodeId": 88291810
    }
   },
   {
@@ -4521,7 +4800,8 @@
     "streets": [
      "Ophir Road",
      "Southeast Second Avenue"
-    ]
+    ],
+    "nodeId": 1771074052
    }
   },
   {
@@ -4537,7 +4817,8 @@
     "streets": [
      "Navajo Circle",
      "Saniger Lane"
-    ]
+    ],
+    "nodeId": 88292473
    }
   },
   {
@@ -4553,7 +4834,8 @@
     "streets": [
      "Owens Street",
      "South Cartago Street"
-    ]
+    ],
+    "nodeId": 88292485
    }
   },
   {
@@ -4569,7 +4851,8 @@
     "streets": [
      "Owens Street",
      "Sierra Street"
-    ]
+    ],
+    "nodeId": 88292497
    }
   },
   {
@@ -4585,7 +4868,8 @@
     "streets": [
      "Gorge Road",
      "Old Sherwin Grade Road"
-    ]
+    ],
+    "nodeId": 88292555
    }
   },
   {
@@ -4601,7 +4885,8 @@
     "streets": [
      "Mesquite Road",
      "Wildrose Lane"
-    ]
+    ],
+    "nodeId": 88292813
    }
   },
   {
@@ -4617,7 +4902,8 @@
     "streets": [
      "Mesquite Road",
      "Pa Me Lane"
-    ]
+    ],
+    "nodeId": 1926679958
    }
   },
   {
@@ -4633,7 +4919,8 @@
     "streets": [
      "Pa Me Lane",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 1926679901
    }
   },
   {
@@ -4649,7 +4936,8 @@
     "streets": [
      "Cherry Tree Circle",
      "West Vista Circle"
-    ]
+    ],
+    "nodeId": 88293152
    }
   },
   {
@@ -4665,7 +4953,8 @@
     "streets": [
      "Clarke Street",
      "South Main Street;US 395;CA 168;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88340806
    }
   },
   {
@@ -4681,7 +4970,8 @@
     "streets": [
      "Clarke Street",
      "Sneden Street"
-    ]
+    ],
+    "nodeId": 88294203
    }
   },
   {
@@ -4697,7 +4987,8 @@
     "streets": [
      "Hogback Road",
      "Moffat Ranch Road"
-    ]
+    ],
+    "nodeId": 88368149
    }
   },
   {
@@ -4713,7 +5004,8 @@
     "streets": [
      "Hogback Road",
      "Movie Road"
-    ]
+    ],
+    "nodeId": 88294224
    }
   },
   {
@@ -4729,7 +5021,8 @@
     "streets": [
      "Hogback Road",
      "Hogback Road;14S03"
-    ]
+    ],
+    "nodeId": 10769596006
    }
   },
   {
@@ -4745,7 +5038,8 @@
     "streets": [
      "Hogback Road;14S03",
      "Whitney Portal Road;15S07"
-    ]
+    ],
+    "nodeId": 87949001
    }
   },
   {
@@ -4761,7 +5055,8 @@
     "streets": [
      "Montana Street",
      "Pine Creek Road"
-    ]
+    ],
+    "nodeId": 88294694
    }
   },
   {
@@ -4777,7 +5072,8 @@
     "streets": [
      "Montana Street",
      "Utah Street"
-    ]
+    ],
+    "nodeId": 88160345
    }
   },
   {
@@ -4793,7 +5089,8 @@
     "streets": [
      "Sunland Drive",
      "Warm Springs Road"
-    ]
+    ],
+    "nodeId": 88294785
    }
   },
   {
@@ -4809,7 +5106,8 @@
     "streets": [
      "Dunbar Lane",
      "McGalliard Avenue"
-    ]
+    ],
+    "nodeId": 88294864
    }
   },
   {
@@ -4825,7 +5123,8 @@
     "streets": [
      "Darby Avenue",
      "Dunbar Lane"
-    ]
+    ],
+    "nodeId": 88294869
    }
   },
   {
@@ -4841,7 +5140,8 @@
     "streets": [
      "Dunbar Lane",
      "McCree Avenue"
-    ]
+    ],
+    "nodeId": 88294886
    }
   },
   {
@@ -4857,7 +5157,8 @@
     "streets": [
      "Dunbar Lane",
      "Tam O Shanter Avenue"
-    ]
+    ],
+    "nodeId": 88294888
    }
   },
   {
@@ -4873,7 +5174,8 @@
     "streets": [
      "Eastside Road",
      "Redding Canyon Road"
-    ]
+    ],
+    "nodeId": 87819345
    }
   },
   {
@@ -4890,7 +5192,8 @@
      "Butcher Lane",
      "Crater Road",
      "Newman Street"
-    ]
+    ],
+    "nodeId": 11386168180
    }
   },
   {
@@ -4906,7 +5209,8 @@
     "streets": [
      "Bartell Road",
      "Newman Street"
-    ]
+    ],
+    "nodeId": 7553211145
    }
   },
   {
@@ -4923,7 +5227,8 @@
      "East Kearsarge Street",
      "South Edwards Street;US 395;US 6 Hist",
      "West Kearsarge Street"
-    ]
+    ],
+    "nodeId": 88295766
    }
   },
   {
@@ -4939,7 +5244,8 @@
     "streets": [
      "East Kearsarge Street",
      "South Jackson Street"
-    ]
+    ],
+    "nodeId": 88295768
    }
   },
   {
@@ -4955,7 +5261,8 @@
     "streets": [
      "Myrtle Lane",
      "Reynolds Road"
-    ]
+    ],
+    "nodeId": 376285850
    }
   },
   {
@@ -4971,7 +5278,8 @@
     "streets": [
      "Kristine Circle",
      "Myrtle Lane"
-    ]
+    ],
+    "nodeId": 88295784
    }
   },
   {
@@ -4987,7 +5295,8 @@
     "streets": [
      "Myrtle Lane",
      "Olivia Lane"
-    ]
+    ],
+    "nodeId": 88295789
    }
   },
   {
@@ -5004,7 +5313,8 @@
      "Glacier Lodge Road;9S21",
      "West Crocker Street",
      "West Street"
-    ]
+    ],
+    "nodeId": 564081142
    }
   },
   {
@@ -5021,7 +5331,8 @@
      "North School Street",
      "School Street",
      "West Crocker Street"
-    ]
+    ],
+    "nodeId": 88295953
    }
   },
   {
@@ -5037,7 +5348,8 @@
     "streets": [
      "Flower Alley",
      "West Crocker Street"
-    ]
+    ],
+    "nodeId": 88295954
    }
   },
   {
@@ -5054,7 +5366,8 @@
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "North Main Street;US 395;US 6 Hist",
      "West Crocker Street"
-    ]
+    ],
+    "nodeId": 88277225
    }
   },
   {
@@ -5070,7 +5383,8 @@
     "streets": [
      "Baker Creek Road",
      "North School Street"
-    ]
+    ],
+    "nodeId": 88296577
    }
   },
   {
@@ -5086,7 +5400,8 @@
     "streets": [
      "South Main Street;US 395;CA 168;US 6 Hist",
      "Sunland Res Road"
-    ]
+    ],
+    "nodeId": 88297804
    }
   },
   {
@@ -5102,7 +5417,8 @@
     "streets": [
      "Sunland Drive",
      "Sunland Res Road"
-    ]
+    ],
+    "nodeId": 10212271771
    }
   },
   {
@@ -5118,7 +5434,8 @@
     "streets": [
      "Olancha Lane",
      "Old U.S. Route 395;US Route 395 Business"
-    ]
+    ],
+    "nodeId": 88278831
    }
   },
   {
@@ -5134,7 +5451,8 @@
     "streets": [
      "North Washington Street",
      "West Wall Street"
-    ]
+    ],
+    "nodeId": 88297902
    }
   },
   {
@@ -5150,7 +5468,8 @@
     "streets": [
      "School Street",
      "Walnut Street"
-    ]
+    ],
+    "nodeId": 88297916
    }
   },
   {
@@ -5166,7 +5485,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Walnut Street"
-    ]
+    ],
+    "nodeId": 88278194
    }
   },
   {
@@ -5182,7 +5502,8 @@
     "streets": [
      "Dixon Lane",
      "Saniger Lane"
-    ]
+    ],
+    "nodeId": 88249777
    }
   },
   {
@@ -5198,7 +5519,8 @@
     "streets": [
      "Saniger Lane",
      "West Street"
-    ]
+    ],
+    "nodeId": 88297922
    }
   },
   {
@@ -5214,7 +5536,8 @@
     "streets": [
      "Juniper Street",
      "Saniger Lane"
-    ]
+    ],
+    "nodeId": 88297924
    }
   },
   {
@@ -5230,7 +5553,8 @@
     "streets": [
      "Hopi Circle",
      "Saniger Lane"
-    ]
+    ],
+    "nodeId": 88297936
    }
   },
   {
@@ -5246,7 +5570,8 @@
     "streets": [
      "Apache Drive",
      "Saniger Lane"
-    ]
+    ],
+    "nodeId": 88297947
    }
   },
   {
@@ -5262,7 +5587,8 @@
     "streets": [
      "Choctaw Drive",
      "Saniger Lane"
-    ]
+    ],
+    "nodeId": 88297977
    }
   },
   {
@@ -5278,7 +5604,8 @@
     "streets": [
      "North Barlow Lane",
      "Saniger Lane"
-    ]
+    ],
+    "nodeId": 88298079
    }
   },
   {
@@ -5294,7 +5621,8 @@
     "streets": [
      "Abelor Road",
      "Sawmill Road"
-    ]
+    ],
+    "nodeId": 88298114
    }
   },
   {
@@ -5310,7 +5638,8 @@
     "streets": [
      "Cerro Gordo Street",
      "Yerington Avenue"
-    ]
+    ],
+    "nodeId": 88298130
    }
   },
   {
@@ -5326,7 +5655,8 @@
     "streets": [
      "Franklin Street",
      "Yerington Avenue"
-    ]
+    ],
+    "nodeId": 88298132
    }
   },
   {
@@ -5342,7 +5672,8 @@
     "streets": [
      "Lincoln Street",
      "Yerington Avenue"
-    ]
+    ],
+    "nodeId": 88298138
    }
   },
   {
@@ -5358,7 +5689,8 @@
     "streets": [
      "Birch Creek Road",
      "Tinemaha Road"
-    ]
+    ],
+    "nodeId": 88298140
    }
   },
   {
@@ -5374,7 +5706,8 @@
     "streets": [
      "Furnace Creek Road",
      "Old Spanish Trail Highway"
-    ]
+    ],
+    "nodeId": 88298707
    }
   },
   {
@@ -5390,7 +5723,8 @@
     "streets": [
      "Mesquite Valley Road",
      "Old Spanish Trail Highway"
-    ]
+    ],
+    "nodeId": 88192443
    }
   },
   {
@@ -5406,7 +5740,8 @@
     "streets": [
      "Old Spanish Trail Highway",
      "West Old Spanish Trail Highway"
-    ]
+    ],
+    "nodeId": 88298557
    }
   },
   {
@@ -5422,7 +5757,8 @@
     "streets": [
      "Esha Street",
      "Sub Station Road"
-    ]
+    ],
+    "nodeId": 88193045
    }
   },
   {
@@ -5438,7 +5774,8 @@
     "streets": [
      "Canyon Drive",
      "Mount Tom View Drive"
-    ]
+    ],
+    "nodeId": 88299390
    }
   },
   {
@@ -5454,7 +5791,8 @@
     "streets": [
      "Ranch Road",
      "Vista Road"
-    ]
+    ],
+    "nodeId": 88299420
    }
   },
   {
@@ -5470,7 +5808,8 @@
     "streets": [
      "Majestic Way",
      "Ranch Road"
-    ]
+    ],
+    "nodeId": 88299434
    }
   },
   {
@@ -5486,7 +5825,8 @@
     "streets": [
      "Luring Lane",
      "Ranch Road"
-    ]
+    ],
+    "nodeId": 88299436
    }
   },
   {
@@ -5502,7 +5842,8 @@
     "streets": [
      "Ranch Road",
      "Ranch View Lane"
-    ]
+    ],
+    "nodeId": 88299437
    }
   },
   {
@@ -5518,7 +5859,8 @@
     "streets": [
      "Sub Station Road",
      "Zucco Road"
-    ]
+    ],
+    "nodeId": 88299442
    }
   },
   {
@@ -5534,7 +5876,8 @@
     "streets": [
      "Goodwin Road",
      "Sub Station Road"
-    ]
+    ],
+    "nodeId": 88299446
    }
   },
   {
@@ -5550,7 +5893,8 @@
     "streets": [
      "Choctaw Drive",
      "South Valley View Drive"
-    ]
+    ],
+    "nodeId": 88299849
    }
   },
   {
@@ -5567,7 +5911,8 @@
      "Choctaw Drive",
      "Sioux Lane",
      "Sioux Street"
-    ]
+    ],
+    "nodeId": 88299850
    }
   },
   {
@@ -5583,7 +5928,8 @@
     "streets": [
      "Choctaw Drive",
      "Washoe Circle"
-    ]
+    ],
+    "nodeId": 88299853
    }
   },
   {
@@ -5599,7 +5945,8 @@
     "streets": [
      "Arapahoe Circle",
      "Choctaw Drive"
-    ]
+    ],
+    "nodeId": 88299856
    }
   },
   {
@@ -5615,7 +5962,8 @@
     "streets": [
      "Lasky Lane",
      "Pangborne Lane"
-    ]
+    ],
+    "nodeId": 88299861
    }
   },
   {
@@ -5631,7 +5979,8 @@
     "streets": [
      "Lasky Lane",
      "Pangborn Street"
-    ]
+    ],
+    "nodeId": 88299863
    }
   },
   {
@@ -5647,7 +5996,8 @@
     "streets": [
      "East Entrance",
      "Lasky Lane"
-    ]
+    ],
+    "nodeId": 2235654799
    }
   },
   {
@@ -5663,7 +6013,8 @@
     "streets": [
      "Dominy Road",
      "Indian Springs Drive"
-    ]
+    ],
+    "nodeId": 88299886
    }
   },
   {
@@ -5679,7 +6030,8 @@
     "streets": [
      "Rawson Creek Road",
      "Sierra Ladera Street"
-    ]
+    ],
+    "nodeId": 88299917
    }
   },
   {
@@ -5695,7 +6047,8 @@
     "streets": [
      "South Brewery Street",
      "Tim Holt Street"
-    ]
+    ],
+    "nodeId": 88299921
    }
   },
   {
@@ -5711,7 +6064,8 @@
     "streets": [
      "South Brewery Street",
      "West Post Street"
-    ]
+    ],
+    "nodeId": 88299924
    }
   },
   {
@@ -5727,7 +6081,8 @@
     "streets": [
      "South Brewery Street",
      "Whitney Portal Road"
-    ]
+    ],
+    "nodeId": 88299926
    }
   },
   {
@@ -5743,7 +6098,8 @@
     "streets": [
      "Old U.S. Route 395;CA 190;US Route 395 Business",
      "Walker Creek Road"
-    ]
+    ],
+    "nodeId": 9980226785
    }
   },
   {
@@ -5759,7 +6115,8 @@
     "streets": [
      "Old State Highway",
      "Walker Creek Road"
-    ]
+    ],
+    "nodeId": 88299932
    }
   },
   {
@@ -5775,7 +6132,8 @@
     "streets": [
      "Shop Street",
      "Walker Creek Road"
-    ]
+    ],
+    "nodeId": 88299933
    }
   },
   {
@@ -5792,7 +6150,8 @@
      "East Line Street",
      "North 3rd Street",
      "South 3rd Street"
-    ]
+    ],
+    "nodeId": 88300313
    }
   },
   {
@@ -5808,7 +6167,8 @@
     "streets": [
      "East Line Street",
      "Sneden Street"
-    ]
+    ],
+    "nodeId": 88300314
    }
   },
   {
@@ -5824,7 +6184,8 @@
     "streets": [
      "East Sierra Street",
      "South Valley View Drive"
-    ]
+    ],
+    "nodeId": 88300326
    }
   },
   {
@@ -5840,7 +6201,8 @@
     "streets": [
      "East Sierra Street",
      "South Rosedale Street"
-    ]
+    ],
+    "nodeId": 88300328
    }
   },
   {
@@ -5856,7 +6218,8 @@
     "streets": [
      "Mandich Street",
      "Sunland Drive"
-    ]
+    ],
+    "nodeId": 88294807
    }
   },
   {
@@ -5872,7 +6235,8 @@
     "streets": [
      "Mandich Street",
      "South Fowler Street"
-    ]
+    ],
+    "nodeId": 88300487
    }
   },
   {
@@ -5888,7 +6252,8 @@
     "streets": [
      "Mandich Street",
      "South Main Street;US 395;CA 168;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88300489
    }
   },
   {
@@ -5904,7 +6269,8 @@
     "streets": [
      "CA 168",
      "Oasis Road"
-    ]
+    ],
+    "nodeId": 88300497
    }
   },
   {
@@ -5920,7 +6286,8 @@
     "streets": [
      "Eureka Valley Road",
      "Oasis Road"
-    ]
+    ],
+    "nodeId": 88264866
    }
   },
   {
@@ -5936,7 +6303,8 @@
     "streets": [
      "North Haiwee Road",
      "Old U.S. Route 395;CA 190;US Route 395 Business"
-    ]
+    ],
+    "nodeId": 12170343703
    }
   },
   {
@@ -5952,7 +6320,8 @@
     "streets": [
      "East South Street",
      "South 2nd Street"
-    ]
+    ],
+    "nodeId": 88300695
    }
   },
   {
@@ -5968,7 +6337,8 @@
     "streets": [
      "Clarke Street",
      "South 2nd Street"
-    ]
+    ],
+    "nodeId": 88294210
    }
   },
   {
@@ -5984,7 +6354,8 @@
     "streets": [
      "Short Street",
      "South 2nd Street"
-    ]
+    ],
+    "nodeId": 88300697
    }
   },
   {
@@ -6000,7 +6371,8 @@
     "streets": [
      "East Line Street",
      "South 2nd Street"
-    ]
+    ],
+    "nodeId": 88300308
    }
   },
   {
@@ -6016,7 +6388,8 @@
     "streets": [
      "Sioux Lane",
      "Sioux Street"
-    ]
+    ],
+    "nodeId": 88300779
    }
   },
   {
@@ -6032,7 +6405,8 @@
     "streets": [
      "Indian Springs Drive",
      "McDonald Road"
-    ]
+    ],
+    "nodeId": 88302080
    }
   },
   {
@@ -6048,7 +6422,8 @@
     "streets": [
      "Alabama Drive",
      "McDonald Road"
-    ]
+    ],
+    "nodeId": 88302089
    }
   },
   {
@@ -6064,7 +6439,8 @@
     "streets": [
      "McDonald Road",
      "Shahar Avenue"
-    ]
+    ],
+    "nodeId": 88302100
    }
   },
   {
@@ -6080,7 +6456,8 @@
     "streets": [
      "Old State Highway",
      "Old U.S. Route 395;CA 190;US Route 395 Business"
-    ]
+    ],
+    "nodeId": 88278859
    }
   },
   {
@@ -6096,7 +6473,8 @@
     "streets": [
      "CA 136",
      "Old State Highway"
-    ]
+    ],
+    "nodeId": 376293010
    }
   },
   {
@@ -6112,7 +6490,8 @@
     "streets": [
      "Milovich Lane",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 88302211
    }
   },
   {
@@ -6128,7 +6507,8 @@
     "streets": [
      "Horseshoe Meadows Road",
      "Horseshoe Meadows Road;16S02"
-    ]
+    ],
+    "nodeId": 88303571
    }
   },
   {
@@ -6144,7 +6524,8 @@
     "streets": [
      "Horseshoe Meadows Road",
      "Whitney Portal Road"
-    ]
+    ],
+    "nodeId": 87987186
    }
   },
   {
@@ -6160,7 +6541,8 @@
     "streets": [
      "North Tumbleweed Road",
      "West Cedar Street"
-    ]
+    ],
+    "nodeId": 88303892
    }
   },
   {
@@ -6176,7 +6558,8 @@
     "streets": [
      "Meadow Lane",
      "West Cedar Street"
-    ]
+    ],
+    "nodeId": 88303895
    }
   },
   {
@@ -6192,7 +6575,8 @@
     "streets": [
      "Boundary Road",
      "Lower Rock Creek Road"
-    ]
+    ],
+    "nodeId": 89472918
    }
   },
   {
@@ -6208,7 +6592,8 @@
     "streets": [
      "Lower Rock Creek Road",
      "Old Sherwin Grade Road"
-    ]
+    ],
+    "nodeId": 88303941
    }
   },
   {
@@ -6224,7 +6609,8 @@
     "streets": [
      "East Inyo Street",
      "North Clay Street"
-    ]
+    ],
+    "nodeId": 88304064
    }
   },
   {
@@ -6240,7 +6626,8 @@
     "streets": [
      "East Wall Street",
      "North Clay Street"
-    ]
+    ],
+    "nodeId": 88304066
    }
   },
   {
@@ -6256,7 +6643,8 @@
     "streets": [
      "East Main Street",
      "North Clay Street"
-    ]
+    ],
+    "nodeId": 88238729
    }
   },
   {
@@ -6272,7 +6660,8 @@
     "streets": [
      "East Center Street",
      "North Clay Street"
-    ]
+    ],
+    "nodeId": 88304070
    }
   },
   {
@@ -6288,7 +6677,8 @@
     "streets": [
      "Fairbanks Street",
      "Whitney Portal Road"
-    ]
+    ],
+    "nodeId": 88304085
    }
   },
   {
@@ -6304,7 +6694,8 @@
     "streets": [
      "Alabama Street",
      "Pine Creek Road"
-    ]
+    ],
+    "nodeId": 88304089
    }
   },
   {
@@ -6321,7 +6712,8 @@
      "CA 190",
      "Olancha Darwin Road",
      "Talc City Cutoff"
-    ]
+    ],
+    "nodeId": 88304280
    }
   },
   {
@@ -6337,7 +6729,8 @@
     "streets": [
      "Maciver Street",
      "North Main Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88342784
    }
   },
   {
@@ -6353,7 +6746,8 @@
     "streets": [
      "CA 168",
      "Sage Drive"
-    ]
+    ],
+    "nodeId": 88304314
    }
   },
   {
@@ -6369,7 +6763,8 @@
     "streets": [
      "Alpine Drive",
      "Sage Drive"
-    ]
+    ],
+    "nodeId": 88304337
    }
   },
   {
@@ -6385,7 +6780,8 @@
     "streets": [
      "Fall Road",
      "Spring Circle"
-    ]
+    ],
+    "nodeId": 88304347
    }
   },
   {
@@ -6401,7 +6797,8 @@
     "streets": [
      "Bell Access Road",
      "Oak Creek Road"
-    ]
+    ],
+    "nodeId": 87958920
    }
   },
   {
@@ -6417,7 +6814,8 @@
     "streets": [
      "Bell Access Road",
      "Fish Hatchery Road"
-    ]
+    ],
+    "nodeId": 88304480
    }
   },
   {
@@ -6433,7 +6831,8 @@
     "streets": [
      "Bear Creek Drive",
      "Silver Creek Drive"
-    ]
+    ],
+    "nodeId": 88304482
    }
   },
   {
@@ -6449,7 +6848,8 @@
     "streets": [
      "North Barlow Lane",
      "Silver Creek Drive"
-    ]
+    ],
+    "nodeId": 88304485
    }
   },
   {
@@ -6465,7 +6865,8 @@
     "streets": [
      "Pine Creek Road",
      "Utah Street"
-    ]
+    ],
+    "nodeId": 88304489
    }
   },
   {
@@ -6481,7 +6882,8 @@
     "streets": [
      "Cow Creek Road",
      "Highway 190;CA 190"
-    ]
+    ],
+    "nodeId": 88304666
    }
   },
   {
@@ -6497,7 +6899,8 @@
     "streets": [
      "Bartell Road",
      "Hill Street"
-    ]
+    ],
+    "nodeId": 7553211143
    }
   },
   {
@@ -6513,7 +6916,8 @@
     "streets": [
      "East Sepsey Lane",
      "Hill Street"
-    ]
+    ],
+    "nodeId": 376285618
    }
   },
   {
@@ -6529,7 +6933,8 @@
     "streets": [
      "Glenbrook Way",
      "South Barlow Lane"
-    ]
+    ],
+    "nodeId": 88306238
    }
   },
   {
@@ -6545,7 +6950,8 @@
     "streets": [
      "Glenbrook Way",
      "Orinda Drive"
-    ]
+    ],
+    "nodeId": 88266178
    }
   },
   {
@@ -6561,7 +6967,8 @@
     "streets": [
      "Matlick Lane",
      "North Sierra Highway;US 395"
-    ]
+    ],
+    "nodeId": 88307386
    }
   },
   {
@@ -6577,7 +6984,8 @@
     "streets": [
      "Matlick Lane",
      "Wendy Lane"
-    ]
+    ],
+    "nodeId": 88307409
    }
   },
   {
@@ -6593,7 +7001,8 @@
     "streets": [
      "Northwest First Avenue",
      "West Reddy Street"
-    ]
+    ],
+    "nodeId": 88307473
    }
   },
   {
@@ -6609,7 +7018,8 @@
     "streets": [
      "Northwest Second Avenue",
      "West Reddy Street"
-    ]
+    ],
+    "nodeId": 88307481
    }
   },
   {
@@ -6625,7 +7035,8 @@
     "streets": [
      "Northwest Fourth Avenue",
      "West Reddy Street"
-    ]
+    ],
+    "nodeId": 88378197
    }
   },
   {
@@ -6641,7 +7052,8 @@
     "streets": [
      "Sunrise Lane",
      "Valley West Circle"
-    ]
+    ],
+    "nodeId": 88307494
    }
   },
   {
@@ -6657,7 +7069,8 @@
     "streets": [
      "South Barlow Lane",
      "Sunrise Lane"
-    ]
+    ],
+    "nodeId": 88307496
    }
   },
   {
@@ -6674,7 +7087,8 @@
      "Airport Road",
      "Gus Cashbaugh Lane",
      "Gus Cashbaugh Road"
-    ]
+    ],
+    "nodeId": 88274643
    }
   },
   {
@@ -6690,7 +7104,8 @@
     "streets": [
      "Lee Street",
      "West Yaney Street"
-    ]
+    ],
+    "nodeId": 88307635
    }
   },
   {
@@ -6706,7 +7121,8 @@
     "streets": [
      "Lee Street",
      "Sierra Street"
-    ]
+    ],
+    "nodeId": 88307636
    }
   },
   {
@@ -6722,7 +7138,8 @@
     "streets": [
      "East Pine Street",
      "Howard Street"
-    ]
+    ],
+    "nodeId": 88307642
    }
   },
   {
@@ -6738,7 +7155,8 @@
     "streets": [
      "East Elm Street",
      "Howard Street"
-    ]
+    ],
+    "nodeId": 88307644
    }
   },
   {
@@ -6754,7 +7172,8 @@
     "streets": [
      "Grimshaw Road",
      "Sunset Road"
-    ]
+    ],
+    "nodeId": 88308397
    }
   },
   {
@@ -6770,7 +7189,8 @@
     "streets": [
      "Bonita Vista",
      "Sunset Road"
-    ]
+    ],
+    "nodeId": 88308399
    }
   },
   {
@@ -6787,7 +7207,8 @@
      "North Pa-Ha Lane",
      "South Pa-Ha Lane",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 88308402
    }
   },
   {
@@ -6804,7 +7225,8 @@
      "East Fulton Street",
      "South Main Street",
      "West Fulton Street"
-    ]
+    ],
+    "nodeId": 88308418
    }
   },
   {
@@ -6820,7 +7242,8 @@
     "streets": [
      "Fulton Street",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 88353944
    }
   },
   {
@@ -6836,7 +7259,8 @@
     "streets": [
      "Fulton Street",
      "Lagoon Street"
-    ]
+    ],
+    "nodeId": 88308432
    }
   },
   {
@@ -6853,7 +7277,8 @@
      "Bartell Road",
      "Blake Street",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88278190
    }
   },
   {
@@ -6869,7 +7294,8 @@
     "streets": [
      "Blake Street",
      "Harry Street"
-    ]
+    ],
+    "nodeId": 88309154
    }
   },
   {
@@ -6886,7 +7312,8 @@
      "North Webster Street",
      "South Webster Street",
      "West Market Street"
-    ]
+    ],
+    "nodeId": 88309158
    }
   },
   {
@@ -6902,7 +7329,8 @@
     "streets": [
      "South Webster Street",
      "West Kearsarge Street"
-    ]
+    ],
+    "nodeId": 88309160
    }
   },
   {
@@ -6918,7 +7346,8 @@
     "streets": [
      "South Webster Street",
      "West Payne Street"
-    ]
+    ],
+    "nodeId": 88258095
    }
   },
   {
@@ -6934,7 +7363,8 @@
     "streets": [
      "South Webster Street",
      "West Pavilion Street"
-    ]
+    ],
+    "nodeId": 88309162
    }
   },
   {
@@ -6951,7 +7381,8 @@
      "Gerkin Road",
      "Quail Lane",
      "Waford Road"
-    ]
+    ],
+    "nodeId": 88249682
    }
   },
   {
@@ -6967,7 +7398,8 @@
     "streets": [
      "Bar L Lane",
      "Bear Creek Drive"
-    ]
+    ],
+    "nodeId": 88309184
    }
   },
   {
@@ -6983,7 +7415,8 @@
     "streets": [
      "Bar M Lane",
      "Bear Creek Drive"
-    ]
+    ],
+    "nodeId": 88309194
    }
   },
   {
@@ -6999,7 +7432,8 @@
     "streets": [
      "Fiora Avenue",
      "Macgregor Avenue"
-    ]
+    ],
+    "nodeId": 88310027
    }
   },
   {
@@ -7015,7 +7449,8 @@
     "streets": [
      "Argyle Lane",
      "Fiora Avenue"
-    ]
+    ],
+    "nodeId": 88310040
    }
   },
   {
@@ -7031,7 +7466,8 @@
     "streets": [
      "Alpine Drive",
      "Manzanita Road"
-    ]
+    ],
+    "nodeId": 88310052
    }
   },
   {
@@ -7047,7 +7483,8 @@
     "streets": [
      "Pine Creek Road",
      "Vanadium Ranch Road"
-    ]
+    ],
+    "nodeId": 88310077
    }
   },
   {
@@ -7063,7 +7500,8 @@
     "streets": [
      "North Round Valley Road",
      "Vanadium Ranch Road"
-    ]
+    ],
+    "nodeId": 88310146
    }
   },
   {
@@ -7079,7 +7517,8 @@
     "streets": [
      "Stampmill Road",
      "Sunset Road"
-    ]
+    ],
+    "nodeId": 88310571
    }
   },
   {
@@ -7095,7 +7534,8 @@
     "streets": [
      "Old Spanish Trail Highway",
      "Stampmill Road"
-    ]
+    ],
+    "nodeId": 88298757
    }
   },
   {
@@ -7111,7 +7551,8 @@
     "streets": [
      "Betty Lou Lane",
      "Michelle Circle"
-    ]
+    ],
+    "nodeId": 88310653
    }
   },
   {
@@ -7127,7 +7568,8 @@
     "streets": [
      "Bowers Street",
      "East Sepsey Lane"
-    ]
+    ],
+    "nodeId": 376285620
    }
   },
   {
@@ -7143,7 +7585,8 @@
     "streets": [
      "Hardy Road",
      "North Round Valley Road"
-    ]
+    ],
+    "nodeId": 88310681
    }
   },
   {
@@ -7159,7 +7602,8 @@
     "streets": [
      "Foothill Drive",
      "Trail Circle"
-    ]
+    ],
+    "nodeId": 88310700
    }
   },
   {
@@ -7175,7 +7619,8 @@
     "streets": [
      "Northwest First Avenue",
      "West Kearny Street"
-    ]
+    ],
+    "nodeId": 88399245
    }
   },
   {
@@ -7191,7 +7636,8 @@
     "streets": [
      "Airport Road",
      "Poleta Road"
-    ]
+    ],
+    "nodeId": 88310919
    }
   },
   {
@@ -7207,7 +7653,8 @@
     "streets": [
      "Eastside Road",
      "Poleta Road"
-    ]
+    ],
+    "nodeId": 87871819
    }
   },
   {
@@ -7223,7 +7670,8 @@
     "streets": [
      "Sage Flat Road",
      "Sage Flats Drive"
-    ]
+    ],
+    "nodeId": 88311299
    }
   },
   {
@@ -7239,7 +7687,8 @@
     "streets": [
      "Hobson Street",
      "Keough Street"
-    ]
+    ],
+    "nodeId": 88112521
    }
   },
   {
@@ -7255,7 +7704,8 @@
     "streets": [
      "Home Street",
      "Keough Street"
-    ]
+    ],
+    "nodeId": 88311350
    }
   },
   {
@@ -7271,7 +7721,8 @@
     "streets": [
      "Grazide Circle",
      "South Valley View Drive"
-    ]
+    ],
+    "nodeId": 88313652
    }
   },
   {
@@ -7288,7 +7739,8 @@
      "Elias Road",
      "Elias Way",
      "Tecopa Hot Springs Road"
-    ]
+    ],
+    "nodeId": 88313693
    }
   },
   {
@@ -7306,7 +7758,8 @@
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "North Main Street;US 395;US 6 Hist",
      "Poplar Street"
-    ]
+    ],
+    "nodeId": 88277931
    }
   },
   {
@@ -7322,7 +7775,8 @@
     "streets": [
      "Aguereberry Point Road",
      "Emigrant Canyon Road"
-    ]
+    ],
+    "nodeId": 88314693
    }
   },
   {
@@ -7338,7 +7792,8 @@
     "streets": [
      "Alpine Drive",
      "Nutcraker Road"
-    ]
+    ],
+    "nodeId": 88314730
    }
   },
   {
@@ -7354,7 +7809,8 @@
     "streets": [
      "North See Vee Lane",
      "Taboose Lane"
-    ]
+    ],
+    "nodeId": 88314740
    }
   },
   {
@@ -7370,7 +7826,8 @@
     "streets": [
      "Alpine Drive",
      "CA 168"
-    ]
+    ],
+    "nodeId": 88315184
    }
   },
   {
@@ -7386,7 +7843,8 @@
     "streets": [
      "Alpine Drive",
      "Sumac Road"
-    ]
+    ],
+    "nodeId": 87982312
    }
   },
   {
@@ -7402,7 +7860,8 @@
     "streets": [
      "East Main Street",
      "North Jackson Street"
-    ]
+    ],
+    "nodeId": 88315208
    }
   },
   {
@@ -7418,7 +7877,8 @@
     "streets": [
      "Fall Road",
      "Williams Road"
-    ]
+    ],
+    "nodeId": 87820994
    }
   },
   {
@@ -7434,7 +7894,8 @@
     "streets": [
      "Summer Road",
      "Williams Road"
-    ]
+    ],
+    "nodeId": 88315257
    }
   },
   {
@@ -7450,7 +7911,8 @@
     "streets": [
      "Hunter Road",
      "Indian Springs Drive"
-    ]
+    ],
+    "nodeId": 88381356
    }
   },
   {
@@ -7466,7 +7928,8 @@
     "streets": [
      "CA 190",
      "Emigrant Canyon Road"
-    ]
+    ],
+    "nodeId": 11384295646
    }
   },
   {
@@ -7482,7 +7945,8 @@
     "streets": [
      "Olivas Ranch Road",
      "Whitney Portal Road"
-    ]
+    ],
+    "nodeId": 88248677
    }
   },
   {
@@ -7498,7 +7962,8 @@
     "streets": [
      "Harris Road",
      "Parrish Road"
-    ]
+    ],
+    "nodeId": 1916556744
    }
   },
   {
@@ -7514,7 +7979,8 @@
     "streets": [
      "Bonita Vista",
      "Parrish Road"
-    ]
+    ],
+    "nodeId": 88316973
    }
   },
   {
@@ -7530,7 +7996,8 @@
     "streets": [
      "Grimshaw Road",
      "Parrish Road"
-    ]
+    ],
+    "nodeId": 88316974
    }
   },
   {
@@ -7546,7 +8013,8 @@
     "streets": [
      "Downey Road",
      "Parrish Road"
-    ]
+    ],
+    "nodeId": 88316979
    }
   },
   {
@@ -7562,7 +8030,8 @@
     "streets": [
      "East South Street",
      "Sneden Street"
-    ]
+    ],
+    "nodeId": 88316983
    }
   },
   {
@@ -7578,7 +8047,8 @@
     "streets": [
      "BLM P68",
      "Trona-Wildrose Road"
-    ]
+    ],
+    "nodeId": 1147610048
    }
   },
   {
@@ -7595,7 +8065,8 @@
      "BLM P68",
      "Stockwell Mine Road;BLM P60",
      "Stockwell Mine Road;BLM P68"
-    ]
+    ],
+    "nodeId": 88319367
    }
   },
   {
@@ -7611,7 +8082,8 @@
     "streets": [
      "Stockwell Mine Road;BLM P60",
      "Valley Wells Road"
-    ]
+    ],
+    "nodeId": 88111787
    }
   },
   {
@@ -7627,7 +8099,8 @@
     "streets": [
      "County Road",
      "Keough Hot Springs Road"
-    ]
+    ],
+    "nodeId": 88319699
    }
   },
   {
@@ -7644,7 +8117,8 @@
      "East Payne Street",
      "South Edwards Street;US 395;US 6 Hist",
      "West Payne Street"
-    ]
+    ],
+    "nodeId": 88258099
    }
   },
   {
@@ -7660,7 +8134,8 @@
     "streets": [
      "East Payne Street",
      "South Jackson Street"
-    ]
+    ],
+    "nodeId": 88319714
    }
   },
   {
@@ -7676,7 +8151,8 @@
     "streets": [
      "Sierra Grande Street",
      "Sierra Ladera Street"
-    ]
+    ],
+    "nodeId": 88319795
    }
   },
   {
@@ -7692,7 +8168,8 @@
     "streets": [
      "East Bush Street",
      "North Jackson Street"
-    ]
+    ],
+    "nodeId": 88319811
    }
   },
   {
@@ -7708,7 +8185,8 @@
     "streets": [
      "East Bush Street",
      "Mc Elroy Lane"
-    ]
+    ],
+    "nodeId": 88319813
    }
   },
   {
@@ -7724,7 +8202,8 @@
     "streets": [
      "Nevada Street",
      "Pine Creek Road"
-    ]
+    ],
+    "nodeId": 88319818
    }
   },
   {
@@ -7741,7 +8220,8 @@
      "North Highway",
      "Scotty's Castle Road",
      "Ubehebe Crater Road"
-    ]
+    ],
+    "nodeId": 88319836
    }
   },
   {
@@ -7757,7 +8237,8 @@
     "streets": [
      "Death Valley - Big Pine Road",
      "Ubehebe Crater Road"
-    ]
+    ],
+    "nodeId": 87763020
    }
   },
   {
@@ -7773,7 +8254,8 @@
     "streets": [
      "South Valley View Drive",
      "Tam O Shanter Avenue"
-    ]
+    ],
+    "nodeId": 88323735
    }
   },
   {
@@ -7789,7 +8271,8 @@
     "streets": [
      "Reata Road",
      "Watterson Road"
-    ]
+    ],
+    "nodeId": 1926702080
    }
   },
   {
@@ -7805,7 +8288,8 @@
     "streets": [
      "Fairview Circle",
      "Watterson Road"
-    ]
+    ],
+    "nodeId": 88323768
    }
   },
   {
@@ -7821,7 +8305,8 @@
     "streets": [
      "East Wall Street",
      "North Jackson Street"
-    ]
+    ],
+    "nodeId": 88323822
    }
   },
   {
@@ -7837,7 +8322,8 @@
     "streets": [
      "Leisure Circle",
      "Summer Haze Circle"
-    ]
+    ],
+    "nodeId": 88325005
    }
   },
   {
@@ -7853,7 +8339,8 @@
     "streets": [
      "Julie Ann Lane",
      "Reynolds Road"
-    ]
+    ],
+    "nodeId": 376285833
    }
   },
   {
@@ -7869,7 +8356,8 @@
     "streets": [
      "Betty Lou Lane",
      "Julie Ann Lane"
-    ]
+    ],
+    "nodeId": 88325017
    }
   },
   {
@@ -7885,7 +8373,8 @@
     "streets": [
      "Julie Ann Lane",
      "Marianne Way"
-    ]
+    ],
+    "nodeId": 88325026
    }
   },
   {
@@ -7901,7 +8390,8 @@
     "streets": [
      "Cerro Gordo Street",
      "Maud Street"
-    ]
+    ],
+    "nodeId": 88325036
    }
   },
   {
@@ -7917,7 +8407,8 @@
     "streets": [
      "Old U.S. Route 395",
      "Whitney Street"
-    ]
+    ],
+    "nodeId": 88278750
    }
   },
   {
@@ -7933,7 +8424,8 @@
     "streets": [
      "Sierra Street",
      "Whitney Street"
-    ]
+    ],
+    "nodeId": 88325073
    }
   },
   {
@@ -7949,7 +8441,8 @@
     "streets": [
      "North Cartago Street",
      "Whitney Street"
-    ]
+    ],
+    "nodeId": 88325080
    }
   },
   {
@@ -7966,7 +8459,8 @@
      "North Olancha Street",
      "Olancha Street",
      "Whitney Street"
-    ]
+    ],
+    "nodeId": 9404148491
    }
   },
   {
@@ -7982,7 +8476,8 @@
     "streets": [
      "North Mojave Street",
      "Whitney Street"
-    ]
+    ],
+    "nodeId": 88325094
    }
   },
   {
@@ -7998,7 +8493,8 @@
     "streets": [
      "Cataract Road",
      "White Pine Road"
-    ]
+    ],
+    "nodeId": 88325108
    }
   },
   {
@@ -8014,7 +8510,8 @@
     "streets": [
      "Brook Lane",
      "White Pine Road"
-    ]
+    ],
+    "nodeId": 88325112
    }
   },
   {
@@ -8030,7 +8527,8 @@
     "streets": [
      "Saline Valley Road;S3099",
      "Talc City Road"
-    ]
+    ],
+    "nodeId": 88325314
    }
   },
   {
@@ -8046,7 +8544,8 @@
     "streets": [
      "North Lake Road",
      "North Lake Road;8S02"
-    ]
+    ],
+    "nodeId": 9270075084
    }
   },
   {
@@ -8062,7 +8561,8 @@
     "streets": [
      "Dakota Street",
      "Pine Creek Road"
-    ]
+    ],
+    "nodeId": 88325697
    }
   },
   {
@@ -8078,7 +8578,8 @@
     "streets": [
      "Opal Street",
      "Ruby Lane"
-    ]
+    ],
+    "nodeId": 88325704
    }
   },
   {
@@ -8094,7 +8595,8 @@
     "streets": [
      "North Garnet Street",
      "Ruby Lane"
-    ]
+    ],
+    "nodeId": 87954261
    }
   },
   {
@@ -8110,7 +8612,8 @@
     "streets": [
      "CA 168",
      "White Mountain Road"
-    ]
+    ],
+    "nodeId": 88326618
    }
   },
   {
@@ -8126,7 +8629,8 @@
     "streets": [
      "White Mountain Road",
      "White Mountain Road;04S01"
-    ]
+    ],
+    "nodeId": 88327895
    }
   },
   {
@@ -8143,7 +8647,8 @@
      "Bush Street",
      "North Mojave Street",
      "South Mojave Street"
-    ]
+    ],
+    "nodeId": 88292511
    }
   },
   {
@@ -8160,7 +8665,8 @@
      "Black Canyon Road",
      "Eastside Road",
      "Warm Springs Road"
-    ]
+    ],
+    "nodeId": 88299582
    }
   },
   {
@@ -8176,7 +8682,8 @@
     "streets": [
      "Mountain Road",
      "Pine Road"
-    ]
+    ],
+    "nodeId": 9955993419
    }
   },
   {
@@ -8192,7 +8699,8 @@
     "streets": [
      "Juniper Road",
      "Mountain Road"
-    ]
+    ],
+    "nodeId": 88328367
    }
   },
   {
@@ -8208,7 +8716,8 @@
     "streets": [
      "Meadowlark Road",
      "Mountain Road"
-    ]
+    ],
+    "nodeId": 88328376
    }
   },
   {
@@ -8224,7 +8733,8 @@
     "streets": [
      "Academy Avenue",
      "North Main Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 11385938191
    }
   },
   {
@@ -8240,7 +8750,8 @@
     "streets": [
      "Burkhart Road",
      "Quing-Ah Road"
-    ]
+    ],
+    "nodeId": 88328437
    }
   },
   {
@@ -8256,7 +8767,8 @@
     "streets": [
      "Burkhart Road",
      "South Main Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88328456
    }
   },
   {
@@ -8272,7 +8784,8 @@
     "streets": [
      "CA 190",
      "Highway 190;CA 190"
-    ]
+    ],
+    "nodeId": 88328643
    }
   },
   {
@@ -8288,7 +8801,8 @@
     "streets": [
      "Sundown Circle",
      "Sunset Drive"
-    ]
+    ],
+    "nodeId": 88330560
    }
   },
   {
@@ -8304,7 +8818,8 @@
     "streets": [
      "CA 168",
      "Otey Road"
-    ]
+    ],
+    "nodeId": 1926734798
    }
   },
   {
@@ -8320,7 +8835,8 @@
     "streets": [
      "Elmcrest Drive",
      "Pine Road"
-    ]
+    ],
+    "nodeId": 88330601
    }
   },
   {
@@ -8336,7 +8852,8 @@
     "streets": [
      "Elmcrest Drive",
      "Meadowlark Road"
-    ]
+    ],
+    "nodeId": 88330604
    }
   },
   {
@@ -8352,7 +8869,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Sepsey Street"
-    ]
+    ],
+    "nodeId": 88278178
    }
   },
   {
@@ -8369,7 +8887,8 @@
      "Fish Hatchery Road",
      "North Oak Creek Road;13S04",
      "South Oak Creek Road;13S03"
-    ]
+    ],
+    "nodeId": 7060483462
    }
   },
   {
@@ -8385,7 +8904,8 @@
     "streets": [
      "North Round Valley Road",
      "Walford Circle"
-    ]
+    ],
+    "nodeId": 88297849
    }
   },
   {
@@ -8401,7 +8921,8 @@
     "streets": [
      "Birchim Lane",
      "North Round Valley Road"
-    ]
+    ],
+    "nodeId": 88332891
    }
   },
   {
@@ -8417,7 +8938,8 @@
     "streets": [
      "Boundary Road",
      "North Round Valley Road"
-    ]
+    ],
+    "nodeId": 89801186
    }
   },
   {
@@ -8433,7 +8955,8 @@
     "streets": [
      "North Round Valley Road",
      "South Round Valley Road"
-    ]
+    ],
+    "nodeId": 88332971
    }
   },
   {
@@ -8449,7 +8972,8 @@
     "streets": [
      "Gerkin Road",
      "Tucker Road"
-    ]
+    ],
+    "nodeId": 88269283
    }
   },
   {
@@ -8465,7 +8989,8 @@
     "streets": [
      "Home Street",
      "Sierra Street"
-    ]
+    ],
+    "nodeId": 88333930
    }
   },
   {
@@ -8481,7 +9006,8 @@
     "streets": [
      "Chamberlain Street",
      "Sierra Street"
-    ]
+    ],
+    "nodeId": 88333931
    }
   },
   {
@@ -8497,7 +9023,8 @@
     "streets": [
      "Coats Street",
      "Sierra Street"
-    ]
+    ],
+    "nodeId": 87841280
    }
   },
   {
@@ -8513,7 +9040,8 @@
     "streets": [
      "Crosby Street",
      "Sierra Street"
-    ]
+    ],
+    "nodeId": 11385994504
    }
   },
   {
@@ -8529,7 +9057,8 @@
     "streets": [
      "North Main Street;US 395;US 6 Hist",
      "Sierra Street"
-    ]
+    ],
+    "nodeId": 88333935
    }
   },
   {
@@ -8545,7 +9074,8 @@
     "streets": [
      "Bush Street",
      "North Cartago Street"
-    ]
+    ],
+    "nodeId": 9404148511
    }
   },
   {
@@ -8561,7 +9091,8 @@
     "streets": [
      "East Willow Street",
      "North 2nd Street"
-    ]
+    ],
+    "nodeId": 88333984
    }
   },
   {
@@ -8577,7 +9108,8 @@
     "streets": [
      "May Street",
      "North 2nd Street"
-    ]
+    ],
+    "nodeId": 88266215
    }
   },
   {
@@ -8593,7 +9125,8 @@
     "streets": [
      "East Pine Street",
      "North 2nd Street"
-    ]
+    ],
+    "nodeId": 88333986
    }
   },
   {
@@ -8609,7 +9142,8 @@
     "streets": [
      "North Webster Street",
      "West Center Street"
-    ]
+    ],
+    "nodeId": 88334025
    }
   },
   {
@@ -8626,7 +9160,8 @@
      "East Mountain View Street",
      "North Mount Whitney Drive",
      "South Mount Whitney Drive"
-    ]
+    ],
+    "nodeId": 88334033
    }
   },
   {
@@ -8642,7 +9177,8 @@
     "streets": [
      "East Post Street",
      "South Mount Whitney Drive"
-    ]
+    ],
+    "nodeId": 88334034
    }
   },
   {
@@ -8658,7 +9194,8 @@
     "streets": [
      "East Muir Street",
      "South Mount Whitney Drive"
-    ]
+    ],
+    "nodeId": 88334036
    }
   },
   {
@@ -8674,7 +9211,8 @@
     "streets": [
      "Gerkin Road",
      "Plume Lane"
-    ]
+    ],
+    "nodeId": 88269296
    }
   },
   {
@@ -8690,7 +9228,8 @@
     "streets": [
      "Mountain View Road",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 1926734815
    }
   },
   {
@@ -8706,7 +9245,8 @@
     "streets": [
      "Brookside Drive",
      "Mountain View Road"
-    ]
+    ],
+    "nodeId": 88334847
    }
   },
   {
@@ -8722,7 +9262,8 @@
     "streets": [
      "McLaren Lane",
      "Mountain View Road"
-    ]
+    ],
+    "nodeId": 88334849
    }
   },
   {
@@ -8738,7 +9279,8 @@
     "streets": [
      "Aurora Circle",
      "Running Iron Road"
-    ]
+    ],
+    "nodeId": 88334914
    }
   },
   {
@@ -8754,7 +9296,8 @@
     "streets": [
      "Avenue B",
      "North Garnet Street"
-    ]
+    ],
+    "nodeId": 88039628
    }
   },
   {
@@ -8770,7 +9313,8 @@
     "streets": [
      "Avenue C",
      "North Garnet Street"
-    ]
+    ],
+    "nodeId": 88334926
    }
   },
   {
@@ -8786,7 +9330,8 @@
     "streets": [
      "Avenue D",
      "North Garnet Street"
-    ]
+    ],
+    "nodeId": 88334930
    }
   },
   {
@@ -8802,7 +9347,8 @@
     "streets": [
      "North Garnet Street",
      "Shirley Road"
-    ]
+    ],
+    "nodeId": 88334932
    }
   },
   {
@@ -8818,7 +9364,8 @@
     "streets": [
      "North Garnet Street",
      "West Avenue E"
-    ]
+    ],
+    "nodeId": 87954263
    }
   },
   {
@@ -8834,7 +9381,8 @@
     "streets": [
      "Grandview Drive",
      "Mesquite Road"
-    ]
+    ],
+    "nodeId": 88334938
    }
   },
   {
@@ -8850,7 +9398,8 @@
     "streets": [
      "Grandview Drive",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 344618442
    }
   },
   {
@@ -8866,7 +9415,8 @@
     "streets": [
      "Mud Canyon Road",
      "North Highway"
-    ]
+    ],
+    "nodeId": 88328670
    }
   },
   {
@@ -8882,7 +9432,8 @@
     "streets": [
      "Dantes View Road;103",
      "Greenwater Valley Road;226"
-    ]
+    ],
+    "nodeId": 88336192
    }
   },
   {
@@ -8898,7 +9449,8 @@
     "streets": [
      "Locust Street",
      "North Main Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88336239
    }
   },
   {
@@ -8914,7 +9466,8 @@
     "streets": [
      "Locust Street",
      "Washington Street"
-    ]
+    ],
+    "nodeId": 88336244
    }
   },
   {
@@ -8931,7 +9484,8 @@
      "CA 136",
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "South Main Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88278216
    }
   },
   {
@@ -8947,7 +9501,8 @@
     "streets": [
      "Railroad Street",
      "Silver Canyon Road"
-    ]
+    ],
+    "nodeId": 87916466
    }
   },
   {
@@ -8963,7 +9518,8 @@
     "streets": [
      "Brockman Lane",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 1926679937
    }
   },
   {
@@ -8979,7 +9535,8 @@
     "streets": [
      "Brockman Lane",
      "Diaz Lane"
-    ]
+    ],
+    "nodeId": 1926679907
    }
   },
   {
@@ -8995,7 +9552,8 @@
     "streets": [
      "Brockman Lane",
      "El Camino Sierra;US 395"
-    ]
+    ],
+    "nodeId": 1926679962
    }
   },
   {
@@ -9011,7 +9569,8 @@
     "streets": [
      "Hobbs Circle",
      "South Valley View Drive"
-    ]
+    ],
+    "nodeId": 88323746
    }
   },
   {
@@ -9027,7 +9586,8 @@
     "streets": [
      "Ballarat Road",
      "Trona-Wildrose Road"
-    ]
+    ],
+    "nodeId": 88333327
    }
   },
   {
@@ -9044,7 +9604,8 @@
      "Ballarat Road",
      "Indian Ranch Road",
      "Wingate Road"
-    ]
+    ],
+    "nodeId": 87887394
    }
   },
   {
@@ -9060,7 +9621,8 @@
     "streets": [
      "Irene Street",
      "South Barlow Lane"
-    ]
+    ],
+    "nodeId": 88339882
    }
   },
   {
@@ -9076,7 +9638,8 @@
     "streets": [
      "Irene Street",
      "Irene Way"
-    ]
+    ],
+    "nodeId": 88339904
    }
   },
   {
@@ -9092,7 +9655,8 @@
     "streets": [
      "East South Street",
      "South Lake View Street"
-    ]
+    ],
+    "nodeId": 88339915
    }
   },
   {
@@ -9109,7 +9673,8 @@
      "East South Street",
      "South Main Street;US 395;CA 168;US 6 Hist",
      "West South Street"
-    ]
+    ],
+    "nodeId": 88340803
    }
   },
   {
@@ -9125,7 +9690,8 @@
     "streets": [
      "Sunland Drive",
      "Sunland Indian Reservation Road"
-    ]
+    ],
+    "nodeId": 88294788
    }
   },
   {
@@ -9141,7 +9707,8 @@
     "streets": [
      "Lagoon Street",
      "South Main Street;US 395;CA 168;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88340809
    }
   },
   {
@@ -9157,7 +9724,8 @@
     "streets": [
      "Anthony Street",
      "South Main Street"
-    ]
+    ],
+    "nodeId": 9233736226
    }
   },
   {
@@ -9173,7 +9741,8 @@
     "streets": [
      "Reno Street",
      "South Main Street"
-    ]
+    ],
+    "nodeId": 88340865
    }
   },
   {
@@ -9191,7 +9760,8 @@
      "North Main Street",
      "South Main Street",
      "West Market Street"
-    ]
+    ],
+    "nodeId": 88340884
    }
   },
   {
@@ -9207,7 +9777,8 @@
     "streets": [
      "South Main Street;US 395;US 6 Hist",
      "West Gene Autry Lane"
-    ]
+    ],
+    "nodeId": 88340907
    }
   },
   {
@@ -9223,7 +9794,8 @@
     "streets": [
      "East Muir Street",
      "South Main Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88340910
    }
   },
   {
@@ -9239,7 +9811,8 @@
     "streets": [
      "East Inyo Street",
      "South Main Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 87994860
    }
   },
   {
@@ -9255,7 +9828,8 @@
     "streets": [
      "CA 168",
      "East Bishop Creek Road"
-    ]
+    ],
+    "nodeId": 1926778897
    }
   },
   {
@@ -9271,7 +9845,8 @@
     "streets": [
      "North Sierra Highway;US 395",
      "North Tu-Su Lane"
-    ]
+    ],
+    "nodeId": 88255475
    }
   },
   {
@@ -9287,7 +9862,8 @@
     "streets": [
      "North Sierra Highway;US 395",
      "Shelly Creek Road"
-    ]
+    ],
+    "nodeId": 88128564
    }
   },
   {
@@ -9303,7 +9879,8 @@
     "streets": [
      "Macgregor Avenue",
      "North Sierra Highway;US 395"
-    ]
+    ],
+    "nodeId": 87853500
    }
   },
   {
@@ -9320,7 +9897,8 @@
      "Cherry Lane",
      "North See Vee Lane",
      "North Sierra Highway;US 395"
-    ]
+    ],
+    "nodeId": 373780117
    }
   },
   {
@@ -9336,7 +9914,8 @@
     "streets": [
      "East Fulton Street",
      "Southeast First Avenue"
-    ]
+    ],
+    "nodeId": 88342361
    }
   },
   {
@@ -9352,7 +9931,8 @@
     "streets": [
      "East Fulton Street",
      "Southeast Second Avenue"
-    ]
+    ],
+    "nodeId": 88342364
    }
   },
   {
@@ -9368,7 +9948,8 @@
     "streets": [
      "East Fulton Street",
      "Market Street"
-    ]
+    ],
+    "nodeId": 1771074057
    }
   },
   {
@@ -9384,7 +9965,8 @@
     "streets": [
      "Dusty Lane",
      "West Miller"
-    ]
+    ],
+    "nodeId": 88286592
    }
   },
   {
@@ -9400,7 +9982,8 @@
     "streets": [
      "North Main Street",
      "Zinc Hill Road"
-    ]
+    ],
+    "nodeId": 88281132
    }
   },
   {
@@ -9416,7 +9999,8 @@
     "streets": [
      "East Elm Street",
      "North Main Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88342778
    }
   },
   {
@@ -9432,7 +10016,8 @@
     "streets": [
      "Grove Street",
      "North Main Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88342776
    }
   },
   {
@@ -9448,7 +10033,8 @@
     "streets": [
      "East Pine Street",
      "North Main Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88342774
    }
   },
   {
@@ -9464,7 +10050,8 @@
     "streets": [
      "Fall Road",
      "Old U.S. Route 395;CA 190;US Route 395 Business"
-    ]
+    ],
+    "nodeId": 88278855
    }
   },
   {
@@ -9480,7 +10067,8 @@
     "streets": [
      "Fall Road",
      "Shop Street"
-    ]
+    ],
+    "nodeId": 88342802
    }
   },
   {
@@ -9496,7 +10084,8 @@
     "streets": [
      "Fall Road",
      "Summer Road"
-    ]
+    ],
+    "nodeId": 88342811
    }
   },
   {
@@ -9512,7 +10101,8 @@
     "streets": [
      "Church Street",
      "Court Place"
-    ]
+    ],
+    "nodeId": 88343241
    }
   },
   {
@@ -9528,7 +10118,8 @@
     "streets": [
      "Court Place",
      "High School Drive"
-    ]
+    ],
+    "nodeId": 88343243
    }
   },
   {
@@ -9544,7 +10135,8 @@
     "streets": [
      "Canyon Drive",
      "Habegger Lane"
-    ]
+    ],
+    "nodeId": 88343248
    }
   },
   {
@@ -9560,7 +10152,8 @@
     "streets": [
      "Chalk Bluff Road",
      "Pleasant Valley Dam Road"
-    ]
+    ],
+    "nodeId": 2130474949
    }
   },
   {
@@ -9576,7 +10169,8 @@
     "streets": [
      "Joe Smith Road",
      "Silver Canyon Road"
-    ]
+    ],
+    "nodeId": 88346245
    }
   },
   {
@@ -9592,7 +10186,8 @@
     "streets": [
      "School Road",
      "Shop Street"
-    ]
+    ],
+    "nodeId": 88346896
    }
   },
   {
@@ -9608,7 +10203,8 @@
     "streets": [
      "Habegger Lane",
      "South Lake Road"
-    ]
+    ],
+    "nodeId": 88346952
    }
   },
   {
@@ -9624,7 +10220,8 @@
     "streets": [
      "Mill Creek",
      "Mill Creek Road"
-    ]
+    ],
+    "nodeId": 88148213
    }
   },
   {
@@ -9641,7 +10238,8 @@
      "El Camino Sierra;US 395",
      "Mill Creek",
      "Pine Creek Road"
-    ]
+    ],
+    "nodeId": 88276571
    }
   },
   {
@@ -9657,7 +10255,8 @@
     "streets": [
      "North See Vee Lane",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 88348225
    }
   },
   {
@@ -9673,7 +10272,8 @@
     "streets": [
      "Diaz Lane",
      "North See Vee Lane"
-    ]
+    ],
+    "nodeId": 88348232
    }
   },
   {
@@ -9689,7 +10289,8 @@
     "streets": [
      "1st Street",
      "Silver Canyon Road"
-    ]
+    ],
+    "nodeId": 88348253
    }
   },
   {
@@ -9705,7 +10306,8 @@
     "streets": [
      "East Locust Street",
      "North Hay Street"
-    ]
+    ],
+    "nodeId": 88348569
    }
   },
   {
@@ -9722,7 +10324,8 @@
      "East Mountain View Street",
      "North Hay Street",
      "South Hay Street"
-    ]
+    ],
+    "nodeId": 88348573
    }
   },
   {
@@ -9738,7 +10341,8 @@
     "streets": [
      "Carmelea Lane",
      "Tammy Way"
-    ]
+    ],
+    "nodeId": 88348576
    }
   },
   {
@@ -9754,7 +10358,8 @@
     "streets": [
      "Billy Williams Drive",
      "South Barlow Lane"
-    ]
+    ],
+    "nodeId": 376303311
    }
   },
   {
@@ -9770,7 +10375,8 @@
     "streets": [
      "Home Street",
      "West Pine Street"
-    ]
+    ],
+    "nodeId": 88348599
    }
   },
   {
@@ -9786,7 +10392,8 @@
     "streets": [
      "Hobson Street",
      "West Pine Street"
-    ]
+    ],
+    "nodeId": 88348600
    }
   },
   {
@@ -9802,7 +10409,8 @@
     "streets": [
      "Schley Street",
      "West Pine Street"
-    ]
+    ],
+    "nodeId": 88158062
    }
   },
   {
@@ -9818,7 +10426,8 @@
     "streets": [
      "North Fowler Street",
      "West Pine Street"
-    ]
+    ],
+    "nodeId": 88348602
    }
   },
   {
@@ -9834,7 +10443,8 @@
     "streets": [
      "Hammond Street",
      "West Pine Street"
-    ]
+    ],
+    "nodeId": 11385922662
    }
   },
   {
@@ -9850,7 +10460,8 @@
     "streets": [
      "North Warren Street",
      "West Pine Street"
-    ]
+    ],
+    "nodeId": 88348607
    }
   },
   {
@@ -9866,7 +10477,8 @@
     "streets": [
      "Olivia Lane",
      "Reynolds Road"
-    ]
+    ],
+    "nodeId": 88348610
    }
   },
   {
@@ -9882,7 +10494,8 @@
     "streets": [
      "Marianne Way",
      "Olivia Lane"
-    ]
+    ],
+    "nodeId": 88348615
    }
   },
   {
@@ -9898,7 +10511,8 @@
     "streets": [
      "Carmelea Lane",
      "Olivia Lane"
-    ]
+    ],
+    "nodeId": 88348631
    }
   },
   {
@@ -9914,7 +10528,8 @@
     "streets": [
      "Olivia Lane",
      "Tawnya Circle"
-    ]
+    ],
+    "nodeId": 88348633
    }
   },
   {
@@ -9930,7 +10545,8 @@
     "streets": [
      "Reno Street",
      "Southeast Second Avenue"
-    ]
+    ],
+    "nodeId": 9233736219
    }
   },
   {
@@ -9946,7 +10562,8 @@
     "streets": [
      "Reno Street",
      "Southeast First Street"
-    ]
+    ],
+    "nodeId": 88291877
    }
   },
   {
@@ -9963,7 +10580,8 @@
      "East Mountain View Street",
      "North Lake View Street",
      "South Lake View Street"
-    ]
+    ],
+    "nodeId": 88350614
    }
   },
   {
@@ -9979,7 +10597,8 @@
     "streets": [
      "East Muir Street",
      "South Lake View Street"
-    ]
+    ],
+    "nodeId": 88350621
    }
   },
   {
@@ -9995,7 +10614,8 @@
     "streets": [
      "East Inyo Street",
      "South Lake View Street"
-    ]
+    ],
+    "nodeId": 10579374328
    }
   },
   {
@@ -10011,7 +10631,8 @@
     "streets": [
      "Shoshone Drive",
      "Zuni Circle"
-    ]
+    ],
+    "nodeId": 88350644
    }
   },
   {
@@ -10027,7 +10648,8 @@
     "streets": [
      "Fish Hatchery Road",
      "Oak Creek Road"
-    ]
+    ],
+    "nodeId": 88350666
    }
   },
   {
@@ -10043,7 +10665,8 @@
     "streets": [
      "Fish Hatchery Road",
      "Hatchery Entrance"
-    ]
+    ],
+    "nodeId": 88138279
    }
   },
   {
@@ -10059,7 +10682,8 @@
     "streets": [
      "Mesquite Road",
      "West Birch Street"
-    ]
+    ],
+    "nodeId": 88350790
    }
   },
   {
@@ -10077,7 +10701,8 @@
      "County Road",
      "Grand Army of the Republic Highway;US 395;CA 168;US 6 Hist",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88277280
    }
   },
   {
@@ -10094,7 +10719,8 @@
      "North Fowler Street",
      "South Fowler Street",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 88353946
    }
   },
   {
@@ -10110,7 +10736,8 @@
     "streets": [
      "CA 168",
      "Lake Sabrina Road;8S10"
-    ]
+    ],
+    "nodeId": 87771321
    }
   },
   {
@@ -10126,7 +10753,8 @@
     "streets": [
      "CA 168",
      "North Lake Road"
-    ]
+    ],
+    "nodeId": 88325625
    }
   },
   {
@@ -10142,7 +10770,8 @@
     "streets": [
      "Church Street",
      "North Warren Street"
-    ]
+    ],
+    "nodeId": 88355516
    }
   },
   {
@@ -10158,7 +10787,8 @@
     "streets": [
      "Academy Avenue",
      "North Warren Street"
-    ]
+    ],
+    "nodeId": 88328398
    }
   },
   {
@@ -10174,7 +10804,8 @@
     "streets": [
      "Johnston Drive",
      "Poleta Road"
-    ]
+    ],
+    "nodeId": 88310910
    }
   },
   {
@@ -10190,7 +10821,8 @@
     "streets": [
      "Autumn Leaves Circle",
      "Sunset Drive"
-    ]
+    ],
+    "nodeId": 88355533
    }
   },
   {
@@ -10206,7 +10838,8 @@
     "streets": [
      "Carmelea Lane",
      "Marianne Way"
-    ]
+    ],
+    "nodeId": 88355562
    }
   },
   {
@@ -10222,7 +10855,8 @@
     "streets": [
      "Quartz Street",
      "Ruby Lane"
-    ]
+    ],
+    "nodeId": 88355628
    }
   },
   {
@@ -10238,7 +10872,8 @@
     "streets": [
      "Quartz Street",
      "Shirley Road"
-    ]
+    ],
+    "nodeId": 88355636
    }
   },
   {
@@ -10255,7 +10890,8 @@
      "Avenue E",
      "Quartz Street",
      "West Avenue E"
-    ]
+    ],
+    "nodeId": 88355631
    }
   },
   {
@@ -10271,7 +10907,8 @@
     "streets": [
      "Margarita Drive",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 88355643
    }
   },
   {
@@ -10287,7 +10924,8 @@
     "streets": [
      "East Willow Street",
      "North 3rd Street"
-    ]
+    ],
+    "nodeId": 88356968
    }
   },
   {
@@ -10303,7 +10941,8 @@
     "streets": [
      "May Street",
      "North 3rd Street"
-    ]
+    ],
+    "nodeId": 88266214
    }
   },
   {
@@ -10319,7 +10958,8 @@
     "streets": [
      "East Elm Street",
      "North 3rd Street"
-    ]
+    ],
+    "nodeId": 87883165
    }
   },
   {
@@ -10335,7 +10975,8 @@
     "streets": [
      "Trona-Wildrose Road",
      "Valley Wells Road"
-    ]
+    ],
+    "nodeId": 88333840
    }
   },
   {
@@ -10351,7 +10992,8 @@
     "streets": [
      "Iris Street",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 88369992
    }
   },
   {
@@ -10367,7 +11009,8 @@
     "streets": [
      "Agate Street",
      "Charleston Avenue"
-    ]
+    ],
+    "nodeId": 88357062
    }
   },
   {
@@ -10383,7 +11026,8 @@
     "streets": [
      "East Willow Street",
      "Rose Street"
-    ]
+    ],
+    "nodeId": 88357068
    }
   },
   {
@@ -10399,7 +11043,8 @@
     "streets": [
      "East Pine Street",
      "Rose Street"
-    ]
+    ],
+    "nodeId": 88357069
    }
   },
   {
@@ -10415,7 +11060,8 @@
     "streets": [
      "North Washington Street",
      "West Locust Street"
-    ]
+    ],
+    "nodeId": 88357479
    }
   },
   {
@@ -10431,7 +11077,8 @@
     "streets": [
      "Black Rock Springs Road",
      "Tinemaha Road"
-    ]
+    ],
+    "nodeId": 88357491
    }
   },
   {
@@ -10447,7 +11094,8 @@
     "streets": [
      "Black Rock Springs Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 2193587802
    }
   },
   {
@@ -10463,7 +11111,8 @@
     "streets": [
      "Bush Street",
      "East Pine Street"
-    ]
+    ],
+    "nodeId": 88357512
    }
   },
   {
@@ -10479,7 +11128,8 @@
     "streets": [
      "Bush Street",
      "May Street"
-    ]
+    ],
+    "nodeId": 88266213
    }
   },
   {
@@ -10495,7 +11145,8 @@
     "streets": [
      "Bush Street",
      "East Willow Street"
-    ]
+    ],
+    "nodeId": 88357514
    }
   },
   {
@@ -10511,7 +11162,8 @@
     "streets": [
      "Cardinal Road",
      "Columbine Drive"
-    ]
+    ],
+    "nodeId": 88357519
    }
   },
   {
@@ -10527,7 +11179,8 @@
     "streets": [
      "Cataract Road",
      "Columbine Drive"
-    ]
+    ],
+    "nodeId": 88357529
    }
   },
   {
@@ -10543,7 +11196,8 @@
     "streets": [
      "CA 168",
      "Columbine Drive"
-    ]
+    ],
+    "nodeId": 88354047
    }
   },
   {
@@ -10559,7 +11213,8 @@
     "streets": [
      "Barlow Lane",
      "Bir Road"
-    ]
+    ],
+    "nodeId": 88283976
    }
   },
   {
@@ -10575,7 +11230,8 @@
     "streets": [
      "Barlow Lane",
      "South Barlow Lane"
-    ]
+    ],
+    "nodeId": 88357578
    }
   },
   {
@@ -10591,7 +11247,8 @@
     "streets": [
      "Grove Street",
      "Schley Street"
-    ]
+    ],
+    "nodeId": 88357685
    }
   },
   {
@@ -10607,7 +11264,8 @@
     "streets": [
      "Schley Street",
      "West Elm Street"
-    ]
+    ],
+    "nodeId": 88266191
    }
   },
   {
@@ -10623,7 +11281,8 @@
     "streets": [
      "East Pavilion Street",
      "South Rosedale Street"
-    ]
+    ],
+    "nodeId": 88362218
    }
   },
   {
@@ -10639,7 +11298,8 @@
     "streets": [
      "Cottonwood Road",
      "Cottonwood Road;17S01"
-    ]
+    ],
+    "nodeId": 88362675
    }
   },
   {
@@ -10655,7 +11315,8 @@
     "streets": [
      "Bar M Lane",
      "North Barlow Lane"
-    ]
+    ],
+    "nodeId": 88363468
    }
   },
   {
@@ -10671,7 +11332,8 @@
     "streets": [
      "Bar M Lane",
      "Lazy A Drive"
-    ]
+    ],
+    "nodeId": 88363469
    }
   },
   {
@@ -10687,7 +11349,8 @@
     "streets": [
      "Bar M Lane",
      "Rocking W Drive"
-    ]
+    ],
+    "nodeId": 88363471
    }
   },
   {
@@ -10703,7 +11366,8 @@
     "streets": [
      "East Inyo Street",
      "North Jackson Street"
-    ]
+    ],
+    "nodeId": 88364505
    }
   },
   {
@@ -10719,7 +11383,8 @@
     "streets": [
      "Fort Independence Road",
      "North Willow Lane"
-    ]
+    ],
+    "nodeId": 88364521
    }
   },
   {
@@ -10735,7 +11400,8 @@
     "streets": [
      "Miller Lane",
      "North Willow Lane"
-    ]
+    ],
+    "nodeId": 7097337722
    }
   },
   {
@@ -10751,7 +11417,8 @@
     "streets": [
      "Northwest Second Avenue",
      "West Water Street"
-    ]
+    ],
+    "nodeId": 88366470
    }
   },
   {
@@ -10767,7 +11434,8 @@
     "streets": [
      "Northwest Second Avenue",
      "West Kearny Street"
-    ]
+    ],
+    "nodeId": 88366479
    }
   },
   {
@@ -10783,7 +11451,8 @@
     "streets": [
      "Northwest Second Avenue",
      "West Market Street"
-    ]
+    ],
+    "nodeId": 88398697
    }
   },
   {
@@ -10799,7 +11468,8 @@
     "streets": [
      "Avenue D",
      "Opal Street"
-    ]
+    ],
+    "nodeId": 88366486
    }
   },
   {
@@ -10815,7 +11485,8 @@
     "streets": [
      "Opal Street",
      "Shirley Road"
-    ]
+    ],
+    "nodeId": 88366488
    }
   },
   {
@@ -10831,7 +11502,8 @@
     "streets": [
      "Opal Street",
      "West Avenue E"
-    ]
+    ],
+    "nodeId": 88366493
    }
   },
   {
@@ -10847,7 +11519,8 @@
     "streets": [
      "Opal Street",
      "West Diamond Lane"
-    ]
+    ],
+    "nodeId": 88366494
    }
   },
   {
@@ -10863,7 +11536,8 @@
     "streets": [
      "Opal Street",
      "West Old Spanish Trail Highway"
-    ]
+    ],
+    "nodeId": 88298567
    }
   },
   {
@@ -10879,7 +11553,8 @@
     "streets": [
      "Homestead Lane",
      "Macgregor Avenue"
-    ]
+    ],
+    "nodeId": 88366553
    }
   },
   {
@@ -10895,7 +11570,8 @@
     "streets": [
      "Shepard Lane",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 1926734805
    }
   },
   {
@@ -10911,7 +11587,8 @@
     "streets": [
      "Chamberlain Street",
      "West Yaney Street"
-    ]
+    ],
+    "nodeId": 88366654
    }
   },
   {
@@ -10927,7 +11604,8 @@
     "streets": [
      "Edward Street",
      "Lagoon Street"
-    ]
+    ],
+    "nodeId": 88366658
    }
   },
   {
@@ -10943,7 +11621,8 @@
     "streets": [
      "Edward Street",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 88369995
    }
   },
   {
@@ -10960,7 +11639,8 @@
      "East Pavilion Street",
      "South Edwards Street;US 395;US 6 Hist",
      "West Pavilion Street"
-    ]
+    ],
+    "nodeId": 88306219
    }
   },
   {
@@ -10977,7 +11657,8 @@
      "East Park Street",
      "South Edwards Street;US 395;US 6 Hist",
      "West Park Street"
-    ]
+    ],
+    "nodeId": 88306221
    }
   },
   {
@@ -10994,7 +11675,8 @@
      "Casa Diablo Road",
      "Fish Slough Road",
      "Jean Blanc Road"
-    ]
+    ],
+    "nodeId": 88338702
    }
   },
   {
@@ -11010,7 +11692,8 @@
     "streets": [
      "Cerro Gordo Street",
      "Railroad Avenue"
-    ]
+    ],
+    "nodeId": 88366996
    }
   },
   {
@@ -11026,7 +11709,8 @@
     "streets": [
      "Cerro Gordo Street",
      "Laws Avenue"
-    ]
+    ],
+    "nodeId": 88366997
    }
   },
   {
@@ -11042,7 +11726,8 @@
     "streets": [
      "Cerro Gordo Street",
      "Hawley Avenue"
-    ]
+    ],
+    "nodeId": 88367001
    }
   },
   {
@@ -11058,7 +11743,8 @@
     "streets": [
      "CA 136",
      "Cerro Gordo Street"
-    ]
+    ],
+    "nodeId": 88336587
    }
   },
   {
@@ -11075,7 +11761,8 @@
      "North Grant Street",
      "Onion Valley Road",
      "West Market Street"
-    ]
+    ],
+    "nodeId": 88367006
    }
   },
   {
@@ -11091,7 +11778,8 @@
     "streets": [
      "North Grant Street",
      "West Center Street"
-    ]
+    ],
+    "nodeId": 88367007
    }
   },
   {
@@ -11107,7 +11795,8 @@
     "streets": [
      "Meadow Lane",
      "West Birch Street"
-    ]
+    ],
+    "nodeId": 88367025
    }
   },
   {
@@ -11123,7 +11812,8 @@
     "streets": [
      "Bar L Lane",
      "Rocking W Drive"
-    ]
+    ],
+    "nodeId": 88334950
    }
   },
   {
@@ -11139,7 +11829,8 @@
     "streets": [
      "Moffat Ranch Road",
      "Movie Road"
-    ]
+    ],
+    "nodeId": 4633689412
    }
   },
   {
@@ -11156,7 +11847,8 @@
      "East Jay Street",
      "South Main Street;US 395;CA 168;US 6 Hist",
      "West Jay Street"
-    ]
+    ],
+    "nodeId": 88340800
    }
   },
   {
@@ -11172,7 +11864,8 @@
     "streets": [
      "East Jay Street",
      "South 3rd Street"
-    ]
+    ],
+    "nodeId": 88368402
    }
   },
   {
@@ -11188,7 +11881,8 @@
     "streets": [
      "Old Spanish Trail Highway",
      "Tecopa Hot Springs Road"
-    ]
+    ],
+    "nodeId": 88048475
    }
   },
   {
@@ -11204,7 +11898,8 @@
     "streets": [
      "East Locust Street",
      "North Lone Pine Avenue"
-    ]
+    ],
+    "nodeId": 88368674
    }
   },
   {
@@ -11220,7 +11915,8 @@
     "streets": [
      "East Willow Street",
      "North Lone Pine Avenue"
-    ]
+    ],
+    "nodeId": 88368676
    }
   },
   {
@@ -11236,7 +11932,8 @@
     "streets": [
      "Cornell Street",
      "School Street"
-    ]
+    ],
+    "nodeId": 88368764
    }
   },
   {
@@ -11252,7 +11949,8 @@
     "streets": [
      "Cornell Street",
      "West Street"
-    ]
+    ],
+    "nodeId": 88368772
    }
   },
   {
@@ -11268,7 +11966,8 @@
     "streets": [
      "East Line Street",
      "Moffett Drive"
-    ]
+    ],
+    "nodeId": 88300311
    }
   },
   {
@@ -11284,7 +11983,8 @@
     "streets": [
      "East Willow Street",
      "Moffett Drive"
-    ]
+    ],
+    "nodeId": 88368779
    }
   },
   {
@@ -11300,7 +12000,8 @@
     "streets": [
      "East Locust Street",
      "North Mount Whitney Drive"
-    ]
+    ],
+    "nodeId": 88368870
    }
   },
   {
@@ -11316,7 +12017,8 @@
     "streets": [
      "South Warren Street",
      "West South Street"
-    ]
+    ],
+    "nodeId": 88368942
    }
   },
   {
@@ -11332,7 +12034,8 @@
     "streets": [
      "Lagoon Street",
      "South Warren Street"
-    ]
+    ],
+    "nodeId": 88368944
    }
   },
   {
@@ -11348,7 +12051,8 @@
     "streets": [
      "South Valley View Drive",
      "Wilson Circle"
-    ]
+    ],
+    "nodeId": 88323748
    }
   },
   {
@@ -11364,7 +12068,8 @@
     "streets": [
      "Crosby Street",
      "West Yaney Street"
-    ]
+    ],
+    "nodeId": 88370016
    }
   },
   {
@@ -11380,7 +12085,8 @@
     "streets": [
      "Coats Street",
      "West Yaney Street"
-    ]
+    ],
+    "nodeId": 88370018
    }
   },
   {
@@ -11396,7 +12102,8 @@
     "streets": [
      "Home Street",
      "West Yaney Street"
-    ]
+    ],
+    "nodeId": 88370021
    }
   },
   {
@@ -11412,7 +12119,8 @@
     "streets": [
      "Bar L Lane",
      "Lazy A Drive"
-    ]
+    ],
+    "nodeId": 88374177
    }
   },
   {
@@ -11428,7 +12136,8 @@
     "streets": [
      "Old Sherwin Grade Road",
      "Pine Creek Road"
-    ]
+    ],
+    "nodeId": 88212967
    }
   },
   {
@@ -11444,7 +12153,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Nine Mile Canyon Road;CR J41"
-    ]
+    ],
+    "nodeId": 376297895
    }
   },
   {
@@ -11460,7 +12170,8 @@
     "streets": [
      "Macgregor Avenue",
      "Tam O Shanter Avenue"
-    ]
+    ],
+    "nodeId": 88375831
    }
   },
   {
@@ -11476,7 +12187,8 @@
     "streets": [
      "Macgregor Avenue",
      "McGalliard Avenue"
-    ]
+    ],
+    "nodeId": 88377350
    }
   },
   {
@@ -11492,7 +12204,8 @@
     "streets": [
      "Argyle Lane",
      "McGalliard Avenue"
-    ]
+    ],
+    "nodeId": 88377366
    }
   },
   {
@@ -11508,7 +12221,8 @@
     "streets": [
      "Juniper Road",
      "Reynolds Road"
-    ]
+    ],
+    "nodeId": 88377381
    }
   },
   {
@@ -11524,7 +12238,8 @@
     "streets": [
      "Mesa Vista Drive",
      "Mill Creek Road"
-    ]
+    ],
+    "nodeId": 88377404
    }
   },
   {
@@ -11540,7 +12255,8 @@
     "streets": [
      "Lorenzo Lane",
      "South Main Street;US 395;CA 168;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88340791
    }
   },
   {
@@ -11556,7 +12272,8 @@
     "streets": [
      "Ed Powers Road",
      "Tungsten City Road"
-    ]
+    ],
+    "nodeId": 376303121
    }
   },
   {
@@ -11572,7 +12289,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Lake Village Road"
-    ]
+    ],
+    "nodeId": 88215120
    }
   },
   {
@@ -11588,7 +12306,8 @@
     "streets": [
      "North Pa-Ha Lane",
      "Tibec Lane"
-    ]
+    ],
+    "nodeId": 88308407
    }
   },
   {
@@ -11604,7 +12323,8 @@
     "streets": [
      "North Winuba Lane",
      "Tibec Lane"
-    ]
+    ],
+    "nodeId": 88377855
    }
   },
   {
@@ -11620,7 +12340,8 @@
     "streets": [
      "East Pavilion Street",
      "South Jackson Street"
-    ]
+    ],
+    "nodeId": 88377857
    }
   },
   {
@@ -11636,7 +12357,8 @@
     "streets": [
      "East Park Street",
      "South Jackson Street"
-    ]
+    ],
+    "nodeId": 88377859
    }
   },
   {
@@ -11653,7 +12375,8 @@
      "East Mountain View Street",
      "North Jackson Street",
      "South Jackson Street"
-    ]
+    ],
+    "nodeId": 88377865
    }
   },
   {
@@ -11669,7 +12392,8 @@
     "streets": [
      "South Jackson Street",
      "Whitney Portal Road"
-    ]
+    ],
+    "nodeId": 88377866
    }
   },
   {
@@ -11685,7 +12409,8 @@
     "streets": [
      "Airport Road",
      "Warm Springs Road"
-    ]
+    ],
+    "nodeId": 88091506
    }
   },
   {
@@ -11701,7 +12426,8 @@
     "streets": [
      "Grove Street",
      "North Warren Street"
-    ]
+    ],
+    "nodeId": 88355517
    }
   },
   {
@@ -11717,7 +12443,8 @@
     "streets": [
      "Franklin Street",
      "Old State Highway"
-    ]
+    ],
+    "nodeId": 88296606
    }
   },
   {
@@ -11733,7 +12460,8 @@
     "streets": [
      "Franklin Street",
      "Railroad Avenue"
-    ]
+    ],
+    "nodeId": 88378172
    }
   },
   {
@@ -11749,7 +12477,8 @@
     "streets": [
      "Franklin Street",
      "Laws Avenue"
-    ]
+    ],
+    "nodeId": 88378174
    }
   },
   {
@@ -11765,7 +12494,8 @@
     "streets": [
      "Highway 190;CA 190",
      "Mustard Canyon Road"
-    ]
+    ],
+    "nodeId": 88385090
    }
   },
   {
@@ -11781,7 +12511,8 @@
     "streets": [
      "Church Street",
      "North Fowler Street"
-    ]
+    ],
+    "nodeId": 88378618
    }
   },
   {
@@ -11797,7 +12528,8 @@
     "streets": [
      "East Lubken Avenue",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88275470
    }
   },
   {
@@ -11813,7 +12545,8 @@
     "streets": [
      "CA 168",
      "Sierra Summit Drive"
-    ]
+    ],
+    "nodeId": 88354048
    }
   },
   {
@@ -11829,7 +12562,8 @@
     "streets": [
      "Greenwater Valley Road;226",
      "Jubilee Pass Road;CA 178"
-    ]
+    ],
+    "nodeId": 87763374
    }
   },
   {
@@ -11845,7 +12579,8 @@
     "streets": [
      "Furnace Creek Wash Road",
      "Tecopa Hot Springs Road"
-    ]
+    ],
+    "nodeId": 88286811
    }
   },
   {
@@ -11861,7 +12596,8 @@
     "streets": [
      "Death Valley Road;CA 127",
      "Furnace Creek Wash Road"
-    ]
+    ],
+    "nodeId": 88330916
    }
   },
   {
@@ -11877,7 +12613,8 @@
     "streets": [
      "CA 168",
      "Ed Powers Road"
-    ]
+    ],
+    "nodeId": 1926778957
    }
   },
   {
@@ -11893,7 +12630,8 @@
     "streets": [
      "East Locust Street",
      "North Jackson Street"
-    ]
+    ],
+    "nodeId": 88379748
    }
   },
   {
@@ -11909,7 +12647,8 @@
     "streets": [
      "East Locust Street",
      "North Lake View Street"
-    ]
+    ],
+    "nodeId": 88149716
    }
   },
   {
@@ -11925,7 +12664,8 @@
     "streets": [
      "Hunter Way",
      "West Street"
-    ]
+    ],
+    "nodeId": 88379855
    }
   },
   {
@@ -11941,7 +12681,8 @@
     "streets": [
      "Ash Meadows Road",
      "Stewart Valley Road"
-    ]
+    ],
+    "nodeId": 88379979
    }
   },
   {
@@ -11957,7 +12698,8 @@
     "streets": [
      "Ash Meadows Road",
      "Condor Avenue"
-    ]
+    ],
+    "nodeId": 88380008
    }
   },
   {
@@ -11973,7 +12715,8 @@
     "streets": [
      "Death Valley Road;CA 127",
      "State Line Road"
-    ]
+    ],
+    "nodeId": 87956739
    }
   },
   {
@@ -11989,7 +12732,8 @@
     "streets": [
      "Ash Meadows Road",
      "State Line Road"
-    ]
+    ],
+    "nodeId": 88380040
    }
   },
   {
@@ -12006,7 +12750,8 @@
      "East Post Street",
      "South Main Street;US 395;US 6 Hist",
      "West Post Street"
-    ]
+    ],
+    "nodeId": 88340902
    }
   },
   {
@@ -12022,7 +12767,8 @@
     "streets": [
      "Fort Independence Road",
      "Shabbell Lane"
-    ]
+    ],
+    "nodeId": 88058014
    }
   },
   {
@@ -12038,7 +12784,8 @@
     "streets": [
      "Fort Independence Road",
      "Oak Creek Road"
-    ]
+    ],
+    "nodeId": 87839238
    }
   },
   {
@@ -12054,7 +12801,8 @@
     "streets": [
      "Dewey Street",
      "School Street"
-    ]
+    ],
+    "nodeId": 88380613
    }
   },
   {
@@ -12070,7 +12818,8 @@
     "streets": [
      "Dewey Street",
      "Flower Alley"
-    ]
+    ],
+    "nodeId": 88380615
    }
   },
   {
@@ -12086,7 +12835,8 @@
     "streets": [
      "Dewey Street",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88278204
    }
   },
   {
@@ -12102,7 +12852,8 @@
     "streets": [
      "Summer Haze Circle",
      "Sunset Drive"
-    ]
+    ],
+    "nodeId": 88381280
    }
   },
   {
@@ -12118,7 +12869,8 @@
     "streets": [
      "Indian Springs Drive",
      "Tuttle Creek Road"
-    ]
+    ],
+    "nodeId": 88381370
    }
   },
   {
@@ -12134,7 +12886,8 @@
     "streets": [
      "Minietta Road",
      "Nadeau Trail"
-    ]
+    ],
+    "nodeId": 88381386
    }
   },
   {
@@ -12150,7 +12903,8 @@
     "streets": [
      "Minietta Road",
      "Panamint Valley Road"
-    ]
+    ],
+    "nodeId": 88381742
    }
   },
   {
@@ -12168,7 +12922,8 @@
      "Old U.S. Route 395;CA 190;US Route 395 Business",
      "Old U.S. Route 395;US Route 395 Business",
      "Shop Street"
-    ]
+    ],
+    "nodeId": 88278841
    }
   },
   {
@@ -12184,7 +12939,8 @@
     "streets": [
      "CA 190",
      "Dirty Socks"
-    ]
+    ],
+    "nodeId": 88218020
    }
   },
   {
@@ -12200,7 +12956,8 @@
     "streets": [
      "CA 136",
      "CA 190"
-    ]
+    ],
+    "nodeId": 88336692
    }
   },
   {
@@ -12216,7 +12973,8 @@
     "streets": [
      "CA 190",
      "Saline Valley Road;S3099"
-    ]
+    ],
+    "nodeId": 88360470
    }
   },
   {
@@ -12232,7 +12990,8 @@
     "streets": [
      "Death Valley Road;CA 127",
      "Highway 190;CA 190"
-    ]
+    ],
+    "nodeId": 1957555256
    }
   },
   {
@@ -12248,7 +13007,8 @@
     "streets": [
      "Dantes View Road;103",
      "Highway 190;CA 190"
-    ]
+    ],
+    "nodeId": 88384531
    }
   },
   {
@@ -12264,7 +13024,8 @@
     "streets": [
      "Downey Road",
      "Old Spanish Trail Highway"
-    ]
+    ],
+    "nodeId": 88045807
    }
   },
   {
@@ -12280,7 +13041,8 @@
     "streets": [
      "Downey Road",
      "Sunset Road"
-    ]
+    ],
+    "nodeId": 88310565
    }
   },
   {
@@ -12296,7 +13058,8 @@
     "streets": [
      "Butcher Lane",
      "Richards Street"
-    ]
+    ],
+    "nodeId": 88386662
    }
   },
   {
@@ -12312,7 +13075,8 @@
     "streets": [
      "Bartell Road",
      "Richards Street"
-    ]
+    ],
+    "nodeId": 88386671
    }
   },
   {
@@ -12328,7 +13092,8 @@
     "streets": [
      "Baker Lane",
      "Richards Street"
-    ]
+    ],
+    "nodeId": 376285513
    }
   },
   {
@@ -12344,7 +13109,8 @@
     "streets": [
      "Country Lane",
      "Gerkin Road"
-    ]
+    ],
+    "nodeId": 88269289
    }
   },
   {
@@ -12360,7 +13126,8 @@
     "streets": [
      "Indian Ranch Road",
      "Trona-Wildrose Road"
-    ]
+    ],
+    "nodeId": 88333212
    }
   },
   {
@@ -12376,7 +13143,8 @@
     "streets": [
      "Center Street",
      "Washington Street"
-    ]
+    ],
+    "nodeId": 88387329
    }
   },
   {
@@ -12392,7 +13160,8 @@
     "streets": [
      "Birchim Lane",
      "Old Sherwin Grade Road"
-    ]
+    ],
+    "nodeId": 88387398
    }
   },
   {
@@ -12408,7 +13177,8 @@
     "streets": [
      "Academy Avenue",
      "Hammond Street"
-    ]
+    ],
+    "nodeId": 88328400
    }
   },
   {
@@ -12424,7 +13194,8 @@
     "streets": [
      "Grove Street",
      "Hammond Street"
-    ]
+    ],
+    "nodeId": 88378093
    }
   },
   {
@@ -12440,7 +13211,8 @@
     "streets": [
      "Hammond Street",
      "West Elm Street"
-    ]
+    ],
+    "nodeId": 11385922667
    }
   },
   {
@@ -12456,7 +13228,8 @@
     "streets": [
      "Sarah Lane",
      "Sierra Vista Way"
-    ]
+    ],
+    "nodeId": 88387417
    }
   },
   {
@@ -12472,7 +13245,8 @@
     "streets": [
      "Audrey Lane",
      "Sarah Lane"
-    ]
+    ],
+    "nodeId": 88387419
    }
   },
   {
@@ -12488,7 +13262,8 @@
     "streets": [
      "Macgregor Avenue",
      "Mackintosh Avenue"
-    ]
+    ],
+    "nodeId": 88387431
    }
   },
   {
@@ -12504,7 +13279,8 @@
     "streets": [
      "East Pine Street",
      "Hanby Avenue"
-    ]
+    ],
+    "nodeId": 88387435
    }
   },
   {
@@ -12520,7 +13296,8 @@
     "streets": [
      "East Pine Street",
      "High Street"
-    ]
+    ],
+    "nodeId": 88297801
    }
   },
   {
@@ -12536,7 +13313,8 @@
     "streets": [
      "Bartell Road",
      "Bowers Street"
-    ]
+    ],
+    "nodeId": 88387706
    }
   },
   {
@@ -12552,7 +13330,8 @@
     "streets": [
      "Avenue C",
      "Opal Street"
-    ]
+    ],
+    "nodeId": 88389441
    }
   },
   {
@@ -12568,7 +13347,8 @@
     "streets": [
      "Avenue B",
      "Opal Street"
-    ]
+    ],
+    "nodeId": 87770478
    }
   },
   {
@@ -12584,7 +13364,8 @@
     "streets": [
      "South Valley View Drive",
      "Stone Circle"
-    ]
+    ],
+    "nodeId": 88323744
    }
   },
   {
@@ -12600,7 +13381,8 @@
     "streets": [
      "Jordan Avenue",
      "Silver Canyon Road"
-    ]
+    ],
+    "nodeId": 88346249
    }
   },
   {
@@ -12616,7 +13398,8 @@
     "streets": [
      "North Washington Street",
      "West Center Street"
-    ]
+    ],
+    "nodeId": 88357476
    }
   },
   {
@@ -12632,7 +13415,8 @@
     "streets": [
      "East Post Street",
      "South Hay Street"
-    ]
+    ],
+    "nodeId": 88393203
    }
   },
   {
@@ -12648,7 +13432,8 @@
     "streets": [
      "East Muir Street",
      "South Hay Street"
-    ]
+    ],
+    "nodeId": 88393205
    }
   },
   {
@@ -12664,7 +13449,8 @@
     "streets": [
      "Pioneer Lane",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 88369987
    }
   },
   {
@@ -12680,7 +13466,8 @@
     "streets": [
      "Sawmill Road",
      "South Round Valley Road"
-    ]
+    ],
+    "nodeId": 88389648
    }
   },
   {
@@ -12696,7 +13483,8 @@
     "streets": [
      "Owens Circle",
      "South Round Valley Road"
-    ]
+    ],
+    "nodeId": 88210040
    }
   },
   {
@@ -12712,7 +13500,8 @@
     "streets": [
      "Horton Creek Road",
      "South Round Valley Road"
-    ]
+    ],
+    "nodeId": 88304059
    }
   },
   {
@@ -12728,7 +13517,8 @@
     "streets": [
      "Darby Avenue",
      "Macgregor Avenue"
-    ]
+    ],
+    "nodeId": 88393481
    }
   },
   {
@@ -12744,7 +13534,8 @@
     "streets": [
      "Macgregor Avenue",
      "McCree Avenue"
-    ]
+    ],
+    "nodeId": 88393490
    }
   },
   {
@@ -12761,7 +13552,8 @@
      "Mumy Lane",
      "Reata Road",
      "Underwood Lane"
-    ]
+    ],
+    "nodeId": 1926716488
    }
   },
   {
@@ -12777,7 +13569,8 @@
     "streets": [
      "County Road",
      "Reynolds Road"
-    ]
+    ],
+    "nodeId": 564076877
    }
   },
   {
@@ -12793,7 +13586,8 @@
     "streets": [
      "Pine Road",
      "Reynolds Road"
-    ]
+    ],
+    "nodeId": 88393546
    }
   },
   {
@@ -12809,7 +13603,8 @@
     "streets": [
      "Sierra Vista Way",
      "South Barlow Lane"
-    ]
+    ],
+    "nodeId": 88393664
    }
   },
   {
@@ -12825,7 +13620,8 @@
     "streets": [
      "Orinda Drive",
      "Sierra Vista Way"
-    ]
+    ],
+    "nodeId": 88266179
    }
   },
   {
@@ -12841,7 +13637,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 6",
      "Silver Canyon Road"
-    ]
+    ],
+    "nodeId": 88257358
    }
   },
   {
@@ -12857,7 +13654,8 @@
     "streets": [
      "Avenue A",
      "Quartz Street"
-    ]
+    ],
+    "nodeId": 88393689
    }
   },
   {
@@ -12873,7 +13671,8 @@
     "streets": [
      "Avenue A",
      "Topaz Street"
-    ]
+    ],
+    "nodeId": 88393694
    }
   },
   {
@@ -12889,7 +13688,8 @@
     "streets": [
      "Mesa Vista Drive",
      "Reina Road"
-    ]
+    ],
+    "nodeId": 88393714
    }
   },
   {
@@ -12905,7 +13705,8 @@
     "streets": [
      "Avenue B",
      "Quartz Street"
-    ]
+    ],
+    "nodeId": 88393729
    }
   },
   {
@@ -12921,7 +13722,8 @@
     "streets": [
      "Avenue B",
      "Topaz Street"
-    ]
+    ],
+    "nodeId": 88393747
    }
   },
   {
@@ -12937,7 +13739,8 @@
     "streets": [
      "Avenue B",
      "Silver Street"
-    ]
+    ],
+    "nodeId": 88315214
    }
   },
   {
@@ -12953,7 +13756,8 @@
     "streets": [
      "Juniper Street",
      "South Valley View Drive"
-    ]
+    ],
+    "nodeId": 88323750
    }
   },
   {
@@ -12969,7 +13773,8 @@
     "streets": [
      "East Entrance",
      "Pangborne Lane"
-    ]
+    ],
+    "nodeId": 88393769
    }
   },
   {
@@ -12985,7 +13790,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Pangborne Lane"
-    ]
+    ],
+    "nodeId": 2212079229
    }
   },
   {
@@ -13001,7 +13807,8 @@
     "streets": [
      "Argyle Lane",
      "Darby Avenue"
-    ]
+    ],
+    "nodeId": 88394538
    }
   },
   {
@@ -13017,7 +13824,8 @@
     "streets": [
      "Alabama Drive",
      "Tuttle Creek Road"
-    ]
+    ],
+    "nodeId": 88394541
    }
   },
   {
@@ -13033,7 +13841,8 @@
     "streets": [
      "Dunmovin",
      "Ray Lane"
-    ]
+    ],
+    "nodeId": 88340627
    }
   },
   {
@@ -13049,7 +13858,8 @@
     "streets": [
      "South Fowler Street",
      "West South Street"
-    ]
+    ],
+    "nodeId": 88395199
    }
   },
   {
@@ -13065,7 +13875,8 @@
     "streets": [
      "Lagoon Street",
      "South Fowler Street"
-    ]
+    ],
+    "nodeId": 88389660
    }
   },
   {
@@ -13081,7 +13892,8 @@
     "streets": [
      "Avenue D",
      "Quartz Street"
-    ]
+    ],
+    "nodeId": 88395202
    }
   },
   {
@@ -13097,7 +13909,8 @@
     "streets": [
      "Avenue D",
      "Topaz Street"
-    ]
+    ],
+    "nodeId": 88395204
    }
   },
   {
@@ -13113,7 +13926,8 @@
     "streets": [
      "Avenue D",
      "Silver Street"
-    ]
+    ],
+    "nodeId": 88315242
    }
   },
   {
@@ -13129,7 +13943,8 @@
     "streets": [
      "Avenue D",
      "Zircon Street"
-    ]
+    ],
+    "nodeId": 88395208
    }
   },
   {
@@ -13145,7 +13960,8 @@
     "streets": [
      "Avenue D",
      "Gold Street"
-    ]
+    ],
+    "nodeId": 88058608
    }
   },
   {
@@ -13161,7 +13977,8 @@
     "streets": [
      "Home Street",
      "Washington Street"
-    ]
+    ],
+    "nodeId": 88395220
    }
   },
   {
@@ -13177,7 +13994,8 @@
     "streets": [
      "Home Street",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 88369990
    }
   },
   {
@@ -13193,7 +14011,8 @@
     "streets": [
      "Grove Street",
      "Home Street"
-    ]
+    ],
+    "nodeId": 88378097
    }
   },
   {
@@ -13209,7 +14028,8 @@
     "streets": [
      "Home Street",
      "West Elm Street"
-    ]
+    ],
+    "nodeId": 88266201
    }
   },
   {
@@ -13225,7 +14045,8 @@
     "streets": [
      "Sunset Drive",
      "Tuttle Creek Road"
-    ]
+    ],
+    "nodeId": 88395739
    }
   },
   {
@@ -13241,7 +14062,8 @@
     "streets": [
      "South Barlow Lane",
      "Sunset Drive"
-    ]
+    ],
+    "nodeId": 88395760
    }
   },
   {
@@ -13257,7 +14079,8 @@
     "streets": [
      "Snow Circle",
      "Sunset Drive"
-    ]
+    ],
+    "nodeId": 88395806
    }
   },
   {
@@ -13273,7 +14096,8 @@
     "streets": [
      "Short Street",
      "South 1st Street"
-    ]
+    ],
+    "nodeId": 88395827
    }
   },
   {
@@ -13289,7 +14113,8 @@
     "streets": [
      "Short Street",
      "South 3rd Street"
-    ]
+    ],
+    "nodeId": 88395830
    }
   },
   {
@@ -13305,7 +14130,8 @@
     "streets": [
      "Short Street",
      "South Main Street;US 395;CA 168;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88340811
    }
   },
   {
@@ -13321,7 +14147,8 @@
     "streets": [
      "Short Street",
      "Sneden Street"
-    ]
+    ],
+    "nodeId": 88316986
    }
   },
   {
@@ -13337,7 +14164,8 @@
     "streets": [
      "Darwin Road",
      "Tower Road"
-    ]
+    ],
+    "nodeId": 87795195
    }
   },
   {
@@ -13353,7 +14181,8 @@
     "streets": [
      "Cardinal Road",
      "Iris Drive"
-    ]
+    ],
+    "nodeId": 88395900
    }
   },
   {
@@ -13369,7 +14198,8 @@
     "streets": [
      "CA 168",
      "Cardinal Road"
-    ]
+    ],
+    "nodeId": 88395905
    }
   },
   {
@@ -13385,7 +14215,8 @@
     "streets": [
      "Longview Drive",
      "South Barlow Lane"
-    ]
+    ],
+    "nodeId": 88395956
    }
   },
   {
@@ -13401,7 +14232,8 @@
     "streets": [
      "Mesa Vista Drive",
      "Vista Verde Road"
-    ]
+    ],
+    "nodeId": 88395987
    }
   },
   {
@@ -13417,7 +14249,8 @@
     "streets": [
      "Nadeau Road",
      "Trona-Wildrose Road"
-    ]
+    ],
+    "nodeId": 88333443
    }
   },
   {
@@ -13433,7 +14266,8 @@
     "streets": [
      "East South Street",
      "South 3rd Street"
-    ]
+    ],
+    "nodeId": 88339920
    }
   },
   {
@@ -13449,7 +14283,8 @@
     "streets": [
      "Agate Street",
      "Condor Avenue"
-    ]
+    ],
+    "nodeId": 88397373
    }
   },
   {
@@ -13466,7 +14301,8 @@
      "East Market Street",
      "Northeast First Avenue",
      "Southeast First Avenue"
-    ]
+    ],
+    "nodeId": 88397426
    }
   },
   {
@@ -13482,7 +14318,8 @@
     "streets": [
      "Fish Springs Road",
      "Grand Army of the Republic Highway;US 395"
-    ]
+    ],
+    "nodeId": 2193540273
    }
   },
   {
@@ -13498,7 +14335,8 @@
     "streets": [
      "East Willow Street",
      "Mc Elroy Lane"
-    ]
+    ],
+    "nodeId": 88398602
    }
   },
   {
@@ -13514,7 +14352,8 @@
     "streets": [
      "Laws Avenue",
      "Lincoln Street"
-    ]
+    ],
+    "nodeId": 88398606
    }
   },
   {
@@ -13530,7 +14369,8 @@
     "streets": [
      "Lincoln Street",
      "Old State Highway"
-    ]
+    ],
+    "nodeId": 88296611
    }
   },
   {
@@ -13546,7 +14386,8 @@
     "streets": [
      "Crow Canyon Road",
      "Homewood Canyon Road"
-    ]
+    ],
+    "nodeId": 88262732
    }
   },
   {
@@ -13562,7 +14403,8 @@
     "streets": [
      "East Willow Street",
      "North Jackson Street"
-    ]
+    ],
+    "nodeId": 88398701
    }
   },
   {
@@ -13579,7 +14421,8 @@
      "Panamint Valley Road",
      "Trona Wildrose Road",
      "Trona-Wildrose Road"
-    ]
+    ],
+    "nodeId": 88333194
    }
   },
   {
@@ -13595,7 +14438,8 @@
     "streets": [
      "CA 190",
      "Panamint Valley Road"
-    ]
+    ],
+    "nodeId": 88265370
    }
   },
   {
@@ -13612,7 +14456,8 @@
      "North Washington Street",
      "South Washington Street",
      "West Market Street"
-    ]
+    ],
+    "nodeId": 88280933
    }
   },
   {
@@ -13628,7 +14473,8 @@
     "streets": [
      "Northwest Fourth Avenue",
      "West Market Street"
-    ]
+    ],
+    "nodeId": 1771074048
    }
   },
   {
@@ -13644,7 +14490,8 @@
     "streets": [
      "Olancha Darwin Road",
      "West Market Street"
-    ]
+    ],
+    "nodeId": 9233781033
    }
   },
   {
@@ -13660,7 +14507,8 @@
     "streets": [
      "Highland Drive",
      "South Pa-Ha Lane"
-    ]
+    ],
+    "nodeId": 88399209
    }
   },
   {
@@ -13676,7 +14524,8 @@
     "streets": [
      "Lacey Lane",
      "Old U.S. Route 395;US Route 395 Business"
-    ]
+    ],
+    "nodeId": 88278823
    }
   },
   {
@@ -13692,7 +14541,8 @@
     "streets": [
      "Northwest Fourth Avenue",
      "West Kearny Street"
-    ]
+    ],
+    "nodeId": 9024423274
    }
   },
   {
@@ -13708,7 +14558,8 @@
     "streets": [
      "Old U.S. Route 395;CA 190;US Route 395 Business",
      "School Road"
-    ]
+    ],
+    "nodeId": 88278851
    }
   },
   {
@@ -13725,7 +14576,8 @@
      "North Barlow Lane",
      "South Barlow Lane",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 88369965
    }
   },
   {
@@ -13741,7 +14593,8 @@
     "streets": [
      "Diaz Lane",
      "North Barlow Lane"
-    ]
+    ],
+    "nodeId": 88400899
    }
   },
   {
@@ -13757,7 +14610,8 @@
     "streets": [
      "High School Drive",
      "North Fowler Street"
-    ]
+    ],
+    "nodeId": 88378620
    }
   },
   {
@@ -13773,7 +14627,8 @@
     "streets": [
      "Ash Creek Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88278637
    }
   },
   {
@@ -13789,7 +14644,8 @@
     "streets": [
      "East Willow Street",
      "North Main Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 1925945208
    }
   },
   {
@@ -13805,7 +14661,8 @@
     "streets": [
      "East Willow Street",
      "High Street"
-    ]
+    ],
+    "nodeId": 88297799
    }
   },
   {
@@ -13821,7 +14678,8 @@
     "streets": [
      "Arizona Street",
      "Pine Creek Road"
-    ]
+    ],
+    "nodeId": 88201651
    }
   },
   {
@@ -13837,7 +14695,8 @@
     "streets": [
      "Butcher Lane",
      "Piper Street"
-    ]
+    ],
+    "nodeId": 376285637
    }
   },
   {
@@ -13853,7 +14712,8 @@
     "streets": [
      "Highland Drive",
      "South Barlow Lane"
-    ]
+    ],
+    "nodeId": 88402924
    }
   },
   {
@@ -13869,7 +14729,8 @@
     "streets": [
      "Foothill Road",
      "Onion Valley Road"
-    ]
+    ],
+    "nodeId": 88373249
    }
   },
   {
@@ -13885,7 +14746,8 @@
     "streets": [
      "North Winuba Lane",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 88369956
    }
   },
   {
@@ -13901,7 +14763,8 @@
     "streets": [
      "Diaz Lane",
      "North Winuba Lane"
-    ]
+    ],
+    "nodeId": 88406313
    }
   },
   {
@@ -13917,7 +14780,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "North Winuba Lane"
-    ]
+    ],
+    "nodeId": 7773512958
    }
   },
   {
@@ -13933,7 +14797,8 @@
     "streets": [
      "Bartell Road",
      "Piper Street"
-    ]
+    ],
+    "nodeId": 88393645
    }
   },
   {
@@ -13949,7 +14814,8 @@
     "streets": [
      "Baker Lane",
      "Piper Street"
-    ]
+    ],
+    "nodeId": 88406603
    }
   },
   {
@@ -13965,7 +14831,8 @@
     "streets": [
      "East Line Street",
      "Hanby Avenue"
-    ]
+    ],
+    "nodeId": 88125531
    }
   },
   {
@@ -13981,7 +14848,8 @@
     "streets": [
      "East Willow Street",
      "Hanby Avenue"
-    ]
+    ],
+    "nodeId": 88402290
    }
   },
   {
@@ -13997,7 +14865,8 @@
     "streets": [
      "Hanby Avenue",
      "May Street"
-    ]
+    ],
+    "nodeId": 88266217
    }
   },
   {
@@ -14013,7 +14882,8 @@
     "streets": [
      "Hanby Avenue",
      "Park Avenue"
-    ]
+    ],
+    "nodeId": 1922760930
    }
   },
   {
@@ -14029,7 +14899,8 @@
     "streets": [
      "Tuttle Creek Road",
      "Whitney Portal Road"
-    ]
+    ],
+    "nodeId": 9393638961
    }
   },
   {
@@ -14045,7 +14916,8 @@
     "streets": [
      "North Main Street;US 395;US 6 Hist",
      "Park Avenue"
-    ]
+    ],
+    "nodeId": 1922760980
    }
   },
   {
@@ -14061,7 +14933,8 @@
     "streets": [
      "Grove Street",
      "Hobson Street"
-    ]
+    ],
+    "nodeId": 88378096
    }
   },
   {
@@ -14077,7 +14950,8 @@
     "streets": [
      "Hobson Street",
      "West Elm Street"
-    ]
+    ],
+    "nodeId": 88266200
    }
   },
   {
@@ -14093,7 +14967,8 @@
     "streets": [
      "East Entrance",
      "Kellogg Street"
-    ]
+    ],
+    "nodeId": 2433665239
    }
   },
   {
@@ -14109,7 +14984,8 @@
     "streets": [
      "Quartz Street",
      "West Diamond Lane"
-    ]
+    ],
+    "nodeId": 8748753701
    }
   },
   {
@@ -14125,7 +15001,8 @@
     "streets": [
      "North Garnet Street",
      "West Diamond Lane"
-    ]
+    ],
+    "nodeId": 87954258
    }
   },
   {
@@ -14141,7 +15018,8 @@
     "streets": [
      "CA 168",
      "Wyman Canyon Road;06S01"
-    ]
+    ],
+    "nodeId": 88353016
    }
   },
   {
@@ -14157,7 +15035,8 @@
     "streets": [
      "Trona Airport Road",
      "Trona-Wildrose Road"
-    ]
+    ],
+    "nodeId": 88333847
    }
   },
   {
@@ -14174,7 +15053,8 @@
      "East Old Spanish Trail Highway",
      "South Owl Way",
      "Zircon Street"
-    ]
+    ],
+    "nodeId": 87829097
    }
   },
   {
@@ -14190,7 +15070,8 @@
     "streets": [
      "Avenue E",
      "Zircon Street"
-    ]
+    ],
+    "nodeId": 88395711
    }
   },
   {
@@ -14206,7 +15087,8 @@
     "streets": [
      "Avenue C",
      "Zircon Street"
-    ]
+    ],
+    "nodeId": 3777099991
    }
   },
   {
@@ -14222,7 +15104,8 @@
     "streets": [
      "Arcturis Circle",
      "Starlite Drive"
-    ]
+    ],
+    "nodeId": 88412050
    }
   },
   {
@@ -14238,7 +15121,8 @@
     "streets": [
      "Diaz Lane",
      "North Pa-Ha Lane"
-    ]
+    ],
+    "nodeId": 88308411
    }
   },
   {
@@ -14254,7 +15138,8 @@
     "streets": [
      "Five Bridges Road",
      "Grand Army of the Republic Highway;US 6"
-    ]
+    ],
+    "nodeId": 1926356846
    }
   },
   {
@@ -14270,7 +15155,8 @@
     "streets": [
      "Five Bridges Road",
      "Riverside Road"
-    ]
+    ],
+    "nodeId": 376287555
    }
   },
   {
@@ -14286,7 +15172,8 @@
     "streets": [
      "East Line Street",
      "South 1st Street"
-    ]
+    ],
+    "nodeId": 88300306
    }
   },
   {
@@ -14302,7 +15189,8 @@
     "streets": [
      "Clarke Street",
      "South 1st Street"
-    ]
+    ],
+    "nodeId": 88294213
    }
   },
   {
@@ -14318,7 +15206,8 @@
     "streets": [
      "East South Street",
      "South 1st Street"
-    ]
+    ],
+    "nodeId": 88339924
    }
   },
   {
@@ -14334,7 +15223,8 @@
     "streets": [
      "Clay Road",
      "Death Valley Road;CA 127"
-    ]
+    ],
+    "nodeId": 88018124
    }
   },
   {
@@ -14350,7 +15240,8 @@
     "streets": [
      "East Bishop Creek Road",
      "Skyrock Drive"
-    ]
+    ],
+    "nodeId": 88341945
    }
   },
   {
@@ -14366,7 +15257,8 @@
     "streets": [
      "East Pavilion Street",
      "South Valley View Drive"
-    ]
+    ],
+    "nodeId": 88006601
    }
   },
   {
@@ -14383,7 +15275,8 @@
      "Granite View Drive",
      "Horseshoe Meadows Road",
      "Sunset Drive"
-    ]
+    ],
+    "nodeId": 88303764
    }
   },
   {
@@ -14399,7 +15292,8 @@
     "streets": [
      "Schober Lane",
      "South Barlow Lane"
-    ]
+    ],
+    "nodeId": 1926716520
    }
   },
   {
@@ -14415,7 +15309,8 @@
     "streets": [
      "South Barlow Lane",
      "Underwood Lane"
-    ]
+    ],
+    "nodeId": 1926716465
    }
   },
   {
@@ -14431,7 +15326,8 @@
     "streets": [
      "Bar L Lane",
      "North Barlow Lane"
-    ]
+    ],
+    "nodeId": 88400915
    }
   },
   {
@@ -14447,7 +15343,8 @@
     "streets": [
      "Avenue E",
      "Gold Street"
-    ]
+    ],
+    "nodeId": 88395708
    }
   },
   {
@@ -14463,7 +15360,8 @@
     "streets": [
      "East  Roserwin Lane",
      "Gold Street"
-    ]
+    ],
+    "nodeId": 3777100004
    }
   },
   {
@@ -14480,7 +15378,8 @@
      "East Old Spanish Trail Highway",
      "Gold Street",
      "South Quail Way"
-    ]
+    ],
+    "nodeId": 87840065
    }
   },
   {
@@ -14496,7 +15395,8 @@
     "streets": [
      "White Mountain Road;04S01",
      "White Mountain Road;FR 4S01"
-    ]
+    ],
+    "nodeId": 12094802643
    }
   },
   {
@@ -14512,7 +15412,8 @@
     "streets": [
      "Long Road",
      "Papago Street"
-    ]
+    ],
+    "nodeId": 88188900
    }
   },
   {
@@ -14528,7 +15429,8 @@
     "streets": [
      "Papago Street",
      "West Nickel Avenue"
-    ]
+    ],
+    "nodeId": 137391038
    }
   },
   {
@@ -14544,7 +15446,8 @@
     "streets": [
      "East Old Spanish Trail Highway",
      "Tecopa Road"
-    ]
+    ],
+    "nodeId": 87923964
    }
   },
   {
@@ -14560,7 +15463,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Lake Street;US Route 395 Business"
-    ]
+    ],
+    "nodeId": 12450525503
    }
   },
   {
@@ -14576,7 +15480,8 @@
     "streets": [
      "Carroll Creek Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88099671
    }
   },
   {
@@ -14592,7 +15497,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Symmes Creek Road;34E402"
-    ]
+    ],
+    "nodeId": 88275189
    }
   },
   {
@@ -14608,7 +15514,8 @@
     "streets": [
      "China Ranch Road",
      "Furnace Creek Road"
-    ]
+    ],
+    "nodeId": 88293455
    }
   },
   {
@@ -14624,7 +15531,8 @@
     "streets": [
      "Furnace Creek Road",
      "Furnace Creek Road;AR046"
-    ]
+    ],
+    "nodeId": 6725931546
    }
   },
   {
@@ -14640,7 +15548,8 @@
     "streets": [
      "CA 190",
      "North Highway"
-    ]
+    ],
+    "nodeId": 88124940
    }
   },
   {
@@ -14656,7 +15565,8 @@
     "streets": [
      "CA 190",
      "Saline Valley Road;S3085"
-    ]
+    ],
+    "nodeId": 88383016
    }
   },
   {
@@ -14672,7 +15582,8 @@
     "streets": [
      "Homewood Canyon Road",
      "Trona-Wildrose Road"
-    ]
+    ],
+    "nodeId": 88262642
    }
   },
   {
@@ -14688,7 +15599,8 @@
     "streets": [
      "Death Valley Road;CA 127",
      "Old Spanish Trail Highway"
-    ]
+    ],
+    "nodeId": 88298864
    }
   },
   {
@@ -14704,7 +15616,8 @@
     "streets": [
      "Badwater Road",
      "Devils Golf Course Road"
-    ]
+    ],
+    "nodeId": 88328330
    }
   },
   {
@@ -14720,7 +15633,8 @@
     "streets": [
      "Cholla Road",
      "Quartz Avenue"
-    ]
+    ],
+    "nodeId": 88220806
    }
   },
   {
@@ -14736,7 +15650,8 @@
     "streets": [
      "Quartz Avenue",
      "West Quartz Avenue"
-    ]
+    ],
+    "nodeId": 54723325
    }
   },
   {
@@ -14752,7 +15667,8 @@
     "streets": [
      "Ekenberg Road",
      "Quartz Avenue"
-    ]
+    ],
+    "nodeId": 8871315289
    }
   },
   {
@@ -14768,7 +15684,8 @@
     "streets": [
      "Crockett Street",
      "Mazourka Canyon Road"
-    ]
+    ],
+    "nodeId": 88313170
    }
   },
   {
@@ -14784,7 +15701,8 @@
     "streets": [
      "Mazourka Canyon Road",
      "South Clay Street"
-    ]
+    ],
+    "nodeId": 87767235
    }
   },
   {
@@ -14800,7 +15718,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Mazourka Canyon Road"
-    ]
+    ],
+    "nodeId": 2193587829
    }
   },
   {
@@ -14816,7 +15735,8 @@
     "streets": [
      "Death Valley - Big Pine Road",
      "South Eureka Valley Road"
-    ]
+    ],
+    "nodeId": 87761098
    }
   },
   {
@@ -14833,7 +15753,8 @@
      "Eureka Valley Road",
      "North Eureka Valley Road",
      "Willow Creek Road"
-    ]
+    ],
+    "nodeId": 318415042
    }
   },
   {
@@ -14849,7 +15770,8 @@
     "streets": [
      "Arcade Road",
      "Sugar Loaf Road"
-    ]
+    ],
+    "nodeId": 88310002
    }
   },
   {
@@ -14865,7 +15787,8 @@
     "streets": [
      "Glacier Lodge Road;9S21",
      "Sugar Loaf Road"
-    ]
+    ],
+    "nodeId": 88310015
    }
   },
   {
@@ -14881,7 +15804,8 @@
     "streets": [
      "Old Highway 395",
      "Tinemaha Road"
-    ]
+    ],
+    "nodeId": 88286585
    }
   },
   {
@@ -14897,7 +15821,8 @@
     "streets": [
      "Silver Canyon Road",
      "Silver Canyon Road;FR 6S02"
-    ]
+    ],
+    "nodeId": 12115572566
    }
   },
   {
@@ -14913,7 +15838,8 @@
     "streets": [
      "Northwest Fourth Avenue",
      "West McKenzie Street"
-    ]
+    ],
+    "nodeId": 9024423269
    }
   },
   {
@@ -14929,7 +15855,8 @@
     "streets": [
      "East Market Street",
      "Southeast Second Avenue"
-    ]
+    ],
+    "nodeId": 1771074050
    }
   },
   {
@@ -14945,7 +15872,8 @@
     "streets": [
      "Rocky Lane",
      "Shabbell Lane"
-    ]
+    ],
+    "nodeId": 88414009
    }
   },
   {
@@ -14962,7 +15890,8 @@
      "Fish Hatchery Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Shabbell Lane"
-    ]
+    ],
+    "nodeId": 88275572
    }
   },
   {
@@ -14978,7 +15907,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Pinon Street"
-    ]
+    ],
+    "nodeId": 88278192
    }
   },
   {
@@ -14994,7 +15924,8 @@
     "streets": [
      "County Road",
      "North School Street"
-    ]
+    ],
+    "nodeId": 88296599
    }
   },
   {
@@ -15010,7 +15941,8 @@
     "streets": [
      "Polaris Circle",
      "Starlite Drive"
-    ]
+    ],
+    "nodeId": 88288984
    }
   },
   {
@@ -15026,7 +15958,8 @@
     "streets": [
      "CA 168",
      "Starlite Drive"
-    ]
+    ],
+    "nodeId": 88307790
    }
   },
   {
@@ -15042,7 +15975,8 @@
     "streets": [
      "Ed Powers Road",
      "Sawmill Road"
-    ]
+    ],
+    "nodeId": 376303129
    }
   },
   {
@@ -15059,7 +15993,8 @@
      "Death Valley Road;CA 127",
      "Death Valley Road;CA 127;CA 178",
      "Jubilee Pass Road;CA 178"
-    ]
+    ],
+    "nodeId": 87763164
    }
   },
   {
@@ -15076,7 +16011,8 @@
      "North Main Street;US 395;US 6 Hist",
      "North Main Street;US 6",
      "North Sierra Highway;US 395"
-    ]
+    ],
+    "nodeId": 1926129326
    }
   },
   {
@@ -15092,7 +16028,8 @@
     "streets": [
      "Brockman Lane",
      "Dixon Lane"
-    ]
+    ],
+    "nodeId": 376287487
    }
   },
   {
@@ -15108,7 +16045,8 @@
     "streets": [
      "North Main Street;US 395;US 6 Hist",
      "North Main Street;US 6"
-    ]
+    ],
+    "nodeId": 1926129322
    }
   },
   {
@@ -15124,7 +16062,8 @@
     "streets": [
      "CA 168",
      "Leighton Lane"
-    ]
+    ],
+    "nodeId": 9668434761
    }
   },
   {
@@ -15140,7 +16079,8 @@
     "streets": [
      "CA 168",
      "Death Valley - Big Pine Road"
-    ]
+    ],
+    "nodeId": 87759257
    }
   },
   {
@@ -15156,7 +16096,8 @@
     "streets": [
      "Movie Road",
      "Whitney Portal Road"
-    ]
+    ],
+    "nodeId": 88395650
    }
   },
   {
@@ -15172,7 +16113,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "North Barlow Lane"
-    ]
+    ],
+    "nodeId": 88342189
    }
   },
   {
@@ -15189,7 +16131,8 @@
      "Gus Cashbaugh Lane",
      "Schober Lane",
      "South Main Street;US 395;CA 168;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88266131
    }
   },
   {
@@ -15205,7 +16148,8 @@
     "streets": [
      "Cactus Flats Road",
      "Old U.S. Route 395;CA 190;US Route 395 Business"
-    ]
+    ],
+    "nodeId": 88278876
    }
   },
   {
@@ -15221,7 +16165,8 @@
     "streets": [
      "CA 190",
      "Mosaic Canyon Road;215"
-    ]
+    ],
+    "nodeId": 88300421
    }
   },
   {
@@ -15237,7 +16182,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 6",
      "Jean Blanc Road"
-    ]
+    ],
+    "nodeId": 88257399
    }
   },
   {
@@ -15253,7 +16199,8 @@
     "streets": [
      "Five Bridges Road",
      "Jean Blanc Road"
-    ]
+    ],
+    "nodeId": 88389525
    }
   },
   {
@@ -15269,7 +16216,8 @@
     "streets": [
      "El Camino Sierra;US 395;CA 168;US 6 Hist",
      "Warm Springs Road"
-    ]
+    ],
+    "nodeId": 88299648
    }
   },
   {
@@ -15285,7 +16233,8 @@
     "streets": [
      "Collins Road",
      "El Camino Sierra;US 395;CA 168;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88257130
    }
   },
   {
@@ -15301,7 +16250,8 @@
     "streets": [
      "Avenue C",
      "Silver Street"
-    ]
+    ],
+    "nodeId": 88315228
    }
   },
   {
@@ -15317,7 +16267,8 @@
     "streets": [
      "Avenue E",
      "Silver Street"
-    ]
+    ],
+    "nodeId": 88315246
    }
   },
   {
@@ -15335,7 +16286,8 @@
      "Silver Street",
      "South Rose Way",
      "West Old Spanish Trail Highway"
-    ]
+    ],
+    "nodeId": 87982332
    }
   },
   {
@@ -15351,7 +16303,8 @@
     "streets": [
      "Avenue C",
      "Quartz Street"
-    ]
+    ],
+    "nodeId": 88395180
    }
   },
   {
@@ -15367,7 +16320,8 @@
     "streets": [
      "Avenue C",
      "Topaz Street"
-    ]
+    ],
+    "nodeId": 88395179
    }
   },
   {
@@ -15383,7 +16337,8 @@
     "streets": [
      "Avenue E",
      "Topaz Street"
-    ]
+    ],
+    "nodeId": 88395713
    }
   },
   {
@@ -15400,7 +16355,8 @@
      "South Deming Way",
      "Topaz Street",
      "West Old Spanish Trail Highway"
-    ]
+    ],
+    "nodeId": 87871950
    }
   },
   {
@@ -15416,7 +16372,8 @@
     "streets": [
      "CA 136",
      "Cerro Gordo Road"
-    ]
+    ],
+    "nodeId": 376293000
    }
   },
   {
@@ -15432,7 +16389,8 @@
     "streets": [
      "CA 136",
      "Sulfate Road"
-    ]
+    ],
+    "nodeId": 376292740
    }
   },
   {
@@ -15448,7 +16406,8 @@
     "streets": [
      "Whitney Portal Road",
      "Whitney Portal Road;15S07"
-    ]
+    ],
+    "nodeId": 88404746
    }
   },
   {
@@ -15464,7 +16423,8 @@
     "streets": [
      "Orinda Drive",
      "Underwood Lane"
-    ]
+    ],
+    "nodeId": 1926716467
    }
   },
   {
@@ -15480,7 +16440,8 @@
     "streets": [
      "Reata Road",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 1926702074
    }
   },
   {
@@ -15496,7 +16457,8 @@
     "streets": [
      "Coyote Valley Road",
      "Underwood Lane"
-    ]
+    ],
+    "nodeId": 1926716508
    }
   },
   {
@@ -15512,7 +16474,8 @@
     "streets": [
      "North Highway",
      "Titus Canyon Road"
-    ]
+    ],
+    "nodeId": 88329233
    }
   },
   {
@@ -15528,7 +16491,8 @@
     "streets": [
      "Furnace Creek Boulevard",
      "Zabriskie Boulevard"
-    ]
+    ],
+    "nodeId": 12990310433
    }
   },
   {
@@ -15544,7 +16508,8 @@
     "streets": [
      "Fall Road",
      "Walker Creek Road"
-    ]
+    ],
+    "nodeId": 88300273
    }
   },
   {
@@ -15560,7 +16525,8 @@
     "streets": [
      "Lake Street",
      "Pine Street"
-    ]
+    ],
+    "nodeId": 2989018400
    }
   },
   {
@@ -15576,7 +16542,8 @@
     "streets": [
      "Goodale Road",
      "Tinemaha Road"
-    ]
+    ],
+    "nodeId": 88411890
    }
   },
   {
@@ -15593,7 +16560,8 @@
      "Black Rock Springs Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "North Coloseum Road"
-    ]
+    ],
+    "nodeId": 2193587799
    }
   },
   {
@@ -15609,7 +16577,8 @@
     "streets": [
      "Fish Hatchery Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88276733
    }
   },
   {
@@ -15625,7 +16594,8 @@
     "streets": [
      "Division Creek Road",
      "Tinemaha Road"
-    ]
+    ],
+    "nodeId": 88415560
    }
   },
   {
@@ -15641,7 +16611,8 @@
     "streets": [
      "Big Pine Dump Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88277156
    }
   },
   {
@@ -15657,7 +16628,8 @@
     "streets": [
      "Sunland Drive",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 88294820
    }
   },
   {
@@ -15673,7 +16645,8 @@
     "streets": [
      "East  Roserwin Lane",
      "North Anderson Way"
-    ]
+    ],
+    "nodeId": 8748945575
    }
   },
   {
@@ -15690,7 +16663,8 @@
      "East Old Spanish Trail Highway",
      "North Anderson Way",
      "South Cheffer Way"
-    ]
+    ],
+    "nodeId": 88156765
    }
   },
   {
@@ -15706,7 +16680,8 @@
     "streets": [
      "East Blessings  Lane",
      "North Anderson Way"
-    ]
+    ],
+    "nodeId": 8748857760
    }
   },
   {
@@ -15722,7 +16697,8 @@
     "streets": [
      "East Crystal Road",
      "North Anderson Way"
-    ]
+    ],
+    "nodeId": 8748945574
    }
   },
   {
@@ -15738,7 +16714,8 @@
     "streets": [
      "East Charleston Lane",
      "South Carpenter Way"
-    ]
+    ],
+    "nodeId": 4366194472
    }
   },
   {
@@ -15754,7 +16731,8 @@
     "streets": [
      "East Charleston Lane",
      "South Owl Way"
-    ]
+    ],
+    "nodeId": 3448752046
    }
   },
   {
@@ -15770,7 +16748,8 @@
     "streets": [
      "East Charleston Lane",
      "South Quail Way"
-    ]
+    ],
+    "nodeId": 4366194471
    }
   },
   {
@@ -15787,7 +16766,8 @@
      "Cheffer Way",
      "East Charleston Lane",
      "South Cheffer Way"
-    ]
+    ],
+    "nodeId": 4366194474
    }
   },
   {
@@ -15804,7 +16784,8 @@
      "East Moon Path Lane",
      "South Rose Way",
      "West Moon Path Lane"
-    ]
+    ],
+    "nodeId": 4366194392
    }
   },
   {
@@ -15820,7 +16801,8 @@
     "streets": [
      "East Arleen Lane",
      "South Rose Way"
-    ]
+    ],
+    "nodeId": 4366193962
    }
   },
   {
@@ -15836,7 +16818,8 @@
     "streets": [
      "East Saith Lane",
      "South Rose Way"
-    ]
+    ],
+    "nodeId": 4366193956
    }
   },
   {
@@ -15852,7 +16835,8 @@
     "streets": [
      "East Nama Lane",
      "South Rose Way"
-    ]
+    ],
+    "nodeId": 4366193951
    }
   },
   {
@@ -15868,7 +16852,8 @@
     "streets": [
      "East Qaqui Avenue",
      "South Rose Way"
-    ]
+    ],
+    "nodeId": 87839169
    }
   },
   {
@@ -15886,7 +16871,8 @@
      "East Bearona Road",
      "Rose Way",
      "South Rose Way"
-    ]
+    ],
+    "nodeId": 87838938
    }
   },
   {
@@ -15903,7 +16889,8 @@
      "East Hall Lane",
      "South Rose Way",
      "West Hall Lane"
-    ]
+    ],
+    "nodeId": 4366194671
    }
   },
   {
@@ -15920,7 +16907,8 @@
      "East Ley Lane",
      "South Rose Way",
      "West Ley Lane"
-    ]
+    ],
+    "nodeId": 4366194623
    }
   },
   {
@@ -15937,7 +16925,8 @@
      "East Faith Lane",
      "South Rose Way",
      "West Faith Lane"
-    ]
+    ],
+    "nodeId": 4366194592
    }
   },
   {
@@ -15954,7 +16943,8 @@
      "East Mabel Lane",
      "South Rose Way",
      "West Mabel Lane"
-    ]
+    ],
+    "nodeId": 4366194438
    }
   },
   {
@@ -15971,7 +16961,8 @@
      "East Shirley Lane",
      "South Rose Way",
      "West Shirley Lane"
-    ]
+    ],
+    "nodeId": 4366194422
    }
   },
   {
@@ -15988,7 +16979,8 @@
      "East Charity Lane",
      "South Rose Way",
      "West Charity Lane"
-    ]
+    ],
+    "nodeId": 4366194406
    }
   },
   {
@@ -16004,7 +16996,8 @@
     "streets": [
      "East Bearona Road",
      "South Owl Way"
-    ]
+    ],
+    "nodeId": 87829112
    }
   },
   {
@@ -16020,7 +17013,8 @@
     "streets": [
      "East Bearona Road",
      "South Poppy Way"
-    ]
+    ],
+    "nodeId": 87829824
    }
   },
   {
@@ -16036,7 +17030,8 @@
     "streets": [
      "East Bearona Road",
      "Quail Way"
-    ]
+    ],
+    "nodeId": 87838951
    }
   },
   {
@@ -16052,7 +17047,8 @@
     "streets": [
      "South Deming Way",
      "West Hall Lane"
-    ]
+    ],
+    "nodeId": 4366194665
    }
   },
   {
@@ -16068,7 +17064,8 @@
     "streets": [
      "South Deming Way",
      "West Ley Lane"
-    ]
+    ],
+    "nodeId": 4366194625
    }
   },
   {
@@ -16084,7 +17081,8 @@
     "streets": [
      "South Deming Way",
      "West Faith Lane"
-    ]
+    ],
+    "nodeId": 4366194594
    }
   },
   {
@@ -16100,7 +17098,8 @@
     "streets": [
      "South Deming Way",
      "West Mabel Lane"
-    ]
+    ],
+    "nodeId": 4366194440
    }
   },
   {
@@ -16116,7 +17115,8 @@
     "streets": [
      "South Deming Way",
      "West Shirley Lane"
-    ]
+    ],
+    "nodeId": 4366194426
    }
   },
   {
@@ -16132,7 +17132,8 @@
     "streets": [
      "South Deming Way",
      "West Charity Lane"
-    ]
+    ],
+    "nodeId": 4366194412
    }
   },
   {
@@ -16148,7 +17149,8 @@
     "streets": [
      "South Deming Way",
      "West Moon Path Lane"
-    ]
+    ],
+    "nodeId": 4366193988
    }
   },
   {
@@ -16164,7 +17166,8 @@
     "streets": [
      "Bearona Road",
      "South Deming Way"
-    ]
+    ],
+    "nodeId": 87838936
    }
   },
   {
@@ -16181,7 +17184,8 @@
      "North Garnet Street",
      "South Purple Sage Way",
      "West Old Spanish Trail Highway"
-    ]
+    ],
+    "nodeId": 87954256
    }
   },
   {
@@ -16197,7 +17201,8 @@
     "streets": [
      "South Purple Sage Way",
      "West Hall Lane"
-    ]
+    ],
+    "nodeId": 4366194672
    }
   },
   {
@@ -16213,7 +17218,8 @@
     "streets": [
      "South Purple Sage Way",
      "West Ley Lane"
-    ]
+    ],
+    "nodeId": 4366194626
    }
   },
   {
@@ -16229,7 +17235,8 @@
     "streets": [
      "South Purple Sage Way",
      "West Faith Lane"
-    ]
+    ],
+    "nodeId": 4366194488
    }
   },
   {
@@ -16245,7 +17252,8 @@
     "streets": [
      "South Purple Sage Way",
      "West Mabel Lane"
-    ]
+    ],
+    "nodeId": 4366194437
    }
   },
   {
@@ -16261,7 +17269,8 @@
     "streets": [
      "South Purple Sage Way",
      "West Shirley Lane"
-    ]
+    ],
+    "nodeId": 4366194420
    }
   },
   {
@@ -16277,7 +17286,8 @@
     "streets": [
      "South Purple Sage Way",
      "West Charity Lane"
-    ]
+    ],
+    "nodeId": 4366194414
    }
   },
   {
@@ -16293,7 +17303,8 @@
     "streets": [
      "South Purple Sage Way",
      "West Moon Path Lane"
-    ]
+    ],
+    "nodeId": 4366194391
    }
   },
   {
@@ -16309,7 +17320,8 @@
     "streets": [
      "South Falcon Way",
      "West Hall Lane"
-    ]
+    ],
+    "nodeId": 4366194670
    }
   },
   {
@@ -16325,7 +17337,8 @@
     "streets": [
      "Hawk Way",
      "West Hall Lane"
-    ]
+    ],
+    "nodeId": 4366194679
    }
   },
   {
@@ -16341,7 +17354,8 @@
     "streets": [
      "Ironwood Way",
      "West Hall Lane"
-    ]
+    ],
+    "nodeId": 4366194669
    }
   },
   {
@@ -16357,7 +17371,8 @@
     "streets": [
      "Ironwood Way",
      "West Charity Lane"
-    ]
+    ],
+    "nodeId": 4366194408
    }
   },
   {
@@ -16373,7 +17388,8 @@
     "streets": [
      "Hawk Way",
      "West Charity Lane"
-    ]
+    ],
+    "nodeId": 4366194409
    }
   },
   {
@@ -16389,7 +17405,8 @@
     "streets": [
      "South Falcon Way",
      "West Charity Lane"
-    ]
+    ],
+    "nodeId": 4366194415
    }
   },
   {
@@ -16405,7 +17422,8 @@
     "streets": [
      "South Falcon Way",
      "West Ley Lane"
-    ]
+    ],
+    "nodeId": 4366194628
    }
   },
   {
@@ -16421,7 +17439,8 @@
     "streets": [
      "Hawk Way",
      "West Ley Lane"
-    ]
+    ],
+    "nodeId": 4366194622
    }
   },
   {
@@ -16437,7 +17456,8 @@
     "streets": [
      "Ironwood Way",
      "West Ley Lane"
-    ]
+    ],
+    "nodeId": 4366194621
    }
   },
   {
@@ -16453,7 +17473,8 @@
     "streets": [
      "South Falcon Way",
      "West Faith Lane"
-    ]
+    ],
+    "nodeId": 4366194589
    }
   },
   {
@@ -16469,7 +17490,8 @@
     "streets": [
      "Hawk Way",
      "West Faith Lane"
-    ]
+    ],
+    "nodeId": 4366194596
    }
   },
   {
@@ -16485,7 +17507,8 @@
     "streets": [
      "Ironwood Way",
      "West Faith Lane"
-    ]
+    ],
+    "nodeId": 4366194597
    }
   },
   {
@@ -16501,7 +17524,8 @@
     "streets": [
      "East Qaqui Avenue",
      "Quail Way"
-    ]
+    ],
+    "nodeId": 4366193946
    }
   },
   {
@@ -16517,7 +17541,8 @@
     "streets": [
      "East Nama Lane",
      "Quail Way"
-    ]
+    ],
+    "nodeId": 4366193952
    }
   },
   {
@@ -16533,7 +17558,8 @@
     "streets": [
      "East Saith Lane",
      "Quail Way"
-    ]
+    ],
+    "nodeId": 4366193960
    }
   },
   {
@@ -16549,7 +17575,8 @@
     "streets": [
      "Quail Way",
      "South Quail Way"
-    ]
+    ],
+    "nodeId": 4366193974
    }
   },
   {
@@ -16565,7 +17592,8 @@
     "streets": [
      "Hawk Way",
      "West Old Spanish Trail Highway"
-    ]
+    ],
+    "nodeId": 87823264
    }
   },
   {
@@ -16581,7 +17609,8 @@
     "streets": [
      "Hawk Way",
      "West Mabel Lane"
-    ]
+    ],
+    "nodeId": 4366194442
    }
   },
   {
@@ -16597,7 +17626,8 @@
     "streets": [
      "Hawk Way",
      "West Shirley Lane"
-    ]
+    ],
+    "nodeId": 4366194419
    }
   },
   {
@@ -16613,7 +17643,8 @@
     "streets": [
      "Hawk Way",
      "West Moon Path Lane"
-    ]
+    ],
+    "nodeId": 4366194390
    }
   },
   {
@@ -16629,7 +17660,8 @@
     "streets": [
      "Bearona Road",
      "Hawk Way"
-    ]
+    ],
+    "nodeId": 87823233
    }
   },
   {
@@ -16645,7 +17677,8 @@
     "streets": [
      "East Qaqui Avenue",
      "South Owl Way"
-    ]
+    ],
+    "nodeId": 4366193944
    }
   },
   {
@@ -16661,7 +17694,8 @@
     "streets": [
      "East Nama Lane",
      "South Owl Way"
-    ]
+    ],
+    "nodeId": 4366193953
    }
   },
   {
@@ -16677,7 +17711,8 @@
     "streets": [
      "East Saith Lane",
      "South Owl Way"
-    ]
+    ],
+    "nodeId": 4366193959
    }
   },
   {
@@ -16693,7 +17728,8 @@
     "streets": [
      "East Arleen Lane",
      "South Owl Way"
-    ]
+    ],
+    "nodeId": 4366193964
    }
   },
   {
@@ -16709,7 +17745,8 @@
     "streets": [
      "East Moon Path Lane",
      "South Owl Way"
-    ]
+    ],
+    "nodeId": 4366194393
    }
   },
   {
@@ -16725,7 +17762,8 @@
     "streets": [
      "East Charity Lane",
      "South Owl Way"
-    ]
+    ],
+    "nodeId": 4366194405
    }
   },
   {
@@ -16741,7 +17779,8 @@
     "streets": [
      "East Shirley Lane",
      "South Owl Way"
-    ]
+    ],
+    "nodeId": 4366194428
    }
   },
   {
@@ -16757,7 +17796,8 @@
     "streets": [
      "East Mabel Lane",
      "South Owl Way"
-    ]
+    ],
+    "nodeId": 4366194435
    }
   },
   {
@@ -16773,7 +17813,8 @@
     "streets": [
      "East Faith Lane",
      "South Owl Way"
-    ]
+    ],
+    "nodeId": 4366194590
    }
   },
   {
@@ -16789,7 +17830,8 @@
     "streets": [
      "East Ley Lane",
      "South Owl Way"
-    ]
+    ],
+    "nodeId": 4366194627
    }
   },
   {
@@ -16805,7 +17847,8 @@
     "streets": [
      "East Hall Lane",
      "South Owl Way"
-    ]
+    ],
+    "nodeId": 4366194673
    }
   },
   {
@@ -16821,7 +17864,8 @@
     "streets": [
      "East Charity Lane",
      "South Carpenter Way"
-    ]
+    ],
+    "nodeId": 4366194404
    }
   },
   {
@@ -16838,7 +17882,8 @@
      "Arleen Lane",
      "East Moon Path Lane",
      "South Carpenter Way"
-    ]
+    ],
+    "nodeId": 4366194394
    }
   },
   {
@@ -16854,7 +17899,8 @@
     "streets": [
      "East Shirley Lane",
      "South Carpenter Way"
-    ]
+    ],
+    "nodeId": 4366194423
    }
   },
   {
@@ -16870,7 +17916,8 @@
     "streets": [
      "East Hall Lane",
      "South Cheffer Way"
-    ]
+    ],
+    "nodeId": 4366194678
    }
   },
   {
@@ -16886,7 +17933,8 @@
     "streets": [
      "East Faith Lane",
      "South Carpenter Way"
-    ]
+    ],
+    "nodeId": 4366194598
    }
   },
   {
@@ -16902,7 +17950,8 @@
     "streets": [
      "East Ley Lane",
      "South Carpenter Way"
-    ]
+    ],
+    "nodeId": 4366194619
    }
   },
   {
@@ -16918,7 +17967,8 @@
     "streets": [
      "East Mabel Lane",
      "South Carpenter Way"
-    ]
+    ],
+    "nodeId": 4366194436
    }
   },
   {
@@ -16935,7 +17985,8 @@
      "Ironwood Way",
      "Quartz Street",
      "West Old Spanish Trail Highway"
-    ]
+    ],
+    "nodeId": 87928213
    }
   },
   {
@@ -16951,7 +18002,8 @@
     "streets": [
      "East Hall Lane",
      "South Carpenter Way"
-    ]
+    ],
+    "nodeId": 4366194666
    }
   },
   {
@@ -16967,7 +18019,8 @@
     "streets": [
      "East Ley Lane",
      "South Cheffer Way"
-    ]
+    ],
+    "nodeId": 4366194629
    }
   },
   {
@@ -16983,7 +18036,8 @@
     "streets": [
      "East Saith Lane",
      "South Capenter Way"
-    ]
+    ],
+    "nodeId": 4366193958
    }
   },
   {
@@ -16999,7 +18053,8 @@
     "streets": [
      "Cheffer Way",
      "East Mabel Lane"
-    ]
+    ],
+    "nodeId": 4366194444
    }
   },
   {
@@ -17015,7 +18070,8 @@
     "streets": [
      "East Saith Lane",
      "South Poppy Way"
-    ]
+    ],
+    "nodeId": 4366193957
    }
   },
   {
@@ -17032,7 +18088,8 @@
      "Arleen Lane",
      "East Arleen Lane",
      "South Capenter Way"
-    ]
+    ],
+    "nodeId": 4366193965
    }
   },
   {
@@ -17048,7 +18105,8 @@
     "streets": [
      "East Qaqui Avenue",
      "South Poppy Way"
-    ]
+    ],
+    "nodeId": 4366193945
    }
   },
   {
@@ -17064,7 +18122,8 @@
     "streets": [
      "East Nama Lane",
      "South Poppy Way"
-    ]
+    ],
+    "nodeId": 4366193954
    }
   },
   {
@@ -17080,7 +18139,8 @@
     "streets": [
      "East Nama Lane",
      "South Capenter Way"
-    ]
+    ],
+    "nodeId": 4366193950
    }
   },
   {
@@ -17096,7 +18156,8 @@
     "streets": [
      "Cheffer Way",
      "East Charity Lane"
-    ]
+    ],
+    "nodeId": 4366194407
    }
   },
   {
@@ -17112,7 +18173,8 @@
     "streets": [
      "East Charity Lane",
      "South Quail Way"
-    ]
+    ],
+    "nodeId": 4366194410
    }
   },
   {
@@ -17128,7 +18190,8 @@
     "streets": [
      "East Faith Lane",
      "South Quail Way"
-    ]
+    ],
+    "nodeId": 4366194600
    }
   },
   {
@@ -17144,7 +18207,8 @@
     "streets": [
      "East Ley Lane",
      "South Quail Way"
-    ]
+    ],
+    "nodeId": 4366194632
    }
   },
   {
@@ -17160,7 +18224,8 @@
     "streets": [
      "East Qaqui Avenue",
      "South Capenter Way"
-    ]
+    ],
+    "nodeId": 4366193947
    }
   },
   {
@@ -17176,7 +18241,8 @@
     "streets": [
      "East Hall Lane",
      "South Quail Way"
-    ]
+    ],
+    "nodeId": 4366194675
    }
   },
   {
@@ -17192,7 +18258,8 @@
     "streets": [
      "Cheffer Way",
      "East Moon Path Lane"
-    ]
+    ],
+    "nodeId": 4366194399
    }
   },
   {
@@ -17208,7 +18275,8 @@
     "streets": [
      "Cheffer Way",
      "East Shirley Lane"
-    ]
+    ],
+    "nodeId": 4366194430
    }
   },
   {
@@ -17224,7 +18292,8 @@
     "streets": [
      "East Shirley Lane",
      "South Quail Way"
-    ]
+    ],
+    "nodeId": 4366194431
    }
   },
   {
@@ -17240,7 +18309,8 @@
     "streets": [
      "East Moon Path Lane",
      "South Quail Way"
-    ]
+    ],
+    "nodeId": 4366194396
    }
   },
   {
@@ -17256,7 +18326,8 @@
     "streets": [
      "East Moon Path Lane",
      "Poppy Road"
-    ]
+    ],
+    "nodeId": 4366193985
    }
   },
   {
@@ -17272,7 +18343,8 @@
     "streets": [
      "Poppy Road",
      "South Poppy Way"
-    ]
+    ],
+    "nodeId": 4366193972
    }
   },
   {
@@ -17288,7 +18360,8 @@
     "streets": [
      "Ironwood Way",
      "West Mabel Lane"
-    ]
+    ],
+    "nodeId": 4366194447
    }
   },
   {
@@ -17304,7 +18377,8 @@
     "streets": [
      "Ironwood Way",
      "West Shirley Lane"
-    ]
+    ],
+    "nodeId": 4366194427
    }
   },
   {
@@ -17320,7 +18394,8 @@
     "streets": [
      "Ironwood Way",
      "West Moon Path Lane"
-    ]
+    ],
+    "nodeId": 4366193986
    }
   },
   {
@@ -17336,7 +18411,8 @@
     "streets": [
      "East Old Spanish Trail Highway",
      "South Carpenter Way"
-    ]
+    ],
+    "nodeId": 88206544
    }
   },
   {
@@ -17352,7 +18428,8 @@
     "streets": [
      "South Falcon Way",
      "West Mabel Lane"
-    ]
+    ],
+    "nodeId": 4366194434
    }
   },
   {
@@ -17368,7 +18445,8 @@
     "streets": [
      "South Falcon Way",
      "West Moon Path Lane"
-    ]
+    ],
+    "nodeId": 4366193984
    }
   },
   {
@@ -17384,7 +18462,8 @@
     "streets": [
      "South Falcon Way",
      "West Shirley Lane"
-    ]
+    ],
+    "nodeId": 4366194421
    }
   },
   {
@@ -17400,7 +18479,8 @@
     "streets": [
      "South Falcon Way",
      "West Old Spanish Trail Highway"
-    ]
+    ],
+    "nodeId": 87958901
    }
   },
   {
@@ -17416,7 +18496,8 @@
     "streets": [
      "Dixon Lane",
      "Grand Army of the Republic Highway;US 6"
-    ]
+    ],
+    "nodeId": 1926356786
    }
   },
   {
@@ -17432,7 +18513,8 @@
     "streets": [
      "Owen River",
      "Pleasant Valley Dam Road"
-    ]
+    ],
+    "nodeId": 376295835
    }
   },
   {
@@ -17448,7 +18530,8 @@
     "streets": [
      "Gorge Road",
      "Owen River"
-    ]
+    ],
+    "nodeId": 3900714380
    }
   },
   {
@@ -17464,7 +18547,8 @@
     "streets": [
      "Badwater Road",
      "Desolation Canyon Road"
-    ]
+    ],
+    "nodeId": 88259549
    }
   },
   {
@@ -17480,7 +18564,8 @@
     "streets": [
      "Greenland Boulevard",
      "Highway 190;CA 190"
-    ]
+    ],
+    "nodeId": 88286520
    }
   },
   {
@@ -17496,7 +18581,8 @@
     "streets": [
      "Badwater Road",
      "Highway 190;CA 190"
-    ]
+    ],
+    "nodeId": 88259274
    }
   },
   {
@@ -17512,7 +18598,8 @@
     "streets": [
      "Badwater Road",
      "Natural Bridge Road"
-    ]
+    ],
+    "nodeId": 88284941
    }
   },
   {
@@ -17528,7 +18615,8 @@
     "streets": [
      "North Sierra Highway;US 395",
      "Wye Road"
-    ]
+    ],
+    "nodeId": 1959496183
    }
   },
   {
@@ -17544,7 +18632,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "North Sierra Highway;US 395"
-    ]
+    ],
+    "nodeId": 4604376824
    }
   },
   {
@@ -17560,7 +18649,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "North Pa-Ha Lane"
-    ]
+    ],
+    "nodeId": 88308416
    }
   },
   {
@@ -17576,7 +18666,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "Rocking W Drive"
-    ]
+    ],
+    "nodeId": 88342187
    }
   },
   {
@@ -17592,7 +18683,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "Sawmill Road"
-    ]
+    ],
+    "nodeId": 88277656
    }
   },
   {
@@ -17608,7 +18700,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "Pine Creek Road"
-    ]
+    ],
+    "nodeId": 376298342
    }
   },
   {
@@ -17624,7 +18717,8 @@
     "streets": [
      "El Camino Sierra;US 395;CA 168;US 6 Hist",
      "South Main Street;US 395;CA 168;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88340680
    }
   },
   {
@@ -17642,7 +18736,8 @@
      "North Main Street;US 395;US 6 Hist",
      "South Main Street;US 395;CA 168;US 6 Hist",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 2457002196
    }
   },
   {
@@ -17658,7 +18753,8 @@
     "streets": [
      "Church Street",
      "North Main Street;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88342768
    }
   },
   {
@@ -17674,7 +18770,8 @@
     "streets": [
      "Ed Powers Road",
      "El Camino Sierra;US 395"
-    ]
+    ],
+    "nodeId": 4814084645
    }
   },
   {
@@ -17690,7 +18787,8 @@
     "streets": [
      "Gill Station Coso Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 150945592
    }
   },
   {
@@ -17706,7 +18804,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Sykes Road"
-    ]
+    ],
+    "nodeId": 88178919
    }
   },
   {
@@ -17722,7 +18821,8 @@
     "streets": [
      "Crystal Geyser Road",
      "Old U.S. Route 395;US Route 395 Business"
-    ]
+    ],
+    "nodeId": 4816415635
    }
   },
   {
@@ -17738,7 +18838,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;CA 168;US 6 Hist",
      "Reynolds Road"
-    ]
+    ],
+    "nodeId": 88277977
    }
   },
   {
@@ -17755,7 +18856,8 @@
      "Collins Road",
      "El Camino Sierra;US 395;CA 168;US 6 Hist",
      "Grand Army of the Republic Highway;US 395;CA 168;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88257128
    }
   },
   {
@@ -17771,7 +18873,8 @@
     "streets": [
      "Collins Road",
      "County Road"
-    ]
+    ],
+    "nodeId": 88257125
    }
   },
   {
@@ -17788,7 +18891,8 @@
      "North Warren Street",
      "South Warren Street",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 88353947
    }
   },
   {
@@ -17804,7 +18908,8 @@
     "streets": [
      "Academy Avenue",
      "North Fowler Street"
-    ]
+    ],
+    "nodeId": 88328401
    }
   },
   {
@@ -17820,7 +18925,8 @@
     "streets": [
      "East Line Street",
      "Poleta Road"
-    ]
+    ],
+    "nodeId": 88300304
    }
   },
   {
@@ -17836,7 +18942,8 @@
     "streets": [
      "North Main Street;US 395;US 6 Hist",
      "West Pine Street"
-    ]
+    ],
+    "nodeId": 11385938203
    }
   },
   {
@@ -17852,7 +18959,8 @@
     "streets": [
      "Apache Drive",
      "Sioux Street"
-    ]
+    ],
+    "nodeId": 88300775
    }
   },
   {
@@ -17868,7 +18976,8 @@
     "streets": [
      "Saline Valley Road;S3085",
      "Saline Valley Road;S3099"
-    ]
+    ],
+    "nodeId": 318417428
    }
   },
   {
@@ -17884,7 +18993,8 @@
     "streets": [
      "CA 190",
      "Stovepipe Wells Concessions Campground Road;230"
-    ]
+    ],
+    "nodeId": 88178452
    }
   },
   {
@@ -17900,7 +19010,8 @@
     "streets": [
      "Furnace Creek Road;AR046",
      "Mesquite Valley Road"
-    ]
+    ],
+    "nodeId": 88296667
    }
   },
   {
@@ -17916,7 +19027,8 @@
     "streets": [
      "Clarke Street",
      "South 3rd Street"
-    ]
+    ],
+    "nodeId": 88294207
    }
   },
   {
@@ -17932,7 +19044,8 @@
     "streets": [
      "Grove Street",
      "North Fowler Street"
-    ]
+    ],
+    "nodeId": 88378094
    }
   },
   {
@@ -17948,7 +19061,8 @@
     "streets": [
      "North Fowler Street",
      "West Elm Street"
-    ]
+    ],
+    "nodeId": 88266189
    }
   },
   {
@@ -17964,7 +19078,8 @@
     "streets": [
      "Stovepipe Wells Concessions Campground Road;230",
      "Stovepipe Wells Landing Strip Road;230"
-    ]
+    ],
+    "nodeId": 88178459
    }
   },
   {
@@ -17980,7 +19095,8 @@
     "streets": [
      "East Bearona Road",
      "South Capenter Way"
-    ]
+    ],
+    "nodeId": 87838942
    }
   },
   {
@@ -17996,7 +19112,8 @@
     "streets": [
      "Death Valley Road;CA 127",
      "Stella Lane"
-    ]
+    ],
+    "nodeId": 8870899513
    }
   },
   {
@@ -18012,7 +19129,8 @@
     "streets": [
      "Death Valley Road;CA 127",
      "Old Fox Ranch Road"
-    ]
+    ],
+    "nodeId": 8870931128
    }
   },
   {
@@ -18028,7 +19146,8 @@
     "streets": [
      "Ekenberg Road",
      "Long Road"
-    ]
+    ],
+    "nodeId": 8871315286
    }
   },
   {
@@ -18044,7 +19163,8 @@
     "streets": [
      "Ekenberg Road",
      "Rosemary Lane"
-    ]
+    ],
+    "nodeId": 8871393622
    }
   },
   {
@@ -18061,7 +19181,8 @@
      "Anthony Street",
      "Ophir Road",
      "Southeast First Street"
-    ]
+    ],
+    "nodeId": 9024447027
    }
   },
   {
@@ -18077,7 +19198,8 @@
     "streets": [
      "East Market Street",
      "Market Street"
-    ]
+    ],
+    "nodeId": 9024461291
    }
   },
   {
@@ -18094,7 +19216,8 @@
      "Charles Brown Highway;CA 178",
      "Death Valley Road;CA 127",
      "Death Valley Road;CA 127;CA 178"
-    ]
+    ],
+    "nodeId": 87866715
    }
   },
   {
@@ -18110,7 +19233,8 @@
     "streets": [
      "Whitney Portal Road",
      "Whitney Vista Drive"
-    ]
+    ],
+    "nodeId": 9181548388
    }
   },
   {
@@ -18126,7 +19250,8 @@
     "streets": [
      "Mount Langley Lane",
      "Whitney Vista Drive"
-    ]
+    ],
+    "nodeId": 9181548404
    }
   },
   {
@@ -18142,7 +19267,8 @@
     "streets": [
      "Valley View Drive",
      "Whitney Portal Road"
-    ]
+    ],
+    "nodeId": 88226806
    }
   },
   {
@@ -18158,7 +19284,8 @@
     "streets": [
      "Mount Langley Lane",
      "Valley View Drive"
-    ]
+    ],
+    "nodeId": 9181548422
    }
   },
   {
@@ -18174,7 +19301,8 @@
     "streets": [
      "Death Valley Road;CA 127",
      "Furnace Creek Wash Road;AR125"
-    ]
+    ],
+    "nodeId": 88330927
    }
   },
   {
@@ -18190,7 +19318,8 @@
     "streets": [
      "South Main Street;US 395;US 6 Hist",
      "Whitney Portal Road"
-    ]
+    ],
+    "nodeId": 88340896
    }
   },
   {
@@ -18206,7 +19335,8 @@
     "streets": [
      "South Main Street;US 395;US 6 Hist",
      "Tim Holt Street"
-    ]
+    ],
+    "nodeId": 88340905
    }
   },
   {
@@ -18222,7 +19352,8 @@
     "streets": [
      "Walker Creek Road",
      "Walker Creek Road;BLM SE741"
-    ]
+    ],
+    "nodeId": 88300274
    }
   },
   {
@@ -18238,7 +19369,8 @@
     "streets": [
      "Shop Street",
      "Walker Creek Road;BLM SE741"
-    ]
+    ],
+    "nodeId": 87877374
    }
   },
   {
@@ -18254,7 +19386,8 @@
     "streets": [
      "Horseshoe Meadows Road",
      "Lubken Canyon Road"
-    ]
+    ],
+    "nodeId": 12231008863
    }
   },
   {
@@ -18270,7 +19403,8 @@
     "streets": [
      "Dunmovin",
      "Graham Lane"
-    ]
+    ],
+    "nodeId": 9262512523
    }
   },
   {
@@ -18286,7 +19420,8 @@
     "streets": [
      "Meadow Lane",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 88369947
    }
   },
   {
@@ -18302,7 +19437,8 @@
     "streets": [
      "Owens Street",
      "South Mojave Street"
-    ]
+    ],
+    "nodeId": 2574002473
    }
   },
   {
@@ -18318,7 +19454,8 @@
     "streets": [
      "Lubken Canyon Road",
      "Tuttle Creek Road"
-    ]
+    ],
+    "nodeId": 87852046
    }
   },
   {
@@ -18334,7 +19471,8 @@
     "streets": [
      "Dante's Drive",
      "Greenland Boulevard"
-    ]
+    ],
+    "nodeId": 88280761
    }
   },
   {
@@ -18350,7 +19488,8 @@
     "streets": [
      "Elm Street",
      "South Clay Street"
-    ]
+    ],
+    "nodeId": 87767233
    }
   },
   {
@@ -18366,7 +19505,8 @@
     "streets": [
      "Crockett Street",
      "Elm Street"
-    ]
+    ],
+    "nodeId": 10063032969
    }
   },
   {
@@ -18382,7 +19522,8 @@
     "streets": [
      "CA 168",
      "South Lake Road"
-    ]
+    ],
+    "nodeId": 88354154
    }
   },
   {
@@ -18398,7 +19539,8 @@
     "streets": [
      "Death Valley - Big Pine Road",
      "North Eureka Valley Road"
-    ]
+    ],
+    "nodeId": 87761089
    }
   },
   {
@@ -18414,7 +19556,8 @@
     "streets": [
      "Buttermilk Road",
      "CA 168"
-    ]
+    ],
+    "nodeId": 2131800864
    }
   },
   {
@@ -18431,7 +19574,8 @@
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Lake Street",
      "Lake Street;US Route 395 Business"
-    ]
+    ],
+    "nodeId": 12170343828
    }
   },
   {
@@ -18447,7 +19591,8 @@
     "streets": [
      "Death Valley - Big Pine Road",
      "Death Valley - Big Pine Road;FR 9S18"
-    ]
+    ],
+    "nodeId": 4469605587
    }
   },
   {
@@ -18463,7 +19608,8 @@
     "streets": [
      "Death Valley - Big Pine Road",
      "Death Valley - Big Pine Road;FR 9S18"
-    ]
+    ],
+    "nodeId": 87760480
    }
   },
   {
@@ -18479,7 +19625,8 @@
     "streets": [
      "East Pavilion Street",
      "South Clay Street"
-    ]
+    ],
+    "nodeId": 87767223
    }
   },
   {
@@ -18495,7 +19642,8 @@
     "streets": [
      "East Pavilion Street",
      "South Clay Street"
-    ]
+    ],
+    "nodeId": 87767227
    }
   },
   {
@@ -18511,7 +19659,8 @@
     "streets": [
      "Butte Valley Road",
      "West Side Road"
-    ]
+    ],
+    "nodeId": 87839269
    }
   },
   {
@@ -18527,7 +19676,8 @@
     "streets": [
      "Butte Valley Road",
      "West Side Road"
-    ]
+    ],
+    "nodeId": 9342576566
    }
   },
   {
@@ -18543,7 +19693,8 @@
     "streets": [
      "Glenwood Lane",
      "Matlick Lane"
-    ]
+    ],
+    "nodeId": 87950618
    }
   },
   {
@@ -18559,7 +19710,8 @@
     "streets": [
      "Glenwood Lane",
      "Matlick Lane"
-    ]
+    ],
+    "nodeId": 88307411
    }
   },
   {
@@ -18575,7 +19727,8 @@
     "streets": [
      "Glenwood Lane",
      "Matlick Lane"
-    ]
+    ],
+    "nodeId": 88307389
    }
   },
   {
@@ -18591,7 +19744,8 @@
     "streets": [
      "Harmony Borax Road",
      "Highway 190;CA 190"
-    ]
+    ],
+    "nodeId": 87974266
    }
   },
   {
@@ -18607,7 +19761,8 @@
     "streets": [
      "Harmony Borax Road",
      "Highway 190;CA 190"
-    ]
+    ],
+    "nodeId": 88378103
    }
   },
   {
@@ -18623,7 +19778,8 @@
     "streets": [
      "Mesquite Valley Road",
      "Smith Talc Road"
-    ]
+    ],
+    "nodeId": 88102689
    }
   },
   {
@@ -18639,7 +19795,8 @@
     "streets": [
      "Mesquite Valley Road",
      "Smith Talc Road"
-    ]
+    ],
+    "nodeId": 88261206
    }
   },
   {
@@ -18655,7 +19812,8 @@
     "streets": [
      "Badwater Road",
      "West Side Road"
-    ]
+    ],
+    "nodeId": 88116492
    }
   },
   {
@@ -18671,7 +19829,8 @@
     "streets": [
      "Badwater Road",
      "West Side Road"
-    ]
+    ],
+    "nodeId": 88350540
    }
   },
   {
@@ -18687,7 +19846,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Moffat Ranch Road"
-    ]
+    ],
+    "nodeId": 294557122
    }
   },
   {
@@ -18703,7 +19863,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Moffat Ranch Road"
-    ]
+    ],
+    "nodeId": 87808247
    }
   },
   {
@@ -18719,7 +19880,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "Mill Creek Road"
-    ]
+    ],
+    "nodeId": 376295689
    }
   },
   {
@@ -18735,7 +19897,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Haiwee Reservoir Road"
-    ]
+    ],
+    "nodeId": 87863224
    }
   },
   {
@@ -18751,7 +19914,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Haiwee Reservoir Road"
-    ]
+    ],
+    "nodeId": 88251325
    }
   },
   {
@@ -18767,7 +19931,8 @@
     "streets": [
      "North Brewery Street",
      "West Bush Street"
-    ]
+    ],
+    "nodeId": 88254399
    }
   },
   {
@@ -18783,7 +19948,8 @@
     "streets": [
      "North Brewery Street",
      "West Bush Street"
-    ]
+    ],
+    "nodeId": 88254400
    }
   },
   {
@@ -18799,7 +19965,8 @@
     "streets": [
      "Artists Drive Scenic Loop",
      "Badwater Road"
-    ]
+    ],
+    "nodeId": 88254436
    }
   },
   {
@@ -18815,7 +19982,8 @@
     "streets": [
      "Artists Drive Scenic Loop",
      "Badwater Road"
-    ]
+    ],
+    "nodeId": 88255372
    }
   },
   {
@@ -18831,7 +19999,8 @@
     "streets": [
      "Duderanch Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 2193572435
    }
   },
   {
@@ -18847,7 +20016,8 @@
     "streets": [
      "Duderanch Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88256463
    }
   },
   {
@@ -18863,7 +20033,8 @@
     "streets": [
      "Agape Circle",
      "Collins Road"
-    ]
+    ],
+    "nodeId": 88257106
    }
   },
   {
@@ -18879,7 +20050,8 @@
     "streets": [
      "Agape Circle",
      "Collins Road"
-    ]
+    ],
+    "nodeId": 88257111
    }
   },
   {
@@ -18895,7 +20067,8 @@
     "streets": [
      "East Yaney Street",
      "Hanby Avenue"
-    ]
+    ],
+    "nodeId": 1922760988
    }
   },
   {
@@ -18911,7 +20084,8 @@
     "streets": [
      "East Yaney Street",
      "Hanby Avenue"
-    ]
+    ],
+    "nodeId": 88128679
    }
   },
   {
@@ -18927,7 +20101,8 @@
     "streets": [
      "East Birch Street",
      "Grandview Drive"
-    ]
+    ],
+    "nodeId": 88260530
    }
   },
   {
@@ -18943,7 +20118,8 @@
     "streets": [
      "East Birch Street",
      "Grandview Drive"
-    ]
+    ],
+    "nodeId": 88260531
    }
   },
   {
@@ -18959,7 +20135,8 @@
     "streets": [
      "Alley Alley",
      "Glenwood Lane"
-    ]
+    ],
+    "nodeId": 88268648
    }
   },
   {
@@ -18975,7 +20152,8 @@
     "streets": [
      "Alley Alley",
      "Glenwood Lane"
-    ]
+    ],
+    "nodeId": 88268660
    }
   },
   {
@@ -18991,7 +20169,8 @@
     "streets": [
      "Alley Alley",
      "Matlick Lane"
-    ]
+    ],
+    "nodeId": 88268654
    }
   },
   {
@@ -19007,7 +20186,8 @@
     "streets": [
      "Alley Alley",
      "Matlick Lane"
-    ]
+    ],
+    "nodeId": 88268662
    }
   },
   {
@@ -19023,7 +20203,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "West Dusty Lane"
-    ]
+    ],
+    "nodeId": 88275537
    }
   },
   {
@@ -19039,7 +20220,8 @@
     "streets": [
      "Fort Independence Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88275530
    }
   },
   {
@@ -19055,7 +20237,8 @@
     "streets": [
      "Fort Independence Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 2193503285
    }
   },
   {
@@ -19071,7 +20254,8 @@
     "streets": [
      "Fort Independence Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88275594
    }
   },
   {
@@ -19087,7 +20271,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Tinemaha Road"
-    ]
+    ],
+    "nodeId": 88276813
    }
   },
   {
@@ -19103,7 +20288,8 @@
     "streets": [
      "Cottonwood Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88279890
    }
   },
   {
@@ -19119,7 +20305,8 @@
     "streets": [
      "Bartlett Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88279827
    }
   },
   {
@@ -19135,7 +20322,8 @@
     "streets": [
      "Aberdeen Station Road",
      "Old Highway 395"
-    ]
+    ],
+    "nodeId": 88280955
    }
   },
   {
@@ -19151,7 +20339,8 @@
     "streets": [
      "Aberdeen Station Road",
      "Old Highway 395"
-    ]
+    ],
+    "nodeId": 88280956
    }
   },
   {
@@ -19167,7 +20356,8 @@
     "streets": [
      "Aberdeen Station Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 2193540259
    }
   },
   {
@@ -19183,7 +20373,8 @@
     "streets": [
      "Highway 190;CA 190",
      "Twenty Mule Team Canyon Road;502"
-    ]
+    ],
+    "nodeId": 88286187
    }
   },
   {
@@ -19199,7 +20390,8 @@
     "streets": [
      "Highway 190;CA 190",
      "Twenty Mule Team Canyon Road;502"
-    ]
+    ],
+    "nodeId": 88286469
    }
   },
   {
@@ -19215,7 +20407,8 @@
     "streets": [
      "Gerkin Road",
      "Lucas Road"
-    ]
+    ],
+    "nodeId": 88269306
    }
   },
   {
@@ -19231,7 +20424,8 @@
     "streets": [
      "Gerkin Road",
      "Lucas Road"
-    ]
+    ],
+    "nodeId": 88269297
    }
   },
   {
@@ -19247,7 +20441,8 @@
     "streets": [
      "El Camino Sierra;US 395",
      "Gorge Road"
-    ]
+    ],
+    "nodeId": 88276657
    }
   },
   {
@@ -19263,7 +20458,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 6",
      "Rudolph Road"
-    ]
+    ],
+    "nodeId": 88257429
    }
   },
   {
@@ -19279,7 +20475,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 6",
      "Rudolph Road"
-    ]
+    ],
+    "nodeId": 88257426
    }
   },
   {
@@ -19295,7 +20492,8 @@
     "streets": [
      "Dump Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 2193482704
    }
   },
   {
@@ -19311,7 +20509,8 @@
     "streets": [
      "Dump Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 2193482629
    }
   },
   {
@@ -19327,7 +20526,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Pearson Road"
-    ]
+    ],
+    "nodeId": 88276400
    }
   },
   {
@@ -19343,7 +20543,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Pearson Road"
-    ]
+    ],
+    "nodeId": 87805053
    }
   },
   {
@@ -19359,7 +20560,8 @@
     "streets": [
      "Saniger Lane",
      "Shoshone Drive"
-    ]
+    ],
+    "nodeId": 88297927
    }
   },
   {
@@ -19375,7 +20577,8 @@
     "streets": [
      "Saniger Lane",
      "Shoshone Drive"
-    ]
+    ],
+    "nodeId": 88298061
    }
   },
   {
@@ -19391,7 +20594,8 @@
     "streets": [
      "Mountain View Road",
      "Ranch Road"
-    ]
+    ],
+    "nodeId": 88299422
    }
   },
   {
@@ -19407,7 +20611,8 @@
     "streets": [
      "Mountain View Road",
      "Ranch Road"
-    ]
+    ],
+    "nodeId": 88299428
    }
   },
   {
@@ -19423,7 +20628,8 @@
     "streets": [
      "Kellogg Street",
      "Lasky Lane"
-    ]
+    ],
+    "nodeId": 2433665223
    }
   },
   {
@@ -19439,7 +20645,8 @@
     "streets": [
      "Kellogg Street",
      "Lasky Lane"
-    ]
+    ],
+    "nodeId": 88254348
    }
   },
   {
@@ -19455,7 +20662,8 @@
     "streets": [
      "Rocking K Road",
      "Running Iron Road"
-    ]
+    ],
+    "nodeId": 88303900
    }
   },
   {
@@ -19471,7 +20679,8 @@
     "streets": [
      "Rocking K Road",
      "Running Iron Road"
-    ]
+    ],
+    "nodeId": 88303933
    }
   },
   {
@@ -19487,7 +20696,8 @@
     "streets": [
      "Gentry Road",
      "Old Spanish Trail Highway"
-    ]
+    ],
+    "nodeId": 88298791
    }
   },
   {
@@ -19503,7 +20713,8 @@
     "streets": [
      "Gentry Road",
      "Old Spanish Trail Highway"
-    ]
+    ],
+    "nodeId": 88298802
    }
   },
   {
@@ -19519,7 +20730,8 @@
     "streets": [
      "Talc City Cutoff",
      "Talc City Road"
-    ]
+    ],
+    "nodeId": 9231688351
    }
   },
   {
@@ -19535,7 +20747,8 @@
     "streets": [
      "Talc City Cutoff",
      "Talc City Road"
-    ]
+    ],
+    "nodeId": 88325145
    }
   },
   {
@@ -19551,7 +20764,8 @@
     "streets": [
      "North Round Valley Road",
      "Pine Creek Road"
-    ]
+    ],
+    "nodeId": 88332846
    }
   },
   {
@@ -19567,7 +20781,8 @@
     "streets": [
      "North Round Valley Road",
      "Pine Creek Road"
-    ]
+    ],
+    "nodeId": 88332848
    }
   },
   {
@@ -19583,7 +20798,8 @@
     "streets": [
      "Noonday Street",
      "Sundown Street"
-    ]
+    ],
+    "nodeId": 88334808
    }
   },
   {
@@ -19599,7 +20815,8 @@
     "streets": [
      "Noonday Street",
      "Sundown Street"
-    ]
+    ],
+    "nodeId": 88002727
    }
   },
   {
@@ -19615,7 +20832,8 @@
     "streets": [
      "East Post Street",
      "South Lake View Street"
-    ]
+    ],
+    "nodeId": 88350616
    }
   },
   {
@@ -19631,7 +20849,8 @@
     "streets": [
      "East Post Street",
      "South Lake View Street"
-    ]
+    ],
+    "nodeId": 88350619
    }
   },
   {
@@ -19647,7 +20866,8 @@
     "streets": [
      "Cheyenne Drive",
      "Shoshone Drive"
-    ]
+    ],
+    "nodeId": 88350638
    }
   },
   {
@@ -19663,7 +20883,8 @@
     "streets": [
      "Cheyenne Drive",
      "Shoshone Drive"
-    ]
+    ],
+    "nodeId": 88350650
    }
   },
   {
@@ -19679,7 +20900,8 @@
     "streets": [
      "CA 136",
      "Dolomite Loop"
-    ]
+    ],
+    "nodeId": 88336366
    }
   },
   {
@@ -19695,7 +20917,8 @@
     "streets": [
      "CA 136",
      "Dolomite Loop"
-    ]
+    ],
+    "nodeId": 88336448
    }
   },
   {
@@ -19711,7 +20934,8 @@
     "streets": [
      "Death Valley Road;CA 127;CA 178",
      "Old State Highway"
-    ]
+    ],
+    "nodeId": 88331100
    }
   },
   {
@@ -19727,7 +20951,8 @@
     "streets": [
      "Death Valley Road;CA 127;CA 178",
      "Old State Highway"
-    ]
+    ],
+    "nodeId": 88331113
    }
   },
   {
@@ -19743,7 +20968,8 @@
     "streets": [
      "East Pine Street",
      "North 3rd Street"
-    ]
+    ],
+    "nodeId": 88356969
    }
   },
   {
@@ -19759,7 +20985,8 @@
     "streets": [
      "East Pine Street",
      "North 3rd Street"
-    ]
+    ],
+    "nodeId": 88356970
    }
   },
   {
@@ -19775,7 +21002,8 @@
     "streets": [
      "Cerro Gordo Street",
      "Old State Highway"
-    ]
+    ],
+    "nodeId": 88296605
    }
   },
   {
@@ -19791,7 +21019,8 @@
     "streets": [
      "Cerro Gordo Street",
      "Old State Highway"
-    ]
+    ],
+    "nodeId": 88095386
    }
   },
   {
@@ -19807,7 +21036,8 @@
     "streets": [
      "Moffat Ranch Road",
      "Moffat Road"
-    ]
+    ],
+    "nodeId": 88406610
    }
   },
   {
@@ -19823,7 +21053,8 @@
     "streets": [
      "Moffat Ranch Road",
      "Moffat Road"
-    ]
+    ],
+    "nodeId": 88118807
    }
   },
   {
@@ -19839,7 +21070,8 @@
     "streets": [
      "Reynolds Road",
      "Terrace Drive"
-    ]
+    ],
+    "nodeId": 376285823
    }
   },
   {
@@ -19855,7 +21087,8 @@
     "streets": [
      "Reynolds Road",
      "Terrace Drive"
-    ]
+    ],
+    "nodeId": 88393544
    }
   },
   {
@@ -19871,7 +21104,8 @@
     "streets": [
      "Fish Springs Road",
      "Tinemaha Road"
-    ]
+    ],
+    "nodeId": 88397496
    }
   },
   {
@@ -19887,7 +21121,8 @@
     "streets": [
      "Fish Springs Road",
      "Tinemaha Road"
-    ]
+    ],
+    "nodeId": 88397522
    }
   },
   {
@@ -19903,7 +21138,8 @@
     "streets": [
      "Fish Springs Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88277052
    }
   },
   {
@@ -19919,7 +21155,8 @@
     "streets": [
      "Fish Springs Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 2193573812
    }
   },
   {
@@ -19935,7 +21172,8 @@
     "streets": [
      "East Center Street",
      "North Jackson Street"
-    ]
+    ],
+    "nodeId": 88398708
    }
   },
   {
@@ -19951,7 +21189,8 @@
     "streets": [
      "East Center Street",
      "North Jackson Street"
-    ]
+    ],
+    "nodeId": 88398710
    }
   },
   {
@@ -19967,7 +21206,8 @@
     "streets": [
      "Noonday Street",
      "Tecopa Hot Springs Road"
-    ]
+    ],
+    "nodeId": 88401920
    }
   },
   {
@@ -19983,7 +21223,8 @@
     "streets": [
      "Noonday Street",
      "Tecopa Hot Springs Road"
-    ]
+    ],
+    "nodeId": 88404451
    }
   },
   {
@@ -19999,7 +21240,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Little Lake Road"
-    ]
+    ],
+    "nodeId": 4583951821
    }
   },
   {
@@ -20015,7 +21257,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Little Lake Road"
-    ]
+    ],
+    "nodeId": 88279350
    }
   },
   {
@@ -20031,7 +21274,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Little Lake Road"
-    ]
+    ],
+    "nodeId": 87954296
    }
   },
   {
@@ -20047,7 +21291,8 @@
     "streets": [
      "Bruce Street",
      "Park Avenue"
-    ]
+    ],
+    "nodeId": 88254368
    }
   },
   {
@@ -20063,7 +21308,8 @@
     "streets": [
      "Bruce Street",
      "Park Avenue"
-    ]
+    ],
+    "nodeId": 1922760999
    }
   },
   {
@@ -20079,7 +21325,8 @@
     "streets": [
      "Goodale Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 87767767
    }
   },
   {
@@ -20095,7 +21342,8 @@
     "streets": [
      "Ash Meadows Road",
      "Bell Vista Road"
-    ]
+    ],
+    "nodeId": 1847310344
    }
   },
   {
@@ -20111,7 +21359,8 @@
     "streets": [
      "Ash Meadows Road",
      "Bell Vista Road"
-    ]
+    ],
+    "nodeId": 141016921
    }
   },
   {
@@ -20127,7 +21376,8 @@
     "streets": [
      "Cinder Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88256438
    }
   },
   {
@@ -20143,7 +21393,8 @@
     "streets": [
      "Cinder Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88256436
    }
   },
   {
@@ -20159,7 +21410,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Old U.S. Route 395;CA 190;US Route 395 Business"
-    ]
+    ],
+    "nodeId": 11843340269
    }
   },
   {
@@ -20175,7 +21427,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Old U.S. Route 395;CA 190;US Route 395 Business"
-    ]
+    ],
+    "nodeId": 11625879782
    }
   },
   {
@@ -20191,7 +21444,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 2193482649
    }
   },
   {
@@ -20207,7 +21461,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 2193482548
    }
   },
   {
@@ -20223,7 +21478,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 2784518517
    }
   },
   {
@@ -20239,7 +21495,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 2784518526
    }
   },
   {
@@ -20255,7 +21512,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;CA 168;US 6 Hist",
      "Klondike Lake Road"
-    ]
+    ],
+    "nodeId": 4283125687
    }
   },
   {
@@ -20271,7 +21529,8 @@
     "streets": [
      "Death Valley Road;CA 127",
      "Law Lane"
-    ]
+    ],
+    "nodeId": 87791996
    }
   },
   {
@@ -20287,7 +21546,8 @@
     "streets": [
      "Death Valley Road;CA 127",
      "Law Lane"
-    ]
+    ],
+    "nodeId": 3324408248
    }
   },
   {
@@ -20303,7 +21563,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Steward Lane"
-    ]
+    ],
+    "nodeId": 2193571677
    }
   },
   {
@@ -20319,7 +21580,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Steward Lane"
-    ]
+    ],
+    "nodeId": 2193571680
    }
   },
   {
@@ -20336,7 +21598,8 @@
      "El Camino Sierra;US 395;CA 168;US 6 Hist",
      "Grand Army of the Republic Highway;US 395;CA 168;US 6 Hist",
      "Keough Hot Springs Road"
-    ]
+    ],
+    "nodeId": 88278056
    }
   },
   {
@@ -20353,7 +21616,8 @@
      "El Camino Sierra;US 395;CA 168;US 6 Hist",
      "Grand Army of the Republic Highway;US 395;CA 168;US 6 Hist",
      "Keough Hot Springs Road"
-    ]
+    ],
+    "nodeId": 88277410
    }
   },
   {
@@ -20369,7 +21633,8 @@
     "streets": [
      "Big Trees Road",
      "CA 168"
-    ]
+    ],
+    "nodeId": 88354253
    }
   },
   {
@@ -20385,7 +21650,8 @@
     "streets": [
      "Big Trees Road",
      "CA 168"
-    ]
+    ],
+    "nodeId": 3424755644
    }
   },
   {
@@ -20401,7 +21667,8 @@
     "streets": [
      "Dunmovin",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88275951
    }
   },
   {
@@ -20417,7 +21684,8 @@
     "streets": [
      "Dunmovin",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88279168
    }
   },
   {
@@ -20433,7 +21701,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Haiwee Canyon Road"
-    ]
+    ],
+    "nodeId": 88108793
    }
   },
   {
@@ -20449,7 +21718,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Haiwee Canyon Road"
-    ]
+    ],
+    "nodeId": 88108797
    }
   },
   {
@@ -20465,7 +21735,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Lubken Canyon Road"
-    ]
+    ],
+    "nodeId": 88278318
    }
   },
   {
@@ -20481,7 +21752,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Miller Lane"
-    ]
+    ],
+    "nodeId": 87873063
    }
   },
   {
@@ -20497,7 +21769,8 @@
     "streets": [
      "Desiderata Lane",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 9270075092
    }
   },
   {
@@ -20513,7 +21786,8 @@
     "streets": [
      "Desiderata Lane",
      "West Line Street;CA 168"
-    ]
+    ],
+    "nodeId": 88357666
    }
   },
   {
@@ -20529,7 +21803,8 @@
     "streets": [
      "Grand Army of the Republic Highway;US 395;US 6 Hist",
      "Sage Flat Road"
-    ]
+    ],
+    "nodeId": 87778634
    }
   },
   {
@@ -20545,7 +21820,8 @@
     "streets": [
      "Crystal Geyser Road",
      "Grand Army of the Republic Highway;US 395;US 6 Hist"
-    ]
+    ],
+    "nodeId": 88278775
    }
   }
  ]

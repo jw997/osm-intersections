@@ -14,7 +14,8 @@
     "streets": [
      "Kellogg Road",
      "Willow Valley Road"
-    ]
+    ],
+    "nodeId": 58947812
    }
   },
   {
@@ -31,7 +32,8 @@
      "Klamath Falls-Malin Highway",
      "Loveness Road",
      "Old Alturas Highway;CR 114"
-    ]
+    ],
+    "nodeId": 58510706
    }
   },
   {
@@ -47,7 +49,8 @@
     "streets": [
      "County Road 260",
      "Westside Road"
-    ]
+    ],
+    "nodeId": 58339588
    }
   },
   {
@@ -63,7 +66,8 @@
     "streets": [
      "County Road 260",
      "County Road 261"
-    ]
+    ],
+    "nodeId": 58339594
    }
   },
   {
@@ -79,7 +83,8 @@
     "streets": [
      "Bridge Street",
      "Old Hospital Road"
-    ]
+    ],
+    "nodeId": 58339596
    }
   },
   {
@@ -95,7 +100,8 @@
     "streets": [
      "Gunsmoke Way",
      "Pit River Road"
-    ]
+    ],
+    "nodeId": 58339798
    }
   },
   {
@@ -112,7 +118,8 @@
      "Big Lakes Road",
      "Centerville Road",
      "County Road 69"
-    ]
+    ],
+    "nodeId": 58340056
    }
   },
   {
@@ -128,7 +135,8 @@
     "streets": [
      "Pit River Road",
      "Spanish Spur Lane"
-    ]
+    ],
+    "nodeId": 58340120
    }
   },
   {
@@ -144,7 +152,8 @@
     "streets": [
      "Pit River Road",
      "Saddle Up Lane"
-    ]
+    ],
+    "nodeId": 58340122
    }
   },
   {
@@ -160,7 +169,8 @@
     "streets": [
      "Pit River Road",
      "Shot Gun Ridge"
-    ]
+    ],
+    "nodeId": 58340125
    }
   },
   {
@@ -176,7 +186,8 @@
     "streets": [
      "Pit River Road",
      "Rifle Drive"
-    ]
+    ],
+    "nodeId": 58340127
    }
   },
   {
@@ -192,7 +203,8 @@
     "streets": [
      "Pit River Road",
      "Sourdough Road"
-    ]
+    ],
+    "nodeId": 58340129
    }
   },
   {
@@ -208,7 +220,8 @@
     "streets": [
      "Pit River Road",
      "Rawhide Road"
-    ]
+    ],
+    "nodeId": 58340132
    }
   },
   {
@@ -224,7 +237,8 @@
     "streets": [
      "Mustang Road",
      "Pit River Road"
-    ]
+    ],
+    "nodeId": 58340133
    }
   },
   {
@@ -240,7 +254,8 @@
     "streets": [
      "County Road 76",
      "Pit River Road"
-    ]
+    ],
+    "nodeId": 58340135
    }
   },
   {
@@ -256,7 +271,8 @@
     "streets": [
      "CA 139;CA 299",
      "Pit River Road"
-    ]
+    ],
+    "nodeId": 58340143
    }
   },
   {
@@ -272,7 +288,8 @@
     "streets": [
      "Pit River Road",
      "Turner Creek"
-    ]
+    ],
+    "nodeId": 58340561
    }
   },
   {
@@ -288,7 +305,8 @@
     "streets": [
      "42N35 Road",
      "Pit River Road"
-    ]
+    ],
+    "nodeId": 58340867
    }
   },
   {
@@ -304,7 +322,8 @@
     "streets": [
      "Marmot Lane",
      "Pronghorn Drive"
-    ]
+    ],
+    "nodeId": 58341859
    }
   },
   {
@@ -320,7 +339,8 @@
     "streets": [
      "Mountain Trout Lane",
      "Pronghorn Drive"
-    ]
+    ],
+    "nodeId": 58341872
    }
   },
   {
@@ -336,7 +356,8 @@
     "streets": [
      "Pronghorn Drive",
      "Steelhead Lane"
-    ]
+    ],
+    "nodeId": 58341887
    }
   },
   {
@@ -352,7 +373,8 @@
     "streets": [
      "Antelope Lane",
      "Pronghorn Drive"
-    ]
+    ],
+    "nodeId": 58341891
    }
   },
   {
@@ -368,7 +390,8 @@
     "streets": [
      "Moose Lane",
      "Pronghorn Drive"
-    ]
+    ],
+    "nodeId": 58341905
    }
   },
   {
@@ -384,7 +407,8 @@
     "streets": [
      "Possum Lane",
      "Pronghorn Drive"
-    ]
+    ],
+    "nodeId": 58341907
    }
   },
   {
@@ -400,7 +424,8 @@
     "streets": [
      "Pronghorn Drive",
      "Raccoon Lane"
-    ]
+    ],
+    "nodeId": 58341910
    }
   },
   {
@@ -416,7 +441,8 @@
     "streets": [
      "County Road 261",
      "County Road 262"
-    ]
+    ],
+    "nodeId": 58341927
    }
   },
   {
@@ -432,7 +458,8 @@
     "streets": [
      "North Warner Street",
      "West 9th Street"
-    ]
+    ],
+    "nodeId": 58341940
    }
   },
   {
@@ -448,7 +475,8 @@
     "streets": [
      "Bonner Street",
      "West 9th Street"
-    ]
+    ],
+    "nodeId": 58341942
    }
   },
   {
@@ -464,7 +492,8 @@
     "streets": [
      "Smith Street",
      "West 9th Street"
-    ]
+    ],
+    "nodeId": 58341944
    }
   },
   {
@@ -480,7 +509,8 @@
     "streets": [
      "Mill Street",
      "West 9th Street"
-    ]
+    ],
+    "nodeId": 9901172808
    }
   },
   {
@@ -496,7 +526,8 @@
     "streets": [
      "Garden View Drive",
      "Lake View Drive"
-    ]
+    ],
+    "nodeId": 58341950
    }
   },
   {
@@ -512,7 +543,8 @@
     "streets": [
      "Garden View Drive",
      "Ridge View Drive"
-    ]
+    ],
+    "nodeId": 58341963
    }
   },
   {
@@ -528,7 +560,8 @@
     "streets": [
      "Goose Lake Road",
      "Snowgoose Lane"
-    ]
+    ],
+    "nodeId": 58341978
    }
   },
   {
@@ -544,7 +577,8 @@
     "streets": [
      "County Road 44",
      "Snowgoose Lane"
-    ]
+    ],
+    "nodeId": 58341998
    }
   },
   {
@@ -560,7 +594,8 @@
     "streets": [
      "CA 299",
      "Pioneer Road"
-    ]
+    ],
+    "nodeId": 58342003
    }
   },
   {
@@ -576,7 +611,8 @@
     "streets": [
      "Brus",
      "Robs Road"
-    ]
+    ],
+    "nodeId": 58342200
    }
   },
   {
@@ -593,7 +629,8 @@
      "Brus",
      "County Road 65",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58342238
    }
   },
   {
@@ -609,7 +646,8 @@
     "streets": [
      "Sierra Vista Road",
      "Tierra Road"
-    ]
+    ],
+    "nodeId": 58342251
    }
   },
   {
@@ -625,7 +663,8 @@
     "streets": [
      "County Road 111",
      "County Road 131"
-    ]
+    ],
+    "nodeId": 58342255
    }
   },
   {
@@ -641,7 +680,8 @@
     "streets": [
      "Chaparral Road",
      "San Lucas Road"
-    ]
+    ],
+    "nodeId": 58342360
    }
   },
   {
@@ -657,7 +697,8 @@
     "streets": [
      "Chaparral Road",
      "Grande Road"
-    ]
+    ],
+    "nodeId": 58342361
    }
   },
   {
@@ -673,7 +714,8 @@
     "streets": [
      "Chaparral Road",
      "Presidio Road"
-    ]
+    ],
+    "nodeId": 58342368
    }
   },
   {
@@ -689,7 +731,8 @@
     "streets": [
      "Dove Lane",
      "Goose Loop"
-    ]
+    ],
+    "nodeId": 58342369
    }
   },
   {
@@ -705,7 +748,8 @@
     "streets": [
      "Chukar Lane",
      "Dove Lane"
-    ]
+    ],
+    "nodeId": 58342372
    }
   },
   {
@@ -721,7 +765,8 @@
     "streets": [
      "Dove Lane",
      "Wood Duck Lane"
-    ]
+    ],
+    "nodeId": 58342373
    }
   },
   {
@@ -737,7 +782,8 @@
     "streets": [
      "County Road 132",
      "Rim Road;CR 120"
-    ]
+    ],
+    "nodeId": 58342441
    }
   },
   {
@@ -753,7 +799,8 @@
     "streets": [
      "County Road 111",
      "County Road 132"
-    ]
+    ],
+    "nodeId": 58342462
    }
   },
   {
@@ -769,7 +816,8 @@
     "streets": [
      "La Brea Circle",
      "La Brea Road"
-    ]
+    ],
+    "nodeId": 58342478
    }
   },
   {
@@ -785,7 +833,8 @@
     "streets": [
      "Niemieco Road",
      "Richard Drive"
-    ]
+    ],
+    "nodeId": 58342484
    }
   },
   {
@@ -801,7 +850,8 @@
     "streets": [
      "La Brea Road",
      "Richard Drive"
-    ]
+    ],
+    "nodeId": 58342491
    }
   },
   {
@@ -817,7 +867,8 @@
     "streets": [
      "Boles Road",
      "Loveness Logging Road"
-    ]
+    ],
+    "nodeId": 58351914
    }
   },
   {
@@ -833,7 +884,8 @@
     "streets": [
      "Boles Road",
      "Tickner Road;CA 139"
-    ]
+    ],
+    "nodeId": 58352027
    }
   },
   {
@@ -849,7 +901,8 @@
     "streets": [
      "Boles Road",
      "Tickner Road"
-    ]
+    ],
+    "nodeId": 58921581
    }
   },
   {
@@ -865,7 +918,8 @@
     "streets": [
      "Boles Road",
      "Hackamore Road"
-    ]
+    ],
+    "nodeId": 58850839
    }
   },
   {
@@ -882,7 +936,8 @@
      "County Road 118",
      "County Road 133C",
      "South Willow Ranch Road"
-    ]
+    ],
+    "nodeId": 58622962
    }
   },
   {
@@ -898,7 +953,8 @@
     "streets": [
      "County Road 11",
      "County Road 118"
-    ]
+    ],
+    "nodeId": 58709719
    }
   },
   {
@@ -914,7 +970,8 @@
     "streets": [
      "County Road 118",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58840679
    }
   },
   {
@@ -930,7 +987,8 @@
     "streets": [
      "Ash Creek Campground Road",
      "Ash Valley Road"
-    ]
+    ],
+    "nodeId": 58608186
    }
   },
   {
@@ -947,7 +1005,8 @@
      "Alpine Road",
      "Ash Creek Campground Road",
      "County Road 198"
-    ]
+    ],
+    "nodeId": 58372856
    }
   },
   {
@@ -963,7 +1022,8 @@
     "streets": [
      "44N17;NF 97;CR 97",
      "Sheep Camp"
-    ]
+    ],
+    "nodeId": 58415293
    }
   },
   {
@@ -979,7 +1039,8 @@
     "streets": [
      "Mud Springs Road",
      "Sheep Camp"
-    ]
+    ],
+    "nodeId": 58797445
    }
   },
   {
@@ -995,7 +1056,8 @@
     "streets": [
      "Bieber Lookout Road;CR 419",
      "Lookout Hackamore Road;CR 91"
-    ]
+    ],
+    "nodeId": 58541141
    }
   },
   {
@@ -1011,7 +1073,8 @@
     "streets": [
      "County Road 111",
      "County Road 155"
-    ]
+    ],
+    "nodeId": 58553549
    }
   },
   {
@@ -1027,7 +1090,8 @@
     "streets": [
      "County Road 112",
      "County Road 155"
-    ]
+    ],
+    "nodeId": 58836953
    }
   },
   {
@@ -1043,7 +1107,8 @@
     "streets": [
      "County Road 113;CR 113",
      "County Road 155"
-    ]
+    ],
+    "nodeId": 58837028
    }
   },
   {
@@ -1059,7 +1124,8 @@
     "streets": [
      "3rd Avenue",
      "County Road 155"
-    ]
+    ],
+    "nodeId": 58837039
    }
   },
   {
@@ -1075,7 +1141,8 @@
     "streets": [
      "East 13th Street",
      "North East B Street"
-    ]
+    ],
+    "nodeId": 58631471
    }
   },
   {
@@ -1091,7 +1158,8 @@
     "streets": [
      "East 13th Street",
      "North East A Street"
-    ]
+    ],
+    "nodeId": 58631473
    }
   },
   {
@@ -1107,7 +1175,8 @@
     "streets": [
      "Horse Mountain Road",
      "Old Alturas Highway;CR 114"
-    ]
+    ],
+    "nodeId": 58943630
    }
   },
   {
@@ -1123,7 +1192,8 @@
     "streets": [
      "BIA Route 76",
      "Route 76"
-    ]
+    ],
+    "nodeId": 58689003
    }
   },
   {
@@ -1139,7 +1209,8 @@
     "streets": [
      "USFS Road 47N03",
      "Westside Road"
-    ]
+    ],
+    "nodeId": 58694857
    }
   },
   {
@@ -1155,7 +1226,8 @@
     "streets": [
      "47N06 Road",
      "USFS Road 47N03"
-    ]
+    ],
+    "nodeId": 8270332578
    }
   },
   {
@@ -1172,7 +1244,8 @@
      "47N06 Road",
      "47N40 Road",
      "USFS Road 47N03"
-    ]
+    ],
+    "nodeId": 58973959
    }
   },
   {
@@ -1188,7 +1261,8 @@
     "streets": [
      "Parker Creek Road",
      "Shields Creek"
-    ]
+    ],
+    "nodeId": 58871065
    }
   },
   {
@@ -1204,7 +1278,8 @@
     "streets": [
      "CA 139",
      "Old Highway Road"
-    ]
+    ],
+    "nodeId": 58701477
    }
   },
   {
@@ -1220,7 +1295,8 @@
     "streets": [
      "County Road 17",
      "Mill Street"
-    ]
+    ],
+    "nodeId": 58722364
    }
   },
   {
@@ -1236,7 +1312,8 @@
     "streets": [
      "Center Street",
      "Mill Street"
-    ]
+    ],
+    "nodeId": 58722366
    }
   },
   {
@@ -1252,7 +1329,8 @@
     "streets": [
      "Mill Street",
      "South Lake Street"
-    ]
+    ],
+    "nodeId": 58722368
    }
   },
   {
@@ -1268,7 +1346,8 @@
     "streets": [
      "County Road 37",
      "County Road 38"
-    ]
+    ],
+    "nodeId": 58747427
    }
   },
   {
@@ -1284,7 +1363,8 @@
     "streets": [
      "CA 299",
      "County Road 37"
-    ]
+    ],
+    "nodeId": 58623747
    }
   },
   {
@@ -1300,7 +1380,8 @@
     "streets": [
      "CA 299",
      "County Road 18"
-    ]
+    ],
+    "nodeId": 58915237
    }
   },
   {
@@ -1316,7 +1397,8 @@
     "streets": [
      "1st Street",
      "McKune Street"
-    ]
+    ],
+    "nodeId": 58788634
    }
   },
   {
@@ -1332,7 +1414,8 @@
     "streets": [
      "2nd Street",
      "McKune Street"
-    ]
+    ],
+    "nodeId": 58788641
    }
   },
   {
@@ -1348,7 +1431,8 @@
     "streets": [
      "2nd Street",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58788647
    }
   },
   {
@@ -1364,7 +1448,8 @@
     "streets": [
      "Route 395;US 395",
      "Sagegrouse Road"
-    ]
+    ],
+    "nodeId": 58788967
    }
   },
   {
@@ -1380,7 +1465,8 @@
     "streets": [
      "County Road 44",
      "Sagegrouse Road"
-    ]
+    ],
+    "nodeId": 58850241
    }
   },
   {
@@ -1397,7 +1483,8 @@
      "County Road 64",
      "Jess Valley Road",
      "West Warner Road"
-    ]
+    ],
+    "nodeId": 58923210
    }
   },
   {
@@ -1413,7 +1500,8 @@
     "streets": [
      "Presidio Road",
      "Viceroy Road"
-    ]
+    ],
+    "nodeId": 58825852
    }
   },
   {
@@ -1429,7 +1517,8 @@
     "streets": [
      "Sierra Vista Road",
      "Viceroy Road"
-    ]
+    ],
+    "nodeId": 58825856
    }
   },
   {
@@ -1445,7 +1534,8 @@
     "streets": [
      "County Road 265",
      "Route 395;US 395;CA 299"
-    ]
+    ],
+    "nodeId": 58825861
    }
   },
   {
@@ -1461,7 +1551,8 @@
     "streets": [
      "Dana Road",
      "Ranchero Road"
-    ]
+    ],
+    "nodeId": 58825882
    }
   },
   {
@@ -1477,7 +1568,8 @@
     "streets": [
      "Padre Road",
      "Ranchero Road"
-    ]
+    ],
+    "nodeId": 58825889
    }
   },
   {
@@ -1493,7 +1585,8 @@
     "streets": [
      "Spruce Street",
      "West 12th Street;CA 299"
-    ]
+    ],
+    "nodeId": 58825894
    }
   },
   {
@@ -1509,7 +1602,8 @@
     "streets": [
      "Spruce Street",
      "West 14th Street"
-    ]
+    ],
+    "nodeId": 58825898
    }
   },
   {
@@ -1525,7 +1619,8 @@
     "streets": [
      "Black Pine Drive",
      "Yellow Pine Drive"
-    ]
+    ],
+    "nodeId": 58825907
    }
   },
   {
@@ -1541,7 +1636,8 @@
     "streets": [
      "Sage Circle",
      "Yellow Pine Drive"
-    ]
+    ],
+    "nodeId": 58825909
    }
   },
   {
@@ -1557,7 +1653,8 @@
     "streets": [
      "Starpine Road",
      "Yellow Pine Drive"
-    ]
+    ],
+    "nodeId": 58825912
    }
   },
   {
@@ -1573,7 +1670,8 @@
     "streets": [
      "California Pines Boulevard",
      "Yellow Pine Drive"
-    ]
+    ],
+    "nodeId": 58825944
    }
   },
   {
@@ -1589,7 +1687,8 @@
     "streets": [
      "Riverside Street",
      "South East Street"
-    ]
+    ],
+    "nodeId": 58827193
    }
   },
   {
@@ -1605,7 +1704,8 @@
     "streets": [
      "Riverside Street",
      "South Estes Street"
-    ]
+    ],
+    "nodeId": 58827195
    }
   },
   {
@@ -1621,7 +1721,8 @@
     "streets": [
      "Bonner Street",
      "West 4th Street"
-    ]
+    ],
+    "nodeId": 58827199
    }
   },
   {
@@ -1637,7 +1738,8 @@
     "streets": [
      "Bonner Street",
      "Kemble Street"
-    ]
+    ],
+    "nodeId": 58827200
    }
   },
   {
@@ -1653,7 +1755,8 @@
     "streets": [
      "Bonner Street",
      "West 5th Street"
-    ]
+    ],
+    "nodeId": 58827203
    }
   },
   {
@@ -1669,7 +1772,8 @@
     "streets": [
      "Bonner Street",
      "West 6th Street"
-    ]
+    ],
+    "nodeId": 58827207
    }
   },
   {
@@ -1685,7 +1789,8 @@
     "streets": [
      "7th Street",
      "Bonner Street"
-    ]
+    ],
+    "nodeId": 58827211
    }
   },
   {
@@ -1701,7 +1806,8 @@
     "streets": [
      "Bonner Street",
      "West 8th Street"
-    ]
+    ],
+    "nodeId": 58827213
    }
   },
   {
@@ -1717,7 +1823,8 @@
     "streets": [
      "Bonner Street",
      "West 10th Street"
-    ]
+    ],
+    "nodeId": 58827215
    }
   },
   {
@@ -1733,7 +1840,8 @@
     "streets": [
      "Bonner Street",
      "West 11th Street"
-    ]
+    ],
+    "nodeId": 58827217
    }
   },
   {
@@ -1749,7 +1857,8 @@
     "streets": [
      "Bonner Street",
      "West 12th Street;CA 299"
-    ]
+    ],
+    "nodeId": 58827220
    }
   },
   {
@@ -1765,7 +1874,8 @@
     "streets": [
      "Bonner Street",
      "Hays Street"
-    ]
+    ],
+    "nodeId": 58827228
    }
   },
   {
@@ -1781,7 +1891,8 @@
     "streets": [
      "Bonner Street",
      "Main Street;CR 1"
-    ]
+    ],
+    "nodeId": 58827230
    }
   },
   {
@@ -1797,7 +1908,8 @@
     "streets": [
      "Bonner Street",
      "Center Street"
-    ]
+    ],
+    "nodeId": 58827232
    }
   },
   {
@@ -1813,7 +1925,8 @@
     "streets": [
      "Bonner Street",
      "High Street"
-    ]
+    ],
+    "nodeId": 58827234
    }
   },
   {
@@ -1829,7 +1942,8 @@
     "streets": [
      "Bonner Street",
      "Garfield Street"
-    ]
+    ],
+    "nodeId": 58827236
    }
   },
   {
@@ -1845,7 +1959,8 @@
     "streets": [
      "Bonner Street",
      "Lincoln Street"
-    ]
+    ],
+    "nodeId": 58827237
    }
   },
   {
@@ -1861,7 +1976,8 @@
     "streets": [
      "Bonner Street",
      "Cressler Street"
-    ]
+    ],
+    "nodeId": 58827240
    }
   },
   {
@@ -1877,7 +1993,8 @@
     "streets": [
      "Bonner Street",
      "Patterson Street"
-    ]
+    ],
+    "nodeId": 58827241
    }
   },
   {
@@ -1893,7 +2010,8 @@
     "streets": [
      "Bonner Street",
      "Johnstone"
-    ]
+    ],
+    "nodeId": 58827242
    }
   },
   {
@@ -1909,7 +2027,8 @@
     "streets": [
      "Lake Road",
      "Lake View Drive"
-    ]
+    ],
+    "nodeId": 58827285
    }
   },
   {
@@ -1925,7 +2044,8 @@
     "streets": [
      "Lake Road",
      "Shasta View Drive"
-    ]
+    ],
+    "nodeId": 58615518
    }
   },
   {
@@ -1941,7 +2061,8 @@
     "streets": [
      "Baldpate Drive",
      "Hilltop Lane"
-    ]
+    ],
+    "nodeId": 58827397
    }
   },
   {
@@ -1957,7 +2078,8 @@
     "streets": [
      "Baldpate Drive",
      "Hummingbird Lane"
-    ]
+    ],
+    "nodeId": 58827414
    }
   },
   {
@@ -1973,7 +2095,8 @@
     "streets": [
      "Baldpate Drive",
      "Partridge Lane"
-    ]
+    ],
+    "nodeId": 58827429
    }
   },
   {
@@ -1989,7 +2112,8 @@
     "streets": [
      "Baldpate Drive",
      "Chukar Lane"
-    ]
+    ],
+    "nodeId": 58827431
    }
   },
   {
@@ -2005,7 +2129,8 @@
     "streets": [
      "Baldpate Drive",
      "Wood Duck Lane"
-    ]
+    ],
+    "nodeId": 58827435
    }
   },
   {
@@ -2022,7 +2147,8 @@
      "County Road 120;CR 120",
      "County Road 122",
      "County Road 135"
-    ]
+    ],
+    "nodeId": 58452814
    }
   },
   {
@@ -2038,7 +2164,8 @@
     "streets": [
      "County Road 122",
      "County Road 135"
-    ]
+    ],
+    "nodeId": 58827450
    }
   },
   {
@@ -2054,7 +2181,8 @@
     "streets": [
      "County Road 123",
      "County Road 135"
-    ]
+    ],
+    "nodeId": 58827455
    }
   },
   {
@@ -2070,7 +2198,8 @@
     "streets": [
      "County Road 124;CR 124",
      "County Road 135"
-    ]
+    ],
+    "nodeId": 58827461
    }
   },
   {
@@ -2086,7 +2215,8 @@
     "streets": [
      "Pencil Road",
      "Red Deer Lane"
-    ]
+    ],
+    "nodeId": 58827736
    }
   },
   {
@@ -2102,7 +2232,8 @@
     "streets": [
      "Pencil Road",
      "Steel Head Road"
-    ]
+    ],
+    "nodeId": 58827740
    }
   },
   {
@@ -2118,7 +2249,8 @@
     "streets": [
      "Pencil Road",
      "Steelhead Lane"
-    ]
+    ],
+    "nodeId": 58827746
    }
   },
   {
@@ -2134,7 +2266,8 @@
     "streets": [
      "Pencil Road",
      "Raccoon Lane"
-    ]
+    ],
+    "nodeId": 58827771
    }
   },
   {
@@ -2151,7 +2284,8 @@
      "Jaguar Drive",
      "Pencil Road",
      "Pheasant Drive"
-    ]
+    ],
+    "nodeId": 58827778
    }
   },
   {
@@ -2167,7 +2301,8 @@
     "streets": [
      "Mallard Lane",
      "Pencil Road"
-    ]
+    ],
+    "nodeId": 58827787
    }
   },
   {
@@ -2183,7 +2318,8 @@
     "streets": [
      "Bobcat Lane",
      "Pencil Road"
-    ]
+    ],
+    "nodeId": 58827788
    }
   },
   {
@@ -2199,7 +2335,8 @@
     "streets": [
      "Chukar Lane",
      "Pencil Road"
-    ]
+    ],
+    "nodeId": 58827870
    }
   },
   {
@@ -2215,7 +2352,8 @@
     "streets": [
      "Pencil Road",
      "Wood Duck Lane"
-    ]
+    ],
+    "nodeId": 58827871
    }
   },
   {
@@ -2231,7 +2369,8 @@
     "streets": [
      "Ermine Lane",
      "Pencil Road"
-    ]
+    ],
+    "nodeId": 58827872
    }
   },
   {
@@ -2247,7 +2386,8 @@
     "streets": [
      "Pencil Road",
      "Route 395;US 395;CA 299"
-    ]
+    ],
+    "nodeId": 58827876
    }
   },
   {
@@ -2263,7 +2403,8 @@
     "streets": [
      "County Road 101;CR 101",
      "County Road 101B"
-    ]
+    ],
+    "nodeId": 58827907
    }
   },
   {
@@ -2279,7 +2420,8 @@
     "streets": [
      "South Cedar Street",
      "West Carlos Street"
-    ]
+    ],
+    "nodeId": 58828118
    }
   },
   {
@@ -2295,7 +2437,8 @@
     "streets": [
      "South Cedar Street",
      "West 1st Street"
-    ]
+    ],
+    "nodeId": 58828123
    }
   },
   {
@@ -2311,7 +2454,8 @@
     "streets": [
      "Saddleback Road",
      "Wagon Road"
-    ]
+    ],
+    "nodeId": 58828193
    }
   },
   {
@@ -2327,7 +2471,8 @@
     "streets": [
      "California Pines Boulevard",
      "Wagon Road"
-    ]
+    ],
+    "nodeId": 58828200
    }
   },
   {
@@ -2343,7 +2488,8 @@
     "streets": [
      "County Road 139",
      "Willow Ranch Road"
-    ]
+    ],
+    "nodeId": 58828252
    }
   },
   {
@@ -2359,7 +2505,8 @@
     "streets": [
      "County Road 139",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58828272
    }
   },
   {
@@ -2375,7 +2522,8 @@
     "streets": [
      "County Road 271",
      "Pheasant Drive"
-    ]
+    ],
+    "nodeId": 58828313
    }
   },
   {
@@ -2391,7 +2539,8 @@
     "streets": [
      "County Road 271",
      "Pintail Drive"
-    ]
+    ],
+    "nodeId": 58828317
    }
   },
   {
@@ -2407,7 +2556,8 @@
     "streets": [
      "County Road 271",
      "Mallard Lane"
-    ]
+    ],
+    "nodeId": 58828321
    }
   },
   {
@@ -2423,7 +2573,8 @@
     "streets": [
      "Shasta View Drive",
      "Warner View Road"
-    ]
+    ],
+    "nodeId": 58828517
    }
   },
   {
@@ -2439,7 +2590,8 @@
     "streets": [
      "Big Sky",
      "Shasta View Drive"
-    ]
+    ],
+    "nodeId": 58828519
    }
   },
   {
@@ -2455,7 +2607,8 @@
     "streets": [
      "Shasta View Drive",
      "Willow View Drive"
-    ]
+    ],
+    "nodeId": 58828526
    }
   },
   {
@@ -2471,7 +2624,8 @@
     "streets": [
      "Rush View Road",
      "Shasta View Drive"
-    ]
+    ],
+    "nodeId": 58828528
    }
   },
   {
@@ -2487,7 +2641,8 @@
     "streets": [
      "Shasta View Drive",
      "Weaver Road"
-    ]
+    ],
+    "nodeId": 58828531
    }
   },
   {
@@ -2503,7 +2658,8 @@
     "streets": [
      "Shasta View Drive",
      "Wilderness Drive"
-    ]
+    ],
+    "nodeId": 58828532
    }
   },
   {
@@ -2519,7 +2675,8 @@
     "streets": [
      "California Pines Boulevard",
      "Shasta View Drive"
-    ]
+    ],
+    "nodeId": 58828536
    }
   },
   {
@@ -2535,7 +2692,8 @@
     "streets": [
      "D Street",
      "Peninsula Drive"
-    ]
+    ],
+    "nodeId": 58829261
    }
   },
   {
@@ -2551,7 +2709,8 @@
     "streets": [
      "D Street",
      "Wagon Wheel Drive"
-    ]
+    ],
+    "nodeId": 58829265
    }
   },
   {
@@ -2567,7 +2726,8 @@
     "streets": [
      "Captin Jack Way",
      "D Street"
-    ]
+    ],
+    "nodeId": 58829272
    }
   },
   {
@@ -2583,7 +2743,8 @@
     "streets": [
      "County Road 133C",
      "Sugar Hill Pit Road"
-    ]
+    ],
+    "nodeId": 58829277
    }
   },
   {
@@ -2599,7 +2760,8 @@
     "streets": [
      "CA 139",
      "County Road 140;CR 140"
-    ]
+    ],
+    "nodeId": 58829368
    }
   },
   {
@@ -2615,7 +2777,8 @@
     "streets": [
      "County Road 140;CR 140",
      "County Road 177;CR 177"
-    ]
+    ],
+    "nodeId": 58829408
    }
   },
   {
@@ -2631,7 +2794,8 @@
     "streets": [
      "County Road 140;CR 140",
      "Old Alturas Highway;CR 114"
-    ]
+    ],
+    "nodeId": 58829417
    }
   },
   {
@@ -2648,7 +2812,8 @@
      "East 13th Street",
      "North Main Street",
      "West 13th Street"
-    ]
+    ],
+    "nodeId": 58829423
    }
   },
   {
@@ -2664,7 +2829,8 @@
     "streets": [
      "Maple Street",
      "West 13th Street"
-    ]
+    ],
+    "nodeId": 58829424
    }
   },
   {
@@ -2680,7 +2846,8 @@
     "streets": [
      "County Road 87",
      "Lookout Hackamore Road;CR 91"
-    ]
+    ],
+    "nodeId": 58829459
    }
   },
   {
@@ -2696,7 +2863,8 @@
     "streets": [
      "Lookout Hackamore Road;CR 91",
      "Main Street"
-    ]
+    ],
+    "nodeId": 58829467
    }
   },
   {
@@ -2712,7 +2880,8 @@
     "streets": [
      "Calamity Road",
      "Fiddletown Drive"
-    ]
+    ],
+    "nodeId": 58830155
    }
   },
   {
@@ -2728,7 +2897,8 @@
     "streets": [
      "Fiddletown Drive",
      "Shaws Flat Road"
-    ]
+    ],
+    "nodeId": 58830167
    }
   },
   {
@@ -2744,7 +2914,8 @@
     "streets": [
      "Coloma Road",
      "Fiddletown Drive"
-    ]
+    ],
+    "nodeId": 58830183
    }
   },
   {
@@ -2760,7 +2931,8 @@
     "streets": [
      "Fiddletown Drive",
      "Tom's Creek Road"
-    ]
+    ],
+    "nodeId": 58830209
    }
   },
   {
@@ -2776,7 +2948,8 @@
     "streets": [
      "Fiddletown Drive",
      "Mount Bullion Road"
-    ]
+    ],
+    "nodeId": 58892543
    }
   },
   {
@@ -2792,7 +2965,8 @@
     "streets": [
      "Dana Road",
      "Del Rio Road"
-    ]
+    ],
+    "nodeId": 58830327
    }
   },
   {
@@ -2808,7 +2982,8 @@
     "streets": [
      "Del Rio Road",
      "Padre Road"
-    ]
+    ],
+    "nodeId": 58830332
    }
   },
   {
@@ -2825,7 +3000,8 @@
      "Beaver Drive",
      "Lassen",
      "Opal Circle"
-    ]
+    ],
+    "nodeId": 58830346
    }
   },
   {
@@ -2841,7 +3017,8 @@
     "streets": [
      "Lassen",
      "Lassen Drive"
-    ]
+    ],
+    "nodeId": 58830352
    }
   },
   {
@@ -2857,7 +3034,8 @@
     "streets": [
      "Bend Drive",
      "Lassen"
-    ]
+    ],
+    "nodeId": 58830353
    }
   },
   {
@@ -2874,7 +3052,8 @@
      "Beaver Drive",
      "Lassen",
      "Parker Drive"
-    ]
+    ],
+    "nodeId": 58830358
    }
   },
   {
@@ -2890,7 +3069,8 @@
     "streets": [
      "County Road 141;CR 141",
      "County Road 177;CR 177"
-    ]
+    ],
+    "nodeId": 58788806
    }
   },
   {
@@ -2907,7 +3087,8 @@
      "CA 139",
      "County Road 122",
      "County Road 141;CR 141"
-    ]
+    ],
+    "nodeId": 58830399
    }
   },
   {
@@ -2923,7 +3104,8 @@
     "streets": [
      "6th Avenue",
      "County Road 141;CR 141"
-    ]
+    ],
+    "nodeId": 8326399047
    }
   },
   {
@@ -2939,7 +3121,8 @@
     "streets": [
      "County Road 142",
      "County Road 17"
-    ]
+    ],
+    "nodeId": 58830493
    }
   },
   {
@@ -2955,7 +3138,8 @@
     "streets": [
      "County Road 39",
      "County Road 39B"
-    ]
+    ],
+    "nodeId": 58474760
    }
   },
   {
@@ -2971,7 +3155,8 @@
     "streets": [
      "Arroyo Road",
      "Encino Road"
-    ]
+    ],
+    "nodeId": 58830689
    }
   },
   {
@@ -2987,7 +3172,8 @@
     "streets": [
      "County Road 143",
      "Main Street;CR 1"
-    ]
+    ],
+    "nodeId": 58650885
    }
   },
   {
@@ -3003,7 +3189,8 @@
     "streets": [
      "Amigo Road",
      "Pueblos Road"
-    ]
+    ],
+    "nodeId": 58830764
    }
   },
   {
@@ -3019,7 +3206,8 @@
     "streets": [
      "Amigo Road",
      "Masson Road"
-    ]
+    ],
+    "nodeId": 58830768
    }
   },
   {
@@ -3035,7 +3223,8 @@
     "streets": [
      "Amigo Road",
      "Valencia Road"
-    ]
+    ],
+    "nodeId": 58830769
    }
   },
   {
@@ -3051,7 +3240,8 @@
     "streets": [
      "Amigo Road",
      "Felicia Road"
-    ]
+    ],
+    "nodeId": 58830773
    }
   },
   {
@@ -3067,7 +3257,8 @@
     "streets": [
      "Henderson Street",
      "South West C Street"
-    ]
+    ],
+    "nodeId": 58831151
    }
   },
   {
@@ -3083,7 +3274,8 @@
     "streets": [
      "South West C Street",
      "West Carlos Street"
-    ]
+    ],
+    "nodeId": 58831152
    }
   },
   {
@@ -3099,7 +3291,8 @@
     "streets": [
      "Lucilane Boulevard",
      "North Street"
-    ]
+    ],
+    "nodeId": 58831185
    }
   },
   {
@@ -3115,7 +3308,8 @@
     "streets": [
      "County Road 165",
      "North Street"
-    ]
+    ],
+    "nodeId": 58831212
    }
   },
   {
@@ -3131,7 +3325,8 @@
     "streets": [
      "North Street",
      "Water Street"
-    ]
+    ],
+    "nodeId": 58831230
    }
   },
   {
@@ -3147,7 +3342,8 @@
     "streets": [
      "Main Street;CR 1",
      "North Street"
-    ]
+    ],
+    "nodeId": 58831233
    }
   },
   {
@@ -3163,7 +3359,8 @@
     "streets": [
      "North Street",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58831238
    }
   },
   {
@@ -3179,7 +3376,8 @@
     "streets": [
      "Lake Street",
      "North Street"
-    ]
+    ],
+    "nodeId": 58831242
    }
   },
   {
@@ -3195,7 +3393,8 @@
     "streets": [
      "Center Street",
      "North Street"
-    ]
+    ],
+    "nodeId": 58831247
    }
   },
   {
@@ -3212,7 +3411,8 @@
      "County Road 17",
      "North Street",
      "Upper Lake City Road"
-    ]
+    ],
+    "nodeId": 58831248
    }
   },
   {
@@ -3228,7 +3428,8 @@
     "streets": [
      "County Road 56",
      "East McDowell Street"
-    ]
+    ],
+    "nodeId": 58831257
    }
   },
   {
@@ -3244,7 +3445,8 @@
     "streets": [
      "East McDowell Street",
      "South Estes Street"
-    ]
+    ],
+    "nodeId": 58831258
    }
   },
   {
@@ -3261,7 +3463,8 @@
      "East McDowell Street",
      "Riverside Street",
      "South East Street"
-    ]
+    ],
+    "nodeId": 58827187
    }
   },
   {
@@ -3278,7 +3481,8 @@
      "East McDowell Street",
      "South Main Street;US 395",
      "West McDowell Avenue"
-    ]
+    ],
+    "nodeId": 58831261
    }
   },
   {
@@ -3294,7 +3498,8 @@
     "streets": [
      "Bueno Road",
      "Fresno Road"
-    ]
+    ],
+    "nodeId": 58831338
    }
   },
   {
@@ -3310,7 +3515,8 @@
     "streets": [
      "County Road 13A",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58831380
    }
   },
   {
@@ -3326,7 +3532,8 @@
     "streets": [
      "Mill Street",
      "West 4th Street"
-    ]
+    ],
+    "nodeId": 58831428
    }
   },
   {
@@ -3342,7 +3549,8 @@
     "streets": [
      "Mill Street",
      "West 8th Street"
-    ]
+    ],
+    "nodeId": 374123024
    }
   },
   {
@@ -3358,7 +3566,8 @@
     "streets": [
      "Mill Street",
      "West 10th Street"
-    ]
+    ],
+    "nodeId": 9901172807
    }
   },
   {
@@ -3374,7 +3583,8 @@
     "streets": [
      "Mill Street",
      "West 11th Street"
-    ]
+    ],
+    "nodeId": 9901172806
    }
   },
   {
@@ -3391,7 +3601,8 @@
      "CA 299",
      "Mill Street",
      "West 12th Street;CA 299"
-    ]
+    ],
+    "nodeId": 374122530
    }
   },
   {
@@ -3407,7 +3618,8 @@
     "streets": [
      "Crowder Flat Road",
      "Triangle Ranch Road"
-    ]
+    ],
+    "nodeId": 58832013
    }
   },
   {
@@ -3423,7 +3635,8 @@
     "streets": [
      "County Road 147",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58832044
    }
   },
   {
@@ -3439,7 +3652,8 @@
     "streets": [
      "Anza Road",
      "Dana Road"
-    ]
+    ],
+    "nodeId": 58832114
    }
   },
   {
@@ -3455,7 +3669,8 @@
     "streets": [
      "Anza Road",
      "Padre Road"
-    ]
+    ],
+    "nodeId": 58832121
    }
   },
   {
@@ -3471,7 +3686,8 @@
     "streets": [
      "Anza Road",
      "Mission Road"
-    ]
+    ],
+    "nodeId": 58832123
    }
   },
   {
@@ -3487,7 +3703,8 @@
     "streets": [
      "Anza Road",
      "North West Street"
-    ]
+    ],
+    "nodeId": 58832127
    }
   },
   {
@@ -3503,7 +3720,8 @@
     "streets": [
      "Alpine Road",
      "Dry Creek Basin Road"
-    ]
+    ],
+    "nodeId": 58832270
    }
   },
   {
@@ -3519,7 +3737,8 @@
     "streets": [
      "County Road 58 C",
      "Dry Creek Basin Road"
-    ]
+    ],
+    "nodeId": 58832324
    }
   },
   {
@@ -3535,7 +3754,8 @@
     "streets": [
      "County Road 149",
      "Lookout Hackamore Road;CR 91"
-    ]
+    ],
+    "nodeId": 58829559
    }
   },
   {
@@ -3552,7 +3772,8 @@
      "Glen View Lane",
      "Weaver Road",
      "Willow View Drive"
-    ]
+    ],
+    "nodeId": 58833758
    }
   },
   {
@@ -3568,7 +3789,8 @@
     "streets": [
      "Glen View Lane",
      "Willow View Drive"
-    ]
+    ],
+    "nodeId": 58833769
    }
   },
   {
@@ -3584,7 +3806,8 @@
     "streets": [
      "Ann Street",
      "Hays Street"
-    ]
+    ],
+    "nodeId": 58833824
    }
   },
   {
@@ -3600,7 +3823,8 @@
     "streets": [
      "Ann Street",
      "Main Street;CR 1"
-    ]
+    ],
+    "nodeId": 58833829
    }
   },
   {
@@ -3616,7 +3840,8 @@
     "streets": [
      "Ann Street",
      "Center Street"
-    ]
+    ],
+    "nodeId": 58833831
    }
   },
   {
@@ -3632,7 +3857,8 @@
     "streets": [
      "Ann Street",
      "High Street"
-    ]
+    ],
+    "nodeId": 58833832
    }
   },
   {
@@ -3648,7 +3874,8 @@
     "streets": [
      "Ann Street",
      "Garfield Street"
-    ]
+    ],
+    "nodeId": 58833834
    }
   },
   {
@@ -3664,7 +3891,8 @@
     "streets": [
      "Ann Street",
      "Lincoln Street"
-    ]
+    ],
+    "nodeId": 58833836
    }
   },
   {
@@ -3680,7 +3908,8 @@
     "streets": [
      "Ann Street",
      "Cressler Street"
-    ]
+    ],
+    "nodeId": 58833838
    }
   },
   {
@@ -3697,7 +3926,8 @@
      "Ann Street",
      "Patterson Street",
      "Rancheria Way"
-    ]
+    ],
+    "nodeId": 58833844
    }
   },
   {
@@ -3713,7 +3943,8 @@
     "streets": [
      "East 10th Street",
      "North East D Street"
-    ]
+    ],
+    "nodeId": 58833852
    }
   },
   {
@@ -3729,7 +3960,8 @@
     "streets": [
      "East 10th Street",
      "North East B Street"
-    ]
+    ],
+    "nodeId": 58833853
    }
   },
   {
@@ -3746,7 +3978,8 @@
      "East 10th Street",
      "North Main Street;US 395",
      "West 10th Street"
-    ]
+    ],
+    "nodeId": 58833859
    }
   },
   {
@@ -3762,7 +3995,8 @@
     "streets": [
      "East 10th Street",
      "North Court Street"
-    ]
+    ],
+    "nodeId": 58978785
    }
   },
   {
@@ -3778,7 +4012,8 @@
     "streets": [
      "Merganser Drive",
      "Ringneck Lane"
-    ]
+    ],
+    "nodeId": 58834328
    }
   },
   {
@@ -3794,7 +4029,8 @@
     "streets": [
      "Merganser Drive",
      "Sage Hen Lane"
-    ]
+    ],
+    "nodeId": 58834331
    }
   },
   {
@@ -3810,7 +4046,8 @@
     "streets": [
      "Hilltop Lane",
      "Merganser Drive"
-    ]
+    ],
+    "nodeId": 58834333
    }
   },
   {
@@ -3826,7 +4063,8 @@
     "streets": [
      "Dana Road",
      "Dorado Road"
-    ]
+    ],
+    "nodeId": 58834339
    }
   },
   {
@@ -3842,7 +4080,8 @@
     "streets": [
      "Dorado Road",
      "Padre Road"
-    ]
+    ],
+    "nodeId": 58834342
    }
   },
   {
@@ -3858,7 +4097,8 @@
     "streets": [
      "Cressler Street",
      "Townsend Street;CA 299"
-    ]
+    ],
+    "nodeId": 58834519
    }
   },
   {
@@ -3874,7 +4114,8 @@
     "streets": [
      "Cressler Street",
      "Washington Street"
-    ]
+    ],
+    "nodeId": 58834523
    }
   },
   {
@@ -3890,7 +4131,8 @@
     "streets": [
      "County Road 151",
      "County Road 189"
-    ]
+    ],
+    "nodeId": 58834673
    }
   },
   {
@@ -3906,7 +4148,8 @@
     "streets": [
      "County Road 152",
      "Route 395;US 395;CA 299"
-    ]
+    ],
+    "nodeId": 58835591
    }
   },
   {
@@ -3923,7 +4166,8 @@
      "County Road 27",
      "County Road 27A",
      "Granger Circle"
-    ]
+    ],
+    "nodeId": 58835964
    }
   },
   {
@@ -3939,7 +4183,8 @@
     "streets": [
      "Dana Road",
      "Verde Road"
-    ]
+    ],
+    "nodeId": 58836260
    }
   },
   {
@@ -3955,7 +4200,8 @@
     "streets": [
      "Mission Road",
      "Verde Road"
-    ]
+    ],
+    "nodeId": 58836263
    }
   },
   {
@@ -3971,7 +4217,8 @@
     "streets": [
      "6th Avenue",
      "County Road 176"
-    ]
+    ],
+    "nodeId": 58836706
    }
   },
   {
@@ -3987,7 +4234,8 @@
     "streets": [
      "6th Avenue",
      "Dunsmuir Street"
-    ]
+    ],
+    "nodeId": 58836709
    }
   },
   {
@@ -4003,7 +4251,8 @@
     "streets": [
      "6th Avenue",
      "Eureka Street"
-    ]
+    ],
+    "nodeId": 58836713
    }
   },
   {
@@ -4019,7 +4268,8 @@
     "streets": [
      "6th Avenue",
      "Fresno Street"
-    ]
+    ],
+    "nodeId": 58381694
    }
   },
   {
@@ -4035,7 +4285,8 @@
     "streets": [
      "6th Avenue",
      "Glendale Street"
-    ]
+    ],
+    "nodeId": 58836717
    }
   },
   {
@@ -4051,7 +4302,8 @@
     "streets": [
      "6th Avenue",
      "Hollywood Street"
-    ]
+    ],
+    "nodeId": 58836719
    }
   },
   {
@@ -4067,7 +4319,8 @@
     "streets": [
      "6th Avenue",
      "Indio Street"
-    ]
+    ],
+    "nodeId": 58836722
    }
   },
   {
@@ -4083,7 +4336,8 @@
     "streets": [
      "County Road 111",
      "County Road 154"
-    ]
+    ],
+    "nodeId": 58836764
    }
   },
   {
@@ -4099,7 +4353,8 @@
     "streets": [
      "County Road 112",
      "County Road 154"
-    ]
+    ],
+    "nodeId": 58836784
    }
   },
   {
@@ -4115,7 +4370,8 @@
     "streets": [
      "Austin Road",
      "Saddleback Road"
-    ]
+    ],
+    "nodeId": 58836816
    }
   },
   {
@@ -4131,7 +4387,8 @@
     "streets": [
      "Kearny Road",
      "Saddleback Road"
-    ]
+    ],
+    "nodeId": 58836834
    }
   },
   {
@@ -4147,7 +4404,8 @@
     "streets": [
      "South Rine Street",
      "West Carlos Street"
-    ]
+    ],
+    "nodeId": 58836895
    }
   },
   {
@@ -4163,7 +4421,8 @@
     "streets": [
      "South Rine Street",
      "West North Street"
-    ]
+    ],
+    "nodeId": 58836897
    }
   },
   {
@@ -4180,7 +4439,8 @@
      "North Rine Street",
      "South Rine Street",
      "West 1st Street"
-    ]
+    ],
+    "nodeId": 58836898
    }
   },
   {
@@ -4196,7 +4456,8 @@
     "streets": [
      "Gorher Drive",
      "Hilltop Lane"
-    ]
+    ],
+    "nodeId": 58837046
    }
   },
   {
@@ -4212,7 +4473,8 @@
     "streets": [
      "Gorher Drive",
      "Sage Hen Lane"
-    ]
+    ],
+    "nodeId": 58837047
    }
   },
   {
@@ -4228,7 +4490,8 @@
     "streets": [
      "Gorher Drive",
      "Ringneck Lane"
-    ]
+    ],
+    "nodeId": 58837063
    }
   },
   {
@@ -4245,7 +4508,8 @@
      "CA 139",
      "County Road 103;CR 103",
      "County Road 103B"
-    ]
+    ],
+    "nodeId": 58837069
    }
   },
   {
@@ -4261,7 +4525,8 @@
     "streets": [
      "Black Pine Drive",
      "Fuller Road"
-    ]
+    ],
+    "nodeId": 58837116
    }
   },
   {
@@ -4277,7 +4542,8 @@
     "streets": [
      "County Road 157",
      "County Road 17"
-    ]
+    ],
+    "nodeId": 58837129
    }
   },
   {
@@ -4293,7 +4559,8 @@
     "streets": [
      "West C Street",
      "Western Street"
-    ]
+    ],
+    "nodeId": 58837786
    }
   },
   {
@@ -4309,7 +4576,8 @@
     "streets": [
      "West 2nd Street",
      "West C Street"
-    ]
+    ],
+    "nodeId": 58837788
    }
   },
   {
@@ -4325,7 +4593,8 @@
     "streets": [
      "Park Street",
      "West C Street"
-    ]
+    ],
+    "nodeId": 58837790
    }
   },
   {
@@ -4341,7 +4610,8 @@
     "streets": [
      "West 4th Street",
      "West C Street"
-    ]
+    ],
+    "nodeId": 58837796
    }
   },
   {
@@ -4357,7 +4627,8 @@
     "streets": [
      "West 8th Street",
      "West C Street"
-    ]
+    ],
+    "nodeId": 58837800
    }
   },
   {
@@ -4373,7 +4644,8 @@
     "streets": [
      "West 12th Street;CA 299",
      "West C Street"
-    ]
+    ],
+    "nodeId": 58837806
    }
   },
   {
@@ -4389,7 +4661,8 @@
     "streets": [
      "Lower Rush Creek Road",
      "Modoc Drive"
-    ]
+    ],
+    "nodeId": 58837840
    }
   },
   {
@@ -4405,7 +4678,8 @@
     "streets": [
      "Juniper Way",
      "Modoc Drive"
-    ]
+    ],
+    "nodeId": 58837850
    }
   },
   {
@@ -4421,7 +4695,8 @@
     "streets": [
      "Red Deer Lane",
      "Tiger Drive"
-    ]
+    ],
+    "nodeId": 58838393
    }
   },
   {
@@ -4437,7 +4712,8 @@
     "streets": [
      "Lion Lane",
      "Tiger Drive"
-    ]
+    ],
+    "nodeId": 58838399
    }
   },
   {
@@ -4453,7 +4729,8 @@
     "streets": [
      "Steelhead Lane",
      "Tiger Drive"
-    ]
+    ],
+    "nodeId": 58838410
    }
   },
   {
@@ -4469,7 +4746,8 @@
     "streets": [
      "Mountain Quail Lane",
      "Tiger Drive"
-    ]
+    ],
+    "nodeId": 58838429
    }
   },
   {
@@ -4486,7 +4764,8 @@
      "Kramer Road",
      "Kramer Road;CR 93",
      "Main Street"
-    ]
+    ],
+    "nodeId": 58838534
    }
   },
   {
@@ -4502,7 +4781,8 @@
     "streets": [
      "1st Street",
      "Kramer Road"
-    ]
+    ],
+    "nodeId": 58838545
    }
   },
   {
@@ -4518,7 +4798,8 @@
     "streets": [
      "County Road 93",
      "Kramer Road"
-    ]
+    ],
+    "nodeId": 58838559
    }
   },
   {
@@ -4534,7 +4815,8 @@
     "streets": [
      "Lake Street",
      "Plum Street"
-    ]
+    ],
+    "nodeId": 58838985
    }
   },
   {
@@ -4550,7 +4832,8 @@
     "streets": [
      "Delano Road",
      "Masson Road"
-    ]
+    ],
+    "nodeId": 58839044
    }
   },
   {
@@ -4566,7 +4849,8 @@
     "streets": [
      "Delano Road",
      "El Monte Road"
-    ]
+    ],
+    "nodeId": 58839061
    }
   },
   {
@@ -4582,7 +4866,8 @@
     "streets": [
      "Cedros Road",
      "Delano Road"
-    ]
+    ],
+    "nodeId": 58839068
    }
   },
   {
@@ -4598,7 +4883,8 @@
     "streets": [
      "North Howard Street",
      "West 5th Street"
-    ]
+    ],
+    "nodeId": 58839137
    }
   },
   {
@@ -4614,7 +4900,8 @@
     "streets": [
      "North Main Street;US 395",
      "West 5th Street"
-    ]
+    ],
+    "nodeId": 58839140
    }
   },
   {
@@ -4630,7 +4917,8 @@
     "streets": [
      "North Court Street",
      "West 5th Street"
-    ]
+    ],
+    "nodeId": 2698420302
    }
   },
   {
@@ -4646,7 +4934,8 @@
     "streets": [
      "Smith Street",
      "West 5th Street"
-    ]
+    ],
+    "nodeId": 58839144
    }
   },
   {
@@ -4662,7 +4951,8 @@
     "streets": [
      "North Warner Street",
      "West 5th Street"
-    ]
+    ],
+    "nodeId": 58839146
    }
   },
   {
@@ -4678,7 +4968,8 @@
     "streets": [
      "Black Pine Drive",
      "Wesley Circle"
-    ]
+    ],
+    "nodeId": 58839256
    }
   },
   {
@@ -4696,7 +4987,8 @@
      "Cooke Drive",
      "Opal Circle",
      "Opal Drive"
-    ]
+    ],
+    "nodeId": 58839319
    }
   },
   {
@@ -4712,7 +5004,8 @@
     "streets": [
      "CA 299",
      "Hays Street"
-    ]
+    ],
+    "nodeId": 58839328
    }
   },
   {
@@ -4728,7 +5021,8 @@
     "streets": [
      "Canby Street",
      "County Road 161"
-    ]
+    ],
+    "nodeId": 58839787
    }
   },
   {
@@ -4744,7 +5038,8 @@
     "streets": [
      "County Road 161",
      "County Road 162"
-    ]
+    ],
+    "nodeId": 58839794
    }
   },
   {
@@ -4760,7 +5055,8 @@
     "streets": [
      "County Road 161",
      "County Road 83"
-    ]
+    ],
+    "nodeId": 58839810
    }
   },
   {
@@ -4776,7 +5072,8 @@
     "streets": [
      "Lyneta Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58840066
    }
   },
   {
@@ -4793,7 +5090,8 @@
      "County Road 187A",
      "Fitzhugh Creek Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58840118
    }
   },
   {
@@ -4810,7 +5108,8 @@
      "County Road 187C",
      "Fitzhugh Creek Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58840143
    }
   },
   {
@@ -4827,7 +5126,8 @@
      "County Road 115",
      "County Road 187C",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58840202
    }
   },
   {
@@ -4844,7 +5144,8 @@
      "East 12th Street;US 395;CA 299",
      "North Court Street",
      "Route 395;US 395;CA 299"
-    ]
+    ],
+    "nodeId": 58907131
    }
   },
   {
@@ -4860,7 +5161,8 @@
     "streets": [
      "North East Street",
      "Route 395;US 395;CA 299"
-    ]
+    ],
+    "nodeId": 58840332
    }
   },
   {
@@ -4876,7 +5178,8 @@
     "streets": [
      "North East A Street",
      "Route 395;US 395;CA 299"
-    ]
+    ],
+    "nodeId": 58631477
    }
   },
   {
@@ -4892,7 +5195,8 @@
     "streets": [
      "North East B Street",
      "Route 395;US 395;CA 299"
-    ]
+    ],
+    "nodeId": 58840333
    }
   },
   {
@@ -4909,7 +5213,8 @@
      "4th Avenue",
      "Hollywood Street",
      "Meander Drive"
-    ]
+    ],
+    "nodeId": 58842762
    }
   },
   {
@@ -4925,7 +5230,8 @@
     "streets": [
      "Indio Street",
      "Meander Drive"
-    ]
+    ],
+    "nodeId": 58842773
    }
   },
   {
@@ -4941,7 +5247,8 @@
     "streets": [
      "5th Avenue",
      "Meander Drive"
-    ]
+    ],
+    "nodeId": 58842775
    }
   },
   {
@@ -4957,7 +5264,8 @@
     "streets": [
      "Cedarville Indian Road",
      "Patterson Street"
-    ]
+    ],
+    "nodeId": 58770106
    }
   },
   {
@@ -4974,7 +5282,8 @@
      "CA 299",
      "Patterson Street",
      "Townsend Street;CA 299"
-    ]
+    ],
+    "nodeId": 58842792
    }
   },
   {
@@ -4990,7 +5299,8 @@
     "streets": [
      "Patterson Street",
      "Washington Street"
-    ]
+    ],
+    "nodeId": 58499711
    }
   },
   {
@@ -5006,7 +5316,8 @@
     "streets": [
      "Blacks Canyon Road",
      "County Road 162"
-    ]
+    ],
+    "nodeId": 58842964
    }
   },
   {
@@ -5022,7 +5333,8 @@
     "streets": [
      "Canby Street",
      "County Road 162"
-    ]
+    ],
+    "nodeId": 58842983
    }
   },
   {
@@ -5038,7 +5350,8 @@
     "streets": [
      "Centerville Road",
      "County Road 163"
-    ]
+    ],
+    "nodeId": 58843003
    }
   },
   {
@@ -5055,7 +5368,8 @@
      "County Road 163",
      "County Road 167",
      "Riverside Drive"
-    ]
+    ],
+    "nodeId": 58843005
    }
   },
   {
@@ -5071,7 +5385,8 @@
     "streets": [
      "South Cedar Street",
      "West 2nd Street"
-    ]
+    ],
+    "nodeId": 2698287848
    }
   },
   {
@@ -5087,7 +5402,8 @@
     "streets": [
      "Poplar Street",
      "West 2nd Street"
-    ]
+    ],
+    "nodeId": 58843011
    }
   },
   {
@@ -5103,7 +5419,8 @@
     "streets": [
      "North West Street",
      "West 2nd Street"
-    ]
+    ],
+    "nodeId": 58843014
    }
   },
   {
@@ -5119,7 +5436,8 @@
     "streets": [
      "Nagle Street",
      "West 2nd Street"
-    ]
+    ],
+    "nodeId": 58843016
    }
   },
   {
@@ -5135,7 +5453,8 @@
     "streets": [
      "North Danhauser Street",
      "West 2nd Street"
-    ]
+    ],
+    "nodeId": 58843018
    }
   },
   {
@@ -5151,7 +5470,8 @@
     "streets": [
      "North West B Street",
      "West 2nd Street"
-    ]
+    ],
+    "nodeId": 58843030
    }
   },
   {
@@ -5167,7 +5487,8 @@
     "streets": [
      "North West A Street",
      "West 2nd Street"
-    ]
+    ],
+    "nodeId": 58843033
    }
   },
   {
@@ -5183,7 +5504,8 @@
     "streets": [
      "North Rine Street",
      "West 2nd Street"
-    ]
+    ],
+    "nodeId": 58843034
    }
   },
   {
@@ -5199,7 +5521,8 @@
     "streets": [
      "North Howard Street",
      "West 2nd Street"
-    ]
+    ],
+    "nodeId": 58843036
    }
   },
   {
@@ -5216,7 +5539,8 @@
      "East 2nd Street",
      "North Main Street;US 395",
      "West 2nd Street"
-    ]
+    ],
+    "nodeId": 58843039
    }
   },
   {
@@ -5232,7 +5556,8 @@
     "streets": [
      "Beet Camp Road",
      "Eastside Canal"
-    ]
+    ],
+    "nodeId": 58843317
    }
   },
   {
@@ -5248,7 +5573,8 @@
     "streets": [
      "South Willow Ranch Road",
      "Willow Ranch Road"
-    ]
+    ],
+    "nodeId": 58586602
    }
   },
   {
@@ -5265,7 +5591,8 @@
      "Fandango Pass Road",
      "Route 395;US 395",
      "Willow Ranch Road"
-    ]
+    ],
+    "nodeId": 58841136
    }
   },
   {
@@ -5281,7 +5608,8 @@
     "streets": [
      "California Pines Boulevard",
      "Highlands Road"
-    ]
+    ],
+    "nodeId": 58843527
    }
   },
   {
@@ -5297,7 +5625,8 @@
     "streets": [
      "Highlands Road",
      "Hunter Drive"
-    ]
+    ],
+    "nodeId": 58843528
    }
   },
   {
@@ -5313,7 +5642,8 @@
     "streets": [
      "East 9th Street",
      "North East A Street"
-    ]
+    ],
+    "nodeId": 58843539
    }
   },
   {
@@ -5329,7 +5659,8 @@
     "streets": [
      "East 10th Street",
      "North East A Street"
-    ]
+    ],
+    "nodeId": 58833845
    }
   },
   {
@@ -5345,7 +5676,8 @@
     "streets": [
      "East 12th Street",
      "North East A Street"
-    ]
+    ],
+    "nodeId": 58843541
    }
   },
   {
@@ -5361,7 +5693,8 @@
     "streets": [
      "East 5th Street",
      "North East A Street"
-    ]
+    ],
+    "nodeId": 58843546
    }
   },
   {
@@ -5377,7 +5710,8 @@
     "streets": [
      "East 6th Street",
      "North East A Street"
-    ]
+    ],
+    "nodeId": 58843548
    }
   },
   {
@@ -5393,7 +5727,8 @@
     "streets": [
      "East 7th Street",
      "North East A Street"
-    ]
+    ],
+    "nodeId": 58843549
    }
   },
   {
@@ -5409,7 +5744,8 @@
     "streets": [
      "East 8th Street",
      "North East A Street"
-    ]
+    ],
+    "nodeId": 58843553
    }
   },
   {
@@ -5425,7 +5761,8 @@
     "streets": [
      "16th Street",
      "North East A Street"
-    ]
+    ],
+    "nodeId": 58843568
    }
   },
   {
@@ -5441,7 +5778,8 @@
     "streets": [
      "Fee Reservoir Road;CR 6",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58843569
    }
   },
   {
@@ -5457,7 +5795,8 @@
     "streets": [
      "Fee Reservoir Road;CR 6",
      "Sanders Street"
-    ]
+    ],
+    "nodeId": 318076195
    }
   },
   {
@@ -5473,7 +5812,8 @@
     "streets": [
      "County Road 6;CR 6",
      "Fee Reservoir Road;CR 6"
-    ]
+    ],
+    "nodeId": 58807166
    }
   },
   {
@@ -5489,7 +5829,8 @@
     "streets": [
      "Cedar Drive",
      "Juniper Way"
-    ]
+    ],
+    "nodeId": 58843923
    }
   },
   {
@@ -5505,7 +5846,8 @@
     "streets": [
      "Juniper Way",
      "Muletail Drive"
-    ]
+    ],
+    "nodeId": 58843945
    }
   },
   {
@@ -5521,7 +5863,8 @@
     "streets": [
      "Main Street;CR 1",
      "Sanders Street"
-    ]
+    ],
+    "nodeId": 58844051
    }
   },
   {
@@ -5537,7 +5880,8 @@
     "streets": [
      "CA 139",
      "Dunsmuir Street"
-    ]
+    ],
+    "nodeId": 58844098
    }
   },
   {
@@ -5553,7 +5897,8 @@
     "streets": [
      "4th Avenue",
      "Dunsmuir Street"
-    ]
+    ],
+    "nodeId": 58844094
    }
   },
   {
@@ -5569,7 +5914,8 @@
     "streets": [
      "5th Avenue",
      "Dunsmuir Street"
-    ]
+    ],
+    "nodeId": 58844092
    }
   },
   {
@@ -5585,7 +5931,8 @@
     "streets": [
      "Highgrade Road",
      "Pinecreek Canyon Road"
-    ]
+    ],
+    "nodeId": 58765722
    }
   },
   {
@@ -5601,7 +5948,8 @@
     "streets": [
      "County Road 15",
      "County Road 15A"
-    ]
+    ],
+    "nodeId": 58844950
    }
   },
   {
@@ -5617,7 +5965,8 @@
     "streets": [
      "Adobe Road",
      "Sierra Vista Road"
-    ]
+    ],
+    "nodeId": 58844957
    }
   },
   {
@@ -5633,7 +5982,8 @@
     "streets": [
      "County Road 166",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58845125
    }
   },
   {
@@ -5649,7 +5999,8 @@
     "streets": [
      "Alturas Dump Road",
      "Westside Road"
-    ]
+    ],
+    "nodeId": 58845372
    }
   },
   {
@@ -5665,7 +6016,8 @@
     "streets": [
      "El Monte Road",
      "Elena Road"
-    ]
+    ],
+    "nodeId": 58845497
    }
   },
   {
@@ -5681,7 +6033,8 @@
     "streets": [
      "County Road 168",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58845506
    }
   },
   {
@@ -5697,7 +6050,8 @@
     "streets": [
      "44N17;NF 97;CR 97",
      "County Road 97A"
-    ]
+    ],
+    "nodeId": 58833903
    }
   },
   {
@@ -5713,7 +6067,8 @@
     "streets": [
      "County Road 97A",
      "Tionesta Road"
-    ]
+    ],
+    "nodeId": 58706593
    }
   },
   {
@@ -5729,7 +6084,8 @@
     "streets": [
      "Surprise Valley Road;CR 1",
      "Tha-Quida-Tah-Buh Road"
-    ]
+    ],
+    "nodeId": 58845531
    }
   },
   {
@@ -5745,7 +6101,8 @@
     "streets": [
      "CA 139",
      "County Road 169"
-    ]
+    ],
+    "nodeId": 58845582
    }
   },
   {
@@ -5761,7 +6118,8 @@
     "streets": [
      "East 7th Street",
      "North East Street"
-    ]
+    ],
+    "nodeId": 58845588
    }
   },
   {
@@ -5777,7 +6135,8 @@
     "streets": [
      "East 7th Street",
      "North East B Street"
-    ]
+    ],
+    "nodeId": 58845589
    }
   },
   {
@@ -5793,7 +6152,8 @@
     "streets": [
      "East 7th Street",
      "East C Street"
-    ]
+    ],
+    "nodeId": 58845591
    }
   },
   {
@@ -5809,7 +6169,8 @@
     "streets": [
      "East 7th Street",
      "North East D Street"
-    ]
+    ],
+    "nodeId": 58845593
    }
   },
   {
@@ -5825,7 +6186,8 @@
     "streets": [
      "East 7th Street",
      "Josephine Street"
-    ]
+    ],
+    "nodeId": 58845595
    }
   },
   {
@@ -5841,7 +6203,8 @@
     "streets": [
      "East North Street",
      "South Estes Street"
-    ]
+    ],
+    "nodeId": 58845602
    }
   },
   {
@@ -5857,7 +6220,8 @@
     "streets": [
      "East North Street",
      "South East Street"
-    ]
+    ],
+    "nodeId": 58845604
    }
   },
   {
@@ -5873,7 +6237,8 @@
     "streets": [
      "East North Street",
      "South Court Street"
-    ]
+    ],
+    "nodeId": 58845607
    }
   },
   {
@@ -5890,7 +6255,8 @@
      "East North Street",
      "South Main Street;US 395",
      "West North Street"
-    ]
+    ],
+    "nodeId": 58845609
    }
   },
   {
@@ -5906,7 +6272,8 @@
     "streets": [
      "Eagle Drive",
      "King Drive"
-    ]
+    ],
+    "nodeId": 58846007
    }
   },
   {
@@ -5922,7 +6289,8 @@
     "streets": [
      "Applegate Trail",
      "King Drive"
-    ]
+    ],
+    "nodeId": 58846017
    }
   },
   {
@@ -5938,7 +6306,8 @@
     "streets": [
      "Lava Beds National Monument Road",
      "Lava Beds National Monument Road;NF 10"
-    ]
+    ],
+    "nodeId": 58846022
    }
   },
   {
@@ -5954,7 +6323,8 @@
     "streets": [
      "44N17;NF 97;CR 97",
      "Lava Beds National Monument Road"
-    ]
+    ],
+    "nodeId": 58833918
    }
   },
   {
@@ -5970,7 +6340,8 @@
     "streets": [
      "Glen View Lane",
      "Sage View Circle"
-    ]
+    ],
+    "nodeId": 58846931
    }
   },
   {
@@ -5986,7 +6357,8 @@
     "streets": [
      "Goose Lake Road",
      "Pintail Road"
-    ]
+    ],
+    "nodeId": 58847047
    }
   },
   {
@@ -6002,7 +6374,8 @@
     "streets": [
      "New Pine Road",
      "Pintail Road"
-    ]
+    ],
+    "nodeId": 58847050
    }
   },
   {
@@ -6018,7 +6391,8 @@
     "streets": [
      "County Road 44",
      "Pintail Road"
-    ]
+    ],
+    "nodeId": 58847051
    }
   },
   {
@@ -6034,7 +6408,8 @@
     "streets": [
      "Kensill Street",
      "Main Street;CR 1"
-    ]
+    ],
+    "nodeId": 58847052
    }
   },
   {
@@ -6050,7 +6425,8 @@
     "streets": [
      "Adin Street",
      "Cedar Street"
-    ]
+    ],
+    "nodeId": 58847133
    }
   },
   {
@@ -6066,7 +6442,8 @@
     "streets": [
      "CA 139;CA 299",
      "Cedar Street"
-    ]
+    ],
+    "nodeId": 58847136
    }
   },
   {
@@ -6082,7 +6459,8 @@
     "streets": [
      "Ash Street",
      "Cedar Street"
-    ]
+    ],
+    "nodeId": 58847138
    }
   },
   {
@@ -6098,7 +6476,8 @@
     "streets": [
      "County Road 172",
      "Parker Creek Road"
-    ]
+    ],
+    "nodeId": 58848731
    }
   },
   {
@@ -6114,7 +6493,8 @@
     "streets": [
      "Lincoln Street",
      "Townsend Street;CA 299"
-    ]
+    ],
+    "nodeId": 58850205
    }
   },
   {
@@ -6130,7 +6510,8 @@
     "streets": [
      "Garfield Street",
      "Townsend Street;CA 299"
-    ]
+    ],
+    "nodeId": 58850211
    }
   },
   {
@@ -6146,7 +6527,8 @@
     "streets": [
      "High Street",
      "Townsend Street;CA 299"
-    ]
+    ],
+    "nodeId": 58850213
    }
   },
   {
@@ -6162,7 +6544,8 @@
     "streets": [
      "Center Street",
      "Townsend Street;CA 299"
-    ]
+    ],
+    "nodeId": 58850215
    }
   },
   {
@@ -6179,7 +6562,8 @@
      "CA 299",
      "Main Street;CR 1",
      "Townsend Street;CA 299"
-    ]
+    ],
+    "nodeId": 58850217
    }
   },
   {
@@ -6195,7 +6579,8 @@
     "streets": [
      "County Road 29A",
      "County Road 30"
-    ]
+    ],
+    "nodeId": 58850281
    }
   },
   {
@@ -6211,7 +6596,8 @@
     "streets": [
      "County Road 29",
      "County Road 29A"
-    ]
+    ],
+    "nodeId": 58850299
    }
   },
   {
@@ -6227,7 +6613,8 @@
     "streets": [
      "Honey View Drive",
      "Lake View Drive"
-    ]
+    ],
+    "nodeId": 58850300
    }
   },
   {
@@ -6243,7 +6630,8 @@
     "streets": [
      "Honey View Drive",
      "Ridge View Drive"
-    ]
+    ],
+    "nodeId": 58850306
    }
   },
   {
@@ -6259,7 +6647,8 @@
     "streets": [
      "Carmel Road",
      "Drake Road"
-    ]
+    ],
+    "nodeId": 58850345
    }
   },
   {
@@ -6275,7 +6664,8 @@
     "streets": [
      "44N42 Road",
      "Dalton Reservoir Road"
-    ]
+    ],
+    "nodeId": 58850984
    }
   },
   {
@@ -6291,7 +6681,8 @@
     "streets": [
      "Centerville Road",
      "County Road 175"
-    ]
+    ],
+    "nodeId": 58851390
    }
   },
   {
@@ -6307,7 +6698,8 @@
     "streets": [
      "Lagana Road",
      "North West Street"
-    ]
+    ],
+    "nodeId": 58848344
    }
   },
   {
@@ -6323,7 +6715,8 @@
     "streets": [
      "Oak Street",
      "West 12th Street;CA 299"
-    ]
+    ],
+    "nodeId": 58851720
    }
   },
   {
@@ -6339,7 +6732,8 @@
     "streets": [
      "Oak Street",
      "West 14th Street"
-    ]
+    ],
+    "nodeId": 58851722
    }
   },
   {
@@ -6355,7 +6749,8 @@
     "streets": [
      "Oak Street",
      "West 16th Street"
-    ]
+    ],
+    "nodeId": 58851728
    }
   },
   {
@@ -6371,7 +6766,8 @@
     "streets": [
      "Lucilane Boulevard",
      "Oak Street"
-    ]
+    ],
+    "nodeId": 58851739
    }
   },
   {
@@ -6387,7 +6783,8 @@
     "streets": [
      "Ash Street",
      "Oak Street"
-    ]
+    ],
+    "nodeId": 58851746
    }
   },
   {
@@ -6403,7 +6800,8 @@
     "streets": [
      "CA 139;CA 299",
      "Oak Street"
-    ]
+    ],
+    "nodeId": 58851748
    }
   },
   {
@@ -6419,7 +6817,8 @@
     "streets": [
      "Adin Street",
      "Oak Street"
-    ]
+    ],
+    "nodeId": 58851754
    }
   },
   {
@@ -6435,7 +6834,8 @@
     "streets": [
      "County Road 105A;CR 105A",
      "County Road 112;CR 112"
-    ]
+    ],
+    "nodeId": 58851758
    }
   },
   {
@@ -6451,7 +6851,8 @@
     "streets": [
      "Hummingbird Lane",
      "Lynx Drive"
-    ]
+    ],
+    "nodeId": 58851845
    }
   },
   {
@@ -6467,7 +6868,8 @@
     "streets": [
      "Hilltop Lane",
      "Lynx Drive"
-    ]
+    ],
+    "nodeId": 58851846
    }
   },
   {
@@ -6483,7 +6885,8 @@
     "streets": [
      "CA 139",
      "County Road 176"
-    ]
+    ],
+    "nodeId": 58851878
    }
   },
   {
@@ -6499,7 +6902,8 @@
     "streets": [
      "County Road 176",
      "Hunter Drive"
-    ]
+    ],
+    "nodeId": 58851867
    }
   },
   {
@@ -6515,7 +6919,8 @@
     "streets": [
      "Airport Road",
      "County Road 176"
-    ]
+    ],
+    "nodeId": 58851854
    }
   },
   {
@@ -6531,7 +6936,8 @@
     "streets": [
      "County Road 113;CR 113",
      "County Road 176"
-    ]
+    ],
+    "nodeId": 58851848
    }
   },
   {
@@ -6547,7 +6953,8 @@
     "streets": [
      "County Road 105B",
      "County Road 106;CR 106"
-    ]
+    ],
+    "nodeId": 58851928
    }
   },
   {
@@ -6563,7 +6970,8 @@
     "streets": [
      "Las Plumas Road",
      "Niemieco Road"
-    ]
+    ],
+    "nodeId": 58851941
    }
   },
   {
@@ -6579,7 +6987,8 @@
     "streets": [
      "Niemieco Road",
      "Twohie Road"
-    ]
+    ],
+    "nodeId": 58851944
    }
   },
   {
@@ -6595,7 +7004,8 @@
     "streets": [
      "Breighton Road",
      "Niemieco Road"
-    ]
+    ],
+    "nodeId": 58851947
    }
   },
   {
@@ -6611,7 +7021,8 @@
     "streets": [
      "County Road 187A",
      "County Road 189"
-    ]
+    ],
+    "nodeId": 58852070
    }
   },
   {
@@ -6627,7 +7038,8 @@
     "streets": [
      "County Road 187A",
      "Lyneta Road"
-    ]
+    ],
+    "nodeId": 58588767
    }
   },
   {
@@ -6643,7 +7055,8 @@
     "streets": [
      "Elena Road",
      "Rafael Road"
-    ]
+    ],
+    "nodeId": 58852526
    }
   },
   {
@@ -6659,7 +7072,8 @@
     "streets": [
      "County Road 179",
      "County Road 76"
-    ]
+    ],
+    "nodeId": 58853743
    }
   },
   {
@@ -6675,7 +7089,8 @@
     "streets": [
      "County Road 179",
      "T Road"
-    ]
+    ],
+    "nodeId": 58853799
    }
   },
   {
@@ -6691,7 +7106,8 @@
     "streets": [
      "Applegate Trail",
      "Cotton Drive"
-    ]
+    ],
+    "nodeId": 58854051
    }
   },
   {
@@ -6707,7 +7123,8 @@
     "streets": [
      "Applegate Trail",
      "Wolf Drive"
-    ]
+    ],
+    "nodeId": 58854054
    }
   },
   {
@@ -6724,7 +7141,8 @@
      "Applegate Trail",
      "Hart Drive",
      "Hunter Drive"
-    ]
+    ],
+    "nodeId": 58854082
    }
   },
   {
@@ -6741,7 +7159,8 @@
      "North Howard Street",
      "South Howard Street",
      "West 1st Street"
-    ]
+    ],
+    "nodeId": 58854089
    }
   },
   {
@@ -6757,7 +7176,8 @@
     "streets": [
      "North Howard Street",
      "West 3rd Street"
-    ]
+    ],
+    "nodeId": 58854091
    }
   },
   {
@@ -6773,7 +7193,8 @@
     "streets": [
      "North Howard Street",
      "West 4th Street"
-    ]
+    ],
+    "nodeId": 58854095
    }
   },
   {
@@ -6789,7 +7210,8 @@
     "streets": [
      "County Road 85",
      "County Road 85A"
-    ]
+    ],
+    "nodeId": 58854169
    }
   },
   {
@@ -6805,7 +7227,8 @@
     "streets": [
      "5th Avenue",
      "Hollywood Street"
-    ]
+    ],
+    "nodeId": 58854257
    }
   },
   {
@@ -6821,7 +7244,8 @@
     "streets": [
      "Shields Creek Road",
      "West Warner Road"
-    ]
+    ],
+    "nodeId": 58551699
    }
   },
   {
@@ -6837,7 +7261,8 @@
     "streets": [
      "Parker Creek Road",
      "Shields Creek Road"
-    ]
+    ],
+    "nodeId": 58854669
    }
   },
   {
@@ -6853,7 +7278,8 @@
     "streets": [
      "Mountain Trout Lane",
      "Pheasant Drive"
-    ]
+    ],
+    "nodeId": 58854793
    }
   },
   {
@@ -6869,7 +7295,8 @@
     "streets": [
      "Mountain Trout Lane",
      "Squirrel Drive"
-    ]
+    ],
+    "nodeId": 58854797
    }
   },
   {
@@ -6885,7 +7312,8 @@
     "streets": [
      "County Road 115",
      "Jones Lane"
-    ]
+    ],
+    "nodeId": 58855288
    }
   },
   {
@@ -6901,7 +7329,8 @@
     "streets": [
      "A Street",
      "Peninsula Drive"
-    ]
+    ],
+    "nodeId": 58855334
    }
   },
   {
@@ -6917,7 +7346,8 @@
     "streets": [
      "A Street",
      "Wagon Wheel Drive"
-    ]
+    ],
+    "nodeId": 58855345
    }
   },
   {
@@ -6933,7 +7363,8 @@
     "streets": [
      "A Street",
      "Captin Jack Way"
-    ]
+    ],
+    "nodeId": 58855352
    }
   },
   {
@@ -6949,7 +7380,8 @@
     "streets": [
      "42N19 Road",
      "42N21 Road"
-    ]
+    ],
+    "nodeId": 58567000
    }
   },
   {
@@ -6965,7 +7397,8 @@
     "streets": [
      "42N19 Road",
      "Loveness Logging Road"
-    ]
+    ],
+    "nodeId": 58855392
    }
   },
   {
@@ -6981,7 +7414,8 @@
     "streets": [
      "Dons Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58839958
    }
   },
   {
@@ -6997,7 +7431,8 @@
     "streets": [
      "County Road 188",
      "Dons Road"
-    ]
+    ],
+    "nodeId": 4712865710
    }
   },
   {
@@ -7013,7 +7448,8 @@
     "streets": [
      "Dons Road",
      "South Fork Pit River"
-    ]
+    ],
+    "nodeId": 58855662
    }
   },
   {
@@ -7029,7 +7465,8 @@
     "streets": [
      "Adair Road",
      "County Road 56"
-    ]
+    ],
+    "nodeId": 58855682
    }
   },
   {
@@ -7045,7 +7482,8 @@
     "streets": [
      "Cook Drive",
      "Jefferson"
-    ]
+    ],
+    "nodeId": 58855712
    }
   },
   {
@@ -7061,7 +7499,8 @@
     "streets": [
      "Canvasback Lane",
      "Millard North"
-    ]
+    ],
+    "nodeId": 58855770
    }
   },
   {
@@ -7077,7 +7516,8 @@
     "streets": [
      "Mallard Lane",
      "Millard North"
-    ]
+    ],
+    "nodeId": 58855777
    }
   },
   {
@@ -7093,7 +7533,8 @@
     "streets": [
      "Mountain Quail Lane",
      "Puma Lane"
-    ]
+    ],
+    "nodeId": 58855783
    }
   },
   {
@@ -7109,7 +7550,8 @@
     "streets": [
      "County Road 185",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58856976
    }
   },
   {
@@ -7125,7 +7567,8 @@
     "streets": [
      "Arroyo Road",
      "Yorba Road"
-    ]
+    ],
+    "nodeId": 58856990
    }
   },
   {
@@ -7141,7 +7584,8 @@
     "streets": [
      "Bobcat Lane",
      "Old Imagrant Trail"
-    ]
+    ],
+    "nodeId": 58857265
    }
   },
   {
@@ -7157,7 +7601,8 @@
     "streets": [
      "Las Plumas Road",
      "Moraga Road"
-    ]
+    ],
+    "nodeId": 58857583
    }
   },
   {
@@ -7173,7 +7618,8 @@
     "streets": [
      "Las Plumas Road",
      "Palo Alto Road"
-    ]
+    ],
+    "nodeId": 58857585
    }
   },
   {
@@ -7189,7 +7635,8 @@
     "streets": [
      "Las Plumas Road",
      "Santa Cruz Road"
-    ]
+    ],
+    "nodeId": 58857587
    }
   },
   {
@@ -7205,7 +7652,8 @@
     "streets": [
      "Las Plumas Road",
      "Peralta Road"
-    ]
+    ],
+    "nodeId": 58857589
    }
   },
   {
@@ -7221,7 +7669,8 @@
     "streets": [
      "Las Plumas Road",
      "Presidio Road"
-    ]
+    ],
+    "nodeId": 58857591
    }
   },
   {
@@ -7237,7 +7686,8 @@
     "streets": [
      "Felipe Road",
      "Las Plumas Road"
-    ]
+    ],
+    "nodeId": 58857593
    }
   },
   {
@@ -7253,7 +7703,8 @@
     "streets": [
      "Las Plumas Road",
      "Lorenzo Road"
-    ]
+    ],
+    "nodeId": 58857594
    }
   },
   {
@@ -7269,7 +7720,8 @@
     "streets": [
      "La Brea Road",
      "Las Plumas Road"
-    ]
+    ],
+    "nodeId": 58857595
    }
   },
   {
@@ -7286,7 +7738,8 @@
      "County Road 75",
      "Las Plumas Road",
      "North West Street"
-    ]
+    ],
+    "nodeId": 58848420
    }
   },
   {
@@ -7302,7 +7755,8 @@
     "streets": [
      "Pheasant Drive",
      "Raccoon Lane"
-    ]
+    ],
+    "nodeId": 58857615
    }
   },
   {
@@ -7318,7 +7772,8 @@
     "streets": [
      "Pintail Drive",
      "Raccoon Lane"
-    ]
+    ],
+    "nodeId": 58857668
    }
   },
   {
@@ -7334,7 +7789,8 @@
     "streets": [
      "Mountain Quail Lane",
      "Raccoon Lane"
-    ]
+    ],
+    "nodeId": 58857678
    }
   },
   {
@@ -7350,7 +7806,8 @@
     "streets": [
      "Beaver Drive",
      "Raccoon Lane"
-    ]
+    ],
+    "nodeId": 58857684
    }
   },
   {
@@ -7366,7 +7823,8 @@
     "streets": [
      "Post Street",
      "Water Street"
-    ]
+    ],
+    "nodeId": 58857696
    }
   },
   {
@@ -7382,7 +7840,8 @@
     "streets": [
      "Main Street;CR 1",
      "Post Street"
-    ]
+    ],
+    "nodeId": 58857697
    }
   },
   {
@@ -7398,7 +7857,8 @@
     "streets": [
      "East 13th Street",
      "North Court Street"
-    ]
+    ],
+    "nodeId": 58857707
    }
   },
   {
@@ -7414,7 +7874,8 @@
     "streets": [
      "Bufflehead Drive",
      "Partridge Lane"
-    ]
+    ],
+    "nodeId": 58857709
    }
   },
   {
@@ -7430,7 +7891,8 @@
     "streets": [
      "Goose Loop",
      "Partridge Lane"
-    ]
+    ],
+    "nodeId": 58857717
    }
   },
   {
@@ -7446,7 +7908,8 @@
     "streets": [
      "Loteto Road",
      "Presidio Road"
-    ]
+    ],
+    "nodeId": 58857815
    }
   },
   {
@@ -7462,7 +7925,8 @@
     "streets": [
      "Grande Road",
      "Presidio Road"
-    ]
+    ],
+    "nodeId": 58857818
    }
   },
   {
@@ -7478,7 +7942,8 @@
     "streets": [
      "Day Road",
      "Day Star Road"
-    ]
+    ],
+    "nodeId": 58766872
    }
   },
   {
@@ -7494,7 +7959,8 @@
     "streets": [
      "Kino Road",
      "Sierra Vista Road"
-    ]
+    ],
+    "nodeId": 58858085
    }
   },
   {
@@ -7510,7 +7976,8 @@
     "streets": [
      "Arroyo Road",
      "Kino Road"
-    ]
+    ],
+    "nodeId": 58858092
    }
   },
   {
@@ -7526,7 +7993,8 @@
     "streets": [
      "CA 139",
      "County Road 99A"
-    ]
+    ],
+    "nodeId": 58858095
    }
   },
   {
@@ -7542,7 +8010,8 @@
     "streets": [
      "County Road 189",
      "County Road 60"
-    ]
+    ],
+    "nodeId": 58858574
    }
   },
   {
@@ -7558,7 +8027,8 @@
     "streets": [
      "California Pines Boulevard",
      "Windsor Drive"
-    ]
+    ],
+    "nodeId": 58858622
    }
   },
   {
@@ -7574,7 +8044,8 @@
     "streets": [
      "East 18th Street",
      "North Court Street"
-    ]
+    ],
+    "nodeId": 58858930
    }
   },
   {
@@ -7590,7 +8061,8 @@
     "streets": [
      "East 18th Street",
      "North East Street"
-    ]
+    ],
+    "nodeId": 58858931
    }
   },
   {
@@ -7606,7 +8078,8 @@
     "streets": [
      "James Road",
      "Overland Road"
-    ]
+    ],
+    "nodeId": 58858936
    }
   },
   {
@@ -7622,7 +8095,8 @@
     "streets": [
      "Alpine Circle",
      "Archer Drive"
-    ]
+    ],
+    "nodeId": 58858952
    }
   },
   {
@@ -7638,7 +8112,8 @@
     "streets": [
      "High Street",
      "Washington Street"
-    ]
+    ],
+    "nodeId": 58859016
    }
   },
   {
@@ -7654,7 +8129,8 @@
     "streets": [
      "High Street",
      "Wallace Street"
-    ]
+    ],
+    "nodeId": 58684314
    }
   },
   {
@@ -7670,7 +8146,8 @@
     "streets": [
      "High Street",
      "North Street"
-    ]
+    ],
+    "nodeId": 58599988
    }
   },
   {
@@ -7686,7 +8163,8 @@
     "streets": [
      "High Street",
      "Plum Street"
-    ]
+    ],
+    "nodeId": 58859024
    }
   },
   {
@@ -7703,7 +8181,8 @@
      "East 3rd Street",
      "North Main Street;US 395",
      "West 3rd Street"
-    ]
+    ],
+    "nodeId": 58859037
    }
   },
   {
@@ -7719,7 +8198,8 @@
     "streets": [
      "East 3rd Street",
      "North Court Street"
-    ]
+    ],
+    "nodeId": 58859038
    }
   },
   {
@@ -7735,7 +8215,8 @@
     "streets": [
      "East 3rd Street",
      "North East Street"
-    ]
+    ],
+    "nodeId": 58859040
    }
   },
   {
@@ -7751,7 +8232,8 @@
     "streets": [
      "Cotton Drive",
      "Eagle Drive"
-    ]
+    ],
+    "nodeId": 58859044
    }
   },
   {
@@ -7767,7 +8249,8 @@
     "streets": [
      "Black Pine Drive",
      "Eagle Drive"
-    ]
+    ],
+    "nodeId": 58859052
    }
   },
   {
@@ -7783,7 +8266,8 @@
     "streets": [
      "Eagle Drive",
      "Wolf Drive"
-    ]
+    ],
+    "nodeId": 58859079
    }
   },
   {
@@ -7799,7 +8283,8 @@
     "streets": [
      "Conestoga Drive",
      "Eagle Drive"
-    ]
+    ],
+    "nodeId": 58859080
    }
   },
   {
@@ -7815,7 +8300,8 @@
     "streets": [
      "Eagle Drive",
      "Starpine Road"
-    ]
+    ],
+    "nodeId": 58859084
    }
   },
   {
@@ -7831,7 +8317,8 @@
     "streets": [
      "Canby Road",
      "Eagle Drive"
-    ]
+    ],
+    "nodeId": 58859086
    }
   },
   {
@@ -7847,7 +8334,8 @@
     "streets": [
      "Bear Drive",
      "Eagle Drive"
-    ]
+    ],
+    "nodeId": 58859095
    }
   },
   {
@@ -7863,7 +8351,8 @@
     "streets": [
      "Bobcat Drive",
      "Eagle Drive"
-    ]
+    ],
+    "nodeId": 58859102
    }
   },
   {
@@ -7880,7 +8369,8 @@
      "Coyote Drive",
      "Eagle Drive",
      "Hart Drive"
-    ]
+    ],
+    "nodeId": 58859104
    }
   },
   {
@@ -7896,7 +8386,8 @@
     "streets": [
      "Buffalo Drive",
      "Lion Lane"
-    ]
+    ],
+    "nodeId": 58859318
    }
   },
   {
@@ -7912,7 +8403,8 @@
     "streets": [
      "Cooke Drive",
      "Parker Drive"
-    ]
+    ],
+    "nodeId": 58859349
    }
   },
   {
@@ -7928,7 +8420,8 @@
     "streets": [
      "Parker Drive",
      "Winsor Drive"
-    ]
+    ],
+    "nodeId": 58859350
    }
   },
   {
@@ -7944,7 +8437,8 @@
     "streets": [
      "Spring Street",
      "Walnut Street"
-    ]
+    ],
+    "nodeId": 58860418
    }
   },
   {
@@ -7960,7 +8454,8 @@
     "streets": [
      "Adin Street",
      "Walnut Street"
-    ]
+    ],
+    "nodeId": 58860420
    }
   },
   {
@@ -7976,7 +8471,8 @@
     "streets": [
      "CA 139;CA 299",
      "Walnut Street"
-    ]
+    ],
+    "nodeId": 58860421
    }
   },
   {
@@ -7992,7 +8488,8 @@
     "streets": [
      "Blake Road",
      "Breighton Road"
-    ]
+    ],
+    "nodeId": 58860466
    }
   },
   {
@@ -8008,7 +8505,8 @@
     "streets": [
      "Blake Road",
      "Krueger Road"
-    ]
+    ],
+    "nodeId": 58860477
    }
   },
   {
@@ -8024,7 +8522,8 @@
     "streets": [
      "Blake Road",
      "Greene Way"
-    ]
+    ],
+    "nodeId": 58860487
    }
   },
   {
@@ -8040,7 +8539,8 @@
     "streets": [
      "Blake Road",
      "Twohie Road"
-    ]
+    ],
+    "nodeId": 58860492
    }
   },
   {
@@ -8056,7 +8556,8 @@
     "streets": [
      "County Road 121",
      "County Road 193"
-    ]
+    ],
+    "nodeId": 58862677
    }
   },
   {
@@ -8072,7 +8573,8 @@
     "streets": [
      "Larkin Road",
      "Sonoma Road"
-    ]
+    ],
+    "nodeId": 58863001
    }
   },
   {
@@ -8088,7 +8590,8 @@
     "streets": [
      "Forrest Avenue",
      "South Estes Street"
-    ]
+    ],
+    "nodeId": 58863012
    }
   },
   {
@@ -8104,7 +8607,8 @@
     "streets": [
      "Forrest Avenue",
      "South East Street"
-    ]
+    ],
+    "nodeId": 58863014
    }
   },
   {
@@ -8120,7 +8624,8 @@
     "streets": [
      "Angels Camp Road",
      "Rough and Ready Road"
-    ]
+    ],
+    "nodeId": 58863029
    }
   },
   {
@@ -8136,7 +8641,8 @@
     "streets": [
      "Rough and Ready Road",
      "Tuttletown Drive"
-    ]
+    ],
+    "nodeId": 58834364
    }
   },
   {
@@ -8152,7 +8658,8 @@
     "streets": [
      "Rough and Ready Road",
      "Volcano Circle"
-    ]
+    ],
+    "nodeId": 58863086
    }
   },
   {
@@ -8168,7 +8675,8 @@
     "streets": [
      "Artemsia Way",
      "Cedar Drive"
-    ]
+    ],
+    "nodeId": 58863168
    }
   },
   {
@@ -8185,7 +8693,8 @@
      "East 1st Street",
      "North Estes Street",
      "South Estes Street"
-    ]
+    ],
+    "nodeId": 58863438
    }
   },
   {
@@ -8201,7 +8710,8 @@
     "streets": [
      "East 2nd Street",
      "North Estes Street"
-    ]
+    ],
+    "nodeId": 58863440
    }
   },
   {
@@ -8217,7 +8727,8 @@
     "streets": [
      "County Road 107A;CR 107A",
      "County Road 112;CR 112"
-    ]
+    ],
+    "nodeId": 58863447
    }
   },
   {
@@ -8233,7 +8744,8 @@
     "streets": [
      "CA 299",
      "County Road 195"
-    ]
+    ],
+    "nodeId": 58863816
    }
   },
   {
@@ -8249,7 +8761,8 @@
     "streets": [
      "B Street",
      "Peninsula Drive"
-    ]
+    ],
+    "nodeId": 58863837
    }
   },
   {
@@ -8265,7 +8778,8 @@
     "streets": [
      "C Street",
      "Peninsula Drive"
-    ]
+    ],
+    "nodeId": 58863839
    }
   },
   {
@@ -8282,7 +8796,8 @@
      "County Road 181",
      "Crowder Flat Road",
      "Kellogg Road"
-    ]
+    ],
+    "nodeId": 58863922
    }
   },
   {
@@ -8298,7 +8813,8 @@
     "streets": [
      "Clear Lake Reservoir Road",
      "Crowder Flat Road"
-    ]
+    ],
+    "nodeId": 58864083
    }
   },
   {
@@ -8314,7 +8830,8 @@
     "streets": [
      "Big Sage Road",
      "Crowder Flat Road"
-    ]
+    ],
+    "nodeId": 58864911
    }
   },
   {
@@ -8330,7 +8847,8 @@
     "streets": [
      "Canon Road",
      "Hart Drive"
-    ]
+    ],
+    "nodeId": 58865612
    }
   },
   {
@@ -8346,7 +8864,8 @@
     "streets": [
      "Antelope Lane",
      "Pheasant Drive"
-    ]
+    ],
+    "nodeId": 58865615
    }
   },
   {
@@ -8362,7 +8881,8 @@
     "streets": [
      "County Road 230",
      "Spring Road"
-    ]
+    ],
+    "nodeId": 58865643
    }
   },
   {
@@ -8378,7 +8898,8 @@
     "streets": [
      "Smith Street",
      "West 8th Street"
-    ]
+    ],
+    "nodeId": 58865655
    }
   },
   {
@@ -8395,7 +8916,8 @@
      "East 8th Street",
      "North Main Street;US 395",
      "West 8th Street"
-    ]
+    ],
+    "nodeId": 58865658
    }
   },
   {
@@ -8411,7 +8933,8 @@
     "streets": [
      "Nagle Street",
      "West 8th Street"
-    ]
+    ],
+    "nodeId": 58865660
    }
   },
   {
@@ -8427,7 +8950,8 @@
     "streets": [
      "Duckpond Lane",
      "New Pine Road"
-    ]
+    ],
+    "nodeId": 58865693
    }
   },
   {
@@ -8443,7 +8967,8 @@
     "streets": [
      "California Pines Boulevard",
      "County Road 198"
-    ]
+    ],
+    "nodeId": 58645896
    }
   },
   {
@@ -8459,7 +8984,8 @@
     "streets": [
      "Ivory Ranch Road",
      "Swale Road"
-    ]
+    ],
+    "nodeId": 58866038
    }
   },
   {
@@ -8475,7 +9001,8 @@
     "streets": [
      "Ivory Ranch Road",
      "Rye Grass Road"
-    ]
+    ],
+    "nodeId": 58866047
    }
   },
   {
@@ -8491,7 +9018,8 @@
     "streets": [
      "County Road 199",
      "Parker Creek Road"
-    ]
+    ],
+    "nodeId": 58866064
    }
   },
   {
@@ -8507,7 +9035,8 @@
     "streets": [
      "Corral Creek Road",
      "Westside Road"
-    ]
+    ],
+    "nodeId": 58856897
    }
   },
   {
@@ -8523,7 +9052,8 @@
     "streets": [
      "Beet Camp Road",
      "Westside Road"
-    ]
+    ],
+    "nodeId": 58867281
    }
   },
   {
@@ -8539,7 +9069,8 @@
     "streets": [
      "Jones Lane",
      "Westside Road"
-    ]
+    ],
+    "nodeId": 58855193
    }
   },
   {
@@ -8555,7 +9086,8 @@
     "streets": [
      "North West Street",
      "Westside Road"
-    ]
+    ],
+    "nodeId": 58848165
    }
   },
   {
@@ -8572,7 +9104,8 @@
      "County Road 11",
      "Route 395;US 395",
      "Westside Road"
-    ]
+    ],
+    "nodeId": 58840859
    }
   },
   {
@@ -8588,7 +9121,8 @@
     "streets": [
      "County Road 87",
      "County Road 87A"
-    ]
+    ],
+    "nodeId": 58867708
    }
   },
   {
@@ -8606,7 +9140,8 @@
      "Davis Drive",
      "Lake View Drive",
      "Winsor Drive"
-    ]
+    ],
+    "nodeId": 58867739
    }
   },
   {
@@ -8622,7 +9157,8 @@
     "streets": [
      "Autum Circle",
      "Winsor Drive"
-    ]
+    ],
+    "nodeId": 58867747
    }
   },
   {
@@ -8638,7 +9174,8 @@
     "streets": [
      "Summer Circle",
      "Winsor Drive"
-    ]
+    ],
+    "nodeId": 58867761
    }
   },
   {
@@ -8654,7 +9191,8 @@
     "streets": [
      "Swail Drive",
      "Winsor Drive"
-    ]
+    ],
+    "nodeId": 58867763
    }
   },
   {
@@ -8671,7 +9209,8 @@
      "County Road 67",
      "Stewart",
      "Weitcher Road"
-    ]
+    ],
+    "nodeId": 58867838
    }
   },
   {
@@ -8687,7 +9226,8 @@
     "streets": [
      "County Road 205",
      "Stewart"
-    ]
+    ],
+    "nodeId": 58730032
    }
   },
   {
@@ -8703,7 +9243,8 @@
     "streets": [
      "Cody Road",
      "Overland Road"
-    ]
+    ],
+    "nodeId": 58867932
    }
   },
   {
@@ -8719,7 +9260,8 @@
     "streets": [
      "California Pines Boulevard",
      "Toms Creek Road"
-    ]
+    ],
+    "nodeId": 58869858
    }
   },
   {
@@ -8735,7 +9277,8 @@
     "streets": [
      "Butterfield Road",
      "California Pines Boulevard"
-    ]
+    ],
+    "nodeId": 58869916
    }
   },
   {
@@ -8751,7 +9294,8 @@
     "streets": [
      "Butter Creek Road",
      "California Pines Boulevard"
-    ]
+    ],
+    "nodeId": 58869951
    }
   },
   {
@@ -8767,7 +9311,8 @@
     "streets": [
      "California Pines Boulevard",
      "Hickok Road"
-    ]
+    ],
+    "nodeId": 58870013
    }
   },
   {
@@ -8783,7 +9328,8 @@
     "streets": [
      "California Pines Boulevard",
      "Crockett Road"
-    ]
+    ],
+    "nodeId": 58870026
    }
   },
   {
@@ -8799,7 +9345,8 @@
     "streets": [
      "Calamity Road",
      "California Pines Boulevard"
-    ]
+    ],
+    "nodeId": 58694311
    }
   },
   {
@@ -8815,7 +9362,8 @@
     "streets": [
      "Buckboard Road",
      "California Pines Boulevard"
-    ]
+    ],
+    "nodeId": 58870097
    }
   },
   {
@@ -8831,7 +9379,8 @@
     "streets": [
      "California Pines Boulevard",
      "Reno Road"
-    ]
+    ],
+    "nodeId": 58870176
    }
   },
   {
@@ -8847,7 +9396,8 @@
     "streets": [
      "California Pines Boulevard",
      "Overland Road"
-    ]
+    ],
+    "nodeId": 58868566
    }
   },
   {
@@ -8863,7 +9413,8 @@
     "streets": [
      "Ashland Road",
      "California Pines Boulevard"
-    ]
+    ],
+    "nodeId": 58342616
    }
   },
   {
@@ -8879,7 +9430,8 @@
     "streets": [
      "California Pines Boulevard",
      "County Road 72"
-    ]
+    ],
+    "nodeId": 58869271
    }
   },
   {
@@ -8895,7 +9447,8 @@
     "streets": [
      "Black Pine Drive",
      "California Pines Boulevard"
-    ]
+    ],
+    "nodeId": 58869281
    }
   },
   {
@@ -8911,7 +9464,8 @@
     "streets": [
      "California Pines Boulevard",
      "Starpine Road"
-    ]
+    ],
+    "nodeId": 58869282
    }
   },
   {
@@ -8927,7 +9481,8 @@
     "streets": [
      "California Pines Boulevard",
      "Grande Road"
-    ]
+    ],
+    "nodeId": 58869293
    }
   },
   {
@@ -8943,7 +9498,8 @@
     "streets": [
      "California Pines Boulevard",
      "Drake Road"
-    ]
+    ],
+    "nodeId": 58869299
    }
   },
   {
@@ -8959,7 +9515,8 @@
     "streets": [
      "California Pines Boulevard",
      "Plehn Road"
-    ]
+    ],
+    "nodeId": 58869301
    }
   },
   {
@@ -8975,7 +9532,8 @@
     "streets": [
      "California Pines Boulevard",
      "North West Street"
-    ]
+    ],
+    "nodeId": 58848428
    }
   },
   {
@@ -8991,7 +9549,8 @@
     "streets": [
      "South Howard Street",
      "West Carlos Street"
-    ]
+    ],
+    "nodeId": 58870348
    }
   },
   {
@@ -9007,7 +9566,8 @@
     "streets": [
      "South Howard Street",
      "West Modoc Street"
-    ]
+    ],
+    "nodeId": 58870349
    }
   },
   {
@@ -9023,7 +9583,8 @@
     "streets": [
      "South Howard Street",
      "West North Street"
-    ]
+    ],
+    "nodeId": 58870351
    }
   },
   {
@@ -9039,7 +9600,8 @@
     "streets": [
      "Canvasback Lane",
      "Mallard Lane"
-    ]
+    ],
+    "nodeId": 58870637
    }
   },
   {
@@ -9055,7 +9617,8 @@
     "streets": [
      "Thomason Lane",
      "West 12th Street;CA 299"
-    ]
+    ],
+    "nodeId": 58871205
    }
   },
   {
@@ -9071,7 +9634,8 @@
     "streets": [
      "Denver Drive",
      "Jefferson"
-    ]
+    ],
+    "nodeId": 58872696
    }
   },
   {
@@ -9087,7 +9651,8 @@
     "streets": [
      "Davis Drive",
      "Jefferson"
-    ]
+    ],
+    "nodeId": 58872698
    }
   },
   {
@@ -9103,7 +9668,8 @@
     "streets": [
      "Bowman Road",
      "Humphrey Road"
-    ]
+    ],
+    "nodeId": 58872894
    }
   },
   {
@@ -9119,7 +9685,8 @@
     "streets": [
      "Bureau of Indian Affairs Route 79",
      "Country Road 56"
-    ]
+    ],
+    "nodeId": 58873279
    }
   },
   {
@@ -9135,7 +9702,8 @@
     "streets": [
      "2nd Street",
      "Milton Street"
-    ]
+    ],
+    "nodeId": 58873318
    }
   },
   {
@@ -9151,7 +9719,8 @@
     "streets": [
      "Milton Street",
      "Warner Mountain View"
-    ]
+    ],
+    "nodeId": 58777546
    }
   },
   {
@@ -9167,7 +9736,8 @@
     "streets": [
      "CA 299",
      "Weitcher Road"
-    ]
+    ],
+    "nodeId": 58873402
    }
   },
   {
@@ -9183,7 +9753,8 @@
     "streets": [
      "Elena Road",
      "Miguel Road"
-    ]
+    ],
+    "nodeId": 58873590
    }
   },
   {
@@ -9199,7 +9770,8 @@
     "streets": [
      "Garfield Street",
      "Washington Street"
-    ]
+    ],
+    "nodeId": 58873597
    }
   },
   {
@@ -9215,7 +9787,8 @@
     "streets": [
      "McKenney Road",
      "Mollenny Road"
-    ]
+    ],
+    "nodeId": 58874272
    }
   },
   {
@@ -9231,7 +9804,8 @@
     "streets": [
      "CA 299",
      "McKenney Road"
-    ]
+    ],
+    "nodeId": 58874461
    }
   },
   {
@@ -9247,7 +9821,8 @@
     "streets": [
      "Arroyo Road",
      "Fresno Road"
-    ]
+    ],
+    "nodeId": 58874468
    }
   },
   {
@@ -9263,7 +9838,8 @@
     "streets": [
      "Arroyo Road",
      "Valencia Road"
-    ]
+    ],
+    "nodeId": 58874481
    }
   },
   {
@@ -9279,7 +9855,8 @@
     "streets": [
      "Arroyo Road",
      "Calaveras Road"
-    ]
+    ],
+    "nodeId": 58874485
    }
   },
   {
@@ -9295,7 +9872,8 @@
     "streets": [
      "Lava Rim Road",
      "Loveness Logging Road"
-    ]
+    ],
+    "nodeId": 58853238
    }
   },
   {
@@ -9311,7 +9889,8 @@
     "streets": [
      "Lava Rim Road",
      "Whitehorse Road"
-    ]
+    ],
+    "nodeId": 58503169
    }
   },
   {
@@ -9327,7 +9906,8 @@
     "streets": [
      "County Road 17",
      "Plum Street"
-    ]
+    ],
+    "nodeId": 58875261
    }
   },
   {
@@ -9343,7 +9923,8 @@
     "streets": [
      "C Street",
      "Captin Jack Way"
-    ]
+    ],
+    "nodeId": 58875791
    }
   },
   {
@@ -9359,7 +9940,8 @@
     "streets": [
      "B Street",
      "Captin Jack Way"
-    ]
+    ],
+    "nodeId": 58875794
    }
   },
   {
@@ -9375,7 +9957,8 @@
     "streets": [
      "44N12 Road",
      "44N36 Road"
-    ]
+    ],
+    "nodeId": 58875798
    }
   },
   {
@@ -9391,7 +9974,8 @@
     "streets": [
      "County Road 72",
      "Swale Road"
-    ]
+    ],
+    "nodeId": 58876030
    }
   },
   {
@@ -9407,7 +9991,8 @@
     "streets": [
      "Cooke Drive",
      "Tilman Drive"
-    ]
+    ],
+    "nodeId": 58876077
    }
   },
   {
@@ -9423,7 +10008,8 @@
     "streets": [
      "Davis Drive",
      "Tilman Drive"
-    ]
+    ],
+    "nodeId": 58876085
    }
   },
   {
@@ -9439,7 +10025,8 @@
     "streets": [
      "Lake Annie Road",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58876691
    }
   },
   {
@@ -9455,7 +10042,8 @@
     "streets": [
      "Calaveras Road",
      "San Lucas Road"
-    ]
+    ],
+    "nodeId": 58876821
    }
   },
   {
@@ -9471,7 +10059,8 @@
     "streets": [
      "San Lucas Road",
      "Sierra Vista Road"
-    ]
+    ],
+    "nodeId": 58876834
    }
   },
   {
@@ -9487,7 +10076,8 @@
     "streets": [
      "Mission Road",
      "Riviera Road"
-    ]
+    ],
+    "nodeId": 58876839
    }
   },
   {
@@ -9503,7 +10093,8 @@
     "streets": [
      "3rd Avenue",
      "Eureka Street"
-    ]
+    ],
+    "nodeId": 58470460
    }
   },
   {
@@ -9519,7 +10110,8 @@
     "streets": [
      "CA 139",
      "Eureka Street"
-    ]
+    ],
+    "nodeId": 58877705
    }
   },
   {
@@ -9535,7 +10127,8 @@
     "streets": [
      "4th Avenue",
      "Eureka Street"
-    ]
+    ],
+    "nodeId": 58877700
    }
   },
   {
@@ -9551,7 +10144,8 @@
     "streets": [
      "5th Avenue",
      "Eureka Street"
-    ]
+    ],
+    "nodeId": 58877698
    }
   },
   {
@@ -9567,7 +10161,8 @@
     "streets": [
      "Honker Drive",
      "Ruff Grouse Lane"
-    ]
+    ],
+    "nodeId": 58878118
    }
   },
   {
@@ -9583,7 +10178,8 @@
     "streets": [
      "Gray Wolf Drive",
      "Ruff Grouse Lane"
-    ]
+    ],
+    "nodeId": 58878122
    }
   },
   {
@@ -9599,7 +10195,8 @@
     "streets": [
      "Ruff Grouse Lane",
      "Silver Fox Drive"
-    ]
+    ],
+    "nodeId": 58878124
    }
   },
   {
@@ -9615,7 +10212,8 @@
     "streets": [
      "Cortez Road",
      "Mission Road"
-    ]
+    ],
+    "nodeId": 58878129
    }
   },
   {
@@ -9631,7 +10229,8 @@
     "streets": [
      "Mission Road",
      "Sierra Road"
-    ]
+    ],
+    "nodeId": 58878134
    }
   },
   {
@@ -9647,7 +10246,8 @@
     "streets": [
      "Mission Road",
      "Veracruz Road"
-    ]
+    ],
+    "nodeId": 58878139
    }
   },
   {
@@ -9663,7 +10263,8 @@
     "streets": [
      "Mesa Road",
      "Mission Road"
-    ]
+    ],
+    "nodeId": 58878142
    }
   },
   {
@@ -9679,7 +10280,8 @@
     "streets": [
      "Camino Road",
      "Mission Road"
-    ]
+    ],
+    "nodeId": 58758403
    }
   },
   {
@@ -9695,7 +10297,8 @@
     "streets": [
      "Mission Road",
      "Plaza Road"
-    ]
+    ],
+    "nodeId": 58878143
    }
   },
   {
@@ -9711,7 +10314,8 @@
     "streets": [
      "Mission Road",
      "Vaquero Road"
-    ]
+    ],
+    "nodeId": 58878144
    }
   },
   {
@@ -9727,7 +10331,8 @@
     "streets": [
      "Mission Road",
      "Pecos Road"
-    ]
+    ],
+    "nodeId": 58878146
    }
   },
   {
@@ -9743,7 +10348,8 @@
     "streets": [
      "Dana Road",
      "Mission Road"
-    ]
+    ],
+    "nodeId": 58878153
    }
   },
   {
@@ -9759,7 +10365,8 @@
     "streets": [
      "Davis Drive",
      "Swail Drive"
-    ]
+    ],
+    "nodeId": 58878377
    }
   },
   {
@@ -9775,7 +10382,8 @@
     "streets": [
      "Cottontail Lane",
      "Thunderbird Drive"
-    ]
+    ],
+    "nodeId": 58754362
    }
   },
   {
@@ -9791,7 +10399,8 @@
     "streets": [
      "Silver Fox Drive",
      "Thunderbird Drive"
-    ]
+    ],
+    "nodeId": 58878734
    }
   },
   {
@@ -9807,7 +10416,8 @@
     "streets": [
      "Mule Deer Lane",
      "Thunderbird Drive"
-    ]
+    ],
+    "nodeId": 58878774
    }
   },
   {
@@ -9823,7 +10433,8 @@
     "streets": [
      "Dana Road",
      "Veracruz Road"
-    ]
+    ],
+    "nodeId": 58878790
    }
   },
   {
@@ -9839,7 +10450,8 @@
     "streets": [
      "Dana Road",
      "Portola Road"
-    ]
+    ],
+    "nodeId": 58878793
    }
   },
   {
@@ -9855,7 +10467,8 @@
     "streets": [
      "Dana Road",
      "Hacienda Road"
-    ]
+    ],
+    "nodeId": 58878796
    }
   },
   {
@@ -9871,7 +10484,8 @@
     "streets": [
      "Dana Road",
      "Mesa Road"
-    ]
+    ],
+    "nodeId": 58878803
    }
   },
   {
@@ -9887,7 +10501,8 @@
     "streets": [
      "Camino Road",
      "Dana Road"
-    ]
+    ],
+    "nodeId": 58878816
    }
   },
   {
@@ -9903,7 +10518,8 @@
     "streets": [
      "Dana Road",
      "Plaza Road"
-    ]
+    ],
+    "nodeId": 58878825
    }
   },
   {
@@ -9919,7 +10535,8 @@
     "streets": [
      "Dana Road",
      "Vaquero Road"
-    ]
+    ],
+    "nodeId": 58878831
    }
   },
   {
@@ -9935,7 +10552,8 @@
     "streets": [
      "Dana Road",
      "Pecos Road"
-    ]
+    ],
+    "nodeId": 58878836
    }
   },
   {
@@ -9951,7 +10569,8 @@
     "streets": [
      "Dana Road",
      "Sonoma Road"
-    ]
+    ],
+    "nodeId": 58878839
    }
   },
   {
@@ -9967,7 +10586,8 @@
     "streets": [
      "Bend Drive",
      "Lassen Drive"
-    ]
+    ],
+    "nodeId": 58880000
    }
   },
   {
@@ -9983,7 +10603,8 @@
     "streets": [
      "Parker Creek",
      "Parker Creek Road"
-    ]
+    ],
+    "nodeId": 58880006
    }
   },
   {
@@ -9999,7 +10620,8 @@
     "streets": [
      "County Road 58",
      "Parker Creek"
-    ]
+    ],
+    "nodeId": 58488772
    }
   },
   {
@@ -10015,7 +10637,8 @@
     "streets": [
      "Cedar Drive",
      "Sage Way"
-    ]
+    ],
+    "nodeId": 58880083
    }
   },
   {
@@ -10031,7 +10654,8 @@
     "streets": [
      "Grizzly Flats Road",
      "Mount Bullion Road"
-    ]
+    ],
+    "nodeId": 58880102
    }
   },
   {
@@ -10047,7 +10671,8 @@
     "streets": [
      "Grizzly Flats Road",
      "Woodleaf Drive"
-    ]
+    ],
+    "nodeId": 58880106
    }
   },
   {
@@ -10063,7 +10688,8 @@
     "streets": [
      "North Danhauser Street",
      "West 3rd Street"
-    ]
+    ],
+    "nodeId": 58880413
    }
   },
   {
@@ -10079,7 +10705,8 @@
     "streets": [
      "Nagle Street",
      "West 3rd Street"
-    ]
+    ],
+    "nodeId": 58880415
    }
   },
   {
@@ -10095,7 +10722,8 @@
     "streets": [
      "North West Street",
      "West 3rd Street"
-    ]
+    ],
+    "nodeId": 58880418
    }
   },
   {
@@ -10111,7 +10739,8 @@
     "streets": [
      "Poplar Street",
      "West 3rd Street"
-    ]
+    ],
+    "nodeId": 58880419
    }
   },
   {
@@ -10127,7 +10756,8 @@
     "streets": [
      "North Cedar Street",
      "West 3rd Street"
-    ]
+    ],
+    "nodeId": 58880421
    }
   },
   {
@@ -10143,7 +10773,8 @@
     "streets": [
      "North Warner Street",
      "West 3rd Street"
-    ]
+    ],
+    "nodeId": 58880422
    }
   },
   {
@@ -10159,7 +10790,8 @@
     "streets": [
      "North Rine Street",
      "West 3rd Street"
-    ]
+    ],
+    "nodeId": 58880424
    }
   },
   {
@@ -10175,7 +10807,8 @@
     "streets": [
      "North West A Street",
      "West 3rd Street"
-    ]
+    ],
+    "nodeId": 58880427
    }
   },
   {
@@ -10191,7 +10824,8 @@
     "streets": [
      "North West B Street",
      "West 3rd Street"
-    ]
+    ],
+    "nodeId": 58880432
    }
   },
   {
@@ -10207,7 +10841,8 @@
     "streets": [
      "East 14th Street",
      "North East Street"
-    ]
+    ],
+    "nodeId": 58880578
    }
   },
   {
@@ -10223,7 +10858,8 @@
     "streets": [
      "East 14th Street",
      "North Court Street"
-    ]
+    ],
+    "nodeId": 58880579
    }
   },
   {
@@ -10240,7 +10876,8 @@
      "East 14th Street",
      "North Main Street",
      "West 14th Street"
-    ]
+    ],
+    "nodeId": 58880580
    }
   },
   {
@@ -10256,7 +10893,8 @@
     "streets": [
      "CA 139",
      "Glendale Street"
-    ]
+    ],
+    "nodeId": 364870509
    }
   },
   {
@@ -10272,7 +10910,8 @@
     "streets": [
      "4th Avenue",
      "Glendale Street"
-    ]
+    ],
+    "nodeId": 58880586
    }
   },
   {
@@ -10288,7 +10927,8 @@
     "streets": [
      "5th Avenue",
      "Glendale Street"
-    ]
+    ],
+    "nodeId": 58880584
    }
   },
   {
@@ -10305,7 +10945,8 @@
      "Cedar Drive",
      "Manzanita Way",
      "Pine Drive"
-    ]
+    ],
+    "nodeId": 58880607
    }
   },
   {
@@ -10321,7 +10962,8 @@
     "streets": [
      "Preston Street",
      "South Nagle Street"
-    ]
+    ],
+    "nodeId": 58881100
    }
   },
   {
@@ -10337,7 +10979,8 @@
     "streets": [
      "Preston Street",
      "South Danhauser Street"
-    ]
+    ],
+    "nodeId": 58881102
    }
   },
   {
@@ -10353,7 +10996,8 @@
     "streets": [
      "Cedar Drive",
      "West Ponderosa Drive"
-    ]
+    ],
+    "nodeId": 58881160
    }
   },
   {
@@ -10369,7 +11013,8 @@
     "streets": [
      "County Road 88",
      "Spring Street"
-    ]
+    ],
+    "nodeId": 58881186
    }
   },
   {
@@ -10385,7 +11030,8 @@
     "streets": [
      "Juniper Street",
      "Spring Street"
-    ]
+    ],
+    "nodeId": 58881192
    }
   },
   {
@@ -10401,7 +11047,8 @@
     "streets": [
      "East 9th Street",
      "North East B Street"
-    ]
+    ],
+    "nodeId": 58881196
    }
   },
   {
@@ -10417,7 +11064,8 @@
     "streets": [
      "East 11th Street",
      "North East B Street"
-    ]
+    ],
+    "nodeId": 58881200
    }
   },
   {
@@ -10433,7 +11081,8 @@
     "streets": [
      "East 12th Street",
      "North East B Street"
-    ]
+    ],
+    "nodeId": 58881203
    }
   },
   {
@@ -10449,7 +11098,8 @@
     "streets": [
      "East 2nd Street",
      "North East B Street"
-    ]
+    ],
+    "nodeId": 58943170
    }
   },
   {
@@ -10465,7 +11115,8 @@
     "streets": [
      "East 4th Street",
      "North East B Street"
-    ]
+    ],
+    "nodeId": 58881207
    }
   },
   {
@@ -10481,7 +11132,8 @@
     "streets": [
      "East 5th Street",
      "North East B Street"
-    ]
+    ],
+    "nodeId": 58881208
    }
   },
   {
@@ -10497,7 +11149,8 @@
     "streets": [
      "East 6th Street",
      "North East B Street"
-    ]
+    ],
+    "nodeId": 58881209
    }
   },
   {
@@ -10513,7 +11166,8 @@
     "streets": [
      "East 8th Street",
      "North East B Street"
-    ]
+    ],
+    "nodeId": 58881210
    }
   },
   {
@@ -10529,7 +11183,8 @@
     "streets": [
      "Lookout Hackamore Road;CR 91",
      "Roberts Reservoir Road"
-    ]
+    ],
+    "nodeId": 58829513
    }
   },
   {
@@ -10545,7 +11200,8 @@
     "streets": [
      "1st Street",
      "Ross Street"
-    ]
+    ],
+    "nodeId": 58881250
    }
   },
   {
@@ -10561,7 +11217,8 @@
     "streets": [
      "Main Street;CR 1",
      "Ross Street"
-    ]
+    ],
+    "nodeId": 58881254
    }
   },
   {
@@ -10577,7 +11234,8 @@
     "streets": [
      "Henderson Street",
      "South Nagle Street"
-    ]
+    ],
+    "nodeId": 58881258
    }
   },
   {
@@ -10593,7 +11251,8 @@
     "streets": [
      "South Nagle Street",
      "West Carlos Street"
-    ]
+    ],
+    "nodeId": 58881259
    }
   },
   {
@@ -10609,7 +11268,8 @@
     "streets": [
      "Peet Moss Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58839953
    }
   },
   {
@@ -10625,7 +11285,8 @@
     "streets": [
      "North West Street",
      "Sierra Road"
-    ]
+    ],
+    "nodeId": 58848477
    }
   },
   {
@@ -10641,7 +11302,8 @@
     "streets": [
      "Mallard Lane",
      "Ringneck Lane"
-    ]
+    ],
+    "nodeId": 58882134
    }
   },
   {
@@ -10658,7 +11320,8 @@
      "East 1st Street",
      "North East Street",
      "South East Street"
-    ]
+    ],
+    "nodeId": 58882241
    }
   },
   {
@@ -10675,7 +11338,8 @@
      "East 1st Street",
      "North Court Street",
      "South Court Street"
-    ]
+    ],
+    "nodeId": 58882243
    }
   },
   {
@@ -10693,7 +11357,8 @@
      "North Main Street;US 395",
      "South Main Street;US 395",
      "West 1st Street"
-    ]
+    ],
+    "nodeId": 58882245
    }
   },
   {
@@ -10709,7 +11374,8 @@
     "streets": [
      "Lake View Drive",
      "Ridge View Drive"
-    ]
+    ],
+    "nodeId": 58882351
    }
   },
   {
@@ -10725,7 +11391,8 @@
     "streets": [
      "Mountain View Drive",
      "Ridge View Drive"
-    ]
+    ],
+    "nodeId": 58882369
    }
   },
   {
@@ -10741,7 +11408,8 @@
     "streets": [
      "46N63",
      "County Road 11"
-    ]
+    ],
+    "nodeId": 3777391094
    }
   },
   {
@@ -10757,7 +11425,8 @@
     "streets": [
      "Ranches Drive",
      "Widow Valley Road"
-    ]
+    ],
+    "nodeId": 58883142
    }
   },
   {
@@ -10773,7 +11442,8 @@
     "streets": [
      "Ranches Drive",
      "Whites Place"
-    ]
+    ],
+    "nodeId": 58883145
    }
   },
   {
@@ -10789,7 +11459,8 @@
     "streets": [
      "South Caldwell Street",
      "West Carlos Street"
-    ]
+    ],
+    "nodeId": 58883325
    }
   },
   {
@@ -10805,7 +11476,8 @@
     "streets": [
      "South Caldwell Street",
      "West 1st Street"
-    ]
+    ],
+    "nodeId": 9901186930
    }
   },
   {
@@ -10822,7 +11494,8 @@
      "Glenn Street",
      "Route 395;US 395",
      "South Main Street;US 395"
-    ]
+    ],
+    "nodeId": 58840311
    }
   },
   {
@@ -10838,7 +11511,8 @@
     "streets": [
      "Brant Lane",
      "Teal Drive"
-    ]
+    ],
+    "nodeId": 58883361
    }
   },
   {
@@ -10854,7 +11528,8 @@
     "streets": [
      "Mule Deer Lane",
      "Teal Drive"
-    ]
+    ],
+    "nodeId": 58883367
    }
   },
   {
@@ -10870,7 +11545,8 @@
     "streets": [
      "Cottontail Lane",
      "Teal Drive"
-    ]
+    ],
+    "nodeId": 58883389
    }
   },
   {
@@ -10886,7 +11562,8 @@
     "streets": [
      "Mountain Goat Drive",
      "Teal Drive"
-    ]
+    ],
+    "nodeId": 58883394
    }
   },
   {
@@ -10902,7 +11579,8 @@
     "streets": [
      "Balboa Road",
      "Cordova Road"
-    ]
+    ],
+    "nodeId": 58883422
    }
   },
   {
@@ -10918,7 +11596,8 @@
     "streets": [
      "Cordova Road",
      "Sonora Road"
-    ]
+    ],
+    "nodeId": 58883428
    }
   },
   {
@@ -10934,7 +11613,8 @@
     "streets": [
      "Park Street",
      "Poplar Street"
-    ]
+    ],
+    "nodeId": 58855399
    }
   },
   {
@@ -10950,7 +11630,8 @@
     "streets": [
      "Poplar Street",
      "West 4th Street"
-    ]
+    ],
+    "nodeId": 58883460
    }
   },
   {
@@ -10966,7 +11647,8 @@
     "streets": [
      "Poplar Street",
      "West Carlos Street"
-    ]
+    ],
+    "nodeId": 58883488
    }
   },
   {
@@ -10982,7 +11664,8 @@
     "streets": [
      "Henderson Street",
      "Poplar Street"
-    ]
+    ],
+    "nodeId": 58883490
    }
   },
   {
@@ -10998,7 +11681,8 @@
     "streets": [
      "Dalton Reservoir Road",
      "Hackamore Road"
-    ]
+    ],
+    "nodeId": 58881754
    }
   },
   {
@@ -11014,7 +11698,8 @@
     "streets": [
      "County Road 13",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58883560
    }
   },
   {
@@ -11030,7 +11715,8 @@
     "streets": [
      "Grande Road",
      "Sierra Vista Road"
-    ]
+    ],
+    "nodeId": 58883635
    }
   },
   {
@@ -11046,7 +11732,8 @@
     "streets": [
      "De Cuero Road",
      "Sierra Vista Road"
-    ]
+    ],
+    "nodeId": 58883647
    }
   },
   {
@@ -11062,7 +11749,8 @@
     "streets": [
      "Grande Road",
      "Wayside Drive"
-    ]
+    ],
+    "nodeId": 58883801
    }
   },
   {
@@ -11078,7 +11766,8 @@
     "streets": [
      "Grande Road",
      "Shake Road"
-    ]
+    ],
+    "nodeId": 58883804
    }
   },
   {
@@ -11094,7 +11783,8 @@
     "streets": [
      "Canon Road",
      "Grande Road"
-    ]
+    ],
+    "nodeId": 58883818
    }
   },
   {
@@ -11110,7 +11800,8 @@
     "streets": [
      "County Road 230",
      "Grande Road"
-    ]
+    ],
+    "nodeId": 58883835
    }
   },
   {
@@ -11126,7 +11817,8 @@
     "streets": [
      "Arcadia Road",
      "Grande Road"
-    ]
+    ],
+    "nodeId": 58883848
    }
   },
   {
@@ -11142,7 +11834,8 @@
     "streets": [
      "Grande Road",
      "Juanita Road"
-    ]
+    ],
+    "nodeId": 58883850
    }
   },
   {
@@ -11158,7 +11851,8 @@
     "streets": [
      "Grande Road",
      "Palo Alto Road"
-    ]
+    ],
+    "nodeId": 58883874
    }
   },
   {
@@ -11174,7 +11868,8 @@
     "streets": [
      "Grande Road",
      "Santa Cruz Road"
-    ]
+    ],
+    "nodeId": 58883875
    }
   },
   {
@@ -11190,7 +11885,8 @@
     "streets": [
      "Grande Road",
      "Sequoia Road"
-    ]
+    ],
+    "nodeId": 58883882
    }
   },
   {
@@ -11206,7 +11902,8 @@
     "streets": [
      "Calaveras Road",
      "Grande Road"
-    ]
+    ],
+    "nodeId": 58883899
    }
   },
   {
@@ -11222,7 +11919,8 @@
     "streets": [
      "Grande Road",
      "North West Street"
-    ]
+    ],
+    "nodeId": 58848405
    }
   },
   {
@@ -11238,7 +11936,8 @@
     "streets": [
      "County Road 14",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58884136
    }
   },
   {
@@ -11254,7 +11953,8 @@
     "streets": [
      "Bear Drive",
      "Starpine Road"
-    ]
+    ],
+    "nodeId": 58884525
    }
   },
   {
@@ -11270,7 +11970,8 @@
     "streets": [
      "Coyote Drive",
      "Douglas Drive"
-    ]
+    ],
+    "nodeId": 58885776
    }
   },
   {
@@ -11286,7 +11987,8 @@
     "streets": [
      "Douglas Drive",
      "Hunter Drive"
-    ]
+    ],
+    "nodeId": 58885777
    }
   },
   {
@@ -11302,7 +12004,8 @@
     "streets": [
      "County Road 15",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58885782
    }
   },
   {
@@ -11319,7 +12022,8 @@
      "Cedar Drive",
      "Oak Way",
      "Pine Drive"
-    ]
+    ],
+    "nodeId": 58886483
    }
   },
   {
@@ -11335,7 +12039,8 @@
     "streets": [
      "County Road 16",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58886583
    }
   },
   {
@@ -11351,7 +12056,8 @@
     "streets": [
      "County Road 17",
      "Lake City Canyon Road"
-    ]
+    ],
+    "nodeId": 1682310648
    }
   },
   {
@@ -11367,7 +12073,8 @@
     "streets": [
      "County Road 17",
      "South Water Street"
-    ]
+    ],
+    "nodeId": 58886631
    }
   },
   {
@@ -11383,7 +12090,8 @@
     "streets": [
      "County Road 17",
      "South Lake Street"
-    ]
+    ],
+    "nodeId": 58839027
    }
   },
   {
@@ -11399,7 +12107,8 @@
     "streets": [
      "County Road 17",
      "County Road 229"
-    ]
+    ],
+    "nodeId": 58785578
    }
   },
   {
@@ -11415,7 +12124,8 @@
     "streets": [
      "County Road 17",
      "County Road 18"
-    ]
+    ],
+    "nodeId": 58886759
    }
   },
   {
@@ -11431,7 +12141,8 @@
     "streets": [
      "3rd Street",
      "Milton Street"
-    ]
+    ],
+    "nodeId": 58886942
    }
   },
   {
@@ -11447,7 +12158,8 @@
     "streets": [
      "Route 395;US 395",
      "Thoms U S A Creek Road"
-    ]
+    ],
+    "nodeId": 58840579
    }
   },
   {
@@ -11463,7 +12175,8 @@
     "streets": [
      "Thomas Creek Drive",
      "Thoms U S A Creek Road"
-    ]
+    ],
+    "nodeId": 58886960
    }
   },
   {
@@ -11479,7 +12192,8 @@
     "streets": [
      "44N12 Road",
      "Mowitz Road"
-    ]
+    ],
+    "nodeId": 58887292
    }
   },
   {
@@ -11495,7 +12209,8 @@
     "streets": [
      "County Road 18",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58887915
    }
   },
   {
@@ -11511,7 +12226,8 @@
     "streets": [
      "Masson Road",
      "Orteta Road"
-    ]
+    ],
+    "nodeId": 58888033
    }
   },
   {
@@ -11527,7 +12243,8 @@
     "streets": [
      "Black Pine Drive",
      "Humbolt Circle"
-    ]
+    ],
+    "nodeId": 58888087
    }
   },
   {
@@ -11543,7 +12260,8 @@
     "streets": [
      "Cortez Road",
      "Padre Road"
-    ]
+    ],
+    "nodeId": 58888091
    }
   },
   {
@@ -11559,7 +12277,8 @@
     "streets": [
      "Padre Road",
      "Veracruz Road"
-    ]
+    ],
+    "nodeId": 58888094
    }
   },
   {
@@ -11575,7 +12294,8 @@
     "streets": [
      "Padre Road",
      "Portola Road"
-    ]
+    ],
+    "nodeId": 58888099
    }
   },
   {
@@ -11591,7 +12311,8 @@
     "streets": [
      "Hacienda Road",
      "Padre Road"
-    ]
+    ],
+    "nodeId": 58888100
    }
   },
   {
@@ -11607,7 +12328,8 @@
     "streets": [
      "County Road 19",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58888104
    }
   },
   {
@@ -11623,7 +12345,8 @@
     "streets": [
      "Bahia Road",
      "Elena Road"
-    ]
+    ],
+    "nodeId": 58888318
    }
   },
   {
@@ -11639,7 +12362,8 @@
     "streets": [
      "Adin Street",
      "McDowell Street"
-    ]
+    ],
+    "nodeId": 58888361
    }
   },
   {
@@ -11655,7 +12379,8 @@
     "streets": [
      "CA 139;CA 299",
      "McDowell Street"
-    ]
+    ],
+    "nodeId": 58888366
    }
   },
   {
@@ -11671,7 +12396,8 @@
     "streets": [
      "East 6th Street",
      "Josephine Street"
-    ]
+    ],
+    "nodeId": 58889586
    }
   },
   {
@@ -11687,7 +12413,8 @@
     "streets": [
      "East 6th Street",
      "North East D Street"
-    ]
+    ],
+    "nodeId": 58889587
    }
   },
   {
@@ -11703,7 +12430,8 @@
     "streets": [
      "East 6th Street",
      "East C Street"
-    ]
+    ],
+    "nodeId": 58889588
    }
   },
   {
@@ -11719,7 +12447,8 @@
     "streets": [
      "East 6th Street",
      "North East Street"
-    ]
+    ],
+    "nodeId": 58889591
    }
   },
   {
@@ -11735,7 +12464,8 @@
     "streets": [
      "Kemble Street",
      "North Warner Street"
-    ]
+    ],
+    "nodeId": 58889595
    }
   },
   {
@@ -11751,7 +12481,8 @@
     "streets": [
      "Kemble Street",
      "Smith Street"
-    ]
+    ],
+    "nodeId": 58889596
    }
   },
   {
@@ -11767,7 +12498,8 @@
     "streets": [
      "Bridge Street",
      "Howta Bowta Road"
-    ]
+    ],
+    "nodeId": 58889600
    }
   },
   {
@@ -11783,7 +12515,8 @@
     "streets": [
      "Bridge Street",
      "Willow Street"
-    ]
+    ],
+    "nodeId": 58889607
    }
   },
   {
@@ -11799,7 +12532,8 @@
     "streets": [
      "Bridge Street",
      "Water Street"
-    ]
+    ],
+    "nodeId": 58889613
    }
   },
   {
@@ -11815,7 +12549,8 @@
     "streets": [
      "Bridge Street",
      "Main Street;CR 1"
-    ]
+    ],
+    "nodeId": 58889616
    }
   },
   {
@@ -11831,7 +12566,8 @@
     "streets": [
      "Bridge Street",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58889652
    }
   },
   {
@@ -11847,7 +12583,8 @@
     "streets": [
      "County Road 20",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58889695
    }
   },
   {
@@ -11863,7 +12600,8 @@
     "streets": [
      "County Road 21",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58889750
    }
   },
   {
@@ -11879,7 +12617,8 @@
     "streets": [
      "East Carlos Street",
      "South Court Street"
-    ]
+    ],
+    "nodeId": 58914609
    }
   },
   {
@@ -11895,7 +12634,8 @@
     "streets": [
      "East Modoc Street",
      "South Court Street"
-    ]
+    ],
+    "nodeId": 58889797
    }
   },
   {
@@ -11912,7 +12652,8 @@
      "Arreche Road",
      "County Road 22",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58889824
    }
   },
   {
@@ -11928,7 +12669,8 @@
     "streets": [
      "CA 139",
      "Clear Lake Reservoir Road"
-    ]
+    ],
+    "nodeId": 58762988
    }
   },
   {
@@ -11944,7 +12686,8 @@
     "streets": [
      "Clear Lake Reservoir Road",
      "County Road 202"
-    ]
+    ],
+    "nodeId": 58732000
    }
   },
   {
@@ -11960,7 +12703,8 @@
     "streets": [
      "Clear Lake Reservoir Road",
      "County Road 114"
-    ]
+    ],
+    "nodeId": 58860131
    }
   },
   {
@@ -11976,7 +12720,8 @@
     "streets": [
      "Clear Lake Reservoir Road",
      "Hartlerode Road"
-    ]
+    ],
+    "nodeId": 58860119
    }
   },
   {
@@ -11992,7 +12737,8 @@
     "streets": [
      "Clear Lake Reservoir Road",
      "Steele Swamp Road"
-    ]
+    ],
+    "nodeId": 58553155
    }
   },
   {
@@ -12008,7 +12754,8 @@
     "streets": [
      "Clear Lake Reservoir Road",
      "Mowitz Road"
-    ]
+    ],
+    "nodeId": 58890457
    }
   },
   {
@@ -12024,7 +12771,8 @@
     "streets": [
      "East 4th Street",
      "Josephine Street"
-    ]
+    ],
+    "nodeId": 58891165
    }
   },
   {
@@ -12040,7 +12788,8 @@
     "streets": [
      "East 5th Street",
      "Josephine Street"
-    ]
+    ],
+    "nodeId": 58891170
    }
   },
   {
@@ -12056,7 +12805,8 @@
     "streets": [
      "CA 299",
      "County Road 23"
-    ]
+    ],
+    "nodeId": 58532561
    }
   },
   {
@@ -12072,7 +12822,8 @@
     "streets": [
      "County Road 23",
      "County Road 23A"
-    ]
+    ],
+    "nodeId": 58892113
    }
   },
   {
@@ -12088,7 +12839,8 @@
     "streets": [
      "CA 299",
      "County Road 24"
-    ]
+    ],
+    "nodeId": 58892144
    }
   },
   {
@@ -12104,7 +12856,8 @@
     "streets": [
      "Bobcat Drive",
      "Starpine Road"
-    ]
+    ],
+    "nodeId": 58892159
    }
   },
   {
@@ -12120,7 +12873,8 @@
     "streets": [
      "County Road 25",
      "Warner Mountain Ridge-Line"
-    ]
+    ],
+    "nodeId": 58892631
    }
   },
   {
@@ -12136,7 +12890,8 @@
     "streets": [
      "County Road 25",
      "Main Street;CR 1"
-    ]
+    ],
+    "nodeId": 58827380
    }
   },
   {
@@ -12152,7 +12907,8 @@
     "streets": [
      "Drake Road",
      "Sonora Road"
-    ]
+    ],
+    "nodeId": 58893543
    }
   },
   {
@@ -12168,7 +12924,8 @@
     "streets": [
      "Balboa Road",
      "Drake Road"
-    ]
+    ],
+    "nodeId": 58893545
    }
   },
   {
@@ -12184,7 +12941,8 @@
     "streets": [
      "Drake Road",
      "Sonoma Road"
-    ]
+    ],
+    "nodeId": 58893552
    }
   },
   {
@@ -12200,7 +12958,8 @@
     "streets": [
      "Drake Road",
      "Fort Ross Road"
-    ]
+    ],
+    "nodeId": 58893555
    }
   },
   {
@@ -12216,7 +12975,8 @@
     "streets": [
      "Fosteria Circle",
      "Sutter Creek Trail"
-    ]
+    ],
+    "nodeId": 58893685
    }
   },
   {
@@ -12232,7 +12992,8 @@
     "streets": [
      "CA 139",
      "County Road 103A;CR 103A"
-    ]
+    ],
+    "nodeId": 58836907
    }
   },
   {
@@ -12248,7 +13009,8 @@
     "streets": [
      "CA 139",
      "County Road 102;CR 102"
-    ]
+    ],
+    "nodeId": 58894614
    }
   },
   {
@@ -12264,7 +13026,8 @@
     "streets": [
      "CA 139",
      "County Road 110;CR 110"
-    ]
+    ],
+    "nodeId": 58894635
    }
   },
   {
@@ -12280,7 +13043,8 @@
     "streets": [
      "CA 139",
      "County Road 101;CR 101"
-    ]
+    ],
+    "nodeId": 58894644
    }
   },
   {
@@ -12296,7 +13060,8 @@
     "streets": [
      "CA 139",
      "County Road 121"
-    ]
+    ],
+    "nodeId": 58893964
    }
   },
   {
@@ -12312,7 +13077,8 @@
     "streets": [
      "CA 139",
      "County Road 124;CR 124"
-    ]
+    ],
+    "nodeId": 58893994
    }
   },
   {
@@ -12328,7 +13094,8 @@
     "streets": [
      "CA 139",
      "Old Alturas Highway;CR 114"
-    ]
+    ],
+    "nodeId": 58857772
    }
   },
   {
@@ -12344,7 +13111,8 @@
     "streets": [
      "CA 139",
      "County Road 83"
-    ]
+    ],
+    "nodeId": 58894702
    }
   },
   {
@@ -12360,7 +13128,8 @@
     "streets": [
      "CA 139",
      "Howards Gulch Frontage Road"
-    ]
+    ],
+    "nodeId": 58894823
    }
   },
   {
@@ -12376,7 +13145,8 @@
     "streets": [
      "CA 139;CA 299",
      "County Road 89"
-    ]
+    ],
+    "nodeId": 58893813
    }
   },
   {
@@ -12392,7 +13162,8 @@
     "streets": [
      "County Road 26",
      "Main Street;CR 1"
-    ]
+    ],
+    "nodeId": 58895734
    }
   },
   {
@@ -12408,7 +13179,8 @@
     "streets": [
      "County Road 68",
      "Lakeshore Road"
-    ]
+    ],
+    "nodeId": 58895902
    }
   },
   {
@@ -12424,7 +13196,8 @@
     "streets": [
      "Overland Road",
      "Reno Road"
-    ]
+    ],
+    "nodeId": 58898085
    }
   },
   {
@@ -12440,7 +13213,8 @@
     "streets": [
      "Reno Road",
      "Rodeo Road"
-    ]
+    ],
+    "nodeId": 58828184
    }
   },
   {
@@ -12456,7 +13230,8 @@
     "streets": [
      "Arrowhead Road",
      "Reno Road"
-    ]
+    ],
+    "nodeId": 58898094
    }
   },
   {
@@ -12472,7 +13247,8 @@
     "streets": [
      "Canon Road",
      "Wayside Drive"
-    ]
+    ],
+    "nodeId": 58898105
    }
   },
   {
@@ -12488,7 +13264,8 @@
     "streets": [
      "County Road 29",
      "County Road 30"
-    ]
+    ],
+    "nodeId": 58898148
    }
   },
   {
@@ -12504,7 +13281,8 @@
     "streets": [
      "Calamity Road",
      "Mustang Road"
-    ]
+    ],
+    "nodeId": 58898250
    }
   },
   {
@@ -12520,7 +13298,8 @@
     "streets": [
      "Arrowhead Road",
      "Calamity Road"
-    ]
+    ],
+    "nodeId": 58898269
    }
   },
   {
@@ -12536,7 +13315,8 @@
     "streets": [
      "Mountain Goat Drive",
      "Pheasant Drive"
-    ]
+    ],
+    "nodeId": 58898341
    }
   },
   {
@@ -12552,7 +13332,8 @@
     "streets": [
      "Cottontail Lane",
      "Mountain Goat Drive"
-    ]
+    ],
+    "nodeId": 58898410
    }
   },
   {
@@ -12568,7 +13349,8 @@
     "streets": [
      "County Road 31",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58516158
    }
   },
   {
@@ -12584,7 +13366,8 @@
     "streets": [
      "County Road 31",
      "Patterson Lane"
-    ]
+    ],
+    "nodeId": 58413381
    }
   },
   {
@@ -12600,7 +13383,8 @@
     "streets": [
      "County Road 1",
      "County Road 5"
-    ]
+    ],
+    "nodeId": 58899118
    }
   },
   {
@@ -12616,7 +13400,8 @@
     "streets": [
      "Graylag Lane",
      "Hummingbird Lane"
-    ]
+    ],
+    "nodeId": 58899248
    }
   },
   {
@@ -12632,7 +13417,8 @@
     "streets": [
      "Goose Loop",
      "Graylag Lane"
-    ]
+    ],
+    "nodeId": 58899250
    }
   },
   {
@@ -12648,7 +13434,8 @@
     "streets": [
      "Carter Lane",
      "New Pine Road"
-    ]
+    ],
+    "nodeId": 58899255
    }
   },
   {
@@ -12664,7 +13451,8 @@
     "streets": [
      "Carter Lane",
      "Goose Lake Road"
-    ]
+    ],
+    "nodeId": 58899277
    }
   },
   {
@@ -12680,7 +13468,8 @@
     "streets": [
      "County Road 2",
      "County Road 224"
-    ]
+    ],
+    "nodeId": 58819357
    }
   },
   {
@@ -12697,7 +13486,8 @@
      "Butter Creek Road",
      "Shaws Flat Road",
      "Sutter Creek Trail"
-    ]
+    ],
+    "nodeId": 58900744
    }
   },
   {
@@ -12714,7 +13504,8 @@
      "Henderson Street",
      "South Main Street;US 395",
      "Water Street"
-    ]
+    ],
+    "nodeId": 58900749
    }
   },
   {
@@ -12730,7 +13521,8 @@
     "streets": [
      "Henderson Street",
      "South Danhauser Street"
-    ]
+    ],
+    "nodeId": 58900758
    }
   },
   {
@@ -12746,7 +13538,8 @@
     "streets": [
      "Henderson Street",
      "North West Street"
-    ]
+    ],
+    "nodeId": 58900760
    }
   },
   {
@@ -12763,7 +13556,8 @@
      "East Modoc Street",
      "South Main Street;US 395",
      "West Modoc Street"
-    ]
+    ],
+    "nodeId": 58900837
    }
   },
   {
@@ -12780,7 +13574,8 @@
      "North West A Street",
      "South West A Street",
      "West 1st Street"
-    ]
+    ],
+    "nodeId": 58901069
    }
   },
   {
@@ -12796,7 +13591,8 @@
     "streets": [
      "North West A Street",
      "West 4th Street"
-    ]
+    ],
+    "nodeId": 58901070
    }
   },
   {
@@ -12812,7 +13608,8 @@
     "streets": [
      "County Road 34",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58901337
    }
   },
   {
@@ -12828,7 +13625,8 @@
     "streets": [
      "Black Pine Drive",
      "Shane Circle"
-    ]
+    ],
+    "nodeId": 58901347
    }
   },
   {
@@ -12844,7 +13642,8 @@
     "streets": [
      "Hickok Road",
      "Mustang Road"
-    ]
+    ],
+    "nodeId": 58901458
    }
   },
   {
@@ -12860,7 +13659,8 @@
     "streets": [
      "County Road 35",
      "County Road 36"
-    ]
+    ],
+    "nodeId": 58901609
    }
   },
   {
@@ -12876,7 +13676,8 @@
     "streets": [
      "County Road 35",
      "County Road 38"
-    ]
+    ],
+    "nodeId": 58901613
    }
   },
   {
@@ -12892,7 +13693,8 @@
     "streets": [
      "County Road 35",
      "County Road 39"
-    ]
+    ],
+    "nodeId": 58901640
    }
   },
   {
@@ -12908,7 +13710,8 @@
     "streets": [
      "County Road 35",
      "County Road 41"
-    ]
+    ],
+    "nodeId": 58901662
    }
   },
   {
@@ -12924,7 +13727,8 @@
     "streets": [
      "County Road 5",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58901774
    }
   },
   {
@@ -12940,7 +13744,8 @@
     "streets": [
      "Jess Valley Road",
      "West Valley Road"
-    ]
+    ],
+    "nodeId": 58902016
    }
   },
   {
@@ -12956,7 +13761,8 @@
     "streets": [
      "North Rine Street",
      "West 1st Street"
-    ]
+    ],
+    "nodeId": 58902044
    }
   },
   {
@@ -12973,7 +13779,8 @@
      "North Warner Street",
      "South Warner Street",
      "West 1st Street"
-    ]
+    ],
+    "nodeId": 58902047
    }
   },
   {
@@ -12989,7 +13796,8 @@
     "streets": [
      "Cabrillo Road",
      "Ramona Road"
-    ]
+    ],
+    "nodeId": 58902066
    }
   },
   {
@@ -13005,7 +13813,8 @@
     "streets": [
      "Monterey Road",
      "Ramona Road"
-    ]
+    ],
+    "nodeId": 58902070
    }
   },
   {
@@ -13021,7 +13830,8 @@
     "streets": [
      "Cortez Road",
      "Ramona Road"
-    ]
+    ],
+    "nodeId": 58902076
    }
   },
   {
@@ -13037,7 +13847,8 @@
     "streets": [
      "Barrel Springs Road;CR 201",
      "County Road 6;CR 6"
-    ]
+    ],
+    "nodeId": 58881869
    }
   },
   {
@@ -13053,7 +13864,8 @@
     "streets": [
      "Hackamore Road",
      "Tickner Road;CA 139"
-    ]
+    ],
+    "nodeId": 58902701
    }
   },
   {
@@ -13069,7 +13881,8 @@
     "streets": [
      "Hackamore Road",
      "Tickner Road"
-    ]
+    ],
+    "nodeId": 58903097
    }
   },
   {
@@ -13085,7 +13898,8 @@
     "streets": [
      "Route 395;US 395",
      "Valley View Road"
-    ]
+    ],
+    "nodeId": 58840731
    }
   },
   {
@@ -13101,7 +13915,8 @@
     "streets": [
      "Laxaque Road",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58903349
    }
   },
   {
@@ -13118,7 +13933,8 @@
      "East Carlos Street",
      "South Main Street;US 395",
      "West Carlos Street"
-    ]
+    ],
+    "nodeId": 58904058
    }
   },
   {
@@ -13134,7 +13950,8 @@
     "streets": [
      "Mule Deer Lane",
      "Silver Fox Drive"
-    ]
+    ],
+    "nodeId": 58904100
    }
   },
   {
@@ -13150,7 +13967,8 @@
     "streets": [
      "Buckboard Road",
      "Overland Road"
-    ]
+    ],
+    "nodeId": 58904153
    }
   },
   {
@@ -13166,7 +13984,8 @@
     "streets": [
      "Cedar View Circle",
      "Wilderness Drive"
-    ]
+    ],
+    "nodeId": 58905226
    }
   },
   {
@@ -13182,7 +14001,8 @@
     "streets": [
      "CA 139;CA 299",
      "Cinder Pit Road"
-    ]
+    ],
+    "nodeId": 58895529
    }
   },
   {
@@ -13198,7 +14018,8 @@
     "streets": [
      "Double Head Road",
      "Hartlerode Road"
-    ]
+    ],
+    "nodeId": 58905728
    }
   },
   {
@@ -13214,7 +14035,8 @@
     "streets": [
      "CA 299",
      "Williams Street"
-    ]
+    ],
+    "nodeId": 58905752
    }
   },
   {
@@ -13230,7 +14052,8 @@
     "streets": [
      "Williams Creek",
      "Williams Street"
-    ]
+    ],
+    "nodeId": 58760106
    }
   },
   {
@@ -13247,7 +14070,8 @@
      "Parker Creek Road",
      "Pepperdine Campground Access Road",
      "Warner Mountain Ridge-Line"
-    ]
+    ],
+    "nodeId": 58906180
    }
   },
   {
@@ -13264,7 +14088,8 @@
      "Fee Road",
      "Main Street;CR 1",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58907086
    }
   },
   {
@@ -13280,7 +14105,8 @@
     "streets": [
      "East 12th Street",
      "North East D Street"
-    ]
+    ],
+    "nodeId": 58907124
    }
   },
   {
@@ -13296,7 +14122,8 @@
     "streets": [
      "Center Street",
      "Locust Street"
-    ]
+    ],
+    "nodeId": 58907771
    }
   },
   {
@@ -13312,7 +14139,8 @@
     "streets": [
      "Locust Street",
      "Main Street;CR 1"
-    ]
+    ],
+    "nodeId": 58907775
    }
   },
   {
@@ -13328,7 +14156,8 @@
     "streets": [
      "Grizzley Drive",
      "Red Deer Lane"
-    ]
+    ],
+    "nodeId": 58907789
    }
   },
   {
@@ -13344,7 +14173,8 @@
     "streets": [
      "Sagehorn Road",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58907854
    }
   },
   {
@@ -13361,7 +14191,8 @@
      "Butterfield Road",
      "Tom Creek Road",
      "Tom's Creek Road"
-    ]
+    ],
+    "nodeId": 58907958
    }
   },
   {
@@ -13377,7 +14208,8 @@
     "streets": [
      "Sutter Creek Trail",
      "Tom's Creek Road"
-    ]
+    ],
+    "nodeId": 58907983
    }
   },
   {
@@ -13393,7 +14225,8 @@
     "streets": [
      "Conestoga Drive",
      "Hunter Drive"
-    ]
+    ],
+    "nodeId": 58908006
    }
   },
   {
@@ -13409,7 +14242,8 @@
     "streets": [
      "Lauer Road",
      "Rager Road"
-    ]
+    ],
+    "nodeId": 58462500
    }
   },
   {
@@ -13425,7 +14259,8 @@
     "streets": [
      "North Rine Street",
      "West 4th Street"
-    ]
+    ],
+    "nodeId": 58908046
    }
   },
   {
@@ -13441,7 +14276,8 @@
     "streets": [
      "Olivera Road",
      "Shasta Road"
-    ]
+    ],
+    "nodeId": 58908089
    }
   },
   {
@@ -13457,7 +14293,8 @@
     "streets": [
      "Fort Ross Road",
      "Olivera Road"
-    ]
+    ],
+    "nodeId": 58908103
    }
   },
   {
@@ -13473,7 +14310,8 @@
     "streets": [
      "Buffalo Drive",
      "Red Deer Lane"
-    ]
+    ],
+    "nodeId": 58908599
    }
   },
   {
@@ -13489,7 +14327,8 @@
     "streets": [
      "Buffalo Drive",
      "Steel Head Road"
-    ]
+    ],
+    "nodeId": 58382921
    }
   },
   {
@@ -13505,7 +14344,8 @@
     "streets": [
      "Buffalo Drive",
      "Steelhead Lane"
-    ]
+    ],
+    "nodeId": 58908607
    }
   },
   {
@@ -13521,7 +14361,8 @@
     "streets": [
      "County Road 41",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58909010
    }
   },
   {
@@ -13537,7 +14378,8 @@
     "streets": [
      "East 17th Street",
      "North East Street"
-    ]
+    ],
+    "nodeId": 58909041
    }
   },
   {
@@ -13553,7 +14395,8 @@
     "streets": [
      "East 17th Street",
      "North Court Street"
-    ]
+    ],
+    "nodeId": 58909043
    }
   },
   {
@@ -13569,7 +14412,8 @@
     "streets": [
      "Cedar Drive",
      "Widow Valley Road"
-    ]
+    ],
+    "nodeId": 58909047
    }
   },
   {
@@ -13585,7 +14429,8 @@
     "streets": [
      "Cedar Drive",
      "Mahogany Way"
-    ]
+    ],
+    "nodeId": 58909065
    }
   },
   {
@@ -13601,7 +14446,8 @@
     "streets": [
      "County Road 40A",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58909485
    }
   },
   {
@@ -13617,7 +14463,8 @@
     "streets": [
      "Blue Lake Road",
      "County Road 42"
-    ]
+    ],
+    "nodeId": 58530854
    }
   },
   {
@@ -13633,7 +14480,8 @@
     "streets": [
      "County Road 42",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58910529
    }
   },
   {
@@ -13649,7 +14497,8 @@
     "streets": [
      "Pheasant Drive",
      "Possum Lane"
-    ]
+    ],
+    "nodeId": 58910572
    }
   },
   {
@@ -13666,7 +14515,8 @@
      "County Road 44",
      "Pinecreek Canyon Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58841238
    }
   },
   {
@@ -13682,7 +14532,8 @@
     "streets": [
      "New Pine Road",
      "Sagegrouse Road"
-    ]
+    ],
+    "nodeId": 58850235
    }
   },
   {
@@ -13698,7 +14549,8 @@
     "streets": [
      "County Road 45",
      "Pinecreek Canyon Road"
-    ]
+    ],
+    "nodeId": 58844132
    }
   },
   {
@@ -13714,7 +14566,8 @@
     "streets": [
      "Kyle Street",
      "Water Street"
-    ]
+    ],
+    "nodeId": 58910996
    }
   },
   {
@@ -13730,7 +14583,8 @@
     "streets": [
      "Kyle Street",
      "Main Street;CR 1"
-    ]
+    ],
+    "nodeId": 58910997
    }
   },
   {
@@ -13746,7 +14600,8 @@
     "streets": [
      "Coyote Drive",
      "Starpine Road"
-    ]
+    ],
+    "nodeId": 58911011
    }
   },
   {
@@ -13762,7 +14617,8 @@
     "streets": [
      "Hunter Drive",
      "Starpine Road"
-    ]
+    ],
+    "nodeId": 58911012
    }
   },
   {
@@ -13778,7 +14634,8 @@
     "streets": [
      "CA 299",
      "Spicer Lane"
-    ]
+    ],
+    "nodeId": 58911055
    }
   },
   {
@@ -13795,7 +14652,8 @@
      "East 4th Street",
      "North Main Street;US 395",
      "West 4th Street"
-    ]
+    ],
+    "nodeId": 58911403
    }
   },
   {
@@ -13813,7 +14671,8 @@
      "North Main Street",
      "North Main Street;US 395",
      "West 12th Street;CA 299"
-    ]
+    ],
+    "nodeId": 58875240
    }
   },
   {
@@ -13829,7 +14688,8 @@
     "streets": [
      "McKenney Drive",
      "Mollenny Road"
-    ]
+    ],
+    "nodeId": 58911711
    }
   },
   {
@@ -13845,7 +14705,8 @@
     "streets": [
      "Austin Road",
      "Crockett Road"
-    ]
+    ],
+    "nodeId": 58911852
    }
   },
   {
@@ -13861,7 +14722,8 @@
     "streets": [
      "Calaveras Road",
      "Pescado Road"
-    ]
+    ],
+    "nodeId": 58911872
    }
   },
   {
@@ -13877,7 +14739,8 @@
     "streets": [
      "Calaveras Road",
      "Felicia Road"
-    ]
+    ],
+    "nodeId": 58911876
    }
   },
   {
@@ -13893,7 +14756,8 @@
     "streets": [
      "B Street",
      "Wagon Wheel Drive"
-    ]
+    ],
+    "nodeId": 58912239
    }
   },
   {
@@ -13909,7 +14773,8 @@
     "streets": [
      "B Street",
      "Main Street"
-    ]
+    ],
+    "nodeId": 58912243
    }
   },
   {
@@ -13925,7 +14790,8 @@
     "streets": [
      "1st Street",
      "B Street"
-    ]
+    ],
+    "nodeId": 58912244
    }
   },
   {
@@ -13941,7 +14807,8 @@
     "streets": [
      "County Road 50",
      "County Road 68"
-    ]
+    ],
+    "nodeId": 58912774
    }
   },
   {
@@ -13957,7 +14824,8 @@
     "streets": [
      "1st Street",
      "Church Street"
-    ]
+    ],
+    "nodeId": 58912791
    }
   },
   {
@@ -13973,7 +14841,8 @@
     "streets": [
      "1st Street",
      "Milton Street"
-    ]
+    ],
+    "nodeId": 58912802
    }
   },
   {
@@ -13989,7 +14858,8 @@
     "streets": [
      "1st Street",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58841250
    }
   },
   {
@@ -14005,7 +14875,8 @@
     "streets": [
      "1st Street",
      "Main Street"
-    ]
+    ],
+    "nodeId": 58912810
    }
   },
   {
@@ -14021,7 +14892,8 @@
     "streets": [
      "County Road 133A",
      "County Road 51"
-    ]
+    ],
+    "nodeId": 58733713
    }
   },
   {
@@ -14037,7 +14909,8 @@
     "streets": [
      "Pheasant Drive",
      "Steelhead Lane"
-    ]
+    ],
+    "nodeId": 58912921
    }
   },
   {
@@ -14053,7 +14926,8 @@
     "streets": [
      "Squirrel Drive",
      "Steelhead Lane"
-    ]
+    ],
+    "nodeId": 58912922
    }
   },
   {
@@ -14069,7 +14943,8 @@
     "streets": [
      "Pintail Drive",
      "Steelhead Lane"
-    ]
+    ],
+    "nodeId": 58912935
    }
   },
   {
@@ -14085,7 +14960,8 @@
     "streets": [
      "Cougar Drive",
      "Steelhead Lane"
-    ]
+    ],
+    "nodeId": 58912937
    }
   },
   {
@@ -14101,7 +14977,8 @@
     "streets": [
      "Howards Gulch Frontage Road",
      "Old Highway Road"
-    ]
+    ],
+    "nodeId": 58913153
    }
   },
   {
@@ -14117,7 +14994,8 @@
     "streets": [
      "42N77 Road",
      "Loveness Logging Road"
-    ]
+    ],
+    "nodeId": 58913254
    }
   },
   {
@@ -14133,7 +15011,8 @@
     "streets": [
      "Buck Lane",
      "County Road 76"
-    ]
+    ],
+    "nodeId": 58913509
    }
   },
   {
@@ -14149,7 +15028,8 @@
     "streets": [
      "Pheasant Drive",
      "Widgeon Drive"
-    ]
+    ],
+    "nodeId": 58913559
    }
   },
   {
@@ -14165,7 +15045,8 @@
     "streets": [
      "Pheasant Drive",
      "Pintail Drive"
-    ]
+    ],
+    "nodeId": 58913600
    }
   },
   {
@@ -14181,7 +15062,8 @@
     "streets": [
      "Coyote Drive",
      "Pheasant Drive"
-    ]
+    ],
+    "nodeId": 58913608
    }
   },
   {
@@ -14197,7 +15079,8 @@
     "streets": [
      "Beaver Drive",
      "Pheasant Drive"
-    ]
+    ],
+    "nodeId": 58913639
    }
   },
   {
@@ -14213,7 +15096,8 @@
     "streets": [
      "Moose Lane",
      "Pheasant Drive"
-    ]
+    ],
+    "nodeId": 58913699
    }
   },
   {
@@ -14229,7 +15113,8 @@
     "streets": [
      "Pheasant Drive",
      "Wolverine Lane"
-    ]
+    ],
+    "nodeId": 58913743
    }
   },
   {
@@ -14245,7 +15130,8 @@
     "streets": [
      "Mule Deer Lane",
      "Pheasant Drive"
-    ]
+    ],
+    "nodeId": 58913766
    }
   },
   {
@@ -14261,7 +15147,8 @@
     "streets": [
      "County Road 60",
      "West Side Canal"
-    ]
+    ],
+    "nodeId": 58914063
    }
   },
   {
@@ -14277,7 +15164,8 @@
     "streets": [
      "Black Pine Drive",
      "Evans Circle"
-    ]
+    ],
+    "nodeId": 58914538
    }
   },
   {
@@ -14293,7 +15181,8 @@
     "streets": [
      "Black Pine Drive",
      "Hunter Drive"
-    ]
+    ],
+    "nodeId": 58914540
    }
   },
   {
@@ -14309,7 +15198,8 @@
     "streets": [
      "Fort Ross Road",
      "Shasta Road"
-    ]
+    ],
+    "nodeId": 58914602
    }
   },
   {
@@ -14325,7 +15215,8 @@
     "streets": [
      "County Road 53",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58840686
    }
   },
   {
@@ -14341,7 +15232,8 @@
     "streets": [
      "Cooke Drive",
      "Denver Drive"
-    ]
+    ],
+    "nodeId": 58915103
    }
   },
   {
@@ -14357,7 +15249,8 @@
     "streets": [
      "Alpine Road",
      "CA 299"
-    ]
+    ],
+    "nodeId": 58915447
    }
   },
   {
@@ -14373,7 +15266,8 @@
     "streets": [
      "CA 299",
      "McKenney Drive"
-    ]
+    ],
+    "nodeId": 58915580
    }
   },
   {
@@ -14389,7 +15283,8 @@
     "streets": [
      "CA 299",
      "Johnstone"
-    ]
+    ],
+    "nodeId": 58916086
    }
   },
   {
@@ -14405,7 +15300,8 @@
     "streets": [
      "CA 299",
      "Sx Road"
-    ]
+    ],
+    "nodeId": 58916381
    }
   },
   {
@@ -14421,7 +15317,8 @@
     "streets": [
      "CA 299",
      "County Road 70"
-    ]
+    ],
+    "nodeId": 58916399
    }
   },
   {
@@ -14437,7 +15334,8 @@
     "streets": [
      "CA 299",
      "County Road 75"
-    ]
+    ],
+    "nodeId": 58916556
    }
   },
   {
@@ -14453,7 +15351,8 @@
     "streets": [
      "CA 299",
      "Noble Creek"
-    ]
+    ],
+    "nodeId": 58916557
    }
   },
   {
@@ -14469,7 +15368,8 @@
     "streets": [
      "CA 299",
      "R Road"
-    ]
+    ],
+    "nodeId": 58916574
    }
   },
   {
@@ -14485,7 +15385,8 @@
     "streets": [
      "CA 299",
      "Crowder Flat Road"
-    ]
+    ],
+    "nodeId": 58865283
    }
   },
   {
@@ -14501,7 +15402,8 @@
     "streets": [
      "CA 299",
      "County Road 257"
-    ]
+    ],
+    "nodeId": 58916607
    }
   },
   {
@@ -14517,7 +15419,8 @@
     "streets": [
      "South West A Street",
      "West North Street"
-    ]
+    ],
+    "nodeId": 58917249
    }
   },
   {
@@ -14533,7 +15436,8 @@
     "streets": [
      "County Road 115",
      "County Road 56"
-    ]
+    ],
+    "nodeId": 58917255
    }
   },
   {
@@ -14549,7 +15453,8 @@
     "streets": [
      "County Road 56",
      "Parker Creek Road"
-    ]
+    ],
+    "nodeId": 58917285
    }
   },
   {
@@ -14565,7 +15470,8 @@
     "streets": [
      "County Road 56",
      "County Road 58"
-    ]
+    ],
+    "nodeId": 58917349
    }
   },
   {
@@ -14581,7 +15487,8 @@
     "streets": [
      "County Road 56",
      "County Road 57"
-    ]
+    ],
+    "nodeId": 58705188
    }
   },
   {
@@ -14597,7 +15504,8 @@
     "streets": [
      "County Road 56",
      "County Road 67"
-    ]
+    ],
+    "nodeId": 58917461
    }
   },
   {
@@ -14613,7 +15521,8 @@
     "streets": [
      "Lake View Drive",
      "Rush View Road"
-    ]
+    ],
+    "nodeId": 58917489
    }
   },
   {
@@ -14629,7 +15538,8 @@
     "streets": [
      "Jackson View Circle",
      "Rush View Road"
-    ]
+    ],
+    "nodeId": 58917498
    }
   },
   {
@@ -14645,7 +15555,8 @@
     "streets": [
      "Granger Circle",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58713120
    }
   },
   {
@@ -14661,7 +15572,8 @@
     "streets": [
      "County Road 57",
      "Pine Creek Boulevard"
-    ]
+    ],
+    "nodeId": 58917732
    }
   },
   {
@@ -14677,7 +15589,8 @@
     "streets": [
      "42N35 Road",
      "Loveness Logging Road"
-    ]
+    ],
+    "nodeId": 58853067
    }
   },
   {
@@ -14693,7 +15606,8 @@
     "streets": [
      "Hill Road;NF 10",
      "Lava Beds National Monument Road;NF 10"
-    ]
+    ],
+    "nodeId": 58918943
    }
   },
   {
@@ -14709,7 +15623,8 @@
     "streets": [
      "County Road 133C",
      "Fandango Pass Road"
-    ]
+    ],
+    "nodeId": 58526389
    }
   },
   {
@@ -14725,7 +15640,8 @@
     "streets": [
      "Shasta Road",
      "Sonoma Road"
-    ]
+    ],
+    "nodeId": 58920336
    }
   },
   {
@@ -14741,7 +15657,8 @@
     "streets": [
      "Lucilane Boulevard",
      "West 19th Street"
-    ]
+    ],
+    "nodeId": 58920352
    }
   },
   {
@@ -14757,7 +15674,8 @@
     "streets": [
      "Anna Lane",
      "Lucilane Boulevard"
-    ]
+    ],
+    "nodeId": 58920379
    }
   },
   {
@@ -14773,7 +15691,8 @@
     "streets": [
      "Lucilane Boulevard",
      "Melvilane Avenue"
-    ]
+    ],
+    "nodeId": 58920381
    }
   },
   {
@@ -14790,7 +15709,8 @@
      "Main Street;CR 1",
      "Surprise Valley Road;CR 1",
      "Wallace Street"
-    ]
+    ],
+    "nodeId": 58920399
    }
   },
   {
@@ -14806,7 +15726,8 @@
     "streets": [
      "Main Street;CR 1",
      "Washington Street"
-    ]
+    ],
+    "nodeId": 58920402
    }
   },
   {
@@ -14823,7 +15744,8 @@
      "County Road 224",
      "Main Street;CR 1",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58462712
    }
   },
   {
@@ -14839,7 +15761,8 @@
     "streets": [
      "Garrison Street",
      "Main Street;CR 1"
-    ]
+    ],
+    "nodeId": 58920454
    }
   },
   {
@@ -14855,7 +15778,8 @@
     "streets": [
      "Church Street",
      "Main Street;CR 1"
-    ]
+    ],
+    "nodeId": 58920461
    }
   },
   {
@@ -14871,7 +15795,8 @@
     "streets": [
      "CA 139;CA 299",
      "Main Street"
-    ]
+    ],
+    "nodeId": 58581171
    }
   },
   {
@@ -14887,7 +15812,8 @@
     "streets": [
      "Adams Road",
      "Main Street"
-    ]
+    ],
+    "nodeId": 58920469
    }
   },
   {
@@ -14903,7 +15829,8 @@
     "streets": [
      "East 9th Street",
      "North East D Street"
-    ]
+    ],
+    "nodeId": 58921275
    }
   },
   {
@@ -14919,7 +15846,8 @@
     "streets": [
      "East 9th Street",
      "North East Street"
-    ]
+    ],
+    "nodeId": 58921277
    }
   },
   {
@@ -14935,7 +15863,8 @@
     "streets": [
      "North Warner Street",
      "West 11th Street"
-    ]
+    ],
+    "nodeId": 58921283
    }
   },
   {
@@ -14951,7 +15880,8 @@
     "streets": [
      "Smith Street",
      "West 11th Street"
-    ]
+    ],
+    "nodeId": 58921285
    }
   },
   {
@@ -14967,7 +15897,8 @@
     "streets": [
      "County Road 60",
      "Westside Canal"
-    ]
+    ],
+    "nodeId": 58922011
    }
   },
   {
@@ -14983,7 +15914,8 @@
     "streets": [
      "Cedros Road",
      "Felicia Road"
-    ]
+    ],
+    "nodeId": 58922178
    }
   },
   {
@@ -15000,7 +15932,8 @@
      "Cedros Road",
      "Laguna Road",
      "Pescado Road"
-    ]
+    ],
+    "nodeId": 58922192
    }
   },
   {
@@ -15016,7 +15949,8 @@
     "streets": [
      "16th Street",
      "West 16th Street"
-    ]
+    ],
+    "nodeId": 58911376
    }
   },
   {
@@ -15032,7 +15966,8 @@
     "streets": [
      "5th Avenue",
      "Indio Street"
-    ]
+    ],
+    "nodeId": 58922966
    }
   },
   {
@@ -15048,7 +15983,8 @@
     "streets": [
      "County Road 59B",
      "Pine Creek Boulevard"
-    ]
+    ],
+    "nodeId": 58923730
    }
   },
   {
@@ -15064,7 +16000,8 @@
     "streets": [
      "County Road 59",
      "Pine Creek Boulevard"
-    ]
+    ],
+    "nodeId": 58715902
    }
   },
   {
@@ -15080,7 +16017,8 @@
     "streets": [
      "County Road 115",
      "Pine Creek Boulevard"
-    ]
+    ],
+    "nodeId": 58923786
    }
   },
   {
@@ -15096,7 +16034,8 @@
     "streets": [
      "Marmot Lane",
      "Pintail Drive"
-    ]
+    ],
+    "nodeId": 58924008
    }
   },
   {
@@ -15112,7 +16051,8 @@
     "streets": [
      "Breighton Road",
      "Plehn Road"
-    ]
+    ],
+    "nodeId": 58924122
    }
   },
   {
@@ -15128,7 +16068,8 @@
     "streets": [
      "Milton Street",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58924129
    }
   },
   {
@@ -15144,7 +16085,8 @@
     "streets": [
      "County Road 68",
      "County Road 70"
-    ]
+    ],
+    "nodeId": 58925005
    }
   },
   {
@@ -15160,7 +16102,8 @@
     "streets": [
      "County Road 68",
      "Sx Road"
-    ]
+    ],
+    "nodeId": 58925019
    }
   },
   {
@@ -15176,7 +16119,8 @@
     "streets": [
      "Acorn Way",
      "Oak Way"
-    ]
+    ],
+    "nodeId": 58925574
    }
   },
   {
@@ -15192,7 +16136,8 @@
     "streets": [
      "Centerville Road",
      "County Road 69"
-    ]
+    ],
+    "nodeId": 58891882
    }
   },
   {
@@ -15208,7 +16153,8 @@
     "streets": [
      "CA 299",
      "County Road 69"
-    ]
+    ],
+    "nodeId": 58417761
    }
   },
   {
@@ -15224,7 +16170,8 @@
     "streets": [
      "Bufflehead Drive",
      "Goose Loop"
-    ]
+    ],
+    "nodeId": 58926383
    }
   },
   {
@@ -15240,7 +16187,8 @@
     "streets": [
      "Bufflehead Drive",
      "Chukar Lane"
-    ]
+    ],
+    "nodeId": 58926387
    }
   },
   {
@@ -15256,7 +16204,8 @@
     "streets": [
      "Bufflehead Drive",
      "Wood Duck Lane"
-    ]
+    ],
+    "nodeId": 58926389
    }
   },
   {
@@ -15272,7 +16221,8 @@
     "streets": [
      "County Road 198",
      "Edgewater Way"
-    ]
+    ],
+    "nodeId": 58865863
    }
   },
   {
@@ -15288,7 +16238,8 @@
     "streets": [
      "Edgewater Way",
      "Hideway Lane"
-    ]
+    ],
+    "nodeId": 58870605
    }
   },
   {
@@ -15304,7 +16255,8 @@
     "streets": [
      "Elk Drive",
      "Mountain Quail Lane"
-    ]
+    ],
+    "nodeId": 58926647
    }
   },
   {
@@ -15320,7 +16272,8 @@
     "streets": [
      "Mountain Quail Lane",
      "Pencil Road"
-    ]
+    ],
+    "nodeId": 58827750
    }
   },
   {
@@ -15336,7 +16289,8 @@
     "streets": [
      "North West Street",
      "Western Street"
-    ]
+    ],
+    "nodeId": 2400825678
    }
   },
   {
@@ -15352,7 +16306,8 @@
     "streets": [
      "Nagle Street",
      "Western Street"
-    ]
+    ],
+    "nodeId": 58910699
    }
   },
   {
@@ -15368,7 +16323,8 @@
     "streets": [
      "County Road 70",
      "North West Street"
-    ]
+    ],
+    "nodeId": 58848481
    }
   },
   {
@@ -15384,7 +16340,8 @@
     "streets": [
      "County Road 70",
      "Wagon Wheel Way"
-    ]
+    ],
+    "nodeId": 58927550
    }
   },
   {
@@ -15400,7 +16357,8 @@
     "streets": [
      "Laguna Road",
      "North West Street"
-    ]
+    ],
+    "nodeId": 58848385
    }
   },
   {
@@ -15416,7 +16374,8 @@
     "streets": [
      "Mud Springs Road",
      "Usfs 56"
-    ]
+    ],
+    "nodeId": 58764882
    }
   },
   {
@@ -15432,7 +16391,8 @@
     "streets": [
      "Mud Springs Road",
      "Scarface Road"
-    ]
+    ],
+    "nodeId": 58793803
    }
   },
   {
@@ -15448,7 +16408,8 @@
     "streets": [
      "Lookout Hackamore Road;CR 91",
      "Mud Springs Road"
-    ]
+    ],
+    "nodeId": 58827534
    }
   },
   {
@@ -15464,7 +16425,8 @@
     "streets": [
      "Cougar Drive",
      "Marmot Lane"
-    ]
+    ],
+    "nodeId": 58929644
    }
   },
   {
@@ -15480,7 +16442,8 @@
     "streets": [
      "South Danhauser Street",
      "West Carlos Street"
-    ]
+    ],
+    "nodeId": 58904064
    }
   },
   {
@@ -15496,7 +16459,8 @@
     "streets": [
      "County Road 114;CR 114",
      "Loveness Road"
-    ]
+    ],
+    "nodeId": 58930329
    }
   },
   {
@@ -15512,7 +16476,8 @@
     "streets": [
      "County Road 76",
      "North West Street"
-    ]
+    ],
+    "nodeId": 58848250
    }
   },
   {
@@ -15528,7 +16493,8 @@
     "streets": [
      "County Road 76",
      "Presidents Lane"
-    ]
+    ],
+    "nodeId": 58399562
    }
   },
   {
@@ -15544,7 +16510,8 @@
     "streets": [
      "Cortez Road",
      "Veracruz Road"
-    ]
+    ],
+    "nodeId": 58931969
    }
   },
   {
@@ -15560,7 +16527,8 @@
     "streets": [
      "Weaver Road",
      "Wilderness Drive"
-    ]
+    ],
+    "nodeId": 58932026
    }
   },
   {
@@ -15576,7 +16544,8 @@
     "streets": [
      "Lea View Circle",
      "Wilderness Drive"
-    ]
+    ],
+    "nodeId": 58932037
    }
   },
   {
@@ -15592,7 +16561,8 @@
     "streets": [
      "Irma Lane",
      "Pine Meadows Drive"
-    ]
+    ],
+    "nodeId": 58635299
    }
   },
   {
@@ -15608,7 +16578,8 @@
     "streets": [
      "Surprise Valley Road;CR 1",
      "Willow Street"
-    ]
+    ],
+    "nodeId": 58932080
    }
   },
   {
@@ -15624,7 +16595,8 @@
     "streets": [
      "CA 139;CA 299",
      "Willow Street"
-    ]
+    ],
+    "nodeId": 58893821
    }
   },
   {
@@ -15640,7 +16612,8 @@
     "streets": [
      "Ash Street",
      "Willow Street"
-    ]
+    ],
+    "nodeId": 58932084
    }
   },
   {
@@ -15656,7 +16629,8 @@
     "streets": [
      "Center Street",
      "Willow Street"
-    ]
+    ],
+    "nodeId": 58640067
    }
   },
   {
@@ -15672,7 +16646,8 @@
     "streets": [
      "Main Street;CR 1",
      "Willow Street"
-    ]
+    ],
+    "nodeId": 58920408
    }
   },
   {
@@ -15688,7 +16663,8 @@
     "streets": [
      "Blue Lake Road",
      "Jess Valley Road"
-    ]
+    ],
+    "nodeId": 58854334
    }
   },
   {
@@ -15704,7 +16680,8 @@
     "streets": [
      "Anna Lane",
      "Saralane Avenue"
-    ]
+    ],
+    "nodeId": 58891159
    }
   },
   {
@@ -15720,7 +16697,8 @@
     "streets": [
      "Brant Lane",
      "Honker Drive"
-    ]
+    ],
+    "nodeId": 58932402
    }
   },
   {
@@ -15736,7 +16714,8 @@
     "streets": [
      "Fandango Pass Road",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58845489
    }
   },
   {
@@ -15752,7 +16731,8 @@
     "streets": [
      "County Road 219",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58933815
    }
   },
   {
@@ -15768,7 +16748,8 @@
     "streets": [
      "Surprise Valley Road;CR 1",
      "Upper Lake City Road"
-    ]
+    ],
+    "nodeId": 58933915
    }
   },
   {
@@ -15784,7 +16765,8 @@
     "streets": [
      "Center Street",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58933926
    }
   },
   {
@@ -15800,7 +16782,8 @@
     "streets": [
      "County Road 17",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58886871
    }
   },
   {
@@ -15816,7 +16799,8 @@
     "streets": [
      "County Road 190A",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58934141
    }
   },
   {
@@ -15832,7 +16816,8 @@
     "streets": [
      "Duncan Road",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58934189
    }
   },
   {
@@ -15848,7 +16833,8 @@
     "streets": [
      "County Road 40",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58908266
    }
   },
   {
@@ -15864,7 +16850,8 @@
     "streets": [
      "County Road 38",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58904372
    }
   },
   {
@@ -15880,7 +16867,8 @@
     "streets": [
      "Mount Bullion Road",
      "Woodleaf Drive"
-    ]
+    ],
+    "nodeId": 58892546
    }
   },
   {
@@ -15896,7 +16884,8 @@
     "streets": [
      "Angels Camp Road",
      "Woodleaf Drive"
-    ]
+    ],
+    "nodeId": 58935193
    }
   },
   {
@@ -15912,7 +16901,8 @@
     "streets": [
      "16th Street",
      "North Court Street"
-    ]
+    ],
+    "nodeId": 58935790
    }
   },
   {
@@ -15928,7 +16918,8 @@
     "streets": [
      "16th Street",
      "North East Street"
-    ]
+    ],
+    "nodeId": 58935792
    }
   },
   {
@@ -15944,7 +16935,8 @@
     "streets": [
      "Hilltop Lane",
      "Mallard Lane"
-    ]
+    ],
+    "nodeId": 58936502
    }
   },
   {
@@ -15960,7 +16952,8 @@
     "streets": [
      "CA 299",
      "County Road 83"
-    ]
+    ],
+    "nodeId": 58916137
    }
   },
   {
@@ -15976,7 +16969,8 @@
     "streets": [
      "County Road 11",
      "County Road 133B"
-    ]
+    ],
+    "nodeId": 58882371
    }
   },
   {
@@ -15992,7 +16986,8 @@
     "streets": [
      "County Road 120A",
      "Rim Road;CR 120"
-    ]
+    ],
+    "nodeId": 58937671
    }
   },
   {
@@ -16008,7 +17003,8 @@
     "streets": [
      "County Road 31A",
      "Patterson Lane"
-    ]
+    ],
+    "nodeId": 58938626
    }
   },
   {
@@ -16024,7 +17020,8 @@
     "streets": [
      "Lake View Drive",
      "Warner View Road"
-    ]
+    ],
+    "nodeId": 58939825
    }
   },
   {
@@ -16040,7 +17037,8 @@
     "streets": [
      "Lake View Drive",
      "Weaver Road"
-    ]
+    ],
+    "nodeId": 58939837
    }
   },
   {
@@ -16056,7 +17054,8 @@
     "streets": [
      "Lake View Drive",
      "Mountain View Drive"
-    ]
+    ],
+    "nodeId": 58939883
    }
   },
   {
@@ -16072,7 +17071,8 @@
     "streets": [
      "Lake View Drive",
      "Vista View Drive"
-    ]
+    ],
+    "nodeId": 58939899
    }
   },
   {
@@ -16088,7 +17088,8 @@
     "streets": [
      "4th Avenue",
      "Fresno Street"
-    ]
+    ],
+    "nodeId": 58939990
    }
   },
   {
@@ -16104,7 +17105,8 @@
     "streets": [
      "Pescado Road",
      "Valencia Road"
-    ]
+    ],
+    "nodeId": 58939995
    }
   },
   {
@@ -16120,7 +17122,8 @@
     "streets": [
      "Plehn Road",
      "Twohie Road"
-    ]
+    ],
+    "nodeId": 58940132
    }
   },
   {
@@ -16136,7 +17139,8 @@
     "streets": [
      "East 5th Street",
      "North East D Street"
-    ]
+    ],
+    "nodeId": 58940600
    }
   },
   {
@@ -16152,7 +17156,8 @@
     "streets": [
      "East 5th Street",
      "East C Street"
-    ]
+    ],
+    "nodeId": 58940603
    }
   },
   {
@@ -16168,7 +17173,8 @@
     "streets": [
      "East 5th Street",
      "North East Street"
-    ]
+    ],
+    "nodeId": 58940604
    }
   },
   {
@@ -16184,7 +17190,8 @@
     "streets": [
      "CA 139;CA 299",
      "County Road 88"
-    ]
+    ],
+    "nodeId": 12826461172
    }
   },
   {
@@ -16200,7 +17207,8 @@
     "streets": [
      "Arrowhead Road",
      "Whiskey Flat Trail"
-    ]
+    ],
+    "nodeId": 58940801
    }
   },
   {
@@ -16217,7 +17225,8 @@
      "Adams Road",
      "Ash Street",
      "County Road 89"
-    ]
+    ],
+    "nodeId": 58940952
    }
   },
   {
@@ -16233,7 +17242,8 @@
     "streets": [
      "North West B Street",
      "West 4th Street"
-    ]
+    ],
+    "nodeId": 58941175
    }
   },
   {
@@ -16249,7 +17259,8 @@
     "streets": [
      "Palo Alto Road",
      "Palou Road"
-    ]
+    ],
+    "nodeId": 58941180
    }
   },
   {
@@ -16265,7 +17276,8 @@
     "streets": [
      "Scarface Road",
      "Whitehorse Road"
-    ]
+    ],
+    "nodeId": 58941216
    }
   },
   {
@@ -16281,7 +17293,8 @@
     "streets": [
      "Loveness Logging Road",
      "Scarface Road"
-    ]
+    ],
+    "nodeId": 58852730
    }
   },
   {
@@ -16297,7 +17310,8 @@
     "streets": [
      "Medicine Lake Road",
      "Usfs 56"
-    ]
+    ],
+    "nodeId": 58495261
    }
   },
   {
@@ -16313,7 +17327,8 @@
     "streets": [
      "County Road 595",
      "County Road 59A"
-    ]
+    ],
+    "nodeId": 58943137
    }
   },
   {
@@ -16329,7 +17344,8 @@
     "streets": [
      "East 2nd Street",
      "East B Street"
-    ]
+    ],
+    "nodeId": 3957304664
    }
   },
   {
@@ -16345,7 +17361,8 @@
     "streets": [
      "East 2nd Street",
      "North East Street"
-    ]
+    ],
+    "nodeId": 58943174
    }
   },
   {
@@ -16361,7 +17378,8 @@
     "streets": [
      "East 2nd Street",
      "North Court Street"
-    ]
+    ],
+    "nodeId": 58943176
    }
   },
   {
@@ -16377,7 +17395,8 @@
     "streets": [
      "Beaver Drive",
      "Coyote Drive"
-    ]
+    ],
+    "nodeId": 58943333
    }
   },
   {
@@ -16393,7 +17412,8 @@
     "streets": [
      "County Road 90",
      "East Gouger Neck Road"
-    ]
+    ],
+    "nodeId": 58504970
    }
   },
   {
@@ -16409,7 +17429,8 @@
     "streets": [
      "7th Street",
      "North Warner Street"
-    ]
+    ],
+    "nodeId": 58927882
    }
   },
   {
@@ -16426,7 +17447,8 @@
      "Kowolowski Road;CR 108",
      "Old Alturas Highway;CR 114",
      "State Line Road;CR 108"
-    ]
+    ],
+    "nodeId": 58945163
    }
   },
   {
@@ -16442,7 +17464,8 @@
     "streets": [
      "County Road 87",
      "East Gouger Neck Road"
-    ]
+    ],
+    "nodeId": 58555690
    }
   },
   {
@@ -16458,7 +17481,8 @@
     "streets": [
      "East Modoc Street",
      "South East Street"
-    ]
+    ],
+    "nodeId": 58945218
    }
   },
   {
@@ -16474,7 +17498,8 @@
     "streets": [
      "South East Street",
      "Water Street"
-    ]
+    ],
+    "nodeId": 58945221
    }
   },
   {
@@ -16490,7 +17515,8 @@
     "streets": [
      "County Road 93",
      "Widow Valley Road"
-    ]
+    ],
+    "nodeId": 58945510
    }
   },
   {
@@ -16506,7 +17532,8 @@
     "streets": [
      "County Road 93",
      "Fir Court"
-    ]
+    ],
+    "nodeId": 58945624
    }
   },
   {
@@ -16522,7 +17549,8 @@
     "streets": [
      "County Road 93",
      "Whitehorse Road"
-    ]
+    ],
+    "nodeId": 58945654
    }
   },
   {
@@ -16538,7 +17566,8 @@
     "streets": [
      "47N06 Road",
      "48N06 Road"
-    ]
+    ],
+    "nodeId": 58946172
    }
   },
   {
@@ -16554,7 +17583,8 @@
     "streets": [
      "48N06 Road",
      "Kellogg Road"
-    ]
+    ],
+    "nodeId": 58490397
    }
   },
   {
@@ -16570,7 +17600,8 @@
     "streets": [
      "Kellogg Road",
      "Muldoon Road"
-    ]
+    ],
+    "nodeId": 58860891
    }
   },
   {
@@ -16586,7 +17617,8 @@
     "streets": [
      "East 4th Street",
      "North East Street"
-    ]
+    ],
+    "nodeId": 58948153
    }
   },
   {
@@ -16602,7 +17634,8 @@
     "streets": [
      "East 8th Street",
      "North East Street"
-    ]
+    ],
+    "nodeId": 58948159
    }
   },
   {
@@ -16618,7 +17651,8 @@
     "streets": [
      "East 10th Street",
      "North East Street"
-    ]
+    ],
+    "nodeId": 58833848
    }
   },
   {
@@ -16634,7 +17668,8 @@
     "streets": [
      "15th Street",
      "North East Street"
-    ]
+    ],
+    "nodeId": 58948166
    }
   },
   {
@@ -16650,7 +17685,8 @@
     "streets": [
      "North East Street",
      "West 19th Street"
-    ]
+    ],
+    "nodeId": 58626602
    }
   },
   {
@@ -16666,7 +17702,8 @@
     "streets": [
      "North East Street",
      "Wood Duck Lane"
-    ]
+    ],
+    "nodeId": 58810431
    }
   },
   {
@@ -16682,7 +17719,8 @@
     "streets": [
      "Garrison Street",
      "Water Street"
-    ]
+    ],
+    "nodeId": 58948214
    }
   },
   {
@@ -16698,7 +17736,8 @@
     "streets": [
      "Center Street",
      "Washington Street"
-    ]
+    ],
+    "nodeId": 58948225
    }
   },
   {
@@ -16714,7 +17753,8 @@
     "streets": [
      "Center Street",
      "South Water Street"
-    ]
+    ],
+    "nodeId": 58948233
    }
   },
   {
@@ -16730,7 +17770,8 @@
     "streets": [
      "Adin Street",
      "Center Street"
-    ]
+    ],
+    "nodeId": 58948235
    }
   },
   {
@@ -16746,7 +17787,8 @@
     "streets": [
      "CA 139;CA 299",
      "Center Street"
-    ]
+    ],
+    "nodeId": 58893827
    }
   },
   {
@@ -16762,7 +17804,8 @@
     "streets": [
      "Centerville Road",
      "North West Street"
-    ]
+    ],
+    "nodeId": 58848628
    }
   },
   {
@@ -16778,7 +17821,8 @@
     "streets": [
      "Franklin Canyon Road",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58840755
    }
   },
   {
@@ -16794,7 +17838,8 @@
     "streets": [
      "County Road 133A",
      "Franklin Canyon Road"
-    ]
+    ],
+    "nodeId": 58937097
    }
   },
   {
@@ -16810,7 +17855,8 @@
     "streets": [
      "Parker Creek Road",
      "West Warner Road"
-    ]
+    ],
+    "nodeId": 58950400
    }
   },
   {
@@ -16826,7 +17872,8 @@
     "streets": [
      "County Road 198",
      "Lower Rush Creek Road"
-    ]
+    ],
+    "nodeId": 58865876
    }
   },
   {
@@ -16842,7 +17889,8 @@
     "streets": [
      "Lower Rush Creek Road",
      "Muletail Drive"
-    ]
+    ],
+    "nodeId": 58950579
    }
   },
   {
@@ -16858,7 +17906,8 @@
     "streets": [
      "East 4th Street",
      "East C Street"
-    ]
+    ],
+    "nodeId": 58951015
    }
   },
   {
@@ -16874,7 +17923,8 @@
     "streets": [
      "East 8th Street",
      "East C Street"
-    ]
+    ],
+    "nodeId": 58951016
    }
   },
   {
@@ -16890,7 +17940,8 @@
     "streets": [
      "North Warner Street",
      "West 14th Street"
-    ]
+    ],
+    "nodeId": 58927888
    }
   },
   {
@@ -16906,7 +17957,8 @@
     "streets": [
      "Maple Street",
      "West 14th Street"
-    ]
+    ],
+    "nodeId": 58850337
    }
   },
   {
@@ -16922,7 +17974,8 @@
     "streets": [
      "Gray Wolf Drive",
      "Mule Deer Lane"
-    ]
+    ],
+    "nodeId": 58951049
    }
   },
   {
@@ -16938,7 +17991,8 @@
     "streets": [
      "Brant Lane",
      "Gray Wolf Drive"
-    ]
+    ],
+    "nodeId": 58951052
    }
   },
   {
@@ -16954,7 +18008,8 @@
     "streets": [
      "County Road 111",
      "County Road 99"
-    ]
+    ],
+    "nodeId": 58951071
    }
   },
   {
@@ -16970,7 +18025,8 @@
     "streets": [
      "County Road 112",
      "County Road 99"
-    ]
+    ],
+    "nodeId": 58951081
    }
   },
   {
@@ -16986,7 +18042,8 @@
     "streets": [
      "CA 139",
      "County Road 99"
-    ]
+    ],
+    "nodeId": 58893777
    }
   },
   {
@@ -17002,7 +18059,8 @@
     "streets": [
      "Eldorado Road",
      "Overland Road"
-    ]
+    ],
+    "nodeId": 58951093
    }
   },
   {
@@ -17018,7 +18076,8 @@
     "streets": [
      "Eldorado Road",
      "Winchester Road"
-    ]
+    ],
+    "nodeId": 58870573
    }
   },
   {
@@ -17034,7 +18093,8 @@
     "streets": [
      "County Road 190A",
      "County Road 190B"
-    ]
+    ],
+    "nodeId": 58952384
    }
   },
   {
@@ -17050,7 +18110,8 @@
     "streets": [
      "Juniper Street",
      "West 19th Street"
-    ]
+    ],
+    "nodeId": 58952450
    }
   },
   {
@@ -17066,7 +18127,8 @@
     "streets": [
      "Saralane Avenue",
      "West 19th Street"
-    ]
+    ],
+    "nodeId": 58891156
    }
   },
   {
@@ -17082,7 +18144,8 @@
     "streets": [
      "Shaws Flat Road",
      "Shingle Springs Drive"
-    ]
+    ],
+    "nodeId": 58855760
    }
   },
   {
@@ -17098,7 +18161,8 @@
     "streets": [
      "Archer Drive",
      "Hunter Drive"
-    ]
+    ],
+    "nodeId": 58954464
    }
   },
   {
@@ -17114,7 +18178,8 @@
     "streets": [
      "Shepherd Road",
      "Widow Valley Road"
-    ]
+    ],
+    "nodeId": 58954644
    }
   },
   {
@@ -17130,7 +18195,8 @@
     "streets": [
      "Day Road",
      "Schneider Ranch Road"
-    ]
+    ],
+    "nodeId": 58834327
    }
   },
   {
@@ -17146,7 +18212,8 @@
     "streets": [
      "Gooch Lane",
      "Schneider Ranch Road"
-    ]
+    ],
+    "nodeId": 58417550
    }
   },
   {
@@ -17162,7 +18229,8 @@
     "streets": [
      "County Road 93",
      "Lookout Dump Road"
-    ]
+    ],
+    "nodeId": 58945467
    }
   },
   {
@@ -17178,7 +18246,8 @@
     "streets": [
      "East 11th Street",
      "North East D Street"
-    ]
+    ],
+    "nodeId": 58954767
    }
   },
   {
@@ -17194,7 +18263,8 @@
     "streets": [
      "Adin Street",
      "Juniper Street"
-    ]
+    ],
+    "nodeId": 58955162
    }
   },
   {
@@ -17210,7 +18280,8 @@
     "streets": [
      "Arcadia Road",
      "Fiesta Road"
-    ]
+    ],
+    "nodeId": 58955212
    }
   },
   {
@@ -17226,7 +18297,8 @@
     "streets": [
      "C Street",
      "County Road 113;CR 113"
-    ]
+    ],
+    "nodeId": 58955817
    }
   },
   {
@@ -17242,7 +18314,8 @@
     "streets": [
      "C Street",
      "Wagon Wheel Drive"
-    ]
+    ],
+    "nodeId": 58955819
    }
   },
   {
@@ -17258,7 +18331,8 @@
     "streets": [
      "CA 139;CA 299",
      "Juniper Street"
-    ]
+    ],
+    "nodeId": 58893820
    }
   },
   {
@@ -17274,7 +18348,8 @@
     "streets": [
      "Ash Street",
      "Juniper Street"
-    ]
+    ],
+    "nodeId": 58956841
    }
   },
   {
@@ -17290,7 +18365,8 @@
     "streets": [
      "Juniper Street",
      "West 12th Street;CA 299"
-    ]
+    ],
+    "nodeId": 58875247
    }
   },
   {
@@ -17306,7 +18382,8 @@
     "streets": [
      "County Road 230",
      "County Road 230A"
-    ]
+    ],
+    "nodeId": 58957990
    }
   },
   {
@@ -17322,7 +18399,8 @@
     "streets": [
      "East B Street",
      "Short Street"
-    ]
+    ],
+    "nodeId": 58958017
    }
   },
   {
@@ -17338,7 +18416,8 @@
     "streets": [
      "Maple Street",
      "West 12th Street;CA 299"
-    ]
+    ],
+    "nodeId": 58850340
    }
   },
   {
@@ -17354,7 +18433,8 @@
     "streets": [
      "Nagle Street",
      "West 12th Street;CA 299"
-    ]
+    ],
+    "nodeId": 58875248
    }
   },
   {
@@ -17370,7 +18450,8 @@
     "streets": [
      "North Warner Street",
      "West 12th Street;CA 299"
-    ]
+    ],
+    "nodeId": 58875252
    }
   },
   {
@@ -17386,7 +18467,8 @@
     "streets": [
      "Smith Street",
      "West 12th Street;CA 299"
-    ]
+    ],
+    "nodeId": 58875254
    }
   },
   {
@@ -17402,7 +18484,8 @@
     "streets": [
      "Mallard Lane",
      "Sage Hen Lane"
-    ]
+    ],
+    "nodeId": 58960569
    }
   },
   {
@@ -17418,7 +18501,8 @@
     "streets": [
      "Kearny Road",
      "Overland Road"
-    ]
+    ],
+    "nodeId": 58960646
    }
   },
   {
@@ -17434,7 +18518,8 @@
     "streets": [
      "County Road 230",
      "Pumise Road"
-    ]
+    ],
+    "nodeId": 58960926
    }
   },
   {
@@ -17450,7 +18535,8 @@
     "streets": [
      "Blacks Canyon Road",
      "Canby Street"
-    ]
+    ],
+    "nodeId": 58801555
    }
   },
   {
@@ -17466,7 +18552,8 @@
     "streets": [
      "Canby Street",
      "County Road 83"
-    ]
+    ],
+    "nodeId": 58760113
    }
   },
   {
@@ -17482,7 +18569,8 @@
     "streets": [
      "Cabrillo Road",
      "Veracruz Road"
-    ]
+    ],
+    "nodeId": 58962019
    }
   },
   {
@@ -17498,7 +18586,8 @@
     "streets": [
      "County Road 222",
      "County Road 87"
-    ]
+    ],
+    "nodeId": 58940254
    }
   },
   {
@@ -17514,7 +18603,8 @@
     "streets": [
      "County Road 223",
      "North West Street"
-    ]
+    ],
+    "nodeId": 58848468
    }
   },
   {
@@ -17530,7 +18620,8 @@
     "streets": [
      "Day Road",
      "Irma Lane"
-    ]
+    ],
+    "nodeId": 58883677
    }
   },
   {
@@ -17546,7 +18637,8 @@
     "streets": [
      "North West Street",
      "West Carlos Street"
-    ]
+    ],
+    "nodeId": 58904066
    }
   },
   {
@@ -17562,7 +18654,8 @@
     "streets": [
      "North West Street",
      "Park Street"
-    ]
+    ],
+    "nodeId": 58855402
    }
   },
   {
@@ -17578,7 +18671,8 @@
     "streets": [
      "North West Street",
      "West 4th Street"
-    ]
+    ],
+    "nodeId": 58987882
    }
   },
   {
@@ -17594,7 +18688,8 @@
     "streets": [
      "CA 139",
      "Fresno Street"
-    ]
+    ],
+    "nodeId": 364870495
    }
   },
   {
@@ -17610,7 +18705,8 @@
     "streets": [
      "5th Avenue",
      "Fresno Street"
-    ]
+    ],
+    "nodeId": 58962938
    }
   },
   {
@@ -17626,7 +18722,8 @@
     "streets": [
      "Smith Street",
      "West 6th Street"
-    ]
+    ],
+    "nodeId": 58948201
    }
   },
   {
@@ -17642,7 +18739,8 @@
     "streets": [
      "North Warner Street",
      "West 6th Street"
-    ]
+    ],
+    "nodeId": 58927879
    }
   },
   {
@@ -17658,7 +18756,8 @@
     "streets": [
      "Lincoln Street",
      "Washington Street"
-    ]
+    ],
+    "nodeId": 58963680
    }
   },
   {
@@ -17674,7 +18773,8 @@
     "streets": [
      "Tom Creek Road",
      "Toms Creek Road"
-    ]
+    ],
+    "nodeId": 58963844
    }
   },
   {
@@ -17690,7 +18790,8 @@
     "streets": [
      "Ash Street",
      "McDowell Street"
-    ]
+    ],
+    "nodeId": 58888370
    }
   },
   {
@@ -17706,7 +18807,8 @@
     "streets": [
      "Adams Road",
      "CA 139;CA 299"
-    ]
+    ],
+    "nodeId": 11068105194
    }
   },
   {
@@ -17722,7 +18824,8 @@
     "streets": [
      "County Road 228",
      "County Road 87"
-    ]
+    ],
+    "nodeId": 58940324
    }
   },
   {
@@ -17738,7 +18841,8 @@
     "streets": [
      "Goose Lake Road",
      "Sagegrouse Road"
-    ]
+    ],
+    "nodeId": 58850233
    }
   },
   {
@@ -17754,7 +18858,8 @@
     "streets": [
      "East Modoc Street",
      "South Estes Street"
-    ]
+    ],
+    "nodeId": 58954700
    }
   },
   {
@@ -17770,7 +18875,8 @@
     "streets": [
      "Route 395;US 395",
      "South Willow Ranch Road"
-    ]
+    ],
+    "nodeId": 58841110
    }
   },
   {
@@ -17786,7 +18892,8 @@
     "streets": [
      "Loveness Logging Road",
      "Mowitz Road"
-    ]
+    ],
+    "nodeId": 58930222
    }
   },
   {
@@ -17802,7 +18909,8 @@
     "streets": [
      "Mowitz Road",
      "Tickner Road"
-    ]
+    ],
+    "nodeId": 58464649
    }
   },
   {
@@ -17818,7 +18926,8 @@
     "streets": [
      "County Road 100",
      "County Road 112;CR 112"
-    ]
+    ],
+    "nodeId": 58969616
    }
   },
   {
@@ -17834,7 +18943,8 @@
     "streets": [
      "County Road 100",
      "County Road 113;CR 113"
-    ]
+    ],
+    "nodeId": 58969662
    }
   },
   {
@@ -17850,7 +18960,8 @@
     "streets": [
      "County Road 101;CR 101",
      "County Road 111;CR 111"
-    ]
+    ],
+    "nodeId": 58969920
    }
   },
   {
@@ -17866,7 +18977,8 @@
     "streets": [
      "County Road 101;CR 101",
      "County Road 112;CR 112"
-    ]
+    ],
+    "nodeId": 58969897
    }
   },
   {
@@ -17882,7 +18994,8 @@
     "streets": [
      "County Road 101;CR 101",
      "County Road 113;CR 113"
-    ]
+    ],
+    "nodeId": 58969869
    }
   },
   {
@@ -17898,7 +19011,8 @@
     "streets": [
      "County Road 101;CR 101",
      "Old Alturas Highway;CR 114"
-    ]
+    ],
+    "nodeId": 58969856
    }
   },
   {
@@ -17914,7 +19028,8 @@
     "streets": [
      "East 8th Street",
      "North Court Street"
-    ]
+    ],
+    "nodeId": 58969990
    }
   },
   {
@@ -17930,7 +19045,8 @@
     "streets": [
      "East 8th Street",
      "North East D Street"
-    ]
+    ],
+    "nodeId": 58969996
    }
   },
   {
@@ -17946,7 +19062,8 @@
     "streets": [
      "East 8th Street",
      "Josephine Street"
-    ]
+    ],
+    "nodeId": 58891173
    }
   },
   {
@@ -17962,7 +19079,8 @@
     "streets": [
      "Monterey Road",
      "Veracruz Road"
-    ]
+    ],
+    "nodeId": 58970058
    }
   },
   {
@@ -17978,7 +19096,8 @@
     "streets": [
      "Hunter Drive",
      "Wagon Wheel Drive"
-    ]
+    ],
+    "nodeId": 58448103
    }
   },
   {
@@ -17994,7 +19113,8 @@
     "streets": [
      "East 4th Street",
      "North East D Street"
-    ]
+    ],
+    "nodeId": 58970162
    }
   },
   {
@@ -18010,7 +19130,8 @@
     "streets": [
      "Maple Street",
      "West 10th Street"
-    ]
+    ],
+    "nodeId": 58850342
    }
   },
   {
@@ -18026,7 +19147,8 @@
     "streets": [
      "North Warner Street",
      "West 10th Street"
-    ]
+    ],
+    "nodeId": 58927884
    }
   },
   {
@@ -18042,7 +19164,8 @@
     "streets": [
      "Smith Street",
      "West 10th Street"
-    ]
+    ],
+    "nodeId": 58948196
    }
   },
   {
@@ -18058,7 +19181,8 @@
     "streets": [
      "County Road 102;CR 102",
      "County Road 110;CR 110"
-    ]
+    ],
+    "nodeId": 58970218
    }
   },
   {
@@ -18074,7 +19198,8 @@
     "streets": [
      "County Road 102;CR 102",
      "County Road 111;CR 111"
-    ]
+    ],
+    "nodeId": 58970245
    }
   },
   {
@@ -18090,7 +19215,8 @@
     "streets": [
      "County Road 102;CR 102",
      "County Road 112;CR 112"
-    ]
+    ],
+    "nodeId": 58970266
    }
   },
   {
@@ -18106,7 +19232,8 @@
     "streets": [
      "County Road 102;CR 102",
      "County Road 113;CR 113"
-    ]
+    ],
+    "nodeId": 58970296
    }
   },
   {
@@ -18122,7 +19249,8 @@
     "streets": [
      "County Road 103;CR 103",
      "Wright Road"
-    ]
+    ],
+    "nodeId": 94253712
    }
   },
   {
@@ -18138,7 +19266,8 @@
     "streets": [
      "Lower Rush Creek Road",
      "Rush Creek Drive"
-    ]
+    ],
+    "nodeId": 58950600
    }
   },
   {
@@ -18155,7 +19284,8 @@
      "County Road 104;CR 104",
      "Drain 10 Road;CR 104",
      "Osborne Road"
-    ]
+    ],
+    "nodeId": 94254462
    }
   },
   {
@@ -18171,7 +19301,8 @@
     "streets": [
      "County Road 104;CR 104",
      "County Road 105;CR 105"
-    ]
+    ],
+    "nodeId": 94254471
    }
   },
   {
@@ -18187,7 +19318,8 @@
     "streets": [
      "County Road 104;CR 104",
      "Tschirky Road"
-    ]
+    ],
+    "nodeId": 94254483
    }
   },
   {
@@ -18203,7 +19335,8 @@
     "streets": [
      "County Road 104;CR 104",
      "County Road 107;CR 107"
-    ]
+    ],
+    "nodeId": 94254484
    }
   },
   {
@@ -18219,7 +19352,8 @@
     "streets": [
      "County Road 104;CR 104",
      "Zlabek Road"
-    ]
+    ],
+    "nodeId": 94254490
    }
   },
   {
@@ -18235,7 +19369,8 @@
     "streets": [
      "County Road 104;CR 104",
      "Old Alturas Highway;CR 114"
-    ]
+    ],
+    "nodeId": 58971167
    }
   },
   {
@@ -18251,7 +19386,8 @@
     "streets": [
      "County Road 104;CR 104",
      "County Road 113;CR 113"
-    ]
+    ],
+    "nodeId": 58971239
    }
   },
   {
@@ -18267,7 +19403,8 @@
     "streets": [
      "County Road 104;CR 104",
      "County Road 106;CR 106"
-    ]
+    ],
+    "nodeId": 58971243
    }
   },
   {
@@ -18283,7 +19420,8 @@
     "streets": [
      "County Road 104;CR 104",
      "County Road 111;CR 111"
-    ]
+    ],
+    "nodeId": 58971313
    }
   },
   {
@@ -18299,7 +19437,8 @@
     "streets": [
      "County Road 104;CR 104",
      "County Road 110;CR 110"
-    ]
+    ],
+    "nodeId": 58915122
    }
   },
   {
@@ -18315,7 +19454,8 @@
     "streets": [
      "County Road 104;CR 104",
      "Drain 10 Road;CR 104"
-    ]
+    ],
+    "nodeId": 94161249
    }
   },
   {
@@ -18331,7 +19471,8 @@
     "streets": [
      "Bidwell Road",
      "Dalton Road"
-    ]
+    ],
+    "nodeId": 58905273
    }
   },
   {
@@ -18347,7 +19488,8 @@
     "streets": [
      "Apache Road",
      "Dalton Road"
-    ]
+    ],
+    "nodeId": 58908753
    }
   },
   {
@@ -18363,7 +19505,8 @@
     "streets": [
      "County Road 105;CR 105",
      "County Road 110;CR 110"
-    ]
+    ],
+    "nodeId": 58780959
    }
   },
   {
@@ -18379,7 +19522,8 @@
     "streets": [
      "County Road 105;CR 105",
      "County Road 111;CR 111"
-    ]
+    ],
+    "nodeId": 58971437
    }
   },
   {
@@ -18395,7 +19539,8 @@
     "streets": [
      "Melvilane Avenue",
      "Saralane Avenue"
-    ]
+    ],
+    "nodeId": 58891160
    }
   },
   {
@@ -18411,7 +19556,8 @@
     "streets": [
      "County Road 106;CR 106",
      "County Road 112;CR 112"
-    ]
+    ],
+    "nodeId": 58972185
    }
   },
   {
@@ -18427,7 +19573,8 @@
     "streets": [
      "County Road 107;CR 107",
      "County Road 111;CR 111"
-    ]
+    ],
+    "nodeId": 58972275
    }
   },
   {
@@ -18443,7 +19590,8 @@
     "streets": [
      "Ashland Road",
      "Oroville Road"
-    ]
+    ],
+    "nodeId": 58342590
    }
   },
   {
@@ -18459,7 +19607,8 @@
     "streets": [
      "Oroville Road",
      "Pinto Road"
-    ]
+    ],
+    "nodeId": 58901360
    }
   },
   {
@@ -18475,7 +19624,8 @@
     "streets": [
      "CA 139",
      "Wagon Wheel Drive"
-    ]
+    ],
+    "nodeId": 58893792
    }
   },
   {
@@ -18491,7 +19641,8 @@
     "streets": [
      "NF 10",
      "Rim Road;CR 120"
-    ]
+    ],
+    "nodeId": 58692138
    }
   },
   {
@@ -18507,7 +19658,8 @@
     "streets": [
      "County Road 111",
      "Rim Road;CR 120"
-    ]
+    ],
+    "nodeId": 58973594
    }
   },
   {
@@ -18523,7 +19675,8 @@
     "streets": [
      "County Road 120;CR 120",
      "Rim Road;CR 120"
-    ]
+    ],
+    "nodeId": 58973786
    }
   },
   {
@@ -18539,7 +19692,8 @@
     "streets": [
      "North West Street",
      "Veracruz Road"
-    ]
+    ],
+    "nodeId": 58848475
    }
   },
   {
@@ -18555,7 +19709,8 @@
     "streets": [
      "County Road 107;CR 107",
      "County Road 110;CR 110"
-    ]
+    ],
+    "nodeId": 58972257
    }
   },
   {
@@ -18571,7 +19726,8 @@
     "streets": [
      "North Court Street",
      "West 19th Street"
-    ]
+    ],
+    "nodeId": 58952452
    }
   },
   {
@@ -18587,7 +19743,8 @@
     "streets": [
      "CA 139",
      "County Road 112;CR 112"
-    ]
+    ],
+    "nodeId": 58893744
    }
   },
   {
@@ -18603,7 +19760,8 @@
     "streets": [
      "CA 139",
      "County Road 112"
-    ]
+    ],
+    "nodeId": 58893746
    }
   },
   {
@@ -18619,7 +19777,8 @@
     "streets": [
      "CA 139",
      "County Road 113;CR 113"
-    ]
+    ],
+    "nodeId": 58893790
    }
   },
   {
@@ -18635,7 +19794,8 @@
     "streets": [
      "County Road 113;CR 113",
      "County Road 220"
-    ]
+    ],
+    "nodeId": 58960682
    }
   },
   {
@@ -18651,7 +19811,8 @@
     "streets": [
      "County Road 113;CR 113",
      "County Road 113A"
-    ]
+    ],
+    "nodeId": 58979645
    }
   },
   {
@@ -18667,7 +19828,8 @@
     "streets": [
      "Alpine Road",
      "Parker Creek Road"
-    ]
+    ],
+    "nodeId": 58981740
    }
   },
   {
@@ -18683,7 +19845,8 @@
     "streets": [
      "47N40 Road",
      "Muldoon Road"
-    ]
+    ],
+    "nodeId": 58860668
    }
   },
   {
@@ -18699,7 +19862,8 @@
     "streets": [
      "Bowman Road",
      "Route 395;US 395;CA 299"
-    ]
+    ],
+    "nodeId": 58840362
    }
   },
   {
@@ -18715,7 +19879,8 @@
     "streets": [
      "Alpine Road",
      "California Pines Boulevard"
-    ]
+    ],
+    "nodeId": 58868501
    }
   },
   {
@@ -18731,7 +19896,8 @@
     "streets": [
      "North West Street",
      "U Road"
-    ]
+    ],
+    "nodeId": 58848472
    }
   },
   {
@@ -18747,7 +19913,8 @@
     "streets": [
      "County Road 111",
      "County Road 120"
-    ]
+    ],
+    "nodeId": 58978536
    }
   },
   {
@@ -18763,7 +19930,8 @@
     "streets": [
      "County Road 120;CR 120",
      "County Road 121"
-    ]
+    ],
+    "nodeId": 58985005
    }
   },
   {
@@ -18780,7 +19948,8 @@
      "County Road 120;CR 120",
      "County Road 124",
      "County Road 124;CR 124"
-    ]
+    ],
+    "nodeId": 58985101
    }
   },
   {
@@ -18796,7 +19965,8 @@
     "streets": [
      "County Road 120;CR 120",
      "County Road 123"
-    ]
+    ],
+    "nodeId": 58985140
    }
   },
   {
@@ -18812,7 +19982,8 @@
     "streets": [
      "County Road 120;CR 120",
      "County Road 122"
-    ]
+    ],
+    "nodeId": 58985171
    }
   },
   {
@@ -18828,7 +19999,8 @@
     "streets": [
      "County Road 121",
      "County Road 124;CR 124"
-    ]
+    ],
+    "nodeId": 58985711
    }
   },
   {
@@ -18844,7 +20016,8 @@
     "streets": [
      "County Road 121",
      "County Road 123"
-    ]
+    ],
+    "nodeId": 58985723
    }
   },
   {
@@ -18860,7 +20033,8 @@
     "streets": [
      "County Road 121",
      "County Road 122"
-    ]
+    ],
+    "nodeId": 58985727
    }
   },
   {
@@ -18876,7 +20050,8 @@
     "streets": [
      "County Road 123",
      "County Road 124;CR 124"
-    ]
+    ],
+    "nodeId": 58986515
    }
   },
   {
@@ -18892,7 +20067,8 @@
     "streets": [
      "County Road 111",
      "County Road 124"
-    ]
+    ],
+    "nodeId": 58978525
    }
   },
   {
@@ -18908,7 +20084,8 @@
     "streets": [
      "County Road 111",
      "County Road 129"
-    ]
+    ],
+    "nodeId": 58978440
    }
   },
   {
@@ -18924,7 +20101,8 @@
     "streets": [
      "North Warner Street",
      "West 4th Street"
-    ]
+    ],
+    "nodeId": 58927876
    }
   },
   {
@@ -18940,7 +20118,8 @@
     "streets": [
      "Smith Street",
      "West 4th Street"
-    ]
+    ],
+    "nodeId": 58948204
    }
   },
   {
@@ -18956,7 +20135,8 @@
     "streets": [
      "County Road 103A;CR 103A",
      "Osborne Road"
-    ]
+    ],
+    "nodeId": 94388606
    }
   },
   {
@@ -18972,7 +20152,8 @@
     "streets": [
      "Main Street;CR 1",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58920438
    }
   },
   {
@@ -18988,7 +20169,8 @@
     "streets": [
      "44N17;NF 97;CR 97",
      "CA 139"
-    ]
+    ],
+    "nodeId": 58833868
    }
   },
   {
@@ -19004,7 +20186,8 @@
     "streets": [
      "South Lake Street",
      "South Water Street"
-    ]
+    ],
+    "nodeId": 58839007
    }
   },
   {
@@ -19021,7 +20204,8 @@
      "CA 299",
      "Route 395;US 395",
      "Route 395;US 395;CA 299"
-    ]
+    ],
+    "nodeId": 58840418
    }
   },
   {
@@ -19037,7 +20221,8 @@
     "streets": [
      "County Road 133C",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58840914
    }
   },
   {
@@ -19053,7 +20238,8 @@
     "streets": [
      "Lookout Hackamore Road;CR 91",
      "Loveness Logging Road"
-    ]
+    ],
+    "nodeId": 58829999
    }
   },
   {
@@ -19069,7 +20255,8 @@
     "streets": [
      "15th Street",
      "North Court Street"
-    ]
+    ],
+    "nodeId": 58978773
    }
   },
   {
@@ -19085,7 +20272,8 @@
     "streets": [
      "Fitch's Road",
      "Route 395;US 395;CA 299"
-    ]
+    ],
+    "nodeId": 58840382
    }
   },
   {
@@ -19101,7 +20289,8 @@
     "streets": [
      "County Road 90",
      "Lookout Hackamore Road;CR 91"
-    ]
+    ],
+    "nodeId": 58829645
    }
   },
   {
@@ -19117,7 +20306,8 @@
     "streets": [
      "CA 139",
      "Lookout Hackamore Road;CR 91"
-    ]
+    ],
+    "nodeId": 58830116
    }
   },
   {
@@ -19133,7 +20323,8 @@
     "streets": [
      "44N17;NF 97;CR 97",
      "44N19"
-    ]
+    ],
+    "nodeId": 58833882
    }
   },
   {
@@ -19149,7 +20340,8 @@
     "streets": [
      "North Cedar Street",
      "West 4th Street"
-    ]
+    ],
+    "nodeId": 58955276
    }
   },
   {
@@ -19165,7 +20357,8 @@
     "streets": [
      "Nagle Street",
      "Park Street"
-    ]
+    ],
+    "nodeId": 58855404
    }
   },
   {
@@ -19181,7 +20374,8 @@
     "streets": [
      "North Danhauser Street",
      "Park Street"
-    ]
+    ],
+    "nodeId": 58855406
    }
   },
   {
@@ -19197,7 +20391,8 @@
     "streets": [
      "County Road 105;CR 105",
      "County Road 112;CR 112"
-    ]
+    ],
+    "nodeId": 58971450
    }
   },
   {
@@ -19213,7 +20408,8 @@
     "streets": [
      "South Warner Street",
      "West Carlos Street"
-    ]
+    ],
+    "nodeId": 58904070
    }
   },
   {
@@ -19229,7 +20425,8 @@
     "streets": [
      "North Danhauser Street",
      "Western Street"
-    ]
+    ],
+    "nodeId": 58926733
    }
   },
   {
@@ -19245,7 +20442,8 @@
     "streets": [
      "North Danhauser Street",
      "West 4th Street"
-    ]
+    ],
+    "nodeId": 58942235
    }
   },
   {
@@ -19261,7 +20459,8 @@
     "streets": [
      "46N63",
      "County Road 133C"
-    ]
+    ],
+    "nodeId": 58904074
    }
   },
   {
@@ -19277,7 +20476,8 @@
     "streets": [
      "County Road 28",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58896776
    }
   },
   {
@@ -19293,7 +20493,8 @@
     "streets": [
      "Blacks Canyon Road",
      "County Road 83"
-    ]
+    ],
+    "nodeId": 58604624
    }
   },
   {
@@ -19309,7 +20510,8 @@
     "streets": [
      "Day Road",
      "Gooch Lane"
-    ]
+    ],
+    "nodeId": 5994749091
    }
   },
   {
@@ -19325,7 +20527,8 @@
     "streets": [
      "Day Road",
      "Widow Valley Road"
-    ]
+    ],
+    "nodeId": 58883762
    }
   },
   {
@@ -19341,7 +20544,8 @@
     "streets": [
      "CA 139;CA 299",
      "County Road 85"
-    ]
+    ],
+    "nodeId": 58858045
    }
   },
   {
@@ -19357,7 +20561,8 @@
     "streets": [
      "BIA Route 76",
      "Route 395;US 395;CA 299"
-    ]
+    ],
+    "nodeId": 58689038
    }
   },
   {
@@ -19373,7 +20578,8 @@
     "streets": [
      "Barrel Springs Road",
      "Barrel Springs Road;CR 201"
-    ]
+    ],
+    "nodeId": 58882041
    }
   },
   {
@@ -19389,7 +20595,8 @@
     "streets": [
      "CA 299",
      "Centerville Road"
-    ]
+    ],
+    "nodeId": 7307413316
    }
   },
   {
@@ -19405,7 +20612,8 @@
     "streets": [
      "Nagle Street",
      "West 4th Street"
-    ]
+    ],
+    "nodeId": 58967904
    }
   },
   {
@@ -19421,7 +20629,8 @@
     "streets": [
      "Day Road",
      "Forest Route 40N01"
-    ]
+    ],
+    "nodeId": 58964043
    }
   },
   {
@@ -19437,7 +20646,8 @@
     "streets": [
      "Hideway Lane",
      "Timberlane Road"
-    ]
+    ],
+    "nodeId": 58870601
    }
   },
   {
@@ -19453,7 +20663,8 @@
     "streets": [
      "CA 139;CA 299",
      "County Road 86"
-    ]
+    ],
+    "nodeId": 58895030
    }
   },
   {
@@ -19469,7 +20680,8 @@
     "streets": [
      "Blacks Canyon Road",
      "CA 299"
-    ]
+    ],
+    "nodeId": 11068117164
    }
   },
   {
@@ -19485,7 +20697,8 @@
     "streets": [
      "Bidwell Road",
      "Winchester Road"
-    ]
+    ],
+    "nodeId": 58870572
    }
   },
   {
@@ -19501,7 +20714,8 @@
     "streets": [
      "Apache Road",
      "Overland Road"
-    ]
+    ],
+    "nodeId": 58908775
    }
   },
   {
@@ -19517,7 +20731,8 @@
     "streets": [
      "Hudson Road",
      "Overland Road"
-    ]
+    ],
+    "nodeId": 58836014
    }
   },
   {
@@ -19533,7 +20748,8 @@
     "streets": [
      "New Pine Road",
      "Snowgoose Lane"
-    ]
+    ],
+    "nodeId": 58341990
    }
   },
   {
@@ -19549,7 +20765,8 @@
     "streets": [
      "New Pine Road",
      "Snowgoose Lane"
-    ]
+    ],
+    "nodeId": 58342001
    }
   },
   {
@@ -19565,7 +20782,8 @@
     "streets": [
      "County Road 11",
      "Davis Creek Cemetery Road"
-    ]
+    ],
+    "nodeId": 58342262
    }
   },
   {
@@ -19581,7 +20799,8 @@
     "streets": [
      "County Road 11",
      "Davis Creek Cemetery Road"
-    ]
+    ],
+    "nodeId": 58342303
    }
   },
   {
@@ -19598,7 +20817,8 @@
      "CA 139",
      "CA 139;CA 299",
      "CA 299"
-    ]
+    ],
+    "nodeId": 58415544
    }
   },
   {
@@ -19615,7 +20835,8 @@
      "CA 139",
      "CA 139;CA 299",
      "CA 299"
-    ]
+    ],
+    "nodeId": 58894692
    }
   },
   {
@@ -19631,7 +20852,8 @@
     "streets": [
      "Baldpate Drive",
      "Goose Loop"
-    ]
+    ],
+    "nodeId": 58827424
    }
   },
   {
@@ -19647,7 +20869,8 @@
     "streets": [
      "Baldpate Drive",
      "Goose Loop"
-    ]
+    ],
+    "nodeId": 58827426
    }
   },
   {
@@ -19663,7 +20886,8 @@
     "streets": [
      "Baldpate Drive",
      "Goose Loop"
-    ]
+    ],
+    "nodeId": 58827430
    }
   },
   {
@@ -19679,7 +20903,8 @@
     "streets": [
      "County Road 267",
      "Warner Mountain Drive"
-    ]
+    ],
+    "nodeId": 58827670
    }
   },
   {
@@ -19695,7 +20920,8 @@
     "streets": [
      "County Road 267",
      "Warner Mountain Drive"
-    ]
+    ],
+    "nodeId": 58827707
    }
   },
   {
@@ -19711,7 +20937,8 @@
     "streets": [
      "Lookout Hackamore Road",
      "Lookout Hackamore Road;CR 91"
-    ]
+    ],
+    "nodeId": 58829479
    }
   },
   {
@@ -19727,7 +20954,8 @@
     "streets": [
      "Lookout Hackamore Road",
      "Lookout Hackamore Road;CR 91"
-    ]
+    ],
+    "nodeId": 58829487
    }
   },
   {
@@ -19743,7 +20971,8 @@
     "streets": [
      "Lookout Hackamore Road",
      "Lookout Hackamore Road;CR 91"
-    ]
+    ],
+    "nodeId": 58829536
    }
   },
   {
@@ -19759,7 +20988,8 @@
     "streets": [
      "Lookout Hackamore Road",
      "Lookout Hackamore Road;CR 91"
-    ]
+    ],
+    "nodeId": 58829541
    }
   },
   {
@@ -19775,7 +21005,8 @@
     "streets": [
      "County Road 122;CR 141",
      "County Road 141;CR 141"
-    ]
+    ],
+    "nodeId": 58830361
    }
   },
   {
@@ -19791,7 +21022,8 @@
     "streets": [
      "County Road 122;CR 141",
      "County Road 141;CR 141"
-    ]
+    ],
+    "nodeId": 58830491
    }
   },
   {
@@ -19807,7 +21039,8 @@
     "streets": [
      "County Road 76",
      "Hat Mountain Road"
-    ]
+    ],
+    "nodeId": 58834366
    }
   },
   {
@@ -19823,7 +21056,8 @@
     "streets": [
      "County Road 76",
      "Hat Mountain Road"
-    ]
+    ],
+    "nodeId": 58834390
    }
   },
   {
@@ -19840,7 +21074,8 @@
      "County Road 93",
      "North Ponderosa Drive",
      "West Ponderosa Drive"
-    ]
+    ],
+    "nodeId": 58835918
    }
   },
   {
@@ -19857,7 +21092,8 @@
      "County Road 93",
      "North Ponderosa Drive",
      "West Ponderosa Drive"
-    ]
+    ],
+    "nodeId": 58835953
    }
   },
   {
@@ -19873,7 +21109,8 @@
     "streets": [
      "West 3rd Street",
      "West C Street"
-    ]
+    ],
+    "nodeId": 58837792
    }
   },
   {
@@ -19889,7 +21126,8 @@
     "streets": [
      "West 3rd Street",
      "West C Street"
-    ]
+    ],
+    "nodeId": 58837794
    }
   },
   {
@@ -19905,7 +21143,8 @@
     "streets": [
      "County Road 189",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58839994
    }
   },
   {
@@ -19921,7 +21160,8 @@
     "streets": [
      "County Road 189",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58840039
    }
   },
   {
@@ -19937,7 +21177,8 @@
     "streets": [
      "County Road 162",
      "County Road 83"
-    ]
+    ],
+    "nodeId": 58433181
    }
   },
   {
@@ -19953,7 +21194,8 @@
     "streets": [
      "County Road 162",
      "County Road 83"
-    ]
+    ],
+    "nodeId": 58905748
    }
   },
   {
@@ -19969,7 +21211,8 @@
     "streets": [
      "Archer Avenue",
      "North East A Street"
-    ]
+    ],
+    "nodeId": 58843564
    }
   },
   {
@@ -19985,7 +21228,8 @@
     "streets": [
      "Archer Avenue",
      "North East A Street"
-    ]
+    ],
+    "nodeId": 58843566
    }
   },
   {
@@ -20001,7 +21245,8 @@
     "streets": [
      "Aspen Lane",
      "McKenney Drive"
-    ]
+    ],
+    "nodeId": 58851883
    }
   },
   {
@@ -20017,7 +21262,8 @@
     "streets": [
      "Aspen Lane",
      "McKenney Drive"
-    ]
+    ],
+    "nodeId": 58851911
    }
   },
   {
@@ -20033,7 +21279,8 @@
     "streets": [
      "County Road 85A",
      "Lookout Hackamore Road;CR 91"
-    ]
+    ],
+    "nodeId": 58829754
    }
   },
   {
@@ -20049,7 +21296,8 @@
     "streets": [
      "County Road 85A",
      "Lookout Hackamore Road;CR 91"
-    ]
+    ],
+    "nodeId": 58630003
    }
   },
   {
@@ -20065,7 +21313,8 @@
     "streets": [
      "County Road 111",
      "Great Northern Road"
-    ]
+    ],
+    "nodeId": 58359844
    }
   },
   {
@@ -20081,7 +21330,8 @@
     "streets": [
      "County Road 111",
      "Great Northern Road"
-    ]
+    ],
+    "nodeId": 58425470
    }
   },
   {
@@ -20097,7 +21347,8 @@
     "streets": [
      "County Road 181",
      "Westside Road"
-    ]
+    ],
+    "nodeId": 58854890
    }
   },
   {
@@ -20113,7 +21364,8 @@
     "streets": [
      "County Road 181",
      "Westside Road"
-    ]
+    ],
+    "nodeId": 58656079
    }
   },
   {
@@ -20129,7 +21381,8 @@
     "streets": [
      "Jones Lane",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58840212
    }
   },
   {
@@ -20145,7 +21398,8 @@
     "streets": [
      "Jones Lane",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58840210
    }
   },
   {
@@ -20161,7 +21415,8 @@
     "streets": [
      "North Warner Street",
      "West 8th Street"
-    ]
+    ],
+    "nodeId": 58865654
    }
   },
   {
@@ -20177,7 +21432,8 @@
     "streets": [
      "North Warner Street",
      "West 8th Street"
-    ]
+    ],
+    "nodeId": 58865674
    }
   },
   {
@@ -20193,7 +21449,8 @@
     "streets": [
      "County Road 48",
      "Westside Road"
-    ]
+    ],
+    "nodeId": 58866229
    }
   },
   {
@@ -20209,7 +21466,8 @@
     "streets": [
      "County Road 48",
      "Westside Road"
-    ]
+    ],
+    "nodeId": 58866279
    }
   },
   {
@@ -20225,7 +21483,8 @@
     "streets": [
      "County Road 60",
      "Westside Road"
-    ]
+    ],
+    "nodeId": 58867188
    }
   },
   {
@@ -20241,7 +21500,8 @@
     "streets": [
      "County Road 60",
      "Westside Road"
-    ]
+    ],
+    "nodeId": 58841635
    }
   },
   {
@@ -20257,7 +21517,8 @@
     "streets": [
      "County Road 68",
      "Westside Road"
-    ]
+    ],
+    "nodeId": 58837500
    }
   },
   {
@@ -20273,7 +21534,8 @@
     "streets": [
      "County Road 68",
      "Westside Road"
-    ]
+    ],
+    "nodeId": 58866115
    }
   },
   {
@@ -20289,7 +21551,8 @@
     "streets": [
      "Davis Drive",
      "Winsor Drive"
-    ]
+    ],
+    "nodeId": 58867724
    }
   },
   {
@@ -20305,7 +21568,8 @@
     "streets": [
      "Davis Drive",
      "Winsor Drive"
-    ]
+    ],
+    "nodeId": 58867742
    }
   },
   {
@@ -20321,7 +21585,8 @@
     "streets": [
      "Elk Drive",
      "Jaguar Drive"
-    ]
+    ],
+    "nodeId": 58867793
    }
   },
   {
@@ -20337,7 +21602,8 @@
     "streets": [
      "Elk Drive",
      "Jaguar Drive"
-    ]
+    ],
+    "nodeId": 58867831
    }
   },
   {
@@ -20353,7 +21619,8 @@
     "streets": [
      "County Road 67",
      "Weitcher Road"
-    ]
+    ],
+    "nodeId": 58873425
    }
   },
   {
@@ -20369,7 +21636,8 @@
     "streets": [
      "County Road 67",
      "Weitcher Road"
-    ]
+    ],
+    "nodeId": 58873515
    }
   },
   {
@@ -20385,7 +21653,8 @@
     "streets": [
      "McKenney Drive",
      "McKenney Road"
-    ]
+    ],
+    "nodeId": 58601869
    }
   },
   {
@@ -20401,7 +21670,8 @@
     "streets": [
      "McKenney Drive",
      "McKenney Road"
-    ]
+    ],
+    "nodeId": 58874447
    }
   },
   {
@@ -20417,7 +21687,8 @@
     "streets": [
      "County Road 11",
      "Plum Valley Road"
-    ]
+    ],
+    "nodeId": 58665086
    }
   },
   {
@@ -20433,7 +21704,8 @@
     "streets": [
      "County Road 11",
      "Plum Valley Road"
-    ]
+    ],
+    "nodeId": 58427273
    }
   },
   {
@@ -20449,7 +21721,8 @@
     "streets": [
      "Cordova Road",
      "Drake Road"
-    ]
+    ],
+    "nodeId": 58883410
    }
   },
   {
@@ -20465,7 +21738,8 @@
     "streets": [
      "Cordova Road",
      "Drake Road"
-    ]
+    ],
+    "nodeId": 58883445
    }
   },
   {
@@ -20481,7 +21755,8 @@
     "streets": [
      "McKenney Drive",
      "Mount Shasa Creek"
-    ]
+    ],
+    "nodeId": 58889732
    }
   },
   {
@@ -20497,7 +21772,8 @@
     "streets": [
      "McKenney Drive",
      "Mount Shasa Creek"
-    ]
+    ],
+    "nodeId": 58889745
    }
   },
   {
@@ -20513,7 +21789,8 @@
     "streets": [
      "Country Road 56",
      "County Road 56"
-    ]
+    ],
+    "nodeId": 58891802
    }
   },
   {
@@ -20529,7 +21806,8 @@
     "streets": [
      "Country Road 56",
      "County Road 56"
-    ]
+    ],
+    "nodeId": 58891806
    }
   },
   {
@@ -20545,7 +21823,8 @@
     "streets": [
      "Bobcat Drive",
      "Hunter Drive"
-    ]
+    ],
+    "nodeId": 58892175
    }
   },
   {
@@ -20561,7 +21840,8 @@
     "streets": [
      "Bobcat Drive",
      "Hunter Drive"
-    ]
+    ],
+    "nodeId": 58892201
    }
   },
   {
@@ -20577,7 +21857,8 @@
     "streets": [
      "CA 139",
      "County Road 111;CR 111"
-    ]
+    ],
+    "nodeId": 58893709
    }
   },
   {
@@ -20593,7 +21874,8 @@
     "streets": [
      "CA 139",
      "County Road 111;CR 111"
-    ]
+    ],
+    "nodeId": 58893711
    }
   },
   {
@@ -20609,7 +21891,8 @@
     "streets": [
      "CA 139",
      "Loveness Logging Road"
-    ]
+    ],
+    "nodeId": 8280148982
    }
   },
   {
@@ -20625,7 +21908,8 @@
     "streets": [
      "CA 139",
      "Loveness Logging Road"
-    ]
+    ],
+    "nodeId": 58894940
    }
   },
   {
@@ -20641,7 +21925,8 @@
     "streets": [
      "CA 139",
      "Tickner Road;CA 139"
-    ]
+    ],
+    "nodeId": 58894957
    }
   },
   {
@@ -20657,7 +21942,8 @@
     "streets": [
      "CA 139",
      "Tickner Road;CA 139"
-    ]
+    ],
+    "nodeId": 58894555
    }
   },
   {
@@ -20673,7 +21959,8 @@
     "streets": [
      "County Road 29",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58898115
    }
   },
   {
@@ -20689,7 +21976,8 @@
     "streets": [
      "County Road 29",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58898135
    }
   },
   {
@@ -20705,7 +21993,8 @@
     "streets": [
      "County Road 1",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58899185
    }
   },
   {
@@ -20721,7 +22010,8 @@
     "streets": [
      "County Road 1",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58391440
    }
   },
   {
@@ -20737,7 +22027,8 @@
     "streets": [
      "County Road 33",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58396760
    }
   },
   {
@@ -20753,7 +22044,8 @@
     "streets": [
      "County Road 33",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58900866
    }
   },
   {
@@ -20769,7 +22061,8 @@
     "streets": [
      "County Road 35",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 58901500
    }
   },
   {
@@ -20785,7 +22078,8 @@
     "streets": [
      "County Road 35",
      "Surprise Valley Road;CR 1"
-    ]
+    ],
+    "nodeId": 8284421828
    }
   },
   {
@@ -20801,7 +22095,8 @@
     "streets": [
      "East 12th Street",
      "North East Street"
-    ]
+    ],
+    "nodeId": 58907130
    }
   },
   {
@@ -20817,7 +22112,8 @@
     "streets": [
      "East 12th Street",
      "North East Street"
-    ]
+    ],
+    "nodeId": 7749789904
    }
   },
   {
@@ -20833,7 +22129,8 @@
     "streets": [
      "Grizzley Drive",
      "Mountain Quail Lane"
-    ]
+    ],
+    "nodeId": 58907795
    }
   },
   {
@@ -20849,7 +22146,8 @@
     "streets": [
      "Grizzley Drive",
      "Mountain Quail Lane"
-    ]
+    ],
+    "nodeId": 58907826
    }
   },
   {
@@ -20865,7 +22163,8 @@
     "streets": [
      "County Road 40",
      "County Road 40A"
-    ]
+    ],
+    "nodeId": 58908262
    }
   },
   {
@@ -20881,7 +22180,8 @@
     "streets": [
      "County Road 40",
      "County Road 40A"
-    ]
+    ],
+    "nodeId": 9946198544
    }
   },
   {
@@ -20897,7 +22197,8 @@
     "streets": [
      "42N21 Road",
      "42N77 Road"
-    ]
+    ],
+    "nodeId": 58858658
    }
   },
   {
@@ -20913,7 +22214,8 @@
     "streets": [
      "42N21 Road",
      "42N77 Road"
-    ]
+    ],
+    "nodeId": 58885918
    }
   },
   {
@@ -20929,7 +22231,8 @@
     "streets": [
      "42N21 Road",
      "42N77 Road"
-    ]
+    ],
+    "nodeId": 58913240
    }
   },
   {
@@ -20945,7 +22248,8 @@
     "streets": [
      "Bass Lane",
      "Pheasant Drive"
-    ]
+    ],
+    "nodeId": 58913563
    }
   },
   {
@@ -20961,7 +22265,8 @@
     "streets": [
      "Bass Lane",
      "Pheasant Drive"
-    ]
+    ],
+    "nodeId": 58913569
    }
   },
   {
@@ -20977,7 +22282,8 @@
     "streets": [
      "County Road 75",
      "County Road 76"
-    ]
+    ],
+    "nodeId": 58930842
    }
   },
   {
@@ -20993,7 +22299,8 @@
     "streets": [
      "County Road 75",
      "County Road 76"
-    ]
+    ],
+    "nodeId": 58930855
    }
   },
   {
@@ -21009,7 +22316,8 @@
     "streets": [
      "County Road 133B",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58840751
    }
   },
   {
@@ -21025,7 +22333,8 @@
     "streets": [
      "County Road 133B",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58840833
    }
   },
   {
@@ -21041,7 +22350,8 @@
     "streets": [
      "County Road 133B",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58840871
    }
   },
   {
@@ -21057,7 +22367,8 @@
     "streets": [
      "County Road 133B",
      "Route 395;US 395"
-    ]
+    ],
+    "nodeId": 58685762
    }
   },
   {
@@ -21073,7 +22384,8 @@
     "streets": [
      "County Road 87",
      "County Road 89"
-    ]
+    ],
+    "nodeId": 58940142
    }
   },
   {
@@ -21089,7 +22401,8 @@
     "streets": [
      "County Road 87",
      "County Road 89"
-    ]
+    ],
+    "nodeId": 58682223
    }
   },
   {
@@ -21105,7 +22418,8 @@
     "streets": [
      "East 4th Street",
      "North Court Street"
-    ]
+    ],
+    "nodeId": 58970179
    }
   },
   {
@@ -21121,7 +22435,8 @@
     "streets": [
      "East 4th Street",
      "North Court Street"
-    ]
+    ],
+    "nodeId": 58970181
    }
   },
   {
@@ -21137,7 +22452,8 @@
     "streets": [
      "County Road 104;CR 104",
      "County Road 112;CR 112"
-    ]
+    ],
+    "nodeId": 58971291
    }
   },
   {
@@ -21153,7 +22469,8 @@
     "streets": [
      "County Road 104;CR 104",
      "County Road 112;CR 112"
-    ]
+    ],
+    "nodeId": 58971296
    }
   },
   {
@@ -21169,7 +22486,8 @@
     "streets": [
      "County Road 111",
      "County Road 111;CR 111"
-    ]
+    ],
+    "nodeId": 58978563
    }
   },
   {
@@ -21185,7 +22503,8 @@
     "streets": [
      "County Road 111",
      "County Road 111;CR 111"
-    ]
+    ],
+    "nodeId": 1856531237
    }
   },
   {
@@ -21201,7 +22520,8 @@
     "streets": [
      "County Road 111",
      "County Road 111;CR 111"
-    ]
+    ],
+    "nodeId": 58978656
    }
   },
   {
@@ -21217,7 +22537,8 @@
     "streets": [
      "CA 139;CA 299",
      "County Road 198"
-    ]
+    ],
+    "nodeId": 58573963
    }
   },
   {
@@ -21233,7 +22554,8 @@
     "streets": [
      "CA 139;CA 299",
      "County Road 198"
-    ]
+    ],
+    "nodeId": 58865889
    }
   },
   {
@@ -21249,7 +22571,8 @@
     "streets": [
      "County Road 83",
      "Howards Gulch Frontage Road"
-    ]
+    ],
+    "nodeId": 4539455706
    }
   },
   {
@@ -21265,7 +22588,8 @@
     "streets": [
      "County Road 83",
      "Howards Gulch Frontage Road"
-    ]
+    ],
+    "nodeId": 58801574
    }
   }
  ]

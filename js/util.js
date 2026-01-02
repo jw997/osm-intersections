@@ -229,11 +229,11 @@ function addMarkers(intersections) {
 		);
 
 
-		var msg = intersection.properties.streets.join(slash);
+		var msg = intersection.properties.streets.join(slash) + "<br/>nodeId:"+ intersection.properties.nodeId;
 
 		if (pointerFine) {
 
-			marker.bindTooltip(msg).openTooltip();
+			//marker.bindTooltip(msg).openTooltip();
 			marker.bindPopup(msg).openPopup();
 		} else {
 			marker.bindPopup(msg).openPopup();
