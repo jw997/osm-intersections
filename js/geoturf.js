@@ -3,19 +3,15 @@ IMPORTS
 */
 import * as turf from "@turf/turf";
 import { getMaxListeners } from "events";
-//import { polygon, point,feature, lineString } from "@turf/helpers";
-//import { booleanWithin } from "@turf/boolean-within";
-//import { booleanPointInPolygon } from "@turf/boolean-point-in-polygon";
+
 import { readFileSync, writeFileSync } from 'fs';
 
-const DEBUG=false;
+const DEBUG = false;
+
+const ALGGEOM = 'Geom';
 
 import { classGpsbins } from "./gpsBins.js";
-//import { tag } from "turf";
 
-//import  booleanCrosses  from "@turf/boolean-crosses";
-
-//import  lineIntersect   from  "@turf/turf";
 
 var lastTime = 0;
 function getMS(msg) {
@@ -36,56 +32,6 @@ function LLtoArray(arrOfLL) {
 	}
 	return retval;
 }
-/*
-var line1 = turf.lineString([
-	[-2, 2],
-	[4, 2],
-]);
-var line2 = turf.lineString([
-	[1, 1],
-	[1, 2],
-	[1, 3],
-	[1, 4],
-]);
-
-
-
-const line3 = turf.lineString(LLtoArray([
-	{
-		"lat": 37.897,
-		"lon": -122.299
-	},
-	{
-		"lat": 37.898,
-		"lon": -122.298
-	},
-
-]));
-
-const line4 = turf.lineString(LLtoArray([
-	{
-		"lat": 37.898,
-		"lon": -122.299
-	},
-	{
-		"lat": 37.897,
-		"lon": -122.298
-	},
-
-]));
-
-
-
-//const  bCross = turf.booleanCrosses(line3, line4);
-
-const fIntersection = turf.lineIntersect(line3, line4)
-
-const f2 = turf.lineIntersect(line1, line1);
-
-const f3 = turf.lineIntersect(line1, line4);
-
-
-*/
 
 /* 
 CONSTANTS
@@ -146,14 +92,6 @@ function getWayName(tags) {
 	return retval;
 }
 
-/*
-Trim the intersection list to match the city
-*/
-function inBerkeley(gps) {
-	var pt = point([gps.lon, gps.lat]);
-	const inside = booleanPointInPolygon(pt, cityPoly);
-	return inside;
-}
 
 
 /*
@@ -220,7 +158,7 @@ returns wayData array
 
 function initWayData(obj) {
 
-	
+
 
 	for (const way of obj.elements) {
 		if (!way.tags) {
@@ -358,7 +296,7 @@ function initWayData(obj) {
 						mapNodeIdToNames.set(nodes[i], new Set([name]));
 					}
 				}
-				wayData.push({ 'name': name, 'geometry': geometry, 'nodes': nodes, 'highway': tags.highway, 'way':way });
+				wayData.push({ 'name': name, 'geometry': geometry, 'nodes': nodes, 'highway': tags.highway, 'way': way });
 			}
 
 		}
@@ -416,7 +354,7 @@ function initWayData(obj) {
 		const sorted = Array.from(fakeNames).sort();;
 		const name = sorted.join(SLASH);
 		// later use the JUNCTION to identify nodes around a traffic circle and combine them
-		wayData.push({ 'name': name, 'geometry': geometry, 'nodes': nodes, highway: tags.highway, 'way':way });
+		wayData.push({ 'name': name, 'geometry': geometry, 'nodes': nodes, highway: tags.highway, 'way': way });
 		//console.log(name, geometry.length);
 	}
 	return wayData;
@@ -721,6 +659,9 @@ function processCloseGroup(str, matches) {
 	return output
 
 }
+
+/* SLOW switch to gemoetric bin structure??? */
+
 function averageNearbyBoulevardDuplicates(obj) {
 	const intersections = obj.intersections;
 	const mapStreetsToCount = new Map();
@@ -737,6 +678,9 @@ function averageNearbyBoulevardDuplicates(obj) {
 	// make a list of the intersections with dupes
 	for (const int of intersections) {
 		const ct = mapStreetsToCount.get(int.streets);
+
+		// TODO skip motorway, motorway Link and bridge intersections
+
 
 		if (ct == 1) {
 			output.push(int);
@@ -755,7 +699,17 @@ function averageNearbyBoulevardDuplicates(obj) {
 
 
 		// get the matching intersections
-		let matches = intersections.filter((elt) => elt.streets == str);
+
+		/* TODO this throws away stuff
+		let matches = intersections.filter(
+			(elt) => (
+			(elt.nodeId != ALGTURF)  // skip bridge intersections like highway overpass 
+			&&
+			(elt.streets == str)));
+	   */
+		let matches = intersections.filter(
+			(elt) => (elt.streets == str)
+			);
 
 
 		while (matches.length > 0) {
@@ -950,15 +904,15 @@ function debugStreet(street, intersections) {
 	}
 }
 
-function getCommonNodeId( way1, way2) {
+function getCommonNodeId(way1, way2) {
 
-	const setNodes1 = new Set ( way1.nodes );
+	const setNodes1 = new Set(way1.nodes);
 
-	const setNodes2 = new Set (way2.nodes);
+	const setNodes2 = new Set(way2.nodes);
 
 	const inter = setNodes1.intersection(setNodes2)
 
-	if (inter.size > 0 ) {
+	if (inter.size > 0) {
 		return Array.from(inter)
 	}
 	return [];
@@ -982,23 +936,35 @@ function getIntersection(way1, way2) {
 function checkHighwayTypes(arrTypes, bHasCommonNode) {
 	// takes an array of length 2 and returns true/false
 
-	const motorwayLinkTypes = arrTypes.filter( (t)=> ( t == MOTORWAY_LINK));
-	const motorwayTypes = arrTypes.filter( (t)=> ( t == MOTORWAY));
+	const motorwayLinkTypes = arrTypes.filter((t) => (t == MOTORWAY_LINK));
+	const motorwayTypes = arrTypes.filter((t) => (t == MOTORWAY));
 
 	// allow motorway motorway bridge, where there is no node in common
-	if  (motorwayTypes.length ==2)  {
+	if (motorwayTypes.length == 2) {
 		return !bHasCommonNode;  // ok if one flies over the other
 	}
 
-	if  ((motorwayLinkTypes.length >0) && (motorwayTypes.length >0))  {
+	if ((motorwayLinkTypes.length > 0) && (motorwayTypes.length > 0)) {
 		return false;
 	}
 
 	return true;
-	
+
 
 }
-function findIntersectionsTurf(ways) {
+
+// motor way and bridge intersections have no node in common 
+function predicateOverpass(way) {
+	if (way.highway == MOTORWAY) {
+		return true;
+	}
+
+	if (way.bridge) {
+		return true;
+	}
+	return false;
+}
+function findIntersectionsGeomtric(ways) {
 
 	/* put all ways in search structure */
 	getMS();
@@ -1014,7 +980,11 @@ function findIntersectionsTurf(ways) {
 
 	var obj = { intersections: [] }
 	for (const way1 of ways) {
-		const iter = bins.makeIterator(way1);
+
+		if (!predicateOverpass(way1)) {
+			continue;
+		}
+		const iter = bins.makePredicateIterator(way1,predicateOverpass);
 
 		for (const way2 of iter) {  // >2 way intersections could appear multiple times
 			if (way1 === way2) {
@@ -1032,63 +1002,26 @@ function findIntersectionsTurf(ways) {
 			const intCoords = getIntersection(way1, way2);
 			if (intCoords) {
 
-				const arrCommonNodes= getCommonNodeId(way1, way2);
-				const bHasCommonNode = (arrCommonNodes.length >0)
+				const arrCommonNodes = getCommonNodeId(way1, way2);
+				const bHasCommonNode = (arrCommonNodes.length > 0)
 
-				if (!checkHighwayTypes( [way1.highway, way2.highway], bHasCommonNode)) {
+				if (!checkHighwayTypes([way1.highway, way2.highway], bHasCommonNode)) {
 					continue;
 				}
 
 
 				// found intersection
-				const int =  way1.name + SLASH +  way2.name;
+				const int = way1.name + SLASH + way2.name;
 				if (DEBUG) {
 					console.log(int, intCoords)
 				}
-				const intNodeId = bHasCommonNode ? arrCommonNodes[0].nodeId : 'AlgTurf'
-				const intersection = { coordinates: [intCoords[1], intCoords[0]], raw: int, streets: clean(int), nodeId: intNodeId};
+				const intNodeId = bHasCommonNode ? arrCommonNodes[0] : ALGGEOM;
+				const intersection = { coordinates: [intCoords[1], intCoords[0]], raw: int, streets: clean(int), nodeId: intNodeId };
 				obj.intersections.push(intersection)
 			}
 
 		}
 	}
-	/*
-	for (const way1 of ways) {
-		for (const way2 of ways) {  // >2 way intersections could appear multiple times
-			if (way1 === way2) {
-				continue;
-			}
-
-			if (!way1.name) {
-				continue;
-			}
-			if (!way2.name) {
-				continue;
-			}
-
-			// check different names for freeway to freeeway name change intersections TODO
-			const intCoords = getIntersection(way1, way2);
-			if (intCoords) {
-
-
-				if (!checkHighwayTypes( [way1.highway, way2.highway])) {
-					continue;
-				}
-
-
-				// found intersection
-				const int =  way1.name + SLASH +  way2.name;
-				console.log(int, intCoords)
-				const intersection = { coordinates: [intCoords[1], intCoords[0]], raw: int, streets: clean(int), nodeId: 'AlgTurf'};
-				obj.intersections.push(intersection)
-			}
-
-		}
-	}
-
-	*/
-
-	//return obj;
 
 
 
@@ -1096,14 +1029,17 @@ function findIntersectionsTurf(ways) {
 	//	debugStreet("Buchanan",obj.intersections);
 
 	// filter out identical named intersections with closeby gps coordiinates
-	averageJunctionDuplicates(obj);
-
+	getMS('findIntersectionLoops')
+//	averageJunctionDuplicates(obj);
+//	getMS('averageJunctionDuplicates')
 	//	debugStreet("Buchanan",obj.intersections);
 	// filter out identically named intersections at boulevard crossings
-	averageNearbyBoulevardDuplicates(obj);
+//	averageNearbyBoulevardDuplicates(obj);
+//	getMS('averageNearbyBoulevardDuplicates')
 	//	debugStreet("Buchanan",obj.intersections);
 	// remove JUNCTIONS
 	removeJUNCTIONS(obj);
+	getMS('removeJUNCTIONS')
 	//debugStreet("Buchanan",obj.intersections);
 	return obj;
 
@@ -1241,141 +1177,22 @@ write the intersection geojson
 */
 
 
-// make up fake names for traffic circles which include all the names of ways that connect to it
-// map the nodeId to the set of street names of ways that touch it
-
-
-//const mapNodeidToNameArray = new Map();
-
 const mapNodeidToStreetEnds = new Map(); // maps nodeids to sets of street names which dead end on that node
 
-
-// read city boundary
-const landBoundaryJson = JSON.parse(readFileSync('./data/cityboundary/Land_Boundary.geojson', 'utf8'));
-const cityBoundaryFeature = landBoundaryJson.features[0];  // geojson feature
-var cityPoly = turf.polygon(cityBoundaryFeature.geometry.coordinates); // turf polygon
+getMS();
 
 var wayJson = JSON.parse(readFileSync(inputFile, 'utf8'));
+getMS('reading ways')
 var wayData = initWayData(wayJson);
+getMS('init way data')
 findDeadEnds(wayJson);
+getMS('find Dead Ends')
 
-const obj = findIntersectionsTurf(wayData);
+const obj = findIntersectionsGeomtric(wayData);
+getMS();
 
 const geoJson = makeIntersectionGeoJson(obj.intersections);
+getMS('make output geojson')
 
 writeFileSync(outputFile, JSON.stringify(geoJson, null, ' '));
-
-/*
-function distGpsGeometry(gps, geom) {  // geom is array of gps points
-	var minDist = 9999999999;
-	for (const gps2 of geom) {
-		const d = distGpsGps(gps, gps2);
-		minDist = Math.min(minDist, d);
-	}
-	return minDist;
-}
-
-
-// 1 degree approx 100,000 meteres
-const metersPerDegree = 100000;
-const fuzzLimit = 0.0001
-
-function findClosest(gps, ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
-{
-	var min1 = 99999999999;  // min1 is closest node, min2 is 2nd closest
-	// min2Name is always a different road name from min1Name
-	var min1Name;
-	var min2 = min1;
-	var min2Name;
-
-	for (const w of ways) {
-		const d = distGpsGeometry(gps, w.geometry);
-		if (d < min1) {
-
-			if (w.name != min1Name) { // avoid making min2Name equal to new min1Name
-				min2Name = min1Name;
-				min2 = min1;
-			}
-
-
-			min1Name = w.name;
-			min1 = d;
-			if (d < 10 * fuzzLimit) {
-				//console.log(min1Name, ': ', metersPerDegree * d);
-			}
-			continue;
-		}
-
-
-		if (d < min2 && w.name != min1Name) { // avoid making min2Name equal to new min1Name
-			min2Name = w.name;
-			min2 = d;
-			if (d < 10 * fuzzLimit) {
-				//console.log(min2Name, ': ', metersPerDegree * d);
-			}
-		}
-
-	}
-	if (min2) {
-		return "" + min1Name + '/' + min2Name;
-	} else {
-		return min1Name;
-	}
-
-}
-
-
-// test point 37.86649761259358
-// Longitude: -122.27820812735916
-const tp1 = { "lat": 37.86649761259358, "lon": -122.27820812735916 };
-console.log(findClosest(tp1, wayData));
-
-const tp2 = { "lat": 37.86817029300005, "lon": -122.277171513 }; //Latitude: 37.86817029300005 Longitude: -122.277171513
-console.log(findClosest(tp2, wayData));
-
-const tp3 = { "lat": 37.8891174940534, "lon": -122.2832986980807 }; //Latitude: 37.8891174940534 Longitude: -122.2832986980807
-console.log(findClosest(tp3, wayData));
-
-
-const tp4 = { "lat": 37.89738664679591, "lon": -122.30111474391248 }; //Latitude: 37.89738664679591 Longitude: -122.30111474391248
-console.log(findClosest(tp4, wayData));
-
-
-// south of border
-const tp5 = { "lat": 37.83714835788253, "lon": -122.26887620280867 }; // Latitude: 37.83714835788253 Longitude: -122.26887620280867
-console.log(findClosest(tp5, wayData));
-
-const tp6 = { "lat": 37.869567599018744, "lon": -122.31960105118446 }; //37.869567599018744 Longitude: -122.31960105118446
-console.log(findClosest(tp6, wayData));
-
-// Latitude: 37.88094309945162 Longitude: -122.24792946251237
-const tp7 = { "lat": 37.88094309945162, "lon": -122.24792946251237 }; // 37.88094309945162 -122.24792946251237
-console.log(findClosest(tp7, wayData));
-
-// freewaye xit
-const tp8 = { "lat": 37.88637794963968, "lon": -122.30839870791239 }; // -122.30839870791239
-console.log(findClosest(tp8, wayData));
-
-// oholone greenway near heast
-
-const tp9 = { "lat": 37.87291108342455, "lon": -122.27735663669807 }; // Latitude: 37.87291108342455 Longitude: -122.27735663669807
-console.log(findClosest(tp9, wayData));
-
-
-///
-
-const tp10 = { "lat": 37.87327648676752, "lon": -122.28340590706408 }; // 37.87327648676752 Longitude: -122.28340590706408
-console.log(findClosest(tp10, wayData));
-
-// hearst oxford 37.874145812370294 Longitude: -122.26629053003462
-
-const tp11 = { "lat": 37.874145812370294, "lon": -122.26629053003462 }; // 37.87327648676752 Longitude: -122.28340590706408
-console.log(findClosest(tp11, wayData));
-
-
-const tp12 = { "lat": 37.85954819415937, "lon": -122.31603194372578 }; //Latitude: 37.85954819415937 Longitude: -122.31603194372578
-console.log(findClosest(tp12, wayData));
-console.log("bye")
-*/
-
-
+getMS('write out file')

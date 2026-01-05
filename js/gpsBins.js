@@ -44,11 +44,11 @@ const SLASH = '/'
 
 class classGpsbins {
 
-	static minLat = 38;
+	/*static minLat = 38;
 	static maxLat = 39;
 
 	static minLng = -121;
-	static maxLong = -119;
+	static maxLong = -119; */
 
 	static FRACTION_DIGITS = 2;
 	static DELTA = 1.0 / (10.0 ** classGpsbins.FRACTION_DIGITS);  
@@ -79,7 +79,11 @@ class classGpsbins {
 		const retval = truncateFloat(f + delta / 2, classGpsbins.FRACTION_DIGITS);
 		return retval
 	}
-
+	hasBin(key) {
+		
+		const retval = this.mapKeyToBin.get( key);
+		return retval;
+	}
 	getBin(key) {
 		if (!this.mapKeyToBin.has( key)) {
 			this.mapKeyToBin.set (key, new Set());
@@ -168,7 +172,11 @@ function* makeCcrsIterator(county) {
 		for (let lng = minLng; lng <= maxLng; lng += classGpsbins.DELTA) {
 			for (let lat = minLat; lat <= maxLat; lat += classGpsbins.DELTA) {
 				const k = classGpsbins.makeKey(lng, lat);
-				const bin = this.getBin(k);
+				const bin = this.hasBin(k)
+				if (!bin) {
+					continue;
+				}
+				
 				for (const datum of bin) {
 					// only return ways with bigger id 
 					if (datum.way.id && datum.way.id <= way.id) {
@@ -182,9 +190,47 @@ function* makeCcrsIterator(county) {
 
 		return iterationCount;
 	}
+	// looping through way pairs where way1 matches a predicate, and way2 either does not, or does and comes after way in id order
+	// 
+	* makePredicateIterator(w, pred) {
+
+		const way = w.way;
+
+		let iterationCount = 0;
+
+		const bounds = way.bounds;
+
+		const minLat = classGpsbins.round(bounds.minlat, false);
+		const maxLat = classGpsbins.round(bounds.maxlat, true);
+
+		const minLng = classGpsbins.round(bounds.minlon, false)
+		const maxLng = classGpsbins.round(bounds.maxlon, true);
+
+		for (let lng = minLng; lng <= maxLng; lng += classGpsbins.DELTA) {
+			for (let lat = minLat; lat <= maxLat; lat += classGpsbins.DELTA) {
+				const k = classGpsbins.makeKey(lng, lat);
+				const bin = this.hasBin(k);
+				if (!bin) {
+					continue;
+				}
+				for (const datum of bin) {
+					// only return ways with bigger id 
+					if (pred(datum.way)) {  // bridge bridge intersections
+						if (datum.way.id && datum.way.id <= way.id) {
+							continue;
+						}
+					}
+					iterationCount++;
+					yield datum;
+				}
+			}
+		}
+
+		return iterationCount;
+	}
 
 }
-
+/*
 function testround() {
 	for (let i =0; i<100;i++) {
 		const t = (Math.random() - 0.5)*100;
@@ -198,7 +244,7 @@ function testround() {
 }
 
 testround();
-
+*/
 /*
 const bins = new classGpsbins();
 
