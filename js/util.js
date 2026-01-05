@@ -6,7 +6,17 @@ const slash = '/';
 let mql = window.matchMedia("(pointer: fine)");
 const pointerFine = mql.matches;
 
+
+
 const selectCounty = document.querySelector('#selectCounty');
+
+const primaryRoad = document.querySelector('#primaryRoad');
+
+const secondaryRoad = document.querySelector('#secondaryRoad');
+
+const filterButton = document.querySelector('#filterButton');
+
+
 
 function fileNameIze(str) {
 	return str.replaceAll(' ', '_').replaceAll('/', '_');
@@ -215,6 +225,10 @@ function addMarkers(intersections) {
 	var markerCount = 0
 	//var skipped = 0, plotted = 0;
 
+	const primaryRoadPattern = primaryRoad.value;
+	const secondaryRoadPattern = secondaryRoad.value;
+
+	const filtering = (primaryRoadPattern || secondaryRoadPattern);
 
 	for (const intersection of intersections) {
 
@@ -224,12 +238,12 @@ function addMarkers(intersections) {
 
 		const opt = getMarkerOpt();
 
-		var marker = L.circleMarker([lat, long], opt
+		const marker = L.circleMarker([lat, long], opt
 
 		);
 
-
-		var msg = intersection.properties.streets.join(slash) + "<br/>nodeId:"+ intersection.properties.nodeId;
+		const streetMsg = intersection.properties.streets.join(slash);
+		const msg = streetMsg + "<br/>nodeId:"+ intersection.properties.nodeId;
 
 		if (pointerFine) {
 
@@ -239,8 +253,16 @@ function addMarkers(intersections) {
 			marker.bindPopup(msg).openPopup();
 		}
 
+		if (filtering) {
+			if (primaryRoadPattern && !streetMsg.includes(primaryRoadPattern)) {
+				continue;
+			}
+			if (secondaryRoadPattern && !streetMsg.includes(secondaryRoadPattern)) {
+				continue;
+			}
+		} 
 		marker.addTo(map)
-
+		
 		markers.push(marker);
 		markerCount++;
 
@@ -277,6 +299,28 @@ selectCounty.addEventListener('change', (event) => {
 
 
 await handleSelectCountyChange(null);
+
+
+async function handleFilterClick() {
+	
+
+	removeAllMakers();
+	
+
+	addMarkers(intersections.features);
+
+	
+	
+
+
+}
+
+document.querySelector('#filterButton').addEventListener('click', (event) => {
+	handleFilterClick();
+
+});
+
+
 
 //addMarkers(interJson.features);
 /*

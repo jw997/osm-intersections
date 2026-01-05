@@ -2,7 +2,6 @@
 IMPORTS 
 */
 import * as turf from "@turf/turf";
-import { getMaxListeners } from "events";
 
 import { readFileSync, writeFileSync } from 'fs';
 
