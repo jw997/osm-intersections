@@ -88569,6 +88569,3052 @@
     ],
     "nodeId": 12058650764
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.15897380516581,
+     37.04257632456325
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Avenue 20 1",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.15897380516581,
+     37.04257632456325
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Avenue 20 1",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.229458,
+     37.0838507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Eastbound California State Route 152;CA 152",
+     "Road 17 1"
+    ],
+    "nodeId": 88854828
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.229458,
+     37.0838507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Eastbound California State Route 152;CA 152",
+     "Road 17 1"
+    ],
+    "nodeId": 88854828
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.229458,
+     37.0838507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Eastbound California State Route 152;CA 152",
+     "Road 17 1"
+    ],
+    "nodeId": 88854828
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.229458,
+     37.0838507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Eastbound California State Route 152;CA 152",
+     "Road 17 1"
+    ],
+    "nodeId": 88854828
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.10211536377007,
+     36.99648861158851
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 17",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.10211536377007,
+     36.99648861158851
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 17",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.10211536377007,
+     36.99648861158851
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 17",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.10211536377007,
+     36.99648861158851
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 17",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.00589073114179,
+     36.90938307715704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 11"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.00589073114179,
+     36.90938307715704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 11"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.00589073114179,
+     36.90938307715704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 11"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.00589073114179,
+     36.90938307715704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 11"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.18613085895775,
+     37.065542440979854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Avenue 21 1",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.18613085895775,
+     37.065542440979854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Avenue 21 1",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.79296059909653,
+     36.89335465757556
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Southern Yosemite Highway;CA 41",
+     "Valley Children's Place"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.79295646625677,
+     36.89350444736158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Southern Yosemite Highway;CA 41",
+     "Valley Children's Place;CA 41 Business"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.79296059909653,
+     36.89335465757556
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Southern Yosemite Highway;CA 41",
+     "Valley Children's Place"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.79295646625677,
+     36.89350444736158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Southern Yosemite Highway;CA 41",
+     "Valley Children's Place;CA 41 Business"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2743992763334,
+     37.141793657950096
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 15"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2743992763334,
+     37.141793657950096
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 15"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2743992763334,
+     37.141793657950096
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 15"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.2743992763334,
+     37.141793657950096
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 15"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.21018571936672,
+     37.084372395925485
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.21018571936672,
+     37.084372395925485
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.21018571936672,
+     37.084372395925485
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.21018571936672,
+     37.084372395925485
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.229458,
+     37.0839671
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Road 17 1",
+     "Westbound California State Route 152;CA 152"
+    ],
+    "nodeId": 332156171
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.229458,
+     37.0839671
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Road 17 1",
+     "Westbound California State Route 152;CA 152"
+    ],
+    "nodeId": 332156171
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.229458,
+     37.0839671
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Road 17 1",
+     "Westbound California State Route 152;CA 152"
+    ],
+    "nodeId": 332156171
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.229458,
+     37.0839671
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Road 17 1",
+     "Westbound California State Route 152;CA 152"
+    ],
+    "nodeId": 332156171
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.21018571936672,
+     37.084372395925485
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.21018571936672,
+     37.084372395925485
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.21018571936672,
+     37.084372395925485
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.21018571936672,
+     37.084372395925485
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.18638786163899,
+     37.0652865150861
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Avenue 21 1",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.18638786163899,
+     37.0652865150861
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Avenue 21 1",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.79267556781497,
+     36.880912049267565
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 9",
+     "Southern Yosemite Highway;CA 41"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.79267556781497,
+     36.880912049267565
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 9",
+     "Southern Yosemite Highway;CA 41"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06303434774652,
+     36.95964416284858
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Yosemite Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06296051851534,
+     36.95957062814892
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Yosemite Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06488621791723,
+     36.96146470628259
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West 4th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06303434774652,
+     36.95964416284858
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Yosemite Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06296051851534,
+     36.95957062814892
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Yosemite Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06488621791723,
+     36.96146470628259
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West 4th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.79306683287953,
+     36.88092134243907
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 9",
+     "Southern Yosemite Highway;CA 41"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.79306683287953,
+     36.88092134243907
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 9",
+     "Southern Yosemite Highway;CA 41"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.79253052675763,
+     36.89356422493593
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Southern Yosemite Highway;CA 41",
+     "Valley Children's Place"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.79252768713164,
+     36.89371537592672
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Southern Yosemite Highway;CA 41",
+     "Valley Children's Place;CA 41 Business"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.79253052675763,
+     36.89356422493593
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Southern Yosemite Highway;CA 41",
+     "Valley Children's Place"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.79252768713164,
+     36.89371537592672
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Southern Yosemite Highway;CA 41",
+     "Valley Children's Place;CA 41 Business"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.27439832657379,
+     37.14158655099763
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 15"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.27439832657379,
+     37.14158655099763
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 15"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.27439832657379,
+     37.14158655099763
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 15"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.27439832657379,
+     37.14158655099763
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 15"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0647588743364,
+     36.96155331619092
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West 4th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0647588743364,
+     36.96155331619092
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West 4th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9609767957823,
+     36.86580170312494
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9609767957823,
+     36.86580170312494
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9609767957823,
+     36.86580170312494
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9609767957823,
+     36.86580170312494
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.15865898945637,
+     37.04282819958957
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Avenue 20 1",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.15865898945637,
+     37.04282819958957
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Avenue 20 1",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.03603514510755,
+     36.93811666119664
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 13"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.03603514510755,
+     36.93811666119664
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 13"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.03603514510755,
+     36.93811666119664
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 13"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.03603514510755,
+     36.93811666119664
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 13"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0357561138655,
+     36.93811641388333
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 13"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0357561138655,
+     36.93811641388333
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 13"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0357561138655,
+     36.93811641388333
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 13"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0357561138655,
+     36.93811641388333
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 13"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.04843103211913,
+     36.94902414844867
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "South Gateway Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.04843103211913,
+     36.94902414844867
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "South Gateway Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.12853320860837,
+     37.01825504640572
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Avenue 18 1",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.12853320860837,
+     37.01825504640572
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Avenue 18 1",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.12913385916413,
+     37.01825267866471
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Avenue 18 1",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.12913385916413,
+     37.01825267866471
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2",
+     "Avenue 18 1",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0484110451659,
+     36.94881463815082
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "South Gateway Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0484110451659,
+     36.94881463815082
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "South Gateway Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.00620616201628,
+     36.909382511192554
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 11"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.00620616201628,
+     36.909382511192554
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 11"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.00620616201628,
+     36.909382511192554
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 11"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.00620616201628,
+     36.909382511192554
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 11"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.96066947938668,
+     36.86580132004355
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.96066947938668,
+     36.86580132004355
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.96066947938668,
+     36.86580132004355
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.96066947938668,
+     36.86580132004355
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.94682377199072,
+     36.85150725997571
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 7"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.94682377199072,
+     36.85150725997571
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 7"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.94682377199072,
+     36.85150725997571
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 7"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.94682377199072,
+     36.85150725997571
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 7"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.97665641750021,
+     36.88022700599205
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 9"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.97665641750021,
+     36.88022700599205
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 9"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.97665641750021,
+     36.88022700599205
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 9"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.97665641750021,
+     36.88022700599205
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 9"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.05609974602,
+     36.953270571776564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "South Madera Avenue;CA 145"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.05609974602,
+     36.953270571776564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "South Madera Avenue;CA 145"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.05609974602,
+     36.953270571776564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "South Madera Avenue;CA 145"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.05609974602,
+     36.953270571776564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "South Madera Avenue;CA 145"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06198965994473,
+     36.95866303120292
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West 6th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06198965994473,
+     36.95866303120292
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West 6th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.07619968764634,
+     36.97461000815943
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Cleveland Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.07619968764634,
+     36.97461000815943
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Cleveland Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.07619968764634,
+     36.97461000815943
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Cleveland Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.07619968764634,
+     36.97461000815943
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Cleveland Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.07645835844347,
+     36.97461035870145
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Cleveland Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.07645835844347,
+     36.97461035870145
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Cleveland Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.07645835844347,
+     36.97461035870145
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Cleveland Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.07645835844347,
+     36.97461035870145
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Cleveland Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08748533224099,
+     36.9851253021872
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Ellis Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08742581721954,
+     36.98507647243488
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Ellis Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08748533224099,
+     36.9851253021872
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Ellis Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08742581721954,
+     36.98507647243488
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Ellis Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.05609851823388,
+     36.95343625139312
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "South Madera Avenue;CA 145"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.05609851823388,
+     36.95343625139312
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "South Madera Avenue;CA 145"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.05609851823388,
+     36.95343625139312
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "South Madera Avenue;CA 145"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.05609851823388,
+     36.95343625139312
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "South Madera Avenue;CA 145"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06286460642627,
+     36.959757950224976
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Yosemite Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06183669821856,
+     36.958766868286865
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West 6th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06279007476122,
+     36.959686088762545
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Yosemite Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06286460642627,
+     36.959757950224976
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Yosemite Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06183669821856,
+     36.958766868286865
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West 6th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06279007476122,
+     36.959686088762545
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Yosemite Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08407385364295,
+     36.98137022646716
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Kennedy Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08407385364295,
+     36.98137022646716
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Kennedy Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08407385364295,
+     36.98137022646716
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Kennedy Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08407385364295,
+     36.98137022646716
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Kennedy Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.94710034302831,
+     36.85148279723272
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 7"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.94710034302831,
+     36.85148279723272
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 7"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.94710034302831,
+     36.85148279723272
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 7"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.94710034302831,
+     36.85148279723272
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 7"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.02234060096232,
+     36.923936301368975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.02215579939892,
+     36.923740520332224
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.02234060096232,
+     36.923936301368975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.02215579939892,
+     36.923740520332224
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.02234060096232,
+     36.923936301368975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.02215579939892,
+     36.923740520332224
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.02234060096232,
+     36.923936301368975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.02215579939892,
+     36.923740520332224
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.10259573482439,
+     36.99648877573375
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 17"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.10259573482439,
+     36.99648877573375
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 17"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.10259573482439,
+     36.99648877573375
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 17"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.10259573482439,
+     36.99648877573375
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 17"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.02202751572821,
+     36.92393570830685
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.021837653608,
+     36.923736942747546
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.02202751572821,
+     36.92393570830685
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.021837653608,
+     36.923736942747546
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.02202751572821,
+     36.92393570830685
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.021837653608,
+     36.923736942747546
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.02202751572821,
+     36.92393570830685
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.021837653608,
+     36.923736942747546
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.21608544748563,
+     37.09825901626229
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 24",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.21608544748563,
+     37.09825901626229
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 24",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.21608544748563,
+     37.09825901626229
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 24",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.21608544748563,
+     37.09825901626229
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 24",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.21632273307195,
+     37.0982583085507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 24",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.21632273307195,
+     37.0982583085507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 24",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.21632273307195,
+     37.0982583085507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 24",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.21632273307195,
+     37.0982583085507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 24",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.25223039499635,
+     37.126917450855736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 26;CA 233",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.25223039499635,
+     37.126917450855736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 26;CA 233",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.25223039499635,
+     37.126917450855736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 26;CA 233",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.25223039499635,
+     37.126917450855736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 26;CA 233",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.25246284797974,
+     37.12688086771276
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 26;CA 233",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.25246284797974,
+     37.12688086771276
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 26;CA 233",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.25246284797974,
+     37.12688086771276
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 26;CA 233",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.25246284797974,
+     37.12688086771276
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 26;CA 233",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.97698057151669,
+     36.88022559391397
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 9"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.97698057151669,
+     36.88022559391397
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 9"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.97698057151669,
+     36.88022559391397
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 9"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.97698057151669,
+     36.88022559391397
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Avenue 9"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08377938968397,
+     36.981312651344005
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Kennedy Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08732634700196,
+     36.985270853617614
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Ellis Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08726659376799,
+     36.98522132462191
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Ellis Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08377938968397,
+     36.981312651344005
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "West Kennedy Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08732634700196,
+     36.985270853617614
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Ellis Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08726659376799,
+     36.98522132462191
+    ]
+   },
+   "properties": {
+    "streets": [
+     "100th Infantry Battalion Memorial Highway;CA 99;I 7–9 FUT",
+     "Ellis Street"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

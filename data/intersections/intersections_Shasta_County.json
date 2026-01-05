@@ -120992,6 +120992,7333 @@
     ],
     "nodeId": 91639568
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3708779,
+     40.6253844
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 273",
+     "Caterpillar Road"
+    ],
+    "nodeId": 91643806
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3708779,
+     40.6253844
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 273",
+     "Caterpillar Road"
+    ],
+    "nodeId": 91643806
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31821471259605,
+     40.76726914830867
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Turntable Bay Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31821471259605,
+     40.76726914830867
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Turntable Bay Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28711547229824,
+     40.43755380780232
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Deschutes Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28711547229824,
+     40.43755380780232
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Deschutes Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28711547229824,
+     40.43755380780232
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Deschutes Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28711547229824,
+     40.43755380780232
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Deschutes Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28682091104896,
+     40.43763979789492
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Deschutes Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28682091104896,
+     40.43763979789492
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Deschutes Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28682091104896,
+     40.43763979789492
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Deschutes Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28682091104896,
+     40.43763979789492
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Deschutes Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30778257268501,
+     40.46839100708984
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Ox Yoke Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30778257268501,
+     40.46839100708984
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Ox Yoke Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30778257268501,
+     40.46839100708984
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Ox Yoke Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30778257268501,
+     40.46839100708984
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Ox Yoke Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30751137988838,
+     40.46851379716165
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Ox Yoke Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30751137988838,
+     40.46851379716165
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Ox Yoke Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30751137988838,
+     40.46851379716165
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Ox Yoke Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30751137988838,
+     40.46851379716165
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Ox Yoke Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34178333362283,
+     40.850532395000755
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Statton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34178333362283,
+     40.850532395000755
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Statton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33862894569965,
+     40.84780749862065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gilman Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33862894569965,
+     40.84780749862065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gilman Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33862894569965,
+     40.84780749862065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gilman Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33862894569965,
+     40.84780749862065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gilman Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34194191874154,
+     40.85048405919609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Statton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34194191874154,
+     40.85048405919609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Statton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.43552529425286,
+     40.957392222825014
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "McCardle Flat Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.43552529425286,
+     40.957392222825014
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "McCardle Flat Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.43257237394707,
+     40.9746879031727
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Moine Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.43257237394707,
+     40.9746879031727
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Moine Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.43240809088003,
+     40.974700824312805
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Moine Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.43240809088003,
+     40.974700824312805
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Moine Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.415079771855,
+     40.99859375765545
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Pollard Camp Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.415079771855,
+     40.99859375765545
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Pollard Camp Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.415079771855,
+     40.99859375765545
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Pollard Camp Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.415079771855,
+     40.99859375765545
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Pollard Camp Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.40906020869495,
+     41.012171629103086
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Eagles Roost"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.40906020869495,
+     41.012171629103086
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Eagles Roost"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.40923905741705,
+     41.01228616026044
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Eagles Roost"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.40923905741705,
+     41.01228616026044
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Eagles Roost"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.41525836100514,
+     40.99872551376171
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Pollard Camp Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.41525836100514,
+     40.99872551376171
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Pollard Camp Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.41525836100514,
+     40.99872551376171
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Pollard Camp Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.41525836100514,
+     40.99872551376171
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Pollard Camp Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.40498472072892,
+     41.016152592746344
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gibson Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.40498472072892,
+     41.016152592746344
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gibson Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.40521217226267,
+     41.016160356638025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gibson Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.40521217226267,
+     41.016160356638025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gibson Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.40102915433953,
+     41.0196850664118
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gibson Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.40102915433953,
+     41.0196850664118
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gibson Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.40109964570793,
+     41.01982585759598
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gibson Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.40109964570793,
+     41.01982585759598
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gibson Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.40109964570793,
+     41.01982585759598
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gibson Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34565665614957,
+     41.09540530238479
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Flume Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34565665614957,
+     41.09540530238479
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Flume Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34576868443253,
+     41.095448109047375
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Flume Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34576868443253,
+     41.095448109047375
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Flume Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33920825261092,
+     41.10260590519707
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Conant Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33920825261092,
+     41.10260590519707
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Conant Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33925366546542,
+     41.10270448283154
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Conant Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33925366546542,
+     41.10270448283154
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Conant Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33134216561713,
+     41.1077572880674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Conant Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33134216561713,
+     41.1077572880674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Conant Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33134216561713,
+     41.1077572880674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Conant Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33134216561713,
+     41.1077572880674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Conant Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33149914198202,
+     41.10783225417943
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Conant Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33149914198202,
+     41.10783225417943
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Conant Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33149914198202,
+     41.10783225417943
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Conant Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33149914198202,
+     41.10783225417943
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Conant Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32568640606101,
+     41.12308589016693
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Sweetbrier Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32568640606101,
+     41.12308589016693
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Sweetbrier Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32568640606101,
+     41.12308589016693
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Sweetbrier Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32568640606101,
+     41.12308589016693
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Sweetbrier Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32582757226552,
+     41.12309135642848
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Sweetbrier Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32582757226552,
+     41.12309135642848
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Sweetbrier Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32582757226552,
+     41.12309135642848
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Sweetbrier Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32582757226552,
+     41.12309135642848
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Sweetbrier Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31603167885639,
+     41.14851935503363
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Castle Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31603167885639,
+     41.14851935503363
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Castle Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31586821791082,
+     41.14841678260806
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Castle Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31586821791082,
+     41.14841678260806
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Castle Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34547193667376,
+     40.520114295784126
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Smith Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34547193667376,
+     40.520114295784126
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Smith Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33826665876319,
+     40.5055439
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Knighton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33826665876319,
+     40.5055439
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Knighton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33826665876319,
+     40.5055439
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Knighton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33826665876319,
+     40.5055439
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Knighton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35085237400432,
+     40.538338728416115
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Bonnyview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35090068298892,
+     40.538481013930905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Bonnyview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35085237400432,
+     40.538338728416115
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Bonnyview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35090068298892,
+     40.538481013930905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Bonnyview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35429522361332,
+     40.549254551875244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Loma Vista Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35429522361332,
+     40.549254551875244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Loma Vista Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35889327470935,
+     40.56379258657959
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hartnell Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35889327470935,
+     40.56379258657959
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hartnell Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35085237400432,
+     40.538338728416115
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Bonnyview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35090068298892,
+     40.538481013930905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Bonnyview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35085237400432,
+     40.538338728416115
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Bonnyview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35090068298892,
+     40.538481013930905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Bonnyview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35429522361332,
+     40.549254551875244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Loma Vista Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35429522361332,
+     40.549254551875244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Loma Vista Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35889327470935,
+     40.56379258657959
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hartnell Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35889327470935,
+     40.56379258657959
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hartnell Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32522232990001,
+     40.5731085393741
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Shasta View Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32522232990001,
+     40.5731085393741
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Shasta View Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32522232990001,
+     40.5731085393741
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Shasta View Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32522232990001,
+     40.5731085393741
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Shasta View Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30050192209086,
+     40.56116143105245
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30050192209086,
+     40.56116143105245
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30050192209086,
+     40.56116143105245
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30050192209086,
+     40.56116143105245
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34729119105917,
+     40.683107404830785
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Union School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34729119105917,
+     40.683107404830785
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Union School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33701977652393,
+     40.70579636550649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33701977652393,
+     40.70579636550649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33701977652393,
+     40.70579636550649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33701977652393,
+     40.70579636550649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31997573877013,
+     40.73092095158103
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Wonderland Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31997573877013,
+     40.73092095158103
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Wonderland Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31997573877013,
+     40.73092095158103
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Wonderland Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31997573877013,
+     40.73092095158103
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Wonderland Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36824287809677,
+     40.62879347894236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36824287809677,
+     40.62879347894236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36824287809677,
+     40.62879347894236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36824287809677,
+     40.62879347894236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36503041480596,
+     40.64160342716061
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Oasis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36503041480596,
+     40.64160342716061
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Oasis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36503041480596,
+     40.64160342716061
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Oasis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36503041480596,
+     40.64160342716061
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Oasis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35563930588492,
+     40.663561799650466
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Pine Grove Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35563930588492,
+     40.663561799650466
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Pine Grove Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35563930588492,
+     40.663561799650466
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Pine Grove Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35563930588492,
+     40.663561799650466
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Pine Grove Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4238010016416,
+     40.93928637004708
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Fenders Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4238010016416,
+     40.93928637004708
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Fenders Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4238010016416,
+     40.93928637004708
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Fenders Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4238010016416,
+     40.93928637004708
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Fenders Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4238010016416,
+     40.93928637004708
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Fenders Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4238010016416,
+     40.93928637004708
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Fenders Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42420241418748,
+     40.939368321047745
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Fenders Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42420241418748,
+     40.939368321047745
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Fenders Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42420241418748,
+     40.939368321047745
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Fenders Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.42420241418748,
+     40.939368321047745
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Fenders Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31229461170092,
+     40.772817502135524
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Turntable Bay Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31229461170092,
+     40.772817502135524
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Turntable Bay Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.38609108211803,
+     40.586646564350914
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Continental Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.38609108211803,
+     40.586646564350914
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Continental Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.38609108211803,
+     40.586646564350914
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Continental Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.38609108211803,
+     40.586646564350914
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Continental Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.38599698571251,
+     40.586421548099416
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Continental Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.38599698571251,
+     40.586421548099416
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Continental Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.38599698571251,
+     40.586421548099416
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Continental Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.38599698571251,
+     40.586421548099416
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Continental Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34975021837406,
+     40.61487614801051
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawley Road",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34992205127189,
+     40.614845923440924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawley Road",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34975021837406,
+     40.61487614801051
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawley Road",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34992205127189,
+     40.614845923440924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawley Road",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34975021837406,
+     40.61487614801051
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawley Road",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34992205127189,
+     40.614845923440924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawley Road",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34975021837406,
+     40.61487614801051
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawley Road",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34992205127189,
+     40.614845923440924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawley Road",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34965280158819,
+     40.61462725677986
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawley Road",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34982320227739,
+     40.614598175328126
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawley Road",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34965280158819,
+     40.61462725677986
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawley Road",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34982320227739,
+     40.614598175328126
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawley Road",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34965280158819,
+     40.61462725677986
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawley Road",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34982320227739,
+     40.614598175328126
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawley Road",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34965280158819,
+     40.61462725677986
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawley Road",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34982320227739,
+     40.614598175328126
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawley Road",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31881900444691,
+     40.62091074904701
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highway 299;CA 299",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31866707881387,
+     40.62094226504166
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highway 299;CA 299",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31881900444691,
+     40.62091074904701
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highway 299;CA 299",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31866707881387,
+     40.62094226504166
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highway 299;CA 299",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31871861153844,
+     40.62066374701122
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highway 299;CA 299",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31857440097907,
+     40.62069488050305
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highway 299;CA 299",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31871861153844,
+     40.62066374701122
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highway 299;CA 299",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31857440097907,
+     40.62069488050305
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highway 299;CA 299",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4352751668508,
+     40.957330082491104
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "McCardle Flat Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4352751668508,
+     40.957330082491104
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "McCardle Flat Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.43043944716652,
+     40.940929289701224
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Dog Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.43043944716652,
+     40.940929289701224
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Dog Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.43030413298743,
+     40.941081786633205
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Dog Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.43030413298743,
+     40.941081786633205
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Dog Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33850047317068,
+     40.8479175205269
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gilman Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33850047317068,
+     40.8479175205269
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gilman Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33850047317068,
+     40.8479175205269
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gilman Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33850047317068,
+     40.8479175205269
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gilman Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31831739084392,
+     40.767304151137935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Turntable Bay Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31831739084392,
+     40.767304151137935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Turntable Bay Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.38544543113504,
+     40.910681832294884
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Riverview Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.38544543113504,
+     40.910681832294884
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Riverview Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.38544543113504,
+     40.910681832294884
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Riverview Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.38544543113504,
+     40.910681832294884
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Riverview Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.38319390078192,
+     40.892541557798445
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Whiskeytown-Shasta-Trinity Nra"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.38319390078192,
+     40.892541557798445
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Whiskeytown-Shasta-Trinity Nra"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.38319390078192,
+     40.892541557798445
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Whiskeytown-Shasta-Trinity Nra"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.38319390078192,
+     40.892541557798445
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Whiskeytown-Shasta-Trinity Nra"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3859017977333,
+     40.91048102385608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Riverview Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3859017977333,
+     40.91048102385608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Riverview Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3859017977333,
+     40.91048102385608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Riverview Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3859017977333,
+     40.91048102385608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Riverview Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3835029344438,
+     40.89255505159394
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Lakeshore Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3835029344438,
+     40.89255505159394
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Lakeshore Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3835029344438,
+     40.89255505159394
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Lakeshore Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3835029344438,
+     40.89255505159394
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Lakeshore Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3221143432231,
+     40.807165346762346
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "O'Brien Inlet Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3221143432231,
+     40.807165346762346
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "O'Brien Inlet Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3221143432231,
+     40.807165346762346
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "O'Brien Inlet Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3221143432231,
+     40.807165346762346
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "O'Brien Inlet Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3224451297346,
+     40.80729986572507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "O'Brien Inlet Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3224451297346,
+     40.80729986572507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "O'Brien Inlet Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3224451297346,
+     40.80729986572507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "O'Brien Inlet Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3224451297346,
+     40.80729986572507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "O'Brien Inlet Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36308692080128,
+     40.61239195111867
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36305146978326,
+     40.612278004544095
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36308692080128,
+     40.61239195111867
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36305146978326,
+     40.612278004544095
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36308692080128,
+     40.61239195111867
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36305146978326,
+     40.612278004544095
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36308692080128,
+     40.61239195111867
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36305146978326,
+     40.612278004544095
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29539829127974,
+     40.455693295699255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29539829127974,
+     40.455693295699255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2913502713508,
+     40.45181152564055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Balls Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2913502713508,
+     40.45181152564055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Balls Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36028810443989,
+     40.57096675816117
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "East Cypress Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36028799412706,
+     40.571105443442406
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "East Cypress Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36028810443989,
+     40.57096675816117
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "East Cypress Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36028799412706,
+     40.571105443442406
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "East Cypress Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36028810443989,
+     40.57096675816117
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "East Cypress Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36028799412706,
+     40.571105443442406
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "East Cypress Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36028810443989,
+     40.57096675816117
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "East Cypress Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36028799412706,
+     40.571105443442406
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "East Cypress Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29519349384812,
+     40.45587342016898
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29519349384812,
+     40.45587342016898
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36680867065131,
+     40.622926836948984
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Twin View Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36680867065131,
+     40.622926836948984
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Twin View Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36680867065131,
+     40.622926836948984
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Twin View Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36680867065131,
+     40.622926836948984
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Twin View Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36063671148122,
+     40.57096760210978
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "East Cypress Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36063688854492,
+     40.571106818439475
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "East Cypress Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36063671148122,
+     40.57096760210978
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "East Cypress Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36063688854492,
+     40.571106818439475
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "East Cypress Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36063671148122,
+     40.57096760210978
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "East Cypress Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36063688854492,
+     40.571106818439475
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "East Cypress Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36063671148122,
+     40.57096760210978
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "East Cypress Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36063688854492,
+     40.571106818439475
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "East Cypress Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36347338538192,
+     40.6123268457763
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36343582107389,
+     40.612206834528294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36347338538192,
+     40.6123268457763
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36343582107389,
+     40.612206834528294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36347338538192,
+     40.6123268457763
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36343582107389,
+     40.612206834528294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36347338538192,
+     40.6123268457763
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36343582107389,
+     40.612206834528294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Highway 299;CA 299"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36642804041311,
+     40.62299567978082
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Twin View Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36642804041311,
+     40.62299567978082
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Twin View Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36642804041311,
+     40.62299567978082
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Twin View Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36642804041311,
+     40.62299567978082
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Twin View Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35121142363357,
+     40.53839230877626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Bonnyview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35125612910899,
+     40.538537246988916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Bonnyview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35121142363357,
+     40.53839230877626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Bonnyview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35125612910899,
+     40.538537246988916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Bonnyview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35461794002946,
+     40.54925349274687
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Loma Vista Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35461794002946,
+     40.54925349274687
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Loma Vista Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35924506365798,
+     40.56379126587023
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hartnell Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35924506365798,
+     40.56379126587023
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hartnell Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35121142363357,
+     40.53839230877626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Bonnyview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35125612910899,
+     40.538537246988916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Bonnyview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35121142363357,
+     40.53839230877626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Bonnyview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35125612910899,
+     40.538537246988916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Bonnyview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35461794002946,
+     40.54925349274687
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Loma Vista Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35461794002946,
+     40.54925349274687
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Loma Vista Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35924506365798,
+     40.56379126587023
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hartnell Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35924506365798,
+     40.56379126587023
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hartnell Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29155897539671,
+     40.451638187153094
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Balls Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29155897539671,
+     40.451638187153094
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Balls Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34506385154238,
+     40.520114592727566
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Smith Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34506385154238,
+     40.520114592727566
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Smith Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33783312683533,
+     40.5055439
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Knighton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33783312683533,
+     40.5055439
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Knighton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33783312683533,
+     40.5055439
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Knighton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33783312683533,
+     40.5055439
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Knighton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2852509329234,
+     40.385713768309664
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2852509329234,
+     40.385713768309664
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2852509329234,
+     40.385713768309664
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2852509329234,
+     40.385713768309664
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36824287809677,
+     40.62879347894236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36853761261642,
+     40.62843140672227
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36824287809677,
+     40.62879347894236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36853761261642,
+     40.62843140672227
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36824287809677,
+     40.62879347894236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36853761261642,
+     40.62843140672227
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36824287809677,
+     40.62879347894236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36853761261642,
+     40.62843140672227
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34753973348423,
+     40.68307950780532
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Union School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.34753973348423,
+     40.68307950780532
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Union School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33724190474871,
+     40.70587723230692
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33724190474871,
+     40.70587723230692
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2908524471877,
+     41.18205389511448
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Railroad Park Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2908524471877,
+     41.18205389511448
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Railroad Park Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29071372723952,
+     41.181971844420154
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Railroad Park Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29071372723952,
+     41.181971844420154
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Railroad Park Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29737418963057,
+     41.16261887338469
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Soda Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29737418963057,
+     41.16261887338469
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Soda Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29752251047208,
+     41.16259396223009
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Soda Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.29752251047208,
+     41.16259396223009
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Soda Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32016335980492,
+     40.7309643982204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Wonderland Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32016335980492,
+     40.7309643982204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Wonderland Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32016335980492,
+     40.7309643982204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Wonderland Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32016335980492,
+     40.7309643982204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Wonderland Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35810959022764,
+     41.07178173300998
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Sims Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35810959022764,
+     41.07178173300998
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Sims Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35810959022764,
+     41.07178173300998
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Sims Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35810959022764,
+     41.07178173300998
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Sims Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35822334797446,
+     41.071844082136984
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Sims Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35822334797446,
+     41.071844082136984
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Sims Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35822334797446,
+     41.071844082136984
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Sims Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35822334797446,
+     41.071844082136984
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Sims Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31323587430388,
+     40.772828733082186
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Turntable Bay Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.31323587430388,
+     40.772828733082186
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Turntable Bay Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32237374900909,
+     40.78344637959623
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Northwoods Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32237374900909,
+     40.78344637959623
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Northwoods Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32237374900909,
+     40.78344637959623
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Northwoods Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32237374900909,
+     40.78344637959623
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Northwoods Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33870582071776,
+     40.57993110714757
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Victor Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33870582071776,
+     40.57993110714757
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Victor Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33870582071776,
+     40.57993110714757
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Victor Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3647881688464,
+     40.641555550383536
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Oasis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3647881688464,
+     40.641555550383536
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Oasis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3647881688464,
+     40.641555550383536
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Oasis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3647881688464,
+     40.641555550383536
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Oasis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35540542667512,
+     40.663504950691674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Pine Grove Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35540542667512,
+     40.663504950691674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Pine Grove Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35540542667512,
+     40.663504950691674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Pine Grove Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35540542667512,
+     40.663504950691674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Pine Grove Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32526278542375,
+     40.57293587752157
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Shasta View Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32526278542375,
+     40.57293587752157
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Shasta View Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32526278542375,
+     40.57293587752157
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Shasta View Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32526278542375,
+     40.57293587752157
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Shasta View Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30058899304139,
+     40.5610097038497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30058899304139,
+     40.5610097038497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30058899304139,
+     40.5610097038497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.30058899304139,
+     40.5610097038497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Old Oregon Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.37842198824131,
+     40.58669552594279
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Sundial Bridge Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.37842198824131,
+     40.58669552594279
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Sundial Bridge Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.37843890175316,
+     40.5865578578232
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Sundial Bridge Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.37843890175316,
+     40.5865578578232
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Sundial Bridge Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36853761261642,
+     40.62843140672227
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36853761261642,
+     40.62843140672227
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36853761261642,
+     40.62843140672227
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36853761261642,
+     40.62843140672227
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33869881077516,
+     40.5797350100462
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Victor Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33869881077516,
+     40.5797350100462
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Victor Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33869881077516,
+     40.5797350100462
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Victor Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35314891789996,
+     40.584947224565106
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Churn Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35314891789996,
+     40.584947224565106
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Churn Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35314891789996,
+     40.584947224565106
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Churn Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35314891789996,
+     40.584947224565106
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Churn Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36042424539447,
+     40.595495788229776
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hilltop Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36042424539447,
+     40.595495788229776
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hilltop Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36042424539447,
+     40.595495788229776
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hilltop Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36042424539447,
+     40.595495788229776
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hilltop Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36078327325441,
+     40.59548310555909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hilltop Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36078327325441,
+     40.59548310555909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hilltop Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36078327325441,
+     40.59548310555909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hilltop Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36078327325441,
+     40.59548310555909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hilltop Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3710854,
+     40.6254319
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Caterpillar Road",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": 4848569500
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3710854,
+     40.6254319
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Caterpillar Road",
+     "North Market Street;CA 273"
+    ],
+    "nodeId": 4848569500
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3606971646014,
+     40.58546889559279
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36069754373023,
+     40.585309194869964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3606971646014,
+     40.58546889559279
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36069754373023,
+     40.585309194869964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3606971646014,
+     40.58546889559279
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36069754373023,
+     40.585309194869964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3606971646014,
+     40.58546889559279
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36069754373023,
+     40.585309194869964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3603900472682,
+     40.58544641767137
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36038864940559,
+     40.58528915812933
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3603900472682,
+     40.58544641767137
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36038864940559,
+     40.58528915812933
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3603900472682,
+     40.58544641767137
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36038864940559,
+     40.58528915812933
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3603900472682,
+     40.58544641767137
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36038864940559,
+     40.58528915812933
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36666050998619,
+     40.86932194138462
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gregory Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36666050998619,
+     40.86932194138462
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gregory Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36651472241397,
+     40.86939464987894
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gregory Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36651472241397,
+     40.86939464987894
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gregory Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3606971646014,
+     40.58546889559279
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3603900472682,
+     40.58544641767137
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3606971646014,
+     40.58546889559279
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3603900472682,
+     40.58544641767137
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3606971646014,
+     40.58546889559279
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3603900472682,
+     40.58544641767137
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3606971646014,
+     40.58546889559279
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.3603900472682,
+     40.58544641767137
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36038864940559,
+     40.58528915812933
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36038864940559,
+     40.58528915812933
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36038864940559,
+     40.58528915812933
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36038864940559,
+     40.58528915812933
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36069754373023,
+     40.585309194869964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36069754373023,
+     40.585309194869964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36069754373023,
+     40.585309194869964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.36069754373023,
+     40.585309194869964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35793086236514,
+     40.58525690660055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Hilltop Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35793086236514,
+     40.58525690660055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Hilltop Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35793086236514,
+     40.58525690660055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Hilltop Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35793086236514,
+     40.58525690660055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Hilltop Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35329416906093,
+     40.584816864494876
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Churn Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35329416906093,
+     40.584816864494876
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Churn Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35329416906093,
+     40.584816864494876
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Churn Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35329416906093,
+     40.584816864494876
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Churn Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35792223688155,
+     40.585120318325586
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Hilltop Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35792223688155,
+     40.585120318325586
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Hilltop Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35792223688155,
+     40.585120318325586
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Hilltop Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35792223688155,
+     40.585120318325586
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 44",
+     "Hilltop Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28493490845163,
+     40.385714800819436
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28493490845163,
+     40.385714800819436
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28493490845163,
+     40.385714800819436
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28493490845163,
+     40.385714800819436
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28543046370399,
+     40.3893332779455
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gas Point Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28543046370399,
+     40.3893332779455
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gas Point Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28543046370399,
+     40.3893332779455
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gas Point Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28543046370399,
+     40.3893332779455
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gas Point Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28506070573442,
+     40.38933453167715
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gas Point Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28506070573442,
+     40.38933453167715
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gas Point Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28506070573442,
+     40.38933453167715
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gas Point Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28506070573442,
+     40.38933453167715
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Gas Point Road"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

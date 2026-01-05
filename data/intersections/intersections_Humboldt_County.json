@@ -93743,6 +93743,5446 @@
     ],
     "nodeId": 85904053
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1904965,
+     40.7621765
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broadway Street;US 101",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85746063
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1904965,
+     40.7621765
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broadway Street;US 101",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85746063
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.18959168274694,
+     40.75790479073879
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Herrick Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.18959168274694,
+     40.75790479073879
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Herrick Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1904965,
+     40.7621765
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broadway Street;US 101",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85746063
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1904965,
+     40.7621765
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broadway Street;US 101",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85746063
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1291494,
+     40.5142516
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Metropolitan Heights Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85788944
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1291494,
+     40.5142516
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Metropolitan Heights Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85788944
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08286801982645,
+     40.869894232507264
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0822446146751,
+     40.872350774464444
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08286801982645,
+     40.869894232507264
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0822446146751,
+     40.872350774464444
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08286801982645,
+     40.869894232507264
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08286801982645,
+     40.869894232507264
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0822446146751,
+     40.872350774464444
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08286801982645,
+     40.869894232507264
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0822446146751,
+     40.872350774464444
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08286801982645,
+     40.869894232507264
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11609108444992,
+     40.941680886487696
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hiller Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11596511573158,
+     40.95626404985191
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Murray Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11609108444992,
+     40.941680886487696
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hiller Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11596511573158,
+     40.95626404985191
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Murray Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11609108444992,
+     40.941680886487696
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hiller Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11596511573158,
+     40.95626404985191
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Murray Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11609108444992,
+     40.941680886487696
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hiller Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11596511573158,
+     40.95626404985191
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Murray Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11515168548901,
+     40.9343029410474
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11515168548901,
+     40.9343029410474
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11515168548901,
+     40.9343029410474
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11515168548901,
+     40.9343029410474
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.09855781510447,
+     40.92094546698444
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Avenue;US 101 BUS",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.09855781510447,
+     40.92094546698444
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Avenue;US 101 BUS",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08312011798927,
+     40.866538977367846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08282108536963,
+     40.862682109805064
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Samoa Boulevard;CA 255"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08312011798927,
+     40.866538977367846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08282108536963,
+     40.862682109805064
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Samoa Boulevard;CA 255"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08312011798927,
+     40.866538977367846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08282108536963,
+     40.862682109805064
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Samoa Boulevard;CA 255"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08312011798927,
+     40.866538977367846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08282108536963,
+     40.862682109805064
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Samoa Boulevard;CA 255"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14668821974125,
+     41.136187971670964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Patrick's Point Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14668821974125,
+     41.136187971670964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Patrick's Point Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14668821974125,
+     41.136187971670964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Patrick's Point Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14668821974125,
+     41.136187971670964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Patrick's Point Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14659104872436,
+     41.136089536347164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Patrick's Point Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14659104872436,
+     41.136089536347164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Patrick's Point Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14659104872436,
+     41.136089536347164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Patrick's Point Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14659104872436,
+     41.136089536347164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Patrick's Point Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11321772725844,
+     40.9939344442967
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Avenue;US 101 BUS",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11321772725844,
+     40.9939344442967
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Avenue;US 101 BUS",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11321772725844,
+     40.9939344442967
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Avenue;US 101 BUS",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11321772725844,
+     40.9939344442967
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Avenue;US 101 BUS",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11345867784028,
+     40.99402547074882
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Avenue;US 101 BUS",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11345867784028,
+     40.99402547074882
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Avenue;US 101 BUS",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11345867784028,
+     40.99402547074882
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Avenue;US 101 BUS",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11345867784028,
+     40.99402547074882
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Avenue;US 101 BUS",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11582296973732,
+     40.96882314737609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Airport Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11582296973732,
+     40.96882314737609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Airport Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11582296973732,
+     40.96882314737609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Airport Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11582296973732,
+     40.96882314737609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Airport Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11636657722879,
+     40.94168315823278
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hiller Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11623960141213,
+     40.95626732974055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Murray Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11636657722879,
+     40.94168315823278
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hiller Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11623960141213,
+     40.95626732974055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Murray Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11636657722879,
+     40.94168315823278
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hiller Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11623960141213,
+     40.95626732974055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Murray Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11636657722879,
+     40.94168315823278
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hiller Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11623960141213,
+     40.95626732974055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Murray Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11608325092388,
+     40.96882466526829
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Airport Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11608325092388,
+     40.96882466526829
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Airport Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11608325092388,
+     40.96882466526829
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Airport Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.11608325092388,
+     40.96882466526829
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Airport Road",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07350495541543,
+     40.90415551828758
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Giuntoli Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07350495541543,
+     40.90415551828758
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Giuntoli Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07350495541543,
+     40.90415551828758
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Giuntoli Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07350495541543,
+     40.90415551828758
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Giuntoli Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08065935241424,
+     40.89179003093023
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "West End Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08065935241424,
+     40.89179003093023
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "West End Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08065935241424,
+     40.89179003093023
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "West End Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08065935241424,
+     40.89179003093023
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "West End Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0805350441079,
+     40.89193957475741
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "West End Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0805350441079,
+     40.89193957475741
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "West End Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0805350441079,
+     40.89193957475741
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "West End Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0805350441079,
+     40.89193957475741
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "West End Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07993245341171,
+     40.88629250475541
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Saint Louis Overpass"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07993245341171,
+     40.88629250475541
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Saint Louis Overpass"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07993245341171,
+     40.88629250475541
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Saint Louis Overpass"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07993245341171,
+     40.88629250475541
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Saint Louis Overpass"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07993245341171,
+     40.88629250475541
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Saint Louis Overpass"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07993245341171,
+     40.88629250475541
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Saint Louis Overpass"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.082179,
+     40.8350364
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayside Cutoff",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85782417
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.082179,
+     40.8350364
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayside Cutoff",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85782417
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.082179,
+     40.8350364
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayside Cutoff",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85782417
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.082179,
+     40.8350364
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayside Cutoff",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85782417
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1904965,
+     40.7621765
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broadway Street;US 101",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85746063
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1904965,
+     40.7621765
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broadway Street;US 101",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85746063
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.18938879084409,
+     40.757918908661
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Herrick Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.18938879084409,
+     40.757918908661
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Herrick Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1904965,
+     40.7621765
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broadway Street;US 101",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85746063
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1904965,
+     40.7621765
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broadway Street;US 101",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85746063
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.21029721664684,
+     40.736076046760196
+    ]
+   },
+   "properties": {
+    "streets": [
+     "King Salmon Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.21029721664684,
+     40.736076046760196
+    ]
+   },
+   "properties": {
+    "streets": [
+     "King Salmon Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.21029721664684,
+     40.736076046760196
+    ]
+   },
+   "properties": {
+    "streets": [
+     "King Salmon Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.21029721664684,
+     40.736076046760196
+    ]
+   },
+   "properties": {
+    "streets": [
+     "King Salmon Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.21046367133795,
+     40.736235943198935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "King Salmon Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.21046367133795,
+     40.736235943198935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "King Salmon Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.21046367133795,
+     40.736235943198935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "King Salmon Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.21046367133795,
+     40.736235943198935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "King Salmon Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.21505716666753,
+     40.72480114126952
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orchard Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.21505716666753,
+     40.72480114126952
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orchard Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.21505716666753,
+     40.72480114126952
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orchard Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.21505716666753,
+     40.72480114126952
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orchard Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.21017329122161,
+     40.62104020586766
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Singley Road;CA 211"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.21017329122161,
+     40.62104020586766
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Singley Road;CA 211"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.21017329122161,
+     40.62104020586766
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Singley Road;CA 211"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.21017329122161,
+     40.62104020586766
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Singley Road;CA 211"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.2102134155664,
+     40.621183041357675
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Singley Road;CA 211"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.2102134155664,
+     40.621183041357675
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Singley Road;CA 211"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.2102134155664,
+     40.621183041357675
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Singley Road;CA 211"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.2102134155664,
+     40.621183041357675
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Singley Road;CA 211"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.19116704146721,
+     40.61238719552206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fernbridge Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.19116704146721,
+     40.61238719552206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fernbridge Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.19116704146721,
+     40.61238719552206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fernbridge Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.19116704146721,
+     40.61238719552206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fernbridge Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1913391277735,
+     40.612347173878646
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fernbridge Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1913391277735,
+     40.612347173878646
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fernbridge Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1913391277735,
+     40.612347173878646
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fernbridge Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1913391277735,
+     40.612347173878646
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fernbridge Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.17814940744286,
+     40.60497421176158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Palmer Boulevard",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.17814940744286,
+     40.60497421176158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Palmer Boulevard",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.17814940744286,
+     40.60497421176158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Palmer Boulevard",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.17814940744286,
+     40.60497421176158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Palmer Boulevard",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.17823079212135,
+     40.60486782323391
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Palmer Boulevard",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.17823079212135,
+     40.60486782323391
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Palmer Boulevard",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.17823079212135,
+     40.60486782323391
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Palmer Boulevard",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.17823079212135,
+     40.60486782323391
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Palmer Boulevard",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.15538813683736,
+     40.58788975158834
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.15538813683736,
+     40.58788975158834
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14911308222361,
+     40.57479943100564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kenmar Road;US 101 Business",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14911308222361,
+     40.57479943100564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kenmar Road;US 101 Business",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14911308222361,
+     40.57479943100564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kenmar Road;US 101 Business",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14911308222361,
+     40.57479943100564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kenmar Road;US 101 Business",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14896983537291,
+     40.57488805410628
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kenmar Road;US 101 Business",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14896983537291,
+     40.57488805410628
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kenmar Road;US 101 Business",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14896983537291,
+     40.57488805410628
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kenmar Road;US 101 Business",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14896983537291,
+     40.57488805410628
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kenmar Road;US 101 Business",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.15530405544948,
+     40.58803535103705
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.15530405544948,
+     40.58803535103705
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10952750899163,
+     40.50570384858914
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Scenic Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10952750899163,
+     40.50570384858914
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Scenic Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10952750899163,
+     40.50570384858914
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Scenic Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10952750899163,
+     40.50570384858914
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Scenic Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1094484414409,
+     40.5054868038777
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Scenic Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1094484414409,
+     40.5054868038777
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Scenic Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1094484414409,
+     40.5054868038777
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Scenic Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1094484414409,
+     40.5054868038777
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Scenic Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10071681227748,
+     40.5030596713877
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Painter Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10071681227748,
+     40.5030596713877
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Painter Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0989422595634,
+     40.499210168002335
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Davis Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10071681227748,
+     40.5030596713877
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Painter Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0989422595634,
+     40.499210168002335
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Davis Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10071681227748,
+     40.5030596713877
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Painter Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.09796319383014,
+     40.49386830786724
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Edwards Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.09796319383014,
+     40.49386830786724
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Edwards Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.09778099774364,
+     40.49397209804795
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Edwards Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.09778099774364,
+     40.49397209804795
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Edwards Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.09847587312365,
+     40.48830488214067
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 283",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.09847587312365,
+     40.48830488214067
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 283",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.09829144793001,
+     40.48826985018948
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 283",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.09829144793001,
+     40.48826985018948
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 283",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.05994559692058,
+     40.4541867
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Stafford Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.05994559692058,
+     40.4541867
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Stafford Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.05994695506124,
+     40.4540626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.05994695506124,
+     40.4540626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.05994695506124,
+     40.4540626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.05994695506124,
+     40.4540626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.03206897454197,
+     40.43982627537726
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jordan Road;CA 254",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.03206897454197,
+     40.43982627537726
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jordan Road;CA 254",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.03206897454197,
+     40.43982627537726
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jordan Road;CA 254",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.03206897454197,
+     40.43982627537726
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jordan Road;CA 254",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0320746680157,
+     40.43994774273808
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue of the Giants;CA 254",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0320746680157,
+     40.43994774273808
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue of the Giants;CA 254",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0320746680157,
+     40.43994774273808
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue of the Giants;CA 254",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0320746680157,
+     40.43994774273808
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue of the Giants;CA 254",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.79671916047302,
+     40.0987212133361
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Sprowel Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.79403506573543,
+     40.107740724137955
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alderpoint Road;CR F6B165",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.79671916047302,
+     40.0987212133361
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Sprowel Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.79561473131143,
+     40.10393960635212
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.79403506573543,
+     40.107740724137955
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alderpoint Road;CR F6B165",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.79561473131143,
+     40.10393960635212
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.2149134342323,
+     40.724852882434504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orchard Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.2149134342323,
+     40.724852882434504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orchard Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.2149134342323,
+     40.724852882434504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orchard Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.2149134342323,
+     40.724852882434504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orchard Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02763710888141,
+     40.9035626113483
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Fieldbrook Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02763710888141,
+     40.9035626113483
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Fieldbrook Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02763710888141,
+     40.9035626113483
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Fieldbrook Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02763710888141,
+     40.9035626113483
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Fieldbrook Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02775745771395,
+     40.90347014354179
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Fieldbrook Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02775745771395,
+     40.90347014354179
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Fieldbrook Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02775745771395,
+     40.90347014354179
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Fieldbrook Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02775745771395,
+     40.90347014354179
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Fieldbrook Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.03733879587286,
+     40.906838216556864
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Essex Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.03733879587286,
+     40.906838216556864
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Essex Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.03733879587286,
+     40.906838216556864
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Essex Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.03733879587286,
+     40.906838216556864
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Essex Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.03732677986787,
+     40.90696602168922
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Essex Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.03732677986787,
+     40.90696602168922
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Essex Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.03732677986787,
+     40.90696602168922
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Essex Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.03732677986787,
+     40.90696602168922
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Essex Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.04553935863345,
+     40.9081842614645
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Essex Gulch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.04553935863345,
+     40.9081842614645
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Essex Gulch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02429486955,
+     40.90055299551558
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Glendale Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02429486955,
+     40.90055299551558
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Glendale Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02429486955,
+     40.90055299551558
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Glendale Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02429486955,
+     40.90055299551558
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Glendale Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0244571080089,
+     40.90050252034358
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Glendale Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0244571080089,
+     40.90050252034358
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Glendale Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0244571080089,
+     40.90050252034358
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Glendale Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0244571080089,
+     40.90050252034358
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Glendale Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02072354723369,
+     40.898247487971446
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Glendale Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02072354723369,
+     40.898247487971446
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Glendale Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02072354723369,
+     40.898247487971446
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Glendale Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02072354723369,
+     40.898247487971446
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Glendale Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02074897746436,
+     40.89810476375417
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Glendale Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02074897746436,
+     40.89810476375417
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Glendale Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02074897746436,
+     40.89810476375417
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Glendale Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.02074897746436,
+     40.89810476375417
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Glendale Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.79685533791702,
+     40.098657981498796
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Sprowel Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.79418173305994,
+     40.107843144560114
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alderpoint Road;CR F6B165",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.79685533791702,
+     40.098657981498796
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Sprowel Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.79572635386904,
+     40.104063144922584
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.79418173305994,
+     40.107843144560114
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alderpoint Road;CR F6B165",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.79572635386904,
+     40.104063144922584
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10803634183382,
+     41.01352790130104
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clam Beach Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10803634183382,
+     41.01352790130104
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clam Beach Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10803634183382,
+     41.01352790130104
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clam Beach Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10803634183382,
+     41.01352790130104
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clam Beach Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10785387469043,
+     41.01348854087863
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clam Beach Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10785387469043,
+     41.01348854087863
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clam Beach Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10785387469043,
+     41.01348854087863
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clam Beach Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10785387469043,
+     41.01348854087863
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clam Beach Drive",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14527158835627,
+     40.5486229333801
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 36",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14527158835627,
+     40.5486229333801
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 36",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14527158835627,
+     40.5486229333801
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 36",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14527158835627,
+     40.5486229333801
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 36",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1454356472222,
+     40.54862673005646
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 36",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1454356472222,
+     40.54862673005646
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 36",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1454356472222,
+     40.54862673005646
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 36",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1454356472222,
+     40.54862673005646
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 36",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0818006,
+     40.8350338
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayside Cutoff",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85791426
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0818006,
+     40.8350338
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayside Cutoff",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85791426
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0818006,
+     40.8350338
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayside Cutoff",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85791426
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0818006,
+     40.8350338
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayside Cutoff",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85791426
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0818006,
+     40.8350338
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayside Cutoff",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85791426
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0818006,
+     40.8350338
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayside Cutoff",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85791426
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0818006,
+     40.8350338
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayside Cutoff",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85791426
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0818006,
+     40.8350338
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayside Cutoff",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": 85791426
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1148620124136,
+     40.934301107673505
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1148620124136,
+     40.934301107673505
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1148620124136,
+     40.934301107673505
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1148620124136,
+     40.934301107673505
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0986360392045,
+     40.921112714263785
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Avenue;US 101 BUS",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0986360392045,
+     40.921112714263785
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Avenue;US 101 BUS",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.04563319227162,
+     40.908051606549876
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Essex Gulch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.04563319227162,
+     40.908051606549876
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Essex Gulch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07365450579192,
+     40.9042279636335
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Giuntoli Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07365450579192,
+     40.9042279636335
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Giuntoli Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07365450579192,
+     40.9042279636335
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Giuntoli Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07365450579192,
+     40.9042279636335
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 299",
+     "Giuntoli Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.2093848711275,
+     40.64183785373949
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Singley Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.2093848711275,
+     40.64183785373949
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Singley Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.20919708735839,
+     40.64183043785755
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Singley Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.20919708735839,
+     40.64183043785755
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Singley Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08313113693285,
+     40.86995049963476
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0824144022259,
+     40.87872683037441
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Sunset Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08252975747295,
+     40.87240726786307
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08313113693285,
+     40.86995049963476
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0824144022259,
+     40.87872683037441
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Sunset Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08252975747295,
+     40.87240726786307
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08313113693285,
+     40.86995049963476
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08313113693285,
+     40.86995049963476
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0824144022259,
+     40.87872683037441
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Sunset Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08252975747295,
+     40.87240726786307
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08313113693285,
+     40.86995049963476
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0824144022259,
+     40.87872683037441
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Sunset Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08252975747295,
+     40.87240726786307
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08313113693285,
+     40.86995049963476
+    ]
+   },
+   "properties": {
+    "streets": [
+     "11th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08295898664088,
+     40.866504492037414
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0826525509625,
+     40.862644336863355
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Samoa Boulevard;CA 255"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08295898664088,
+     40.866504492037414
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0826525509625,
+     40.862644336863355
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Samoa Boulevard;CA 255"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08295898664088,
+     40.866504492037414
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0826525509625,
+     40.862644336863355
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Samoa Boulevard;CA 255"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08295898664088,
+     40.866504492037414
+    ]
+   },
+   "properties": {
+    "streets": [
+     "7th Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0826525509625,
+     40.862644336863355
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Samoa Boulevard;CA 255"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10105205400795,
+     40.503061330486894
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Painter Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10105205400795,
+     40.503061330486894
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Painter Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10105205400795,
+     40.503061330486894
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Painter Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.10105205400795,
+     40.503061330486894
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Painter Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.09919775194835,
+     40.49921028970401
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Davis Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.09919775194835,
+     40.49921028970401
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Davis Street",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0869683684984,
+     40.904444790153434
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Giuntoli Lane",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0869683684984,
+     40.904444790153434
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Giuntoli Lane",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0869683684984,
+     40.904444790153434
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Giuntoli Lane",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.0869683684984,
+     40.904444790153434
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Giuntoli Lane",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08681554846038,
+     40.90448043173004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Giuntoli Lane",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08681554846038,
+     40.90448043173004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Giuntoli Lane",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08681554846038,
+     40.90448043173004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Giuntoli Lane",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08681554846038,
+     40.90448043173004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Giuntoli Lane",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08216495153938,
+     40.87871182904447
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Sunset Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08216495153938,
+     40.87871182904447
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Sunset Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07971631278168,
+     40.88623980069958
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Saint Louis Overpass"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07971631278168,
+     40.88623980069958
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Saint Louis Overpass"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08216495153938,
+     40.87871182904447
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Sunset Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.08216495153938,
+     40.87871182904447
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Sunset Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07971631278168,
+     40.88623980069958
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Saint Louis Overpass"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07971631278168,
+     40.88623980069958
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Saint Louis Overpass"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07971631278168,
+     40.88623980069958
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Saint Louis Overpass"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.07971631278168,
+     40.88623980069958
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Redwood Highway;US 101",
+     "Saint Louis Overpass"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

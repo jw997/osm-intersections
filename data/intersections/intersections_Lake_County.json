@@ -61427,6 +61427,788 @@
     ],
     "nodeId": 9380200589
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92384559049992,
+     39.03332959459913
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Lakeport Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92384559049992,
+     39.03332959459913
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Lakeport Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92384559049992,
+     39.03332959459913
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Lakeport Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92384559049992,
+     39.03332959459913
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Lakeport Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92622318410037,
+     39.08429289520251
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Park Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92622318410037,
+     39.08429289520251
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Park Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92622318410037,
+     39.08429289520251
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Park Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92622318410037,
+     39.08429289520251
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Park Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.91237216933705,
+     39.102719721300915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Hill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.91237216933705,
+     39.102719721300915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Hill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.91237216933705,
+     39.102719721300915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Hill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.91237216933705,
+     39.102719721300915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Hill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.90862992559855,
+     39.11187696915207
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Whalen Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.90862992559855,
+     39.11187696915207
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Whalen Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.93163127998011,
+     39.050039148947754
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Scotts Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.93163127998011,
+     39.050039148947754
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Scotts Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.93163127998011,
+     39.050039148947754
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Scotts Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.93141139554336,
+     39.050026059303846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Scotts Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.93141139554336,
+     39.050026059303846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Scotts Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.93141139554336,
+     39.050026059303846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Scotts Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92608244959567,
+     39.08419030683417
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Park Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92608244959567,
+     39.08419030683417
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Park Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92608244959567,
+     39.08419030683417
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Park Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92608244959567,
+     39.08419030683417
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Park Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.93000701430135,
+     39.04043367035056
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Martin Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.93000701430135,
+     39.04043367035056
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Martin Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.93000701430135,
+     39.04043367035056
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Martin Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.93000701430135,
+     39.04043367035056
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Martin Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92971776162562,
+     39.040428410785985
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Martin Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92971776162562,
+     39.040428410785985
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Martin Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92971776162562,
+     39.040428410785985
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Martin Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92971776162562,
+     39.040428410785985
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Martin Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92398710694401,
+     39.033206242773694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Lakeport Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92398710694401,
+     39.033206242773694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Lakeport Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92398710694401,
+     39.033206242773694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Lakeport Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.92398710694401,
+     39.033206242773694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Lakeport Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.90505163165251,
+     39.11840537754361
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Nice-Lucerne Cutoff Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.90505163165251,
+     39.11840537754361
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Nice-Lucerne Cutoff Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.90882014711418,
+     39.111938045873785
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Whalen Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.90882014711418,
+     39.111938045873785
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Whalen Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.90527082586307,
+     39.11841969965522
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Nice-Lucerne Cutoff Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.90527082586307,
+     39.11841969965522
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Nice-Lucerne Cutoff Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.91259323960695,
+     39.10270198543608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Hill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.91259323960695,
+     39.10270198543608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Hill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.91259323960695,
+     39.10270198543608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Hill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.91259323960695,
+     39.10270198543608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Hill Road"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

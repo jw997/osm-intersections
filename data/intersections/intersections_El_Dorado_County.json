@@ -136917,6 +136917,3406 @@
     ],
     "nodeId": 87396456
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.02980448557939,
+     38.655439824167765
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bass Lake Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.02980448557939,
+     38.655439824167765
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bass Lake Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.02980448557939,
+     38.655439824167765
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bass Lake Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.02980448557939,
+     38.655439824167765
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bass Lake Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0298118523482,
+     38.65524900074453
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marble Valley Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0298118523482,
+     38.65524900074453
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marble Valley Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0298118523482,
+     38.65524900074453
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marble Valley Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0298118523482,
+     38.65524900074453
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Marble Valley Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96913170671105,
+     38.65960774383483
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cameron Park Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96900932130318,
+     38.65960857429626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cameron Park Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96913170671105,
+     38.65960774383483
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cameron Park Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96900932130318,
+     38.65960857429626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cameron Park Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96913170671105,
+     38.65960774383483
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cameron Park Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96900932130318,
+     38.65960857429626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cameron Park Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96913170671105,
+     38.65960774383483
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cameron Park Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96900932130318,
+     38.65960857429626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cameron Park Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96900149951718,
+     38.659345167579254
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cameron Park Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96912431561573,
+     38.65934482196611
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cameron Park Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96900149951718,
+     38.659345167579254
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cameron Park Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96912431561573,
+     38.65934482196611
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cameron Park Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96900149951718,
+     38.659345167579254
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cameron Park Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96912431561573,
+     38.65934482196611
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cameron Park Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96900149951718,
+     38.659345167579254
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cameron Park Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96912431561573,
+     38.65934482196611
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cameron Park Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.93755049744071,
+     38.66245876659975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "South Shingle Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.93755049744071,
+     38.66245876659975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "South Shingle Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91502526830466,
+     38.68045636412882
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Shingle Springs Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91502526830466,
+     38.68045636412882
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Shingle Springs Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91502526830466,
+     38.68045636412882
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Shingle Springs Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91502526830466,
+     38.68045636412882
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Shingle Springs Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.93767378202382,
+     38.66270661825662
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "South Shingle Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.93767378202382,
+     38.66270661825662
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "South Shingle Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91495657709024,
+     38.68009432421187
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Shingle Springs Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91495657709024,
+     38.68009432421187
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Shingle Springs Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91495657709024,
+     38.68009432421187
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Shingle Springs Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91495657709024,
+     38.68009432421187
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Shingle Springs Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91495657709024,
+     38.68009432421187
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Shingle Springs Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91495657709024,
+     38.68009432421187
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Shingle Springs Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.88775960824,
+     38.6957820719625
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenstone Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.88775960824,
+     38.6957820719625
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenstone Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.88775960824,
+     38.6957820719625
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenstone Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.88775960824,
+     38.6957820719625
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenstone Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8335211248446,
+     38.72126293923962
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Placerville Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8335211248446,
+     38.72126293923962
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Placerville Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8335211248446,
+     38.72126293923962
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Placerville Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.82423926422665,
+     38.727836913150504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ray Lawyer Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8335211248446,
+     38.72126293923962
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Placerville Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.82423926422665,
+     38.727836913150504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ray Lawyer Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.82423926422665,
+     38.727836913150504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ray Lawyer Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.82423926422665,
+     38.727836913150504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ray Lawyer Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.88784129467177,
+     38.69603091781805
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenstone Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.88784129467177,
+     38.69603091781805
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenstone Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.88784129467177,
+     38.69603091781805
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenstone Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.88784129467177,
+     38.69603091781805
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenstone Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8164004570332,
+     38.73020802707006
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Placerville Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8164004570332,
+     38.73020802707006
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Placerville Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.81656834450322,
+     38.73035634338839
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Placerville Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.81656834450322,
+     38.73035634338839
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Placerville Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.85656562922716,
+     38.70486610307847
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.85656562922716,
+     38.70486610307847
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.85656562922716,
+     38.70486610307847
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.85656562922716,
+     38.70486610307847
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07075925332882,
+     38.652960305065974
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Latrobe Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07055038696099,
+     38.65303374352637
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Hills Boulevard",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07075925332882,
+     38.652960305065974
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Latrobe Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07055038696099,
+     38.65303374352637
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Hills Boulevard",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07075925332882,
+     38.652960305065974
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Latrobe Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07055038696099,
+     38.65303374352637
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Hills Boulevard",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07075925332882,
+     38.652960305065974
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Latrobe Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07055038696099,
+     38.65303374352637
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Hills Boulevard",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07046605791163,
+     38.65288322915463
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Hills Boulevard",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07068090939242,
+     38.65281034073997
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Latrobe Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07046605791163,
+     38.65288322915463
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Hills Boulevard",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07068090939242,
+     38.65281034073997
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Latrobe Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07046605791163,
+     38.65288322915463
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Hills Boulevard",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07068090939242,
+     38.65281034073997
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Latrobe Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07046605791163,
+     38.65288322915463
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Hills Boulevard",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07068090939242,
+     38.65281034073997
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Latrobe Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05703467497288,
+     38.65735086455224
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clarksville Crossing",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05703467497288,
+     38.65735086455224
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clarksville Crossing",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05703467497288,
+     38.65735086455224
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clarksville Crossing",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05703467497288,
+     38.65735086455224
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clarksville Crossing",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05440832212123,
+     38.65793314281569
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "White Rock Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05422909574254,
+     38.65795761185431
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Silva Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05440832212123,
+     38.65793314281569
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "White Rock Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05422909574254,
+     38.65795761185431
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Silva Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05440832212123,
+     38.65793314281569
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "White Rock Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05422909574254,
+     38.65795761185431
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Silva Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05440832212123,
+     38.65793314281569
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "White Rock Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05422909574254,
+     38.65795761185431
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Silva Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05712242146724,
+     38.657508238659574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clarksville Crossing",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05712242146724,
+     38.657508238659574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clarksville Crossing",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05712242146724,
+     38.657508238659574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clarksville Crossing",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05712242146724,
+     38.657508238659574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Clarksville Crossing",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.79411628788102,
+     38.73068131874637
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Locust Avenue",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.79411628788102,
+     38.73068131874637
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Locust Avenue",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.79415620587443,
+     38.730764032070795
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Locust Avenue",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.79415620587443,
+     38.730764032070795
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Locust Avenue",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7860448004932,
+     38.73163596385255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carson Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7860448004932,
+     38.73163596385255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carson Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.79020564141865,
+     38.73167726891561
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mosquito Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.79020564141865,
+     38.73167726891561
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mosquito Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.79017878012995,
+     38.73178286230996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mosquito Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.79017878012995,
+     38.73178286230996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mosquito Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77944924022852,
+     38.73297295681701
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Schnell School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77944924022852,
+     38.73297295681701
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Schnell School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77944924022852,
+     38.73297295681701
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Schnell School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77944924022852,
+     38.73297295681701
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Schnell School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77945188417642,
+     38.73309382265149
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Schnell School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77945188417642,
+     38.73309382265149
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Schnell School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77945188417642,
+     38.73309382265149
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Schnell School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77945188417642,
+     38.73309382265149
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Schnell School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77090718158156,
+     38.73332648322488
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Smith Flat Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77090718158156,
+     38.73332648322488
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Smith Flat Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77090718158156,
+     38.73332648322488
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Smith Flat Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77090718158156,
+     38.73332648322488
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Smith Flat Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.57578126174181,
+     38.761290763160225
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Sly Park Road;E16"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.57578126174181,
+     38.761290763160225
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Sly Park Road;E16"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.57578126174181,
+     38.761290763160225
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Sly Park Road;E16"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.57578126174181,
+     38.761290763160225
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Sly Park Road;E16"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5758331225569,
+     38.7614207276125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Sly Park Road;E16"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5758331225569,
+     38.7614207276125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Sly Park Road;E16"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5758331225569,
+     38.7614207276125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Sly Park Road;E16"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5758331225569,
+     38.7614207276125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Sly Park Road;E16"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61744786254424,
+     38.748517425551626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ridgeway Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61744786254424,
+     38.748517425551626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ridgeway Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61744786254424,
+     38.748517425551626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ridgeway Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61744786254424,
+     38.748517425551626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ridgeway Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61738301862984,
+     38.74838708310115
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ridgeway Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61738301862984,
+     38.74838708310115
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ridgeway Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61738301862984,
+     38.74838708310115
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ridgeway Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61738301862984,
+     38.74838708310115
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ridgeway Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.66517272147979,
+     38.737764416256994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carson Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.66517272147979,
+     38.737764416256994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carson Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.66517272147979,
+     38.737764416256994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carson Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.66517272147979,
+     38.737764416256994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carson Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.66527061758329,
+     38.73782316862925
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carson Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.66527061758329,
+     38.73782316862925
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carson Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.66527061758329,
+     38.73782316862925
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carson Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.66527061758329,
+     38.73782316862925
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carson Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.75999969827595,
+     38.73140285891495
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Point View Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.75999969827595,
+     38.73140285891495
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Point View Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.75999969827595,
+     38.73140285891495
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Point View Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.75999969827595,
+     38.73140285891495
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Point View Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7599644202365,
+     38.731302395996266
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Point View Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7599644202365,
+     38.731302395996266
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Point View Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7599644202365,
+     38.731302395996266
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Point View Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7599644202365,
+     38.731302395996266
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Point View Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77078109899055,
+     38.73339504272397
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Smith Flat Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77078109899055,
+     38.73339504272397
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Smith Flat Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77078109899055,
+     38.73339504272397
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Smith Flat Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77078109899055,
+     38.73339504272397
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Smith Flat Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.75223065904761,
+     38.73149811038026
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 145;145",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.75223065904761,
+     38.73149811038026
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 145;145",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.75223065904761,
+     38.73149811038026
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 145;145",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.75223065904761,
+     38.73149811038026
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 145;145",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7523095671176,
+     38.73140756967096
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 145;145",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7523095671176,
+     38.73140756967096
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 145;145",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7523095671176,
+     38.73140756967096
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 145;145",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7523095671176,
+     38.73140756967096
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 145;145",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.83357271212196,
+     38.7213775193907
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Placerville Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.83357271212196,
+     38.7213775193907
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Placerville Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.83357271212196,
+     38.7213775193907
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Placerville Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.82432558510395,
+     38.727925706437034
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ray Lawyer Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.83357271212196,
+     38.7213775193907
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Placerville Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.82432558510395,
+     38.727925706437034
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ray Lawyer Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.82432558510395,
+     38.727925706437034
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ray Lawyer Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.82432558510395,
+     38.727925706437034
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ray Lawyer Drive",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8565051923011,
+     38.70458446507825
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8565051923011,
+     38.70458446507825
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8565051923011,
+     38.70458446507825
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8565051923011,
+     38.70458446507825
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Dorado Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.83913172940316,
+     38.71131524087932
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Missouri Flat Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8392294514721,
+     38.71120275311317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Missouri Flat Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.83913172940316,
+     38.71131524087932
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Missouri Flat Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8392294514721,
+     38.71120275311317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Missouri Flat Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.99828092811025,
+     38.65650470581222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.99828092811025,
+     38.65650470581222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.99828092811025,
+     38.65650470581222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.99828092811025,
+     38.65650470581222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05448186788543,
+     38.65815062022138
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "White Rock Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0543069229384,
+     38.658178551539905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Silva Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05448186788543,
+     38.65815062022138
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "White Rock Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0543069229384,
+     38.658178551539905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Silva Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05448186788543,
+     38.65815062022138
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "White Rock Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0543069229384,
+     38.658178551539905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Silva Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05448186788543,
+     38.65815062022138
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "White Rock Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0543069229384,
+     38.658178551539905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 50;US 50",
+     "Silva Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.99834061470932,
+     38.65673824612921
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.99834061470932,
+     38.65673824612921
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.99834061470932,
+     38.65673824612921
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.99834061470932,
+     38.65673824612921
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cambridge Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.78606050909129,
+     38.73174072471443
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carson Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.78606050909129,
+     38.73174072471443
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carson Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.78606050909129,
+     38.73174072471443
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carson Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.78606050909129,
+     38.73174072471443
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Carson Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.83935631944125,
+     38.71145187330575
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Missouri Flat Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.83945581191526,
+     38.71134222493837
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Missouri Flat Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.83935631944125,
+     38.71145187330575
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Missouri Flat Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.83945581191526,
+     38.71134222493837
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Missouri Flat Road",
+     "Route 50;US 50"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

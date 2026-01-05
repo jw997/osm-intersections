@@ -20159,6 +20159,1978 @@
     ],
     "nodeId": 9382307254
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.18179878064184,
+     39.24717085095745
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fairview Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.18179878064184,
+     39.24717085095745
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fairview Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.18232230569907,
+     39.276302372028525
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Maxwell Colusa Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.18232230569907,
+     39.276302372028525
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Maxwell Colusa Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.00001039595726,
+     38.9255068794229
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westside Freeway;I 5",
+     "Yolo County Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.00001039595726,
+     38.9255068794229
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westside Freeway;I 5",
+     "Yolo County Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.00001039595726,
+     38.9255068794229
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westside Freeway;I 5",
+     "Yolo County Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.00001039595726,
+     38.9255068794229
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westside Freeway;I 5",
+     "Yolo County Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.00001039595726,
+     38.9255068794229
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westside Freeway;I 5",
+     "Yolo County Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.00001039595726,
+     38.9255068794229
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westside Freeway;I 5",
+     "Yolo County Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.02562821663425,
+     38.965910021099866
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenbay Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.02562821663425,
+     38.965910021099866
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenbay Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.01844233775446,
+     38.954959018412545
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Harrington Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.01844233775446,
+     38.954959018412545
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Harrington Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.02562821663425,
+     38.965910021099866
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenbay Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.02562821663425,
+     38.965910021099866
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenbay Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.00038492803502,
+     38.92550790262276
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westside Freeway;I 5",
+     "Yolo County Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.00038492803502,
+     38.92550790262276
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westside Freeway;I 5",
+     "Yolo County Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.02599840462622,
+     38.96590964527449
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenbay Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.02599840462622,
+     38.96590964527449
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenbay Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.01880055089498,
+     38.9549650944329
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Harrington Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.01880055089498,
+     38.9549650944329
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Harrington Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.02599840462622,
+     38.96590964527449
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenbay Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.02599840462622,
+     38.96590964527449
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Greenbay Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.05544209655298,
+     39.01321885373549
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hillgate Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.05544209655298,
+     39.01321885373549
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hillgate Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.05544209655298,
+     39.01321885373549
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hillgate Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.05544209655298,
+     39.01321885373549
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hillgate Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.05532049152315,
+     39.013266844027406
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hillgate Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.05532049152315,
+     39.013266844027406
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hillgate Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.05532049152315,
+     39.013266844027406
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hillgate Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.05532049152315,
+     39.013266844027406
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hillgate Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.05862265423315,
+     39.016959329932526
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hall Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.05862265423315,
+     39.016959329932526
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hall Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0587507796059,
+     39.016907714828136
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hall Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0587507796059,
+     39.016907714828136
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hall Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06253453313974,
+     39.02429213110285
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Salt Creek Drive;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06253453313974,
+     39.02429213110285
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Salt Creek Drive;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06285996401667,
+     39.02424045825487
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Salt Creek Drive;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06285996401667,
+     39.02424045825487
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Salt Creek Drive;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.08589157511713,
+     39.05690408402206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hahn Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.08589157511713,
+     39.05690408402206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hahn Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13278390844722,
+     39.12909251374671
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Husted Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13278390844722,
+     39.12909251374671
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Husted Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13278390844722,
+     39.12909251374671
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Husted Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13278390844722,
+     39.12909251374671
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Husted Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11474633167288,
+     39.10106438549935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meyers Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11474633167288,
+     39.10106438549935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meyers Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11474633167288,
+     39.10106438549935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meyers Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11474633167288,
+     39.10106438549935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meyers Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0862557717559,
+     39.05690701996425
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hahn Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0862557717559,
+     39.05690701996425
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hahn Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14984063468026,
+     39.16673921973979
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 20",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14984063468026,
+     39.16673921973979
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 20",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14393818740513,
+     39.156913302100335
+    ]
+   },
+   "properties": {
+    "streets": [
+     "E Street;CA 20 Business",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14393818740513,
+     39.156913302100335
+    ]
+   },
+   "properties": {
+    "streets": [
+     "E Street;CA 20 Business",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14984063468026,
+     39.16673921973979
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 20",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14984063468026,
+     39.16673921973979
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 20",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14393818740513,
+     39.156913302100335
+    ]
+   },
+   "properties": {
+    "streets": [
+     "E Street;CA 20 Business",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14393818740513,
+     39.156913302100335
+    ]
+   },
+   "properties": {
+    "streets": [
+     "E Street;CA 20 Business",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13612254046465,
+     39.13781293377874
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Frontage Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13612254046465,
+     39.13781293377874
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Frontage Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13612254046465,
+     39.13781293377874
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Frontage Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13612254046465,
+     39.13781293377874
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Frontage Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13278787736895,
+     39.128645181098854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Husted Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13278787736895,
+     39.128645181098854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Husted Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13278787736895,
+     39.128645181098854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Husted Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13278787736895,
+     39.128645181098854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Husted Road;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11515109524375,
+     39.10106780122569
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meyers Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11515109524375,
+     39.10106780122569
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meyers Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11515109524375,
+     39.10106780122569
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meyers Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11515109524375,
+     39.10106780122569
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meyers Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13642622261646,
+     39.13829702239309
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gail Avenue;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13642622261646,
+     39.13829702239309
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gail Avenue;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13642622261646,
+     39.13829702239309
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gail Avenue;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13642622261646,
+     39.13829702239309
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gail Avenue;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15474048912739,
+     39.1742920655764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Freshwater Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15474048912739,
+     39.1742920655764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Freshwater Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15010511316316,
+     39.16662509463024
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 20",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15010511316316,
+     39.16662509463024
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 20",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14421127010559,
+     39.15680254182414
+    ]
+   },
+   "properties": {
+    "streets": [
+     "E Street;CA 20 Business",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14421127010559,
+     39.15680254182414
+    ]
+   },
+   "properties": {
+    "streets": [
+     "E Street;CA 20 Business",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15010511316316,
+     39.16662509463024
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 20",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15010511316316,
+     39.16662509463024
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 20",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14421127010559,
+     39.15680254182414
+    ]
+   },
+   "properties": {
+    "streets": [
+     "E Street;CA 20 Business",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14421127010559,
+     39.15680254182414
+    ]
+   },
+   "properties": {
+    "streets": [
+     "E Street;CA 20 Business",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15514684504373,
+     39.17429419400397
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Freshwater Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15514684504373,
+     39.17429419400397
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Freshwater Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.18216483233428,
+     39.24717158014409
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fairview Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.18216483233428,
+     39.24717158014409
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Fairview Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.18265134492731,
+     39.27630146089173
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Maxwell Colusa Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.18265134492731,
+     39.27630146089173
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Maxwell Colusa Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19175471527075,
+     39.312747631455764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old Highway 99W;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19175471527075,
+     39.312747631455764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old Highway 99W;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19175471527075,
+     39.312747631455764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old Highway 99W;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19175471527075,
+     39.312747631455764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old Highway 99W;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19175011502612,
+     39.31220043235805
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old Highway 99W;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19175011502612,
+     39.31220043235805
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old Highway 99W;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19175011502612,
+     39.31220043235805
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old Highway 99W;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19175011502612,
+     39.31220043235805
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old Highway 99W;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1946531966447,
+     39.33455620765902
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lenahan Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1946531966447,
+     39.33455620765902
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lenahan Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19477061411791,
+     39.348868811780584
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Delevan Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19477061411791,
+     39.348868811780584
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Delevan Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1946531966447,
+     39.33455620765902
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lenahan Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1946531966447,
+     39.33455620765902
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lenahan Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19477061411791,
+     39.348868811780584
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Delevan Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19477061411791,
+     39.348868811780584
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Delevan Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.194995011711,
+     39.33455526188166
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lenahan Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.194995011711,
+     39.33455526188166
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lenahan Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19510662946477,
+     39.34886730046718
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Delevan Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19510662946477,
+     39.34886730046718
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Delevan Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.194995011711,
+     39.33455526188166
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lenahan Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.194995011711,
+     39.33455526188166
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lenahan Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19510662946477,
+     39.34886730046718
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Delevan Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19510662946477,
+     39.34886730046718
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Delevan Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

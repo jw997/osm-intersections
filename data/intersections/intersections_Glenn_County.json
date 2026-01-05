@@ -24072,6 +24072,1366 @@
     ],
     "nodeId": 1657843833
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20450533108183,
+     39.78376105483061
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 7;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20450533108183,
+     39.78376105483061
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 7;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20206394465863,
+     39.794468044876176
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 3;3",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20206394465863,
+     39.794468044876176
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 3;3",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.204201680711,
+     39.78375642547114
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 7;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.204201680711,
+     39.78375642547114
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 7;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20178016816189,
+     39.79446375555775
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 3;3",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20178016816189,
+     39.79446375555775
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 3;3",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19559068634628,
+     39.407125883712
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 68",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19559068634628,
+     39.407125883712
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 68",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19562162828167,
+     39.465646196548136
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 60",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19562162828167,
+     39.465646196548136
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 60",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19679224397335,
+     39.49497419744942
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 57;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19679224397335,
+     39.49497419744942
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 57;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19591567682139,
+     39.40712707833896
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 68",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19591567682139,
+     39.40712707833896
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 68",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19590067516181,
+     39.46564873982799
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 60",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19590067516181,
+     39.46564873982799
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 60",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1971336901791,
+     39.49497267636959
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 57;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1971336901791,
+     39.49497267636959
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 57;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21453923335523,
+     39.52423464901577
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 162",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21453923335523,
+     39.52423464901577
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 162",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21453923335523,
+     39.52423464901577
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 162",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21453923335523,
+     39.52423464901577
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 162",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21488726985523,
+     39.524234734297934
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 162",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21488726985523,
+     39.524234734297934
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 162",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21488726985523,
+     39.524234734297934
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 162",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21488726985523,
+     39.524234734297934
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 162",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21462673451744,
+     39.53880401126081
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 48;48",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21462673451744,
+     39.53880401126081
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 48;48",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21462673451744,
+     39.53880401126081
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 48;48",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21462673451744,
+     39.53880401126081
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 48;48",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21493056486193,
+     39.53880504850765
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 48;48",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21493056486193,
+     39.53880504850765
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 48;48",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21493056486193,
+     39.53880504850765
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 48;48",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21493056486193,
+     39.53880504850765
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 48;48",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2102160477029,
+     39.58234766641879
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 39",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2102160477029,
+     39.58234766641879
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 39",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2102160477029,
+     39.58234766641879
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 39",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2102160477029,
+     39.58234766641879
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 39",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2071340938653,
+     39.61136645062724
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 35;35",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2071340938653,
+     39.61136645062724
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 35;35",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2050588625625,
+     39.6242778316389
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 33;33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2050588625625,
+     39.6242778316389
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 33;33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21057535873388,
+     39.58234660236101
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 39",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21057535873388,
+     39.58234660236101
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 39",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21057535873388,
+     39.58234660236101
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 39",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21057535873388,
+     39.58234660236101
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 39",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20743957550148,
+     39.611366931562976
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 35;35",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20743957550148,
+     39.611366931562976
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 35;35",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20534694674764,
+     39.62428122838215
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 33;33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20534694674764,
+     39.62428122838215
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 33;33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20438046262458,
+     39.66786542533777
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 28;28",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20438046262458,
+     39.66786542533777
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 28;28",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20451364608395,
+     39.682477800916175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 27;27",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20451364608395,
+     39.682477800916175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 27;27",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20465664467534,
+     39.66786645601572
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 28;28",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20465664467534,
+     39.66786645601572
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 28;28",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20481321837181,
+     39.68248327739615
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 27;27",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20481321837181,
+     39.68248327739615
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 27;27",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20520673277966,
+     39.696994362308615
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 25;25",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20520673277966,
+     39.696994362308615
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 25;25",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20599311871482,
+     39.71126826343092
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 24;CR 24",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20599311871482,
+     39.71126826343092
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 24;CR 24",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2057644413363,
+     39.72580272691896
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 20;20",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2057644413363,
+     39.72580272691896
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 20;20",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20553531615009,
+     39.74036299698274
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20532690504999,
+     39.7506191354664
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Newville Road;CA 32",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20553531615009,
+     39.74036299698274
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20532690504999,
+     39.7506191354664
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Newville Road;CA 32",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20550408603447,
+     39.69699641528607
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 25;25",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20550408603447,
+     39.69699641528607
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 25;25",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20627290348874,
+     39.71127091923346
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 24;CR 24",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20627290348874,
+     39.71127091923346
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 24;CR 24",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20605413891532,
+     39.72580528690046
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 20;20",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20605413891532,
+     39.72580528690046
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 20;20",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20584002461489,
+     39.7403663129921
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20567268762785,
+     39.75076111471907
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Newville Road;CA 32",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20584002461489,
+     39.7403663129921
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20567268762785,
+     39.75076111471907
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Newville Road;CA 32",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

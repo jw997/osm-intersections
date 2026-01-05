@@ -68663,6 +68663,3116 @@
     ],
     "nodeId": 9502418169
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.79890807675311,
+     36.28633676338445
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South 19th Avenue",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.79890807675311,
+     36.28633676338445
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South 19th Avenue",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80823552325087,
+     36.28209352922369
+    ]
+   },
+   "properties": {
+    "streets": [
+     "19 1",
+     "2 Avenue;CA 41",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80790341353917,
+     36.28223962027013
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2 Avenue;CA 41",
+     "South 19 1",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80823552325087,
+     36.28209352922369
+    ]
+   },
+   "properties": {
+    "streets": [
+     "19 1",
+     "2 Avenue;CA 41",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80790341353917,
+     36.28223962027013
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2 Avenue;CA 41",
+     "South 19 1",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80823552325087,
+     36.28209352922369
+    ]
+   },
+   "properties": {
+    "streets": [
+     "19 1",
+     "2 Avenue;CA 41",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80790341353917,
+     36.28223962027013
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2 Avenue;CA 41",
+     "South 19 1",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80823552325087,
+     36.28209352922369
+    ]
+   },
+   "properties": {
+    "streets": [
+     "19 1",
+     "2 Avenue;CA 41",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80790341353917,
+     36.28223962027013
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2 Avenue;CA 41",
+     "South 19 1",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.65518840061178,
+     36.321424637171226
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 11th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.65503678400528,
+     36.32144763071415
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 11th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.65518840061178,
+     36.321424637171226
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 11th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.65503678400528,
+     36.32144763071415
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 11th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7447289,
+     36.3001592
+    ]
+   },
+   "properties": {
+    "streets": [
+     "16th Avenue",
+     "CA 198"
+    ],
+    "nodeId": 7027898496
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7447289,
+     36.3001592
+    ]
+   },
+   "properties": {
+    "streets": [
+     "16th Avenue",
+     "CA 198"
+    ],
+    "nodeId": 7027898496
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7447289,
+     36.3001592
+    ]
+   },
+   "properties": {
+    "streets": [
+     "16th Avenue",
+     "CA 198"
+    ],
+    "nodeId": 7027898496
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7447289,
+     36.3001592
+    ]
+   },
+   "properties": {
+    "streets": [
+     "16th Avenue",
+     "CA 198"
+    ],
+    "nodeId": 7027898496
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7447289,
+     36.3001592
+    ]
+   },
+   "properties": {
+    "streets": [
+     "16th Avenue",
+     "CA 198"
+    ],
+    "nodeId": 7027898496
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7447289,
+     36.3001592
+    ]
+   },
+   "properties": {
+    "streets": [
+     "16th Avenue",
+     "CA 198"
+    ],
+    "nodeId": 7027898496
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.692534040201,
+     36.31404853175072
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Hanford Armona Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69262879632764,
+     36.31401752237291
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Hanford Armona Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.692534040201,
+     36.31404853175072
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Hanford Armona Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69262879632764,
+     36.31401752237291
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Hanford Armona Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.692534040201,
+     36.31404853175072
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Hanford Armona Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69262879632764,
+     36.31401752237291
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Hanford Armona Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.692534040201,
+     36.31404853175072
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Hanford Armona Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69262879632764,
+     36.31401752237291
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Hanford Armona Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.70910925646082,
+     36.30884327321577
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Avenue",
+     "CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.70910925646082,
+     36.30884327321577
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Avenue",
+     "CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.70910702712247,
+     36.30897195748469
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Avenue",
+     "CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.70910702712247,
+     36.30897195748469
+    ]
+   },
+   "properties": {
+    "streets": [
+     "14th Avenue",
+     "CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67290180491159,
+     36.318689603866126
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Avenue",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67305665389918,
+     36.31866570563336
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Avenue",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67290180491159,
+     36.318689603866126
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Avenue",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67305665389918,
+     36.31866570563336
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Avenue",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67290180491159,
+     36.318689603866126
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Avenue",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67305665389918,
+     36.31866570563336
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Avenue",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67290180491159,
+     36.318689603866126
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Avenue",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67305665389918,
+     36.31866570563336
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Avenue",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69274094343817,
+     36.31412429030456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Hanford Armona Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69284371779591,
+     36.31409159073931
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Hanford Armona Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69274094343817,
+     36.31412429030456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Hanford Armona Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69284371779591,
+     36.31409159073931
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Hanford Armona Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69274094343817,
+     36.31412429030456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Hanford Armona Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69284371779591,
+     36.31409159073931
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Hanford Armona Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69274094343817,
+     36.31412429030456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Hanford Armona Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69284371779591,
+     36.31409159073931
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Hanford Armona Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6368794,
+     36.32412521572278
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 10th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63702116735122,
+     36.32410413575718
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 10th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6368794,
+     36.32412521572278
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 10th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63702116735122,
+     36.32410413575718
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 10th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6368794,
+     36.32412521572278
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 10th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63702116735122,
+     36.32410413575718
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 10th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6368794,
+     36.32412521572278
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 10th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63702116735122,
+     36.32410413575718
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 10th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83472253517998,
+     36.270435887381105
+    ]
+   },
+   "properties": {
+    "streets": [
+     "21st Avenue",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83472253517998,
+     36.270435887381105
+    ]
+   },
+   "properties": {
+    "streets": [
+     "21st Avenue",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83472253517998,
+     36.270435887381105
+    ]
+   },
+   "properties": {
+    "streets": [
+     "21st Avenue",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83472253517998,
+     36.270435887381105
+    ]
+   },
+   "properties": {
+    "streets": [
+     "21st Avenue",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83471448469462,
+     36.270657897746574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "21st Avenue",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83471448469462,
+     36.270657897746574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "21st Avenue",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83471448469462,
+     36.270657897746574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "21st Avenue",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83471448469462,
+     36.270657897746574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "21st Avenue",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.65518481858707,
+     36.32129064020613
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 11th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.65503022829152,
+     36.32131423298816
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 11th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.65518481858707,
+     36.32129064020613
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 11th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.65503022829152,
+     36.32131423298816
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 11th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.86956356075832,
+     36.25574949831724
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenal Cutoff Road",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.86956356075832,
+     36.25574949831724
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenal Cutoff Road",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.86956042091418,
+     36.25555696878385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenal Cutoff Road",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.86956042091418,
+     36.25555696878385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenal Cutoff Road",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8961097,
+     36.2555805
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawkeye Court",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": 1657208807
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8961097,
+     36.2555805
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawkeye Court",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": 1657208807
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8961097,
+     36.2555805
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawkeye Court",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": 1657208807
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8961097,
+     36.2555805
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hawkeye Court",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": 1657208807
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0962786702353,
+     36.073503875165976
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenal Cutoff Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.0962786702353,
+     36.073503875165976
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenal Cutoff Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.98822864967332,
+     36.00886849463004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Milham Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.98822864967332,
+     36.00886849463004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Milham Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.09674404224776,
+     36.07341618492564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenal Cutoff Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.09674404224776,
+     36.07341618492564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenal Cutoff Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.98915747441438,
+     36.00870836287147
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Milham Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.98915747441438,
+     36.00870836287147
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Milham Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.91226184232073,
+     35.934534375657286
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Utica Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.91226184232073,
+     35.934534375657286
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Utica Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.91226184232073,
+     35.934534375657286
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Utica Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.91226184232073,
+     35.934534375657286
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Utica Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.96055696480323,
+     35.981648949033975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.96031819596776,
+     35.98141845731928
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.96055696480323,
+     35.981648949033975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.96031819596776,
+     35.98141845731928
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.96055696480323,
+     35.981648949033975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.96031819596776,
+     35.98141845731928
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.96055696480323,
+     35.981648949033975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.96031819596776,
+     35.98141845731928
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.96042768233441,
+     35.98199272576703
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9601849609206,
+     35.98175428276164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.96042768233441,
+     35.98199272576703
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9601849609206,
+     35.98175428276164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.96042768233441,
+     35.98199272576703
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9601849609206,
+     35.98175428276164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.96042768233441,
+     35.98199272576703
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9601849609206,
+     35.98175428276164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 41",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6009448620815,
+     36.325098736052865
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Valley Highway;CA 43",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6009448620815,
+     36.325098736052865
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Valley Highway;CA 43",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6009448620815,
+     36.325098736052865
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Valley Highway;CA 43",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6009448620815,
+     36.325098736052865
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Valley Highway;CA 43",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.64964770555864,
+     36.322280794321316
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South Phillips Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.64964770555864,
+     36.322280794321316
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South Phillips Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.60094559734387,
+     36.325275137746935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Valley Highway;CA 43",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.60094559734387,
+     36.325275137746935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Valley Highway;CA 43",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.60094559734387,
+     36.325275137746935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Valley Highway;CA 43",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.60094559734387,
+     36.325275137746935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Central Valley Highway;CA 43",
+     "George Alan Ingalls Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.64961791720246,
+     36.32215652252777
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South Phillips Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.64961791720246,
+     36.32215652252777
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South Phillips Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.64484697722965,
+     36.323021121911715
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South Douty Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.64484697722965,
+     36.323021121911715
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South Douty Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.64484697722965,
+     36.323021121911715
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South Douty Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6368794,
+     36.3242284193472
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 10th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6370223131847,
+     36.32420676424222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 10th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.64484697722965,
+     36.323021121911715
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South Douty Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6368794,
+     36.3242284193472
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 10th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6370223131847,
+     36.32420676424222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 10th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6368794,
+     36.3242284193472
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 10th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6370223131847,
+     36.32420676424222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 10th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6368794,
+     36.3242284193472
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 10th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6370223131847,
+     36.32420676424222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South 10th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80823921411121,
+     36.28223940174535
+    ]
+   },
+   "properties": {
+    "streets": [
+     "19 1",
+     "2 Avenue;CA 41",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80790015074167,
+     36.28238916837292
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2 Avenue;CA 41",
+     "South 19 1",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80823921411121,
+     36.28223940174535
+    ]
+   },
+   "properties": {
+    "streets": [
+     "19 1",
+     "2 Avenue;CA 41",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80790015074167,
+     36.28238916837292
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2 Avenue;CA 41",
+     "South 19 1",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80823921411121,
+     36.28223940174535
+    ]
+   },
+   "properties": {
+    "streets": [
+     "19 1",
+     "2 Avenue;CA 41",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80790015074167,
+     36.28238916837292
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2 Avenue;CA 41",
+     "South 19 1",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80823921411121,
+     36.28223940174535
+    ]
+   },
+   "properties": {
+    "streets": [
+     "19 1",
+     "2 Avenue;CA 41",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80790015074167,
+     36.28238916837292
+    ]
+   },
+   "properties": {
+    "streets": [
+     "2 Avenue;CA 41",
+     "South 19 1",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7447289,
+     36.3001592
+    ]
+   },
+   "properties": {
+    "streets": [
+     "16th Avenue",
+     "CA 198"
+    ],
+    "nodeId": 7027898496
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7447289,
+     36.3001592
+    ]
+   },
+   "properties": {
+    "streets": [
+     "16th Avenue",
+     "CA 198"
+    ],
+    "nodeId": 7027898496
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7447289,
+     36.3001592
+    ]
+   },
+   "properties": {
+    "streets": [
+     "16th Avenue",
+     "CA 198"
+    ],
+    "nodeId": 7027898496
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7447289,
+     36.3001592
+    ]
+   },
+   "properties": {
+    "streets": [
+     "16th Avenue",
+     "CA 198"
+    ],
+    "nodeId": 7027898496
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.79890989243833,
+     36.28619939029124
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South 19th Avenue",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.79890989243833,
+     36.28619939029124
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South 19th Avenue",
+     "United States Navy Lieutenant Commander Otis Vincent Tolbert Memorial Highway;CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7447367,
+     36.3002938
+    ]
+   },
+   "properties": {
+    "streets": [
+     "16th Avenue",
+     "CA 198"
+    ],
+    "nodeId": 88741788
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7447367,
+     36.3002938
+    ]
+   },
+   "properties": {
+    "streets": [
+     "16th Avenue",
+     "CA 198"
+    ],
+    "nodeId": 88741788
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7447367,
+     36.3002938
+    ]
+   },
+   "properties": {
+    "streets": [
+     "16th Avenue",
+     "CA 198"
+    ],
+    "nodeId": 88741788
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7447367,
+     36.3002938
+    ]
+   },
+   "properties": {
+    "streets": [
+     "16th Avenue",
+     "CA 198"
+    ],
+    "nodeId": 88741788
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75492694653398,
+     36.29757540484073
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Houston Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75492694653398,
+     36.29757540484073
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Houston Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75492694653398,
+     36.29757540484073
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Houston Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75492694653398,
+     36.29757540484073
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Houston Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7551338825472,
+     36.29763167621927
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Houston Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7551338825472,
+     36.29763167621927
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Houston Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7551338825472,
+     36.29763167621927
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Houston Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7551338825472,
+     36.29763167621927
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Houston Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6448150881117,
+     36.32288964923244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South Douty Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6448150881117,
+     36.32288964923244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South Douty Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6448150881117,
+     36.32288964923244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South Douty Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6448150881117,
+     36.32288964923244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "George Alan Ingalls Memorial Highway;CA 198",
+     "South Douty Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.78084951121359,
+     36.291679254615595
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Lemoore Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.78084951121359,
+     36.291679254615595
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Lemoore Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.78084951121359,
+     36.291679254615595
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Lemoore Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.78084951121359,
+     36.291679254615595
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Lemoore Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.78085079232642,
+     36.2915615659465
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Lemoore Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.78085079232642,
+     36.2915615659465
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Lemoore Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.78085079232642,
+     36.2915615659465
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Lemoore Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.78085079232642,
+     36.2915615659465
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Lemoore Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67290226947162,
+     36.31856070394233
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Avenue",
+     "CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67305556947147,
+     36.3185369995572
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Avenue",
+     "CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67290226947162,
+     36.31856070394233
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Avenue",
+     "CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67305556947147,
+     36.3185369995572
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Avenue",
+     "CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67290226947162,
+     36.31856070394233
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Avenue",
+     "CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67305556947147,
+     36.3185369995572
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Avenue",
+     "CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67290226947162,
+     36.31856070394233
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Avenue",
+     "CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67305556947147,
+     36.3185369995572
+    ]
+   },
+   "properties": {
+    "streets": [
+     "12th Avenue",
+     "CA 198"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.93704137727276,
+     35.958761707611636
+    ]
+   },
+   "properties": {
+    "streets": [
+     "25th Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.93704137727276,
+     35.958761707611636
+    ]
+   },
+   "properties": {
+    "streets": [
+     "25th Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.93690675732958,
+     35.9590581659341
+    ]
+   },
+   "properties": {
+    "streets": [
+     "25th Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.93690675732958,
+     35.9590581659341
+    ]
+   },
+   "properties": {
+    "streets": [
+     "25th Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.91173750213261,
+     35.93453124931213
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Utica Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.91173750213261,
+     35.93453124931213
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Utica Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.91173750213261,
+     35.93453124931213
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Utica Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.91173750213261,
+     35.93453124931213
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Utica Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

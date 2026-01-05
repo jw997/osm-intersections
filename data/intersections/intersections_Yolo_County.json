@@ -83208,6 +83208,7078 @@
     ],
     "nodeId": 11172416521
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.56453350139502,
+     38.57543008589852
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "North Sacramento Beltline Freeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.56453350139502,
+     38.57543008589852
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "North Sacramento Beltline Freeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.62875333720702,
+     38.673146416646716
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old River Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.62875333720702,
+     38.673146416646716
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old River Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.62875333720702,
+     38.673146416646716
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old River Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.62875333720702,
+     38.673146416646716
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old River Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99027539534552,
+     38.9107687
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 2",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99027539534552,
+     38.9107687
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 2",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9807479754796,
+     38.89623273314975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 4",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9807479754796,
+     38.89623273314975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 4",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99027539534552,
+     38.9107687
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 2",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99027539534552,
+     38.9107687
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 2",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5488492440969,
+     38.597215053951196
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Harbor Boulevard",
+     "North Sacramento Beltline Freeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5488492440969,
+     38.597215053951196
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Harbor Boulevard",
+     "North Sacramento Beltline Freeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95326909867048,
+     38.56184052636643
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 31",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95326909867048,
+     38.56184052636643
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 31",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75077322301283,
+     38.68443054320002
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75077411779185,
+     38.683915272499995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7507730340501,
+     38.68453935996219
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Beamer Street",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75077322301283,
+     38.68443054320002
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75077411779185,
+     38.683915272499995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7507730340501,
+     38.68453935996219
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Beamer Street",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75077322301283,
+     38.68443054320002
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75077411779185,
+     38.683915272499995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7507730340501,
+     38.68453935996219
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Beamer Street",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75077322301283,
+     38.68443054320002
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75077411779185,
+     38.683915272499995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7507730340501,
+     38.68453935996219
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Beamer Street",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.72605185472362,
+     38.54566361601099
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pole Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.72616199282166,
+     38.54563654203791
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pole Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.72605185472362,
+     38.54566361601099
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pole Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.72616199282166,
+     38.54563654203791
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pole Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.72605185472362,
+     38.54566361601099
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pole Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.72616199282166,
+     38.54563654203791
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pole Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.72605185472362,
+     38.54566361601099
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pole Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.72616199282166,
+     38.54563654203791
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pole Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76791041105369,
+     38.54645558035894
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Russell Boulevard",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76791644312587,
+     38.54634464896285
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Russell Boulevard",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76791041105369,
+     38.54645558035894
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Russell Boulevard",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76791644312587,
+     38.54634464896285
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Russell Boulevard",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.56453350139502,
+     38.57543008589852
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "North Sacramento Beltline Freeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.56411042938224,
+     38.57560611071244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "North Sacramento Beltline Freeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.56453350139502,
+     38.57543008589852
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "North Sacramento Beltline Freeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.56411042938224,
+     38.57560611071244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "North Sacramento Beltline Freeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.56147092312119,
+     38.578513087770276
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "West Capitol Avenue;US 40 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.56147092312119,
+     38.578513087770276
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "West Capitol Avenue;US 40 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5610324713579,
+     38.57853666409333
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "West Capitol Avenue;US 40 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5610324713579,
+     38.57853666409333
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "West Capitol Avenue;US 40 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7509143301503,
+     38.67724268440063
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;I 5 BUS",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7509143301503,
+     38.67724268440063
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;I 5 BUS",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7509143301503,
+     38.67724268440063
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;I 5 BUS",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7509143301503,
+     38.67724268440063
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;I 5 BUS",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75117348331584,
+     38.67724362511978
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;I 5 BUS",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75117348331584,
+     38.67724362511978
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;I 5 BUS",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75117348331584,
+     38.67724362511978
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;I 5 BUS",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75117348331584,
+     38.67724362511978
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;I 5 BUS",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.92380765072691,
+     38.835879003415904
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 91B",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.92380765072691,
+     38.835879003415904
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 91B",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.92380765072691,
+     38.835879003415904
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 91B",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.92380765072691,
+     38.835879003415904
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 91B",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.895572626725,
+     38.80887953655706
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 12",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.895572626725,
+     38.80887953655706
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 12",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.895572626725,
+     38.80887953655706
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 12",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.895572626725,
+     38.80887953655706
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 12",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.87916338365923,
+     38.79424603266694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 13;E10",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.87916338365923,
+     38.79424603266694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 13;E10",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8590254,
+     38.77475887386536
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 95",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8590254,
+     38.77475887386536
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 95",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.84052786933634,
+     38.75717855052616
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 96",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.84052786933634,
+     38.75717855052616
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 96",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8590254,
+     38.77475887386536
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 95",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8590254,
+     38.77475887386536
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 95",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.81828508347348,
+     38.735403283656126
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 17",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.81828508347348,
+     38.735403283656126
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 17",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9238083940563,
+     38.835575725028626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 91B",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9238083940563,
+     38.835575725028626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 91B",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9238083940563,
+     38.835575725028626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 91B",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9238083940563,
+     38.835575725028626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 91B",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8960083415046,
+     38.808883785469405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 12",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8960083415046,
+     38.808883785469405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 12",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8960083415046,
+     38.808883785469405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 12",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8960083415046,
+     38.808883785469405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 12",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.87955936470762,
+     38.794249454104204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 13;E10",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.87955936470762,
+     38.794249454104204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 13;E10",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8590254,
+     38.7743234739723
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 95",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8590254,
+     38.7743234739723
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 95",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.84053746913898,
+     38.75673026206838
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 96",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.84053746913898,
+     38.75673026206838
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 96",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8590254,
+     38.7743234739723
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 95",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8590254,
+     38.7743234739723
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 95",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.81868690674744,
+     38.73542406188009
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 17",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.81868690674744,
+     38.73542406188009
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 17",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95283317216685,
+     38.53146060894828
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Russell Boulevard;CA 128"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95283317216685,
+     38.53146060894828
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Russell Boulevard;CA 128"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95297799842892,
+     38.56184154390296
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 31",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95297799842892,
+     38.56184154390296
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 31",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95237043158761,
+     38.634871083949164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 26",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95237043158761,
+     38.634871083949164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 26",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95196309755018,
+     38.66364703975746
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 24",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95196309755018,
+     38.66364703975746
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 24",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9530806,
+     38.5840139170425
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 29A",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9530806,
+     38.5840139170425
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 29A",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95326628815907,
+     38.620376537173435
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 27",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95207134572014,
+     38.63486834721574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 26",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95326628815907,
+     38.620376537173435
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 27",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95207134572014,
+     38.63486834721574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 26",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95166601352815,
+     38.6636494840111
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 24",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95166601352815,
+     38.6636494840111
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 24",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9589229,
+     38.71992944426589
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 19",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9589229,
+     38.71992944426589
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 19",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95860342229967,
+     38.71986091252642
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 19",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95860342229967,
+     38.71986091252642
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 19",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95190785338261,
+     38.75125074934895
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 16",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95190785338261,
+     38.75125074934895
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 16",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94554011710458,
+     38.777253913517285
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 14;E10",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94554011710458,
+     38.777253913517285
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 14;E10",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.93881257074635,
+     38.815491835129244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Road 12A"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.93881257074635,
+     38.815491835129244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Road 12A"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9398562616648,
+     38.84813121260158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.93983196322536,
+     38.84770152239454
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9398562616648,
+     38.84813121260158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.93983196322536,
+     38.84770152239454
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.93913795503805,
+     38.81555046412339
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Road 12A"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.93913795503805,
+     38.81555046412339
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Road 12A"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9398562616648,
+     38.84813121260158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9398562616648,
+     38.84813121260158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7452771753931,
+     38.6771441431924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.74541888118465,
+     38.67728715898329
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7452771753931,
+     38.6771441431924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.74541888118465,
+     38.67728715898329
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7452771753931,
+     38.6771441431924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.74541888118465,
+     38.67728715898329
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7452771753931,
+     38.6771441431924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.74541888118465,
+     38.67728715898329
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54854754088417,
+     38.597073553782174
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Harbor Boulevard",
+     "North Sacramento Beltline Freeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54854754088417,
+     38.597073553782174
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Harbor Boulevard",
+     "North Sacramento Beltline Freeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55202602802387,
+     38.59191988355951
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "Reed Avenue;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55194029642573,
+     38.592041946818725
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "Reed Avenue;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55202602802387,
+     38.59191988355951
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "Reed Avenue;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55194029642573,
+     38.592041946818725
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "Reed Avenue;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55202602802387,
+     38.59191988355951
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "Reed Avenue;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55194029642573,
+     38.592041946818725
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "Reed Avenue;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55202602802387,
+     38.59191988355951
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "Reed Avenue;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55194029642573,
+     38.592041946818725
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "Reed Avenue;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55239445969139,
+     38.59194514676571
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "Reed Avenue;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55231617831271,
+     38.59206313524815
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "Reed Avenue;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55239445969139,
+     38.59194514676571
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "Reed Avenue;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55231617831271,
+     38.59206313524815
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "Reed Avenue;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55239445969139,
+     38.59194514676571
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "Reed Avenue;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55231617831271,
+     38.59206313524815
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "Reed Avenue;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55239445969139,
+     38.59194514676571
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "Reed Avenue;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55231617831271,
+     38.59206313524815
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Sacramento Beltline Freeway;I 80",
+     "Reed Avenue;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57725793569983,
+     38.57441016323344
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Enterprise Boulevard;US 40 Historic",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57741627511456,
+     38.574386264526595
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Enterprise Boulevard",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57725793569983,
+     38.57441016323344
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Enterprise Boulevard;US 40 Historic",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57741627511456,
+     38.574386264526595
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Enterprise Boulevard",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57725793569983,
+     38.57441016323344
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Enterprise Boulevard;US 40 Historic",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57741627511456,
+     38.574386264526595
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Enterprise Boulevard",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57725793569983,
+     38.57441016323344
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Enterprise Boulevard;US 40 Historic",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57741627511456,
+     38.574386264526595
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Enterprise Boulevard",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5773684956999,
+     38.5741546545971
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Enterprise Boulevard;US 40 Historic",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57754184018812,
+     38.57413444645087
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Enterprise Boulevard",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5773684956999,
+     38.5741546545971
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Enterprise Boulevard;US 40 Historic",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57754184018812,
+     38.57413444645087
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Enterprise Boulevard",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5773684956999,
+     38.5741546545971
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Enterprise Boulevard;US 40 Historic",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57754184018812,
+     38.57413444645087
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Enterprise Boulevard",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5773684956999,
+     38.5741546545971
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Enterprise Boulevard;US 40 Historic",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57754184018812,
+     38.57413444645087
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Enterprise Boulevard",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52518273192985,
+     38.57704043873168
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Jefferson Boulevard;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52501545863541,
+     38.57703335138922
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Jefferson Boulevard;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52166106530947,
+     38.576094925738566
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Drever Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52518273192985,
+     38.57704043873168
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Jefferson Boulevard;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52501545863541,
+     38.57703335138922
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Jefferson Boulevard;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52166106530947,
+     38.576094925738566
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Drever Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52518273192985,
+     38.57704043873168
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Jefferson Boulevard;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52501545863541,
+     38.57703335138922
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Jefferson Boulevard;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52166106530947,
+     38.576094925738566
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Drever Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52518273192985,
+     38.57704043873168
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Jefferson Boulevard;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52501545863541,
+     38.57703335138922
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Jefferson Boulevard;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52166106530947,
+     38.576094925738566
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Drever Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.62929521752146,
+     38.67341512930206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old River Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.62929521752146,
+     38.67341512930206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old River Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.62929521752146,
+     38.67341512930206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old River Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.62929521752146,
+     38.67341512930206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Old River Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.74690034723065,
+     38.67919232164265
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pioneer Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.74690034723065,
+     38.67919232164265
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pioneer Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.74690034723065,
+     38.67919232164265
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pioneer Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.74690034723065,
+     38.67919232164265
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pioneer Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75158028384541,
+     38.6845478413175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Beamer Street",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75158028384541,
+     38.6845478413175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Beamer Street",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75158028384541,
+     38.6845478413175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Beamer Street",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75158028384541,
+     38.6845478413175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Beamer Street",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75077322301283,
+     38.68443054320002
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75085354740376,
+     38.68454018752073
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Beamer Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75077322301283,
+     38.68443054320002
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75085354740376,
+     38.68454018752073
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Beamer Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75077322301283,
+     38.68443054320002
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75085354740376,
+     38.68454018752073
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Beamer Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75077322301283,
+     38.68443054320002
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75085354740376,
+     38.68454018752073
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Beamer Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75077411779185,
+     38.683915272499995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75077411779185,
+     38.683915272499995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75077411779185,
+     38.683915272499995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75077411779185,
+     38.683915272499995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75123753835273,
+     38.684544195088854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Beamer Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75123753835273,
+     38.684544195088854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Beamer Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75123753835273,
+     38.684544195088854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Beamer Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75123753835273,
+     38.684544195088854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Beamer Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76521731733185,
+     38.696705953699464
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North East Street;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76521731733185,
+     38.696705953699464
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North East Street;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.765218423231,
+     38.69643500840279
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North East Street;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.765218423231,
+     38.69643500840279
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North East Street;CA 113",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95379361613054,
+     38.86114688049785
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 8",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95379361613054,
+     38.86114688049785
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 8",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97368048021731,
+     38.88164911133112
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 6;E4",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97368048021731,
+     38.88164911133112
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 6;E4",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97368048021731,
+     38.88164911133112
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 6;E4",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97368048021731,
+     38.88164911133112
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 6;E4",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99064707863904,
+     38.9107687
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 2",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99064707863904,
+     38.9107687
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 2",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.98112039084297,
+     38.89623552141582
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 4",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.98112039084297,
+     38.89623552141582
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 4",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99064707863904,
+     38.9107687
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 2",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99064707863904,
+     38.9107687
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 2",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97403384844185,
+     38.88165177144949
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 6;E4",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97403384844185,
+     38.88165177144949
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 6;E4",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63862730636095,
+     38.56333990966094
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 32A",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63862730636095,
+     38.56333990966094
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 32A",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63862730636095,
+     38.56333990966094
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 32A",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63862730636095,
+     38.56333990966094
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 32A",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.6386258042408,
+     38.5635029314209
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 32A",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.6386258042408,
+     38.5635029314209
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 32A",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.6386258042408,
+     38.5635029314209
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 32A",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.6386258042408,
+     38.5635029314209
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 32A",
+     "Yolo Causeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.53064124540575,
+     38.57621399672289
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Westacre Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.53064124540575,
+     38.57621399672289
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Westacre Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.53064124540575,
+     38.57621399672289
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Westacre Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.53064124540575,
+     38.57621399672289
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Westacre Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.53064186434896,
+     38.576004238454416
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Westacre Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.53064186434896,
+     38.576004238454416
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Westacre Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.53064186434896,
+     38.576004238454416
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Westacre Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.53064186434896,
+     38.576004238454416
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Westacre Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52524530655272,
+     38.577241679371674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Jefferson Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52508552352636,
+     38.577237477855675
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Jefferson Boulevard;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52155647379097,
+     38.576284445665564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Drever Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52524530655272,
+     38.577241679371674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Jefferson Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52508552352636,
+     38.577237477855675
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Jefferson Boulevard;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52155647379097,
+     38.576284445665564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Drever Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52524530655272,
+     38.577241679371674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Jefferson Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5187198114959,
+     38.57401470515037
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "South River Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52508552352636,
+     38.577237477855675
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Jefferson Boulevard;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52155647379097,
+     38.576284445665564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Drever Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52524530655272,
+     38.577241679371674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Jefferson Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5187198114959,
+     38.57401470515037
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "South River Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52508552352636,
+     38.577237477855675
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Jefferson Boulevard;CA 84"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52155647379097,
+     38.576284445665564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Drever Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.51887024494084,
+     38.57382199851664
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "South River Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.51774294617614,
+     38.57280982580727
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Riverfront Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.51887024494084,
+     38.57382199851664
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "South River Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.51774294617614,
+     38.57280982580727
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Riverfront Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75682472276608,
+     38.69184720443465
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Kentucky Avenue",
+     "Westside Freeway;I 5;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75682472276608,
+     38.69184720443465
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Kentucky Avenue",
+     "Westside Freeway;I 5;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75682472276608,
+     38.69184720443465
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Kentucky Avenue",
+     "Westside Freeway;I 5;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75682472276608,
+     38.69184720443465
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Kentucky Avenue",
+     "Westside Freeway;I 5;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75638270867849,
+     38.69184392387429
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Kentucky Avenue",
+     "Westside Freeway;I 5;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75638270867849,
+     38.69184392387429
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Kentucky Avenue",
+     "Westside Freeway;I 5;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75638270867849,
+     38.69184392387429
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Kentucky Avenue",
+     "Westside Freeway;I 5;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75638270867849,
+     38.69184392387429
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Kentucky Avenue",
+     "Westside Freeway;I 5;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.93983196322536,
+     38.84770152239454
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.93983196322536,
+     38.84770152239454
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95353643966004,
+     38.86131024123228
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 8",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95353643966004,
+     38.86131024123228
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Road 8",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9522326668008,
+     38.75125359821647
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 16",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9522326668008,
+     38.75125359821647
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 16",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94589010065174,
+     38.77721566719314
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 14;E10",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94589010065174,
+     38.77721566719314
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 14;E10",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76653176619416,
+     38.6192948172088
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 27",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76653176619416,
+     38.6192948172088
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 27",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95190752068692,
+     38.67959521134155
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 16",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95190752068692,
+     38.67959521134155
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 16",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7469134724945,
+     38.67869564146589
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pioneer Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7469134724945,
+     38.67869564146589
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pioneer Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7469134724945,
+     38.67869564146589
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pioneer Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7469134724945,
+     38.67869564146589
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Pioneer Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.74569930130701,
+     38.677150422959045
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.74583090686608,
+     38.67729089429544
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.74569930130701,
+     38.677150422959045
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.74583090686608,
+     38.67729089429544
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.74569930130701,
+     38.677150422959045
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.74583090686608,
+     38.67729089429544
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.74569930130701,
+     38.677150422959045
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.74583090686608,
+     38.67729089429544
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75163849793458,
+     38.662687206362904
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gibson Road",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75163849793458,
+     38.662687206362904
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gibson Road",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75163849793458,
+     38.662687206362904
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gibson Road",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75163849793458,
+     38.662687206362904
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gibson Road",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75138363307256,
+     38.66822974031497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gum Avenue",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75138363307256,
+     38.66822974031497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gum Avenue",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75138363307256,
+     38.66822974031497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gum Avenue",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75138363307256,
+     38.66822974031497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gum Avenue",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75109864512609,
+     38.66822819461763
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gum Avenue",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75109864512609,
+     38.66822819461763
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gum Avenue",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75109864512609,
+     38.66822819461763
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gum Avenue",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75109864512609,
+     38.66822819461763
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gum Avenue",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75136907220626,
+     38.662678261955854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gibson Road",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75136907220626,
+     38.662678261955854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gibson Road",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75136907220626,
+     38.662678261955854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gibson Road",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75136907220626,
+     38.662678261955854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Gibson Road",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76875575101809,
+     38.532127735693244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blacksmith Road",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76875575101809,
+     38.532127735693244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blacksmith Road",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76843543074799,
+     38.532123220662456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blacksmith Road",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76843543074799,
+     38.532123220662456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blacksmith Road",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54855605585792,
+     38.57492067449473
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Harbor Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54875230179755,
+     38.57492115087431
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Harbor Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54855605585792,
+     38.57492067449473
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Harbor Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54875230179755,
+     38.57492115087431
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Harbor Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.56411042938224,
+     38.57560611071244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "North Sacramento Beltline Freeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.56411042938224,
+     38.57560611071244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "North Sacramento Beltline Freeway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5175746003153,
+     38.57298468125395
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Riverfront Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5175746003153,
+     38.57298468125395
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Riverfront Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5485580217876,
+     38.57512623874781
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Harbor Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54875573076433,
+     38.57512584712282
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Harbor Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5485580217876,
+     38.57512623874781
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Harbor Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54875573076433,
+     38.57512584712282
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Capital City Freeway;US 50;I 80 BUS",
+     "Harbor Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76799582257546,
+     38.56096711768419
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "West Covell Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76799696259773,
+     38.5608433090657
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "West Covell Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76799582257546,
+     38.56096711768419
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "West Covell Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76799696259773,
+     38.5608433090657
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "West Covell Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76765099064568,
+     38.56096315025278
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "West Covell Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76765248156524,
+     38.56084128901703
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "West Covell Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76765099064568,
+     38.56096315025278
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "West Covell Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76765248156524,
+     38.56084128901703
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Vic Fazio Highway;CA 113",
+     "West Covell Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.73554354559043,
+     38.539997574657775
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Richards Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.73554354559043,
+     38.539997574657775
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Richards Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.73545949162774,
+     38.54006720060263
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Richards Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.73554354559043,
+     38.539997574657775
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Richards Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.73545949162774,
+     38.54006720060263
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Richards Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.72852601068381,
+     38.67391226699031
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 102;E8",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.72852601068381,
+     38.67391226699031
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 102;E8",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8003337798494,
+     38.71875756263655
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 98;CA 16;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8003337798494,
+     38.71875756263655
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 98;CA 16;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8003337798494,
+     38.71875756263655
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 98;CA 16;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8003337798494,
+     38.71875756263655
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 98;CA 16;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75974185094537,
+     38.64101900196413
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 25A",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75974185094537,
+     38.64101900196413
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 25A",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75974185094537,
+     38.64101900196413
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 25A",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75974185094537,
+     38.64101900196413
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 25A",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76831699388063,
+     38.53685952039855
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hutchison Drive",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76831947691329,
+     38.53674532854679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hutchison Drive",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76831699388063,
+     38.53685952039855
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hutchison Drive",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76831947691329,
+     38.53674532854679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hutchison Drive",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7686170353269,
+     38.53685988289879
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hutchison Drive",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76861985378814,
+     38.53675135569066
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hutchison Drive",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7686170353269,
+     38.53685988289879
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hutchison Drive",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76861985378814,
+     38.53675135569066
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hutchison Drive",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7682288296472,
+     38.54645835425645
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Russell Boulevard",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76823438672484,
+     38.54634613333188
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Russell Boulevard",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7682288296472,
+     38.54645835425645
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Russell Boulevard",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76823438672484,
+     38.54634613333188
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Russell Boulevard",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.69432033632799,
+     38.552485831260014
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Mace Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.69448272777713,
+     38.55244965565574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Mace Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.69432033632799,
+     38.552485831260014
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Mace Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.69448272777713,
+     38.55244965565574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Mace Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.69432033632799,
+     38.552485831260014
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Mace Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.69448272777713,
+     38.55244965565574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Mace Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.69432033632799,
+     38.552485831260014
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Mace Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.69448272777713,
+     38.55244965565574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Mace Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.69431140061141,
+     38.55275507578595
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Mace Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.69447142162429,
+     38.55272206864532
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Mace Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.69431140061141,
+     38.55275507578595
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Mace Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.69447142162429,
+     38.55272206864532
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Mace Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.69431140061141,
+     38.55275507578595
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Mace Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.69447142162429,
+     38.55272206864532
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Mace Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.69431140061141,
+     38.55275507578595
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Mace Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.69447142162429,
+     38.55272206864532
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Mace Boulevard;E6"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.73585048653425,
+     38.54005912843352
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Richards Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7357843048826,
+     38.540113617531006
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Richards Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.73585048653425,
+     38.54005912843352
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Richards Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7357843048826,
+     38.540113617531006
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Richards Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.73585048653425,
+     38.54005912843352
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Richards Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.72608277634838,
+     38.545878038633475
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pole Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7261931540386,
+     38.54584692474146
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pole Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.72608277634838,
+     38.545878038633475
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pole Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7261931540386,
+     38.54584692474146
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pole Line Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7285309492153,
+     38.67365835330809
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 102;E8",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7285309492153,
+     38.67365835330809
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 102;E8",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76008757279014,
+     38.64102342666832
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 25A",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76008757279014,
+     38.64102342666832
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 25A",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76008757279014,
+     38.64102342666832
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 25A",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76008757279014,
+     38.64102342666832
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 25A",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76686373283532,
+     38.619297294020036
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 27",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76686373283532,
+     38.619297294020036
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 27",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76698381176901,
+     38.590212375246075
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 29",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76698381176901,
+     38.590212375246075
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 29",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76731982484442,
+     38.590216376775885
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 29",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76731982484442,
+     38.590216376775885
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 29",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80053894540171,
+     38.71855200479828
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 98;CA 16;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80053894540171,
+     38.71855200479828
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 98;CA 16;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80053894540171,
+     38.71855200479828
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 98;CA 16;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80053894540171,
+     38.71855200479828
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 98;CA 16;I 5 BUS",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.78392461546741,
+     38.702900975561015
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 99;CR 99",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.78392461546741,
+     38.702900975561015
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 99;CR 99",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.78392461546741,
+     38.702900975561015
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 99;CR 99",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.78392461546741,
+     38.702900975561015
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 99;CR 99",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.78392285811877,
+     38.70330089219891
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 99;CR 99",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.78392285811877,
+     38.70330089219891
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 99;CR 99",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.78392285811877,
+     38.70330089219891
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 99;CR 99",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.78392285811877,
+     38.70330089219891
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 99;CR 99",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95312420944252,
+     38.531355479901585
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Russell Boulevard;CA 128"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95312420944252,
+     38.531355479901585
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Russell Boulevard;CA 128"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95220007932797,
+     38.679637153606286
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 16",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95220007932797,
+     38.679637153606286
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 16",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95336734051156,
+     38.584015782223624
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 29A",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95336734051156,
+     38.584015782223624
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 29A",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95356372474002,
+     38.62037829893301
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 27",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95356372474002,
+     38.62037829893301
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Road 27",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

@@ -52170,6 +52170,2590 @@
     ],
     "nodeId": 13261999304
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.200424,
+     39.92810553204777
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corning Road;A9",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.200424,
+     39.92810553204777
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corning Road;A9",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20042717060596,
+     39.942561227872446
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gallagher Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20041161719581,
+     39.95700931483041
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Finnell Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20042717060596,
+     39.942561227872446
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gallagher Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20041161719581,
+     39.95700931483041
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Finnell Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20040338781482,
+     39.96242446134556
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Moran Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20040338781482,
+     39.96242446134556
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Moran Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28431251581978,
+     40.36762416595144
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowman Road;A5",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28431251581978,
+     40.36762416595144
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowman Road;A5",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28431251581978,
+     40.36762416595144
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowman Road;A5",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28431251581978,
+     40.36762416595144
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowman Road;A5",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19986982868636,
+     39.84896612601994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sour Grass Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19986982868636,
+     39.84896612601994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sour Grass Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19997595237322,
+     39.88164274373456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Liberal Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19997595237322,
+     39.88164274373456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Liberal Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20008759640703,
+     39.928102560580356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corning Road;A9",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20008759640703,
+     39.928102560580356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Corning Road;A9",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20010527950794,
+     39.942556314893565
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gallagher Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20010937047317,
+     39.957003786729516
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Finnell Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20010527950794,
+     39.942556314893565
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gallagher Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20010937047317,
+     39.957003786729516
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Finnell Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20010281481288,
+     39.96241954801492
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Moran Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20010281481288,
+     39.96241954801492
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Moran Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20570577411276,
+     40.000166628318446
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gyle Road;A11",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20570577411276,
+     40.000166628318446
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gyle Road;A11",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2060172709671,
+     40.00016806358113
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gyle Road;A11",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2060172709671,
+     40.00016806358113
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gyle Road;A11",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21593408681878,
+     40.06954101606661
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chard Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21593408681878,
+     40.06954101606661
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chard Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21593408681878,
+     40.06954101606661
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chard Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21593408681878,
+     40.06954101606661
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chard Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2107466218259,
+     40.02914335552715
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Tehama Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2107466218259,
+     40.02914335552715
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Tehama Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2107466218259,
+     40.02914335552715
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Tehama Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2107466218259,
+     40.02914335552715
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Tehama Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21624311614163,
+     40.06954687323548
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chard Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21624311614163,
+     40.06954687323548
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chard Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21624311614163,
+     40.06954687323548
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chard Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21624311614163,
+     40.06954687323548
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chard Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21663293122093,
+     40.0839779261224
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Flores Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21663293122093,
+     40.0839779261224
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Flores Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21663293122093,
+     40.0839779261224
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Flores Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21663293122093,
+     40.0839779261224
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Flores Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21696522488692,
+     40.08398720496701
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Flores Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21696522488692,
+     40.08398720496701
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Flores Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21696522488692,
+     40.08398720496701
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Flores Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21696522488692,
+     40.08398720496701
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Flores Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22328064930497,
+     40.157352884546356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Main Street;I 5 BUS;CR A8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22313531103623,
+     40.15834771812366
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Diamond Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22328064930497,
+     40.157352884546356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Main Street;I 5 BUS;CR A8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22313531103623,
+     40.15834771812366
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Diamond Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22328064930497,
+     40.157352884546356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Main Street;I 5 BUS;CR A8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22313531103623,
+     40.15834771812366
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Diamond Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22328064930497,
+     40.157352884546356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Main Street;I 5 BUS;CR A8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22313531103623,
+     40.15834771812366
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Diamond Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22353055997159,
+     40.15764902308294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Main Street;I 5 BUS;CR A8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22339930432513,
+     40.15865026062814
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Diamond Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22353055997159,
+     40.15764902308294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Main Street;I 5 BUS;CR A8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22339930432513,
+     40.15865026062814
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Diamond Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22353055997159,
+     40.15764902308294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Main Street;I 5 BUS;CR A8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22339930432513,
+     40.15865026062814
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Diamond Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22353055997159,
+     40.15764902308294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "South Main Street;I 5 BUS;CR A8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22339930432513,
+     40.15865026062814
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Diamond Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22228712564059,
+     40.16527910821261
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Messer Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22228712564059,
+     40.16527910821261
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Messer Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22228712564059,
+     40.16527910821261
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Messer Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22228712564059,
+     40.16527910821261
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Messer Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22246960364635,
+     40.1655279666363
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Messer Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22246960364635,
+     40.1655279666363
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Messer Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22246960364635,
+     40.1655279666363
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Messer Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22246960364635,
+     40.1655279666363
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Messer Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23465633461086,
+     40.192193930672545
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Adobe Road",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23465633461086,
+     40.192193930672545
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Adobe Road",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22525795432982,
+     40.18062574160671
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Antelope Boulevard;CA 36",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22525795432982,
+     40.18062574160671
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Antelope Boulevard;CA 36",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22525795432982,
+     40.18062574160671
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Antelope Boulevard;CA 36",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22525795432982,
+     40.18062574160671
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Antelope Boulevard;CA 36",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2517819089968,
+     40.21916663782887
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Wilcox Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2517819089968,
+     40.21916663782887
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Wilcox Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2517819089968,
+     40.21916663782887
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Wilcox Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2517819089968,
+     40.21916663782887
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Wilcox Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28096341522259,
+     40.326986362009706
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Floyd Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28096341522259,
+     40.326986362009706
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Floyd Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.27880717962881,
+     40.29304477296304
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hooker Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.27880717962881,
+     40.29304477296304
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hooker Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28096341522259,
+     40.326986362009706
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Floyd Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28096341522259,
+     40.326986362009706
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Floyd Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.27880717962881,
+     40.29304477296304
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hooker Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.27880717962881,
+     40.29304477296304
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hooker Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25610415719818,
+     40.236037883943744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Jellys Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25610415719818,
+     40.236037883943744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Jellys Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22501018069926,
+     40.18073886957735
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Antelope Boulevard;CA 36",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22501018069926,
+     40.18073886957735
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Antelope Boulevard;CA 36",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22501018069926,
+     40.18073886957735
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Antelope Boulevard;CA 36",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22501018069926,
+     40.18073886957735
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Antelope Boulevard;CA 36",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24374675567661,
+     40.203456739631285
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Main Street;I 5 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24374675567661,
+     40.203456739631285
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Main Street;I 5 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24374675567661,
+     40.203456739631285
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Main Street;I 5 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24374675567661,
+     40.203456739631285
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Main Street;I 5 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23490341064516,
+     40.19205208836478
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Adobe Road",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23490341064516,
+     40.19205208836478
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Adobe Road",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20016695078122,
+     39.84896747220419
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sour Grass Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20016695078122,
+     39.84896747220419
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sour Grass Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21043510503533,
+     40.02914152737697
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Tehama Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21043510503533,
+     40.02914152737697
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Tehama Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21043510503533,
+     40.02914152737697
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Tehama Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21043510503533,
+     40.02914152737697
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Tehama Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20033319869528,
+     39.89929587457633
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Viola Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20036635823183,
+     39.90652398426861
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20033319869528,
+     39.89929587457633
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Viola Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20036635823183,
+     39.90652398426861
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.200281,
+     39.88164625111871
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Liberal Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.200281,
+     39.88164625111871
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Liberal Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25142691979389,
+     40.2192828875803
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Wilcox Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25142691979389,
+     40.2192828875803
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Wilcox Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25142691979389,
+     40.2192828875803
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Wilcox Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25142691979389,
+     40.2192828875803
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Wilcox Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24389616766626,
+     40.2032019533283
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Main Street;I 5 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24389616766626,
+     40.2032019533283
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Main Street;I 5 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24389616766626,
+     40.2032019533283
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Main Street;I 5 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24389616766626,
+     40.2032019533283
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Main Street;I 5 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2839234381463,
+     40.367642975954254
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowman Road;A5",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2839234381463,
+     40.367642975954254
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowman Road;A5",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2839234381463,
+     40.367642975954254
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowman Road;A5",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2839234381463,
+     40.367642975954254
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowman Road;A5",
+     "Cascade Wonderland Highway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28134916364884,
+     40.3269716060967
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Floyd Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28134916364884,
+     40.3269716060967
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Floyd Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2791945212419,
+     40.293029405247985
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hooker Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2791945212419,
+     40.293029405247985
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hooker Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28134916364884,
+     40.3269716060967
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Floyd Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28134916364884,
+     40.3269716060967
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Floyd Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2791945212419,
+     40.293029405247985
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hooker Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2791945212419,
+     40.293029405247985
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Hooker Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25647222312314,
+     40.23596524918075
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Jellys Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25647222312314,
+     40.23596524918075
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cascade Wonderland Highway;I 5",
+     "Jellys Ferry Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22031068065954,
+     40.136148850750025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Riverside Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22031068065954,
+     40.136148850750025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Riverside Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22031068065954,
+     40.136148850750025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Riverside Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22031068065954,
+     40.136148850750025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Riverside Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22064713065544,
+     40.13601397706432
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Riverside Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22064713065544,
+     40.13601397706432
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Riverside Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22064713065544,
+     40.13601397706432
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Riverside Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22064713065544,
+     40.13601397706432
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Riverside Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20003047134357,
+     39.89929028806461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Viola Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20002952443642,
+     39.90652040881602
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20003047134357,
+     39.89929028806461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Viola Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20002952443642,
+     39.90652040881602
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20003047134357,
+     39.89929028806461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Viola Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20002952443642,
+     39.90652040881602
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20003047134357,
+     39.89929028806461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Viola Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20002952443642,
+     39.90652040881602
+    ]
+   },
+   "properties": {
+    "streets": [
+     "South Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

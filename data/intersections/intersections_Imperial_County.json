@@ -113448,6 +113448,4154 @@
     ],
     "nodeId": 567544841
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.99420117975994,
+     32.73444014866082
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Imperial Highway;S2",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.99420117975994,
+     32.73444014866082
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Imperial Highway;S2",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.99420117975994,
+     32.73444014866082
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Imperial Highway;S2",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.99420117975994,
+     32.73444014866082
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Imperial Highway;S2",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.99420297272071,
+     32.73409331036042
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Imperial Highway;S2",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.99420297272071,
+     32.73409331036042
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Imperial Highway;S2",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.99420297272071,
+     32.73409331036042
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Imperial Highway;S2",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.99420297272071,
+     32.73409331036042
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Imperial Highway;S2",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.80050570426631,
+     32.768694196501414
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dunaway Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.80050570426631,
+     32.768694196501414
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dunaway Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.80050570426631,
+     32.768694196501414
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dunaway Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.80050570426631,
+     32.768694196501414
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dunaway Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.76159002023881,
+     32.77304988094233
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jeffrey Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.76159002023881,
+     32.77304988094233
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jeffrey Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.73324023017152,
+     32.77392809571929
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Westside Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.73324023017152,
+     32.77392809571929
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Westside Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.7073614,
+     32.77385971833698
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Derrick Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.7073614,
+     32.77385971833698
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Derrick Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.6903169,
+     32.77382120213232
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Drew Road;S29",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.6903169,
+     32.77382120213232
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Drew Road;S29",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.6903169,
+     32.77382120213232
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Drew Road;S29",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.6903169,
+     32.77382120213232
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Drew Road;S29",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.64644326258534,
+     32.7737456199839
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Silsbee Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.64644326258534,
+     32.7737456199839
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Silsbee Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.64644326258534,
+     32.7737456199839
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Silsbee Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.64644326258534,
+     32.7737456199839
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Silsbee Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.62055982863231,
+     32.77373194031217
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forrester Road;S30",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.62055982863231,
+     32.77373194031217
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forrester Road;S30",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.80050655116017,
+     32.76909193415057
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dunaway Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.80050655116017,
+     32.76909193415057
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dunaway Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.80050655116017,
+     32.76909193415057
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dunaway Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.80050655116017,
+     32.76909193415057
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dunaway Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.57822142960876,
+     32.77380427664218
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South la Brucherie Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.57822142960876,
+     32.77380427664218
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South la Brucherie Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.56109592990755,
+     32.77374943468422
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South 8th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.57822142960876,
+     32.77380427664218
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South la Brucherie Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.5695866146481,
+     32.77379058569283
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South Imperial Avenue;I 8 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.56942897981119,
+     32.77379018800579
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South Imperial Avenue;I 8 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.56109592990755,
+     32.77374943468422
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South 8th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.57822142960876,
+     32.77380427664218
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South la Brucherie Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.5695866146481,
+     32.77379058569283
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South Imperial Avenue;I 8 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.56942897981119,
+     32.77379018800579
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South Imperial Avenue;I 8 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.59498101421032,
+     32.77376263065881
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Austin Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.59498101421032,
+     32.77376263065881
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Austin Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.59498212888496,
+     32.774008138516066
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Austin Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.59498212888496,
+     32.774008138516066
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Austin Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.76159006887846,
+     32.773290403954064
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jeffrey Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.76159006887846,
+     32.773290403954064
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Jeffrey Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.73324492269545,
+     32.7741536
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Westside Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.73324492269545,
+     32.7741536
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Westside Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.7073614,
+     32.77409657120242
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Derrick Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.7073614,
+     32.77409657120242
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Derrick Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.6903169,
+     32.77408860571077
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Drew Road;S29",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.6903169,
+     32.77408860571077
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Drew Road;S29",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.6903169,
+     32.77408860571077
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Drew Road;S29",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.6903169,
+     32.77408860571077
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Drew Road;S29",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.64643774681934,
+     32.77401747574671
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Silsbee Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.64643774681934,
+     32.77401747574671
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Silsbee Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.64643774681934,
+     32.77401747574671
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Silsbee Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.64643774681934,
+     32.77401747574671
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Silsbee Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.62056450148772,
+     32.773981117169356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forrester Road;S30",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.62056450148772,
+     32.773981117169356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Forrester Road;S30",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.5521403060591,
+     32.773918319404
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.55232771468759,
+     32.77391885930345
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86;I 8 BUS",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.5521403060591,
+     32.773918319404
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.55232771468759,
+     32.77391885930345
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86;I 8 BUS",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.5521403060591,
+     32.773918319404
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.55232771468759,
+     32.77391885930345
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86;I 8 BUS",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.5521403060591,
+     32.773918319404
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.55232771468759,
+     32.77391885930345
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86;I 8 BUS",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.57822838655149,
+     32.77403469058527
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South la Brucherie Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.57822838655149,
+     32.77403469058527
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South la Brucherie Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.57822838655149,
+     32.77403469058527
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South la Brucherie Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.56959027758131,
+     32.774022780774175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South Imperial Avenue;I 8 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.56943216260618,
+     32.77402170174505
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South Imperial Avenue;I 8 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.57822838655149,
+     32.77403469058527
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South la Brucherie Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.56959027758131,
+     32.774022780774175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South Imperial Avenue;I 8 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.56943216260618,
+     32.77402170174505
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South Imperial Avenue;I 8 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.55213283371042,
+     32.77368953147909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.55232249663364,
+     32.77368991999993
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86;I 8 BUS",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.55213283371042,
+     32.77368953147909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.55232249663364,
+     32.77368991999993
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86;I 8 BUS",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.55213283371042,
+     32.77368953147909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.55232249663364,
+     32.77368991999993
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86;I 8 BUS",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.55213283371042,
+     32.77368953147909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.55232249663364,
+     32.77368991999993
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 86;I 8 BUS",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.53523906983435,
+     32.77369817947444
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South Dogwood Road;S31"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.53523906983435,
+     32.77369817947444
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South Dogwood Road;S31"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.53523906983435,
+     32.77369817947444
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South Dogwood Road;S31"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.53523906983435,
+     32.77369817947444
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South Dogwood Road;S31"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.50134050826725,
+     32.77390691879347
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.50109787086845,
+     32.77390462126147
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.50134050826725,
+     32.77390691879347
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.50109787086845,
+     32.77390462126147
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.50134050826725,
+     32.77390691879347
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.50109787086845,
+     32.77390462126147
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.50134050826725,
+     32.77390691879347
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.50109787086845,
+     32.77390462126147
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.47381222469615,
+     32.77342536465736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowker Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.47381222469615,
+     32.77342536465736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowker Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.47381222469615,
+     32.77342536465736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowker Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.47381222469615,
+     32.77342536465736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowker Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.44812778239249,
+     32.773350425108994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meloland Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.44812778239249,
+     32.773350425108994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meloland Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.44812778239249,
+     32.773350425108994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meloland Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.43069567899808,
+     32.77331353738916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Barbara Worth Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.44812778239249,
+     32.773350425108994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meloland Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.43069567899808,
+     32.77331353738916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Barbara Worth Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.41337393814969,
+     32.773269653498524
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Anderholt Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.41337393814969,
+     32.773269653498524
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Anderholt Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.41337393814969,
+     32.773269653498524
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Anderholt Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.41337393814969,
+     32.773269653498524
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Anderholt Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.39640020731005,
+     32.77322015213004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mets Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.39640020731005,
+     32.77322015213004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mets Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.39640020731005,
+     32.77322015213004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mets Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.38370015766345,
+     32.77318994670483
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orchard Road;CA 7",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.39640020731005,
+     32.77322015213004
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mets Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.38370015766345,
+     32.77318994670483
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orchard Road;CA 7",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.38370015766345,
+     32.77318994670483
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orchard Road;CA 7",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.38370015766345,
+     32.77318994670483
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orchard Road;CA 7",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.3665684780688,
+     32.7731944166539
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Towland Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.3665684780688,
+     32.7731944166539
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Towland Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.3665684780688,
+     32.7731944166539
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Towland Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.3665684780688,
+     32.7731944166539
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Towland Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.337173,
+     32.773209
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bonds Corner Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.337173,
+     32.773209
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bonds Corner Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.337173,
+     32.773209
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bonds Corner Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.337173,
+     32.773209
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bonds Corner Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.30276843197008,
+     32.77317392882994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Miller Road;S33",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.30276843197008,
+     32.77317392882994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Miller Road;S33",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.30276843197008,
+     32.77317392882994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Miller Road;S33",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.30276843197008,
+     32.77317392882994
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Miller Road;S33",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.285623,
+     32.77289164397906
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evan Hewes Highway;CA 115",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.285623,
+     32.77289164397906
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evan Hewes Highway;CA 115",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.285623,
+     32.77289164397906
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evan Hewes Highway;CA 115",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.285623,
+     32.77289164397906
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evan Hewes Highway;CA 115",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.50108819962337,
+     32.7736547561876
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.50133606347688,
+     32.77365534530277
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.50108819962337,
+     32.7736547561876
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.50133606347688,
+     32.77365534530277
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.50108819962337,
+     32.7736547561876
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.50133606347688,
+     32.77365534530277
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.50108819962337,
+     32.7736547561876
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.50133606347688,
+     32.77365534530277
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 111",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.08947069852874,
+     32.710454705861586
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 98",
+     "Kumeyaay Highway;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.08947069852874,
+     32.710454705861586
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 98",
+     "Kumeyaay Highway;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.27112906361786,
+     32.765105347687054
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Holdridge Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.27112906361786,
+     32.765105347687054
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Holdridge Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.27112906361786,
+     32.765105347687054
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Holdridge Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.27112906361786,
+     32.765105347687054
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Holdridge Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.47380919638833,
+     32.773688137443095
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowker Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.47380919638833,
+     32.773688137443095
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowker Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.47380919638833,
+     32.773688137443095
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowker Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.47380919638833,
+     32.773688137443095
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bowker Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.44814064343792,
+     32.77361913469533
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meloland Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.44814064343792,
+     32.77361913469533
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meloland Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.44814064343792,
+     32.77361913469533
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meloland Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.43070273214342,
+     32.773572646018735
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Barbara Worth Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.44814064343792,
+     32.77361913469533
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Meloland Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.43070273214342,
+     32.773572646018735
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Barbara Worth Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.41336688223194,
+     32.77351852625371
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Anderholt Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.41336688223194,
+     32.77351852625371
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Anderholt Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.41336688223194,
+     32.77351852625371
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Anderholt Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.41336688223194,
+     32.77351852625371
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Anderholt Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.39639620037865,
+     32.77344887614748
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mets Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.39639620037865,
+     32.77344887614748
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mets Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.39639620037865,
+     32.77344887614748
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mets Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.38370345611456,
+     32.77342672552111
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orchard Road;CA 7",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.39639620037865,
+     32.77344887614748
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mets Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.38370345611456,
+     32.77342672552111
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orchard Road;CA 7",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.38370345611456,
+     32.77342672552111
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orchard Road;CA 7",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.38370345611456,
+     32.77342672552111
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orchard Road;CA 7",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.27114646884736,
+     32.76538975742547
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Holdridge Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.27114646884736,
+     32.76538975742547
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Holdridge Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.27114646884736,
+     32.76538975742547
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Holdridge Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.27114646884736,
+     32.76538975742547
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Holdridge Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.72003780583776,
+     32.743611201180784
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 186",
+     "Kumeyaay Highway;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.72003780583776,
+     32.743611201180784
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 186",
+     "Kumeyaay Highway;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.72003780583776,
+     32.743611201180784
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 186",
+     "Kumeyaay Highway;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.72003780583776,
+     32.743611201180784
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 186",
+     "Kumeyaay Highway;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.72003780583776,
+     32.743611201180784
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 186",
+     "Kumeyaay Highway;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.72003780583776,
+     32.743611201180784
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 186",
+     "Kumeyaay Highway;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.62462034064602,
+     32.73168923787747
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Winterhaven Drive;I 8 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.62453602572315,
+     32.731660637853764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Winterhaven Drive;I 8 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.62462034064602,
+     32.73168923787747
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Winterhaven Drive;I 8 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.62453602572315,
+     32.731660637853764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Winterhaven Drive;I 8 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.62462073371026,
+     32.73189813365656
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Winterhaven Drive;I 8 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.62453832205075,
+     32.73186744651024
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Winterhaven Drive;I 8 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.62462073371026,
+     32.73189813365656
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Winterhaven Drive;I 8 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.62453832205075,
+     32.73186744651024
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Winterhaven Drive;I 8 BUS"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.83676115194277,
+     32.760301865728955
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Ogilby Road;S34"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.83676115194277,
+     32.760301865728955
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Ogilby Road;S34"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.83676115194277,
+     32.760301865728955
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Ogilby Road;S34"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.83676115194277,
+     32.760301865728955
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Ogilby Road;S34"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.75464973693074,
+     32.7466979197413
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Sidewinder Road North;US 80 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.75464973693074,
+     32.7466979197413
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Sidewinder Road North;US 80 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.75464973693074,
+     32.7466979197413
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Sidewinder Road North;US 80 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.75464973693074,
+     32.7466979197413
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Sidewinder Road North;US 80 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.83677616995848,
+     32.76062878915892
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Ogilby Road;S34"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.83677616995848,
+     32.76062878915892
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Ogilby Road;S34"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.83677616995848,
+     32.76062878915892
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Ogilby Road;S34"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.83677616995848,
+     32.76062878915892
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Ogilby Road;S34"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.75464163496915,
+     32.74694039431299
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Sidewinder Road North;US 80 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.75464163496915,
+     32.74694039431299
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Sidewinder Road North;US 80 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.75464163496915,
+     32.74694039431299
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Sidewinder Road North;US 80 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.75464163496915,
+     32.74694039431299
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Sidewinder Road North;US 80 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.72013476683158,
+     32.74336223326062
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 186",
+     "Kumeyaay Highway;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.72013476683158,
+     32.74336223326062
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 186",
+     "Kumeyaay Highway;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.72013476683158,
+     32.74336223326062
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 186",
+     "Kumeyaay Highway;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.72013476683158,
+     32.74336223326062
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 186",
+     "Kumeyaay Highway;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.72013476683158,
+     32.74336223326062
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 186",
+     "Kumeyaay Highway;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.72013476683158,
+     32.74336223326062
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 186",
+     "Kumeyaay Highway;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.08918782382456,
+     32.71077969481617
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 98",
+     "Kumeyaay Highway;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.08918782382456,
+     32.71077969481617
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 98",
+     "Kumeyaay Highway;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.65060615124263,
+     32.73733163598686
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Winterhaven Drive;I 8 BUS;S24"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.65060615124263,
+     32.73733163598686
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Winterhaven Drive;I 8 BUS;S24"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.65064744592395,
+     32.737059374933814
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Winterhaven Drive;I 8 BUS;S24"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.65064744592395,
+     32.737059374933814
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "Winterhaven Drive;I 8 BUS;S24"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.56109952790504,
+     32.773969874786715
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South 8th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.56109952790504,
+     32.773969874786715
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South 8th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.53524222352598,
+     32.77393317728461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South Dogwood Road;S31"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.53524222352598,
+     32.77393317728461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South Dogwood Road;S31"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.53524222352598,
+     32.77393317728461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South Dogwood Road;S31"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.53524222352598,
+     32.77393317728461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "South Dogwood Road;S31"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.36657393286235,
+     32.77342786278931
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Towland Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.36657393286235,
+     32.77342786278931
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Towland Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.36657393286235,
+     32.77342786278931
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Towland Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.36657393286235,
+     32.77342786278931
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Route 8;I 8",
+     "Towland Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.337173,
+     32.77345288591945
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bonds Corner Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.337173,
+     32.77345288591945
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bonds Corner Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.337173,
+     32.77345288591945
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bonds Corner Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.337173,
+     32.77345288591945
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bonds Corner Road",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.3027742392467,
+     32.773421468241054
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Miller Road;S33",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.3027742392467,
+     32.773421468241054
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Miller Road;S33",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.3027742392467,
+     32.773421468241054
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Miller Road;S33",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.3027742392467,
+     32.773421468241054
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Miller Road;S33",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.285623,
+     32.77312528730753
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evan Hewes Highway;CA 115",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.285623,
+     32.77312528730753
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evan Hewes Highway;CA 115",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.285623,
+     32.77312528730753
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evan Hewes Highway;CA 115",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.285623,
+     32.77312528730753
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evan Hewes Highway;CA 115",
+     "Route 8;I 8"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.95725464365017,
+     32.70877282601851
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "US 80 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.95725464365017,
+     32.70877282601851
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "US 80 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.95724207233853,
+     32.708370934864
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "US 80 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.95724207233853,
+     32.708370934864
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Kumeyaay Highway;I 8",
+     "US 80 Historic"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

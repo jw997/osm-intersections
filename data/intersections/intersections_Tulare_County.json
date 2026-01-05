@@ -219820,6 +219820,7724 @@
     ],
     "nodeId": 12394123244
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.25069026304048,
+     35.790427976197655
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Line Road;J44",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.25069026304048,
+     35.790427976197655
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Line Road;J44",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.25069026304048,
+     35.790427976197655
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Line Road;J44",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.25069026304048,
+     35.790427976197655
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Line Road;J44",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32490521586338,
+     36.12347319533849
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 184",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32490521586338,
+     36.12347319533849
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 184",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32490521586338,
+     36.12347319533849
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 184",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32490521586338,
+     36.12347319533849
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 184",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.5480894930596,
+     36.50686884999622
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.5480894930596,
+     36.50686884999622
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51864274751175,
+     36.48996544713999
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Diagonal 24;J38",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51864274751175,
+     36.48996544713999
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Diagonal 24;J38",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51864274751175,
+     36.48996544713999
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Diagonal 24;J38",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27218287323018,
+     35.884208279609744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Washington Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27218287323018,
+     35.884208279609744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Washington Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27218287323018,
+     35.884208279609744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Washington Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27218287323018,
+     35.884208279609744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Washington Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28194187479076,
+     35.928044167776044
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 76",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28194187479076,
+     35.928044167776044
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 76",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28194187479076,
+     35.928044167776044
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 76",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28194187479076,
+     35.928044167776044
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 76",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2822139643164,
+     35.92803929482767
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 76",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2822139643164,
+     35.92803929482767
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 76",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2822139643164,
+     35.92803929482767
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 76",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2822139643164,
+     35.92803929482767
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 76",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27037867161599,
+     35.87741472956505
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Armstrong Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27037867161599,
+     35.87741472956505
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Armstrong Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27037867161599,
+     35.87741472956505
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Armstrong Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27037867161599,
+     35.87741472956505
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Armstrong Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.26056048233279,
+     35.8338686820939
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 24",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.26056048233279,
+     35.8338686820939
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 24",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2603139290663,
+     35.833869979335056
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 24",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2603139290663,
+     35.833869979335056
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 24",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.54805287021036,
+     36.506610077944146
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.54805287021036,
+     36.506610077944146
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 12"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.25094153316584,
+     35.79042726721436
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Line Road;J44",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.25094153316584,
+     35.79042726721436
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Line Road;J44",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.25094153316584,
+     35.79042726721436
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Line Road;J44",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.25094153316584,
+     35.79042726721436
+    ]
+   },
+   "properties": {
+    "streets": [
+     "County Line Road;J44",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03912954210517,
+     36.05170028126679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03912959197451,
+     36.051570591062976
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03912954210517,
+     36.05170028126679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03912959197451,
+     36.051570591062976
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03912954210517,
+     36.05170028126679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03912959197451,
+     36.051570591062976
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03912954210517,
+     36.05170028126679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03912959197451,
+     36.051570591062976
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03946004005519,
+     36.065887864878846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Olive Avenue;J26"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03945852708348,
+     36.06601521867194
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Olive Avenue;J26"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03946004005519,
+     36.065887864878846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Olive Avenue;J26"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03945852708348,
+     36.06601521867194
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Olive Avenue;J26"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03922328870776,
+     36.06588911130815
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Olive Avenue;J26"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03922226115263,
+     36.0660162946087
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Olive Avenue;J26"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03922328870776,
+     36.06588911130815
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Olive Avenue;J26"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03922226115263,
+     36.0660162946087
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Olive Avenue;J26"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03981879175106,
+     36.07326200436909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Morton Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03981879175106,
+     36.07326200436909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Morton Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0391182746888,
+     36.08052226572727
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Henderson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03912425439857,
+     36.08040214107367
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Henderson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0391182746888,
+     36.08052226572727
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Henderson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03912425439857,
+     36.08040214107367
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Henderson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03943660510552,
+     36.08051891522319
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Henderson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03944337445004,
+     36.08040074601333
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Henderson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03943660510552,
+     36.08051891522319
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Henderson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03944337445004,
+     36.08040074601333
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Henderson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03949777875603,
+     36.073265908760476
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Morton Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03949777875603,
+     36.073265908760476
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Morton Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0402266,
+     36.0982669
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Northgrand Avenue"
+    ],
+    "nodeId": 2309370591
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0402266,
+     36.0982669
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Northgrand Avenue"
+    ],
+    "nodeId": 2309370591
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0394866722754,
+     36.08758338336843
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Westfield Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0402266,
+     36.0982669
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Northgrand Avenue"
+    ],
+    "nodeId": 2309370591
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0394866722754,
+     36.08758338336843
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Westfield Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0402266,
+     36.0982669
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Northgrand Avenue"
+    ],
+    "nodeId": 2309370591
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03889106317826,
+     36.05169808132081
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03889211455812,
+     36.051569759060015
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03889106317826,
+     36.05169808132081
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03889211455812,
+     36.051569759060015
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03889106317826,
+     36.05169808132081
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03889211455812,
+     36.051569759060015
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03889106317826,
+     36.05169808132081
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03889211455812,
+     36.051569759060015
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30545649266935,
+     36.327049387936405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 63;CA 198",
+     "South Giddings Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30545649266935,
+     36.327049387936405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 63;CA 198",
+     "South Giddings Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30545649266935,
+     36.327049387936405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 63;CA 198",
+     "South Giddings Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30545649266935,
+     36.327049387936405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 63;CA 198",
+     "South Giddings Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.40664291346025,
+     36.32621869925113
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.4070482441145,
+     36.32624838387524
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.40664291346025,
+     36.32621869925113
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.4070482441145,
+     36.32624838387524
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.40938867169442,
+     36.32897504142357
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.40938867169442,
+     36.32897504142357
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.40664291346025,
+     36.32621869925113
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.40664291346025,
+     36.32621869925113
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.4070482441145,
+     36.32624838387524
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.4070482441145,
+     36.32624838387524
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.40898531298001,
+     36.32901367705249
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.40898531298001,
+     36.32901367705249
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.42690701112343,
+     36.350809828494846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Betty Drive;J32",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.42696497648275,
+     36.35093042570238
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Betty Drive;J32",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.42690701112343,
+     36.350809828494846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Betty Drive;J32",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.42696497648275,
+     36.35093042570238
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Betty Drive;J32",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.42690701112343,
+     36.350809828494846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Betty Drive;J32",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.42696497648275,
+     36.35093042570238
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Betty Drive;J32",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.42690701112343,
+     36.350809828494846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Betty Drive;J32",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.42696497648275,
+     36.35093042570238
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Betty Drive;J32",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.38476142300026,
+     36.298173607235306
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "West Caldwell Avenue;J30"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.38476142300026,
+     36.298173607235306
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "West Caldwell Avenue;J30"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.38476142300026,
+     36.298173607235306
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "West Caldwell Avenue;J30"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.38476142300026,
+     36.298173607235306
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "West Caldwell Avenue;J30"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.34087718468453,
+     36.32726528671758
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Linwood Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.34087718468453,
+     36.32726528671758
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Linwood Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33168593239571,
+     36.32700358114183
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Demaree Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33187336226175,
+     36.327014604717135
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Demaree Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33614677211983,
+     36.32728319409403
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Chinowth Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33633614474822,
+     36.327282477207945
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Chinowth Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33168593239571,
+     36.32700358114183
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Demaree Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33187336226175,
+     36.327014604717135
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Demaree Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33614677211983,
+     36.32728319409403
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Chinowth Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33633614474822,
+     36.327282477207945
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Chinowth Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33168593239571,
+     36.32700358114183
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Demaree Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33187336226175,
+     36.327014604717135
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Demaree Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33614677211983,
+     36.32728319409403
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Chinowth Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33633614474822,
+     36.327282477207945
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Chinowth Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33168593239571,
+     36.32700358114183
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Demaree Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33187336226175,
+     36.327014604717135
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Demaree Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33614677211983,
+     36.32728319409403
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Chinowth Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33633614474822,
+     36.327282477207945
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Chinowth Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3498225505027,
+     36.327370671319294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Akers Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.34956666763614,
+     36.32737671688452
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Akers Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3498225505027,
+     36.327370671319294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Akers Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.34956666763614,
+     36.32737671688452
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Akers Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3498171427796,
+     36.32712836623302
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Akers Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.34956298648333,
+     36.32713718362571
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Akers Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3498171427796,
+     36.32712836623302
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Akers Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.34956298648333,
+     36.32713718362571
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Akers Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.34098173069272,
+     36.3275055840718
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Linwood Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.34098173069272,
+     36.3275055840718
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Linwood Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.36765638671363,
+     36.327249760717926
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "North Shirk Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.36765638671363,
+     36.327249760717926
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "North Shirk Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.31413037911999,
+     36.326902990539416
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Mooney Boulevard;CA 63"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3184711,
+     36.32720795873206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Woodland Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.31394298908062,
+     36.3269020495808
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Mooney Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.31413037911999,
+     36.326902990539416
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Mooney Boulevard;CA 63"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3184711,
+     36.32720795873206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Woodland Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.31394298908062,
+     36.3269020495808
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Mooney Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33169135591447,
+     36.32723898990842
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Demaree Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3318812865413,
+     36.32725378666989
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Demaree Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33614511409766,
+     36.32751585721505
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Chinowth Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33633782491118,
+     36.32751710465909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Chinowth Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33169135591447,
+     36.32723898990842
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Demaree Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3318812865413,
+     36.32725378666989
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Demaree Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33614511409766,
+     36.32751585721505
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Chinowth Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33633782491118,
+     36.32751710465909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Chinowth Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32576476795455,
+     36.3272769428723
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South County Center Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33169135591447,
+     36.32723898990842
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Demaree Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3318812865413,
+     36.32725378666989
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Demaree Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33614511409766,
+     36.32751585721505
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Chinowth Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33633782491118,
+     36.32751710465909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Chinowth Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32576476795455,
+     36.3272769428723
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South County Center Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33169135591447,
+     36.32723898990842
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Demaree Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3318812865413,
+     36.32725378666989
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Demaree Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33614511409766,
+     36.32751585721505
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Chinowth Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33633782491118,
+     36.32751710465909
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Chinowth Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32576476795455,
+     36.3272769428723
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South County Center Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32576476795455,
+     36.3272769428723
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South County Center Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.20859196227305,
+     36.326797517343955
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "North Farmersville Boulevard;J23"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.20859196227305,
+     36.326797517343955
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "North Farmersville Boulevard;J23"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30105805685037,
+     36.32683036808501
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Conyer Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30105805685037,
+     36.32683036808501
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Conyer Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30105805685037,
+     36.32683036808501
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Conyer Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29625131058914,
+     36.32682502189164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Watson Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2922908441595,
+     36.32682061695362
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Court Street;CA 63"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2934144221681,
+     36.32682186662751
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Locust Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30105805685037,
+     36.32683036808501
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Conyer Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29625131058914,
+     36.32682502189164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Watson Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2922908441595,
+     36.32682061695362
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Court Street;CA 63"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2934144221681,
+     36.32682186662751
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Locust Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28892924931911,
+     36.3268168780968
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Bridge Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28785470784003,
+     36.32681568296266
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Santa Fe Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28773864527977,
+     36.32681555387474
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Santa Fe Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28892924931911,
+     36.3268168780968
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Bridge Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28785470784003,
+     36.32681568296266
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Santa Fe Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28773864527977,
+     36.32681555387474
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Santa Fe Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32574525274704,
+     36.32702951375253
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South County Center Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32574525274704,
+     36.32702951375253
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South County Center Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32574525274704,
+     36.32702951375253
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South County Center Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32574525274704,
+     36.32702951375253
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South County Center Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.314143492267,
+     36.327091212173826
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Mooney Boulevard;CA 63"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3184711,
+     36.327405182061355
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Woodland Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.31395525725206,
+     36.3270902227614
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Mooney Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.314143492267,
+     36.327091212173826
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Mooney Boulevard;CA 63"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3184711,
+     36.327405182061355
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Woodland Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.31395525725206,
+     36.3270902227614
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Mooney Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.305455549061,
+     36.326855268827124
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 63;CA 198",
+     "South Giddings Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.305455549061,
+     36.326855268827124
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 63;CA 198",
+     "South Giddings Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.305455549061,
+     36.326855268827124
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 63;CA 198",
+     "South Giddings Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.305455549061,
+     36.326855268827124
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 63;CA 198",
+     "South Giddings Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.1710568,
+     36.3266101
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 296;CA 198",
+     "CA 198"
+    ],
+    "nodeId": 9570866659
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.1710568,
+     36.3266101
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 296;CA 198",
+     "CA 198"
+    ],
+    "nodeId": 9570866659
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.1707417,
+     36.326478
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 296;CA 198",
+     "CA 198"
+    ],
+    "nodeId": 94555357
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.1707417,
+     36.326478
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 296;CA 198",
+     "CA 198"
+    ],
+    "nodeId": 94555357
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.26070041102732,
+     36.32751056589886
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Lovers Lane;CA 216;J15"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.26084890852,
+     36.32751289562354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Lovers Lane;CA 216;J15"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.26070041102732,
+     36.32751056589886
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Lovers Lane;CA 216;J15"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.26084890852,
+     36.32751289562354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Lovers Lane;CA 216;J15"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2247105943594,
+     36.32658059314008
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Road 156"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2247105943594,
+     36.32658059314008
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Road 156"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2247105943594,
+     36.32658059314008
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Road 156"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2247105943594,
+     36.32658059314008
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Road 156"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2607023279145,
+     36.327635011085405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Lovers Lane;CA 216;J15"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.26084870737701,
+     36.3276384862203
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Lovers Lane;CA 216;J15"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2607023279145,
+     36.327635011085405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Lovers Lane;CA 216;J15"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.26084870737701,
+     36.3276384862203
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Lovers Lane;CA 216;J15"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.22469392969644,
+     36.326450740093875
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Road 156"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.22469392969644,
+     36.326450740093875
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Road 156"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.22469392969644,
+     36.326450740093875
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Road 156"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.22469392969644,
+     36.326450740093875
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Road 156"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.44380724305753,
+     36.38538404098788
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 328",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.44380724305753,
+     36.38538404098788
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 328",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.44380724305753,
+     36.38538404098788
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 328",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.44380724305753,
+     36.38538404098788
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 328",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.42713703100682,
+     36.35078429941438
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Betty Drive;J32",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.42719487429217,
+     36.35090611056822
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Betty Drive;J32",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.42713703100682,
+     36.35078429941438
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Betty Drive;J32",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.42719487429217,
+     36.35090611056822
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Betty Drive;J32",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.42713703100682,
+     36.35078429941438
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Betty Drive;J32",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.42719487429217,
+     36.35090611056822
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Betty Drive;J32",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.42713703100682,
+     36.35078429941438
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Betty Drive;J32",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.42719487429217,
+     36.35090611056822
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Betty Drive;J32",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.44409453325929,
+     36.38538384040825
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 328",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.44409453325929,
+     36.38538384040825
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 328",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.44409453325929,
+     36.38538384040825
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 328",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.44409453325929,
+     36.38538384040825
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 328",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.49050753781542,
+     36.45234929416682
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Merritt Drive;J36"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.49050753781542,
+     36.45234929416682
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Merritt Drive;J36"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.49050753781542,
+     36.45234929416682
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Merritt Drive;J36"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.49050753781542,
+     36.45234929416682
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Merritt Drive;J36"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.4907189606123,
+     36.45225781421385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Merritt Drive;J36"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.4907189606123,
+     36.45225781421385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Merritt Drive;J36"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.4907189606123,
+     36.45225781421385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Merritt Drive;J36"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.4907189606123,
+     36.45225781421385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Merritt Drive;J36"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.328695116835,
+     36.1821607684437
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Paige Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.328695116835,
+     36.1821607684437
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Paige Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.328695116835,
+     36.1821607684437
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Paige Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.328695116835,
+     36.1821607684437
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Paige Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.38452374804326,
+     36.298159626355485
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "West Caldwell Avenue;J30"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.38452374804326,
+     36.298159626355485
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "West Caldwell Avenue;J30"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.38452374804326,
+     36.298159626355485
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "West Caldwell Avenue;J30"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.38452374804326,
+     36.298159626355485
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "West Caldwell Avenue;J30"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32466787830518,
+     36.12347763501222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 184",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32466787830518,
+     36.12347763501222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 184",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32466787830518,
+     36.12347763501222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 184",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32466787830518,
+     36.12347763501222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 184",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03925602400349,
+     36.087582848398945
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Westfield Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0399856,
+     36.0982633
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Northgrand Avenue"
+    ],
+    "nodeId": 94555859
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03925602400349,
+     36.087582848398945
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Westfield Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0399856,
+     36.0982633
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Northgrand Avenue"
+    ],
+    "nodeId": 94555859
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03925602400349,
+     36.087582848398945
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Westfield Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.03925602400349,
+     36.087582848398945
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "West Westfield Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2907627408141,
+     35.96433036543412
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Terra Bella Avenue;J24",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29171700913064,
+     35.968583803794324
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Davis Street",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2907627408141,
+     35.96433036543412
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Terra Bella Avenue;J24",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29171700913064,
+     35.968583803794324
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Davis Street",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29248239717494,
+     35.97154622681396
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Court Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29248239717494,
+     35.97154622681396
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Court Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0395036,
+     36.0367547
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 136",
+     "CA 65"
+    ],
+    "nodeId": 11332064507
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0395036,
+     36.0367547
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 136",
+     "CA 65"
+    ],
+    "nodeId": 11332064507
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0395036,
+     36.0367547
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 136",
+     "CA 65"
+    ],
+    "nodeId": 11332064507
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0395036,
+     36.0367547
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 136",
+     "CA 65"
+    ],
+    "nodeId": 11332064507
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0395036,
+     36.0367547
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 136",
+     "CA 65"
+    ],
+    "nodeId": 11332064507
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0395036,
+     36.0367547
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 136",
+     "CA 65"
+    ],
+    "nodeId": 11332064507
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0395036,
+     36.0367547
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 136",
+     "CA 65"
+    ],
+    "nodeId": 11332064507
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0395036,
+     36.0367547
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 136",
+     "CA 65"
+    ],
+    "nodeId": 11332064507
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.36765630909136,
+     36.32712002802824
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "North Shirk Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.36765630909136,
+     36.32712002802824
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "North Shirk Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30106020571249,
+     36.32703437135011
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Conyer Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30106020571249,
+     36.32703437135011
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Conyer Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30106020571249,
+     36.32703437135011
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Conyer Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29637083569548,
+     36.327024981879255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Watson Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29229169938854,
+     36.327016814272234
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Court Street;CA 63"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29341537943787,
+     36.32701906420368
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Locust Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30106020571249,
+     36.32703437135011
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Conyer Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29637083569548,
+     36.327024981879255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Watson Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29229169938854,
+     36.327016814272234
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Court Street;CA 63"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29341537943787,
+     36.32701906420368
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Locust Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28893151317176,
+     36.327010086210585
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Bridge Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28785551420607,
+     36.327007931750416
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Santa Fe Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28774050701355,
+     36.32700770147286
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Santa Fe Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28893151317176,
+     36.327010086210585
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Bridge Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28785551420607,
+     36.327007931750416
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Santa Fe Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28774050701355,
+     36.32700770147286
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Santa Fe Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0397722,
+     36.0367516
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 136",
+     "CA 65"
+    ],
+    "nodeId": 8510041940
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0397722,
+     36.0367516
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 136",
+     "CA 65"
+    ],
+    "nodeId": 8510041940
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.20850409378413,
+     36.32666553354823
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "North Farmersville Boulevard;J23"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.20850409378413,
+     36.32666553354823
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "North Farmersville Boulevard;J23"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.36395100221893,
+     36.266543188775685
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 92B"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.36395100221893,
+     36.266543188775685
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 92B"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.36395100221893,
+     36.266543188775685
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 92B"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.36395100221893,
+     36.266543188775685
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 92B"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.36379303656689,
+     36.266683843644564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 92B"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.36379303656689,
+     36.266683843644564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Road 92B"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.39010897807735,
+     36.32721024424511
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Plaza Drive;J19"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.39010897807735,
+     36.32721024424511
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Plaza Drive;J19"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.38993380458831,
+     36.327208514087985
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Plaza Drive;J19"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.39010897807735,
+     36.32721024424511
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Plaza Drive;J19"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.38993380458831,
+     36.327208514087985
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Plaza Drive;J19"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.39010897807735,
+     36.32721024424511
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Plaza Drive;J19"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.38993380458831,
+     36.327208514087985
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Plaza Drive;J19"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.38993380458831,
+     36.327208514087985
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Plaza Drive;J19"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3587578,
+     36.2570443
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "J Street"
+    ],
+    "nodeId": 13021512322
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3587578,
+     36.2570443
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "J Street"
+    ],
+    "nodeId": 13021512322
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3587578,
+     36.2570443
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "J Street"
+    ],
+    "nodeId": 13021512322
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3587578,
+     36.2570443
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "J Street"
+    ],
+    "nodeId": 13021512322
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2706177489088,
+     35.87741130023823
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Armstrong Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2706177489088,
+     35.87741130023823
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Armstrong Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2706177489088,
+     35.87741130023823
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Armstrong Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2706177489088,
+     35.87741130023823
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Armstrong Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29052552146968,
+     35.96433077870824
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Terra Bella Avenue;J24",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29052552146968,
+     35.96433077870824
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Terra Bella Avenue;J24",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.35884290433066,
+     36.25834321614361
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "J Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.35884290433066,
+     36.25834321614361
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "J Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.35884290433066,
+     36.25834321614361
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "J Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.35884290433066,
+     36.25834321614361
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "J Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51852325839154,
+     36.49009284101616
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Diagonal 24;J38",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51852325839154,
+     36.49009284101616
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Diagonal 24;J38",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51852325839154,
+     36.49009284101616
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Diagonal 24;J38",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.34569883424959,
+     36.2401224914283
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cartmill Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3458272635432,
+     36.24029761075387
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cartmill Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.34569883424959,
+     36.2401224914283
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cartmill Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3458272635432,
+     36.24029761075387
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cartmill Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.34556315727282,
+     36.24029784688938
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cartmill Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3454351897132,
+     36.24012055286554
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cartmill Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.34556315727282,
+     36.24029784688938
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cartmill Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3454351897132,
+     36.24012055286554
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cartmill Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33395366934278,
+     36.224503832258996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Prosperity Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33389225069975,
+     36.22442005398603
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Prosperity Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33395366934278,
+     36.224503832258996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Prosperity Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33389225069975,
+     36.22442005398603
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Prosperity Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33395366934278,
+     36.224503832258996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Prosperity Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33389225069975,
+     36.22442005398603
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Prosperity Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33395366934278,
+     36.224503832258996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Prosperity Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33389225069975,
+     36.22442005398603
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Prosperity Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32844993779949,
+     36.21068333917255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Tulare Avenue;CA 137",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32844234028907,
+     36.21056226524649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Tulare Avenue;CA 137",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32919830550073,
+     36.215252810128966
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cross Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32844993779949,
+     36.21068333917255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Tulare Avenue;CA 137",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32844234028907,
+     36.21056226524649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Tulare Avenue;CA 137",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32919830550073,
+     36.215252810128966
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cross Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32844993779949,
+     36.21068333917255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Tulare Avenue;CA 137",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32844234028907,
+     36.21056226524649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Tulare Avenue;CA 137",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32919830550073,
+     36.215252810128966
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cross Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32844993779949,
+     36.21068333917255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Tulare Avenue;CA 137",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32844234028907,
+     36.21056226524649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Tulare Avenue;CA 137",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32919830550073,
+     36.215252810128966
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cross Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33408431602771,
+     36.22432822519294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Prosperity Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3341457211809,
+     36.22441199975356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Prosperity Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33408431602771,
+     36.22432822519294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Prosperity Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3341457211809,
+     36.22441199975356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Prosperity Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33408431602771,
+     36.22432822519294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Prosperity Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3341457211809,
+     36.22441199975356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Prosperity Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.33408431602771,
+     36.22432822519294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Prosperity Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3341457211809,
+     36.22441199975356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Prosperity Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32941416399468,
+     36.215221290376746
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cross Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32941416399468,
+     36.215221290376746
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cross Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32941416399468,
+     36.215221290376746
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cross Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32941416399468,
+     36.215221290376746
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cross Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32866977574558,
+     36.210603113699214
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Tulare Avenue;CA 137",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32866405457752,
+     36.210477985085
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Tulare Avenue;CA 137",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32866977574558,
+     36.210603113699214
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Tulare Avenue;CA 137",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32866405457752,
+     36.210477985085
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Tulare Avenue;CA 137",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32866977574558,
+     36.210603113699214
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Tulare Avenue;CA 137",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32866405457752,
+     36.210477985085
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Tulare Avenue;CA 137",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32866977574558,
+     36.210603113699214
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Tulare Avenue;CA 137",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32866405457752,
+     36.210477985085
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Tulare Avenue;CA 137",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3286644294402,
+     36.196670007334504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Bardsley Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3286644294402,
+     36.196670007334504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Bardsley Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3286644294402,
+     36.196670007334504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Bardsley Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.3286644294402,
+     36.196670007334504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Bardsley Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.39010863771466,
+     36.327367567446764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Plaza Drive;J19"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.39010863771466,
+     36.327367567446764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Plaza Drive;J19"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.38993289062732,
+     36.32736506254995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Plaza Drive;J19"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.39010863771466,
+     36.327367567446764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Plaza Drive;J19"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.38993289062732,
+     36.32736506254995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Plaza Drive;J19"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.39010863771466,
+     36.327367567446764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Plaza Drive;J19"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.38993289062732,
+     36.32736506254995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Plaza Drive;J19"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.38993289062732,
+     36.32736506254995
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Plaza Drive;J19"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28326165600329,
+     36.32701034792399
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Burke Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28326165600329,
+     36.32701034792399
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Burke Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28326165600329,
+     36.32701034792399
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Burke Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27838868936257,
+     36.32674326941289
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Ben Maddox Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27858983213865,
+     36.326765873001875
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Ben Maddox Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28326165600329,
+     36.32701034792399
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Burke Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27838868936257,
+     36.32674326941289
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Ben Maddox Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27858983213865,
+     36.326765873001875
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Ben Maddox Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27838868936257,
+     36.32674326941289
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Ben Maddox Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27858983213865,
+     36.326765873001875
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Ben Maddox Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27838868936257,
+     36.32674326941289
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Ben Maddox Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27858983213865,
+     36.326765873001875
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Ben Maddox Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28325408647157,
+     36.3268172113222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Burke Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28325408647157,
+     36.3268172113222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Burke Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28325408647157,
+     36.3268172113222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Burke Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27838537933025,
+     36.32654672317767
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Ben Maddox Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27858680469932,
+     36.32656929010519
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Ben Maddox Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.28325408647157,
+     36.3268172113222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Burke Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27838537933025,
+     36.32654672317767
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Ben Maddox Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27858680469932,
+     36.32656929010519
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Ben Maddox Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27838537933025,
+     36.32654672317767
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Ben Maddox Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27858680469932,
+     36.32656929010519
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Ben Maddox Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27838537933025,
+     36.32654672317767
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Ben Maddox Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27858680469932,
+     36.32656929010519
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "South Ben Maddox Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32846631387437,
+     36.182163304267384
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Paige Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32846631387437,
+     36.182163304267384
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Paige Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32846631387437,
+     36.182163304267384
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Paige Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32846631387437,
+     36.182163304267384
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Paige Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32843968472477,
+     36.19667039944508
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Bardsley Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32843968472477,
+     36.19667039944508
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Bardsley Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32843968472477,
+     36.19667039944508
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Bardsley Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.32843968472477,
+     36.19667039944508
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Bardsley Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.31432695844761,
+     36.06595588441015
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Olive Street;J26"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.31432695844761,
+     36.06595588441015
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Olive Street;J26"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.31112111134674,
+     36.05126668326758
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.31112111134674,
+     36.05126668326758
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2741545896776,
+     35.89188919516391
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Sierra Avenue;J22"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2741545896776,
+     35.89188919516391
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Sierra Avenue;J22"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2741545896776,
+     35.89188919516391
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Sierra Avenue;J22"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.2741545896776,
+     35.89188919516391
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Sierra Avenue;J22"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30204039583957,
+     36.00765723187744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 120",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30204039583957,
+     36.00765723187744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 120",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30204039583957,
+     36.00765723187744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 120",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30204039583957,
+     36.00765723187744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 120",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.40938867169442,
+     36.32897504142357
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.40898531298001,
+     36.32901367705249
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.40938867169442,
+     36.32897504142357
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.40898531298001,
+     36.32901367705249
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 198",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27390637396257,
+     35.891890204170885
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Sierra Avenue;J22"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27390637396257,
+     35.891890204170885
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Sierra Avenue;J22"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27390637396257,
+     35.891890204170885
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Sierra Avenue;J22"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27390637396257,
+     35.891890204170885
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Sierra Avenue;J22"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27195198903827,
+     35.88424317270814
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Washington Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27195198903827,
+     35.88424317270814
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Washington Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27195198903827,
+     35.88424317270814
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Washington Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.27195198903827,
+     35.88424317270814
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Washington Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29148652316687,
+     35.968618696721975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Davis Street",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29148652316687,
+     35.968618696721975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Davis Street",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29223736743212,
+     35.9715496270222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Court Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.29223736743212,
+     35.9715496270222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Court Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30179683105217,
+     36.00765692143433
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 120",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30179683105217,
+     36.00765692143433
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 120",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30179683105217,
+     36.00765692143433
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 120",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.30179683105217,
+     36.00765692143433
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Avenue 120",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.310916898888,
+     36.051267695183704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.310916898888,
+     36.051267695183704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Poplar Avenue;CA 190"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.31410120372456,
+     36.06593465901233
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Olive Street;J26"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.31410120372456,
+     36.06593465901233
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Olive Street;J26"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

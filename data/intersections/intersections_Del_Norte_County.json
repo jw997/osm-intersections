@@ -22074,6 +22074,278 @@
     ],
     "nodeId": 6506507715
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14827852652338,
+     41.80346609588316
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "US 199"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14827852652338,
+     41.80346609588316
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "US 199"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.18758624662749,
+     41.77275352654774
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Washington Boulevard;D1",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.18758624662749,
+     41.77275352654774
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Washington Boulevard;D1",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.18720626861518,
+     41.77275741939832
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Washington Boulevard;D1",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.18720626861518,
+     41.77275741939832
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Washington Boulevard;D1",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14873346335901,
+     41.803228747473504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "US 199"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14873346335901,
+     41.803228747473504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "US 199"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14827852652338,
+     41.80346609588316
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "US 199"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14873346335901,
+     41.803228747473504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "US 199"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14827852652338,
+     41.80346609588316
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "US 199"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.14873346335901,
+     41.803228747473504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "US 199"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.18238484409667,
+     41.77811975439581
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Railroad Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.18238484409667,
+     41.77811975439581
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Railroad Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.18249564444915,
+     41.777704314493356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Railroad Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.18249564444915,
+     41.777704314493356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Railroad Avenue",
+     "Redwood Highway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

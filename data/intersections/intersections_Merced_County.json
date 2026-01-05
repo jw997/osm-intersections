@@ -123978,6 +123978,5004 @@
     ],
     "nodeId": 13286682173
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.81246298044162,
+     37.45959737571668
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Griffith Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.81246298044162,
+     37.45959737571668
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Griffith Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.45678045409826,
+     37.28848469731021
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Childs Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.45678045409826,
+     37.28848469731021
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Childs Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43774737020883,
+     37.27477852304975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Mission Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43774737020883,
+     37.27477852304975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Mission Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.46819706103932,
+     37.29477903686702
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Yosemite Parkway;CA 140"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.46819706103932,
+     37.29477903686702
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Yosemite Parkway;CA 140"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.46819706103932,
+     37.29477903686702
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Yosemite Parkway;CA 140"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.46819706103932,
+     37.29477903686702
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Yosemite Parkway;CA 140"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.81246671236866,
+     37.45937228929438
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Griffith Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.81246671236866,
+     37.45937228929438
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Griffith Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.46803651267727,
+     37.29492475517869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Yosemite Parkway;CA 140"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.46803651267727,
+     37.29492475517869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Yosemite Parkway;CA 140"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.46803651267727,
+     37.29492475517869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Yosemite Parkway;CA 140"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.46803651267727,
+     37.29492475517869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Yosemite Parkway;CA 140"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4721669446368,
+     37.29555827636893
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 16th Street;CA 99 Business",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4721669446368,
+     37.29555827636893
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 16th Street;CA 99 Business",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4721669446368,
+     37.29555827636893
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 16th Street;CA 99 Business",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4721669446368,
+     37.29555827636893
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 16th Street;CA 99 Business",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47235776872583,
+     37.29575226609736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 16th Street;CA 99 Business",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47260483965721,
+     37.295726481314276
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 16th Street;CA 99 Business",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47235776872583,
+     37.29575226609736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 16th Street;CA 99 Business",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47260483965721,
+     37.295726481314276
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 16th Street;CA 99 Business",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47235776872583,
+     37.29575226609736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 16th Street;CA 99 Business",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47260483965721,
+     37.295726481314276
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 16th Street;CA 99 Business",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47235776872583,
+     37.29575226609736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 16th Street;CA 99 Business",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47260483965721,
+     37.295726481314276
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 16th Street;CA 99 Business",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47487443671446,
+     37.295531147705475
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 15th Street",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47487443671446,
+     37.295531147705475
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 15th Street",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47487443671446,
+     37.295531147705475
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 15th Street",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47487443671446,
+     37.295531147705475
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 15th Street",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47438142643813,
+     37.29534969929025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 15th Street",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47438142643813,
+     37.29534969929025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 15th Street",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47438142643813,
+     37.29534969929025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 15th Street",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47438142643813,
+     37.29534969929025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 15th Street",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47779388472979,
+     37.29528229608567
+    ]
+   },
+   "properties": {
+    "streets": [
+     "G Street",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47779388472979,
+     37.29528229608567
+    ]
+   },
+   "properties": {
+    "streets": [
+     "G Street",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47779388472979,
+     37.29528229608567
+    ]
+   },
+   "properties": {
+    "streets": [
+     "G Street",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47779388472979,
+     37.29528229608567
+    ]
+   },
+   "properties": {
+    "streets": [
+     "G Street",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47790876842303,
+     37.2950784733207
+    ]
+   },
+   "properties": {
+    "streets": [
+     "G Street",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47790876842303,
+     37.2950784733207
+    ]
+   },
+   "properties": {
+    "streets": [
+     "G Street",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47790876842303,
+     37.2950784733207
+    ]
+   },
+   "properties": {
+    "streets": [
+     "G Street",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47790876842303,
+     37.2950784733207
+    ]
+   },
+   "properties": {
+    "streets": [
+     "G Street",
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.68179292436507,
+     37.37400363625216
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Liberty Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.68179292436507,
+     37.37400363625216
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Liberty Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.64790065114228,
+     37.36153688287669
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Westside Boulevard;J18"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.64790065114228,
+     37.36153688287669
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Westside Boulevard;J18"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.64790065114228,
+     37.36153688287669
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Westside Boulevard;J18"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.64790065114228,
+     37.36153688287669
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Westside Boulevard;J18"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05099410419248,
+     37.159005869403764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Butts Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05099410419248,
+     37.159005869403764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Butts Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05099410419248,
+     37.159005869403764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Butts Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05099410419248,
+     37.159005869403764
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Butts Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05140817350878,
+     37.15901459082546
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Butts Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05140817350878,
+     37.15901459082546
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Butts Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05140817350878,
+     37.15901459082546
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Butts Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05140817350878,
+     37.15901459082546
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Butts Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.45643121315958,
+     37.28848744697484
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Childs Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.45643121315958,
+     37.28848744697484
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Childs Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43732152308313,
+     37.274882692765544
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Mission Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43732152308313,
+     37.274882692765544
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Mission Avenue",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.51229444377735,
+     37.31030351403766
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "West 16th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.51229444377735,
+     37.31030351403766
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "West 16th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.51229444377735,
+     37.31030351403766
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "West 16th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.54281591078625,
+     37.321692785855035
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Franklin Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.54281591078625,
+     37.321692785855035
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Franklin Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.51182192518733,
+     37.3101342724655
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "West 16th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.51182192518733,
+     37.3101342724655
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "West 16th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.51182192518733,
+     37.3101342724655
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "West 16th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49013006565343,
+     37.29921483991561
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;CA 59;CA 140;I 7–9 FUT",
+     "O Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49013006565343,
+     37.29921483991561
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;CA 59;CA 140;I 7–9 FUT",
+     "O Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49013006565343,
+     37.29921483991561
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;CA 59;CA 140;I 7–9 FUT",
+     "O Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49013006565343,
+     37.29921483991561
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;CA 59;CA 140;I 7–9 FUT",
+     "O Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49003164719188,
+     37.29938696968157
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;CA 59;CA 140;I 7–9 FUT",
+     "O Street North"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49003164719188,
+     37.29938696968157
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;CA 59;CA 140;I 7–9 FUT",
+     "O Street North"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49003164719188,
+     37.29938696968157
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;CA 59;CA 140;I 7–9 FUT",
+     "O Street North"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49003164719188,
+     37.29938696968157
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;CA 59;CA 140;I 7–9 FUT",
+     "O Street North"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5005193832922,
+     37.303235850040835
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "V Street;CA 59;CA 140"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5005193832922,
+     37.303235850040835
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "V Street;CA 59;CA 140"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5005193832922,
+     37.303235850040835
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "V Street;CA 59;CA 140"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5005193832922,
+     37.303235850040835
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "V Street;CA 59;CA 140"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.50062689790452,
+     37.30305209606592
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "V Street;CA 59;CA 140"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.50062689790452,
+     37.30305209606592
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "V Street;CA 59;CA 140"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.50062689790452,
+     37.30305209606592
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "V Street;CA 59;CA 140"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.50062689790452,
+     37.30305209606592
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "V Street;CA 59;CA 140"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49462922188158,
+     37.3008737122756
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "R Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49462922188158,
+     37.3008737122756
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "R Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49462922188158,
+     37.3008737122756
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "R Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49462922188158,
+     37.3008737122756
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "R Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49453721203325,
+     37.30103805376478
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "R Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49453721203325,
+     37.30103805376478
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "R Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49453721203325,
+     37.30103805376478
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "R Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49453721203325,
+     37.30103805376478
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "R Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.79716621855917,
+     37.448741904822455
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bradbury Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.79716621855917,
+     37.448741904822455
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bradbury Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77875513121916,
+     37.43325144800173
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Capitan Way",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77875513121916,
+     37.43325144800173
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Capitan Way",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77875513121916,
+     37.43325144800173
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Capitan Way",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77875513121916,
+     37.43325144800173
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Capitan Way",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77847137007542,
+     37.43345402301356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Capitan Way",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77847137007542,
+     37.43345402301356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Capitan Way",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77847137007542,
+     37.43345402301356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Capitan Way",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77847137007542,
+     37.43345402301356
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Capitan Way",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.73663902445917,
+     37.39027298738306
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Winton Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.73663902445917,
+     37.39027298738306
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Winton Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.72254163342683,
+     37.387938636526435
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "North Main Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.72254163342683,
+     37.387938636526435
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "North Main Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.71310394257746,
+     37.3846744238062
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Hammatt Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.72254163342683,
+     37.387938636526435
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "North Main Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.71310394257746,
+     37.3846744238062
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Hammatt Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.72254163342683,
+     37.387938636526435
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "North Main Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.71310394257746,
+     37.3846744238062
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Hammatt Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.71310394257746,
+     37.3846744238062
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Hammatt Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7520037990794,
+     37.40904345300782
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Campground Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7520037990794,
+     37.40904345300782
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Campground Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.75236196883004,
+     37.40887361555365
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Campground Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.75236196883004,
+     37.40887361555365
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Campground Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.57616288157507,
+     37.33377614744066
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "North Buhach Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.57616288157507,
+     37.33377614744066
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "North Buhach Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.57616288157507,
+     37.33377614744066
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "North Buhach Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.57616288157507,
+     37.33377614744066
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "North Buhach Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61331108469348,
+     37.344523274786646
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Applegate Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61331108469348,
+     37.344523274786646
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Applegate Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61331108469348,
+     37.344523274786646
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Applegate Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61331108469348,
+     37.344523274786646
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Applegate Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61320853901958,
+     37.34468271402915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Applegate Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61320853901958,
+     37.34468271402915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Applegate Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61320853901958,
+     37.34468271402915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Applegate Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61320853901958,
+     37.34468271402915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Applegate Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.62430771387525,
+     37.35131377698904
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Atwater Boulevard",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.62430771387525,
+     37.35131377698904
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Atwater Boulevard",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.62383316572495,
+     37.351136068526124
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Atwater Boulevard",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.62383316572495,
+     37.351136068526124
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Atwater Boulevard",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.59489659562303,
+     37.34009730151414
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Railroad Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5938652670736,
+     37.3401775439745
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Atwater Boulevard",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.59489659562303,
+     37.34009730151414
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Railroad Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5938652670736,
+     37.3401775439745
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Atwater Boulevard",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.59533593918708,
+     37.340259816853916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Railroad Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.59429691647937,
+     37.34033568130287
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Atwater Boulevard",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.59533593918708,
+     37.340259816853916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Railroad Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.59429691647937,
+     37.34033568130287
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Atwater Boulevard",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.48707626631891,
+     37.29810119160324
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;CA 59;CA 140;I 7–9 FUT",
+     "M Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.48707626631891,
+     37.29810119160324
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;CA 59;CA 140;I 7–9 FUT",
+     "M Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.48697776508018,
+     37.298268980482455
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;CA 59;CA 140;I 7–9 FUT",
+     "M Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.48697776508018,
+     37.298268980482455
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;CA 59;CA 140;I 7–9 FUT",
+     "M Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.48556602762116,
+     37.297544898221396
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Canal Street",
+     "Golden State Highway;CA 99;CA 59;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.48556602762116,
+     37.297544898221396
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Canal Street",
+     "Golden State Highway;CA 99;CA 59;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.48546289761813,
+     37.29772568144804
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Canal Street",
+     "Golden State Highway;CA 99;CA 59;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.48546289761813,
+     37.29772568144804
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Canal Street",
+     "Golden State Highway;CA 99;CA 59;CA 140;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.48256908071896,
+     37.2964457723987
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT",
+     "Martin Luther King Junior Way;CA 59"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.48256908071896,
+     37.2964457723987
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT",
+     "Martin Luther King Junior Way;CA 59"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.48247432903642,
+     37.296614960754916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT",
+     "Martin Luther King Junior Way;CA 59"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.48247432903642,
+     37.296614960754916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;CA 140;I 7–9 FUT",
+     "Martin Luther King Junior Way;CA 59"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.90830995996842,
+     36.99250189984212
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Canyon Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.90830995996842,
+     36.99250189984212
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Canyon Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.88332153651392,
+     36.96564014128453
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arburua Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.88332153651392,
+     36.96564014128453
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arburua Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.88332153651392,
+     36.96564014128453
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arburua Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.88332153651392,
+     36.96564014128453
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arburua Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.84064826728131,
+     36.93018938577739
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mercey Springs Road;CA 165",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.84064826728131,
+     36.93018938577739
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mercey Springs Road;CA 165",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.90855647511336,
+     36.99222622564428
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Canyon Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.90855647511336,
+     36.99222622564428
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Canyon Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.88352250636493,
+     36.965373259545125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arburua Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.88352250636493,
+     36.965373259545125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arburua Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.88352250636493,
+     36.965373259545125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arburua Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.88352250636493,
+     36.965373259545125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Arburua Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.68215000613372,
+     37.37382614447484
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Liberty Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.68215000613372,
+     37.37382614447484
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Liberty Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.648380086087,
+     37.36141929425568
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Westside Boulevard;J18"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.648380086087,
+     37.36141929425568
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Westside Boulevard;J18"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47191993839209,
+     37.29558116401796
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 16th Street;CA 99 Business",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47191993839209,
+     37.29558116401796
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 16th Street;CA 99 Business",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47191993839209,
+     37.29558116401796
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 16th Street;CA 99 Business",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47191993839209,
+     37.29558116401796
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 16th Street;CA 99 Business",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96021786882224,
+     37.04702282745198
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Billy Wright Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96021786882224,
+     37.04702282745198
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Billy Wright Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96021786882224,
+     37.04702282745198
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Billy Wright Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96021786882224,
+     37.04702282745198
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Billy Wright Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96045351102322,
+     37.046783207375725
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Billy Wright Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96045351102322,
+     37.046783207375725
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Billy Wright Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96045351102322,
+     37.046783207375725
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Billy Wright Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96045351102322,
+     37.046783207375725
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Billy Wright Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.84038510906335,
+     36.93037592154599
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mercey Springs Road;CA 165",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.84038510906335,
+     36.93037592154599
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mercey Springs Road;CA 165",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.37521721536163,
+     37.225593898846036
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Le Grand Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.37521721536163,
+     37.225593898846036
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Le Grand Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7976195979354,
+     37.44874527598614
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bradbury Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7976195979354,
+     37.44874527598614
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bradbury Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96998074533398,
+     37.056582481349885
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96998074533398,
+     37.056582481349885
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96998074533398,
+     37.056582481349885
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96998074533398,
+     37.056582481349885
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96998074533398,
+     37.056582481349885
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96998074533398,
+     37.056582481349885
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.33157029843989,
+     37.189322137663304
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Plainsburg Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.33157029843989,
+     37.189322137663304
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Plainsburg Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.33157029843989,
+     37.189322137663304
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Plainsburg Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.33157029843989,
+     37.189322137663304
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Plainsburg Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.37495547713563,
+     37.225799371362065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Le Grand Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.37495547713563,
+     37.225799371362065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Le Grand Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.54292118979231,
+     37.32151669355488
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Franklin Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.54292118979231,
+     37.32151669355488
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Franklin Road",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.57603803350483,
+     37.33398716084573
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "North Buhach Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.57603803350483,
+     37.33398716084573
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "North Buhach Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.57603803350483,
+     37.33398716084573
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "North Buhach Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.57603803350483,
+     37.33398716084573
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "North Buhach Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96965621475996,
+     37.05679837043408
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96965621475996,
+     37.05679837043408
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96965621475996,
+     37.05679837043408
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96965621475996,
+     37.05679837043408
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.33186360119052,
+     37.189126098836304
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Plainsburg Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.33186360119052,
+     37.189126098836304
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Plainsburg Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.33186360119052,
+     37.189126098836304
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Plainsburg Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.33186360119052,
+     37.189126098836304
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Plainsburg Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7365249944701,
+     37.3906277971574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Winton Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.7365249944701,
+     37.3906277971574
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Winton Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.72224149161612,
+     37.38818238923704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "North Main Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.72224149161612,
+     37.38818238923704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "North Main Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.71296953326889,
+     37.384968339392564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Hammatt Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.72224149161612,
+     37.38818238923704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "North Main Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.71296953326889,
+     37.384968339392564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Hammatt Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.72224149161612,
+     37.38818238923704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "North Main Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.71296953326889,
+     37.384968339392564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Hammatt Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.71296953326889,
+     37.384968339392564
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Hammatt Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.08165003104429,
+     37.217037489940815
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Taglio Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.08165003104429,
+     37.217037489940815
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Taglio Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.08165003104429,
+     37.217037489940815
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Taglio Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.08165003104429,
+     37.217037489940815
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Taglio Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.08127268080038,
+     37.217036566786675
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Taglio Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.08127268080038,
+     37.217036566786675
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Taglio Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.08127268080038,
+     37.217036566786675
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Taglio Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.08127268080038,
+     37.217036566786675
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Taglio Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07041295811779,
+     37.18804780039145
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cottonwood Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07041295811779,
+     37.18804780039145
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cottonwood Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07041295811779,
+     37.18804780039145
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cottonwood Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07041295811779,
+     37.18804780039145
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cottonwood Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07000527775442,
+     37.18805485458897
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cottonwood Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07000527775442,
+     37.18805485458897
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cottonwood Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07000527775442,
+     37.18805485458897
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cottonwood Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07000527775442,
+     37.18805485458897
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cottonwood Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03337712989921,
+     37.13138193451506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westside Freeway;I 5",
+     "Whitworth Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03337712989921,
+     37.13138193451506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westside Freeway;I 5",
+     "Whitworth Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03337712989921,
+     37.13138193451506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westside Freeway;I 5",
+     "Whitworth Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03337712989921,
+     37.13138193451506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westside Freeway;I 5",
+     "Whitworth Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0331844986227,
+     37.13175721207504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westside Freeway;I 5",
+     "Whitworth Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0331844986227,
+     37.13175721207504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westside Freeway;I 5",
+     "Whitworth Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0331844986227,
+     37.13175721207504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westside Freeway;I 5",
+     "Whitworth Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0331844986227,
+     37.13175721207504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Westside Freeway;I 5",
+     "Whitworth Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.02285157971232,
+     37.11525701703448
+    ]
+   },
+   "properties": {
+    "streets": [
+     "McCabe Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.02285157971232,
+     37.11525701703448
+    ]
+   },
+   "properties": {
+    "streets": [
+     "McCabe Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.02285157971232,
+     37.11525701703448
+    ]
+   },
+   "properties": {
+    "streets": [
+     "McCabe Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.02285157971232,
+     37.11525701703448
+    ]
+   },
+   "properties": {
+    "streets": [
+     "McCabe Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0224123045983,
+     37.11525491691442
+    ]
+   },
+   "properties": {
+    "streets": [
+     "McCabe Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0224123045983,
+     37.11525491691442
+    ]
+   },
+   "properties": {
+    "streets": [
+     "McCabe Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0224123045983,
+     37.11525491691442
+    ]
+   },
+   "properties": {
+    "streets": [
+     "McCabe Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0224123045983,
+     37.11525491691442
+    ]
+   },
+   "properties": {
+    "streets": [
+     "McCabe Road",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.01580567266465,
+     37.10602628730599
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Nella Road;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.01580567266465,
+     37.10602628730599
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Nella Road;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0157932940939,
+     37.106582594839274
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Nella Road;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0157932940939,
+     37.106582594839274
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Nella Road;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.01137709633824,
+     37.100632183766905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "West Henry Miller Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.01137709633824,
+     37.100632183766905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "West Henry Miller Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.01093501862282,
+     37.10062817208251
+    ]
+   },
+   "properties": {
+    "streets": [
+     "West Henry Miller Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.01093501862282,
+     37.10062817208251
+    ]
+   },
+   "properties": {
+    "streets": [
+     "West Henry Miller Avenue",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96945332669243,
+     37.05658365462317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96945332669243,
+     37.05658365462317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96945332669243,
+     37.05658365462317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.96945332669243,
+     37.05658365462317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA 33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.97020899912798,
+     37.05679380441388
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.97020899912798,
+     37.05679380441388
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.97020899912798,
+     37.05679380441388
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.97020899912798,
+     37.05679380441388
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 152;CA33",
+     "Westside Freeway;I 5"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77175183080124,
+     37.42601554923604
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "South Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77175183080124,
+     37.42601554923604
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "South Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77175183080124,
+     37.42601554923604
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "South Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77175183080124,
+     37.42601554923604
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "South Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77124182781367,
+     37.426069607187685
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "South Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77124182781367,
+     37.426069607187685
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "South Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77124182781367,
+     37.426069607187685
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "South Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.77124182781367,
+     37.426069607187685
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "South Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.783516541109,
+     37.43695771001178
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Shanks Road North"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.783516541109,
+     37.43695771001178
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Shanks Road North"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.783516541109,
+     37.43695771001178
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Shanks Road North"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.783516541109,
+     37.43695771001178
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Shanks Road North"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.783175070776,
+     37.4371092143906
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Shanks Road North"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.783175070776,
+     37.4371092143906
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Shanks Road North"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.783175070776,
+     37.4371092143906
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Shanks Road North"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.783175070776,
+     37.4371092143906
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99;I 7–9 FUT",
+     "Shanks Road North"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.56784272091544,
+     37.33236012448344
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Atwater-Merced Expressway",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.56784272091544,
+     37.33236012448344
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Atwater-Merced Expressway",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.56797665030471,
+     37.332104554586316
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Atwater-Merced Expressway",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.56797665030471,
+     37.332104554586316
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Atwater-Merced Expressway",
+     "Golden State Highway;CA 99;I 7–9 FUT"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

@@ -74476,6 +74476,3287 @@
     ],
     "nodeId": 12282455324
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.16869478886623,
+     39.33800887164144
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 89"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.16869478886623,
+     39.33800887164144
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 89"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.16869478886623,
+     39.33800887164144
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 89"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.16869478886623,
+     39.33800887164144
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 89"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61406075709094,
+     39.316784031568965
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Lake Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61406075709094,
+     39.316784031568965
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Lake Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61406075709094,
+     39.316784031568965
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Lake Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.61406075709094,
+     39.316784031568965
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Lake Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0592380803805,
+     39.21785778958627
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bank Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0592380803805,
+     39.21785778958627
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bank Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0592380803805,
+     39.21785778958627
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bank Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0592380803805,
+     39.21785778958627
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bank Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.20762184851371,
+     39.322992391811546
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Frates Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.20778531224371,
+     39.3229941007752
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 89"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.20762184851371,
+     39.322992391811546
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Frates Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.20778531224371,
+     39.3229941007752
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 89"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.60349051681835,
+     39.32282352497953
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 20"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.60349051681835,
+     39.32282352497953
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 20"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.60349051681835,
+     39.32282352497953
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 20"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.60349051681835,
+     39.32282352497953
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 20"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6142800364908,
+     39.317048685244295
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Lake Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6142800364908,
+     39.317048685244295
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Lake Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6142800364908,
+     39.317048685244295
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Lake Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6142800364908,
+     39.317048685244295
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Lake Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.60407210035898,
+     39.32270119464354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 20"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.60407210035898,
+     39.32270119464354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 20"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.60407210035898,
+     39.32270119464354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 20"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.60407210035898,
+     39.32270119464354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 20"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.56506215910889,
+     39.320008673539704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Eagle Lakes Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.56506215910889,
+     39.320008673539704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Eagle Lakes Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.56506215910889,
+     39.320008673539704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Eagle Lakes Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.56339291850044,
+     39.322190144586095
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Eagle Lakes Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.56339291850044,
+     39.322190144586095
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Eagle Lakes Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.28956682347697,
+     39.331779220818966
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Billie Mack Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.28956682347697,
+     39.331779220818966
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Billie Mack Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.28907216428763,
+     39.33100285881131
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Billie Mack Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.28907216428763,
+     39.33100285881131
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Billie Mack Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.28907216428763,
+     39.33100285881131
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Billie Mack Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.28907216428763,
+     39.33100285881131
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Billie Mack Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.39275417712467,
+     39.32540551065587
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.39275417712467,
+     39.32540551065587
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.39275417712467,
+     39.32540551065587
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.39275417712467,
+     39.32540551065587
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3499314081202,
+     39.33925518941325
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Castle Peak Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3499314081202,
+     39.33925518941325
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Castle Peak Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3499314081202,
+     39.33925518941325
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Castle Peak Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.3499314081202,
+     39.33925518941325
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Castle Peak Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.34959726452708,
+     39.33873230868533
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Castle Peak Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.34959726452708,
+     39.33873230868533
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Castle Peak Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.19324036502212,
+     39.325440796988275
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 89",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.19324036502212,
+     39.325440796988275
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 89",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.19324036502212,
+     39.325440796988275
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 89",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.19324036502212,
+     39.325440796988275
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 89",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.18673310851776,
+     39.33069854363384
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 89",
+     "Bridge Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.18673310851776,
+     39.33069854363384
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 89",
+     "Bridge Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.18661301891746,
+     39.33059005878319
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 89",
+     "Bridge Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.18661301891746,
+     39.33059005878319
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 89",
+     "Bridge Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.17422845484835,
+     39.33670318528168
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Truckee Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.17422845484835,
+     39.33670318528168
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Truckee Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.17422845484835,
+     39.33670318528168
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Truckee Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.17422845484835,
+     39.33670318528168
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Truckee Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.16852041150126,
+     39.33789700457982
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 89"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.16852041150126,
+     39.33789700457982
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 89"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.16852041150126,
+     39.33789700457982
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 89"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.16852041150126,
+     39.33789700457982
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 89"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.14628218602016,
+     39.355107231803615
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Overland Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.14628218602016,
+     39.355107231803615
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Overland Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.14628218602016,
+     39.355107231803615
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Overland Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.14628218602016,
+     39.355107231803615
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Overland Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.14642436488667,
+     39.355214262816915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Overland Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.14642436488667,
+     39.355214262816915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Overland Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.14642436488667,
+     39.355214262816915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Overland Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.14642436488667,
+     39.355214262816915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Overland Trail"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08295771682363,
+     39.38394555656608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hirschdale Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08295771682363,
+     39.38394555656608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hirschdale Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08295771682363,
+     39.38394555656608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hirschdale Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08295771682363,
+     39.38394555656608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hirschdale Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08295771682363,
+     39.38394555656608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hirschdale Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08295771682363,
+     39.38394555656608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hirschdale Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08313534621905,
+     39.384123550786825
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hirschdale Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08313534621905,
+     39.384123550786825
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hirschdale Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08313534621905,
+     39.384123550786825
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hirschdale Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.08313534621905,
+     39.384123550786825
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hirschdale Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.04304686450031,
+     39.22929430077218
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dorsey Drive",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0429529875433,
+     39.22937334702209
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dorsey Drive",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.04304686450031,
+     39.22929430077218
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dorsey Drive",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0429529875433,
+     39.22937334702209
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dorsey Drive",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03654449541031,
+     39.235276544518506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brunswick Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03110833338556,
+     39.24284479055329
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Banner Lava Cap Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03654449541031,
+     39.235276544518506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brunswick Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03110833338556,
+     39.24284479055329
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Banner Lava Cap Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03654449541031,
+     39.235276544518506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brunswick Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.02463727882682,
+     39.24819904674266
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Flat Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03110833338556,
+     39.24284479055329
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Banner Lava Cap Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03654449541031,
+     39.235276544518506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brunswick Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.02463727882682,
+     39.24819904674266
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Flat Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03110833338556,
+     39.24284479055329
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Banner Lava Cap Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.02463727882682,
+     39.24819904674266
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Flat Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.02463727882682,
+     39.24819904674266
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Flat Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05939821735669,
+     39.217868712119596
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bank Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05939821735669,
+     39.217868712119596
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bank Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05939821735669,
+     39.217868712119596
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bank Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05939821735669,
+     39.217868712119596
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bank Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.06093331970301,
+     39.21639528663259
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Colfax Avenue;CA 174",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.06174381545215,
+     39.215947231124275
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "South Auburn Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.06093331970301,
+     39.21639528663259
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Colfax Avenue;CA 174",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.06174381545215,
+     39.215947231124275
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "South Auburn Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.06072696343729,
+     39.21637368932325
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Colfax Avenue;CA 174",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.06173082125898,
+     39.21581386215265
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "South Auburn Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.06072696343729,
+     39.21637368932325
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Colfax Avenue;CA 174",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.06173082125898,
+     39.21581386215265
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "South Auburn Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05857897386869,
+     39.21863976155211
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bennett Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05857897386869,
+     39.21863976155211
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bennett Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05857897386869,
+     39.21863976155211
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bennett Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05857897386869,
+     39.21863976155211
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bennett Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05864228587883,
+     39.21873539151912
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bennett Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05864228587883,
+     39.21873539151912
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bennett Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05864228587883,
+     39.21873539151912
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bennett Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05864228587883,
+     39.21873539151912
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bennett Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05120021737052,
+     39.222550130949884
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "Idaho Maryland Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05120021737052,
+     39.222550130949884
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "Idaho Maryland Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05120021737052,
+     39.222550130949884
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "Idaho Maryland Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05120021737052,
+     39.222550130949884
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "Idaho Maryland Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05096211011895,
+     39.22262177986798
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "Idaho Maryland Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05096211011895,
+     39.22262177986798
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "Idaho Maryland Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05096211011895,
+     39.22262177986798
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "Idaho Maryland Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05096211011895,
+     39.22262177986798
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "Idaho Maryland Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.17426710486257,
+     39.336528143919466
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 89",
+     "Truckee Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.17426710486257,
+     39.336528143919466
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 89",
+     "Truckee Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.06815611397762,
+     39.20960103820373
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Eric Rood Memorial Expressway;CA 20",
+     "Golden Center Freeway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.06815611397762,
+     39.20960103820373
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Eric Rood Memorial Expressway;CA 20",
+     "Golden Center Freeway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0549422,
+     39.1950833
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 49",
+     "Golden Center Freeway;CA 49"
+    ],
+    "nodeId": 89910901
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0549422,
+     39.1950833
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 49",
+     "Golden Center Freeway;CA 49"
+    ],
+    "nodeId": 89910901
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0549422,
+     39.1950833
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 49",
+     "Golden Center Freeway;CA 49"
+    ],
+    "nodeId": 89910901
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0549422,
+     39.1950833
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 49",
+     "Golden Center Freeway;CA 49"
+    ],
+    "nodeId": 89910901
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0549422,
+     39.1950833
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 49",
+     "Golden Center Freeway;CA 49"
+    ],
+    "nodeId": 89910901
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0549422,
+     39.1950833
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 49",
+     "Golden Center Freeway;CA 49"
+    ],
+    "nodeId": 89910901
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0549422,
+     39.1950833
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 49",
+     "Golden Center Freeway;CA 49"
+    ],
+    "nodeId": 89910901
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0549422,
+     39.1950833
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 49",
+     "Golden Center Freeway;CA 49"
+    ],
+    "nodeId": 89910901
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.01661722321641,
+     39.264839545462635
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "Washington Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.01688693173095,
+     39.26216565621068
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broad Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.01661722321641,
+     39.264839545462635
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "Washington Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.01688693173095,
+     39.26216565621068
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broad Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0431619676415,
+     39.22935906812027
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dorsey Drive",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.04306796440575,
+     39.22943988129758
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dorsey Drive",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0431619676415,
+     39.22935906812027
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dorsey Drive",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.04306796440575,
+     39.22943988129758
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dorsey Drive",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03669038926795,
+     39.235344762347964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brunswick Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03120100085512,
+     39.24294028886048
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Banner Lava Cap Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03669038926795,
+     39.235344762347964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brunswick Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03120100085512,
+     39.24294028886048
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Banner Lava Cap Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03669038926795,
+     39.235344762347964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brunswick Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.02478633586684,
+     39.248261716187756
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Flat Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03120100085512,
+     39.24294028886048
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Banner Lava Cap Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03669038926795,
+     39.235344762347964
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Brunswick Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.02478633586684,
+     39.248261716187756
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Flat Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03120100085512,
+     39.24294028886048
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Banner Lava Cap Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.02478633586684,
+     39.248261716187756
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Flat Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.02478633586684,
+     39.248261716187756
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Flat Road",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.20763104634429,
+     39.3231356028934
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Frates Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.20779730755358,
+     39.32313726356804
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 89"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.20763104634429,
+     39.3231356028934
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Frates Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.20779730755358,
+     39.32313726356804
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "CA 89"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.19304381146054,
+     39.32536716681374
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 89",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.19304381146054,
+     39.32536716681374
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 89",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.19304381146054,
+     39.32536716681374
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 89",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.19304381146054,
+     39.32536716681374
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 89",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.22595737906148,
+     39.3242068518065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.22595737906148,
+     39.3242068518065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.22595737906148,
+     39.3242068518065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.22595737906148,
+     39.3242068518065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.01702121770157,
+     39.26220060197497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broad Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.01702121770157,
+     39.26220060197497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broad Street",
+     "Golden Center Freeway;CA 20;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.06802254696026,
+     39.209580936812905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Eric Rood Memorial Expressway;CA 20",
+     "Golden Center Freeway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.06802254696026,
+     39.209580936812905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Eric Rood Memorial Expressway;CA 20",
+     "Golden Center Freeway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05959169881152,
+     39.2003662877727
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East McKnight Way",
+     "Golden Center Freeway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05959169881152,
+     39.2003662877727
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East McKnight Way",
+     "Golden Center Freeway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0184869076048,
+     39.25892956922644
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "Sacramento Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0184869076048,
+     39.25892956922644
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "Sacramento Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0183458123597,
+     39.25901153221956
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "Sacramento Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0183458123597,
+     39.25901153221956
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "Sacramento Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.39223364425615,
+     39.325203947318265
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.39223364425615,
+     39.325203947318265
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.39223364425615,
+     39.325203947318265
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.39223364425615,
+     39.325203947318265
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05944685948577,
+     39.20043795813065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East McKnight Way",
+     "Golden Center Freeway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05944685948577,
+     39.20043795813065
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East McKnight Way",
+     "Golden Center Freeway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.01676977740601,
+     39.264816366596676
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "Washington Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.01676977740601,
+     39.264816366596676
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden Center Freeway;CA 20;CA 49",
+     "Washington Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.22582882765491,
+     39.32435866521041
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.22582882765491,
+     39.32435866521041
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.22582882765491,
+     39.32435866521041
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.22582882765491,
+     39.32435866521041
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

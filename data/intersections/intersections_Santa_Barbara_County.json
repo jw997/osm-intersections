@@ -160559,6 +160559,6687 @@
     ],
     "nodeId": 11851097214
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.76010977920713,
+     34.44129902740629
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chumash Highway;CA 154",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.76010977920713,
+     34.44129902740629
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chumash Highway;CA 154",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7599686311733,
+     34.4413046775719
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chumash Highway;CA 154",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7599686311733,
+     34.4413046775719
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chumash Highway;CA 154",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.52660244296624,
+     34.40337977965867
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Ynez Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.52660244296624,
+     34.40337977965867
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Ynez Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.52660244296624,
+     34.40337977965867
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Ynez Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.52660244296624,
+     34.40337977965867
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Ynez Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.808444606112,
+     34.44206007537663
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Patterson Avenue",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.808444606112,
+     34.44206007537663
+    ]
+   },
+   "properties": {
+    "streets": [
+     "North Patterson Avenue",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.19000821664429,
+     34.61206993345936
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 246",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.19000821664429,
+     34.61206993345936
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 246",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.19000821664429,
+     34.61206993345936
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 246",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.19000821664429,
+     34.61206993345936
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 246",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.65431549642018,
+     34.422756788458535
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cabrillo Boulevard",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.65431549642018,
+     34.422756788458535
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cabrillo Boulevard",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.65503681154591,
+     34.42240105743407
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cabrillo Boulevard",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.65503681154591,
+     34.42240105743407
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Cabrillo Boulevard",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67715160551094,
+     34.420278193184465
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South Milpas Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67698601164263,
+     34.4202764753315
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South Milpas Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67715160551094,
+     34.420278193184465
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South Milpas Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67698601164263,
+     34.4202764753315
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South Milpas Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67715160551094,
+     34.420278193184465
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South Milpas Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67698601164263,
+     34.4202764753315
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South Milpas Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67715160551094,
+     34.420278193184465
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South Milpas Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67698601164263,
+     34.4202764753315
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South Milpas Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67738764851515,
+     34.4204421712587
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South Milpas Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67720324446908,
+     34.42044724336693
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South Milpas Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67738764851515,
+     34.4204421712587
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South Milpas Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67720324446908,
+     34.42044724336693
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South Milpas Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67738764851515,
+     34.4204421712587
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South Milpas Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67720324446908,
+     34.42044724336693
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South Milpas Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67738764851515,
+     34.4204421712587
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South Milpas Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67720324446908,
+     34.42044724336693
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South Milpas Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6818994255773,
+     34.42003700394368
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Quarantina Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6818994255773,
+     34.42003700394368
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Quarantina Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6818994255773,
+     34.42003700394368
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Quarantina Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68170032580721,
+     34.41989140750767
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Quarantina Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68170032580721,
+     34.41989140750767
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Quarantina Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68415847112381,
+     34.41981833706136
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Calle Cesar Chavez"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68415847112381,
+     34.41981833706136
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Calle Cesar Chavez"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68395964673292,
+     34.41966909133386
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Calle Cesar Chavez"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68395964673292,
+     34.41966909133386
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Calle Cesar Chavez"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6930759190998,
+     34.41502190574161
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6930759190998,
+     34.41502190574161
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6930759190998,
+     34.41502190574161
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6930759190998,
+     34.41502190574161
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69324919267689,
+     34.41513378056312
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69324919267689,
+     34.41513378056312
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69324919267689,
+     34.41513378056312
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69324919267689,
+     34.41513378056312
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69921417969412,
+     34.41228544393665
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Castillo Street",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69921417969412,
+     34.41228544393665
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Castillo Street",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69921417969412,
+     34.41228544393665
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Castillo Street",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69921417969412,
+     34.41228544393665
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Castillo Street",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69910318694453,
+     34.41213590178378
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Castillo Street",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69910318694453,
+     34.41213590178378
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Castillo Street",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69910318694453,
+     34.41213590178378
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Castillo Street",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.69910318694453,
+     34.41213590178378
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Castillo Street",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.70725259705458,
+     34.41643630897026
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Carrillo Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.70725259705458,
+     34.41643630897026
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Carrillo Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.70736884952363,
+     34.416320427483846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Carrillo Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.70736884952363,
+     34.416320427483846
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Carrillo Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.71397155986111,
+     34.42083446385073
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Micheltorena Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.71397155986111,
+     34.42083446385073
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Micheltorena Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.71397155986111,
+     34.42083446385073
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Micheltorena Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.71397155986111,
+     34.42083446385073
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Micheltorena Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7202875093423,
+     34.42543889466814
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Mission Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7202875093423,
+     34.42543889466814
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Mission Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7202875093423,
+     34.42543889466814
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Mission Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7202875093423,
+     34.42543889466814
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Mission Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7203985133651,
+     34.425334548529946
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Mission Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7203985133651,
+     34.425334548529946
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Mission Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7203985133651,
+     34.425334548529946
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Mission Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7203985133651,
+     34.425334548529946
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Mission Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51170537461054,
+     34.39681199485797
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Casitas Pass Road",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51164707392243,
+     34.3967292100957
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Casitas Pass Road",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51170537461054,
+     34.39681199485797
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Casitas Pass Road",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51164707392243,
+     34.3967292100957
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Casitas Pass Road",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.52658717090037,
+     34.40320462658844
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Ynez Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.52658717090037,
+     34.40320462658844
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Ynez Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.52658717090037,
+     34.40320462658844
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Ynez Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.52658717090037,
+     34.40320462658844
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Ynez Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.55291909166993,
+     34.41088851283059
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Padaro Lane",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.55291909166993,
+     34.41088851283059
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Padaro Lane",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.55291909166993,
+     34.41088851283059
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Padaro Lane",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.55291909166993,
+     34.41088851283059
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Padaro Lane",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.55309025011267,
+     34.410750119437
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Padaro Lane",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.55309025011267,
+     34.410750119437
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Padaro Lane",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.55309025011267,
+     34.410750119437
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Padaro Lane",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.55309025011267,
+     34.410750119437
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Padaro Lane",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.60159825439109,
+     34.42130983763884
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evans Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.60159825439109,
+     34.42130983763884
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evans Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.60159825439109,
+     34.42130983763884
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evans Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.60159825439109,
+     34.42130983763884
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evans Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6016181894734,
+     34.4211451565241
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evans Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6016181894734,
+     34.4211451565241
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evans Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6016181894734,
+     34.4211451565241
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evans Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6016181894734,
+     34.4211451565241
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Evans Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.58258598561412,
+     34.41649753286998
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Padaro Lane",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.58258598561412,
+     34.41649753286998
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Padaro Lane",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.58258598561412,
+     34.41649753286998
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Padaro Lane",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.58258598561412,
+     34.41649753286998
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Padaro Lane",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.61420164011427,
+     34.42177847688722
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sheffield Drive",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.61420164011427,
+     34.42177847688722
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sheffield Drive",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.61420164011427,
+     34.42177847688722
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sheffield Drive",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.61420164011427,
+     34.42177847688722
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sheffield Drive",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63153639379557,
+     34.422507855959225
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Eucalyptus Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63153639379557,
+     34.422507855959225
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Eucalyptus Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63153639379557,
+     34.422507855959225
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Eucalyptus Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63153639379557,
+     34.422507855959225
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Eucalyptus Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68964399831499,
+     34.41820878297984
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Garden Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68964399831499,
+     34.41820878297984
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Garden Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68980323838582,
+     34.418329043287834
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Garden Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68980323838582,
+     34.418329043287834
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Garden Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68980323838582,
+     34.418329043287834
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Garden Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.68980323838582,
+     34.418329043287834
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Garden Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75164882488774,
+     34.436716916875206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Las Palmas Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75164882488774,
+     34.436716916875206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Las Palmas Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75164882488774,
+     34.436716916875206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Las Palmas Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75164882488774,
+     34.436716916875206
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Las Palmas Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.73375409979302,
+     34.42810706894173
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Las Positas Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.73375409979302,
+     34.42810706894173
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Las Positas Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.81786677993199,
+     34.43531112186203
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hollister Avenue",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8177971202373,
+     34.43539807792663
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hollister Avenue",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.81786677993199,
+     34.43531112186203
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hollister Avenue",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8177971202373,
+     34.43539807792663
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hollister Avenue",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.81804419064952,
+     34.43531749856369
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hollister Avenue",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.81796740393264,
+     34.435409276467524
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hollister Avenue",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.81804419064952,
+     34.43531749856369
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hollister Avenue",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.81796740393264,
+     34.435409276467524
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hollister Avenue",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8333634621811,
+     34.41811193047317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sandspit Road",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8333634621811,
+     34.41811193047317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sandspit Road",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8333634621811,
+     34.41811193047317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sandspit Road",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8333634621811,
+     34.41811193047317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sandspit Road",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.81290091636339,
+     34.4415584247178
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.81312042712905,
+     34.44136498413864
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.81290091636339,
+     34.4415584247178
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.81312042712905,
+     34.44136498413864
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.71388722520054,
+     34.42091273031889
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Micheltorena Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.71388722520054,
+     34.42091273031889
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Micheltorena Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.71388722520054,
+     34.42091273031889
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Micheltorena Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.71388722520054,
+     34.42091273031889
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "West Micheltorena Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.78938962190816,
+     34.4424285655599
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Turnpike Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7892388969002,
+     34.442431035034076
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Turnpike Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.78938962190816,
+     34.4424285655599
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Turnpike Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7892388969002,
+     34.442431035034076
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Turnpike Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80847084722018,
+     34.44182427615657
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Patterson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80847084722018,
+     34.44182427615657
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Patterson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80847084722018,
+     34.44182427615657
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Patterson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80847084722018,
+     34.44182427615657
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Patterson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.81290091636339,
+     34.4415584247178
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.81290091636339,
+     34.4415584247178
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80845289024964,
+     34.441985635182164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Patterson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.80845289024964,
+     34.441985635182164
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Patterson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.85296208882279,
+     34.43760073014016
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Los Carneros Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.85296208882279,
+     34.43760073014016
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Los Carneros Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.85296208882279,
+     34.43760073014016
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Los Carneros Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.85296208882279,
+     34.43760073014016
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Los Carneros Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.87093597370763,
+     34.434526018864545
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Glen Annie Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.87077122295312,
+     34.43456063985453
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Storke Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.87093597370763,
+     34.434526018864545
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Glen Annie Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.87077122295312,
+     34.43456063985453
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Storke Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63153199777332,
+     34.4223349457507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Eucalyptus Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63153199777332,
+     34.4223349457507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Eucalyptus Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63153199777332,
+     34.4223349457507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Eucalyptus Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63153199777332,
+     34.4223349457507
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Eucalyptus Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63997168333175,
+     34.42089538581506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Olive Mill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63997168333175,
+     34.42089538581506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Olive Mill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63997168333175,
+     34.42089538581506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Olive Mill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63997168333175,
+     34.42089538581506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Olive Mill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06906028455457,
+     34.46572337411426
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Refugio Beach Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06906028455457,
+     34.46572337411426
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Refugio Beach Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06904992457743,
+     34.465474368544804
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Refugio Beach Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.06904992457743,
+     34.465474368544804
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Refugio Beach Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41775719423,
+     34.94582005529305
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Jones Street",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41775719423,
+     34.94582005529305
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Jones Street",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41775719423,
+     34.94582005529305
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Jones Street",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41775719423,
+     34.94582005529305
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Jones Street",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41756924370327,
+     34.94582184529806
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Jones Street",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41756924370327,
+     34.94582184529806
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Jones Street",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41756924370327,
+     34.94582184529806
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Jones Street",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41756924370327,
+     34.94582184529806
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Jones Street",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41806138933163,
+     34.92354980254106
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Betteravia Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41805972964266,
+     34.92367765358083
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Betteravia Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41806138933163,
+     34.92354980254106
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Betteravia Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41805972964266,
+     34.92367765358083
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Betteravia Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41806138933163,
+     34.92354980254106
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Betteravia Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41805972964266,
+     34.92367765358083
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Betteravia Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41806138933163,
+     34.92354980254106
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Betteravia Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41805972964266,
+     34.92367765358083
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Betteravia Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41774656928841,
+     34.92354521602542
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Betteravia Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4177454721252,
+     34.92367435118606
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Betteravia Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41765453615534,
+     34.9383372566211
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Stowell Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41774656928841,
+     34.92354521602542
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Betteravia Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4177454721252,
+     34.92367435118606
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Betteravia Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41765453615534,
+     34.9383372566211
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Stowell Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41774656928841,
+     34.92354521602542
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Betteravia Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4177454721252,
+     34.92367435118606
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Betteravia Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41765453615534,
+     34.9383372566211
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Stowell Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41774656928841,
+     34.92354521602542
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Betteravia Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4177454721252,
+     34.92367435118606
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Betteravia Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41765453615534,
+     34.9383372566211
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Stowell Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41782844326235,
+     34.8912652274466
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Maria Way",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4178132576077,
+     34.89122212755732
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Maria Way",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41782844326235,
+     34.8912652274466
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Maria Way",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4178132576077,
+     34.89122212755732
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Maria Way",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41782844326235,
+     34.8912652274466
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Maria Way",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4178132576077,
+     34.89122212755732
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Maria Way",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41782844326235,
+     34.8912652274466
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Maria Way",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4178132576077,
+     34.89122212755732
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Maria Way",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4175044067843,
+     34.89114681441314
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Maria Way",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4175044067843,
+     34.89114681441314
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Maria Way",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4175044067843,
+     34.89114681441314
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Maria Way",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4175044067843,
+     34.89114681441314
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Santa Maria Way",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43850615742416,
+     34.859427477295256
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orcutt Expressway;CA 135",
+     "West Rice Ranch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43845510564756,
+     34.85946908049996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orcutt Expressway;CA 135",
+     "West Rice Ranch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43850615742416,
+     34.859427477295256
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orcutt Expressway;CA 135",
+     "West Rice Ranch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43845510564756,
+     34.85946908049996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orcutt Expressway;CA 135",
+     "West Rice Ranch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43873569201241,
+     34.85951658100295
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orcutt Expressway;CA 135",
+     "West Rice Ranch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43868535560064,
+     34.85955658232076
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orcutt Expressway;CA 135",
+     "West Rice Ranch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43873569201241,
+     34.85951658100295
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orcutt Expressway;CA 135",
+     "West Rice Ranch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43868535560064,
+     34.85955658232076
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Orcutt Expressway;CA 135",
+     "West Rice Ranch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.45245630108457,
+     34.854213582862684
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cabrillo Highway;CA 1",
+     "Orcutt Expressway;CA 135"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.45245630108457,
+     34.854213582862684
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cabrillo Highway;CA 1",
+     "Orcutt Expressway;CA 135"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43656440111096,
+     34.86507018904159
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Clark Avenue",
+     "Orcutt Expressway;CA 135"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43656440111096,
+     34.86507018904159
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Clark Avenue",
+     "Orcutt Expressway;CA 135"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43679714331302,
+     34.86507293453798
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Clark Avenue",
+     "Orcutt Expressway;CA 135"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43679714331302,
+     34.86507293453798
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Clark Avenue",
+     "Orcutt Expressway;CA 135"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.39599282726329,
+     34.8654075770139
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Clark Avenue",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.39599282726329,
+     34.8654075770139
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Clark Avenue",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.39599282726329,
+     34.8654075770139
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Clark Avenue",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.39599282726329,
+     34.8654075770139
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Clark Avenue",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.85295943239478,
+     34.43776457599609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Los Carneros Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.85295943239478,
+     34.43776457599609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Los Carneros Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.85295943239478,
+     34.43776457599609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Los Carneros Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.85295943239478,
+     34.43776457599609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Los Carneros Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43133435959156,
+     34.98135868614526
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101;CA 166",
+     "North Broadway;CA 135"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43133435959156,
+     34.98135868614526
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101;CA 166",
+     "North Broadway;CA 135"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43149914609138,
+     34.98123892834611
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101;CA 166",
+     "North Broadway;CA 135"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.43149914609138,
+     34.98123892834611
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101;CA 166",
+     "North Broadway;CA 135"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.42313568673407,
+     34.96772656539204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Donovan Road",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.42309081547972,
+     34.96765509054421
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Donovan Road",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.42313568673407,
+     34.96772656539204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Donovan Road",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.42309081547972,
+     34.96765509054421
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Donovan Road",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.42313568673407,
+     34.96772656539204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Donovan Road",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41865782197407,
+     34.96030061918095
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Alvin Avenue",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.42309081547972,
+     34.96765509054421
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Donovan Road",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.42313568673407,
+     34.96772656539204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Donovan Road",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41865782197407,
+     34.96030061918095
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Alvin Avenue",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.42309081547972,
+     34.96765509054421
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Donovan Road",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.45245630108457,
+     34.854213582862684
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cabrillo Highway;CA 1",
+     "Orcutt Expressway;CA 135"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.45245630108457,
+     34.854213582862684
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cabrillo Highway;CA 1",
+     "Orcutt Expressway;CA 135"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41738132459814,
+     34.95299385373225
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;CA 166",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41738132459814,
+     34.95299385373225
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;CA 166",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41738132459814,
+     34.95299385373225
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;CA 166",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41738132459814,
+     34.95299385373225
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;CA 166",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41718549380771,
+     34.95299114340358
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;CA 166",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41718549380771,
+     34.95299114340358
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;CA 166",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41718549380771,
+     34.95299114340358
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;CA 166",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41718549380771,
+     34.95299114340358
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Main Street;CA 166",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.48446522938072,
+     34.383849210638616
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Rincon Road;CA 150",
+     "Ventura Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.48446522938072,
+     34.383849210638616
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Rincon Road;CA 150",
+     "Ventura Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.18942544847005,
+     34.61838915618535
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Rufus T. Buell Drive",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.18942544847005,
+     34.61838915618535
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Rufus T. Buell Drive",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.39639711697625,
+     34.865411434489204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Clark Avenue",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.39639711697625,
+     34.865411434489204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Clark Avenue",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.39639711697625,
+     34.865411434489204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Clark Avenue",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.39639711697625,
+     34.865411434489204
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Clark Avenue",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.42290996064256,
+     34.96772577470645
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Donovan Road",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.42286527672793,
+     34.96765432570692
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Donovan Road",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.42290996064256,
+     34.96772577470645
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Donovan Road",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.42286527672793,
+     34.96765432570692
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Donovan Road",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.42290996064256,
+     34.96772577470645
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Donovan Road",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41844002924871,
+     34.960298439589884
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Alvin Avenue",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.42286527672793,
+     34.96765432570692
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Donovan Road",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.42290996064256,
+     34.96772577470645
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Donovan Road",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41844002924871,
+     34.960298439589884
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Alvin Avenue",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.42286527672793,
+     34.96765432570692
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Donovan Road",
+     "El Camino Real;US 101;CA 166"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67571338153586,
+     34.420349077875514
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cacique Street",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67571338153586,
+     34.420349077875514
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cacique Street",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67571338153586,
+     34.420349077875514
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cacique Street",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67571338153586,
+     34.420349077875514
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cacique Street",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67587473876904,
+     34.42019687308496
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cacique Street",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67587473876904,
+     34.42019687308496
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cacique Street",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67587473876904,
+     34.42019687308496
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cacique Street",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.67587473876904,
+     34.42019687308496
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cacique Street",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.81312042712905,
+     34.44136498413864
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.81312042712905,
+     34.44136498413864
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Ward Memorial Boulevard;CA 217"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9869495599267,
+     34.4583721091657
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "El Capitan Ranch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.9869495599267,
+     34.4583721091657
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "El Capitan Ranch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.98698492217564,
+     34.45816446776464
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "El Capitan Ranch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.98698492217564,
+     34.45816446776464
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "El Capitan Ranch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.90587765758114,
+     34.43242938862837
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cathedral Oaks Road",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.90587765758114,
+     34.43242938862837
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cathedral Oaks Road",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.90594614054595,
+     34.43224418687138
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cathedral Oaks Road",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.90594614054595,
+     34.43224418687138
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cathedral Oaks Road",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.19029658008719,
+     34.612182636152674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 246",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.19029658008719,
+     34.612182636152674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 246",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.19029658008719,
+     34.612182636152674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 246",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.19029658008719,
+     34.612182636152674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 246",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.18919692319061,
+     34.6183900018236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Rufus T. Buell Drive",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.18919692319061,
+     34.6183900018236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Rufus T. Buell Drive",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.40865453581213,
+     34.880024714367345
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "Union Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.40865453581213,
+     34.880024714367345
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "Union Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.40865453581213,
+     34.880024714367345
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "Union Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.40903397790433,
+     34.87999717721649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "Union Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.40903397790433,
+     34.87999717721649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "Union Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.40903397790433,
+     34.87999717721649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "US 101",
+     "Union Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51151096589795,
+     34.396896024591946
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Casitas Pass Road",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51145646020032,
+     34.39681456885492
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Casitas Pass Road",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51151096589795,
+     34.396896024591946
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Casitas Pass Road",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51638670610573,
+     34.401199870849084
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Linden Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51145646020032,
+     34.39681456885492
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Casitas Pass Road",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51638670610573,
+     34.401199870849084
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Linden Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.58264918512475,
+     34.416679832303515
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Padaro Lane",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.58264918512475,
+     34.416679832303515
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Padaro Lane",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.58264918512475,
+     34.416679832303515
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Padaro Lane",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.58264918512475,
+     34.416679832303515
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Padaro Lane",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.4979325501047,
+     34.38843690402255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bailard Avenue",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.4979325501047,
+     34.38843690402255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bailard Avenue",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.4979325501047,
+     34.38843690402255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bailard Avenue",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.4979325501047,
+     34.38843690402255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bailard Avenue",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.48473224468505,
+     34.38371445912634
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Rincon Road;CA 150",
+     "Ventura Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.48473224468505,
+     34.38371445912634
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Rincon Road;CA 150",
+     "Ventura Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7556752888187,
+     34.44014827761116
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75586319715576,
+     34.44026659236254
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7556752888187,
+     34.44014827761116
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75586319715576,
+     34.44026659236254
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7556752888187,
+     34.44014827761116
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75586319715576,
+     34.44026659236254
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7556752888187,
+     34.44014827761116
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75586319715576,
+     34.44026659236254
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.76012030462014,
+     34.44114777533176
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chumash Highway;CA 154",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.76012030462014,
+     34.44114777533176
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chumash Highway;CA 154",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75996912595912,
+     34.441152742982936
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chumash Highway;CA 154",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75996912595912,
+     34.441152742982936
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Chumash Highway;CA 154",
+     "El Camino Real;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83245829729046,
+     34.439589410048214
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Fairview Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83234025107669,
+     34.43960063762804
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Fairview Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83245829729046,
+     34.439589410048214
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Fairview Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83234025107669,
+     34.43960063762804
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Fairview Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83245829729046,
+     34.439589410048214
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Fairview Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83234025107669,
+     34.43960063762804
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Fairview Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83245829729046,
+     34.439589410048214
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Fairview Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83234025107669,
+     34.43960063762804
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Fairview Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.61419800283036,
+     34.42162209684697
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sheffield Drive",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.61419800283036,
+     34.42162209684697
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sheffield Drive",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.61419800283036,
+     34.42162209684697
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sheffield Drive",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.61419800283036,
+     34.42162209684697
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Sheffield Drive",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83243969518766,
+     34.439448585823634
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Fairview Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83232146993922,
+     34.43945952589008
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Fairview Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83243969518766,
+     34.439448585823634
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Fairview Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83232146993922,
+     34.43945952589008
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Fairview Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83243969518766,
+     34.439448585823634
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Fairview Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83232146993922,
+     34.43945952589008
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Fairview Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83243969518766,
+     34.439448585823634
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Fairview Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.83232146993922,
+     34.43945952589008
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Fairview Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.87087410942594,
+     34.43438118065527
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Glen Annie Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8707130505508,
+     34.43441503356026
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Storke Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.87087410942594,
+     34.43438118065527
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Glen Annie Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.8707130505508,
+     34.43441503356026
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Storke Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.73375118614973,
+     34.42794637631107
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Las Positas Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.73375118614973,
+     34.42794637631107
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Las Positas Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.78939482479062,
+     34.44222688459524
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Turnpike Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7892410750933,
+     34.44223589797541
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Turnpike Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.78939482479062,
+     34.44222688459524
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Turnpike Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.7892410750933,
+     34.44223589797541
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "North Turnpike Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75541201843858,
+     34.4401721661869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75560387258842,
+     34.44028859565916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75541201843858,
+     34.4401721661869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75560387258842,
+     34.44028859565916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75541201843858,
+     34.4401721661869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75560387258842,
+     34.44028859565916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75541201843858,
+     34.4401721661869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75560387258842,
+     34.44028859565916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "State Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75152878463375,
+     34.43680849807158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South La Cumbre Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75152878463375,
+     34.43680849807158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South La Cumbre Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75152878463375,
+     34.43680849807158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South La Cumbre Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.75152878463375,
+     34.43680849807158
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "South La Cumbre Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41790674423942,
+     34.93834086550112
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Stowell Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41790674423942,
+     34.93834086550112
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Stowell Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41790674423942,
+     34.93834086550112
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Stowell Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.41790674423942,
+     34.93834086550112
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East Stowell Road",
+     "US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51645130789593,
+     34.40103808146317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Linden Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.51645130789593,
+     34.40103808146317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Linden Avenue",
+     "US 101 Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63998526623122,
+     34.42071663641441
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Olive Mill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63998526623122,
+     34.42071663641441
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Olive Mill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63998526623122,
+     34.42071663641441
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Olive Mill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.63998526623122,
+     34.42071663641441
+    ]
+   },
+   "properties": {
+    "streets": [
+     "El Camino Real;US 101",
+     "Olive Mill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.49802539917846,
+     34.38823429005186
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bailard Avenue",
+     "Ventura Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.49802539917846,
+     34.38823429005186
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bailard Avenue",
+     "Ventura Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.49802539917846,
+     34.38823429005186
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bailard Avenue",
+     "Ventura Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.49802539917846,
+     34.38823429005186
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bailard Avenue",
+     "Ventura Freeway;US 101"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

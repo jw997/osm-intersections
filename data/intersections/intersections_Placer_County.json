@@ -215773,6 +215773,7622 @@
     ],
     "nodeId": 13158646897
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29034192165953,
+     38.72458938293079
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Riverside Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29047047256803,
+     38.724471915923154
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Auburn Boulevard",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29034192165953,
+     38.72458938293079
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Riverside Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29047047256803,
+     38.724471915923154
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Auburn Boulevard",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.22283746385651,
+     38.78844373446952
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rocklin Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.22273312997339,
+     38.788533314756066
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rocklin Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.22283746385651,
+     38.78844373446952
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rocklin Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.22273312997339,
+     38.788533314756066
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rocklin Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.22283746385651,
+     38.78844373446952
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rocklin Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.22273312997339,
+     38.788533314756066
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rocklin Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.22283746385651,
+     38.78844373446952
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rocklin Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.22273312997339,
+     38.788533314756066
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rocklin Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.22258430714241,
+     38.7884406858123
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rocklin Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.22247708659192,
+     38.7885305436238
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rocklin Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.22258430714241,
+     38.7884406858123
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rocklin Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.22247708659192,
+     38.7885305436238
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rocklin Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.22258430714241,
+     38.7884406858123
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rocklin Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.22247708659192,
+     38.7885305436238
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rocklin Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.22258430714241,
+     38.7884406858123
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rocklin Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.22247708659192,
+     38.7885305436238
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rocklin Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.12589861574548,
+     38.8782783434971
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Ophir Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.12589861574548,
+     38.8782783434971
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Ophir Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.12584634130623,
+     38.8781182368871
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Ophir Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.12584634130623,
+     38.8781182368871
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Ophir Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.10442776245135,
+     38.88283006641226
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Werner Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.10442776245135,
+     38.88283006641226
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Werner Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.10442776245135,
+     38.88283006641226
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Werner Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.10442776245135,
+     38.88283006641226
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Werner Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.1043183123516,
+     38.88270890189398
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Werner Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.1043183123516,
+     38.88270890189398
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Werner Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.1043183123516,
+     38.88270890189398
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Werner Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.1043183123516,
+     38.88270890189398
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Werner Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07466172316654,
+     38.90014751519342
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Grass Valley Highway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07466172316654,
+     38.90014751519342
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Grass Valley Highway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07466172316654,
+     38.90014751519342
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Grass Valley Highway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07466172316654,
+     38.90014751519342
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Grass Valley Highway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07466172316654,
+     38.90014751519342
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Grass Valley Highway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07466172316654,
+     38.90014751519342
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Grass Valley Highway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.99335331619329,
+     39.00384480255364
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Crother Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.99335331619329,
+     39.00384480255364
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Crother Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.99335331619329,
+     39.00384480255364
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Crother Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.99335331619329,
+     39.00384480255364
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Crother Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29723720542222,
+     38.795651058679674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blue Oaks Boulevard",
+     "CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29723720542222,
+     38.795651058679674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blue Oaks Boulevard",
+     "CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.85796202896212,
+     39.17511342961257
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Magra Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.85796202896212,
+     39.17511342961257
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Magra Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.90793811960245,
+     39.147245920579216
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Magra Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.90793811960245,
+     39.147245920579216
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Magra Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.89834097826518,
+     39.14996472032404
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Secret Town Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.89834097826518,
+     39.14996472032404
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Secret Town Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.89834097826518,
+     39.14996472032404
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Secret Town Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.89834097826518,
+     39.14996472032404
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Secret Town Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.89834097826518,
+     39.14996472032404
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Secret Town Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.89834097826518,
+     39.14996472032404
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Secret Town Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.81204372540786,
+     39.20172807756628
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Casa Loma Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.81204372540786,
+     39.20172807756628
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Casa Loma Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.81212428444698,
+     39.20183792674622
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Casa Loma Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.81212428444698,
+     39.20183792674622
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Casa Loma Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.848209255273,
+     39.18418041532316
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hi Sierra Drive;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.848209255273,
+     39.18418041532316
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hi Sierra Drive;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8321046007138,
+     39.18824561084905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Ridge Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8321046007138,
+     39.18824561084905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Ridge Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8321046007138,
+     39.18824561084905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Ridge Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8321046007138,
+     39.18824561084905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Ridge Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.78622413038185,
+     39.20921219722629
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Crystal Springs Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.78622413038185,
+     39.20921219722629
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Crystal Springs Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.78622413038185,
+     39.20921219722629
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Crystal Springs Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.78622413038185,
+     39.20921219722629
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Crystal Springs Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.75274227431649,
+     39.23723498883286
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Drum Forebay Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.75274227431649,
+     39.23723498883286
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Drum Forebay Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.78632062435143,
+     39.20931595191987
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Crystal Springs Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.78632062435143,
+     39.20931595191987
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Crystal Springs Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.78632062435143,
+     39.20931595191987
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Crystal Springs Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.78632062435143,
+     39.20931595191987
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Crystal Springs Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.75289544208245,
+     39.23727009193968
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Drum Forebay Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.75289544208245,
+     39.23727009193968
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Drum Forebay Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.75289544208245,
+     39.23727009193968
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Drum Forebay Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.75289544208245,
+     39.23727009193968
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Drum Forebay Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.67978886394249,
+     39.29289681502868
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Nyack Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.67978886394249,
+     39.29289681502868
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Nyack Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.67978886394249,
+     39.29289681502868
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Nyack Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.67978886394249,
+     39.29289681502868
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Nyack Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.67959946024655,
+     39.29260666864069
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Nyack Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.67959946024655,
+     39.29260666864069
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Nyack Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6609447305783,
+     39.30200861202977
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Emigrant Gap Undercrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6609447305783,
+     39.30200861202977
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Emigrant Gap Undercrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6609447305783,
+     39.30200861202977
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Emigrant Gap Undercrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.6609447305783,
+     39.30200861202977
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Emigrant Gap Undercrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.66100093978298,
+     39.30214136041429
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Emigrant Gap Undercrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.66100093978298,
+     39.30214136041429
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Emigrant Gap Undercrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.66100093978298,
+     39.30214136041429
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Emigrant Gap Undercrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.66100093978298,
+     39.30214136041429
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Emigrant Gap Undercrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.54415468528377,
+     39.30976853668503
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cisco Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.54415468528377,
+     39.30976853668503
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cisco Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.54415468528377,
+     39.30976853668503
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cisco Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.53242457702582,
+     39.3056744221341
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hampshire Rocks Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.53242457702582,
+     39.3056744221341
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hampshire Rocks Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.53242457702582,
+     39.3056744221341
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hampshire Rocks Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.53242457702582,
+     39.3056744221341
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hampshire Rocks Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.52585379523966,
+     39.30521533253861
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hampshire Rocks Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.52585379523966,
+     39.30521533253861
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hampshire Rocks Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.52585379523966,
+     39.30521533253861
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hampshire Rocks Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.52585379523966,
+     39.30521533253861
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hampshire Rocks Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.15512485528187,
+     38.845187577772116
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rock Springs Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.15512485528187,
+     38.845187577772116
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rock Springs Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.15506499171218,
+     38.84500969300689
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rock Springs Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.15506499171218,
+     38.84500969300689
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Rock Springs Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.14356776504714,
+     38.85447816230743
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Gilardi Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.14356776504714,
+     38.85447816230743
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Gilardi Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.14356776504714,
+     38.85447816230743
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Gilardi Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.14356776504714,
+     38.85447816230743
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Gilardi Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26152432582228,
+     38.75804655933177
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Eureka Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26143156297353,
+     38.758188178736816
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Atlantic Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26152432582228,
+     38.75804655933177
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Eureka Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26143156297353,
+     38.758188178736816
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Atlantic Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.97416136117806,
+     39.044684163692914
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "West Weimar Cross Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.97416136117806,
+     39.044684163692914
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "West Weimar Cross Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.97416136117806,
+     39.044684163692914
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "West Weimar Cross Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.97416136117806,
+     39.044684163692914
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "West Weimar Cross Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29999923082028,
+     38.81735294103373
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Sunset Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30000645644247,
+     38.81720839405866
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Sunset Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29999923082028,
+     38.81735294103373
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Sunset Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30000645644247,
+     38.81720839405866
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Sunset Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29999923082028,
+     38.81735294103373
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Sunset Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30000645644247,
+     38.81720839405866
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Sunset Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29999923082028,
+     38.81735294103373
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Sunset Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30000645644247,
+     38.81720839405866
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Sunset Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29955571000347,
+     38.851035949749644
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Twelve Bridges Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29955473503477,
+     38.85112078718108
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Twelve Bridges Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29955571000347,
+     38.851035949749644
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Twelve Bridges Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29955473503477,
+     38.85112078718108
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Twelve Bridges Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05754252293896,
+     38.923495617013806
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Foresthill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05754252293896,
+     38.923495617013806
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Foresthill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05754252293896,
+     38.923495617013806
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Foresthill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05754252293896,
+     38.923495617013806
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Foresthill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05519212557677,
+     38.93306300865651
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Bowman Undercrossing Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05519212557677,
+     38.93306300865651
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Bowman Undercrossing Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05519212557677,
+     38.93306300865651
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Bowman Undercrossing Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.05519212557677,
+     38.93306300865651
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Bowman Undercrossing Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0549378015068,
+     38.93303138691549
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Bowman Undercrossing Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0549378015068,
+     38.93303138691549
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Bowman Undercrossing Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0549378015068,
+     38.93303138691549
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Bowman Undercrossing Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0549378015068,
+     38.93303138691549
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Bowman Undercrossing Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30178295607965,
+     38.864064686071245
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lincoln Boulevard",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30178295607965,
+     38.864064686071245
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lincoln Boulevard",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30178295607965,
+     38.864064686071245
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lincoln Boulevard",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30178295607965,
+     38.864064686071245
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lincoln Boulevard",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3016109821682,
+     38.864500072121665
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lincoln Boulevard",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3016109821682,
+     38.864500072121665
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lincoln Boulevard",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3016109821682,
+     38.864500072121665
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lincoln Boulevard",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3016109821682,
+     38.864500072121665
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lincoln Boulevard",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30744048206843,
+     38.870329393635146
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30759078017272,
+     38.87046666223345
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30744048206843,
+     38.870329393635146
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30759078017272,
+     38.87046666223345
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30744048206843,
+     38.870329393635146
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30759078017272,
+     38.87046666223345
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30744048206843,
+     38.870329393635146
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30759078017272,
+     38.87046666223345
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30772981248813,
+     38.8701311906843
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30788188625051,
+     38.8702683184926
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30772981248813,
+     38.8701311906843
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30788188625051,
+     38.8702683184926
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30772981248813,
+     38.8701311906843
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30788188625051,
+     38.8702683184926
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30772981248813,
+     38.8701311906843
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30788188625051,
+     38.8702683184926
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30772981248813,
+     38.8701311906843
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30788188625051,
+     38.8702683184926
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30772981248813,
+     38.8701311906843
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30788188625051,
+     38.8702683184926
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Ferrari Ranch Road",
+     "Thomas J. Cosgrove Memorial Highway;CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25176153713439,
+     38.77209468003167
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Taylor Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25176153713439,
+     38.77209468003167
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Taylor Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25176153713439,
+     38.77209468003167
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Taylor Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25176153713439,
+     38.77209468003167
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Taylor Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.99352602409313,
+     39.00391746574481
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Crother Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.99352602409313,
+     39.00391746574481
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Crother Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.99352602409313,
+     39.00391746574481
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Crother Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.99352602409313,
+     39.00391746574481
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Crother Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.98269071590663,
+     39.01859033109424
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Applegate Road;19-131"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.98269071590663,
+     39.01859033109424
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Applegate Road;19-131"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9752557667281,
+     39.03450006015054
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "West Paoli Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9752557667281,
+     39.03450006015054
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "West Paoli Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.97399833804907,
+     39.04470876324268
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "West Weimar Cross Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.97399833804907,
+     39.04470876324268
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "West Weimar Cross Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.97399833804907,
+     39.04470876324268
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "West Weimar Cross Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.97399833804907,
+     39.04470876324268
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "West Weimar Cross Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25590198026013,
+     38.765599308648476
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Taylor Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25590198026013,
+     38.765599308648476
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Taylor Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25590198026013,
+     38.765599308648476
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Taylor Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25590198026013,
+     38.765599308648476
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Taylor Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.98259069653237,
+     39.018504469523734
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Applegate Road;19-131"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.98259069653237,
+     39.018504469523734
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Applegate Road;19-131"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.97516479272161,
+     39.03437242983183
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "West Paoli Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.97516479272161,
+     39.03437242983183
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "West Paoli Lane"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.27078544862023,
+     38.7441425349701
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Douglas Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.27088399833823,
+     38.74399025567781
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Douglas Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.27078544862023,
+     38.7441425349701
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Douglas Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.27088399833823,
+     38.74399025567781
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Douglas Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.27078544862023,
+     38.7441425349701
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Douglas Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.27088399833823,
+     38.74399025567781
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Douglas Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.27078544862023,
+     38.7441425349701
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Douglas Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.27088399833823,
+     38.74399025567781
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Douglas Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2903466867924,
+     38.724928005186044
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Riverside Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29047201752091,
+     38.72481378170627
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Auburn Boulevard",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2903466867924,
+     38.724928005186044
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Riverside Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29047201752091,
+     38.72481378170627
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Auburn Boulevard",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.27054132486852,
+     38.74414691500029
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Douglas Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.27064310613378,
+     38.743992994503905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Douglas Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.27054132486852,
+     38.74414691500029
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Douglas Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.27064310613378,
+     38.743992994503905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Douglas Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.27054132486852,
+     38.74414691500029
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Douglas Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.27064310613378,
+     38.743992994503905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Douglas Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.27054132486852,
+     38.74414691500029
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Douglas Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.27064310613378,
+     38.743992994503905
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Douglas Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91967272061429,
+     39.138668133430855
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cape Horn Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91967272061429,
+     39.138668133430855
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cape Horn Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91967272061429,
+     39.138668133430855
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cape Horn Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91967272061429,
+     39.138668133430855
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cape Horn Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91965610084608,
+     39.13858919806362
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cape Horn Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91965610084608,
+     39.13858919806362
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cape Horn Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91965610084608,
+     39.13858919806362
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cape Horn Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.91965610084608,
+     39.13858919806362
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cape Horn Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.90785695876534,
+     39.14712023974456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Magra Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.90785695876534,
+     39.14712023974456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Magra Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.89823342175339,
+     39.14982566042398
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Secret Town Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.89823342175339,
+     39.14982566042398
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Secret Town Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.89823342175339,
+     39.14982566042398
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Secret Town Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.89823342175339,
+     39.14982566042398
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Secret Town Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.89823342175339,
+     39.14982566042398
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Secret Town Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.89823342175339,
+     39.14982566042398
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Secret Town Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.94085740784658,
+     39.12182161330902
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Carpenter Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.94085740784658,
+     39.12182161330902
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Carpenter Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.94085740784658,
+     39.12182161330902
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Carpenter Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.94085740784658,
+     39.12182161330902
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Carpenter Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.94095339769797,
+     39.1218419391294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Carpenter Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.94095339769797,
+     39.1218419391294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Carpenter Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.94095339769797,
+     39.1218419391294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Carpenter Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.94095339769797,
+     39.1218419391294
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Carpenter Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49891919450549,
+     39.31201038736626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49891919450549,
+     39.31201038736626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49891919450549,
+     39.31201038736626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49891919450549,
+     39.31201038736626
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49917801968151,
+     39.31167658124598
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49917801968151,
+     39.31167658124598
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49917801968151,
+     39.31167658124598
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.49917801968151,
+     39.31167658124598
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Donner Pass Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47003232827427,
+     39.31345904552807
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "South Yuba Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47003232827427,
+     39.31345904552807
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "South Yuba Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47003232827427,
+     39.31345904552807
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "South Yuba Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47003232827427,
+     39.31345904552807
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "South Yuba Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47003232827427,
+     39.31345904552807
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "South Yuba Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.47003232827427,
+     39.31345904552807
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "South Yuba Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.46975047742525,
+     39.31379922183761
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "South Yuba Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.46975047742525,
+     39.31379922183761
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "South Yuba Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.46975047742525,
+     39.31379922183761
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "South Yuba Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.46975047742525,
+     39.31379922183761
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "South Yuba Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.46975047742525,
+     39.31379922183761
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "South Yuba Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.46975047742525,
+     39.31379922183761
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "South Yuba Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.54395791063837,
+     39.31002429517769
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cisco Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.54395791063837,
+     39.31002429517769
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cisco Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.54395791063837,
+     39.31002429517769
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cisco Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.45800495325305,
+     39.315451402003326
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Troy Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.45800495325305,
+     39.315451402003326
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Troy Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.45814677766563,
+     39.314817781855744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Troy Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.45814677766563,
+     39.314817781855744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Troy Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25594253539333,
+     38.76519794548838
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Taylor Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25594253539333,
+     38.76519794548838
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Taylor Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25594253539333,
+     38.76519794548838
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Taylor Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25594253539333,
+     38.76519794548838
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Taylor Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2616768688017,
+     38.75822531615434
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Atlantic Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26176748360707,
+     38.7580805411458
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Eureka Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2616768688017,
+     38.75822531615434
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Atlantic Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26176748360707,
+     38.7580805411458
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Eureka Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.85807777321082,
+     39.17519771503866
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Magra Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.85807777321082,
+     39.17519771503866
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Magra Road;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.84807212269472,
+     39.18411525189401
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hi Sierra Drive;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.84807212269472,
+     39.18411525189401
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Hi Sierra Drive;US 40 Hist"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8321679753259,
+     39.188129885485104
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Ridge Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8321679753259,
+     39.188129885485104
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Ridge Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8321679753259,
+     39.188129885485104
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Ridge Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.8321679753259,
+     39.188129885485104
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Ridge Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07476548322674,
+     38.90034413664836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Grass Valley Highway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07476548322674,
+     38.90034413664836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Grass Valley Highway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07476548322674,
+     38.90034413664836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Grass Valley Highway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07476548322674,
+     38.90034413664836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Grass Valley Highway;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07156412347761,
+     38.90336379723175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 49",
+     "Elm Avenue;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07245520468068,
+     38.902129202000665
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 49",
+     "Walsh Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07156412347761,
+     38.90336379723175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 49",
+     "Elm Avenue;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07245520468068,
+     38.902129202000665
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 49",
+     "Walsh Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07156412347761,
+     38.90336379723175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 49",
+     "Elm Avenue;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07245520468068,
+     38.902129202000665
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 49",
+     "Walsh Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07156412347761,
+     38.90336379723175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 49",
+     "Elm Avenue;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07245520468068,
+     38.902129202000665
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80;CA 49",
+     "Walsh Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26587826535881,
+     38.777302298023734
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Galleria Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26563271863402,
+     38.77718093247821
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Stanford Ranch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26587826535881,
+     38.777302298023734
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Galleria Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26563271863402,
+     38.77718093247821
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Stanford Ranch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26563874839157,
+     38.77746911999802
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Stanford Ranch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26587644270178,
+     38.777581713539185
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Galleria Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26563874839157,
+     38.77746911999802
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Stanford Ranch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26587644270178,
+     38.777581713539185
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Galleria Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25871968186507,
+     38.76285980641872
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Roseville Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25863740145157,
+     38.76298427917918
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Roseville Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25871968186507,
+     38.76285980641872
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Roseville Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25863740145157,
+     38.76298427917918
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Roseville Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25828105263162,
+     38.76281994916195
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "East Roseville Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25836543577306,
+     38.76269333550611
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "East Roseville Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25828105263162,
+     38.76281994916195
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "East Roseville Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25836543577306,
+     38.76269333550611
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "East Roseville Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25828105263162,
+     38.76281994916195
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "East Roseville Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25836543577306,
+     38.76269333550611
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "East Roseville Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25828105263162,
+     38.76281994916195
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "East Roseville Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.25836543577306,
+     38.76269333550611
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "East Roseville Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26581298180623,
+     38.75180539470488
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Lead Hill Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26581298180623,
+     38.75180539470488
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Lead Hill Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07808163905585,
+     38.89728157245055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Maple Street Bridge"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07808163905585,
+     38.89728157245055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Maple Street Bridge"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07808163905585,
+     38.89728157245055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Maple Street Bridge"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07808163905585,
+     38.89728157245055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Maple Street Bridge"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29981153442611,
+     38.83164681647666
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Whitney Ranch Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29981153442611,
+     38.83164681647666
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Whitney Ranch Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29748187291027,
+     38.79559407880291
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blue Oaks Boulevard",
+     "CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29748187291027,
+     38.79559407880291
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Blue Oaks Boulevard",
+     "CA 65"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2841591877916,
+     38.786458607727354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Pleasant Grove Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2841591877916,
+     38.786458607727354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Pleasant Grove Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2841591877916,
+     38.786458607727354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Pleasant Grove Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2841591877916,
+     38.786458607727354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Pleasant Grove Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0572693529049,
+     38.92344789249092
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Foresthill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0572693529049,
+     38.92344789249092
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Foresthill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0572693529049,
+     38.92344789249092
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Foresthill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0572693529049,
+     38.92344789249092
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Foresthill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0626995041348,
+     38.916163739896795
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Russell Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0626995041348,
+     38.916163739896795
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Russell Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26563624667871,
+     38.75173372631014
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Lead Hill Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.26563624667871,
+     38.75173372631014
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Lead Hill Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.13144393226777,
+     38.8731314272931
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Newcastle Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.13144393226777,
+     38.8731314272931
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Newcastle Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.13144393226777,
+     38.8731314272931
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Newcastle Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.13144393226777,
+     38.8731314272931
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Newcastle Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.16853821783488,
+     38.834061464137385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Penryn Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.16853821783488,
+     38.834061464137385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Penryn Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.16853821783488,
+     38.834061464137385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Penryn Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.16853821783488,
+     38.834061464137385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Penryn Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.1891458652101,
+     38.816763552603284
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Horseshoe Bar Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.1891458652101,
+     38.816763552603284
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Horseshoe Bar Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.17906002196965,
+     38.82524880677647
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "King Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.17906002196965,
+     38.82524880677647
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "King Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.17906002196965,
+     38.82524880677647
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "King Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.17906002196965,
+     38.82524880677647
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "King Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.19671923250455,
+     38.810402272359795
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Brace Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.19671923250455,
+     38.810402272359795
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Brace Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.19671923250455,
+     38.810402272359795
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Brace Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.19671923250455,
+     38.810402272359795
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Brace Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.16853941249298,
+     38.83382359732381
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Penryn Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.16853941249298,
+     38.83382359732381
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Penryn Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.16853941249298,
+     38.83382359732381
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Penryn Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.16853941249298,
+     38.83382359732381
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Penryn Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.17877156353914,
+     38.82525265556963
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "King Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.17877156353914,
+     38.82525265556963
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "King Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.20538164775981,
+     38.80313731103087
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Sierra College Boulevard;E3"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.20550862087103,
+     38.80303029263272
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Sierra College Boulevard;E3"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.20538164775981,
+     38.80313731103087
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Sierra College Boulevard;E3"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.20550862087103,
+     38.80303029263272
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Sierra College Boulevard;E3"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30016757746611,
+     38.83164881777251
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Whitney Ranch Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30016757746611,
+     38.83164881777251
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Whitney Ranch Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29996168202453,
+     38.85103506246726
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Twelve Bridges Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29996093692233,
+     38.85110561161118
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Twelve Bridges Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29996168202453,
+     38.85103506246726
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Twelve Bridges Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29996093692233,
+     38.85110561161118
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Twelve Bridges Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30016757746611,
+     38.83164881777251
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Whitney Ranch Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30016757746611,
+     38.83164881777251
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Whitney Ranch Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29996168202453,
+     38.85103506246726
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Twelve Bridges Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29996093692233,
+     38.85110561161118
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Twelve Bridges Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29996168202453,
+     38.85103506246726
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Twelve Bridges Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.29996093692233,
+     38.85110561161118
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Twelve Bridges Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.20538444677541,
+     38.80288086568384
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Sierra College Boulevard;E3"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.20551251515138,
+     38.80277354664704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Sierra College Boulevard;E3"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.20538444677541,
+     38.80288086568384
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Sierra College Boulevard;E3"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.20551251515138,
+     38.80277354664704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Sierra College Boulevard;E3"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.1438389747831,
+     38.85448153238532
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Gilardi Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.1438389747831,
+     38.85448153238532
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Gilardi Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.1438389747831,
+     38.85448153238532
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Gilardi Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.1438389747831,
+     38.85448153238532
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Gilardi Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.13163360305961,
+     38.87321231178923
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Newcastle Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.13163360305961,
+     38.87321231178923
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Newcastle Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07184468532927,
+     38.903379926995875
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Elm Avenue;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07267490037069,
+     38.902217711586125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Walsh Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07184468532927,
+     38.903379926995875
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Elm Avenue;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07267490037069,
+     38.902217711586125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Walsh Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07184468532927,
+     38.903379926995875
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Elm Avenue;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07267490037069,
+     38.902217711586125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Walsh Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07184468532927,
+     38.903379926995875
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Elm Avenue;CA 49"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07267490037069,
+     38.902217711586125
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Walsh Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.18901733147358,
+     38.81663358119108
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Horseshoe Bar Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.18901733147358,
+     38.81663358119108
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Horseshoe Bar Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.19643751693309,
+     38.81040643523397
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Brace Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.19643751693309,
+     38.81040643523397
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Brace Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.19643751693309,
+     38.81040643523397
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Brace Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.19643751693309,
+     38.81040643523397
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Brace Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07821269473652,
+     38.897412496151695
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Maple Street Bridge"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07821269473652,
+     38.897412496151695
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Maple Street Bridge"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07821269473652,
+     38.897412496151695
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Maple Street Bridge"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.07821269473652,
+     38.897412496151695
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Maple Street Bridge"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30032702625793,
+     38.81735499951527
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Sunset Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30032826348152,
+     38.8172105246109
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Sunset Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30032702625793,
+     38.81735499951527
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Sunset Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30032826348152,
+     38.8172105246109
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Sunset Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30032702625793,
+     38.81735499951527
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Sunset Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30032826348152,
+     38.8172105246109
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Sunset Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30032702625793,
+     38.81735499951527
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Sunset Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.30032826348152,
+     38.8172105246109
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Sunset Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.28402670151479,
+     38.78662167609506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Pleasant Grove Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.28402670151479,
+     38.78662167609506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Pleasant Grove Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.28402670151479,
+     38.78662167609506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Pleasant Grove Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.28402670151479,
+     38.78662167609506
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Pleasant Grove Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.06293613313377,
+     38.916227227960185
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Russell Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.06293613313377,
+     38.916227227960185
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Russell Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.28543581389775,
+     38.7294003769608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cirby Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.28543581389775,
+     38.7294003769608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cirby Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.28543581389775,
+     38.7294003769608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cirby Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.28543581389775,
+     38.7294003769608
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cirby Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.94965601304825,
+     39.09582375220056
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Colfax Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.94965601304825,
+     39.09582375220056
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Colfax Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.94949393600984,
+     39.095783327833836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Colfax Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.94949393600984,
+     39.095783327833836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Colfax Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.94949393600984,
+     39.095783327833836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Colfax Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.94949393600984,
+     39.095783327833836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Colfax Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.04607739474363,
+     38.94526285058091
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Bell Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.04607739474363,
+     38.94526285058091
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Bell Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03331805111843,
+     38.95727038926255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Neils Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03331805111843,
+     38.95727038926255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Neils Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03331805111843,
+     38.95727038926255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Neils Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.03331805111843,
+     38.95727038926255
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Neils Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.04628662598273,
+     38.9453978544684
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Bell Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.04628662598273,
+     38.9453978544684
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Bell Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0334838161377,
+     38.95743332856132
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Neils Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0334838161377,
+     38.95743332856132
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Neils Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0334838161377,
+     38.95743332856132
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Neils Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0334838161377,
+     38.95743332856132
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Neils Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.01786205779305,
+     38.96980273234736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Placer Hills Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.01786205779305,
+     38.96980273234736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Placer Hills Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0176590853521,
+     38.969683539265326
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Placer Hills Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0176590853521,
+     38.969683539265326
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Placer Hills Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.28505205536649,
+     38.72940781600649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cirby Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.28505205536649,
+     38.72940781600649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cirby Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.28505205536649,
+     38.72940781600649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cirby Way"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.28505205536649,
+     38.72940781600649
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alan S. Hart Freeway;I 80",
+     "Cirby Way"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

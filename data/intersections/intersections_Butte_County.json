@@ -129015,6 +129015,2896 @@
     ],
     "nodeId": 86376088
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82393582108897,
+     39.73978446562168
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highway 99;CA 99",
+     "Vallombrosa Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82393582108897,
+     39.73978446562168
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highway 99;CA 99",
+     "Vallombrosa Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82393582108897,
+     39.73978446562168
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highway 99;CA 99",
+     "Vallombrosa Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82393582108897,
+     39.73978446562168
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highway 99;CA 99",
+     "Vallombrosa Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.62255495683864,
+     39.581952845203986
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 149",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.62255495683864,
+     39.581952845203986
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 149",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8008650922769,
+     39.71485574756747
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Skyway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8008650922769,
+     39.71485574756747
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Skyway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8008650922769,
+     39.71485574756747
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Skyway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8008650922769,
+     39.71485574756747
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Skyway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.81899637899814,
+     39.736181872768924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 9th Street;CA 32"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.81899637899814,
+     39.736181872768924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 9th Street;CA 32"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82010897156194,
+     39.736728742905655
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 8th Street;CA 32"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82010897156194,
+     39.736728742905655
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 8th Street;CA 32"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82010897156194,
+     39.736728742905655
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 8th Street;CA 32"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82010897156194,
+     39.736728742905655
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 8th Street;CA 32"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82405561836082,
+     39.73968517031495
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Vallombrosa Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82405561836082,
+     39.73968517031495
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Vallombrosa Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82405561836082,
+     39.73968517031495
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Vallombrosa Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82405561836082,
+     39.73968517031495
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Vallombrosa Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8288846826241,
+     39.74324418922893
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Palmetto Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8288846826241,
+     39.74324418922893
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Palmetto Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8288846826241,
+     39.74324418922893
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Palmetto Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8288846826241,
+     39.74324418922893
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Palmetto Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83169219222475,
+     39.74530117116091
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 1st Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83158076590318,
+     39.74522076313399
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 1st Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83169219222475,
+     39.74530117116091
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 1st Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83158076590318,
+     39.74522076313399
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 1st Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83169219222475,
+     39.74530117116091
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 1st Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83158076590318,
+     39.74522076313399
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 1st Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83169219222475,
+     39.74530117116091
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 1st Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83158076590318,
+     39.74522076313399
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 1st Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83151847169613,
+     39.74543461185837
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 1st Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83140568211479,
+     39.74535174604352
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 1st Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83151847169613,
+     39.74543461185837
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 1st Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83140568211479,
+     39.74535174604352
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 1st Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83151847169613,
+     39.74543461185837
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 1st Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83140568211479,
+     39.74535174604352
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 1st Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83151847169613,
+     39.74543461185837
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 1st Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83140568211479,
+     39.74535174604352
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 1st Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8732380356699,
+     39.774520832001606
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Eaton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8732380356699,
+     39.774520832001606
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Eaton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83533022046966,
+     39.74825632764417
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 5th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83533022046966,
+     39.74825632764417
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 5th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83533022046966,
+     39.74825632764417
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 5th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83533022046966,
+     39.74825632764417
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 5th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83551028297214,
+     39.74811851010309
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 5th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83551028297214,
+     39.74811851010309
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 5th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83551028297214,
+     39.74811851010309
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 5th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.83551028297214,
+     39.74811851010309
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 5th Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.84509388568625,
+     39.7542930994222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Cohasset Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.84509388568625,
+     39.7542930994222
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Cohasset Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.84516363536972,
+     39.75408972797847
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Cohasset Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.84516363536972,
+     39.75408972797847
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Cohasset Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.85569213664057,
+     39.760114406180385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.85569213664057,
+     39.760114406180385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.85569213664057,
+     39.760114406180385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.85569213664057,
+     39.760114406180385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.85569213664057,
+     39.760114406180385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.85569213664057,
+     39.760114406180385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8554925117074,
+     39.76023282914819
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8554925117074,
+     39.76023282914819
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8554925117074,
+     39.76023282914819
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8554925117074,
+     39.76023282914819
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.86041623151795,
+     39.76417427814594
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Lassen Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.86041623151795,
+     39.76417427814594
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Lassen Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.86041623151795,
+     39.76417427814594
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Lassen Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.86041623151795,
+     39.76417427814594
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Lassen Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.86061484645741,
+     39.76405652961836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Lassen Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.86061484645741,
+     39.76405652961836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Lassen Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.86061484645741,
+     39.76405652961836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Lassen Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.86061484645741,
+     39.76405652961836
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East Lassen Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.87343410637541,
+     39.77440312888704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Eaton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.87343410637541,
+     39.77440312888704
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Eaton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8199241871528,
+     39.736847767395176
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 8th Street;CA 32"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8199241871528,
+     39.736847767395176
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 8th Street;CA 32"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8199241871528,
+     39.736847767395176
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 8th Street;CA 32"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8199241871528,
+     39.736847767395176
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 8th Street;CA 32"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.81917214261902,
+     39.736053045008134
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 9th Street;CA 32"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.81917214261902,
+     39.736053045008134
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 9th Street;CA 32"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.6225349264294,
+     39.58218176899962
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 149",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.6225349264294,
+     39.58218176899962
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 149",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.62255495683864,
+     39.581952845203986
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 149",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.6225349264294,
+     39.58218176899962
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 149",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.62255495683864,
+     39.581952845203986
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 149",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.6225349264294,
+     39.58218176899962
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 149",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57338255710994,
+     39.50807432104996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Montgomery Street;B2"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57338255710994,
+     39.50807432104996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Montgomery Street;B2"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57338255710994,
+     39.50807432104996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Montgomery Street;B2"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57338255710994,
+     39.50807432104996
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Montgomery Street;B2"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57320389879867,
+     39.50813048823486
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Montgomery Street;B2"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57320389879867,
+     39.50813048823486
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Montgomery Street;B2"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57320389879867,
+     39.50813048823486
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Montgomery Street;B2"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57320389879867,
+     39.50813048823486
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Montgomery Street;B2"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60978881477982,
+     39.56706906413889
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Table Mountain Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60978881477982,
+     39.56706906413889
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Table Mountain Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60090993996877,
+     39.556342780749915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Cottonwood Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60978881477982,
+     39.56706906413889
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Table Mountain Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60090993996877,
+     39.556342780749915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Cottonwood Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60978881477982,
+     39.56706906413889
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Table Mountain Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60090993996877,
+     39.556342780749915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Cottonwood Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60978881477982,
+     39.56706906413889
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Table Mountain Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60090993996877,
+     39.556342780749915
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Cottonwood Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60978881477982,
+     39.56706906413889
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Table Mountain Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.58254282590084,
+     39.534853775512445
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Garden Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.58254282590084,
+     39.534853775512445
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Garden Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.58254282590084,
+     39.534853775512445
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Garden Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.58254282590084,
+     39.534853775512445
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Garden Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57254216101207,
+     39.519673226216725
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Grand Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57254216101207,
+     39.519673226216725
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Grand Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57254216101207,
+     39.519673226216725
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Grand Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57254216101207,
+     39.519673226216725
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Grand Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57270905404086,
+     39.51962611715076
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Grand Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57270905404086,
+     39.51962611715076
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Grand Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57270905404086,
+     39.51962611715076
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Grand Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57270905404086,
+     39.51962611715076
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Grand Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57342985561544,
+     39.52408083562162
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Nelson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57342985561544,
+     39.52408083562162
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Nelson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57342985561544,
+     39.52408083562162
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Nelson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57342985561544,
+     39.52408083562162
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Nelson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57327553993869,
+     39.524080478169175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Nelson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57327553993869,
+     39.524080478169175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Nelson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57327553993869,
+     39.524080478169175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Nelson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57327553993869,
+     39.524080478169175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Nelson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57541160101349,
+     39.49801183082498
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57541904067195,
+     39.4978928238439
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57541160101349,
+     39.49801183082498
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57541904067195,
+     39.4978928238439
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57541160101349,
+     39.49801183082498
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57541904067195,
+     39.4978928238439
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57541160101349,
+     39.49801183082498
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57541904067195,
+     39.4978928238439
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60992539352642,
+     39.56700195442847
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Table Mountain Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60992539352642,
+     39.56700195442847
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Table Mountain Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60105482869204,
+     39.55626489577462
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Cottonwood Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60992539352642,
+     39.56700195442847
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Table Mountain Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60105482869204,
+     39.55626489577462
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Cottonwood Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60992539352642,
+     39.56700195442847
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Table Mountain Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60105482869204,
+     39.55626489577462
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Cottonwood Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60992539352642,
+     39.56700195442847
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Table Mountain Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60105482869204,
+     39.55626489577462
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Cottonwood Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.60992539352642,
+     39.56700195442847
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Table Mountain Overcrossing"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5752555111174,
+     39.498017019930124
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57526292646654,
+     39.497894337416525
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5752555111174,
+     39.498017019930124
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57526292646654,
+     39.497894337416525
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5752555111174,
+     39.498017019930124
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57526292646654,
+     39.497894337416525
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5752555111174,
+     39.498017019930124
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57526292646654,
+     39.497894337416525
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Oroville Dam Boulevard East;CA 162"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8090910770579,
+     39.72606052770449
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 20th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80918528925213,
+     39.726184678413055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 20th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8090910770579,
+     39.72606052770449
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 20th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80918528925213,
+     39.726184678413055
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 20th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80055473291858,
+     39.714859924639306
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Skyway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80055473291858,
+     39.714859924639306
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Skyway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80055473291858,
+     39.714859924639306
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Skyway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80055473291858,
+     39.714859924639306
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Skyway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80930368101976,
+     39.72596419399679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 20th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80939716980784,
+     39.72608840375479
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 20th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80930368101976,
+     39.72596419399679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 20th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80939716980784,
+     39.72608840375479
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "East 20th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.58275338851607,
+     39.53485271108746
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Garden Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.58275338851607,
+     39.53485271108746
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Garden Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.58275338851607,
+     39.53485271108746
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Garden Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.58275338851607,
+     39.53485271108746
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Garden Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8287483261308,
+     39.74334899586781
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highway 99;CA 99",
+     "Palmetto Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8287483261308,
+     39.74334899586781
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highway 99;CA 99",
+     "Palmetto Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8287483261308,
+     39.74334899586781
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highway 99;CA 99",
+     "Palmetto Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8287483261308,
+     39.74334899586781
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Highway 99;CA 99",
+     "Palmetto Avenue"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

@@ -175859,6 +175859,11090 @@
     ],
     "nodeId": 272638308
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1283822391328,
+     38.0508580033146
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayshore Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1283822391328,
+     38.0508580033146
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayshore Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1283822391328,
+     38.0508580033146
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayshore Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9531041216779,
+     38.52505400968693
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Putah Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9531041216779,
+     38.52505400968693
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Putah Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82372218451434,
+     38.47292099369835
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 113",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82372218451434,
+     38.47292099369835
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 113",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82372218451434,
+     38.47292099369835
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 113",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82372218451434,
+     38.47292099369835
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 113",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.78581524343898,
+     38.50546483802236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 113",
+     "Kidwell Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.78581524343898,
+     38.50546483802236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 113",
+     "Kidwell Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19994152617818,
+     38.16931231886396
+    ]
+   },
+   "properties": {
+    "streets": [
+     "American Canyon Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19994152617818,
+     38.16931231886396
+    ]
+   },
+   "properties": {
+    "streets": [
+     "American Canyon Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19994152617818,
+     38.16931231886396
+    ]
+   },
+   "properties": {
+    "streets": [
+     "American Canyon Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19994152617818,
+     38.16931231886396
+    ]
+   },
+   "properties": {
+    "streets": [
+     "American Canyon Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7568693710462,
+     38.52898952988374
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Old Davis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75704661904469,
+     38.52893131635253
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Old Davis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7568693710462,
+     38.52898952988374
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Old Davis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75704661904469,
+     38.52893131635253
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Old Davis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7568693710462,
+     38.52898952988374
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Old Davis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75704661904469,
+     38.52893131635253
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Old Davis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.7568693710462,
+     38.52898952988374
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Old Davis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75704661904469,
+     38.52893131635253
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Old Davis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75687109019428,
+     38.52869766356405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Old Davis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75704682381654,
+     38.52864425546916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Old Davis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75687109019428,
+     38.52869766356405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Old Davis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75704682381654,
+     38.52864425546916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Old Davis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75687109019428,
+     38.52869766356405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Old Davis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75704682381654,
+     38.52864425546916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Old Davis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75687109019428,
+     38.52869766356405
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Old Davis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.75704682381654,
+     38.52864425546916
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Old Davis Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76880412819641,
+     38.52134791788151
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76880412819641,
+     38.52134791788151
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23270717544399,
+     38.141460025099214
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Fairgrounds Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23270717544399,
+     38.141460025099214
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Fairgrounds Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2325222590805,
+     38.14124605979315
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Fairgrounds Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2325222590805,
+     38.14124605979315
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Fairgrounds Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22768429850339,
+     38.14129030016479
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sage Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22768429850339,
+     38.14129030016479
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sage Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22768429850339,
+     38.14129030016479
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sage Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22768429850339,
+     38.14129030016479
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sage Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22763232283877,
+     38.14148934267115
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sage Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22763232283877,
+     38.14148934267115
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sage Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22763232283877,
+     38.14148934267115
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sage Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22763232283877,
+     38.14148934267115
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sage Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21896646222885,
+     38.14106647213821
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21896646222885,
+     38.14106647213821
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21896646222885,
+     38.14106647213821
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21855947262989,
+     38.14125425820142
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21896646222885,
+     38.14106647213821
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21855947262989,
+     38.14125425820142
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21896646222885,
+     38.14106647213821
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21855947262989,
+     38.14125425820142
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21896646222885,
+     38.14106647213821
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21855947262989,
+     38.14125425820142
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25593855087388,
+     38.14020969572443
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25615842563288,
+     38.13998979400928
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25593855087388,
+     38.14020969572443
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25615842563288,
+     38.13998979400928
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25593855087388,
+     38.14020969572443
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25615842563288,
+     38.13998979400928
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25593855087388,
+     38.14020969572443
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25615842563288,
+     38.13998979400928
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25593855087388,
+     38.14020969572443
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25615842563288,
+     38.13998979400928
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25593855087388,
+     38.14020969572443
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25615842563288,
+     38.13998979400928
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76889819445171,
+     38.52085685284044
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76889819445171,
+     38.52085685284044
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76880412819641,
+     38.52134791788151
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76889819445171,
+     38.52085685284044
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76880412819641,
+     38.52134791788151
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.76889819445171,
+     38.52085685284044
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Vic Fazio Highway;CA 113"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.18023706551786,
+     38.18566311969718
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Lynch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.18023706551786,
+     38.18566311969718
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Lynch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.18023706551786,
+     38.18566311969718
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Lynch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.18023706551786,
+     38.18566311969718
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Lynch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.17985500137274,
+     38.18525709813551
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Lynch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.17985500137274,
+     38.18525709813551
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Lynch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.17985500137274,
+     38.18525709813551
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Lynch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.17985500137274,
+     38.18525709813551
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Lynch Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.98553794378944,
+     38.351021181003496
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Davis Street",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.98553794378944,
+     38.351021181003496
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Davis Street",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.98543866325163,
+     38.35080593093052
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Davis Street",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.98543866325163,
+     38.35080593093052
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Davis Street",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97851540371356,
+     38.354586010633945
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97842380102189,
+     38.35467211310354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97858984255885,
+     38.354516041419096
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97866737048557,
+     38.35444316860463
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97851540371356,
+     38.354586010633945
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97842380102189,
+     38.35467211310354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97858984255885,
+     38.354516041419096
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97866737048557,
+     38.35444316860463
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97851540371356,
+     38.354586010633945
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97866737048557,
+     38.35444316860463
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97851540371356,
+     38.354586010633945
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97866737048557,
+     38.35444316860463
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97820390200988,
+     38.35452351618486
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9781089922545,
+     38.35461329931579
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9782786376985,
+     38.354452817402766
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97834756339353,
+     38.3543876147829
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97820390200988,
+     38.35452351618486
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9781089922545,
+     38.35461329931579
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9782786376985,
+     38.354452817402766
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97834756339353,
+     38.3543876147829
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97820390200988,
+     38.35452351618486
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97834756339353,
+     38.3543876147829
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97820390200988,
+     38.35452351618486
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.97834756339353,
+     38.3543876147829
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Elmira Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2318261365034,
+     38.076394552456925
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2318261365034,
+     38.076394552456925
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23210183336026,
+     38.076485997518944
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23210183336026,
+     38.076485997518944
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19281062524301,
+     38.08032379378075
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "State Park Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19281062524301,
+     38.08032379378075
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "State Park Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19281062524301,
+     38.08032379378075
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "State Park Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2305071737288,
+     38.091662946368466
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23057588269299,
+     38.09144235943132
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2305071737288,
+     38.091662946368466
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23057588269299,
+     38.09144235943132
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23031449552099,
+     38.091610012355375
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23038256456461,
+     38.091389025606006
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23031449552099,
+     38.091610012355375
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23038256456461,
+     38.091389025606006
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.17976976795525,
+     38.068028069783
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Southampton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.17976976795525,
+     38.068028069783
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Southampton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.17976976795525,
+     38.068028069783
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Southampton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.17976976795525,
+     38.068028069783
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Southampton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1797962930963,
+     38.067833540089694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Southampton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1797962930963,
+     38.067833540089694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Southampton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1797962930963,
+     38.067833540089694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Southampton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1797962930963,
+     38.067833540089694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Southampton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14017960217036,
+     38.050221869299385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hospital Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14017960217036,
+     38.050221869299385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hospital Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14017960217036,
+     38.050221869299385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hospital Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14017960217036,
+     38.050221869299385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hospital Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14017960217036,
+     38.050221869299385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hospital Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14017960217036,
+     38.050221869299385
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hospital Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13996653295659,
+     38.04998950567339
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hospital Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13996653295659,
+     38.04998950567339
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hospital Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13996653295659,
+     38.04998950567339
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hospital Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13996653295659,
+     38.04998950567339
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hospital Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13996653295659,
+     38.04998950567339
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hospital Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13996653295659,
+     38.04998950567339
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Hospital Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14527572721532,
+     38.05309440778973
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 5th Street",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14527572721532,
+     38.05309440778973
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 5th Street",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14527572721532,
+     38.05309440778973
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 5th Street",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14527572721532,
+     38.05309440778973
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 5th Street",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14541461228237,
+     38.05290649164515
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 5th Street",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14541461228237,
+     38.05290649164515
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 5th Street",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14541461228237,
+     38.05290649164515
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 5th Street",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14541461228237,
+     38.05290649164515
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 5th Street",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.16455564267386,
+     38.06481523269806
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Southampton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.16455564267386,
+     38.06481523269806
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Southampton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.16455564267386,
+     38.06481523269806
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Southampton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.16455564267386,
+     38.06481523269806
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Southampton Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.16462657342386,
+     38.064610490005464
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "West 7th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.16462657342386,
+     38.064610490005464
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "West 7th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.16462657342386,
+     38.064610490005464
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "West 7th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.16462657342386,
+     38.064610490005464
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "West 7th Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14974258409978,
+     38.058201518685394
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 2nd Street",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14974258409978,
+     38.058201518685394
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 2nd Street",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14987605297456,
+     38.058010021613484
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 2nd Street",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14987605297456,
+     38.058010021613484
+    ]
+   },
+   "properties": {
+    "streets": [
+     "East 2nd Street",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13085259387573,
+     38.064395993339616
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayshore Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13085259387573,
+     38.064395993339616
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayshore Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.12797662205858,
+     38.06802295109429
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Industrial Way",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13085259387573,
+     38.064395993339616
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayshore Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.12797662205858,
+     38.06802295109429
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Industrial Way",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13085259387573,
+     38.064395993339616
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayshore Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13096869990419,
+     38.064495094207324
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayshore Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13096869990419,
+     38.064495094207324
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayshore Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13096869990419,
+     38.064495094207324
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayshore Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.128113026627,
+     38.068089431405674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Industrial Way",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13096869990419,
+     38.064495094207324
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayshore Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.128113026627,
+     38.068089431405674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Industrial Way",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13773966077046,
+     38.20971963411249
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bridgeport Avenue",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13773966077046,
+     38.20971963411249
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bridgeport Avenue",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13774002779853,
+     38.2101591764357
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cordelia Road;US 40 Historic",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13774002779853,
+     38.2101591764357
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cordelia Road;US 40 Historic",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13773966077046,
+     38.20971963411249
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bridgeport Avenue",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13773966077046,
+     38.20971963411249
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bridgeport Avenue",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13774002779853,
+     38.2101591764357
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cordelia Road;US 40 Historic",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13774002779853,
+     38.2101591764357
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cordelia Road;US 40 Historic",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13798573001675,
+     38.20967461126775
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bridgeport Avenue",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13798573001675,
+     38.20967461126775
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bridgeport Avenue",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13798292047848,
+     38.21011399183752
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cordelia Road;US 40 Historic",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13798292047848,
+     38.21011399183752
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cordelia Road;US 40 Historic",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13798573001675,
+     38.20967461126775
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bridgeport Avenue",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13798573001675,
+     38.20967461126775
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bridgeport Avenue",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13798292047848,
+     38.21011399183752
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cordelia Road;US 40 Historic",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13798292047848,
+     38.21011399183752
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cordelia Road;US 40 Historic",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15697391634546,
+     38.2019957278738
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Red Top Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15697391634546,
+     38.2019957278738
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Red Top Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25228292932628,
+     38.14224217316967
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broadway Street",
+     "CA 37"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25228292932628,
+     38.14224217316967
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broadway Street",
+     "CA 37"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25228292932628,
+     38.14224217316967
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broadway Street",
+     "CA 37"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25228292932628,
+     38.14224217316967
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broadway Street",
+     "CA 37"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24952996363483,
+     38.14263174769662
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Mini Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24952996363483,
+     38.14263174769662
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Mini Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24952996363483,
+     38.14263174769662
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Mini Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24952996363483,
+     38.14263174769662
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Mini Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24963067574427,
+     38.142490644978
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Mini Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24963067574427,
+     38.142490644978
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Mini Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24963067574427,
+     38.142490644978
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Mini Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24963067574427,
+     38.142490644978
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Mini Drive"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.12902535369597,
+     38.222935567900336
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Suisun Valley Road;US 40 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.12902535369597,
+     38.222935567900336
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Suisun Valley Road;US 40 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06236204093213,
+     38.25823570179302
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Travis Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06225767601764,
+     38.2583586781317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Travis Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06236204093213,
+     38.25823570179302
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Travis Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06225767601764,
+     38.2583586781317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Travis Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.09235856630599,
+     38.24003867961497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.09235856630599,
+     38.24003867961497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.09235856630599,
+     38.24003867961497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.08685000489604,
+     38.24244533524833
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Suisun Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.08685000489604,
+     38.24244533524833
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Suisun Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06993253811241,
+     38.24973936830943
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "West Texas Street;US 40 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06993253811241,
+     38.24973936830943
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "West Texas Street;US 40 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06993253811241,
+     38.24973936830943
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "West Texas Street;US 40 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06993253811241,
+     38.24973936830943
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "West Texas Street;US 40 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.08664290961238,
+     38.242311483269695
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Suisun Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.08664290961238,
+     38.242311483269695
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Suisun Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.93389120390549,
+     38.387990960915175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Leisure Town Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.93377363441135,
+     38.38808307122749
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Leisure Town Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.93389120390549,
+     38.387990960915175
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Leisure Town Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.93377363441135,
+     38.38808307122749
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Leisure Town Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9442507317783,
+     38.41704842232317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Midway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9442507317783,
+     38.41704842232317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Midway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9442507317783,
+     38.41704842232317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Midway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9442507317783,
+     38.41704842232317
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Midway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9445463328333,
+     38.417043448450904
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Midway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9445463328333,
+     38.417043448450904
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Midway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9445463328333,
+     38.417043448450904
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Midway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9445463328333,
+     38.417043448450904
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Midway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94199835581595,
+     38.45329766895654
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allendale Road",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94199835581595,
+     38.45329766895654
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allendale Road",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94199835581595,
+     38.45329766895654
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allendale Road",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94199835581595,
+     38.45329766895654
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allendale Road",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94170593211184,
+     38.453297638272
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allendale Road",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94170593211184,
+     38.453297638272
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allendale Road",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94170593211184,
+     38.453297638272
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allendale Road",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94170593211184,
+     38.453297638272
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allendale Road",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9495941331408,
+     38.4958865755221
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Wolfskill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9495941331408,
+     38.4958865755221
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Wolfskill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9495941331408,
+     38.4958865755221
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Wolfskill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9495941331408,
+     38.4958865755221
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Wolfskill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9498699240488,
+     38.495791142101666
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Wolfskill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9498699240488,
+     38.495791142101666
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Wolfskill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9498699240488,
+     38.495791142101666
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Wolfskill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9498699240488,
+     38.495791142101666
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Wolfskill Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.08415905970871,
+     38.23968254105099
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Chadbourne Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.08415905970871,
+     38.23968254105099
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Chadbourne Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.08415905970871,
+     38.23968254105099
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Chadbourne Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.08415905970871,
+     38.23968254105099
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Chadbourne Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.08416558651219,
+     38.23983447405249
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Chadbourne Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.08416558651219,
+     38.23983447405249
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Chadbourne Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.08416558651219,
+     38.23983447405249
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Chadbourne Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.08416558651219,
+     38.23983447405249
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Chadbourne Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.12830756551952,
+     38.04718906007126
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayshore Road",
+     "Benicia-Martinez Bridge;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.12865780045678,
+     38.047622883164756
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Benicia-Martinez Bridge;I 680",
+     "Vista Point Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.12830756551952,
+     38.04718906007126
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayshore Road",
+     "Benicia-Martinez Bridge;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.12865780045678,
+     38.047622883164756
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Benicia-Martinez Bridge;I 680",
+     "Vista Point Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13062994802533,
+     38.05140304605246
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13062994802533,
+     38.05140304605246
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13062994802533,
+     38.05140304605246
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13062994802533,
+     38.05140304605246
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23283366885771,
+     38.08525505971611
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Magazine Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23283366885771,
+     38.08525505971611
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Magazine Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.12885309923404,
+     38.22277396835358
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Suisun Valley Road;US 40 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.12885309923404,
+     38.22277396835358
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Suisun Valley Road;US 40 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2318261365034,
+     38.076394552456925
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23210183336026,
+     38.076485997518944
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2318261365034,
+     38.076394552456925
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23210183336026,
+     38.076485997518944
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.96950746630394,
+     38.36156254032513
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allison Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.96934257946035,
+     38.3616634035145
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allison Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.96950746630394,
+     38.36156254032513
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allison Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.96934257946035,
+     38.3616634035145
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allison Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.96950746630394,
+     38.36156254032513
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allison Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.96934257946035,
+     38.3616634035145
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allison Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.96950746630394,
+     38.36156254032513
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allison Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.96934257946035,
+     38.3616634035145
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allison Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95784368731647,
+     38.36973166516512
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95796525615513,
+     38.369634368810324
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95784368731647,
+     38.36973166516512
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95796525615513,
+     38.369634368810324
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95784368731647,
+     38.36973166516512
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95785485795415,
+     38.369740308947975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9579680011332,
+     38.36963656655986
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95785485795415,
+     38.369740308947975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9579680011332,
+     38.36963656655986
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95785485795415,
+     38.369740308947975
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15037844096756,
+     38.20805809009383
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14999016690281,
+     38.208086939524456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15037844096756,
+     38.20805809009383
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14999016690281,
+     38.208086939524456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15037844096756,
+     38.20805809009383
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14999016690281,
+     38.208086939524456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15037844096756,
+     38.20805809009383
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14999016690281,
+     38.208086939524456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.09235856630599,
+     38.24003867961497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.09184253288248,
+     38.240044547822016
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.09235856630599,
+     38.24003867961497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.09184253288248,
+     38.240044547822016
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.09235856630599,
+     38.24003867961497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.09184253288248,
+     38.240044547822016
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1571912414697,
+     38.202148137219716
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Red Top Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1571912414697,
+     38.202148137219716
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Red Top Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06958598666267,
+     38.24976076379497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "West Texas Street;US 40 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06958598666267,
+     38.24976076379497
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "West Texas Street;US 40 Historic"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1379477127884,
+     38.21650678742952
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13860763373818,
+     38.216051545710236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Green Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1379477127884,
+     38.21650678742952
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13860763373818,
+     38.216051545710236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Green Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1379477127884,
+     38.21650678742952
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13860763373818,
+     38.216051545710236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Green Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1379477127884,
+     38.21650678742952
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13860763373818,
+     38.216051545710236
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Green Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1379477127884,
+     38.21650678742952
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13792561060079,
+     38.216838965352025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1379477127884,
+     38.21650678742952
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13792561060079,
+     38.216838965352025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1379477127884,
+     38.21650678742952
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13792561060079,
+     38.216838965352025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1379477127884,
+     38.21650678742952
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13792561060079,
+     38.216838965352025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95342187733726,
+     38.37298948922738
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95342699699326,
+     38.37353192633983
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95342187733726,
+     38.37298948922738
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95342699699326,
+     38.37353192633983
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80383450652522,
+     38.48860065765452
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 113",
+     "Pedrick Road;E7"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80383450652522,
+     38.48860065765452
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 113",
+     "Pedrick Road;E7"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80383450652522,
+     38.48860065765452
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 113",
+     "Pedrick Road;E7"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80383450652522,
+     38.48860065765452
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 113",
+     "Pedrick Road;E7"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2305071737288,
+     38.091662946368466
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23031449552099,
+     38.091610012355375
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2305071737288,
+     38.091662946368466
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23031449552099,
+     38.091610012355375
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13483185688244,
+     38.05084813268176
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Park Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13483185688244,
+     38.05084813268176
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Park Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13483185688244,
+     38.05084813268176
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Park Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13483185688244,
+     38.05084813268176
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Park Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95278772672847,
+     38.525137962186925
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Putah Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95278772672847,
+     38.525137962186925
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Putah Creek Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15037844096756,
+     38.20805809009383
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15037844096756,
+     38.20805809009383
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15037844096756,
+     38.20805809009383
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.15037844096756,
+     38.20805809009383
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19293502378393,
+     38.08014929961118
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "State Park Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19293502378393,
+     38.08014929961118
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "State Park Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.19293502378393,
+     38.08014929961118
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "State Park Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95765375408865,
+     38.36958469579552
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95777778754267,
+     38.36948427323657
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95765375408865,
+     38.36958469579552
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95342187733726,
+     38.37298948922738
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95777778754267,
+     38.36948427323657
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95765375408865,
+     38.36958469579552
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95342187733726,
+     38.37298948922738
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13062994802533,
+     38.05140304605246
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13062994802533,
+     38.05140304605246
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13062994802533,
+     38.05140304605246
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13062994802533,
+     38.05140304605246
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2337597,
+     38.0774679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Maritime Academy Drive"
+    ],
+    "nodeId": 62323886
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2337597,
+     38.0774679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": 62323886
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2337597,
+     38.0774679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Maritime Academy Drive"
+    ],
+    "nodeId": 62323886
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2337597,
+     38.0774679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Maritime Academy Drive"
+    ],
+    "nodeId": 62323886
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2337597,
+     38.0774679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": 62323886
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2337597,
+     38.0774679
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 29",
+     "Maritime Academy Drive"
+    ],
+    "nodeId": 62323886
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.12839948842475,
+     38.05153965428418
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayshore Road",
+     "Benicia-Martinez Bridge;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.12839948842475,
+     38.05153965428418
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Bayshore Road",
+     "Benicia-Martinez Bridge;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23057588269299,
+     38.09144235943132
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23038256456461,
+     38.091389025606006
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23057588269299,
+     38.09144235943132
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23038256456461,
+     38.091389025606006
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22840236960684,
+     38.09086523113854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Laurel Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22840236960684,
+     38.09086523113854
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Laurel Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22837188014611,
+     38.09106366313358
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Laurel Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22837188014611,
+     38.09106366313358
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Laurel Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22837188014611,
+     38.09106366313358
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Laurel Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22837188014611,
+     38.09106366313358
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 780",
+     "Laurel Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25228442671464,
+     38.142089288136816
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broadway Street",
+     "CA 37"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25228442671464,
+     38.142089288136816
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broadway Street",
+     "CA 37"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25228442671464,
+     38.142089288136816
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broadway Street",
+     "CA 37"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25228442671464,
+     38.142089288136816
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Broadway Street",
+     "CA 37"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21896646222885,
+     38.14106647213821
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21896646222885,
+     38.14106647213821
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21896646222885,
+     38.14106647213821
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21896646222885,
+     38.14106647213821
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21896646222885,
+     38.14106647213821
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21896646222885,
+     38.14106647213821
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21855947262989,
+     38.14125425820142
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21855947262989,
+     38.14125425820142
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21855947262989,
+     38.14125425820142
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21855947262989,
+     38.14125425820142
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23001163708139,
+     38.09445659544389
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Benicia Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23001163708139,
+     38.09445659544389
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Benicia Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23001163708139,
+     38.09445659544389
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Benicia Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23001163708139,
+     38.09445659544389
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Benicia Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22956994956526,
+     38.10581461731772
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Solano Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22956854608977,
+     38.10590794205833
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Solano Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22956994956526,
+     38.10581461731772
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Solano Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22956854608977,
+     38.10590794205833
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Solano Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22979615823822,
+     38.10578064274347
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Solano Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2298009863979,
+     38.10587131143553
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Solano Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22979615823822,
+     38.10578064274347
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Solano Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2298009863979,
+     38.10587131143553
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Solano Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13792561060079,
+     38.216838965352025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13882578064039,
+     38.21632018147512
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Green Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13792561060079,
+     38.216838965352025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13882578064039,
+     38.21632018147512
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Green Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13792561060079,
+     38.216838965352025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13882578064039,
+     38.21632018147512
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Green Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13792561060079,
+     38.216838965352025
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13882578064039,
+     38.21632018147512
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 12",
+     "Green Valley Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0495617246568,
+     38.27337179870691
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Waterman Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0495617246568,
+     38.27337179870691
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Waterman Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0495617246568,
+     38.27337179870691
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Waterman Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.0495617246568,
+     38.27337179870691
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Waterman Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.96932813377515,
+     38.36138402818819
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allison Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9691658063371,
+     38.361483979042184
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allison Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.96932813377515,
+     38.36138402818819
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allison Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9691658063371,
+     38.361483979042184
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allison Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.96932813377515,
+     38.36138402818819
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allison Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9691658063371,
+     38.361483979042184
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allison Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.96932813377515,
+     38.36138402818819
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allison Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.9691658063371,
+     38.361483979042184
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Allison Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95342699699326,
+     38.37353192633983
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95342699699326,
+     38.37353192633983
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "I 505"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95747668427225,
+     38.369447680068504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95761209114318,
+     38.369351609449176
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95747668427225,
+     38.369447680068504
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.95761209114318,
+     38.369351609449176
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Nut Tree Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94965395737012,
+     38.39397286672911
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Vaca Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94965395737012,
+     38.39397286672911
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Vaca Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94965395737012,
+     38.39397286672911
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Vaca Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94965395737012,
+     38.39397286672911
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Vaca Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94993997217595,
+     38.3940161581632
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Vaca Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94993997217595,
+     38.3940161581632
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Vaca Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94993997217595,
+     38.3940161581632
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Vaca Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.94993997217595,
+     38.3940161581632
+    ]
+   },
+   "properties": {
+    "streets": [
+     "I 505",
+     "Vaca Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2559689895602,
+     38.13995441351034
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25618007211246,
+     38.13972808180216
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2559689895602,
+     38.13995441351034
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25618007211246,
+     38.13972808180216
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2559689895602,
+     38.13995441351034
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25618007211246,
+     38.13972808180216
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2559689895602,
+     38.13995441351034
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25618007211246,
+     38.13972808180216
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2559689895602,
+     38.13995441351034
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25618007211246,
+     38.13972808180216
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2559689895602,
+     38.13995441351034
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.25618007211246,
+     38.13972808180216
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sonoma Boulevard;CA 29"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.26880314497298,
+     38.12618698707584
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sacramento Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.26880314497298,
+     38.12618698707584
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sacramento Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.27572538601748,
+     38.12218342746565
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mare Island Bridge;CA 37",
+     "Wilson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.27572538601748,
+     38.12218342746565
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mare Island Bridge;CA 37",
+     "Wilson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.27572538601748,
+     38.12218342746565
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mare Island Bridge;CA 37",
+     "Wilson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.27572538601748,
+     38.12218342746565
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mare Island Bridge;CA 37",
+     "Wilson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.275719424516,
+     38.12209457129379
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mare Island Bridge;CA 37",
+     "Wilson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.275719424516,
+     38.12209457129379
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mare Island Bridge;CA 37",
+     "Wilson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.275719424516,
+     38.12209457129379
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mare Island Bridge;CA 37",
+     "Wilson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.275719424516,
+     38.12209457129379
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Mare Island Bridge;CA 37",
+     "Wilson Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80382995303424,
+     38.48886365696633
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 113",
+     "Pedrick Road;E7"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80382995303424,
+     38.48886365696633
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 113",
+     "Pedrick Road;E7"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80382995303424,
+     38.48886365696633
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 113",
+     "Pedrick Road;E7"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.80382995303424,
+     38.48886365696633
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 113",
+     "Pedrick Road;E7"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.78549919642322,
+     38.50534197458959
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 113",
+     "Kidwell Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.78549919642322,
+     38.50534197458959
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 113",
+     "Kidwell Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.78549919642322,
+     38.50534197458959
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 113",
+     "Kidwell Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.78549919642322,
+     38.50534197458959
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80;CA 113",
+     "Kidwell Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23301945660239,
+     38.08530952940542
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Magazine Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23301945660239,
+     38.08530952940542
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Magazine Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06267039480043,
+     38.258244836059056
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Travis Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06256739724171,
+     38.25836711237489
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Travis Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06267039480043,
+     38.258244836059056
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Travis Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.06256739724171,
+     38.25836711237489
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Travis Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2298578260308,
+     38.100757048328475
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Georgia Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2298578260308,
+     38.100757048328475
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Georgia Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.04983303170482,
+     38.27340051484159
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Waterman Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.04983303170482,
+     38.27340051484159
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Waterman Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.04983303170482,
+     38.27340051484159
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Waterman Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.04983303170482,
+     38.27340051484159
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Waterman Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03418838283363,
+     38.2952368798288
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Manuel Campos Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03418613486994,
+     38.29533167531461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Manuel Campos Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03418838283363,
+     38.2952368798288
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Manuel Campos Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03418613486994,
+     38.29533167531461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Manuel Campos Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.09184253288248,
+     38.240044547822016
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.09184253288248,
+     38.240044547822016
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.09184253288248,
+     38.240044547822016
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20020412648442,
+     38.169499488964924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "American Canyon Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20020412648442,
+     38.169499488964924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "American Canyon Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20020412648442,
+     38.169499488964924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "American Canyon Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.20020412648442,
+     38.169499488964924
+    ]
+   },
+   "properties": {
+    "streets": [
+     "American Canyon Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22966173679484,
+     38.10075376721211
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Georgia Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22966173679484,
+     38.10075376721211
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Georgia Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2298248330402,
+     38.09440698636954
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Benicia Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2298248330402,
+     38.09440698636954
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Benicia Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2298248330402,
+     38.09440698636954
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Benicia Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2298248330402,
+     38.09440698636954
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Benicia Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.93382349301964,
+     38.38835934652453
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Vaca Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.93394410011643,
+     38.38826537803413
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Vaca Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.93382349301964,
+     38.38835934652453
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Vaca Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.93394410011643,
+     38.38826537803413
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Vaca Valley Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03389970400364,
+     38.29510220630459
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Manuel Campos Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03389765316413,
+     38.29519676864992
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Manuel Campos Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03389970400364,
+     38.29510220630459
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Manuel Campos Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03389765316413,
+     38.29519676864992
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Manuel Campos Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03389970400364,
+     38.29510220630459
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Manuel Campos Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03389765316413,
+     38.29519676864992
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Manuel Campos Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03389970400364,
+     38.29510220630459
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Manuel Campos Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.03389765316413,
+     38.29519676864992
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Manuel Campos Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.91408174552615,
+     38.403695300000415
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "North Meridian Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.91408174552615,
+     38.403695300000415
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "North Meridian Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.91408174552615,
+     38.403695300000415
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "North Meridian Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.91408174552615,
+     38.403695300000415
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "North Meridian Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89745114438986,
+     38.41635083414842
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Midway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89745114438986,
+     38.41635083414842
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Midway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89745114438986,
+     38.41635083414842
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Midway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89745114438986,
+     38.41635083414842
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Midway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89720991583886,
+     38.41626330317815
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Midway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.89720991583886,
+     38.41626330317815
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Midway Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.91390941529713,
+     38.403557267924135
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "North Meridian Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.91390941529713,
+     38.403557267924135
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "North Meridian Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.91390941529713,
+     38.403557267924135
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "North Meridian Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.91390941529713,
+     38.403557267924135
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "North Meridian Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.85886259892453,
+     38.44586455996744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dixon Avenue West",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.85886259892453,
+     38.44586455996744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dixon Avenue West",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2101720474573,
+     38.08581800404781
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Cove Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21003179083145,
+     38.08579705708105
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Cove Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2101720474573,
+     38.08581800404781
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Cove Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21003179083145,
+     38.08579705708105
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Cove Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2101720474573,
+     38.08581800404781
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Cove Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21003179083145,
+     38.08579705708105
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Cove Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.2101720474573,
+     38.08581800404781
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Cove Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21003179083145,
+     38.08579705708105
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Cove Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21031354662166,
+     38.08564050992361
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Cove Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21016079444956,
+     38.08561741918624
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Cove Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21031354662166,
+     38.08564050992361
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Cove Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21016079444956,
+     38.08561741918624
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Cove Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21031354662166,
+     38.08564050992361
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Cove Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21016079444956,
+     38.08561741918624
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Cove Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21031354662166,
+     38.08564050992361
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Cove Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.21016079444956,
+     38.08561741918624
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Glen Cove Road",
+     "I 780"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8409438649849,
+     38.45980222147674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pitt School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8409438649849,
+     38.45980222147674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pitt School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.8409438649849,
+     38.45980222147674
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pitt School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82380526060503,
+     38.47313275501377
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 113",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82380526060503,
+     38.47313275501377
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 113",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82380526060503,
+     38.47313275501377
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 113",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82380526060503,
+     38.47313275501377
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 113",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.85850982209053,
+     38.445861735007014
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dixon Avenue West",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.85850982209053,
+     38.445861735007014
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dixon Avenue West",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.85850982209053,
+     38.445861735007014
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dixon Avenue West",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.85850982209053,
+     38.445861735007014
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dixon Avenue West",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.84094549859567,
+     38.45952342780107
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pitt School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.84094549859567,
+     38.45952342780107
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pitt School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.84094549859567,
+     38.45952342780107
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Pitt School Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.26903689567509,
+     38.12617075471312
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sacramento Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.26903689567509,
+     38.12617075471312
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 37",
+     "Sacramento Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13420142088044,
+     38.1828275870271
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Hill Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13420142088044,
+     38.1828275870271
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Hill Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13420142088044,
+     38.1828275870271
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Hill Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13420142088044,
+     38.1828275870271
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Hill Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11202843577625,
+     38.0858575640653
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lake Herman Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11202843577625,
+     38.0858575640653
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lake Herman Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11202843577625,
+     38.0858575640653
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lake Herman Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11202843577625,
+     38.0858575640653
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lake Herman Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1118218403964,
+     38.08575512368229
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lake Herman Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1118218403964,
+     38.08575512368229
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lake Herman Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1118218403964,
+     38.08575512368229
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lake Herman Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1118218403964,
+     38.08575512368229
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Lake Herman Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1061157499721,
+     38.115882933730695
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Luther E Gibson Freeway;I 680",
+     "Parish Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1061157499721,
+     38.115882933730695
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Luther E Gibson Freeway;I 680",
+     "Parish Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1061157499721,
+     38.115882933730695
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Luther E Gibson Freeway;I 680",
+     "Parish Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1061157499721,
+     38.115882933730695
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Luther E Gibson Freeway;I 680",
+     "Parish Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11113311059756,
+     38.14855032147461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Luther E Gibson Freeway;I 680",
+     "Marshview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11113311059756,
+     38.14855032147461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Luther E Gibson Freeway;I 680",
+     "Marshview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11113311059756,
+     38.14855032147461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Luther E Gibson Freeway;I 680",
+     "Marshview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11113311059756,
+     38.14855032147461
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Luther E Gibson Freeway;I 680",
+     "Marshview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.10635865864793,
+     38.11589061477482
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Luther E Gibson Freeway;I 680",
+     "Parish Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.10635865864793,
+     38.11589061477482
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Luther E Gibson Freeway;I 680",
+     "Parish Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.10635865864793,
+     38.11589061477482
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Luther E Gibson Freeway;I 680",
+     "Parish Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.10635865864793,
+     38.11589061477482
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Luther E Gibson Freeway;I 680",
+     "Parish Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11136390396302,
+     38.14849046352018
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Luther E Gibson Freeway;I 680",
+     "Marshview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11136390396302,
+     38.14849046352018
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Luther E Gibson Freeway;I 680",
+     "Marshview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11136390396302,
+     38.14849046352018
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Luther E Gibson Freeway;I 680",
+     "Marshview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11136390396302,
+     38.14849046352018
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Luther E Gibson Freeway;I 680",
+     "Marshview Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13443331463385,
+     38.182747027231585
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Hill Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13443331463385,
+     38.182747027231585
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Hill Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13443331463385,
+     38.182747027231585
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Hill Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13443331463385,
+     38.182747027231585
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Gold Hill Road",
+     "Luther E Gibson Freeway;I 680"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14999016690281,
+     38.208086939524456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14999016690281,
+     38.208086939524456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14999016690281,
+     38.208086939524456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.14999016690281,
+     38.208086939524456
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 12",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22973545542382,
+     38.109693968577744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Tennessee Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22973643907811,
+     38.10958751532533
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Tennessee Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22973545542382,
+     38.109693968577744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Tennessee Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22973643907811,
+     38.10958751532533
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Tennessee Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22973545542382,
+     38.109693968577744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Tennessee Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22973643907811,
+     38.10958751532533
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Tennessee Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22973545542382,
+     38.109693968577744
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Tennessee Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22973643907811,
+     38.10958751532533
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Tennessee Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22954053828141,
+     38.109693527693736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Tennessee Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22954158083964,
+     38.10958611161609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Tennessee Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22954053828141,
+     38.109693527693736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Tennessee Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22954158083964,
+     38.10958611161609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Tennessee Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22954053828141,
+     38.109693527693736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Tennessee Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22954158083964,
+     38.10958611161609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Tennessee Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22954053828141,
+     38.109693527693736
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Tennessee Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22954158083964,
+     38.10958611161609
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Tennessee Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.230064576873,
+     38.12301402592818
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Redwood Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23002565005116,
+     38.123137618587556
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Redwood Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.230064576873,
+     38.12301402592818
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Redwood Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23002565005116,
+     38.123137618587556
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Redwood Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.230064576873,
+     38.12301402592818
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Redwood Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23002565005116,
+     38.123137618587556
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Redwood Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.230064576873,
+     38.12301402592818
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Redwood Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.23002565005116,
+     38.123137618587556
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Redwood Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22985061429698,
+     38.12305812200295
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Redwood Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22980952083213,
+     38.12318428759561
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Redwood Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22985061429698,
+     38.12305812200295
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Redwood Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.22980952083213,
+     38.12318428759561
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Redwood Street"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99719776097774,
+     38.34648262671824
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99707151429723,
+     38.34653187259967
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99719776097774,
+     38.34648262671824
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99707151429723,
+     38.34653187259967
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99719776097774,
+     38.34648262671824
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99707151429723,
+     38.34653187259967
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99719776097774,
+     38.34648262671824
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99707151429723,
+     38.34653187259967
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99717681362603,
+     38.34623994263152
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99705077948177,
+     38.34628907113354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99717681362603,
+     38.34623994263152
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99705077948177,
+     38.34628907113354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99717681362603,
+     38.34623994263152
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99705077948177,
+     38.34628907113354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99717681362603,
+     38.34623994263152
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99705077948177,
+     38.34628907113354
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Alamo Drive",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.01733907449788,
+     38.3358714612465
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Rivera Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.01733907449788,
+     38.3358714612465
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Rivera Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.017078741215,
+     38.33576852737464
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Rivera Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.017078741215,
+     38.33576852737464
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Dwight D. Eisenhower Highway;I 80",
+     "Rivera Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.02410566172951,
+     38.325243731655554
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cherry Glen Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.02410566172951,
+     38.325243731655554
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cherry Glen Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.02410566172951,
+     38.325243731655554
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cherry Glen Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.02410566172951,
+     38.325243731655554
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cherry Glen Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.02387990562119,
+     38.32509000682041
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cherry Glen Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.02387990562119,
+     38.32509000682041
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cherry Glen Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.02387990562119,
+     38.32509000682041
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cherry Glen Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.02387990562119,
+     38.32509000682041
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Cherry Glen Road",
+     "Dwight D. Eisenhower Highway;I 80"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

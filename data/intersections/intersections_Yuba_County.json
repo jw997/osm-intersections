@@ -46324,6 +46324,1094 @@
     ],
     "nodeId": 12067046196
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.58994752036632,
+     39.13577536072102
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.58994752036632,
+     39.13577536072102
+    ]
+   },
+   "properties": {
+    "streets": [
+     "1st Street",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54553998854318,
+     39.029582725667375
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Plumas Arboga Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54553998854318,
+     39.029582725667375
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Plumas Arboga Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54725818744032,
+     39.02634237274368
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Algodon Road",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54725818744032,
+     39.02634237274368
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Algodon Road",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54694355899726,
+     39.026347953082244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Algodon Road",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54694355899726,
+     39.026347953082244
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Algodon Road",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54544732648425,
+     39.029129567632694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Plumas Arboga Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54544732648425,
+     39.029129567632694
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Plumas Arboga Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54038381614157,
+     39.09095161177919
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54038381614157,
+     39.09095161177919
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55941673958361,
+     39.1132285329045
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Erle Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55941673958361,
+     39.1132285329045
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Erle Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57720260169738,
+     39.12438733379254
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Feather River Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57720260169738,
+     39.12438733379254
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Feather River Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57720260169738,
+     39.12438733379254
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Feather River Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57720260169738,
+     39.12438733379254
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Feather River Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57706298713737,
+     39.12451178168841
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Feather River Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57706298713737,
+     39.12451178168841
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Feather River Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57706298713737,
+     39.12451178168841
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Feather River Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.57706298713737,
+     39.12451178168841
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Feather River Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5275598456667,
+     39.077525567855325
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "McGowan Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5275598456667,
+     39.077525567855325
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "McGowan Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5275598456667,
+     39.077525567855325
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "McGowan Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5275598456667,
+     39.077525567855325
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "McGowan Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54697108459087,
+     39.022166520862044
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Plumas Lake Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54701608925026,
+     39.02228890306702
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Plumas Lake Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54697108459087,
+     39.022166520862044
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Plumas Lake Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54701608925026,
+     39.02228890306702
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Plumas Lake Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54671555818877,
+     39.02227849683353
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Plumas Lake Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54675827127302,
+     39.022398159122446
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Plumas Lake Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54671555818877,
+     39.02227849683353
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Plumas Lake Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54675827127302,
+     39.022398159122446
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Plumas Lake Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55056075218569,
+     39.10260750331716
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Olivehurst Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55910179465808,
+     39.11323182438844
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Erle Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55056075218569,
+     39.10260750331716
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Olivehurst Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55910179465808,
+     39.11323182438844
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Erle Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55056075218569,
+     39.10260750331716
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Olivehurst Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55910179465808,
+     39.11323182438844
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Erle Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55056075218569,
+     39.10260750331716
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Olivehurst Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55910179465808,
+     39.11323182438844
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Erle Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54038381614157,
+     39.09095161177919
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54038381614157,
+     39.09095161177919
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "CA 70"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54118911630543,
+     39.07732571478628
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "McGowan Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54118911630543,
+     39.07732571478628
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "McGowan Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54148379094987,
+     39.07732237263798
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "McGowan Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54148379094987,
+     39.07732237263798
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "McGowan Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55061874606264,
+     39.10248147244217
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Olivehurst Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55061874606264,
+     39.10248147244217
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Olivehurst Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55061874606264,
+     39.10248147244217
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Olivehurst Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.55061874606264,
+     39.10248147244217
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Olivehurst Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52804547189564,
+     39.07751691340686
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "McGowan Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52804547189564,
+     39.07751691340686
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "McGowan Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52804547189564,
+     39.07751691340686
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "McGowan Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.52804547189564,
+     39.07751691340686
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "McGowan Parkway"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54284545372961,
+     38.97827733913514
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Feather River Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54284545372961,
+     38.97827733913514
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Feather River Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5431232969617,
+     38.97827625143426
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Feather River Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5431232969617,
+     38.97827625143426
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Feather River Boulevard"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.51398865333039,
+     39.065169265549756
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Forty Mile Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.51398865333039,
+     39.065169265549756
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Forty Mile Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5141377969029,
+     39.06483246276578
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Forty Mile Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5141377969029,
+     39.06483246276578
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 65",
+     "Forty Mile Road"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }

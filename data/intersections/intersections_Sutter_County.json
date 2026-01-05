@@ -46537,6 +46537,754 @@
     ],
     "nodeId": 11805631108
    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.635020232898,
+     39.18987616726002
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Eager Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.635020232898,
+     39.18987616726002
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Eager Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.635020232898,
+     39.18987616726002
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Eager Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.635020232898,
+     39.18987616726002
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Eager Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54934212886339,
+     38.91010133314935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Nicolaus Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54934212886339,
+     38.91010133314935
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Nicolaus Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5437511750631,
+     38.92503830815929
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Cornelius Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5437511750631,
+     38.92503830815929
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Cornelius Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63469129223279,
+     39.189879890614804
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Eager Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63469129223279,
+     39.189879890614804
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Eager Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63469129223279,
+     39.189879890614804
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Eager Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63469129223279,
+     39.189879890614804
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Eager Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54035907354914,
+     38.75023557615509
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99",
+     "Riego Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5404062474603,
+     38.750476839461165
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99",
+     "Riego Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54035907354914,
+     38.75023557615509
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99",
+     "Riego Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5404062474603,
+     38.750476839461165
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99",
+     "Riego Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5440381,
+     38.9250408632792
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Cornelius Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.5440381,
+     38.9250408632792
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Cornelius Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63536500321834,
+     39.17088687794316
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Pease Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63536500321834,
+     39.17088687794316
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Pease Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63536500321834,
+     39.17088687794316
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Pease Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63536500321834,
+     39.17088687794316
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Pease Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63502377787043,
+     39.17088737811061
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Pease Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63502377787043,
+     39.17088737811061
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Pease Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63502377787043,
+     39.17088737811061
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Pease Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63502377787043,
+     39.17088737811061
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Pease Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63523246769405,
+     39.15163198721869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Queens Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63523246769405,
+     39.15163198721869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Queens Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63523246769405,
+     39.15163198721869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Queens Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63523246769405,
+     39.15163198721869
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Queens Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63552070767662,
+     39.15162855363896
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Queens Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63552070767662,
+     39.15162855363896
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Queens Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63552070767662,
+     39.15162855363896
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Queens Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.63552070767662,
+     39.15162855363896
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 99",
+     "Queens Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54071020090454,
+     38.75022675089378
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99",
+     "Riego Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54076225142903,
+     38.750471468282896
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99",
+     "Riego Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54071020090454,
+     38.75022675089378
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99",
+     "Riego Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54076225142903,
+     38.750471468282896
+    ]
+   },
+   "properties": {
+    "streets": [
+     "Golden State Highway;CA 99",
+     "Riego Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54421539159378,
+     38.89567942760599
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Marcum Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54421539159378,
+     38.89567942760599
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Marcum Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54963829943469,
+     38.91009349398312
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Nicolaus Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54963829943469,
+     38.91009349398312
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Nicolaus Avenue"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54388359768502,
+     38.89568377449136
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Marcum Road"
+    ],
+    "nodeId": "Geom"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.54388359768502,
+     38.89568377449136
+    ]
+   },
+   "properties": {
+    "streets": [
+     "CA 70",
+     "Marcum Road"
+    ],
+    "nodeId": "Geom"
+   }
   }
  ]
 }
