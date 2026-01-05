@@ -5,6 +5,7 @@ import * as turf from "@turf/turf";
 
 import { classGpsbins } from "./gpsBins.js";
 import { readFileSync, writeFileSync } from 'fs';
+import { features } from "process";
 
 const DEBUG = false;
 const ALGGEOM = 'Geom';
@@ -27,6 +28,81 @@ const inputFile = process.argv[2]
 const outputFile = process.argv[3]
 
 console.log("input:", inputFile, "output:", outputFile)
+
+const countyCityFile = './data/county_cities.json';  // names of counties, and their cities
+var countyCityJson = JSON.parse(readFileSync(countyCityFile, 'utf8'));
+
+const countyCityBoundaryFile = './data/CaliforniaCountiesAndCitiesMini.geojson'; // borders 
+var countyCityBoundaryJson = JSON.parse(readFileSync(countyCityBoundaryFile, 'utf8'));
+
+
+const mapCountyToCities = new Map();
+for (const obj of countyCityJson) {
+	mapCountyToCities.set(obj.countyName, obj.cityNames);
+}
+
+var countyName;
+var countyFeature;
+const mapNameToBoundaryFeature = new Map(); 
+
+function findCityFromCoords(coords) {
+	
+	const testPoint = turf.point(coords); // ?
+
+	for (const [cityName,boundaryFeature] of mapNameToBoundaryFeature ) {
+		if (turf.booleanPointInPolygon(testPoint, boundaryFeature)) {
+			return cityName;
+		}
+	}
+	return; // not in any city boundary
+}
+function loadBorders(wayJson) {
+	// figure out county that contains coord and return a map from city names to turf features for each border
+
+	const coordObj = wayJson.elements[0].geometry[0];
+	const testCoords = [coordObj.lon, coordObj.lat];
+	const testPoint = turf.point([coordObj.lon, coordObj.lat]);
+
+	// find the county
+	for (const feature of countyCityBoundaryJson.features) {
+		const name = feature.properties.name;
+		if (mapCountyToCities.has(name)) { // is this a countyname ?
+			const testFeature = turf.feature(feature.geometry);
+			//console.log("testing ", name)
+			if (turf.booleanPointInPolygon(testPoint, testFeature)) {
+				countyName = name;
+				countyFeature = testFeature;
+				break;
+			} else {
+				if (DEBUG) {
+					console.log("point not in ", name)
+				}
+			}
+		}
+	}
+
+	if (!countyName) {
+		throw ("County not found!")
+	}
+	console.log("County", countyName)
+
+	const arrExpectedCities = mapCountyToCities.get(countyName)
+	const setExpectedCities = new Set(arrExpectedCities);
+
+	// find the cities
+	for (const feature of countyCityBoundaryJson.features) {
+		const name = feature.properties.name;
+		if (setExpectedCities.has(name)) { // is this a countyname ?
+
+			if (mapNameToBoundaryFeature.has(name)) {
+				console.log( "Already found boudnary for ", name)  // san francisco?
+			}
+			const cityFeature = turf.feature(feature.geometry);
+			mapNameToBoundaryFeature.set(name, cityFeature);
+		}
+	}
+	return ;
+}
 /* 
 Function to generate geojson
 */
@@ -203,7 +279,8 @@ function findIntersectionsGeomtric(ways) {
 					console.log(int, intCoords)
 				}
 				const intNodeId = bHasCommonNode ? arrCommonNodes[0] : ALGGEOM;
-				const intersection = { coordinates: [intCoords[1], intCoords[0]], raw: int, streets: clean(int), nodeId: intNodeId };
+				const arrWayIds = [way1.way.id, way2.way.id];
+				const intersection = { coordinates: [intCoords[1], intCoords[0]], raw: int, streets: clean(int), wayIds: arrWayIds, nodeId: intNodeId };
 				obj.intersections.push(intersection)
 			}
 
@@ -621,11 +698,17 @@ function avgGps(iter) {
 
 	const n = iter.length;
 	let latSum = 0, lonSum = 0;
+	const setWayIds = new Set();
 	for (const i of iter) {
 		latSum += i.coordinates[0];
 		lonSum += i.coordinates[1];
+		for (const wayId of i.wayIds) {
+			setWayIds.add(wayId)
+		}
 	}
-	const avg = { coordinates: [latSum / n, lonSum / n], raw: iter[0].raw, streets: iter[0].streets, nodeId: iter[0].nodeId };
+
+	const arrWayids = Array.from(setWayIds)
+	const avg = { coordinates: [latSum / n, lonSum / n], raw: iter[0].raw, streets: iter[0].streets, wayIds: arrWayids, nodeId: iter[0].nodeId };
 
 	return avg;
 }
@@ -1028,6 +1111,10 @@ function debugStreet(street, intersections) {
 		console.log(i);
 	}
 }
+function getWaysIdsForNode(nodeId) {
+	const retval = Array.from(mapNodeIdToWays.get(nodeId)).map((w) => w.id);
+	return retval;
+}
 function findintersections(ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
 {
 	const mapNodeidToName = new Map(); // populated by findIntersections
@@ -1093,7 +1180,8 @@ function findintersections(ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
 
 		if (true) {
 			//console.log(gps, int);
-			const intersection = { coordinates: [data.lat, data.lon], raw: int, streets: clean(int), nodeId: data.nodeId };
+			const arrWayIds = getWaysIdsForNode(data.nodeId);
+			const intersection = { coordinates: [data.lat, data.lon], raw: int, streets: clean(int), wayIds: arrWayIds, nodeId: data.nodeId };
 			obj.intersections.push(intersection);
 
 		} else {
@@ -1131,17 +1219,26 @@ function findintersections(ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
 
 */
 
+function fix6(f) {
+	const factor = 1000000.0;
+	const retval = Math.round(f * factor) / factor
+	return retval;
+}
+
 function makeIntersectionGeoJson(intersections) {
 
 	const arrFeatures = [];
 	for (const intersection of intersections) {
-		const lat = intersection.coordinates[0];
-		const lon = intersection.coordinates[1];
+		const lat = fix6(intersection.coordinates[0]);
+		const lon = fix6(intersection.coordinates[1]);
 
 		const coords = [lon, lat]
+		
+		const cityName = findCityFromCoords(coords) ?? 'Unincorporated';  // double check in county??
 
+		const wayIds = intersection.wayIds;
 		const streets = intersection.streets.split(SLASH);
-		const properties = { 'streets': streets, nodeId: intersection.nodeId };
+		const properties = { 'streets': streets, nodeId: intersection.nodeId, wayIds: wayIds, cityName:cityName };
 		const feature = makePointFeature(coords, properties);
 		arrFeatures.push(feature);
 	}
@@ -1168,6 +1265,9 @@ write the intersection geojson
 const mapNodeidToStreetEnds = new Map(); // maps nodeids to sets of street names which dead end on that node
 
 var wayJson = JSON.parse(readFileSync(inputFile, 'utf8'));
+
+loadBorders(wayJson);
+
 var wayData = initWayData(wayJson);
 findDeadEnds(wayJson);
 

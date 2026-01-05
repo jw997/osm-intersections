@@ -243,7 +243,12 @@ function addMarkers(intersections) {
 		);
 
 		const streetMsg = intersection.properties.streets.join(slash);
-		const msg = streetMsg + "<br/>nodeId:"+ intersection.properties.nodeId;
+		const msg = streetMsg 
+		+ "<br/>cityName:"+ intersection.properties.cityName
+		
+		+ "<br/>nodeId:"+ intersection.properties.nodeId 
+
+		+ "<br/>wayIds:"+ intersection.properties.wayIds.join('<br/>')
 
 		if (pointerFine) {
 
