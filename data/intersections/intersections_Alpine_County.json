@@ -6,8 +6,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7930418,
-     38.8107236
+     -119.793042,
+     38.810724
     ]
    },
    "properties": {
@@ -15,7 +15,12 @@
      "Emigrant Trail",
      "Shakehill Road"
     ],
-    "nodeId": 86281482
+    "nodeId": 86281482,
+    "wayIds": [
+     10281737,
+     10282772
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -23,8 +28,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0471201,
-     38.4656783
+     -120.04712,
+     38.465678
     ]
    },
    "properties": {
@@ -32,7 +37,12 @@
      "Bloods Ridge Road",
      "Quaking Aspen Road"
     ],
-    "nodeId": 86281492
+    "nodeId": 86281492,
+    "wayIds": [
+     10281741,
+     10282443
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -40,8 +50,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0475022,
-     38.4709008
+     -120.047502,
+     38.470901
     ]
    },
    "properties": {
@@ -49,7 +59,12 @@
      "Bear Valley Road",
      "Bloods Ridge Road"
     ],
-    "nodeId": 86281543
+    "nodeId": 86281543,
+    "wayIds": [
+     10281741,
+     375446697
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -57,8 +72,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0458452,
-     38.4705859
+     -120.045845,
+     38.470586
     ]
    },
    "properties": {
@@ -66,7 +81,12 @@
      "Bear Valley Road",
      "Lake Road"
     ],
-    "nodeId": 86281618
+    "nodeId": 86281618,
+    "wayIds": [
+     10281750,
+     375446697
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -74,8 +94,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0708598,
-     38.6960788
+     -120.07086,
+     38.696079
     ]
    },
    "properties": {
@@ -83,7 +103,12 @@
      "East Meadows Drive",
      "Heather Court"
     ],
-    "nodeId": 460309649
+    "nodeId": 460309649,
+    "wayIds": [
+     10281752,
+     10282678
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -91,8 +116,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7538677,
-     38.7951242
+     -119.753868,
+     38.795124
     ]
    },
    "properties": {
@@ -100,7 +125,12 @@
      "Dutch Valley Road",
      "Washoe Boulevard"
     ],
-    "nodeId": 86281737
+    "nodeId": 86281737,
+    "wayIds": [
+     10281753,
+     10282676
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -108,7 +138,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7548167,
+     -119.754817,
      38.794959
     ]
    },
@@ -117,7 +147,12 @@
      "Dutch Valley Road",
      "Hung A Lel Ti Way"
     ],
-    "nodeId": 86281739
+    "nodeId": 86281739,
+    "wayIds": [
+     10281753,
+     10282820
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -125,7 +160,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7556519,
+     -119.755652,
      38.794148
     ]
    },
@@ -134,7 +169,12 @@
      "Awohopi Drive",
      "Dutch Valley Road"
     ],
-    "nodeId": 86281747
+    "nodeId": 86281747,
+    "wayIds": [
+     10281753,
+     10282754
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -142,8 +182,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8961417,
-     38.7758649
+     -119.896142,
+     38.775865
     ]
    },
    "properties": {
@@ -151,7 +191,12 @@
      "CA 88;CA 89",
      "Snowshoe Springs Road"
     ],
-    "nodeId": 86281757
+    "nodeId": 86281757,
+    "wayIds": [
+     10281754,
+     30970915
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -159,8 +204,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8011082,
-     38.6892211
+     -119.801108,
+     38.689221
     ]
    },
    "properties": {
@@ -168,7 +213,12 @@
      "Ox Bow",
      "Pleasant Valley Road"
     ],
-    "nodeId": 86282180
+    "nodeId": 86282180,
+    "wayIds": [
+     10281768,
+     375625672
+    ],
+    "cityName": "Markleeville"
    }
   },
   {
@@ -176,8 +226,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0701533,
-     38.6961768
+     -120.070153,
+     38.696177
     ]
    },
    "properties": {
@@ -185,7 +235,12 @@
      "Larkspur Drive",
      "Sorrel Court"
     ],
-    "nodeId": 86282190
+    "nodeId": 86282190,
+    "wayIds": [
+     10281770,
+     10282776
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -193,8 +248,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.6481507,
-     38.3364246
+     -119.648151,
+     38.336425
     ]
    },
    "properties": {
@@ -202,7 +257,12 @@
      "CA 108",
      "Sonora Pass Highway;CA 108"
     ],
-    "nodeId": 3054897739
+    "nodeId": 3054897739,
+    "wayIds": [
+     10281773,
+     31084786
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -210,8 +270,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9017994,
-     38.7753766
+     -119.901799,
+     38.775377
     ]
    },
    "properties": {
@@ -219,7 +279,12 @@
      "CA 88;CA 89",
      "Douglas Way"
     ],
-    "nodeId": 86282242
+    "nodeId": 86282242,
+    "wayIds": [
+     10281774,
+     30970915
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -227,8 +292,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7777423,
-     38.6935911
+     -119.777742,
+     38.693591
     ]
    },
    "properties": {
@@ -236,7 +301,12 @@
      "CA 89",
      "Laramie Street;E1"
     ],
-    "nodeId": 86282286
+    "nodeId": 86282286,
+    "wayIds": [
+     10281778,
+     269302859
+    ],
+    "cityName": "Markleeville"
    }
   },
   {
@@ -253,7 +323,12 @@
      "Pinon Road",
      "Pleasant Valley Road"
     ],
-    "nodeId": 86282340
+    "nodeId": 86282340,
+    "wayIds": [
+     10281780,
+     375625672
+    ],
+    "cityName": "Markleeville"
    }
   },
   {
@@ -261,8 +336,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8213877,
-     38.7801398
+     -119.821388,
+     38.78014
     ]
    },
    "properties": {
@@ -270,7 +345,12 @@
      "CA 88",
      "Carson River Road"
     ],
-    "nodeId": 86299001
+    "nodeId": 86299001,
+    "wayIds": [
+     10281784,
+     832357777
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -278,8 +358,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7787553,
-     38.8091206
+     -119.778755,
+     38.809121
     ]
    },
    "properties": {
@@ -287,7 +367,12 @@
      "Carson River Road",
      "Diamond Valley Road"
     ],
-    "nodeId": 86282468
+    "nodeId": 86282468,
+    "wayIds": [
+     10281784,
+     795483564
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -295,8 +380,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9985339,
-     38.4264439
+     -119.998534,
+     38.426444
     ]
    },
    "properties": {
@@ -304,7 +389,12 @@
      "Forest Route 7N75C",
      "Union Reservoir West Campground"
     ],
-    "nodeId": 7649925767
+    "nodeId": 7649925767,
+    "wayIds": [
+     10281790,
+     1418531725
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -312,8 +402,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0661775,
-     38.6857531
+     -120.066177,
+     38.685753
     ]
    },
    "properties": {
@@ -321,7 +411,12 @@
      "Kirkwood Meadows Drive",
      "Powerhouse Road"
     ],
-    "nodeId": 86285762
+    "nodeId": 86285762,
+    "wayIds": [
+     10282223,
+     1078788119
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -329,8 +424,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0667138,
-     38.6870623
+     -120.066714,
+     38.687062
     ]
    },
    "properties": {
@@ -339,7 +434,13 @@
      "Kirkwood Meadows Drive",
      "Powerhouse Road"
     ],
-    "nodeId": 86295128
+    "nodeId": 86295128,
+    "wayIds": [
+     10282223,
+     10282566,
+     1078788119
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -347,8 +448,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0469469,
-     38.4602749
+     -120.046947,
+     38.460275
     ]
    },
    "properties": {
@@ -356,7 +457,12 @@
      "Station House Road",
      "Toll Gate Road"
     ],
-    "nodeId": 86292709
+    "nodeId": 86292709,
+    "wayIds": [
+     10282427,
+     10282537
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -364,8 +470,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8212937,
-     38.7622805
+     -119.821294,
+     38.762281
     ]
    },
    "properties": {
@@ -373,7 +479,12 @@
      "Manzanita Lane",
      "Zellmer Lane"
     ],
-    "nodeId": 86292792
+    "nodeId": 86292792,
+    "wayIds": [
+     10282438,
+     10282732
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -381,8 +492,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0469476,
-     38.4705944
+     -120.046948,
+     38.470594
     ]
    },
    "properties": {
@@ -390,7 +501,12 @@
      "Bear Valley Road",
      "Quaking Aspen Road"
     ],
-    "nodeId": 86292813
+    "nodeId": 86292813,
+    "wayIds": [
+     10282443,
+     375446697
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -398,8 +514,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0465359,
-     38.4638011
+     -120.046536,
+     38.463801
     ]
    },
    "properties": {
@@ -407,7 +523,12 @@
      "Monte Wolf Road",
      "Quaking Aspen Road"
     ],
-    "nodeId": 86292866
+    "nodeId": 86292866,
+    "wayIds": [
+     10282443,
+     10282545
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -415,8 +536,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0412317,
-     38.4627035
+     -120.041232,
+     38.462704
     ]
    },
    "properties": {
@@ -425,7 +546,13 @@
      "Creekside Drive",
      "Quaking Aspen Road"
     ],
-    "nodeId": 86292880
+    "nodeId": 86292880,
+    "wayIds": [
+     10282443,
+     10282696,
+     10282736
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -433,8 +560,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0430073,
-     38.4750405
+     -120.043007,
+     38.475041
     ]
    },
    "properties": {
@@ -442,7 +569,12 @@
      "Creekside Drive",
      "Flynn Road"
     ],
-    "nodeId": 3749760548
+    "nodeId": 3749760548,
+    "wayIds": [
+     10282515,
+     371404596
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -450,7 +582,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0407599,
+     -120.04076,
      38.464923
     ]
    },
@@ -459,7 +591,12 @@
      "Bear Valley Road",
      "Eberhardt Circle"
     ],
-    "nodeId": 86294386
+    "nodeId": 86294386,
+    "wayIds": [
+     10282519,
+     10282696
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -467,8 +604,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8025502,
-     38.8043631
+     -119.80255,
+     38.804363
     ]
    },
    "properties": {
@@ -476,7 +613,12 @@
      "California Road",
      "Carson View"
     ],
-    "nodeId": 86294523
+    "nodeId": 86294523,
+    "wayIds": [
+     10282527,
+     10282564
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -484,8 +626,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8025915,
-     38.8053204
+     -119.802591,
+     38.80532
     ]
    },
    "properties": {
@@ -493,7 +635,12 @@
      "Carson View",
      "Nevada Road"
     ],
-    "nodeId": 86294526
+    "nodeId": 86294526,
+    "wayIds": [
+     10282527,
+     10282563
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -501,8 +648,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8025872,
-     38.8069883
+     -119.802587,
+     38.806988
     ]
    },
    "properties": {
@@ -510,7 +657,12 @@
      "Carson View",
      "Larson Canyon"
     ],
-    "nodeId": 86294529
+    "nodeId": 86294529,
+    "wayIds": [
+     10282527,
+     180980693
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -518,8 +670,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0194952,
-     38.4825547
+     -120.019495,
+     38.482555
     ]
    },
    "properties": {
@@ -527,7 +679,13 @@
      "CA 4",
      "Mount Reba Road;CA 207"
     ],
-    "nodeId": 86296611
+    "nodeId": 86296611,
+    "wayIds": [
+     10282528,
+     10282623,
+     376729452
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -535,7 +693,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8014885,
+     -119.801488,
      38.685295
     ]
    },
@@ -544,7 +702,12 @@
      "Lava Cap",
      "Pleasant Valley Road"
     ],
-    "nodeId": 86294558
+    "nodeId": 86294558,
+    "wayIds": [
+     10282530,
+     375625672
+    ],
+    "cityName": "Markleeville"
    }
   },
   {
@@ -552,8 +715,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8205562,
-     38.7737685
+     -119.820556,
+     38.773769
     ]
    },
    "properties": {
@@ -561,7 +724,12 @@
      "Barber Road",
      "CA 89"
     ],
-    "nodeId": 86294627
+    "nodeId": 86294627,
+    "wayIds": [
+     10282536,
+     808512006
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -569,7 +737,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8184619,
+     -119.818462,
      38.774256
     ]
    },
@@ -578,7 +746,12 @@
      "Barber Road",
      "Pine Avenue"
     ],
-    "nodeId": 86288650
+    "nodeId": 86288650,
+    "wayIds": [
+     10282536,
+     10282708
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -586,7 +759,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0470569,
+     -120.047057,
      38.460947
     ]
    },
@@ -595,7 +768,12 @@
      "Lombardi Lane",
      "Toll Gate Road"
     ],
-    "nodeId": 3778838863
+    "nodeId": 3778838863,
+    "wayIds": [
+     10282537,
+     10282827
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -604,7 +782,7 @@
     "type": "Point",
     "coordinates": [
      -119.780309,
-     38.6949235
+     38.694924
     ]
    },
    "properties": {
@@ -612,7 +790,12 @@
      "CA 89",
      "Montgomery Street"
     ],
-    "nodeId": 86294656
+    "nodeId": 86294656,
+    "wayIds": [
+     10282541,
+     184877565
+    ],
+    "cityName": "Markleeville"
    }
   },
   {
@@ -620,8 +803,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7816268,
-     38.6941306
+     -119.781627,
+     38.694131
     ]
    },
    "properties": {
@@ -629,7 +812,12 @@
      "Montgomery Street",
      "School Street"
     ],
-    "nodeId": 86294659
+    "nodeId": 86294659,
+    "wayIds": [
+     10282541,
+     10282799
+    ],
+    "cityName": "Markleeville"
    }
   },
   {
@@ -647,7 +835,14 @@
      "Laramie Street;E1",
      "Montgomery Street"
     ],
-    "nodeId": 86294651
+    "nodeId": 86294651,
+    "wayIds": [
+     10282541,
+     27565116,
+     349293128,
+     808521385
+    ],
+    "cityName": "Markleeville"
    }
   },
   {
@@ -655,8 +850,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0426169,
-     38.4661727
+     -120.042617,
+     38.466173
     ]
    },
    "properties": {
@@ -664,7 +859,12 @@
      "Bear Valley Road",
      "Monte Wolf Road"
     ],
-    "nodeId": 3778847229
+    "nodeId": 3778847229,
+    "wayIds": [
+     10282545,
+     1374430937
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -672,8 +872,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7550007,
-     38.7956541
+     -119.755001,
+     38.795654
     ]
    },
    "properties": {
@@ -681,7 +881,12 @@
      "Galis Dungal",
      "Hung A Lel Ti Way"
     ],
-    "nodeId": 86294988
+    "nodeId": 86294988,
+    "wayIds": [
+     10282557,
+     10282820
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -689,8 +894,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7964625,
-     38.8052803
+     -119.796462,
+     38.80528
     ]
    },
    "properties": {
@@ -698,7 +903,12 @@
      "Emigrant Trail",
      "Nevada Road"
     ],
-    "nodeId": 86295107
+    "nodeId": 86295107,
+    "wayIds": [
+     10282563,
+     10282772
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -706,8 +916,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8053016,
-     38.8043689
+     -119.805302,
+     38.804369
     ]
    },
    "properties": {
@@ -715,7 +925,12 @@
      "California Road",
      "Diamond View"
     ],
-    "nodeId": 86295112
+    "nodeId": 86295112,
+    "wayIds": [
+     10282564,
+     10282796
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -723,8 +938,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8016672,
-     38.8037991
+     -119.801667,
+     38.803799
     ]
    },
    "properties": {
@@ -732,7 +947,12 @@
      "California Road",
      "Topaz Place"
     ],
-    "nodeId": 86295116
+    "nodeId": 86295116,
+    "wayIds": [
+     10282564,
+     10282664
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -740,8 +960,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7992779,
-     38.8023556
+     -119.799278,
+     38.802356
     ]
    },
    "properties": {
@@ -749,7 +969,12 @@
      "California Road",
      "Emigrant Trail"
     ],
-    "nodeId": 86295122
+    "nodeId": 86295122,
+    "wayIds": [
+     10282564,
+     10282772
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -757,8 +982,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0669489,
-     38.6877257
+     -120.066949,
+     38.687726
     ]
    },
    "properties": {
@@ -766,7 +991,12 @@
      "Cornice Court",
      "East Meadows Drive"
     ],
-    "nodeId": 3775336305
+    "nodeId": 3775336305,
+    "wayIds": [
+     10282566,
+     374137940
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -783,7 +1013,12 @@
      "Bear Valley Road",
      "Schimke Road"
     ],
-    "nodeId": 86295148
+    "nodeId": 86295148,
+    "wayIds": [
+     10282567,
+     375446697
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -791,8 +1026,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0456749,
-     38.4687689
+     -120.045675,
+     38.468769
     ]
    },
    "properties": {
@@ -801,7 +1036,14 @@
      "John Ebbetts Road",
      "Schimke Road"
     ],
-    "nodeId": 86295180
+    "nodeId": 86295180,
+    "wayIds": [
+     10282567,
+     10282681,
+     374492889,
+     375446697
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -809,7 +1051,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8163042,
+     -119.816304,
      38.767257
     ]
    },
@@ -818,7 +1060,12 @@
      "CA 89",
      "Monroe Ranch Road"
     ],
-    "nodeId": 86295195
+    "nodeId": 86295195,
+    "wayIds": [
+     10282569,
+     808512006
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -826,8 +1073,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9386306,
-     38.6293913
+     -119.938631,
+     38.629391
     ]
    },
    "properties": {
@@ -835,7 +1082,12 @@
      "Blue Lakes Road",
      "Forestdale Road"
     ],
-    "nodeId": 86291618
+    "nodeId": 86291618,
+    "wayIds": [
+     10282575,
+     1429652537
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -843,8 +1095,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7870991,
-     38.8287178
+     -119.787099,
+     38.828718
     ]
    },
    "properties": {
@@ -852,7 +1104,12 @@
      "Foothill Road",
      "Fredericksburg Lane"
     ],
-    "nodeId": 376616231
+    "nodeId": 376616231,
+    "wayIds": [
+     10282583,
+     372400753
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -860,8 +1117,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7791042,
-     38.8295519
+     -119.779104,
+     38.829552
     ]
    },
    "properties": {
@@ -869,7 +1126,12 @@
      "CA 88",
      "Fredericksburg Lane"
     ],
-    "nodeId": 86295625
+    "nodeId": 86295625,
+    "wayIds": [
+     10282583,
+     30970903
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -877,8 +1139,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0535648,
-     38.4555777
+     -120.053565,
+     38.455578
     ]
    },
    "properties": {
@@ -886,7 +1148,12 @@
      "CA 4",
      "Highway 4;CA 4"
     ],
-    "nodeId": 86846145
+    "nodeId": 86846145,
+    "wayIds": [
+     10282623,
+     10304818
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -894,8 +1161,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0421482,
-     38.4611266
+     -120.042148,
+     38.461127
     ]
    },
    "properties": {
@@ -903,7 +1170,12 @@
      "Bear Valley Road",
      "CA 4"
     ],
-    "nodeId": 86296564
+    "nodeId": 86296564,
+    "wayIds": [
+     10282623,
+     10282696
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -911,8 +1183,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0411753,
-     38.4716007
+     -120.041175,
+     38.471601
     ]
    },
    "properties": {
@@ -920,7 +1192,12 @@
      "Creekside Drive",
      "Granite Vista Road"
     ],
-    "nodeId": 86296841
+    "nodeId": 86296841,
+    "wayIds": [
+     10282629,
+     371404596
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -928,8 +1205,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8020487,
-     38.7267888
+     -119.802049,
+     38.726789
     ]
    },
    "properties": {
@@ -937,7 +1214,12 @@
      "Airport Road",
      "CA 89"
     ],
-    "nodeId": 86296948
+    "nodeId": 86296948,
+    "wayIds": [
+     10282633,
+     269302863
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -954,7 +1236,12 @@
      "Alpine Way",
      "Monte Vista"
     ],
-    "nodeId": 86297182
+    "nodeId": 86297182,
+    "wayIds": [
+     10282640,
+     10282649
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -962,8 +1249,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0416491,
-     38.4622912
+     -120.041649,
+     38.462291
     ]
    },
    "properties": {
@@ -971,7 +1258,12 @@
      "Bear Valley Road",
      "Tamarack Circle"
     ],
-    "nodeId": 3749725285
+    "nodeId": 3749725285,
+    "wayIds": [
+     10282645,
+     10282696
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -988,7 +1280,12 @@
      "Meadow Drive",
      "Silvertip Road"
     ],
-    "nodeId": 86297381
+    "nodeId": 86297381,
+    "wayIds": [
+     10282648,
+     10282781
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -996,8 +1293,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0710464,
-     38.6973366
+     -120.071046,
+     38.697337
     ]
    },
    "properties": {
@@ -1005,7 +1302,12 @@
      "Aster Court",
      "Larkspur Drive"
     ],
-    "nodeId": 86297409
+    "nodeId": 86297409,
+    "wayIds": [
+     10282650,
+     10282776
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1014,7 +1316,7 @@
     "type": "Point",
     "coordinates": [
      -120.070201,
-     38.6849319
+     38.684932
     ]
    },
    "properties": {
@@ -1022,7 +1324,13 @@
      "Kirkwood Meadows Drive",
      "Palisades Drive"
     ],
-    "nodeId": 1110843581
+    "nodeId": 1110843581,
+    "wayIds": [
+     10282656,
+     95855891,
+     500578746
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1030,8 +1338,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7796913,
-     38.6942829
+     -119.779691,
+     38.694283
     ]
    },
    "properties": {
@@ -1039,7 +1347,12 @@
      "CA 89",
      "Water Street"
     ],
-    "nodeId": 86297563
+    "nodeId": 86297563,
+    "wayIds": [
+     10282659,
+     184877565
+    ],
+    "cityName": "Markleeville"
    }
   },
   {
@@ -1047,8 +1360,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0711146,
-     38.6984811
+     -120.071115,
+     38.698481
     ]
    },
    "properties": {
@@ -1056,7 +1369,12 @@
      "Columbine Circle",
      "Larkspur Drive"
     ],
-    "nodeId": 86297622
+    "nodeId": 86297622,
+    "wayIds": [
+     10282666,
+     10282776
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1065,7 +1383,7 @@
     "type": "Point",
     "coordinates": [
      -119.815258,
-     38.7649661
+     38.764966
     ]
    },
    "properties": {
@@ -1073,7 +1391,12 @@
      "Bryan Way",
      "CA 89"
     ],
-    "nodeId": 86297663
+    "nodeId": 86297663,
+    "wayIds": [
+     10282670,
+     808512006
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1081,8 +1404,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8126918,
-     38.7673807
+     -119.812692,
+     38.767381
     ]
    },
    "properties": {
@@ -1090,7 +1413,13 @@
      "Bryan Way",
      "Diamond Valley Road"
     ],
-    "nodeId": 86297666
+    "nodeId": 86297666,
+    "wayIds": [
+     10282670,
+     10282673,
+     369930565
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1098,8 +1427,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8176536,
-     38.7701189
+     -119.817654,
+     38.770119
     ]
    },
    "properties": {
@@ -1107,7 +1436,12 @@
      "CA 89",
      "Diamond Valley Road"
     ],
-    "nodeId": 86297839
+    "nodeId": 86297839,
+    "wayIds": [
+     10282673,
+     808512006
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1124,7 +1458,12 @@
      "Bear Valley Road",
      "John Ebbetts Road"
     ],
-    "nodeId": 86297927
+    "nodeId": 86297927,
+    "wayIds": [
+     10282684,
+     374492889
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1132,8 +1471,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0408127,
-     38.4651745
+     -120.040813,
+     38.465175
     ]
    },
    "properties": {
@@ -1141,7 +1480,13 @@
      "Bear Valley Road",
      "No Name Road"
     ],
-    "nodeId": 86289702
+    "nodeId": 86289702,
+    "wayIds": [
+     10282696,
+     10282839,
+     1374430937
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1150,7 +1495,7 @@
     "type": "Point",
     "coordinates": [
      -119.783043,
-     38.6932463
+     38.693246
     ]
    },
    "properties": {
@@ -1158,7 +1503,12 @@
      "Barrett Court",
      "Montgomery Street"
     ],
-    "nodeId": 86294660
+    "nodeId": 86294660,
+    "wayIds": [
+     10282698,
+     349293128
+    ],
+    "cityName": "Markleeville"
    }
   },
   {
@@ -1166,8 +1516,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8000315,
-     38.7247122
+     -119.800031,
+     38.724712
     ]
    },
    "properties": {
@@ -1175,7 +1525,12 @@
      "CA 89",
      "Turtle Rock Park Road"
     ],
-    "nodeId": 86298611
+    "nodeId": 86298611,
+    "wayIds": [
+     10282700,
+     269302863
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1183,8 +1538,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8163703,
-     38.7737869
+     -119.81637,
+     38.773787
     ]
    },
    "properties": {
@@ -1192,7 +1547,12 @@
      "Pine Avenue",
      "Sage Avenue"
     ],
-    "nodeId": 86298678
+    "nodeId": 86298678,
+    "wayIds": [
+     10282708,
+     10282808
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1200,8 +1560,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8172354,
-     38.7739055
+     -119.817235,
+     38.773906
     ]
    },
    "properties": {
@@ -1209,7 +1569,12 @@
      "Aspen Way",
      "Pine Avenue"
     ],
-    "nodeId": 86298680
+    "nodeId": 86298680,
+    "wayIds": [
+     10282708,
+     10282775
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1217,8 +1582,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8016206,
-     38.6867498
+     -119.801621,
+     38.68675
     ]
    },
    "properties": {
@@ -1226,7 +1591,12 @@
      "Canon View",
      "Pleasant Valley Road"
     ],
-    "nodeId": 86298692
+    "nodeId": 86298692,
+    "wayIds": [
+     10282711,
+     375625672
+    ],
+    "cityName": "Markleeville"
    }
   },
   {
@@ -1234,7 +1604,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7927994,
+     -119.792799,
      38.811046
     ]
    },
@@ -1243,7 +1613,12 @@
      "Emigrant Trail",
      "Spring Canyon Drive"
     ],
-    "nodeId": 86299302
+    "nodeId": 86299302,
+    "wayIds": [
+     10282731,
+     10282772
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1252,7 +1627,7 @@
     "type": "Point",
     "coordinates": [
      -119.815354,
-     38.7622697
+     38.76227
     ]
    },
    "properties": {
@@ -1260,7 +1635,12 @@
      "CA 89",
      "Manzanita Lane"
     ],
-    "nodeId": 86299314
+    "nodeId": 86299314,
+    "wayIds": [
+     10282732,
+     808512006
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1268,8 +1648,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0386837,
-     38.7043213
+     -120.038684,
+     38.704321
     ]
    },
    "properties": {
@@ -1277,7 +1657,13 @@
      "CA 88",
      "Schneider Cow Camp Road"
     ],
-    "nodeId": 86299130
+    "nodeId": 86299130,
+    "wayIds": [
+     10282734,
+     824273935,
+     824273938
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1285,8 +1671,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8237751,
-     38.7756117
+     -119.823775,
+     38.775612
     ]
    },
    "properties": {
@@ -1296,7 +1682,14 @@
      "CA 89",
      "Old Pony Express Way"
     ],
-    "nodeId": 86298982
+    "nodeId": 86298982,
+    "wayIds": [
+     10282735,
+     269107429,
+     1010801111,
+     1010801113
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1305,7 +1698,7 @@
     "type": "Point",
     "coordinates": [
      -120.038907,
-     38.4658679
+     38.465868
     ]
    },
    "properties": {
@@ -1313,7 +1706,13 @@
      "Creekside Drive",
      "No Name Road"
     ],
-    "nodeId": 86298574
+    "nodeId": 86298574,
+    "wayIds": [
+     10282736,
+     10282839,
+     371404596
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1321,7 +1720,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8353153,
+     -119.835315,
      38.547663
     ]
    },
@@ -1330,7 +1729,12 @@
      "CA 4",
      "Highland Lakes Road"
     ],
-    "nodeId": 12299515097
+    "nodeId": 12299515097,
+    "wayIds": [
+     10282758,
+     767306471
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1338,8 +1742,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7791549,
-     38.8198678
+     -119.779155,
+     38.819868
     ]
    },
    "properties": {
@@ -1348,7 +1752,13 @@
      "Emigrant Trail",
      "River Ranch Road"
     ],
-    "nodeId": 86294313
+    "nodeId": 86294313,
+    "wayIds": [
+     10282772,
+     30970903,
+     349316587
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1356,7 +1766,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7831994,
+     -119.783199,
      38.819806
     ]
    },
@@ -1365,7 +1775,12 @@
      "Emigrant Trail",
      "Foothill Road"
     ],
-    "nodeId": 86296800
+    "nodeId": 86296800,
+    "wayIds": [
+     10282772,
+     372400753
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1373,8 +1788,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8106963,
-     38.7917355
+     -119.810696,
+     38.791736
     ]
    },
    "properties": {
@@ -1382,7 +1797,12 @@
      "Emigrant Trail",
      "Pioneer Trail"
     ],
-    "nodeId": 3754929019
+    "nodeId": 3754929019,
+    "wayIds": [
+     10282772,
+     371950240
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1390,8 +1810,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8176598,
-     38.7840064
+     -119.81766,
+     38.784006
     ]
    },
    "properties": {
@@ -1399,7 +1819,12 @@
      "CA 88",
      "Emigrant Trail"
     ],
-    "nodeId": 451129008
+    "nodeId": 451129008,
+    "wayIds": [
+     10282772,
+     832357777
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1407,8 +1832,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7579113,
-     38.7543394
+     -119.757911,
+     38.754339
     ]
    },
    "properties": {
@@ -1416,7 +1841,12 @@
      "East Fork Road",
      "Scossa Canyon Road"
     ],
-    "nodeId": 3756195395
+    "nodeId": 3756195395,
+    "wayIds": [
+     10282777,
+     813815415
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1424,8 +1854,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0504451,
-     38.4593757
+     -120.050445,
+     38.459376
     ]
    },
    "properties": {
@@ -1433,7 +1863,12 @@
      "Alpine Way",
      "Station House Road"
     ],
-    "nodeId": 86300790
+    "nodeId": 86300790,
+    "wayIds": [
+     10282787,
+     374492363
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1441,8 +1876,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8269649,
-     38.7741523
+     -119.826965,
+     38.774152
     ]
    },
    "properties": {
@@ -1450,7 +1885,12 @@
      "CA 88;CA 89",
      "Old Pony Express Way"
     ],
-    "nodeId": 86298976
+    "nodeId": 86298976,
+    "wayIds": [
+     10282795,
+     269107422
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1458,8 +1898,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8216656,
-     38.7776763
+     -119.821666,
+     38.777676
     ]
    },
    "properties": {
@@ -1467,7 +1907,12 @@
      "CA 88",
      "Old Pony Express Way"
     ],
-    "nodeId": 86298994
+    "nodeId": 86298994,
+    "wayIds": [
+     10282795,
+     832357777
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1475,8 +1920,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0427676,
-     38.4661912
+     -120.042768,
+     38.466191
     ]
    },
    "properties": {
@@ -1484,7 +1929,13 @@
      "Bear Valley Road",
      "Cub Lane"
     ],
-    "nodeId": 86294701
+    "nodeId": 86294701,
+    "wayIds": [
+     10282798,
+     374492889,
+     1374430937
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1492,7 +1943,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0074354,
+     -120.007435,
      38.475934
     ]
    },
@@ -1501,7 +1952,12 @@
      "Slick Rock Road",
      "West Lake Alpine Road"
     ],
-    "nodeId": 806223237
+    "nodeId": 806223237,
+    "wayIds": [
+     10282801,
+     618839477
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1509,8 +1965,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0078002,
-     38.4780926
+     -120.0078,
+     38.478093
     ]
    },
    "properties": {
@@ -1518,7 +1974,12 @@
      "CA 4",
      "West Lake Alpine Road"
     ],
-    "nodeId": 86296634
+    "nodeId": 86296634,
+    "wayIds": [
+     10282801,
+     376729451
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1527,7 +1988,7 @@
     "type": "Point",
     "coordinates": [
      -119.816351,
-     38.7743657
+     38.774366
     ]
    },
    "properties": {
@@ -1535,7 +1996,12 @@
      "Cedar Lane",
      "Sage Avenue"
     ],
-    "nodeId": 86301161
+    "nodeId": 86301161,
+    "wayIds": [
+     10282808,
+     10282849
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1543,8 +2009,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9662979,
-     38.6989831
+     -119.966298,
+     38.698983
     ]
    },
    "properties": {
@@ -1552,7 +2018,13 @@
      "Forestdale Road",
      "Red Vista Road"
     ],
-    "nodeId": 451145642
+    "nodeId": 451145642,
+    "wayIds": [
+     10282812,
+     1125935907,
+     1348070314
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1560,7 +2032,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7774721,
+     -119.777472,
      38.808777
     ]
    },
@@ -1569,7 +2041,12 @@
      "Chambers Lane",
      "Diamond Valley Road"
     ],
-    "nodeId": 86297824
+    "nodeId": 86297824,
+    "wayIds": [
+     10282819,
+     795483564
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1577,8 +2054,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7745293,
-     38.8198844
+     -119.774529,
+     38.819884
     ]
    },
    "properties": {
@@ -1586,7 +2063,13 @@
      "Chambers Lane",
      "River Ranch Road"
     ],
-    "nodeId": 86294307
+    "nodeId": 86294307,
+    "wayIds": [
+     10282819,
+     349316587,
+     371949600
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1594,8 +2077,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8094968,
-     38.7676858
+     -119.809497,
+     38.767686
     ]
    },
    "properties": {
@@ -1604,7 +2087,13 @@
      "Hawkside Court",
      "Hawkside Drive"
     ],
-    "nodeId": 86282281
+    "nodeId": 86282281,
+    "wayIds": [
+     10282829,
+     369930565,
+     371821889
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1612,8 +2101,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0187194,
-     38.6996217
+     -120.018719,
+     38.699622
     ]
    },
    "properties": {
@@ -1621,7 +2110,12 @@
      "CA 88",
      "Woods Lake Road"
     ],
-    "nodeId": 86299162
+    "nodeId": 86299162,
+    "wayIds": [
+     10282830,
+     184877564
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1629,8 +2123,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7808286,
-     38.6954933
+     -119.780829,
+     38.695493
     ]
    },
    "properties": {
@@ -1638,7 +2132,12 @@
      "CA 89",
      "Webster Street"
     ],
-    "nodeId": 86299835
+    "nodeId": 86299835,
+    "wayIds": [
+     10282834,
+     184877565
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1646,8 +2145,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0506966,
-     38.4688929
+     -120.050697,
+     38.468893
     ]
    },
    "properties": {
@@ -1655,7 +2154,12 @@
      "Avalanche Road",
      "Snowshoe Road"
     ],
-    "nodeId": 86301949
+    "nodeId": 86301949,
+    "wayIds": [
+     10282835,
+     10282880
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1663,8 +2167,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8437981,
-     38.7667514
+     -119.843798,
+     38.766751
     ]
    },
    "properties": {
@@ -1672,7 +2176,12 @@
      "Crystal Springs Road",
      "Merk Creek Court"
     ],
-    "nodeId": 86300840
+    "nodeId": 86300840,
+    "wayIds": [
+     10282840,
+     374465431
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1680,8 +2189,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8153444,
-     38.7624672
+     -119.815344,
+     38.762467
     ]
    },
    "properties": {
@@ -1689,7 +2198,12 @@
      "CA 89",
      "Lower Manzanita Lane"
     ],
-    "nodeId": 86300030
+    "nodeId": 86300030,
+    "wayIds": [
+     10282841,
+     808512006
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1697,8 +2211,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7835195,
-     38.6929843
+     -119.783519,
+     38.692984
     ]
    },
    "properties": {
@@ -1706,7 +2220,12 @@
      "Cole Court",
      "Montgomery Street"
     ],
-    "nodeId": 86294661
+    "nodeId": 86294661,
+    "wayIds": [
+     10282850,
+     349293128
+    ],
+    "cityName": "Markleeville"
    }
   },
   {
@@ -1714,8 +2233,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8717295,
-     38.3632654
+     -119.871729,
+     38.363265
     ]
    },
    "properties": {
@@ -1723,7 +2242,12 @@
      "Clark Fork Road;FR 7N83",
      "Forest Route 6N06"
     ],
-    "nodeId": 94627078
+    "nodeId": 94627078,
+    "wayIds": [
+     10683355,
+     300876745
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1731,8 +2255,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7792358,
-     38.8092771
+     -119.779236,
+     38.809277
     ]
    },
    "properties": {
@@ -1741,7 +2265,14 @@
      "Diamond Valley Road",
      "Foothill Road"
     ],
-    "nodeId": 86297826
+    "nodeId": 86297826,
+    "wayIds": [
+     30970903,
+     372400753,
+     795483564,
+     1042963917
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1749,7 +2280,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9188789,
+     -119.918879,
      38.776397
     ]
    },
@@ -1759,7 +2290,13 @@
      "CA 88;CA 89",
      "Luther Pass Road;CA 89"
     ],
-    "nodeId": 86295219
+    "nodeId": 86295219,
+    "wayIds": [
+     30970915,
+     269107400,
+     274482757
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1767,8 +2304,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7960858,
-     38.6931106
+     -119.796086,
+     38.693111
     ]
    },
    "properties": {
@@ -1776,7 +2313,12 @@
      "Raymond View Drive",
      "Silver Peak Road"
     ],
-    "nodeId": 934035362
+    "nodeId": 934035362,
+    "wayIds": [
+     80065935,
+     80065938
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1784,8 +2326,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7959651,
-     38.6907605
+     -119.795965,
+     38.690761
     ]
    },
    "properties": {
@@ -1793,7 +2335,12 @@
      "Hot Springs Road;E1",
      "Raymond View Drive"
     ],
-    "nodeId": 934035344
+    "nodeId": 934035344,
+    "wayIds": [
+     80065935,
+     808521385
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1801,8 +2348,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7898687,
-     38.8038146
+     -119.789869,
+     38.803815
     ]
    },
    "properties": {
@@ -1810,7 +2357,12 @@
      "Gold Rush Trail",
      "Sunrise Trail"
     ],
-    "nodeId": 1914243190
+    "nodeId": 1914243190,
+    "wayIds": [
+     180980687,
+     180980691
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1818,8 +2370,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8050366,
-     38.8069938
+     -119.805037,
+     38.806994
     ]
    },
    "properties": {
@@ -1827,7 +2379,12 @@
      "Chisholm Trail",
      "Larson Canyon"
     ],
-    "nodeId": 1914243169
+    "nodeId": 1914243169,
+    "wayIds": [
+     180980689,
+     180980693
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1835,8 +2392,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9661271,
-     38.6992373
+     -119.966127,
+     38.699237
     ]
    },
    "properties": {
@@ -1844,7 +2401,13 @@
      "CA 88",
      "Red Vista Road"
     ],
-    "nodeId": 86295585
+    "nodeId": 86295585,
+    "wayIds": [
+     269107399,
+     499572979,
+     1125935907
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1852,8 +2415,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7264856,
-     38.6605684
+     -119.726486,
+     38.660568
     ]
    },
    "properties": {
@@ -1861,7 +2424,13 @@
      "CA 4",
      "CA 89"
     ],
-    "nodeId": 810975437
+    "nodeId": 810975437,
+    "wayIds": [
+     269302857,
+     269302862,
+     784701403
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1869,7 +2438,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.6667995,
+     -119.666799,
      38.669042
     ]
    },
@@ -1878,7 +2447,12 @@
      "CA 89",
      "Leviathan Mine Road"
     ],
-    "nodeId": 86299520
+    "nodeId": 86299520,
+    "wayIds": [
+     269302862,
+     375613611
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1886,8 +2460,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8243508,
-     38.3838371
+     -119.824351,
+     38.383837
     ]
    },
    "properties": {
@@ -1895,7 +2469,12 @@
      "Clark Fork Road;FR 7N83",
      "County Road 920;FR 7N83"
     ],
-    "nodeId": 94743887
+    "nodeId": 94743887,
+    "wayIds": [
+     300876745,
+     1330444188
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1903,8 +2482,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7856429,
-     38.8260573
+     -119.785643,
+     38.826057
     ]
    },
    "properties": {
@@ -1912,7 +2491,12 @@
      "Foothill Road",
      "Jenny May Way"
     ],
-    "nodeId": 3548295340
+    "nodeId": 3548295340,
+    "wayIds": [
+     348766749,
+     372400753
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1920,8 +2504,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8155204,
-     38.7595785
+     -119.81552,
+     38.759579
     ]
    },
    "properties": {
@@ -1929,7 +2513,12 @@
      "CA 89",
      "Hawkins Ranch Road"
     ],
-    "nodeId": 3548685588
+    "nodeId": 3548685588,
+    "wayIds": [
+     348800076,
+     808512006
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1937,8 +2526,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0436315,
-     38.4767262
+     -120.043631,
+     38.476726
     ]
    },
    "properties": {
@@ -1946,7 +2535,12 @@
      "Bear Valley Road",
      "Creekside Drive"
     ],
-    "nodeId": 86298496
+    "nodeId": 86298496,
+    "wayIds": [
+     371404596,
+     375446697
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1954,8 +2548,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8221947,
-     38.7744535
+     -119.822195,
+     38.774454
     ]
    },
    "properties": {
@@ -1963,7 +2557,12 @@
      "CA 89",
      "West Fork Lane"
     ],
-    "nodeId": 86300074
+    "nodeId": 86300074,
+    "wayIds": [
+     371817651,
+     808512006
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1971,8 +2570,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8224243,
-     38.7742799
+     -119.822424,
+     38.77428
     ]
    },
    "properties": {
@@ -1980,7 +2579,12 @@
      "West Fork Lane",
      "Woodfords Lane"
     ],
-    "nodeId": 3753593839
+    "nodeId": 3753593839,
+    "wayIds": [
+     371817651,
+     371817652
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1988,8 +2592,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8004095,
-     38.6899308
+     -119.800409,
+     38.689931
     ]
    },
    "properties": {
@@ -1997,7 +2601,12 @@
      "Pleasant Valley Road",
      "Sawmill Road"
     ],
-    "nodeId": 86285311
+    "nodeId": 86285311,
+    "wayIds": [
+     374014408,
+     375625672
+    ],
+    "cityName": "Markleeville"
    }
   },
   {
@@ -2005,8 +2614,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7971044,
-     38.6907889
+     -119.797104,
+     38.690789
     ]
    },
    "properties": {
@@ -2014,7 +2623,12 @@
      "Hot Springs Road;E1",
      "Pleasant Valley Road"
     ],
-    "nodeId": 86295081
+    "nodeId": 86295081,
+    "wayIds": [
+     375625672,
+     808521385
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2022,8 +2636,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7234642,
-     38.6309368
+     -119.723464,
+     38.630937
     ]
    },
    "properties": {
@@ -2031,7 +2645,12 @@
      "CA 4",
      "Wolf Creek Road"
     ],
-    "nodeId": 86296390
+    "nodeId": 86296390,
+    "wayIds": [
+     376729450,
+     430632404
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2039,8 +2658,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9420147,
-     38.7512639
+     -119.942015,
+     38.751264
     ]
    },
    "properties": {
@@ -2048,7 +2667,12 @@
      "Blue Lakes Road",
      "CA 88"
     ],
-    "nodeId": 86298108
+    "nodeId": 86298108,
+    "wayIds": [
+     499572979,
+     771094133
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2065,7 +2689,12 @@
      "Forest Route 7N17",
      "Slick Rock Road"
     ],
-    "nodeId": 86302334
+    "nodeId": 86302334,
+    "wayIds": [
+     618839473,
+     618839476
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2073,8 +2702,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0109819,
-     38.4691284
+     -120.010982,
+     38.469128
     ]
    },
    "properties": {
@@ -2082,7 +2711,12 @@
      "Forest Route 7N17",
      "Slick Rock Reroute"
     ],
-    "nodeId": 86302339
+    "nodeId": 86302339,
+    "wayIds": [
+     618839473,
+     618839474
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2090,8 +2724,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0074032,
-     38.4751865
+     -120.007403,
+     38.475187
     ]
    },
    "properties": {
@@ -2099,7 +2733,12 @@
      "Slick Rock Reroute",
      "Slick Rock Road"
     ],
-    "nodeId": 86300925
+    "nodeId": 86300925,
+    "wayIds": [
+     618839474,
+     618839477
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2108,7 +2747,7 @@
     "type": "Point",
     "coordinates": [
      -119.771238,
-     38.7589735
+     38.758974
     ]
    },
    "properties": {
@@ -2116,7 +2755,12 @@
      "Airport Road",
      "Scossa Canyon Road"
     ],
-    "nodeId": 3756195387
+    "nodeId": 3756195387,
+    "wayIds": [
+     813815414,
+     814318566
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2124,8 +2768,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7695871,
-     38.7728667
+     -119.769587,
+     38.772867
     ]
    },
    "properties": {
@@ -2133,7 +2777,12 @@
      "Airport Road",
      "Diamond Valley Road"
     ],
-    "nodeId": 86297101
+    "nodeId": 86297101,
+    "wayIds": [
+     814339144,
+     883340370
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2141,8 +2790,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9922939,
-     38.4283649
+     -119.992294,
+     38.428365
     ]
    },
    "properties": {
@@ -2150,7 +2799,12 @@
      "Union Reservior East Boat Launch",
      "Union Reservoir East Campground"
     ],
-    "nodeId": 13036296412
+    "nodeId": 13036296412,
+    "wayIds": [
+     1418531727,
+     1418531728
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2158,8 +2812,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0491204,
-     38.4666738
+     -120.04912,
+     38.466674
     ]
    },
    "properties": {
@@ -2167,7 +2821,12 @@
      "Bloods Ridge Road",
      "Snowshoe Road"
     ],
-    "nodeId": 86281524
+    "nodeId": 86281524,
+    "wayIds": [
+     10281741,
+     10282835
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2175,8 +2834,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0481985,
-     38.4693497
+     -120.048198,
+     38.46935
     ]
    },
    "properties": {
@@ -2184,7 +2843,12 @@
      "Bloods Ridge Road",
      "Snowshoe Road"
     ],
-    "nodeId": 86281533
+    "nodeId": 86281533,
+    "wayIds": [
+     10281741,
+     10282835
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2192,8 +2856,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8269695,
-     38.6965138
+     -119.826969,
+     38.696514
     ]
    },
    "properties": {
@@ -2201,7 +2865,12 @@
      "Hot Springs Road;E1",
      "Shay Creek Road"
     ],
-    "nodeId": 86281598
+    "nodeId": 86281598,
+    "wayIds": [
+     10281745,
+     10282562
+    ],
+    "cityName": "Markleeville"
    }
   },
   {
@@ -2209,8 +2878,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8361633,
-     38.6953722
+     -119.836163,
+     38.695372
     ]
    },
    "properties": {
@@ -2218,7 +2887,12 @@
      "Hot Springs Road;E1",
      "Shay Creek Road"
     ],
-    "nodeId": 3757581729
+    "nodeId": 3757581729,
+    "wayIds": [
+     10282189,
+     10282562
+    ],
+    "cityName": "Markleeville"
    }
   },
   {
@@ -2226,8 +2900,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0688573,
-     38.6914606
+     -120.068857,
+     38.691461
     ]
    },
    "properties": {
@@ -2235,7 +2909,13 @@
      "East Meadows Drive",
      "Larkspur Drive"
     ],
-    "nodeId": 86281721
+    "nodeId": 86281721,
+    "wayIds": [
+     10281752,
+     10282566,
+     10282776
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2244,7 +2924,7 @@
     "type": "Point",
     "coordinates": [
      -120.070586,
-     38.6967595
+     38.69676
     ]
    },
    "properties": {
@@ -2252,7 +2932,12 @@
      "East Meadows Drive",
      "Larkspur Drive"
     ],
-    "nodeId": 86300664
+    "nodeId": 86300664,
+    "wayIds": [
+     10281752,
+     10282776
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2260,8 +2945,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7990541,
-     38.6901166
+     -119.799054,
+     38.690117
     ]
    },
    "properties": {
@@ -2269,7 +2954,12 @@
      "Pleasant Valley Road",
      "Timber Lane"
     ],
-    "nodeId": 86282362
+    "nodeId": 86282362,
+    "wayIds": [
+     10281782,
+     375625672
+    ],
+    "cityName": "Markleeville"
    }
   },
   {
@@ -2286,7 +2976,12 @@
      "Pleasant Valley Road",
      "Timber Lane"
     ],
-    "nodeId": 86282385
+    "nodeId": 86282385,
+    "wayIds": [
+     10281782,
+     375625672
+    ],
+    "cityName": "Markleeville"
    }
   },
   {
@@ -2294,8 +2989,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9921652,
-     38.4280919
+     -119.992165,
+     38.428092
     ]
    },
    "properties": {
@@ -2303,7 +2998,12 @@
      "Forest Route 7N75",
      "Union Reservoir East Campground"
     ],
-    "nodeId": 13036296413
+    "nodeId": 13036296413,
+    "wayIds": [
+     10281816,
+     1418531727
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2311,8 +3011,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.9914544,
-     38.4283549
+     -119.991454,
+     38.428355
     ]
    },
    "properties": {
@@ -2320,7 +3020,12 @@
      "Forest Route 7N75",
      "Union Reservoir East Campground"
     ],
-    "nodeId": 86283121
+    "nodeId": 86283121,
+    "wayIds": [
+     10281816,
+     1418531727
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2328,8 +3033,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7507335,
-     38.7972072
+     -119.750733,
+     38.797207
     ]
    },
    "properties": {
@@ -2337,7 +3042,12 @@
      "Diamond Valley Road",
      "Mud Lake Road"
     ],
-    "nodeId": 86289033
+    "nodeId": 86289033,
+    "wayIds": [
+     10282394,
+     814339142
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2345,8 +3055,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7500273,
-     38.7960882
+     -119.750027,
+     38.796088
     ]
    },
    "properties": {
@@ -2354,7 +3064,12 @@
      "Diamond Valley Road",
      "Mud Lake Road"
     ],
-    "nodeId": 3552207993
+    "nodeId": 3552207993,
+    "wayIds": [
+     349323027,
+     814339142
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2362,8 +3077,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0451629,
-     38.4646137
+     -120.045163,
+     38.464614
     ]
    },
    "properties": {
@@ -2371,7 +3086,12 @@
      "Fremont Road",
      "Quaking Aspen Road"
     ],
-    "nodeId": 86292870
+    "nodeId": 86292870,
+    "wayIds": [
+     10282443,
+     10282847
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2379,8 +3099,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0441961,
-     38.4638431
+     -120.044196,
+     38.463843
     ]
    },
    "properties": {
@@ -2388,7 +3108,12 @@
      "Fremont Road",
      "Quaking Aspen Road"
     ],
-    "nodeId": 86292874
+    "nodeId": 86292874,
+    "wayIds": [
+     10282443,
+     10282847
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2396,8 +3121,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0471751,
-     38.4623644
+     -120.047175,
+     38.462364
     ]
    },
    "properties": {
@@ -2405,7 +3130,12 @@
      "Alpine Way",
      "Lombardi Lane"
     ],
-    "nodeId": 86297385
+    "nodeId": 86297385,
+    "wayIds": [
+     10282649,
+     10282827
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2413,8 +3143,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0505735,
-     38.4600948
+     -120.050573,
+     38.460095
     ]
    },
    "properties": {
@@ -2422,7 +3152,13 @@
      "Alpine Way",
      "Lombardi Lane"
     ],
-    "nodeId": 86297403
+    "nodeId": 86297403,
+    "wayIds": [
+     10282649,
+     10282827,
+     374492363
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2430,8 +3166,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0471594,
-     38.4754628
+     -120.047159,
+     38.475463
     ]
    },
    "properties": {
@@ -2439,7 +3175,12 @@
      "Bear Valley Road",
      "Mule Ear Road"
     ],
-    "nodeId": 86297648
+    "nodeId": 86297648,
+    "wayIds": [
+     10282667,
+     375446697
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2447,8 +3188,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0470575,
-     38.4741567
+     -120.047057,
+     38.474157
     ]
    },
    "properties": {
@@ -2456,7 +3197,12 @@
      "Bear Valley Road",
      "Mule Ear Road"
     ],
-    "nodeId": 86297658
+    "nodeId": 86297658,
+    "wayIds": [
+     10282667,
+     375446697
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2464,8 +3210,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7522636,
-     38.7971624
+     -119.752264,
+     38.797162
     ]
    },
    "properties": {
@@ -2473,7 +3219,12 @@
      "Diamond Valley Road",
      "Washoe Boulevard"
     ],
-    "nodeId": 86297760
+    "nodeId": 86297760,
+    "wayIds": [
+     10282671,
+     10282676
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2482,7 +3233,7 @@
     "type": "Point",
     "coordinates": [
      -119.751865,
-     38.7935025
+     38.793503
     ]
    },
    "properties": {
@@ -2490,7 +3241,12 @@
      "Diamond Valley Road",
      "Washoe Boulevard"
     ],
-    "nodeId": 86297734
+    "nodeId": 86297734,
+    "wayIds": [
+     10282676,
+     814339142
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2498,7 +3254,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7536515,
+     -119.753651,
      38.795965
     ]
    },
@@ -2507,7 +3263,12 @@
      "Circle Drive",
      "Washoe Boulevard"
     ],
-    "nodeId": 86297882
+    "nodeId": 86297882,
+    "wayIds": [
+     10282676,
+     10282697
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2515,8 +3276,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7525939,
-     38.7967001
+     -119.752594,
+     38.7967
     ]
    },
    "properties": {
@@ -2524,7 +3285,12 @@
      "Circle Drive",
      "Washoe Boulevard"
     ],
-    "nodeId": 86297892
+    "nodeId": 86297892,
+    "wayIds": [
+     10282676,
+     10282697
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2532,8 +3298,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0439756,
-     38.4676869
+     -120.043976,
+     38.467687
     ]
    },
    "properties": {
@@ -2541,7 +3307,12 @@
      "Bear Valley Road",
      "Orvis Road"
     ],
-    "nodeId": 86298429
+    "nodeId": 86298429,
+    "wayIds": [
+     10282713,
+     374492889
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2549,8 +3320,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0416723,
-     38.4660573
+     -120.041672,
+     38.466057
     ]
    },
    "properties": {
@@ -2558,7 +3329,12 @@
      "Bear Valley Road",
      "Orvis Road"
     ],
-    "nodeId": 86298421
+    "nodeId": 86298421,
+    "wayIds": [
+     10282713,
+     1374430937
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2566,8 +3342,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7867338,
-     38.8162367
+     -119.786734,
+     38.816237
     ]
    },
    "properties": {
@@ -2575,7 +3351,12 @@
      "Emigrant Trail",
      "Hawkins Peak Road"
     ],
-    "nodeId": 933985011
+    "nodeId": 933985011,
+    "wayIds": [
+     10282772,
+     10282789
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2584,7 +3365,7 @@
     "type": "Point",
     "coordinates": [
      -119.790163,
-     38.8133216
+     38.813322
     ]
    },
    "properties": {
@@ -2592,7 +3373,12 @@
      "Emigrant Trail",
      "Hawkins Peak Road"
     ],
-    "nodeId": 86300570
+    "nodeId": 86300570,
+    "wayIds": [
+     10282772,
+     10282789
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2600,8 +3386,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7958368,
-     38.8062598
+     -119.795837,
+     38.80626
     ]
    },
    "properties": {
@@ -2609,7 +3395,12 @@
      "Emigrant Trail",
      "Sunrise Trail"
     ],
-    "nodeId": 1914243184
+    "nodeId": 1914243184,
+    "wayIds": [
+     10282772,
+     180980687
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2617,8 +3408,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7968728,
-     38.8046645
+     -119.796873,
+     38.804665
     ]
    },
    "properties": {
@@ -2626,7 +3417,12 @@
      "Emigrant Trail",
      "Sunrise Trail"
     ],
-    "nodeId": 86300582
+    "nodeId": 86300582,
+    "wayIds": [
+     10282772,
+     180980687
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2643,7 +3439,12 @@
      "CA 88;CA 89",
      "Crystal Springs Road"
     ],
-    "nodeId": 86298943
+    "nodeId": 86298943,
+    "wayIds": [
+     10282792,
+     269107419
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2651,8 +3452,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.8380897,
-     38.7698279
+     -119.83809,
+     38.769828
     ]
    },
    "properties": {
@@ -2660,7 +3461,12 @@
      "CA 88;CA 89",
      "Crystal Springs Road"
     ],
-    "nodeId": 86298959
+    "nodeId": 86298959,
+    "wayIds": [
+     767300892,
+     832357775
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2668,8 +3474,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0448071,
-     38.4763174
+     -120.044807,
+     38.476317
     ]
    },
    "properties": {
@@ -2677,7 +3483,12 @@
      "Bear Valley Road",
      "Spring Cliff Road"
     ],
-    "nodeId": 86298490
+    "nodeId": 86298490,
+    "wayIds": [
+     10282851,
+     375446697
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2685,8 +3496,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0467061,
-     38.4759122
+     -120.046706,
+     38.475912
     ]
    },
    "properties": {
@@ -2694,7 +3505,12 @@
      "Bear Valley Road",
      "Spring Cliff Road"
     ],
-    "nodeId": 86298482
+    "nodeId": 86298482,
+    "wayIds": [
+     10282851,
+     375446697
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2702,8 +3518,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0076502,
-     38.4388528
+     -120.00765,
+     38.438853
     ]
    },
    "properties": {
@@ -2711,7 +3527,12 @@
      "Forest Route 7N17",
      "Slick Rock Trail;7N17"
     ],
-    "nodeId": 86302582
+    "nodeId": 86302582,
+    "wayIds": [
+     10282862,
+     796711813
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2728,7 +3549,12 @@
      "Forest Route 7N17",
      "Slick Rock Trail;7N17"
     ],
-    "nodeId": 86302343
+    "nodeId": 86302343,
+    "wayIds": [
+     618839473,
+     838437613
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2736,8 +3562,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7233998,
-     38.6381447
+     -119.7234,
+     38.638145
     ]
    },
    "properties": {
@@ -2745,7 +3571,12 @@
      "CA 4",
      "Centerville Bridge;CA 4"
     ],
-    "nodeId": 86296404
+    "nodeId": 86296404,
+    "wayIds": [
+     27498517,
+     376729450
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2753,8 +3584,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -119.7234319,
-     38.6385269
+     -119.723432,
+     38.638527
     ]
    },
    "properties": {
@@ -2762,7 +3593,12 @@
      "CA 4",
      "Centerville Bridge;CA 4"
     ],
-    "nodeId": 86296406
+    "nodeId": 86296406,
+    "wayIds": [
+     27498517,
+     27498518
+    ],
+    "cityName": "Unincorporated"
    }
   }
  ]

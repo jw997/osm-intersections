@@ -6,8 +6,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4332919,
-     39.6646195
+     -120.433292,
+     39.66462
     ]
    },
    "properties": {
@@ -15,7 +15,13 @@
      "CA 89",
      "Calpine Road"
     ],
-    "nodeId": 91813323
+    "nodeId": 91813323,
+    "wayIds": [
+     10492614,
+     10586331,
+     864272328
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -23,8 +29,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4345119,
-     39.6660448
+     -120.434512,
+     39.666045
     ]
    },
    "properties": {
@@ -32,7 +38,12 @@
      "CA 89",
      "Calpine Avenue"
     ],
-    "nodeId": 91813327
+    "nodeId": 91813327,
+    "wayIds": [
+     10492614,
+     10586133
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -40,7 +51,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4366757,
+     -120.436676,
      39.668545
     ]
    },
@@ -49,7 +60,12 @@
      "CA 89",
      "Main Street"
     ],
-    "nodeId": 91813335
+    "nodeId": 91813335,
+    "wayIds": [
+     10492614,
+     846597559
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -57,7 +73,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4405939,
+     -120.440594,
      39.672676
     ]
    },
@@ -66,7 +82,12 @@
      "CA 89",
      "County Road"
     ],
-    "nodeId": 91813356
+    "nodeId": 91813356,
+    "wayIds": [
+     10492614,
+     846597558
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -74,8 +95,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4523072,
-     39.6774146
+     -120.452307,
+     39.677415
     ]
    },
    "properties": {
@@ -83,7 +104,12 @@
      "CA 89",
      "Calpine Co Road"
     ],
-    "nodeId": 91813459
+    "nodeId": 91813459,
+    "wayIds": [
+     10492614,
+     10586843
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -91,7 +117,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2496331,
+     -120.249633,
      39.708051
     ]
    },
@@ -100,7 +126,12 @@
      "Beckwith Road;CR A24",
      "Sierra Valley Road;CR A24"
     ],
-    "nodeId": 91987467
+    "nodeId": 91987467,
+    "wayIds": [
+     10495764,
+     41662956
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -108,8 +139,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2218169,
-     39.7079625
+     -120.221817,
+     39.707963
     ]
    },
    "properties": {
@@ -117,7 +148,12 @@
      "CA 49",
      "Vinton Loyalton Road;CA 49"
     ],
-    "nodeId": 90244727
+    "nodeId": 90244727,
+    "wayIds": [
+     10497129,
+     10586237
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -125,8 +161,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8252227,
-     39.5670409
+     -120.825223,
+     39.567041
     ]
    },
    "properties": {
@@ -134,7 +170,12 @@
      "Gold Bluff Road",
      "Main Street"
     ],
-    "nodeId": 91784539
+    "nodeId": 91784539,
+    "wayIds": [
+     10578310,
+     32684287
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -142,8 +183,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4459476,
-     39.6635262
+     -120.445948,
+     39.663526
     ]
    },
    "properties": {
@@ -151,7 +192,12 @@
      "Cedar Lane",
      "Main Street"
     ],
-    "nodeId": 7899048593
+    "nodeId": 7899048593,
+    "wayIds": [
+     10578313,
+     846597559
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -159,8 +205,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5899527,
-     39.6159951
+     -120.589953,
+     39.615995
     ]
    },
    "properties": {
@@ -168,7 +214,12 @@
      "Edna Drive",
      "Green Road"
     ],
-    "nodeId": 91784758
+    "nodeId": 91784758,
+    "wayIds": [
+     10578315,
+     10588377
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -176,8 +227,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5866107,
-     39.6168258
+     -120.586611,
+     39.616826
     ]
    },
    "properties": {
@@ -185,7 +236,12 @@
      "Edna Drive",
      "Patrica Lane"
     ],
-    "nodeId": 91784796
+    "nodeId": 91784796,
+    "wayIds": [
+     10578315,
+     10588207
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -194,7 +250,7 @@
     "type": "Point",
     "coordinates": [
      -120.885023,
-     39.5400008
+     39.540001
     ]
    },
    "properties": {
@@ -202,7 +258,12 @@
      "Mountain House Road",
      "Old Toll Bridge Road"
     ],
-    "nodeId": 91784840
+    "nodeId": 91784840,
+    "wayIds": [
+     10578331,
+     10588164
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -219,7 +280,12 @@
      "Old Toll Bridge Road",
      "Pebble Street"
     ],
-    "nodeId": 91784854
+    "nodeId": 91784854,
+    "wayIds": [
+     10578331,
+     10587611
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -227,7 +293,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8513662,
+     -120.851366,
      39.490279
     ]
    },
@@ -237,7 +303,13 @@
      "School Street",
      "Water Street"
     ],
-    "nodeId": 91785455
+    "nodeId": 91785455,
+    "wayIds": [
+     10578333,
+     10587881,
+     10588178
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -245,8 +317,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8423857,
-     39.4732791
+     -120.842386,
+     39.473279
     ]
    },
    "properties": {
@@ -255,7 +327,13 @@
      "Mammoth Springs Road",
      "North Main Street"
     ],
-    "nodeId": 91785870
+    "nodeId": 91785870,
+    "wayIds": [
+     10578341,
+     10578874,
+     10586638
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -263,8 +341,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9238583,
-     39.4930837
+     -120.923858,
+     39.493084
     ]
    },
    "properties": {
@@ -272,7 +350,13 @@
      "Henness Pass Road",
      "Miller Ranch Road"
     ],
-    "nodeId": 91788889
+    "nodeId": 91788889,
+    "wayIds": [
+     10578435,
+     10578453,
+     1083581428
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -280,8 +364,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8196217,
-     39.5077267
+     -120.819622,
+     39.507727
     ]
    },
    "properties": {
@@ -289,7 +373,13 @@
      "Henness Pass Road",
      "Ridge Road"
     ],
-    "nodeId": 91787926
+    "nodeId": 91787926,
+    "wayIds": [
+     10578480,
+     10587493,
+     368651664
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -306,7 +396,12 @@
      "Fibreboard Road;NFH 7",
      "Henness Pass Road;NFH 07"
     ],
-    "nodeId": 91795079
+    "nodeId": 91795079,
+    "wayIds": [
+     10578519,
+     10586821
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -314,8 +409,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5304499,
-     39.5058723
+     -120.53045,
+     39.505872
     ]
    },
    "properties": {
@@ -323,7 +418,12 @@
      "Henness Pass Road;NFH 07",
      "Pass Creek Loop Road"
     ],
-    "nodeId": 91795928
+    "nodeId": 91795928,
+    "wayIds": [
+     10578519,
+     1331967891
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -332,7 +432,7 @@
     "type": "Point",
     "coordinates": [
      -120.532816,
-     39.5059635
+     39.505964
     ]
    },
    "properties": {
@@ -340,7 +440,12 @@
      "Henness Pass Road;NFH 07",
      "NFR 07-97"
     ],
-    "nodeId": 91795951
+    "nodeId": 91795951,
+    "wayIds": [
+     10578519,
+     845551741
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -348,8 +453,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5334923,
-     39.5062095
+     -120.533492,
+     39.50621
     ]
    },
    "properties": {
@@ -358,7 +463,13 @@
      "Henness Pass Road;NFH 07",
      "NFR 07-98"
     ],
-    "nodeId": 91795959
+    "nodeId": 91795959,
+    "wayIds": [
+     10578519,
+     10585211,
+     845551742
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -366,8 +477,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0067855,
-     39.5247165
+     -120.006785,
+     39.524717
     ]
    },
    "properties": {
@@ -376,7 +487,13 @@
      "Dog Valley Road",
      "Hill Lane"
     ],
-    "nodeId": 91797890
+    "nodeId": 91797890,
+    "wayIds": [
+     10578540,
+     10585828,
+     10585831
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -384,8 +501,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0105447,
-     39.5242551
+     -120.010545,
+     39.524255
     ]
    },
    "properties": {
@@ -393,7 +510,12 @@
      "Dog Valley Road",
      "Feenune Road"
     ],
-    "nodeId": 91797922
+    "nodeId": 91797922,
+    "wayIds": [
+     10578540,
+     844333713
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -401,8 +523,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0128245,
-     39.5243544
+     -120.012824,
+     39.524354
     ]
    },
    "properties": {
@@ -411,7 +533,13 @@
      "Dog Valley Road;NF 31002",
      "Sunrise Creek Road"
     ],
-    "nodeId": 91797944
+    "nodeId": 91797944,
+    "wayIds": [
+     10578540,
+     10588135,
+     844333701
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -420,7 +548,7 @@
     "type": "Point",
     "coordinates": [
      -120.285356,
-     39.4908058
+     39.490806
     ]
    },
    "properties": {
@@ -428,7 +556,13 @@
      "Henness Pass Road;CR 301",
      "Old Fibreboard Road;NFR 07-10"
     ],
-    "nodeId": 91800372
+    "nodeId": 91800372,
+    "wayIds": [
+     10578586,
+     567644228,
+     622418863
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -436,7 +570,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3457478,
+     -120.345748,
      39.488426
     ]
    },
@@ -445,7 +579,12 @@
      "Henness Pass Road",
      "Henness Pass Road;CR 301"
     ],
-    "nodeId": 4305311457
+    "nodeId": 4305311457,
+    "wayIds": [
+     10578586,
+     431320351
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -462,7 +601,13 @@
      "Kanaka Creek Road",
      "Plumbago Road"
     ],
-    "nodeId": 91801506
+    "nodeId": 91801506,
+    "wayIds": [
+     10578591,
+     10587996,
+     10588414
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -470,8 +615,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4418546,
-     39.6631257
+     -120.441855,
+     39.663126
     ]
    },
    "properties": {
@@ -479,7 +624,12 @@
      "Mount View Drive",
      "Mount View Road"
     ],
-    "nodeId": 91802267
+    "nodeId": 91802267,
+    "wayIds": [
+     10578593,
+     846597555
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -487,8 +637,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8492462,
-     39.4832474
+     -120.849246,
+     39.483247
     ]
    },
    "properties": {
@@ -497,7 +647,13 @@
      "Pliocene Ridge Road",
      "Ridge Road"
     ],
-    "nodeId": 91802514
+    "nodeId": 91802514,
+    "wayIds": [
+     10578601,
+     10578874,
+     1053215753
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -514,7 +670,12 @@
      "Pliocene Ridge Road",
      "Ridge Road"
     ],
-    "nodeId": 91785849
+    "nodeId": 91785849,
+    "wayIds": [
+     10578601,
+     10587493
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -522,8 +683,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6316751,
-     39.6538524
+     -120.631675,
+     39.653852
     ]
    },
    "properties": {
@@ -531,7 +692,12 @@
      "Gold Lake Highway;CR 620;NFH 24",
      "Salmon Lake Road;CR 720"
     ],
-    "nodeId": 91803274
+    "nodeId": 91803274,
+    "wayIds": [
+     10578609,
+     863865360
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -539,8 +705,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6319553,
-     39.6538278
+     -120.631955,
+     39.653828
     ]
    },
    "properties": {
@@ -548,7 +714,12 @@
      "Salmon Lake Road;CR 720",
      "Van Ness Avenue"
     ],
-    "nodeId": 91803305
+    "nodeId": 91803305,
+    "wayIds": [
+     10578609,
+     736852025
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -556,8 +727,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2466269,
-     39.6745799
+     -120.246627,
+     39.67458
     ]
    },
    "properties": {
@@ -565,7 +736,12 @@
      "Granite Avenue",
      "Taylor Avenue"
     ],
-    "nodeId": 91808380
+    "nodeId": 91808380,
+    "wayIds": [
+     10578690,
+     10587863
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -573,8 +749,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2498019,
-     39.6745777
+     -120.249802,
+     39.674578
     ]
    },
    "properties": {
@@ -582,7 +758,12 @@
      "Granite Avenue",
      "Hill Street"
     ],
-    "nodeId": 91808387
+    "nodeId": 91808387,
+    "wayIds": [
+     10578690,
+     347355580
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -590,8 +771,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8433706,
-     39.4716191
+     -120.843371,
+     39.471619
     ]
    },
    "properties": {
@@ -599,7 +780,12 @@
      "Main Street",
      "Plaza Court"
     ],
-    "nodeId": 91808397
+    "nodeId": 91808397,
+    "wayIds": [
+     10578691,
+     667514078
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -607,8 +793,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9894401,
-     39.5434288
+     -120.98944,
+     39.543429
     ]
    },
    "properties": {
@@ -616,7 +802,12 @@
      "Cal Ida-Scales Road;NF 35",
      "Eureka Mine Road"
     ],
-    "nodeId": 91888135
+    "nodeId": 91888135,
+    "wayIds": [
+     10578745,
+     10580778
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -633,7 +824,12 @@
      "Brandy City Road",
      "Eureka Mine Road"
     ],
-    "nodeId": 91811972
+    "nodeId": 91811972,
+    "wayIds": [
+     10578745,
+     10588345
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -641,7 +837,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3700439,
+     -120.370044,
      39.577579
     ]
    },
@@ -652,7 +848,14 @@
      "South Lincoln Street;CA 89",
      "West Willow Street"
     ],
-    "nodeId": 91812984
+    "nodeId": 91812984,
+    "wayIds": [
+     10578767,
+     10588070,
+     127109953,
+     942939320
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -660,8 +863,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4353494,
-     39.6241145
+     -120.435349,
+     39.624115
     ]
    },
    "properties": {
@@ -670,7 +873,13 @@
      "CA 49;CA 89",
      "CA 89"
     ],
-    "nodeId": 91813045
+    "nodeId": 91813045,
+    "wayIds": [
+     10578779,
+     184877590,
+     1447625072
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -678,8 +887,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2143805,
-     39.4463612
+     -120.21438,
+     39.446361
     ]
    },
    "properties": {
@@ -687,7 +896,12 @@
      "CA 89",
      "Holcombs Road;CR 878"
     ],
-    "nodeId": 91813998
+    "nodeId": 91813998,
+    "wayIds": [
+     10578798,
+     622418893
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -695,7 +909,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3814342,
+     -120.381434,
      39.592692
     ]
    },
@@ -705,7 +919,13 @@
      "West Main Street;CA 49;CA 89",
      "Wilson Lane"
     ],
-    "nodeId": 91815654
+    "nodeId": 91815654,
+    "wayIds": [
+     10578803,
+     127109954,
+     741282870
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -724,7 +944,14 @@
      "Haskell Peak Road;NF 09",
      "Mohawk-Chapman Road;FR 22N98"
     ],
-    "nodeId": 91817102
+    "nodeId": 91817102,
+    "wayIds": [
+     10578852,
+     10578861,
+     10584814,
+     736852028
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -741,7 +968,12 @@
      "Gold Lake Highway;CR 620;NFH 24",
      "Haskell Peak Road;NF 09"
     ],
-    "nodeId": 92173813
+    "nodeId": 92173813,
+    "wayIds": [
+     10578852,
+     863865360
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -749,8 +981,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5062776,
-     39.6171385
+     -120.506278,
+     39.617139
     ]
    },
    "properties": {
@@ -758,7 +990,12 @@
      "CA 49",
      "Haskell Peak Road;FH 09"
     ],
-    "nodeId": 91819625
+    "nodeId": 91819625,
+    "wayIds": [
+     10578861,
+     863865361
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -775,7 +1012,12 @@
      "CA 49",
      "Loganville Lane"
     ],
-    "nodeId": 91820007
+    "nodeId": 91820007,
+    "wayIds": [
+     10578869,
+     528648585
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -792,7 +1034,12 @@
      "Church Creek Road;NFH 28",
      "Howard Creek Road;CR 823"
     ],
-    "nodeId": 92153837
+    "nodeId": 92153837,
+    "wayIds": [
+     10583761,
+     736851855
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -809,7 +1056,12 @@
      "Fibreboard Road;NFH 7",
      "Lake of the Woods Road;NFR 07-40"
     ],
-    "nodeId": 91975606
+    "nodeId": 91975606,
+    "wayIds": [
+     10583768,
+     10586821
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -817,8 +1069,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4105148,
-     39.5078215
+     -120.410515,
+     39.507822
     ]
    },
    "properties": {
@@ -826,7 +1078,12 @@
      "Lake of the Woods Road;NFR 07-40",
      "South Bonta Road;NFR 12-99"
     ],
-    "nodeId": 91924775
+    "nodeId": 91924775,
+    "wayIds": [
+     10583768,
+     866134447
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -843,7 +1100,12 @@
      "Gibson Creek",
      "Quincy la Porte Road"
     ],
-    "nodeId": 92076620
+    "nodeId": 92076620,
+    "wayIds": [
+     10585145,
+     10588158
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -851,8 +1113,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9101361,
-     39.7424198
+     -120.910136,
+     39.74242
     ]
    },
    "properties": {
@@ -860,7 +1122,12 @@
      "Johnsville-McRae Road;CR 900",
      "Quincy la Porte Road"
     ],
-    "nodeId": 92042699
+    "nodeId": 92042699,
+    "wayIds": [
+     10585145,
+     315681829
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -868,8 +1135,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5330544,
-     39.5057288
+     -120.533054,
+     39.505729
     ]
    },
    "properties": {
@@ -877,7 +1144,12 @@
      "NFR 07-97",
      "NFR 07-98"
     ],
-    "nodeId": 7888719424
+    "nodeId": 7888719424,
+    "wayIds": [
+     10585211,
+     845551741
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -885,8 +1157,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4287371,
-     39.4907679
+     -120.428737,
+     39.490768
     ]
    },
    "properties": {
@@ -894,7 +1166,12 @@
      "Henness Pass Road",
      "Meadow Lake Road;NFH 86"
     ],
-    "nodeId": 91797720
+    "nodeId": 91797720,
+    "wayIds": [
+     10585522,
+     10586888
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -902,8 +1179,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4338133,
-     39.4989689
+     -120.433813,
+     39.498969
     ]
    },
    "properties": {
@@ -911,7 +1188,12 @@
      "Fibreboard Road;NFH 7",
      "Henness Pass Road"
     ],
-    "nodeId": 91797847
+    "nodeId": 91797847,
+    "wayIds": [
+     10585522,
+     10586821
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -919,8 +1201,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0067737,
-     39.5271635
+     -120.006774,
+     39.527164
     ]
    },
    "properties": {
@@ -928,7 +1210,12 @@
      "Deer Water Drive",
      "Pine Cone Drive"
     ],
-    "nodeId": 7876079567
+    "nodeId": 7876079567,
+    "wayIds": [
+     10585828,
+     10586838
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -946,7 +1233,13 @@
      "East Main Street;CA 49",
      "Lemon Canyon Road;CR 650"
     ],
-    "nodeId": 92073317
+    "nodeId": 92073317,
+    "wayIds": [
+     10585829,
+     10586204,
+     10586205
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -963,7 +1256,12 @@
      "Alleghany Street",
      "East Main Street;CA 49"
     ],
-    "nodeId": 92073358
+    "nodeId": 92073358,
+    "wayIds": [
+     10585830,
+     10585851
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -980,7 +1278,12 @@
      "Allegany Street",
      "East Main Street;CA 49"
     ],
-    "nodeId": 92073361
+    "nodeId": 92073361,
+    "wayIds": [
+     10585830,
+     10587212
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -997,7 +1300,12 @@
      "Alexander Lane",
      "East Main Street;CA 49"
     ],
-    "nodeId": 92073364
+    "nodeId": 92073364,
+    "wayIds": [
+     10585830,
+     10587859
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1005,8 +1313,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0078959,
-     39.4219175
+     -121.007896,
+     39.421918
     ]
    },
    "properties": {
@@ -1014,7 +1322,12 @@
      "Pike Short Cut",
      "Ridge Road"
     ],
-    "nodeId": 92157742
+    "nodeId": 92157742,
+    "wayIds": [
+     10585833,
+     10587482
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1023,7 +1336,7 @@
     "type": "Point",
     "coordinates": [
      -121.013432,
-     39.4242919
+     39.424292
     ]
    },
    "properties": {
@@ -1031,7 +1344,12 @@
      "Pike City Road",
      "Pike Short Cut"
     ],
-    "nodeId": 9133743632
+    "nodeId": 9133743632,
+    "wayIds": [
+     10585833,
+     10586024
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1039,8 +1357,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2466051,
-     39.6757593
+     -120.246605,
+     39.675759
     ]
    },
    "properties": {
@@ -1048,7 +1366,12 @@
      "Main Street;CA 49",
      "Willow Street"
     ],
-    "nodeId": 92073585
+    "nodeId": 92073585,
+    "wayIds": [
+     10585841,
+     10586365
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1057,7 +1380,7 @@
     "type": "Point",
     "coordinates": [
      -120.247979,
-     39.6757308
+     39.675731
     ]
    },
    "properties": {
@@ -1066,7 +1389,13 @@
      "Main Street;CA 49",
      "Willow Street"
     ],
-    "nodeId": 92073627
+    "nodeId": 92073627,
+    "wayIds": [
+     10585842,
+     10586365,
+     1008246809
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1074,8 +1403,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4356641,
-     39.6625145
+     -120.435664,
+     39.662515
     ]
    },
    "properties": {
@@ -1083,7 +1412,12 @@
      "Meadow Ranch Court",
      "Meadow Ranch Road"
     ],
-    "nodeId": 92073856
+    "nodeId": 92073856,
+    "wayIds": [
+     10585844,
+     10585890
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1100,7 +1434,12 @@
      "Alleghany Street",
      "Mill Street"
     ],
-    "nodeId": 92074099
+    "nodeId": 92074099,
+    "wayIds": [
+     10585851,
+     10587894
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1118,7 +1457,13 @@
      "East Lewis Street",
      "Lewis Street"
     ],
-    "nodeId": 92074103
+    "nodeId": 92074103,
+    "wayIds": [
+     10585851,
+     10586927,
+     10587078
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1126,8 +1471,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3670589,
-     39.5895759
+     -120.367059,
+     39.589576
     ]
    },
    "properties": {
@@ -1136,7 +1481,13 @@
      "South Lincoln Street;CA 89",
      "West Main Street;CA 49;CA 89"
     ],
-    "nodeId": 92073349
+    "nodeId": 92073349,
+    "wayIds": [
+     10585852,
+     10585907,
+     942937018
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1144,8 +1495,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2460677,
-     39.6758135
+     -120.246068,
+     39.675814
     ]
    },
    "properties": {
@@ -1153,7 +1504,12 @@
      "Main Street;CA 49",
      "West Main Street;CA 49"
     ],
-    "nodeId": 92066880
+    "nodeId": 92066880,
+    "wayIds": [
+     10585853,
+     449485230
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1170,7 +1526,12 @@
      "4th Street",
      "West Main Street;CA 49"
     ],
-    "nodeId": 92074156
+    "nodeId": 92074156,
+    "wayIds": [
+     10585853,
+     10586740
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1188,7 +1549,13 @@
      "Main Street;CA 49",
      "West Main Street;CA 49"
     ],
-    "nodeId": 92074157
+    "nodeId": 92074157,
+    "wayIds": [
+     10585853,
+     10586361,
+     10586790
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1205,7 +1572,12 @@
      "Patterson Avenue",
      "Patterson Gr"
     ],
-    "nodeId": 92076172
+    "nodeId": 92076172,
+    "wayIds": [
+     10585889,
+     10585892
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1213,8 +1585,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4337344,
-     39.6631777
+     -120.433734,
+     39.663178
     ]
    },
    "properties": {
@@ -1222,7 +1594,12 @@
      "Meadow Ranch Road",
      "Wanda Way"
     ],
-    "nodeId": 7898971082
+    "nodeId": 7898971082,
+    "wayIds": [
+     10585890,
+     10586802
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1230,8 +1607,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4327436,
-     39.6632706
+     -120.432744,
+     39.663271
     ]
    },
    "properties": {
@@ -1239,7 +1616,12 @@
      "CA 89",
      "Meadow Ranch Road"
     ],
-    "nodeId": 91813311
+    "nodeId": 91813311,
+    "wayIds": [
+     10585890,
+     864272328
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1247,8 +1629,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2498056,
-     39.6736769
+     -120.249806,
+     39.673677
     ]
    },
    "properties": {
@@ -1256,7 +1638,12 @@
      "Hill Street",
      "Patterson Avenue"
     ],
-    "nodeId": 92076368
+    "nodeId": 92076368,
+    "wayIds": [
+     10585892,
+     347355580
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1264,8 +1651,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2466313,
-     39.6736751
+     -120.246631,
+     39.673675
     ]
    },
    "properties": {
@@ -1273,7 +1660,12 @@
      "Patterson Avenue",
      "Taylor Avenue"
     ],
-    "nodeId": 92076369
+    "nodeId": 92076369,
+    "wayIds": [
+     10585892,
+     10587863
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1281,8 +1673,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6337217,
-     39.5672225
+     -120.633722,
+     39.567223
     ]
    },
    "properties": {
@@ -1290,7 +1682,12 @@
      "Hansen Lane",
      "Sacred Mound Road"
     ],
-    "nodeId": 8088983127
+    "nodeId": 8088983127,
+    "wayIds": [
+     10585902,
+     10586466
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1298,8 +1695,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4489283,
-     39.6630151
+     -120.448928,
+     39.663015
     ]
    },
    "properties": {
@@ -1307,7 +1704,12 @@
      "Aspen Court",
      "Main Street"
     ],
-    "nodeId": 7899048596
+    "nodeId": 7899048596,
+    "wayIds": [
+     10585905,
+     846597559
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1324,7 +1726,12 @@
      "CA 49",
      "Ramshorn Road"
     ],
-    "nodeId": 92077634
+    "nodeId": 92077634,
+    "wayIds": [
+     10585906,
+     32684299
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1332,8 +1739,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3680198,
-     39.5866571
+     -120.36802,
+     39.586657
     ]
    },
    "properties": {
@@ -1341,7 +1748,12 @@
      "Jean Lane",
      "South Lincoln Street;CA 89"
     ],
-    "nodeId": 92077898
+    "nodeId": 92077898,
+    "wayIds": [
+     10585907,
+     10586385
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1349,8 +1761,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8249239,
-     39.5630616
+     -120.824924,
+     39.563062
     ]
    },
    "properties": {
@@ -1358,7 +1770,13 @@
      "East River Street",
      "Pearl Street"
     ],
-    "nodeId": 92077902
+    "nodeId": 92077902,
+    "wayIds": [
+     10585908,
+     10585958,
+     10586926
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1366,8 +1784,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8243509,
-     39.5642296
+     -120.824351,
+     39.56423
     ]
    },
    "properties": {
@@ -1376,7 +1794,13 @@
      "East River Street",
      "Johnson Way"
     ],
-    "nodeId": 92077556
+    "nodeId": 92077556,
+    "wayIds": [
+     10585908,
+     10585909,
+     736313513
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1384,8 +1808,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6203506,
-     39.5738643
+     -120.620351,
+     39.573864
     ]
    },
    "properties": {
@@ -1393,7 +1817,12 @@
      "CA 49",
      "Nevada Drive"
     ],
-    "nodeId": 92077927
+    "nodeId": 92077927,
+    "wayIds": [
+     10585910,
+     10586228
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1401,8 +1830,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6197559,
-     39.5735719
+     -120.619756,
+     39.573572
     ]
    },
    "properties": {
@@ -1410,7 +1839,12 @@
      "Lewis Lane",
      "Nevada Drive"
     ],
-    "nodeId": 92077931
+    "nodeId": 92077931,
+    "wayIds": [
+     10585910,
+     10587336
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1418,8 +1852,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6185209,
-     39.5725886
+     -120.618521,
+     39.572589
     ]
    },
    "properties": {
@@ -1427,7 +1861,12 @@
      "Nevada Drive",
      "Rainbow Circle"
     ],
-    "nodeId": 92077948
+    "nodeId": 92077948,
+    "wayIds": [
+     10585910,
+     10586407
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1435,8 +1874,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6176734,
-     39.5714976
+     -120.617673,
+     39.571498
     ]
    },
    "properties": {
@@ -1444,7 +1883,12 @@
      "Nevada Drive",
      "Tamarack Bend"
     ],
-    "nodeId": 92077968
+    "nodeId": 92077968,
+    "wayIds": [
+     10585910,
+     10588010
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1452,8 +1896,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4348969,
-     39.6234579
+     -120.434897,
+     39.623458
     ]
    },
    "properties": {
@@ -1461,7 +1905,12 @@
      "CA 49;CA 89",
      "Meadow Lane"
     ],
-    "nodeId": 91815971
+    "nodeId": 91815971,
+    "wayIds": [
+     10585913,
+     184877590
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1478,7 +1927,12 @@
      "Smithneck Road;CR 860",
      "West Sierra Brooks Drive"
     ],
-    "nodeId": 92078046
+    "nodeId": 92078046,
+    "wayIds": [
+     10585914,
+     405595257
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1486,8 +1940,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2111605,
-     39.6403263
+     -120.21116,
+     39.640326
     ]
    },
    "properties": {
@@ -1495,7 +1949,12 @@
      "West Sierra Brooks Drive",
      "Wrangler Drive"
     ],
-    "nodeId": 92078047
+    "nodeId": 92078047,
+    "wayIds": [
+     10585914,
+     10586813
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1504,7 +1963,7 @@
     "type": "Point",
     "coordinates": [
      -120.216364,
-     39.6383396
+     39.63834
     ]
    },
    "properties": {
@@ -1513,7 +1972,13 @@
      "Roundup Drive",
      "West Sierra Brooks Drive"
     ],
-    "nodeId": 92078086
+    "nodeId": 92078086,
+    "wayIds": [
+     10585914,
+     10586136,
+     10587967
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1530,7 +1995,12 @@
      "Antelope Valley Road",
      "West Sierra Brooks Drive"
     ],
-    "nodeId": 92078161
+    "nodeId": 92078161,
+    "wayIds": [
+     10585914,
+     347355567
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1538,8 +2008,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6152594,
-     39.5717581
+     -120.615259,
+     39.571758
     ]
    },
    "properties": {
@@ -1548,7 +2018,13 @@
      "Ostrom Way",
      "Wild Plum Ridge Road"
     ],
-    "nodeId": 92110851
+    "nodeId": 92110851,
+    "wayIds": [
+     10585918,
+     10586399,
+     867808535
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1557,7 +2033,7 @@
     "type": "Point",
     "coordinates": [
      -120.615632,
-     39.5743023
+     39.574302
     ]
    },
    "properties": {
@@ -1565,7 +2041,12 @@
      "Forty-Niner Drive",
      "Valhalla Road"
     ],
-    "nodeId": 92078738
+    "nodeId": 92078738,
+    "wayIds": [
+     10585918,
+     10586368
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1573,8 +2054,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6158924,
-     39.5745079
+     -120.615892,
+     39.574508
     ]
    },
    "properties": {
@@ -1582,7 +2063,12 @@
      "Forty-Niner Drive",
      "Squirrel-Hollow"
     ],
-    "nodeId": 92078743
+    "nodeId": 92078743,
+    "wayIds": [
+     10585918,
+     10588379
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1590,8 +2076,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6162343,
-     39.5747853
+     -120.616234,
+     39.574785
     ]
    },
    "properties": {
@@ -1599,7 +2085,12 @@
      "Forty-Niner Drive",
      "Mya Way"
     ],
-    "nodeId": 92078744
+    "nodeId": 92078744,
+    "wayIds": [
+     10585918,
+     10587213
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1607,8 +2098,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6164691,
-     39.5750061
+     -120.616469,
+     39.575006
     ]
    },
    "properties": {
@@ -1616,7 +2107,12 @@
      "Forty-Niner Drive",
      "Lewis Lane"
     ],
-    "nodeId": 92078746
+    "nodeId": 92078746,
+    "wayIds": [
+     10585918,
+     10587336
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1633,7 +2129,12 @@
      "Cal Ida-Scales Road;NF 35",
      "Magnolia Road;FR 25-15"
     ],
-    "nodeId": 91807338
+    "nodeId": 91807338,
+    "wayIds": [
+     10585943,
+     1329981483
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1642,7 +2143,7 @@
     "type": "Point",
     "coordinates": [
      -120.673218,
-     39.6165927
+     39.616593
     ]
    },
    "properties": {
@@ -1650,7 +2151,12 @@
      "Gold Valley Road;NF 93",
      "Pauley Creek Road;FR 93-03"
     ],
-    "nodeId": 92075753
+    "nodeId": 92075753,
+    "wayIds": [
+     10585969,
+     10587372
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1658,8 +2164,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3663497,
-     39.5894346
+     -120.36635,
+     39.589435
     ]
    },
    "properties": {
@@ -1667,7 +2173,12 @@
      "East Main Street;CA 49",
      "Firehouse Lane"
     ],
-    "nodeId": 92073346
+    "nodeId": 92073346,
+    "wayIds": [
+     10586002,
+     942937018
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1675,8 +2186,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4440862,
-     39.6635221
+     -120.444086,
+     39.663522
     ]
    },
    "properties": {
@@ -1684,7 +2195,12 @@
      "Main Street",
      "Sierra Drive"
     ],
-    "nodeId": 92085754
+    "nodeId": 92085754,
+    "wayIds": [
+     10586003,
+     846597559
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1701,7 +2217,12 @@
      "1st Street",
      "Pine Street"
     ],
-    "nodeId": 92085816
+    "nodeId": 92085816,
+    "wayIds": [
+     10586007,
+     10586029
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1718,7 +2239,12 @@
      "North East Railroad Avenue",
      "Pine Street"
     ],
-    "nodeId": 92085825
+    "nodeId": 92085825,
+    "wayIds": [
+     10586007,
+     10587858
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1726,8 +2252,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0184799,
-     39.4181712
+     -121.01848,
+     39.418171
     ]
    },
    "properties": {
@@ -1735,7 +2261,12 @@
      "Pike City Road",
      "Ridge Road"
     ],
-    "nodeId": 92086846
+    "nodeId": 92086846,
+    "wayIds": [
+     10586024,
+     10587482
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1752,7 +2283,12 @@
      "1st Street",
      "Mill Street"
     ],
-    "nodeId": 92086976
+    "nodeId": 92086976,
+    "wayIds": [
+     10586028,
+     10587894
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1770,7 +2306,13 @@
      "East Lewis Street",
      "Lewis Street"
     ],
-    "nodeId": 92086978
+    "nodeId": 92086978,
+    "wayIds": [
+     10586028,
+     10586928,
+     10587079
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1787,7 +2329,12 @@
      "1st Street",
      "Lewis Lane"
     ],
-    "nodeId": 92086980
+    "nodeId": 92086980,
+    "wayIds": [
+     10586028,
+     10587335
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1804,7 +2351,13 @@
      "1st Street",
      "Main Street;CA 49"
     ],
-    "nodeId": 92086981
+    "nodeId": 92086981,
+    "wayIds": [
+     10586028,
+     10586361,
+     1290083118
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1821,7 +2374,12 @@
      "1st Street",
      "School Street"
     ],
-    "nodeId": 92086983
+    "nodeId": 92086983,
+    "wayIds": [
+     10586028,
+     10587883
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1838,7 +2396,12 @@
      "1st Street",
      "Church Street"
     ],
-    "nodeId": 92086986
+    "nodeId": 92086986,
+    "wayIds": [
+     10586029,
+     10586743
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1856,7 +2419,13 @@
      "Meeker Street",
      "North 4th Street"
     ],
-    "nodeId": 92086987
+    "nodeId": 92086987,
+    "wayIds": [
+     10586029,
+     10586135,
+     10586761
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1873,7 +2442,12 @@
      "1st Street",
      "North 5th Street"
     ],
-    "nodeId": 92086989
+    "nodeId": 92086989,
+    "wayIds": [
+     10586029,
+     10587977
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1890,7 +2464,12 @@
      "1st Street",
      "Cedar Street"
     ],
-    "nodeId": 92086990
+    "nodeId": 92086990,
+    "wayIds": [
+     10586029,
+     10588071
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1907,7 +2486,12 @@
      "1st Street",
      "Court Lane"
     ],
-    "nodeId": 92086992
+    "nodeId": 92086992,
+    "wayIds": [
+     10586029,
+     10586694
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -1924,7 +2508,12 @@
      "CA 49",
      "Fornier Ranch Road"
     ],
-    "nodeId": 92086994
+    "nodeId": 92086994,
+    "wayIds": [
+     10586031,
+     528648585
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1932,8 +2521,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9230366,
-     39.4350164
+     -120.923037,
+     39.435016
     ]
    },
    "properties": {
@@ -1941,7 +2530,12 @@
      "Magnus Orchard Road",
      "Tyler Foote Crossing Road"
     ],
-    "nodeId": 92070594
+    "nodeId": 92070594,
+    "wayIds": [
+     10586057,
+     10586519
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1959,7 +2553,13 @@
      "Miners Street",
      "Tyler Foote Crossing Road"
     ],
-    "nodeId": 92089331
+    "nodeId": 92089331,
+    "wayIds": [
+     10586057,
+     10586406,
+     10587872
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1967,8 +2567,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8484781,
-     39.4647477
+     -120.848478,
+     39.464748
     ]
    },
    "properties": {
@@ -1976,7 +2576,12 @@
      "Main Street",
      "Tyler Foote Crossing Road"
     ],
-    "nodeId": 92089341
+    "nodeId": 92089341,
+    "wayIds": [
+     10586057,
+     667514078
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -1993,7 +2598,12 @@
      "19N92",
      "Tippie Canoe Road"
     ],
-    "nodeId": 92089373
+    "nodeId": 92089373,
+    "wayIds": [
+     10586067,
+     10587861
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2002,7 +2612,7 @@
     "type": "Point",
     "coordinates": [
      -120.63032,
-     39.5658593
+     39.565859
     ]
    },
    "properties": {
@@ -2011,7 +2621,13 @@
      "Church",
      "Lake Street"
     ],
-    "nodeId": 92091647
+    "nodeId": 92091647,
+    "wayIds": [
+     10586079,
+     10587960,
+     10588188
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2019,8 +2635,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6308531,
-     39.5669183
+     -120.630853,
+     39.566918
     ]
    },
    "properties": {
@@ -2028,7 +2644,12 @@
      "Church",
      "Main Street;CA 49"
     ],
-    "nodeId": 92091656
+    "nodeId": 92091656,
+    "wayIds": [
+     10586079,
+     127122205
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2036,8 +2657,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9170911,
-     39.5620753
+     -120.917091,
+     39.562075
     ]
    },
    "properties": {
@@ -2045,7 +2666,12 @@
      "Fiddle-Eureka Road;NF 27",
      "Forest Route 27;NF 27"
     ],
-    "nodeId": 92111656
+    "nodeId": 92111656,
+    "wayIds": [
+     10586119,
+     10586435
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2053,8 +2679,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4421839,
-     39.6634734
+     -120.442184,
+     39.663473
     ]
    },
    "properties": {
@@ -2062,7 +2688,12 @@
      "Calpine Avenue",
      "Mount View Road"
     ],
-    "nodeId": 92094698
+    "nodeId": 92094698,
+    "wayIds": [
+     10586133,
+     846597555
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2070,8 +2701,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4398043,
-     39.6644419
+     -120.439804,
+     39.664442
     ]
    },
    "properties": {
@@ -2079,7 +2710,12 @@
      "Calpine Avenue",
      "Farrar Avenue"
     ],
-    "nodeId": 7898971084
+    "nodeId": 7898971084,
+    "wayIds": [
+     10586133,
+     10588013
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2087,8 +2723,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4362139,
-     39.6655579
+     -120.436214,
+     39.665558
     ]
    },
    "properties": {
@@ -2096,7 +2732,12 @@
      "Calpine Avenue",
      "County Road"
     ],
-    "nodeId": 8639040431
+    "nodeId": 8639040431,
+    "wayIds": [
+     10586133,
+     846597557
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2113,7 +2754,12 @@
      "Pinto Trail",
      "Wrangler Drive"
     ],
-    "nodeId": 92094771
+    "nodeId": 92094771,
+    "wayIds": [
+     10586137,
+     10586813
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2130,7 +2776,13 @@
      "East Lewis Street",
      "Front Street"
     ],
-    "nodeId": 92094779
+    "nodeId": 92094779,
+    "wayIds": [
+     10586138,
+     10586140,
+     10587079
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -2147,7 +2799,12 @@
      "Front Street",
      "Lewis Lane"
     ],
-    "nodeId": 92094792
+    "nodeId": 92094792,
+    "wayIds": [
+     10586138,
+     10587335
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -2165,7 +2822,14 @@
      "Main Street;CA 49",
      "Railroad Avenue"
     ],
-    "nodeId": 92094793
+    "nodeId": 92094793,
+    "wayIds": [
+     10586138,
+     10588153,
+     1290083117,
+     1290083118
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -2173,7 +2837,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8296973,
+     -120.829697,
      39.558707
     ]
    },
@@ -2182,7 +2846,12 @@
      "Galloway Street",
      "Nevada Street"
     ],
-    "nodeId": 92094798
+    "nodeId": 92094798,
+    "wayIds": [
+     10586139,
+     10586760
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2199,7 +2868,12 @@
      "Front Street",
      "Mill Street"
     ],
-    "nodeId": 92094806
+    "nodeId": 92094806,
+    "wayIds": [
+     10586140,
+     10587894
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -2207,7 +2881,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4323496,
+     -120.43235,
      39.520995
     ]
    },
@@ -2217,7 +2891,13 @@
      "Yuba Pass Road",
      "Yuba Pass-Webber Lake Road;NF 12"
     ],
-    "nodeId": 91899808
+    "nodeId": 91899808,
+    "wayIds": [
+     10586181,
+     10587373,
+     10587587
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2234,7 +2914,12 @@
      "Forest Route 54",
      "Yuba Pass Road"
     ],
-    "nodeId": 92096271
+    "nodeId": 92096271,
+    "wayIds": [
+     10586181,
+     10586505
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2242,8 +2927,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6155303,
-     39.6219655
+     -120.61553,
+     39.621966
     ]
    },
    "properties": {
@@ -2252,7 +2937,13 @@
      "Sardine Lake Rd;Packer Lake Rd",
      "Sardine Lake Road"
     ],
-    "nodeId": 5265300525
+    "nodeId": 5265300525,
+    "wayIds": [
+     10586182,
+     620506907,
+     863865362
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2260,7 +2951,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2151239,
+     -120.215124,
      39.541885
     ]
    },
@@ -2269,7 +2960,12 @@
      "Lemmon Canyon Road;CR 650",
      "Lemon Canyon Road;CR 650"
     ],
-    "nodeId": 92026450
+    "nodeId": 92026450,
+    "wayIds": [
+     10586204,
+     1409384771
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2277,8 +2973,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2374366,
-     39.5570584
+     -120.237437,
+     39.557058
     ]
    },
    "properties": {
@@ -2287,7 +2983,13 @@
      "Lemon Canyon Road;CR 650",
      "Windmill Road"
     ],
-    "nodeId": 92098331
+    "nodeId": 92098331,
+    "wayIds": [
+     10586204,
+     10586570,
+     10588092
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2304,7 +3006,12 @@
      "Campbell Hot Springs Road",
      "Lemon Canyon Road;CR 650"
     ],
-    "nodeId": 92099072
+    "nodeId": 92099072,
+    "wayIds": [
+     10586204,
+     347355569
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2321,7 +3028,12 @@
      "Bell Road",
      "CA 49"
     ],
-    "nodeId": 92099181
+    "nodeId": 92099181,
+    "wayIds": [
+     10586205,
+     10586972
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2329,8 +3041,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2766841,
-     39.6752405
+     -120.276684,
+     39.675241
     ]
    },
    "properties": {
@@ -2338,7 +3050,12 @@
      "CA 49",
      "Edelweiss Drive"
     ],
-    "nodeId": 92099186
+    "nodeId": 92099186,
+    "wayIds": [
+     10586205,
+     1008246764
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2346,8 +3063,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2785284,
-     39.6755423
+     -120.278528,
+     39.675542
     ]
    },
    "properties": {
@@ -2355,7 +3072,12 @@
      "CA 49",
      "Sage Drive"
     ],
-    "nodeId": 92099195
+    "nodeId": 92099195,
+    "wayIds": [
+     10586205,
+     10587790
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2363,8 +3085,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2822944,
-     39.6788295
+     -120.282294,
+     39.67883
     ]
    },
    "properties": {
@@ -2372,7 +3094,12 @@
      "CA 49",
      "Genasci Road"
     ],
-    "nodeId": 92099235
+    "nodeId": 92099235,
+    "wayIds": [
+     10586205,
+     10588281
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2389,7 +3116,12 @@
      "CA 49",
      "Heriot Lane"
     ],
-    "nodeId": 92099298
+    "nodeId": 92099298,
+    "wayIds": [
+     10586205,
+     10588206
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2397,8 +3129,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6156376,
-     39.5756078
+     -120.615638,
+     39.575608
     ]
    },
    "properties": {
@@ -2406,7 +3138,12 @@
      "CA 49",
      "Lewis Lane"
     ],
-    "nodeId": 92099784
+    "nodeId": 92099784,
+    "wayIds": [
+     10586228,
+     10587336
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2414,8 +3151,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6080933,
-     39.6032447
+     -120.608093,
+     39.603245
     ]
    },
    "properties": {
@@ -2423,7 +3160,12 @@
      "CA 49",
      "Salmon Creek Road"
     ],
-    "nodeId": 92099927
+    "nodeId": 92099927,
+    "wayIds": [
+     10586228,
+     1446824909
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2431,8 +3173,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2315546,
-     39.6751911
+     -120.231555,
+     39.675191
     ]
    },
    "properties": {
@@ -2440,7 +3182,12 @@
      "CA 49",
      "Smithneck Road;CR 860"
     ],
-    "nodeId": 92103591
+    "nodeId": 92103591,
+    "wayIds": [
+     10586237,
+     405595257
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2448,8 +3195,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2225304,
-     39.6758209
+     -120.22253,
+     39.675821
     ]
    },
    "properties": {
@@ -2457,7 +3204,12 @@
      "CA 49",
      "Garbage Pit Road"
     ],
-    "nodeId": 92103622
+    "nodeId": 92103622,
+    "wayIds": [
+     10586237,
+     10586836
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2465,8 +3217,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.7454172,
-     39.5677043
+     -120.745417,
+     39.567704
     ]
    },
    "properties": {
@@ -2474,7 +3226,12 @@
      "CA 49",
      "Gold Valley Road;FH 93"
     ],
-    "nodeId": 92076161
+    "nodeId": 92076161,
+    "wayIds": [
+     10586246,
+     490365381
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2491,7 +3248,12 @@
      "Belle Street",
      "CA 49"
     ],
-    "nodeId": 92105208
+    "nodeId": 92105208,
+    "wayIds": [
+     10586247,
+     10586379
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2509,7 +3271,13 @@
      "CA 49",
      "Commercial Street;CA 49"
     ],
-    "nodeId": 92105233
+    "nodeId": 92105233,
+    "wayIds": [
+     10586247,
+     10586379,
+     10587215
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2526,7 +3294,12 @@
      "Pine Road",
      "Poplar Way"
     ],
-    "nodeId": 92105245
+    "nodeId": 92105245,
+    "wayIds": [
+     10586249,
+     10586639
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2543,7 +3316,12 @@
      "Coca Cola Avenue",
      "Goodyear Creek Road"
     ],
-    "nodeId": 92105253
+    "nodeId": 92105253,
+    "wayIds": [
+     10586250,
+     10587247
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2561,7 +3339,13 @@
      "Coates Avenue",
      "Mount View Road"
     ],
-    "nodeId": 92105405
+    "nodeId": 92105405,
+    "wayIds": [
+     10586263,
+     10587198,
+     846597555
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2569,8 +3353,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0126152,
-     39.4173973
+     -121.012615,
+     39.417397
     ]
    },
    "properties": {
@@ -2578,7 +3362,12 @@
      "Our House Dam Road",
      "Ridge Road"
     ],
-    "nodeId": 92106398
+    "nodeId": 92106398,
+    "wayIds": [
+     10586277,
+     10587482
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2586,7 +3375,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8340919,
+     -120.834092,
      39.557878
     ]
    },
@@ -2595,7 +3384,12 @@
      "Main Street;CA 49",
      "Saddleback Road;CR 509"
     ],
-    "nodeId": 92109326
+    "nodeId": 92109326,
+    "wayIds": [
+     10586359,
+     10587782
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2603,8 +3397,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2428156,
-     39.6758891
+     -120.242816,
+     39.675889
     ]
    },
    "properties": {
@@ -2613,7 +3407,13 @@
      "2nd Street;A24",
      "Main Street;CA 49"
     ],
-    "nodeId": 92109512
+    "nodeId": 92109512,
+    "wayIds": [
+     10586361,
+     10586637,
+     41662959
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -2621,8 +3421,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2498232,
-     39.6755474
+     -120.249823,
+     39.675547
     ]
    },
    "properties": {
@@ -2630,7 +3430,12 @@
      "Hill Street",
      "Main Street;CA 49"
     ],
-    "nodeId": 92109541
+    "nodeId": 92109541,
+    "wayIds": [
+     10586365,
+     347355580
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -2638,8 +3443,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2466329,
-     39.6757561
+     -120.246633,
+     39.675756
     ]
    },
    "properties": {
@@ -2647,7 +3452,12 @@
      "Main Street;CA 49",
      "Taylor Avenue"
     ],
-    "nodeId": 92109551
+    "nodeId": 92109551,
+    "wayIds": [
+     10586365,
+     10587863
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -2665,7 +3475,13 @@
      "Haggard Hagg",
      "Haggard Way"
     ],
-    "nodeId": 92109561
+    "nodeId": 92109561,
+    "wayIds": [
+     10586367,
+     10586790,
+     10586930
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -2682,7 +3498,12 @@
      "2nd Street",
      "Haggard Hagg"
     ],
-    "nodeId": 92109564
+    "nodeId": 92109564,
+    "wayIds": [
+     10586367,
+     10586637
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -2701,7 +3522,14 @@
      "Railroad Avenue",
      "South East Railroad Avenue"
     ],
-    "nodeId": 92109896
+    "nodeId": 92109896,
+    "wayIds": [
+     10586384,
+     10586927,
+     10587077,
+     10588155
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -2718,7 +3546,12 @@
      "Allegany Street",
      "South East Railroad Avenue"
     ],
-    "nodeId": 92109897
+    "nodeId": 92109897,
+    "wayIds": [
+     10586384,
+     10587212
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -2735,7 +3568,12 @@
      "Jones Street",
      "White Street"
     ],
-    "nodeId": 92109908
+    "nodeId": 92109908,
+    "wayIds": [
+     10586386,
+     10586915
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -2743,8 +3581,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6160533,
-     39.5687747
+     -120.616053,
+     39.568775
     ]
    },
    "properties": {
@@ -2752,7 +3590,12 @@
      "Ostrom Way",
      "Wild Plum Road;CR 524"
     ],
-    "nodeId": 92110829
+    "nodeId": 92110829,
+    "wayIds": [
+     10586399,
+     863864507
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2760,7 +3603,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8270372,
+     -120.827037,
      39.560816
     ]
    },
@@ -2771,7 +3614,15 @@
      "School Street",
      "White Way"
     ],
-    "nodeId": 92109407
+    "nodeId": 92109407,
+    "wayIds": [
+     10586400,
+     10587882,
+     10588095,
+     32684287,
+     127124224
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2779,8 +3630,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8286747,
-     39.5605833
+     -120.828675,
+     39.560583
     ]
    },
    "properties": {
@@ -2788,7 +3639,12 @@
      "Maiden Lane",
      "Sunnyside Drive"
     ],
-    "nodeId": 92110871
+    "nodeId": 92110871,
+    "wayIds": [
+     10586400,
+     10587402
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2796,8 +3652,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8434406,
-     39.4695702
+     -120.843441,
+     39.46957
     ]
    },
    "properties": {
@@ -2805,7 +3661,12 @@
      "Main Street",
      "Miners Street"
     ],
-    "nodeId": 92108773
+    "nodeId": 92108773,
+    "wayIds": [
+     10586406,
+     667514078
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2813,8 +3674,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6164369,
-     39.5729532
+     -120.616437,
+     39.572953
     ]
    },
    "properties": {
@@ -2822,7 +3683,12 @@
      "Rainbow Circle",
      "Tamarack Bend"
     ],
-    "nodeId": 92111049
+    "nodeId": 92111049,
+    "wayIds": [
+     10586407,
+     10588010
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2831,7 +3697,7 @@
     "type": "Point",
     "coordinates": [
      -120.907615,
-     39.6059415
+     39.605942
     ]
    },
    "properties": {
@@ -2839,7 +3705,12 @@
      "Eureka Road;NF 25",
      "Forest Route 27;NF 27"
     ],
-    "nodeId": 91810651
+    "nodeId": 91810651,
+    "wayIds": [
+     10586435,
+     1329981484
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2847,8 +3718,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2498101,
-     39.6731055
+     -120.24981,
+     39.673106
     ]
    },
    "properties": {
@@ -2856,7 +3727,12 @@
      "Cemetery Road",
      "Hill Street"
     ],
-    "nodeId": 91925340
+    "nodeId": 91925340,
+    "wayIds": [
+     10586454,
+     347355580
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -2864,8 +3740,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3769226,
-     39.5793925
+     -120.376923,
+     39.579393
     ]
    },
    "properties": {
@@ -2873,7 +3749,12 @@
      "Cemetery Road",
      "West Willow Street"
     ],
-    "nodeId": 92114222
+    "nodeId": 92114222,
+    "wayIds": [
+     10586457,
+     10586791
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2881,8 +3762,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6340438,
-     39.5658883
+     -120.634044,
+     39.565888
     ]
    },
    "properties": {
@@ -2890,7 +3771,12 @@
      "Main Street;CA 49",
      "Spring Street"
     ],
-    "nodeId": 92109011
+    "nodeId": 92109011,
+    "wayIds": [
+     10586458,
+     127122205
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2898,8 +3784,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6317872,
-     39.5654953
+     -120.631787,
+     39.565495
     ]
    },
    "properties": {
@@ -2907,7 +3793,12 @@
      "Busch Street",
      "Spring Street"
     ],
-    "nodeId": 92114270
+    "nodeId": 92114270,
+    "wayIds": [
+     10586458,
+     10588188
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2915,8 +3806,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.7849799,
-     39.6025625
+     -120.78498,
+     39.602563
     ]
    },
    "properties": {
@@ -2924,7 +3815,13 @@
      "Craycroft Ridge Road;FR 514-08",
      "Lavezzola Road"
     ],
-    "nodeId": 92167758
+    "nodeId": 92167758,
+    "wayIds": [
+     10586463,
+     513779816,
+     1329688814
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2932,8 +3829,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6349201,
-     39.5674701
+     -120.63492,
+     39.56747
     ]
    },
    "properties": {
@@ -2941,7 +3838,12 @@
      "Butte Avenue",
      "Sacred Mound Road"
     ],
-    "nodeId": 92114465
+    "nodeId": 92114465,
+    "wayIds": [
+     10586466,
+     10588373
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2949,8 +3851,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5897721,
-     39.6149903
+     -120.589772,
+     39.61499
     ]
    },
    "properties": {
@@ -2959,7 +3861,13 @@
      "Green Road",
      "Patrica Lane"
     ],
-    "nodeId": 92116122
+    "nodeId": 92116122,
+    "wayIds": [
+     10586503,
+     10588207,
+     10588377
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2976,7 +3884,12 @@
      "Magnus Orchard Road",
      "Ridge Road"
     ],
-    "nodeId": 92117354
+    "nodeId": 92117354,
+    "wayIds": [
+     10586519,
+     10587482
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -2993,7 +3906,12 @@
      "Bear Valley Road",
      "Windmill Road"
     ],
-    "nodeId": 92120200
+    "nodeId": 92120200,
+    "wayIds": [
+     10586570,
+     10586876
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3010,7 +3928,12 @@
      "Goodyear Creek Road",
      "Winnie Road"
     ],
-    "nodeId": 92121739
+    "nodeId": 92121739,
+    "wayIds": [
+     10586581,
+     10587247
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3018,8 +3941,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9682323,
-     39.4448203
+     -120.968232,
+     39.44482
     ]
    },
    "properties": {
@@ -3027,7 +3950,12 @@
      "Camptonville Road",
      "Ridge Road"
     ],
-    "nodeId": 92122848
+    "nodeId": 92122848,
+    "wayIds": [
+     10586588,
+     10587482
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3035,8 +3963,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8108729,
-     39.5083731
+     -120.810873,
+     39.508373
     ]
    },
    "properties": {
@@ -3044,7 +3972,12 @@
      "Galloway Road",
      "Henness Pass Road"
     ],
-    "nodeId": 91787879
+    "nodeId": 91787879,
+    "wayIds": [
+     10586602,
+     368651664
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3061,7 +3994,12 @@
      "Mustang Trail",
      "Wrangler Drive"
     ],
-    "nodeId": 92124464
+    "nodeId": 92124464,
+    "wayIds": [
+     10586634,
+     10586813
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3069,8 +4007,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5755356,
-     39.6266051
+     -120.575536,
+     39.626605
     ]
    },
    "properties": {
@@ -3078,7 +4016,12 @@
      "CA 49",
      "Carvin Creek Road"
     ],
-    "nodeId": 92100153
+    "nodeId": 92100153,
+    "wayIds": [
+     10586635,
+     1301781334
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3095,7 +4038,12 @@
      "2nd Street",
      "Mill Street"
     ],
-    "nodeId": 92124554
+    "nodeId": 92124554,
+    "wayIds": [
+     10586637,
+     10587894
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3113,7 +4061,13 @@
      "Lewis Avenue",
      "Lewis Street"
     ],
-    "nodeId": 92124556
+    "nodeId": 92124556,
+    "wayIds": [
+     10586637,
+     10586928,
+     10587792
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3121,8 +4075,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8433019,
-     39.4727727
+     -120.843302,
+     39.472773
     ]
    },
    "properties": {
@@ -3131,7 +4085,13 @@
      "Main Street",
      "North Main Street"
     ],
-    "nodeId": 91801889
+    "nodeId": 91801889,
+    "wayIds": [
+     10586638,
+     188561592,
+     667514078
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3139,8 +4099,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8538335,
-     39.4892638
+     -120.853833,
+     39.489264
     ]
    },
    "properties": {
@@ -3148,7 +4108,13 @@
      "Main Street",
      "Mountain House Road"
     ],
-    "nodeId": 92108608
+    "nodeId": 92108608,
+    "wayIds": [
+     10586686,
+     10588178,
+     1053215726
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3156,8 +4122,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9301902,
-     39.4698922
+     -120.93019,
+     39.469892
     ]
    },
    "properties": {
@@ -3165,7 +4131,13 @@
      "Oregon Creek Road",
      "Tippie Canoe Road"
     ],
-    "nodeId": 92125840
+    "nodeId": 92125840,
+    "wayIds": [
+     10586691,
+     10587861,
+     1168131043
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3174,7 +4146,7 @@
     "type": "Point",
     "coordinates": [
      -120.939042,
-     39.4586866
+     39.458687
     ]
    },
    "properties": {
@@ -3182,7 +4154,12 @@
      "Oregon Creek Road",
      "Ridge Road"
     ],
-    "nodeId": 92126237
+    "nodeId": 92126237,
+    "wayIds": [
+     10586691,
+     10587482
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3190,8 +4167,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5554801,
-     39.6320231
+     -120.55548,
+     39.632023
     ]
    },
    "properties": {
@@ -3199,7 +4176,12 @@
      "CA 49",
      "Haskell Creek Road"
     ],
-    "nodeId": 92100283
+    "nodeId": 92100283,
+    "wayIds": [
+     10586695,
+     1301781334
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3207,8 +4189,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6290447,
-     39.5671138
+     -120.629045,
+     39.567114
     ]
    },
    "properties": {
@@ -3216,7 +4198,12 @@
      "Maple Grove Lane",
      "Oak Lane"
     ],
-    "nodeId": 92126414
+    "nodeId": 92126414,
+    "wayIds": [
+     10586696,
+     10588376
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3233,7 +4220,12 @@
      "4th Street",
      "Meeker Street"
     ],
-    "nodeId": 92129001
+    "nodeId": 92129001,
+    "wayIds": [
+     10586740,
+     10586761
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3250,7 +4242,12 @@
      "4th Street",
      "Church Street"
     ],
-    "nodeId": 92129014
+    "nodeId": 92129014,
+    "wayIds": [
+     10586740,
+     10586743
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3267,7 +4264,12 @@
      "4th Street",
      "Beckwith Road;CR A24"
     ],
-    "nodeId": 92129018
+    "nodeId": 92129018,
+    "wayIds": [
+     10586740,
+     41662956
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3284,7 +4286,12 @@
      "4th Street",
      "Haggard Way"
     ],
-    "nodeId": 92129023
+    "nodeId": 92129023,
+    "wayIds": [
+     10586740,
+     10586930
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3301,7 +4308,12 @@
      "Beckwith Road",
      "Church Street"
     ],
-    "nodeId": 92129052
+    "nodeId": 92129052,
+    "wayIds": [
+     10586742,
+     10586743
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3320,7 +4332,14 @@
      "Beckwith Road",
      "Beckwith Road;CR A24"
     ],
-    "nodeId": 92124566
+    "nodeId": 92124566,
+    "wayIds": [
+     10586742,
+     41662956,
+     41662958,
+     41662959
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3337,7 +4356,12 @@
      "Church Street",
      "Railroad Avenue"
     ],
-    "nodeId": 92129152
+    "nodeId": 92129152,
+    "wayIds": [
+     10586743,
+     10588153
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3354,7 +4378,12 @@
      "Beckwith",
      "Church Street"
     ],
-    "nodeId": 92129158
+    "nodeId": 92129158,
+    "wayIds": [
+     10586743,
+     10587405
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3371,7 +4400,12 @@
      "2nd Street",
      "Church Street"
     ],
-    "nodeId": 92124567
+    "nodeId": 92124567,
+    "wayIds": [
+     10586743,
+     41662958
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3379,8 +4413,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2439338,
-     39.6778017
+     -120.243934,
+     39.677802
     ]
    },
    "properties": {
@@ -3388,7 +4422,12 @@
      "3rd Street",
      "Church Street"
     ],
-    "nodeId": 92129160
+    "nodeId": 92129160,
+    "wayIds": [
+     10586743,
+     1193648605
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3405,7 +4444,12 @@
      "Church Street",
      "Zollinger Street"
     ],
-    "nodeId": 92129169
+    "nodeId": 92129169,
+    "wayIds": [
+     10586743,
+     10587889
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3422,7 +4466,12 @@
      "Beckwith Road;CR A24",
      "Church Street"
     ],
-    "nodeId": 92129091
+    "nodeId": 92129091,
+    "wayIds": [
+     10586743,
+     41662956
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3431,7 +4480,7 @@
     "type": "Point",
     "coordinates": [
      -120.828731,
-     39.5609765
+     39.560977
     ]
    },
    "properties": {
@@ -3439,7 +4488,13 @@
      "Church Street",
      "Sunnyside Drive"
     ],
-    "nodeId": 92129175
+    "nodeId": 92129175,
+    "wayIds": [
+     10586746,
+     10587402,
+     10587403
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3456,7 +4511,12 @@
      "Henness Pass Road",
      "Lafayette Road"
     ],
-    "nodeId": 91787602
+    "nodeId": 91787602,
+    "wayIds": [
+     10586756,
+     368651664
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3473,7 +4533,12 @@
      "Durgan Flat Way",
      "Nevada Street"
     ],
-    "nodeId": 92130514
+    "nodeId": 92130514,
+    "wayIds": [
+     10586760,
+     10588298
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3481,8 +4546,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8294928,
-     39.5593363
+     -120.829493,
+     39.559336
     ]
    },
    "properties": {
@@ -3490,7 +4555,12 @@
      "Nevada Street",
      "River Street"
     ],
-    "nodeId": 92130522
+    "nodeId": 92130522,
+    "wayIds": [
+     10586760,
+     10586980
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3507,7 +4577,12 @@
      "2nd Street",
      "Meeker Street"
     ],
-    "nodeId": 92124568
+    "nodeId": 92124568,
+    "wayIds": [
+     10586761,
+     41662958
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3515,8 +4590,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2439244,
-     39.6786849
+     -120.243924,
+     39.678685
     ]
    },
    "properties": {
@@ -3524,7 +4599,12 @@
      "3rd Street",
      "Meeker Street"
     ],
-    "nodeId": 92130536
+    "nodeId": 92130536,
+    "wayIds": [
+     10586761,
+     1193648605
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3541,7 +4621,12 @@
      "Meeker Street",
      "Zollinger Street"
     ],
-    "nodeId": 92130543
+    "nodeId": 92130543,
+    "wayIds": [
+     10586762,
+     10587889
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3559,7 +4644,13 @@
      "Lewis Avenue",
      "West 3rd Street"
     ],
-    "nodeId": 92133174
+    "nodeId": 92133174,
+    "wayIds": [
+     10586790,
+     10587200,
+     10587792
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3567,8 +4658,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3874943,
-     39.5815042
+     -120.387494,
+     39.581504
     ]
    },
    "properties": {
@@ -3576,7 +4667,12 @@
      "Amodei Ranch Road",
      "West Willow Street"
     ],
-    "nodeId": 13284217623
+    "nodeId": 13284217623,
+    "wayIds": [
+     10586791,
+     1447838285
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3584,8 +4680,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8256948,
-     39.5659306
+     -120.825695,
+     39.565931
     ]
    },
    "properties": {
@@ -3593,7 +4689,12 @@
      "Main Street",
      "Oxford Mine Road"
     ],
-    "nodeId": 92109450
+    "nodeId": 92109450,
+    "wayIds": [
+     10586797,
+     32684287
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3610,7 +4711,12 @@
      "Smithneck Road;CR 860",
      "Wrangler Drive"
     ],
-    "nodeId": 92133971
+    "nodeId": 92133971,
+    "wayIds": [
+     10586813,
+     405595257
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3627,7 +4733,12 @@
      "Buckskin Trail",
      "Wrangler Drive"
     ],
-    "nodeId": 92134001
+    "nodeId": 92134001,
+    "wayIds": [
+     10586813,
+     10586969
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3636,7 +4747,7 @@
     "type": "Point",
     "coordinates": [
      -120.282007,
-     39.5015328
+     39.501533
     ]
    },
    "properties": {
@@ -3644,7 +4755,12 @@
      "Fibreboard Road",
      "Fibreboard Road;NFH 7"
     ],
-    "nodeId": 8709975441
+    "nodeId": 8709975441,
+    "wayIds": [
+     10586821,
+     940459253
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3652,8 +4768,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2981489,
-     39.4922663
+     -120.298149,
+     39.492266
     ]
    },
    "properties": {
@@ -3661,7 +4777,12 @@
      "Fibreboard Road;NFH 7",
      "Old Fibreboard Road;NFR 07-10"
     ],
-    "nodeId": 92072316
+    "nodeId": 92072316,
+    "wayIds": [
+     10586821,
+     185315802
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3669,8 +4790,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4122188,
-     39.4973995
+     -120.412219,
+     39.4974
     ]
    },
    "properties": {
@@ -3678,7 +4799,12 @@
      "Fibreboard Road;NFH 7",
      "Yuba Pass-Webber Lake Road;NF 12"
     ],
-    "nodeId": 92094807
+    "nodeId": 92094807,
+    "wayIds": [
+     10586821,
+     10587373
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3686,8 +4812,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4504283,
-     39.6376418
+     -120.450428,
+     39.637642
     ]
    },
    "properties": {
@@ -3695,7 +4821,12 @@
      "CA 49",
      "Chapman-Calpine Road;NF 52"
     ],
-    "nodeId": 92101523
+    "nodeId": 92101523,
+    "wayIds": [
+     10586831,
+     1447625072
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3712,7 +4843,12 @@
      "Poole Lane",
      "Selma Lane"
     ],
-    "nodeId": 92135288
+    "nodeId": 92135288,
+    "wayIds": [
+     10586833,
+     449485232
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3720,7 +4856,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6107452,
+     -120.610745,
      39.62099
     ]
    },
@@ -3729,7 +4865,12 @@
      "Gold Lake Highway;CR 620;NFH 24",
      "Sardine Lake Rd;Packer Lake Rd"
     ],
-    "nodeId": 92137928
+    "nodeId": 92137928,
+    "wayIds": [
+     10586913,
+     863865360
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3746,7 +4887,12 @@
      "Beckwith Road;CR A24",
      "Jones Street"
     ],
-    "nodeId": 92129095
+    "nodeId": 92129095,
+    "wayIds": [
+     10586915,
+     41662956
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3763,7 +4909,12 @@
      "Jones Street",
      "Zollinger Street"
     ],
-    "nodeId": 92138665
+    "nodeId": 92138665,
+    "wayIds": [
+     10586915,
+     10587889
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3771,8 +4922,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0963036,
-     39.4831396
+     -120.096304,
+     39.48314
     ]
    },
    "properties": {
@@ -3780,7 +4931,13 @@
      "Dog Valley Road;CR 261",
      "Stampede Dam Road;CR 270"
     ],
-    "nodeId": 92138942
+    "nodeId": 92138942,
+    "wayIds": [
+     10586925,
+     830570803,
+     1186236913
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3797,7 +4954,12 @@
      "Commercial Street;CA 49",
      "Pearl Street"
     ],
-    "nodeId": 92139144
+    "nodeId": 92139144,
+    "wayIds": [
+     10586926,
+     10587215
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3805,8 +4967,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2752063,
-     39.6672654
+     -120.275206,
+     39.667265
     ]
    },
    "properties": {
@@ -3814,7 +4976,12 @@
      "Moss Drive",
      "Woods Lane"
     ],
-    "nodeId": 92139192
+    "nodeId": 92139192,
+    "wayIds": [
+     10586933,
+     10586958
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3831,7 +4998,12 @@
      "Beckwith Road;CR A24",
      "Poole Lane"
     ],
-    "nodeId": 92129118
+    "nodeId": 92129118,
+    "wayIds": [
+     10586941,
+     41662956
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3839,8 +5011,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2745035,
-     39.6706576
+     -120.274503,
+     39.670658
     ]
    },
    "properties": {
@@ -3848,7 +5020,12 @@
      "Moss Drive",
      "Sage Drive"
     ],
-    "nodeId": 92140446
+    "nodeId": 92140446,
+    "wayIds": [
+     10586958,
+     10587790
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3856,8 +5033,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3688493,
-     39.5747826
+     -120.368849,
+     39.574783
     ]
    },
    "properties": {
@@ -3865,7 +5042,13 @@
      "Old Truckee Road",
      "South Lincoln Street;CA 89"
     ],
-    "nodeId": 91813016
+    "nodeId": 91813016,
+    "wayIds": [
+     10586961,
+     127109953,
+     1009133090
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3882,7 +5065,12 @@
      "East Lewis Street",
      "Lewis Avenue"
     ],
-    "nodeId": 91857720
+    "nodeId": 91857720,
+    "wayIds": [
+     10587077,
+     10587791
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -3890,7 +5078,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8885495,
+     -120.888549,
      39.541669
     ]
    },
@@ -3899,7 +5087,12 @@
      "CA 49",
      "Post Office Spur Road"
     ],
-    "nodeId": 92103195
+    "nodeId": 92103195,
+    "wayIds": [
+     10587080,
+     32684299
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3907,8 +5100,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9409987,
-     39.6649359
+     -120.940999,
+     39.664936
     ]
    },
    "properties": {
@@ -3916,7 +5109,13 @@
      "Port Wine Ridge Road",
      "Queen City Road;CR 791"
     ],
-    "nodeId": 92145331
+    "nodeId": 92145331,
+    "wayIds": [
+     10587159,
+     10588297,
+     562636097
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3925,7 +5124,7 @@
     "type": "Point",
     "coordinates": [
      -120.930741,
-     39.6948514
+     39.694851
     ]
    },
    "properties": {
@@ -3934,7 +5133,13 @@
      "Port Wine Ridge Road;CR 690",
      "Saint Louis Road;CR 890"
     ],
-    "nodeId": 92146890
+    "nodeId": 92146890,
+    "wayIds": [
+     10587180,
+     10587976,
+     1329142404
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3942,7 +5147,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8789274,
+     -120.878927,
      39.716924
     ]
    },
@@ -3951,7 +5156,12 @@
      "Poker Flat Road;CR 800",
      "Port Wine Ridge Road;CR 690"
     ],
-    "nodeId": 91821623
+    "nodeId": 91821623,
+    "wayIds": [
+     10587180,
+     563496936
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3959,8 +5169,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4412552,
-     39.6657872
+     -120.441255,
+     39.665787
     ]
    },
    "properties": {
@@ -3968,7 +5178,12 @@
      "Coates Avenue",
      "Farrar Avenue"
     ],
-    "nodeId": 92148805
+    "nodeId": 92148805,
+    "wayIds": [
+     10587198,
+     10588014
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3976,8 +5191,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4401648,
-     39.6667059
+     -120.440165,
+     39.666706
     ]
    },
    "properties": {
@@ -3985,7 +5200,12 @@
      "Civic Way",
      "Coates Avenue"
     ],
-    "nodeId": 92148810
+    "nodeId": 92148810,
+    "wayIds": [
+     10587198,
+     10587963
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -3993,8 +5213,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4390973,
-     39.6675669
+     -120.439097,
+     39.667567
     ]
    },
    "properties": {
@@ -4002,7 +5222,13 @@
      "Coates Avenue",
      "County Road"
     ],
-    "nodeId": 92074231
+    "nodeId": 92074231,
+    "wayIds": [
+     10587198,
+     846597557,
+     846597558
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4019,7 +5245,12 @@
      "Mill Street",
      "West 3rd Street"
     ],
-    "nodeId": 92148932
+    "nodeId": 92148932,
+    "wayIds": [
+     10587200,
+     10587894
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -4036,7 +5267,12 @@
      "Goodyear Creek Road",
      "Hogan Way"
     ],
-    "nodeId": 92148974
+    "nodeId": 92148974,
+    "wayIds": [
+     10587205,
+     10587247
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4044,8 +5280,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0027715,
-     39.5054241
+     -120.002771,
+     39.505424
     ]
    },
    "properties": {
@@ -4053,7 +5289,12 @@
      "Sierra Lane",
      "Trelease Lane"
     ],
-    "nodeId": 92109839
+    "nodeId": 92109839,
+    "wayIds": [
+     10587207,
+     960135487
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4061,8 +5302,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8857147,
-     39.5422422
+     -120.885715,
+     39.542242
     ]
    },
    "properties": {
@@ -4071,7 +5312,13 @@
      "Goodyear Creek Road",
      "Mountain House Road"
     ],
-    "nodeId": 92103205
+    "nodeId": 92103205,
+    "wayIds": [
+     10587247,
+     863858239,
+     863858242
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4088,7 +5335,12 @@
      "Goodyear Creek Road",
      "Post Office Spur Road"
     ],
-    "nodeId": 92143315
+    "nodeId": 92143315,
+    "wayIds": [
+     10587247,
+     863858240
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4105,7 +5357,12 @@
      "Goodyear Creek Road",
      "Rollins Ranch Road"
     ],
-    "nodeId": 92149785
+    "nodeId": 92149785,
+    "wayIds": [
+     10587247,
+     10587885
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4122,7 +5379,12 @@
      "Mount Quail Road",
      "Mtn Quail Road"
     ],
-    "nodeId": 92153538
+    "nodeId": 92153538,
+    "wayIds": [
+     10587339,
+     846597560
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4139,7 +5401,12 @@
      "Church Meadow Road;CR 721",
      "Mills Peak Road;CR 822"
     ],
-    "nodeId": 92154450
+    "nodeId": 92154450,
+    "wayIds": [
+     10587359,
+     10587428
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4147,8 +5414,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6535766,
-     39.6236461
+     -120.653577,
+     39.623646
     ]
    },
    "properties": {
@@ -4156,7 +5423,12 @@
      "Gold Valley Road;NF 93",
      "Packer Lake Road;CR 621"
     ],
-    "nodeId": 6938190727
+    "nodeId": 6938190727,
+    "wayIds": [
+     10587372,
+     620506907
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4164,8 +5436,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6842419,
-     39.6082815
+     -120.684242,
+     39.608282
     ]
    },
    "properties": {
@@ -4173,7 +5445,12 @@
      "Forest Route 93",
      "Gold Valley Road;NF 93"
     ],
-    "nodeId": 91984890
+    "nodeId": 91984890,
+    "wayIds": [
+     10587372,
+     490365385
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4181,8 +5458,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4122406,
-     39.4998817
+     -120.412241,
+     39.499882
     ]
    },
    "properties": {
@@ -4190,7 +5467,12 @@
      "South Bonta Road;NFR 12-99",
      "Yuba Pass-Webber Lake Road;NF 12"
     ],
-    "nodeId": 92094833
+    "nodeId": 92094833,
+    "wayIds": [
+     10587373,
+     866134447
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4198,8 +5480,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4259591,
-     39.6153074
+     -120.425959,
+     39.615307
     ]
    },
    "properties": {
@@ -4207,7 +5489,13 @@
      "CA 49;CA 89",
      "Westside Road;CR A23"
     ],
-    "nodeId": 91815852
+    "nodeId": 91815852,
+    "wayIds": [
+     10587374,
+     184877590,
+     1447755860
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4224,7 +5512,12 @@
      "Calpine Road",
      "Westside Road;CR A23"
     ],
-    "nodeId": 92108554
+    "nodeId": 92108554,
+    "wayIds": [
+     10587374,
+     864272330
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4241,7 +5534,12 @@
      "47 Road",
      "Oak Valley Road"
     ],
-    "nodeId": 92037207
+    "nodeId": 92037207,
+    "wayIds": [
+     10587397,
+     10587891
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4258,7 +5556,13 @@
      "School Street",
      "Sunnyside Drive"
     ],
-    "nodeId": 92156031
+    "nodeId": 92156031,
+    "wayIds": [
+     10587400,
+     10587403,
+     10587882
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4266,8 +5570,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8278135,
-     39.5620573
+     -120.827813,
+     39.562057
     ]
    },
    "properties": {
@@ -4275,7 +5579,12 @@
      "Ponta Ranch Road",
      "Sunnyside Drive"
     ],
-    "nodeId": 92156047
+    "nodeId": 92156047,
+    "wayIds": [
+     10587400,
+     10587990
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4283,8 +5592,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8286626,
-     39.5603352
+     -120.828663,
+     39.560335
     ]
    },
    "properties": {
@@ -4292,7 +5601,12 @@
      "Main Street;CA 49",
      "Sunnyside Drive"
     ],
-    "nodeId": 92069692
+    "nodeId": 92069692,
+    "wayIds": [
+     10587402,
+     127124225
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4309,7 +5623,12 @@
      "Beckwith",
      "Railroad Avenue"
     ],
-    "nodeId": 92156072
+    "nodeId": 92156072,
+    "wayIds": [
+     10587405,
+     10588153
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -4317,8 +5636,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6226142,
-     39.6796453
+     -120.622614,
+     39.679645
     ]
    },
    "properties": {
@@ -4326,7 +5645,12 @@
      "Church Creek Road;NFH 28",
      "Church Meadow Road;CR 721"
     ],
-    "nodeId": 6898706183
+    "nodeId": 6898706183,
+    "wayIds": [
+     10587428,
+     736851855
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4334,8 +5658,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8519315,
-     39.4644445
+     -120.851931,
+     39.464445
     ]
    },
    "properties": {
@@ -4343,7 +5667,12 @@
      "Main Street",
      "Ridge Road"
     ],
-    "nodeId": 92108624
+    "nodeId": 92108624,
+    "wayIds": [
+     10587490,
+     667514078
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4360,7 +5689,12 @@
      "Nichols Mill Road",
      "Nichols Mill Road;NF 15"
     ],
-    "nodeId": 92117555
+    "nodeId": 92117555,
+    "wayIds": [
+     10587587,
+     224192440
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4377,7 +5711,12 @@
      "Jim Crow Canyon Creek Road",
      "Jim Crow Road"
     ],
-    "nodeId": 92162751
+    "nodeId": 92162751,
+    "wayIds": [
+     10587606,
+     10587661
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4385,8 +5724,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.7861403,
-     39.5527757
+     -120.78614,
+     39.552776
     ]
    },
    "properties": {
@@ -4394,7 +5733,12 @@
      "CA 49",
      "Jim Crow Road"
     ],
-    "nodeId": 8048008084
+    "nodeId": 8048008084,
+    "wayIds": [
+     10587661,
+     10587662
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4402,8 +5746,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2496902,
-     39.6970326
+     -120.24969,
+     39.697033
     ]
    },
    "properties": {
@@ -4411,7 +5755,12 @@
      "Alexander Road",
      "Beckwith Road;CR A24"
     ],
-    "nodeId": 92129133
+    "nodeId": 92129133,
+    "wayIds": [
+     10587736,
+     41662956
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4419,8 +5768,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8660277,
-     39.6139521
+     -120.866028,
+     39.613952
     ]
    },
    "properties": {
@@ -4428,7 +5777,12 @@
      "Saddleback Road;CR 509",
      "Saddleback Road;NFR 25-23"
     ],
-    "nodeId": 91994387
+    "nodeId": 91994387,
+    "wayIds": [
+     10587782,
+     867869168
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4436,8 +5790,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2783927,
-     39.6724785
+     -120.278393,
+     39.672479
     ]
    },
    "properties": {
@@ -4445,7 +5799,12 @@
      "Pine Drive",
      "Sage Drive"
     ],
-    "nodeId": 92173625
+    "nodeId": 92173625,
+    "wayIds": [
+     10587790,
+     10588104
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4453,8 +5812,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0062343,
-     39.6429001
+     -120.006234,
+     39.6429
     ]
    },
    "properties": {
@@ -4462,7 +5821,12 @@
      "Green Gulch Road",
      "Long Valley Road"
     ],
-    "nodeId": 8881688051
+    "nodeId": 8881688051,
+    "wayIds": [
+     10587853,
+     347355581
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4471,7 +5835,7 @@
     "type": "Point",
     "coordinates": [
      -120.635447,
-     39.5656618
+     39.565662
     ]
    },
    "properties": {
@@ -4479,7 +5843,12 @@
      "Butte Street",
      "Main Street;CA 49"
     ],
-    "nodeId": 92109004
+    "nodeId": 92109004,
+    "wayIds": [
+     10587855,
+     127122205
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4487,8 +5856,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6355262,
-     39.5668228
+     -120.635526,
+     39.566823
     ]
    },
    "properties": {
@@ -4498,7 +5867,14 @@
      "Butte Street",
      "Sierra Buttes Road"
     ],
-    "nodeId": 92085046
+    "nodeId": 92085046,
+    "wayIds": [
+     10587855,
+     10588373,
+     10588375,
+     1317404201
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4516,7 +5892,13 @@
      "North East Railroad Avenue",
      "Railroad Avenue"
     ],
-    "nodeId": 92175985
+    "nodeId": 92175985,
+    "wayIds": [
+     10587858,
+     10587977,
+     10588152
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -4533,7 +5915,12 @@
      "Hill Street",
      "Holden Lane"
     ],
-    "nodeId": 92176063
+    "nodeId": 92176063,
+    "wayIds": [
+     10587862,
+     347355580
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4541,8 +5928,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5874324,
-     39.6161802
+     -120.587432,
+     39.61618
     ]
    },
    "properties": {
@@ -4550,7 +5937,12 @@
      "Patrica Lane",
      "Sierra Circle"
     ],
-    "nodeId": 8095447442
+    "nodeId": 8095447442,
+    "wayIds": [
+     10587864,
+     10588207
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4558,8 +5950,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0397244,
-     39.5489538
+     -120.039724,
+     39.548954
     ]
    },
    "properties": {
@@ -4568,7 +5960,13 @@
      "Henness Pass Road;CR 860;NF 31027",
      "Long Valley Road;NFR 31002"
     ],
-    "nodeId": 91798593
+    "nodeId": 91798593,
+    "wayIds": [
+     10587870,
+     347355578,
+     427934536
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4576,8 +5974,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0102835,
-     39.6261145
+     -120.010283,
+     39.626115
     ]
    },
    "properties": {
@@ -4585,7 +5983,12 @@
      "Long Valley Road",
      "Long Valley Road;NFR 31002"
     ],
-    "nodeId": 92161181
+    "nodeId": 92161181,
+    "wayIds": [
+     10587870,
+     1354747885
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4593,8 +5996,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8489418,
-     39.4638545
+     -120.848942,
+     39.463855
     ]
    },
    "properties": {
@@ -4602,7 +6005,12 @@
      "Lower Road",
      "Main Street"
     ],
-    "nodeId": 92108670
+    "nodeId": 92108670,
+    "wayIds": [
+     10587872,
+     667514078
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4619,7 +6027,12 @@
      "Railroad Avenue",
      "School Street"
     ],
-    "nodeId": 92176874
+    "nodeId": 92176874,
+    "wayIds": [
+     10587883,
+     10588153
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -4636,7 +6049,12 @@
      "2nd Street;A24",
      "School Street"
     ],
-    "nodeId": 92124564
+    "nodeId": 92124564,
+    "wayIds": [
+     10587883,
+     41662959
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -4644,8 +6062,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3654426,
-     39.5903235
+     -120.365443,
+     39.590324
     ]
    },
    "properties": {
@@ -4653,7 +6071,12 @@
      "Mead Street",
      "North Battelle Street"
     ],
-    "nodeId": 92157531
+    "nodeId": 92157531,
+    "wayIds": [
+     10587884,
+     1009000510
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4662,7 +6085,7 @@
     "type": "Point",
     "coordinates": [
      -120.636357,
-     39.5655083
+     39.565508
     ]
    },
    "properties": {
@@ -4670,7 +6093,12 @@
      "Castagna Alley",
      "Main Street;CA 49"
     ],
-    "nodeId": 92109000
+    "nodeId": 92109000,
+    "wayIds": [
+     10587892,
+     127122205
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4678,8 +6106,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6364109,
-     39.5666319
+     -120.636411,
+     39.566632
     ]
    },
    "properties": {
@@ -4687,7 +6115,12 @@
      "Butte Alley",
      "Castagna Alley"
     ],
-    "nodeId": 92177467
+    "nodeId": 92177467,
+    "wayIds": [
+     10587892,
+     10588375
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4704,7 +6137,12 @@
      "Mill Street",
      "Railroad Avenue"
     ],
-    "nodeId": 92177468
+    "nodeId": 92177468,
+    "wayIds": [
+     10587894,
+     10588155
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -4712,8 +6150,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3373067,
-     39.5567705
+     -120.337307,
+     39.556771
     ]
    },
    "properties": {
@@ -4721,7 +6159,12 @@
      "CA 89",
      "Campell Hot Springs Road"
     ],
-    "nodeId": 91815328
+    "nodeId": 91815328,
+    "wayIds": [
+     10587940,
+     844398985
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4729,8 +6172,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5913917,
-     39.6170799
+     -120.591392,
+     39.61708
     ]
    },
    "properties": {
@@ -4739,7 +6182,13 @@
      "Gold Lake Highway;CR 620;NFH 24",
      "Green Road"
     ],
-    "nodeId": 92100046
+    "nodeId": 92100046,
+    "wayIds": [
+     10587948,
+     863989568,
+     1301781334
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4747,8 +6196,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4394406,
-     39.6662558
+     -120.439441,
+     39.666256
     ]
    },
    "properties": {
@@ -4756,7 +6205,12 @@
      "Civic Way",
      "Main Street"
     ],
-    "nodeId": 92109158
+    "nodeId": 92109158,
+    "wayIds": [
+     10587963,
+     846597559
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4764,7 +6218,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2171445,
+     -120.217144,
      39.642328
     ]
    },
@@ -4773,7 +6227,12 @@
      "Longhorn Drive",
      "Roundup Drive"
     ],
-    "nodeId": 92181591
+    "nodeId": 92181591,
+    "wayIds": [
+     10587967,
+     10588383
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4781,8 +6240,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9389755,
-     39.6919575
+     -120.938975,
+     39.691958
     ]
    },
    "properties": {
@@ -4790,7 +6249,12 @@
      "Saint Louis Road;CR 512",
      "Saint Louis Road;CR 890"
     ],
-    "nodeId": 90196355
+    "nodeId": 90196355,
+    "wayIds": [
+     10587976,
+     1329142417
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4798,8 +6262,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4394031,
-     39.6641415
+     -120.439403,
+     39.664142
     ]
    },
    "properties": {
@@ -4807,7 +6271,12 @@
      "B Street",
      "Farrar Avenue"
     ],
-    "nodeId": 92076313
+    "nodeId": 92076313,
+    "wayIds": [
+     10588013,
+     741282851
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4815,8 +6284,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.1434311,
-     39.5118843
+     -120.143431,
+     39.511884
     ]
    },
    "properties": {
@@ -4825,7 +6294,13 @@
      "Henness Pass Road;CR 860",
      "Smithneck Road;CR 860"
     ],
-    "nodeId": 91789893
+    "nodeId": 91789893,
+    "wayIds": [
+     10588050,
+     326623271,
+     937482212
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4833,8 +6308,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2824895,
-     39.5057635
+     -120.282489,
+     39.505764
     ]
    },
    "properties": {
@@ -4843,7 +6318,13 @@
      "Cottonwood Road",
      "Fibreboard Road"
     ],
-    "nodeId": 91814590
+    "nodeId": 91814590,
+    "wayIds": [
+     10588081,
+     292892404,
+     940459253
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4851,8 +6332,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8533511,
-     39.4896125
+     -120.853351,
+     39.489613
     ]
    },
    "properties": {
@@ -4860,7 +6341,12 @@
      "Main Street",
      "School Street"
     ],
-    "nodeId": 92108616
+    "nodeId": 92108616,
+    "wayIds": [
+     10588178,
+     188562562
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4868,8 +6354,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9965348,
-     39.5193029
+     -120.996535,
+     39.519303
     ]
    },
    "properties": {
@@ -4877,7 +6363,12 @@
      "Brandy City Road",
      "CA 49"
     ],
-    "nodeId": 92102361
+    "nodeId": 92102361,
+    "wayIds": [
+     10588345,
+     32684299
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4885,8 +6376,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6286436,
-     39.5676313
+     -120.628644,
+     39.567631
     ]
    },
    "properties": {
@@ -4894,7 +6385,12 @@
      "Butte Avenue",
      "Main Street;CA 49"
     ],
-    "nodeId": 92109022
+    "nodeId": 92109022,
+    "wayIds": [
+     10588373,
+     127122205
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4902,8 +6398,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6378345,
-     39.5654313
+     -120.637834,
+     39.565431
     ]
    },
    "properties": {
@@ -4911,7 +6407,12 @@
      "Butte Alley",
      "Cemetery Road"
     ],
-    "nodeId": 92114187
+    "nodeId": 92114187,
+    "wayIds": [
+     10588375,
+     867808526
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4919,8 +6420,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6292047,
-     39.5674425
+     -120.629205,
+     39.567443
     ]
    },
    "properties": {
@@ -4928,7 +6429,12 @@
      "Main Street;CA 49",
      "Maple Grove Lane"
     ],
-    "nodeId": 92109021
+    "nodeId": 92109021,
+    "wayIds": [
+     10588376,
+     127122205
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4936,8 +6442,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6288511,
-     39.5666694
+     -120.628851,
+     39.566669
     ]
    },
    "properties": {
@@ -4945,7 +6451,12 @@
      "Cedar Lane",
      "Maple Grove Lane"
     ],
-    "nodeId": 91784687
+    "nodeId": 91784687,
+    "wayIds": [
+     10588376,
+     867808528
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4953,8 +6464,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6424194,
-     39.6881836
+     -120.642419,
+     39.688184
     ]
    },
    "properties": {
@@ -4962,7 +6473,12 @@
      "Frazier Falls Road;CR 820",
      "Gold Lake Highway;CR 620;NFH 24"
     ],
-    "nodeId": 92023572
+    "nodeId": 92023572,
+    "wayIds": [
+     10588381,
+     863865360
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4970,8 +6486,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6216484,
-     39.5693762
+     -120.621648,
+     39.569376
     ]
    },
    "properties": {
@@ -4979,7 +6495,12 @@
      "Wild Plum Ridge Road",
      "Wild Plum Road;CR 524"
     ],
-    "nodeId": 92123353
+    "nodeId": 92123353,
+    "wayIds": [
+     10588382,
+     863864507
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -4996,7 +6517,12 @@
      "Bear Valley Road",
      "Longhorn Drive"
     ],
-    "nodeId": 92137310
+    "nodeId": 92137310,
+    "wayIds": [
+     10588383,
+     1291329629
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5004,8 +6530,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8291777,
-     39.4558897
+     -120.829178,
+     39.45589
     ]
    },
    "properties": {
@@ -5013,7 +6539,12 @@
      "Plumbago Road",
      "Plumbago Road;CR 200"
     ],
-    "nodeId": 92181144
+    "nodeId": 92181144,
+    "wayIds": [
+     10588385,
+     10588404
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5021,8 +6552,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0019079,
-     39.5199309
+     -120.001908,
+     39.519931
     ]
    },
    "properties": {
@@ -5030,7 +6561,12 @@
      "Hill Lane",
      "Sylvan Circle"
     ],
-    "nodeId": 92073372
+    "nodeId": 92073372,
+    "wayIds": [
+     14396216,
+     960134175
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5038,8 +6574,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8256371,
-     39.5631588
+     -120.825637,
+     39.563159
     ]
    },
    "properties": {
@@ -5047,7 +6583,12 @@
      "East River Street",
      "Main Street"
     ],
-    "nodeId": 92082670
+    "nodeId": 92082670,
+    "wayIds": [
+     32684287,
+     182765761
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5055,8 +6596,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8227484,
-     39.5697257
+     -120.822748,
+     39.569726
     ]
    },
    "properties": {
@@ -5064,7 +6605,12 @@
      "Lavezzola Road",
      "Main Street"
     ],
-    "nodeId": 92109490
+    "nodeId": 92109490,
+    "wayIds": [
+     32684287,
+     947384254
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5072,8 +6618,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6268649,
-     39.5688192
+     -120.626865,
+     39.568819
     ]
    },
    "properties": {
@@ -5082,7 +6628,13 @@
      "Main Street;CA 49",
      "Wild Plum Road;CR 524"
     ],
-    "nodeId": 92099729
+    "nodeId": 92099729,
+    "wayIds": [
+     127122204,
+     127122206,
+     863864507
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5090,8 +6642,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6371997,
-     39.5653625
+     -120.6372,
+     39.565363
     ]
    },
    "properties": {
@@ -5099,7 +6651,12 @@
      "Cemetery Road",
      "Main Street;CA 49"
     ],
-    "nodeId": 8088983251
+    "nodeId": 8088983251,
+    "wayIds": [
+     127122205,
+     867808526
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5107,8 +6664,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6360659,
-     39.5655581
+     -120.636066,
+     39.565558
     ]
    },
    "properties": {
@@ -5116,7 +6673,12 @@
      "Hayes Road",
      "Main Street;CA 49"
     ],
-    "nodeId": 92109001
+    "nodeId": 92109001,
+    "wayIds": [
+     127122205,
+     867808525
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5124,8 +6686,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8281342,
-     39.5603252
+     -120.828134,
+     39.560325
     ]
    },
    "properties": {
@@ -5134,7 +6696,13 @@
      "Main Street",
      "Main Street;CA 49"
     ],
-    "nodeId": 92109389
+    "nodeId": 92109389,
+    "wayIds": [
+     127124222,
+     127124224,
+     127124225
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5142,8 +6710,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8293222,
-     39.5603819
+     -120.829322,
+     39.560382
     ]
    },
    "properties": {
@@ -5151,7 +6719,12 @@
      "Main Street;CA 49",
      "Nevada Street"
     ],
-    "nodeId": 92109382
+    "nodeId": 92109382,
+    "wayIds": [
+     127124225,
+     398792434
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5159,8 +6732,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5279093,
-     39.5023043
+     -120.527909,
+     39.502304
     ]
    },
    "properties": {
@@ -5169,7 +6742,13 @@
      "Pass Creek Loop Road",
      "Pass Creek Loop Road;FH 70"
     ],
-    "nodeId": 91920745
+    "nodeId": 91920745,
+    "wayIds": [
+     179402944,
+     667514053,
+     1331967890
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5177,8 +6756,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3622455,
-     39.5631795
+     -120.362245,
+     39.56318
     ]
    },
    "properties": {
@@ -5186,7 +6765,13 @@
      "Nichols Mill Road",
      "Old Truckee Road"
     ],
-    "nodeId": 92082577
+    "nodeId": 92082577,
+    "wayIds": [
+     224192440,
+     1009133052,
+     1009133090
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5194,8 +6779,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2624966,
-     39.5046825
+     -120.262497,
+     39.504683
     ]
    },
    "properties": {
@@ -5203,7 +6788,12 @@
      "CA 89",
      "Henness Pass Road;CR 450"
     ],
-    "nodeId": 91791375
+    "nodeId": 91791375,
+    "wayIds": [
+     292892404,
+     347355574
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5211,8 +6801,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8818672,
-     39.7526573
+     -120.881867,
+     39.752657
     ]
    },
    "properties": {
@@ -5220,7 +6810,12 @@
      "Johnsville-McRae Road;CR 900",
      "Poker Flat Road;CR 800"
     ],
-    "nodeId": 91822594
+    "nodeId": 91822594,
+    "wayIds": [
+     315681829,
+     563496935
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5237,7 +6832,12 @@
      "Antelope Valley Road",
      "Smithneck Road;CR 860"
     ],
-    "nodeId": 92143050
+    "nodeId": 92143050,
+    "wayIds": [
+     347355567,
+     405595257
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5245,8 +6845,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0672943,
-     39.5294524
+     -120.067294,
+     39.529452
     ]
    },
    "properties": {
@@ -5254,7 +6854,12 @@
      "Henness Pass Road;CR 860",
      "Henness Pass Road;CR 860;NF 31027"
     ],
-    "nodeId": 7885535946
+    "nodeId": 7885535946,
+    "wayIds": [
+     347355578,
+     844053304
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5262,8 +6867,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2027018,
-     39.6355497
+     -120.202702,
+     39.63555
     ]
    },
    "properties": {
@@ -5271,7 +6876,12 @@
      "Bear Valley Road",
      "Smithneck Road;CR 860"
     ],
-    "nodeId": 92137346
+    "nodeId": 92137346,
+    "wayIds": [
+     405595257,
+     1291329629
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5279,8 +6889,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.7531732,
-     39.5810324
+     -120.753173,
+     39.581032
     ]
    },
    "properties": {
@@ -5288,7 +6898,12 @@
      "Forest Route 93",
      "Gold Valley Road;FH 93"
     ],
-    "nodeId": 91967725
+    "nodeId": 91967725,
+    "wayIds": [
+     490365383,
+     490365385
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5296,8 +6911,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9600332,
-     39.5640376
+     -120.960033,
+     39.564038
     ]
    },
    "properties": {
@@ -5305,7 +6920,12 @@
      "Eureka Mine Road",
      "Fiddle-Eureka Road;NF 27"
     ],
-    "nodeId": 91809589
+    "nodeId": 91809589,
+    "wayIds": [
+     562911625,
+     940899824
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5313,7 +6933,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9107798,
+     -120.91078,
      39.604813
     ]
    },
@@ -5323,7 +6943,13 @@
      "Eureka Road;NF 25",
      "Magnolia Road;FR 25-15"
     ],
-    "nodeId": 91810565
+    "nodeId": 91810565,
+    "wayIds": [
+     562911625,
+     1329981483,
+     1329981484
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5332,7 +6958,7 @@
     "type": "Point",
     "coordinates": [
      -120.284016,
-     39.4859332
+     39.485933
     ]
    },
    "properties": {
@@ -5340,7 +6966,13 @@
      "Independence Lake Road;CR 350",
      "Old Fibreboard Road;NFR 07-10"
     ],
-    "nodeId": 91826153
+    "nodeId": 91826153,
+    "wayIds": [
+     567644228,
+     862896413,
+     1315253846
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5357,7 +6989,12 @@
      "CA 49",
      "Yuba Pass Road"
     ],
-    "nodeId": 91869759
+    "nodeId": 91869759,
+    "wayIds": [
+     567644233,
+     863865361
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5365,8 +7002,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2828218,
-     39.4931928
+     -120.282822,
+     39.493193
     ]
    },
    "properties": {
@@ -5374,7 +7011,12 @@
      "Henness Pass Road;CR 301",
      "Independence Lake Road;CR 350"
     ],
-    "nodeId": 91800350
+    "nodeId": 91800350,
+    "wayIds": [
+     622418859,
+     622418863
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5382,8 +7024,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4919976,
-     39.6607674
+     -120.491998,
+     39.660767
     ]
    },
    "properties": {
@@ -5391,7 +7033,12 @@
      "Chapman Saddle Road;FR 21N09",
      "Chapman-Calpine Road;NF 52"
     ],
-    "nodeId": 6898700731
+    "nodeId": 6898700731,
+    "wayIds": [
+     736851784,
+     736852028
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5399,8 +7046,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6462094,
-     39.6774373
+     -120.646209,
+     39.677437
     ]
    },
    "properties": {
@@ -5408,7 +7055,12 @@
      "Gold Lake Campground Road;NFR 21N61",
      "Gold Lake Shore Trail;12M01"
     ],
-    "nodeId": 6938192560
+    "nodeId": 6938192560,
+    "wayIds": [
+     741090997,
+     1205080255
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5416,8 +7068,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6509223,
-     39.6924098
+     -120.650922,
+     39.69241
     ]
    },
    "properties": {
@@ -5425,7 +7077,12 @@
      "Boy Scout Road",
      "Gold Lake Highway;CR 620;NFH 24"
     ],
-    "nodeId": 92179853
+    "nodeId": 92179853,
+    "wayIds": [
+     741090998,
+     863865360
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5433,8 +7090,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0921804,
-     39.5067537
+     -120.09218,
+     39.506754
     ]
    },
    "properties": {
@@ -5442,7 +7099,13 @@
      "Henness Pass Road;CR 860",
      "Stampede Dam Road;CR 270"
     ],
-    "nodeId": 91799565
+    "nodeId": 91799565,
+    "wayIds": [
+     844053304,
+     957717994,
+     1186236913
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5450,8 +7113,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0108013,
-     39.5234135
+     -120.010801,
+     39.523414
     ]
    },
    "properties": {
@@ -5459,7 +7122,12 @@
      "Feenune Road",
      "Mallcrinn Court"
     ],
-    "nodeId": 7876079301
+    "nodeId": 7876079301,
+    "wayIds": [
+     844333712,
+     844333713
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5467,8 +7135,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5537347,
-     39.5095766
+     -120.553735,
+     39.509577
     ]
    },
    "properties": {
@@ -5477,7 +7145,13 @@
      "Henness Pass Road",
      "Henness Pass Road;CR 301"
     ],
-    "nodeId": 91796260
+    "nodeId": 91796260,
+    "wayIds": [
+     845551742,
+     937829971,
+     937829993
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5485,8 +7159,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4428899,
-     39.6642485
+     -120.44289,
+     39.664249
     ]
    },
    "properties": {
@@ -5494,7 +7168,12 @@
      "Main Street",
      "Mount View Road"
     ],
-    "nodeId": 7899048603
+    "nodeId": 7899048603,
+    "wayIds": [
+     846597555,
+     846597559
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5502,8 +7181,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4386681,
-     39.6669082
+     -120.438668,
+     39.666908
     ]
    },
    "properties": {
@@ -5511,7 +7190,12 @@
      "County Road",
      "Main Street"
     ],
-    "nodeId": 7899048691
+    "nodeId": 7899048691,
+    "wayIds": [
+     846597557,
+     846597559
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5519,8 +7203,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6246176,
-     39.5691737
+     -120.624618,
+     39.569174
     ]
    },
    "properties": {
@@ -5528,7 +7212,12 @@
      "Old Highway 49",
      "Wild Plum Road;CR 524"
     ],
-    "nodeId": 8088983593
+    "nodeId": 8088983593,
+    "wayIds": [
+     863864507,
+     867808534
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5536,8 +7225,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5255932,
-     39.6221108
+     -120.525593,
+     39.622111
     ]
    },
    "properties": {
@@ -5545,7 +7234,13 @@
      "CA 49",
      "Clark Station Tract;NFR 49-63"
     ],
-    "nodeId": 92048292
+    "nodeId": 92048292,
+    "wayIds": [
+     863865361,
+     868473670,
+     1301781334
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5553,8 +7248,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8634321,
-     39.6300875
+     -120.863432,
+     39.630088
     ]
    },
    "properties": {
@@ -5562,7 +7257,12 @@
      "Poker Flat-Downieville Road;NFR 25-23-01",
      "Saddleback Road;NFR 25-23"
     ],
-    "nodeId": 91809307
+    "nodeId": 91809307,
+    "wayIds": [
+     867869168,
+     867869170
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5570,8 +7270,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8833849,
-     39.6283389
+     -120.883385,
+     39.628339
     ]
    },
    "properties": {
@@ -5579,7 +7279,12 @@
      "Eureka Road;NF 25",
      "Saddleback Road;NFR 25-23"
     ],
-    "nodeId": 8089499213
+    "nodeId": 8089499213,
+    "wayIds": [
+     867869168,
+     867869169
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5587,8 +7292,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.5275436,
-     39.6222403
+     -120.527544,
+     39.62224
     ]
    },
    "properties": {
@@ -5596,7 +7301,12 @@
      "CA 49",
      "Julee Road;NFR 49-61"
     ],
-    "nodeId": 8095157796
+    "nodeId": 8095157796,
+    "wayIds": [
+     868473524,
+     1301781334
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5604,8 +7314,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.1768606,
-     39.5113474
+     -120.176861,
+     39.511347
     ]
    },
    "properties": {
@@ -5613,7 +7323,12 @@
      "Henness Pass Road;CR 450",
      "Lemmon Canyon Road;CR 650"
     ],
-    "nodeId": 91790296
+    "nodeId": 91790296,
+    "wayIds": [
+     937482212,
+     1409384771
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5621,8 +7336,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2830288,
-     39.5054019
+     -120.283029,
+     39.505402
     ]
    },
    "properties": {
@@ -5630,7 +7345,12 @@
      "Fibreboard Road",
      "Treasure Mountain Road;NFH 05"
     ],
-    "nodeId": 92118793
+    "nodeId": 92118793,
+    "wayIds": [
+     940459253,
+     940459258
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5638,8 +7358,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3657719,
-     39.5893214
+     -120.365772,
+     39.589321
     ]
    },
    "properties": {
@@ -5648,7 +7368,13 @@
      "East Main Street;CA 49",
      "North Battelle Street"
     ],
-    "nodeId": 92073344
+    "nodeId": 92073344,
+    "wayIds": [
+     942937018,
+     1009000488,
+     1009000510
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5656,8 +7382,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8275107,
-     39.5569428
+     -120.827511,
+     39.556943
     ]
    },
    "properties": {
@@ -5665,7 +7391,12 @@
      "Galloway Road",
      "Galloway Street"
     ],
-    "nodeId": 92124227
+    "nodeId": 92124227,
+    "wayIds": [
+     947120138,
+     947120139
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5673,8 +7404,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.1461077,
-     39.5594402
+     -120.146108,
+     39.55944
     ]
    },
    "properties": {
@@ -5682,7 +7413,12 @@
      "Babbitt Road;NFR 860-35",
      "Smithneck Road;CR 860"
     ],
-    "nodeId": 10087301625
+    "nodeId": 10087301625,
+    "wayIds": [
+     1101284388,
+     1102375510
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5690,8 +7426,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6793106,
-     39.6325248
+     -120.679311,
+     39.632525
     ]
    },
    "properties": {
@@ -5699,7 +7435,12 @@
      "Pauley Creek Road;FR 93-03",
      "Pauley Creek Spur;NFR 93-03-01"
     ],
-    "nodeId": 5057386386
+    "nodeId": 5057386386,
+    "wayIds": [
+     1446824842,
+     1446824845
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5707,7 +7448,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8913271,
+     -120.891327,
      39.500095
     ]
    },
@@ -5716,7 +7457,12 @@
      "Henness Pass Road",
      "Mountain House Road"
     ],
-    "nodeId": 91789624
+    "nodeId": 91789624,
+    "wayIds": [
+     10578435,
+     562632799
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5724,8 +7470,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8882651,
-     39.4979874
+     -120.888265,
+     39.497987
     ]
    },
    "properties": {
@@ -5733,7 +7479,13 @@
      "Henness Pass Road",
      "Mountain House Road"
     ],
-    "nodeId": 91789665
+    "nodeId": 91789665,
+    "wayIds": [
+     10578480,
+     10586739,
+     562632799
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5741,8 +7493,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3688765,
-     39.5841477
+     -120.368876,
+     39.584148
     ]
    },
    "properties": {
@@ -5750,7 +7502,12 @@
      "CA 89",
      "South Lincoln Street;CA 89"
     ],
-    "nodeId": 91813011
+    "nodeId": 91813011,
+    "wayIds": [
+     10578767,
+     10585907
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5758,8 +7515,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.3668761,
-     39.5733739
+     -120.366876,
+     39.573374
     ]
    },
    "properties": {
@@ -5767,7 +7524,12 @@
      "CA 89",
      "South Lincoln Street;CA 89"
     ],
-    "nodeId": 9310935099
+    "nodeId": 9310935099,
+    "wayIds": [
+     10586961,
+     1382662491
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5775,8 +7537,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9275731,
-     39.4707359
+     -120.927573,
+     39.470736
     ]
    },
    "properties": {
@@ -5784,7 +7546,13 @@
      "Miller Ranch Road",
      "Oregon Creek Road"
     ],
-    "nodeId": 92126282
+    "nodeId": 92126282,
+    "wayIds": [
+     10585565,
+     10586692,
+     562910848
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5801,7 +7569,12 @@
      "Miller Ranch Road",
      "Oregon Creek Road"
     ],
-    "nodeId": 92126262
+    "nodeId": 92126262,
+    "wayIds": [
+     10586692,
+     10587633
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5818,7 +7591,12 @@
      "Miller Ranch Road",
      "Oregon Creek Road"
     ],
-    "nodeId": 92125835
+    "nodeId": 92125835,
+    "wayIds": [
+     10587633,
+     1168131043
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5826,8 +7604,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0065964,
-     39.5290114
+     -120.006596,
+     39.529011
     ]
    },
    "properties": {
@@ -5835,7 +7613,12 @@
      "Beaver Creek Circle",
      "Deer Water Drive"
     ],
-    "nodeId": 92073283
+    "nodeId": 92073283,
+    "wayIds": [
+     10585828,
+     10586587
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5843,8 +7626,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0067225,
-     39.5274722
+     -120.006722,
+     39.527472
     ]
    },
    "properties": {
@@ -5852,7 +7635,12 @@
      "Beaver Creek Circle",
      "Deer Water Drive"
     ],
-    "nodeId": 92073296
+    "nodeId": 92073296,
+    "wayIds": [
+     10585828,
+     10586587
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5860,8 +7648,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2378543,
-     39.6755287
+     -120.237854,
+     39.675529
     ]
    },
    "properties": {
@@ -5869,7 +7657,12 @@
      "East Main Street;CA 49",
      "Main Street;CA 49"
     ],
-    "nodeId": 92073355
+    "nodeId": 92073355,
+    "wayIds": [
+     10585830,
+     10586366
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -5886,7 +7679,12 @@
      "East Main Street;CA 49",
      "Main Street;CA 49"
     ],
-    "nodeId": 92073368
+    "nodeId": 92073368,
+    "wayIds": [
+     10585830,
+     1290083117
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -5894,8 +7692,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6187344,
-     39.5729473
+     -120.618734,
+     39.572947
     ]
    },
    "properties": {
@@ -5903,7 +7701,12 @@
      "Brady Drive",
      "Nevada Drive"
     ],
-    "nodeId": 92077944
+    "nodeId": 92077944,
+    "wayIds": [
+     10585910,
+     10587375
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5911,8 +7714,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6180596,
-     39.5719008
+     -120.61806,
+     39.571901
     ]
    },
    "properties": {
@@ -5920,7 +7723,12 @@
      "Brady Drive",
      "Nevada Drive"
     ],
-    "nodeId": 92077958
+    "nodeId": 92077958,
+    "wayIds": [
+     10585910,
+     10587375
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5928,8 +7736,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2123805,
-     39.6390735
+     -120.21238,
+     39.639074
     ]
    },
    "properties": {
@@ -5937,7 +7745,12 @@
      "Longhorn Drive",
      "West Sierra Brooks Drive"
     ],
-    "nodeId": 92078056
+    "nodeId": 92078056,
+    "wayIds": [
+     10585914,
+     10588383
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5945,8 +7758,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2191964,
-     39.6422784
+     -120.219196,
+     39.642278
     ]
    },
    "properties": {
@@ -5954,7 +7767,12 @@
      "Longhorn Drive",
      "West Sierra Brooks Drive"
     ],
-    "nodeId": 92078122
+    "nodeId": 92078122,
+    "wayIds": [
+     10585914,
+     10588383
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5962,8 +7780,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0302114,
-     39.6990448
+     -120.030211,
+     39.699045
     ]
    },
    "properties": {
@@ -5971,7 +7789,13 @@
      "Evans Ranch Road",
      "Route 395;US 395"
     ],
-    "nodeId": 91939614
+    "nodeId": 91939614,
+    "wayIds": [
+     10586001,
+     702615271,
+     884519967
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5979,7 +7803,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.0297404,
+     -120.02974,
      39.699347
     ]
    },
@@ -5988,7 +7812,14 @@
      "Evans Ranch Road",
      "Route 395;US 395"
     ],
-    "nodeId": 91939618
+    "nodeId": 91939618,
+    "wayIds": [
+     390542500,
+     702616406,
+     884519967,
+     959948271
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -5996,8 +7827,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2590499,
-     39.6747924
+     -120.25905,
+     39.674792
     ]
    },
    "properties": {
@@ -6005,7 +7836,12 @@
      "CA 49",
      "Main Street;CA 49"
     ],
-    "nodeId": 92028200
+    "nodeId": 92028200,
+    "wayIds": [
+     10586205,
+     10586365
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6013,8 +7849,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2357268,
-     39.6753812
+     -120.235727,
+     39.675381
     ]
    },
    "properties": {
@@ -6022,7 +7858,12 @@
      "CA 49",
      "Main Street;CA 49"
     ],
-    "nodeId": 92103589
+    "nodeId": 92103589,
+    "wayIds": [
+     10586237,
+     10586366
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6039,7 +7880,12 @@
      "CA 49",
      "Main Street;CA 49"
     ],
-    "nodeId": 92103684
+    "nodeId": 92103684,
+    "wayIds": [
+     10586351,
+     528648585
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6047,8 +7893,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8408785,
-     39.5598761
+     -120.840878,
+     39.559876
     ]
    },
    "properties": {
@@ -6056,7 +7902,12 @@
      "CA 49",
      "Main Street;CA 49"
     ],
-    "nodeId": 92069518
+    "nodeId": 92069518,
+    "wayIds": [
+     10586359,
+     863858242
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6064,8 +7915,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9991318,
-     39.4392215
+     -120.999132,
+     39.439222
     ]
    },
    "properties": {
@@ -6073,7 +7924,12 @@
      "Camptonville Road",
      "Pike City Road"
     ],
-    "nodeId": 92086459
+    "nodeId": 92086459,
+    "wayIds": [
+     10586588,
+     988167395
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6081,8 +7937,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -121.0035252,
-     39.4374504
+     -121.003525,
+     39.43745
     ]
    },
    "properties": {
@@ -6090,7 +7946,12 @@
      "Camptonville Road",
      "Pike City Road"
     ],
-    "nodeId": 92086809
+    "nodeId": 92086809,
+    "wayIds": [
+     988167324,
+     988167395
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6099,7 +7960,7 @@
     "type": "Point",
     "coordinates": [
      -121.005451,
-     39.4338852
+     39.433885
     ]
    },
    "properties": {
@@ -6107,7 +7968,12 @@
      "Camptonville Road",
      "Pike City Road"
     ],
-    "nodeId": 91856364
+    "nodeId": 91856364,
+    "wayIds": [
+     10586598,
+     988167395
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6124,7 +7990,12 @@
      "Mountain House Road",
      "Oregon Creek Road"
     ],
-    "nodeId": 92125539
+    "nodeId": 92125539,
+    "wayIds": [
+     10586686,
+     188562560
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6141,7 +8012,12 @@
      "Mountain House Road",
      "Oregon Creek Road"
     ],
-    "nodeId": 92128656
+    "nodeId": 92128656,
+    "wayIds": [
+     10587194,
+     188562560
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6158,7 +8034,12 @@
      "Mountain House Road",
      "Oregon Creek Road"
     ],
-    "nodeId": 92128584
+    "nodeId": 92128584,
+    "wayIds": [
+     10586736,
+     10587196
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6175,7 +8056,12 @@
      "Mountain House Road",
      "Oregon Creek Road"
     ],
-    "nodeId": 92125822
+    "nodeId": 92125822,
+    "wayIds": [
+     10586736,
+     10588161
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6192,7 +8078,12 @@
      "Court Lane",
      "Railroad Avenue"
     ],
-    "nodeId": 92126341
+    "nodeId": 92126341,
+    "wayIds": [
+     10586693,
+     10588151
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6209,7 +8100,12 @@
      "3rd Street",
      "Beckwith Road;CR A24"
     ],
-    "nodeId": 92129072
+    "nodeId": 92129072,
+    "wayIds": [
+     10586790,
+     41662956
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -6217,7 +8113,7 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.2439437,
+     -120.243944,
      39.676884
     ]
    },
@@ -6226,7 +8122,12 @@
      "3rd Street",
      "Beckwith Road;CR A24"
     ],
-    "nodeId": 92129070
+    "nodeId": 92129070,
+    "wayIds": [
+     41662956,
+     1193648605
+    ],
+    "cityName": "Loyalton"
    }
   },
   {
@@ -6243,7 +8144,12 @@
      "Bear Valley Road",
      "Cottonwood Road"
     ],
-    "nodeId": 92135923
+    "nodeId": 92135923,
+    "wayIds": [
+     10586846,
+     10588081
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6260,7 +8166,12 @@
      "Bear Valley Road",
      "Cottonwood Road"
     ],
-    "nodeId": 91961479
+    "nodeId": 91961479,
+    "wayIds": [
+     10586846,
+     10588073
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6277,7 +8188,12 @@
      "Bear Valley Road",
      "Cottonwood Road"
     ],
-    "nodeId": 91940899
+    "nodeId": 91940899,
+    "wayIds": [
+     10586879,
+     10588073
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6294,7 +8210,12 @@
      "Bear Valley Road",
      "Cottonwood Road"
     ],
-    "nodeId": 92137367
+    "nodeId": 92137367,
+    "wayIds": [
+     10586879,
+     10588092
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6311,7 +8232,12 @@
      "Commercial Street;CA 49",
      "Old Highway"
     ],
-    "nodeId": 92149091
+    "nodeId": 92149091,
+    "wayIds": [
+     10587215,
+     736313525
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6319,8 +8245,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8277601,
-     39.5596145
+     -120.82776,
+     39.559615
     ]
    },
    "properties": {
@@ -6328,7 +8254,12 @@
      "Commercial Street;CA 49",
      "Old Highway"
     ],
-    "nodeId": 92149114
+    "nodeId": 92149114,
+    "wayIds": [
+     10587215,
+     736313525
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6336,8 +8267,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9796581,
-     39.5137665
+     -120.979658,
+     39.513767
     ]
    },
    "properties": {
@@ -6345,7 +8276,12 @@
      "CA 49",
      "Indian Valley Road"
     ],
-    "nodeId": 92102433
+    "nodeId": 92102433,
+    "wayIds": [
+     10587411,
+     32684299
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6353,8 +8289,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.9843896,
-     39.5158364
+     -120.98439,
+     39.515836
     ]
    },
    "properties": {
@@ -6362,7 +8298,12 @@
      "CA 49",
      "Indian Valley Road"
     ],
-    "nodeId": 92102415
+    "nodeId": 92102415,
+    "wayIds": [
+     10587411,
+     32684299
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6370,8 +8311,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6412017,
-     39.6841802
+     -120.641202,
+     39.68418
     ]
    },
    "properties": {
@@ -6379,7 +8320,12 @@
      "Church Meadow Road;CR 721",
      "Gold Lake Highway;CR 620;NFH 24"
     ],
-    "nodeId": 91801916
+    "nodeId": 91801916,
+    "wayIds": [
+     10587428,
+     863865360
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6396,7 +8342,12 @@
      "Church Meadow Road;CR 721",
      "Gold Lake Highway;CR 620;NFH 24"
     ],
-    "nodeId": 92157207
+    "nodeId": 92157207,
+    "wayIds": [
+     10587428,
+     863865360
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6404,8 +8355,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8739183,
-     39.4712952
+     -120.873918,
+     39.471295
     ]
    },
    "properties": {
@@ -6413,7 +8364,13 @@
      "Mountain House Road",
      "Ridge Road"
     ],
-    "nodeId": 92061617
+    "nodeId": 92061617,
+    "wayIds": [
+     10587482,
+     10587490,
+     10588163
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6421,8 +8378,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.8736862,
-     39.4717462
+     -120.873686,
+     39.471746
     ]
    },
    "properties": {
@@ -6430,7 +8387,12 @@
      "Mountain House Road",
      "Ridge Road"
     ],
-    "nodeId": 92158473
+    "nodeId": 92158473,
+    "wayIds": [
+     10588163,
+     1053215753
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6447,7 +8409,12 @@
      "Rancho Circle Drive",
      "Smithneck Road;CR 860"
     ],
-    "nodeId": 92163911
+    "nodeId": 92163911,
+    "wayIds": [
+     10587612,
+     405595257
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6464,7 +8431,12 @@
      "Rancho Circle Drive",
      "Smithneck Road;CR 860"
     ],
-    "nodeId": 92163959
+    "nodeId": 92163959,
+    "wayIds": [
+     10587612,
+     405595257
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6481,7 +8453,13 @@
      "Port Wine Ridge Road",
      "Poverty Hill Road"
     ],
-    "nodeId": 92146002
+    "nodeId": 92146002,
+    "wayIds": [
+     10587912,
+     562636266,
+     1329158656
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6498,7 +8476,12 @@
      "Port Wine Ridge Road",
      "Poverty Hill Road"
     ],
-    "nodeId": 92146024
+    "nodeId": 92146024,
+    "wayIds": [
+     10587915,
+     562636266
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6506,8 +8489,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.4407657,
-     39.6651636
+     -120.440766,
+     39.665164
     ]
    },
    "properties": {
@@ -6515,7 +8498,12 @@
      "Farrar Avenue",
      "Main Street"
     ],
-    "nodeId": 92109154
+    "nodeId": 92109154,
+    "wayIds": [
+     10588013,
+     846597559
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6524,7 +8512,7 @@
     "type": "Point",
     "coordinates": [
      -120.440594,
-     39.6653184
+     39.665318
     ]
    },
    "properties": {
@@ -6532,7 +8520,12 @@
      "Farrar Avenue",
      "Main Street"
     ],
-    "nodeId": 92109155
+    "nodeId": 92109155,
+    "wayIds": [
+     10588014,
+     846597559
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6549,7 +8542,13 @@
      "Lafayette Road",
      "Plumbago Road"
     ],
-    "nodeId": 92129375
+    "nodeId": 92129375,
+    "wayIds": [
+     10588385,
+     562910846,
+     667514106
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6566,7 +8565,12 @@
      "Lafayette Road",
      "Plumbago Road"
     ],
-    "nodeId": 92129364
+    "nodeId": 92129364,
+    "wayIds": [
+     10588414,
+     562910846
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6574,8 +8578,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6412889,
-     39.6795625
+     -120.641289,
+     39.679563
     ]
    },
    "properties": {
@@ -6583,7 +8587,12 @@
      "Gold Lake Campground Road;NFR 21N61",
      "Gold Lake Highway;CR 620;NFH 24"
     ],
-    "nodeId": 6938192594
+    "nodeId": 6938192594,
+    "wayIds": [
+     741090997,
+     863865360
+    ],
+    "cityName": "Unincorporated"
    }
   },
   {
@@ -6591,8 +8600,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -120.6411494,
-     39.6837261
+     -120.641149,
+     39.683726
     ]
    },
    "properties": {
@@ -6600,7 +8609,12 @@
      "Gold Lake Campground Road;NFR 21N61",
      "Gold Lake Highway;CR 620;NFH 24"
     ],
-    "nodeId": 6938192481
+    "nodeId": 6938192481,
+    "wayIds": [
+     741090999,
+     863865360
+    ],
+    "cityName": "Unincorporated"
    }
   }
  ]
