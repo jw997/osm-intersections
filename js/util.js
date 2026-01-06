@@ -9,14 +9,19 @@ const pointerFine = mql.matches;
 
 
 const selectCounty = document.querySelector('#selectCounty');
-
+const selectCity = document.querySelector('#selectCity');
 const primaryRoad = document.querySelector('#primaryRoad');
 
 const secondaryRoad = document.querySelector('#secondaryRoad');
 
 const filterButton = document.querySelector('#filterButton');
+const summary = document.querySelector('#summary');
 
 
+function makeKey(s1, s2) {
+	const key = (''+s1).trim() + '/' + (''+s2).trim();
+	return key;
+}
 
 function fileNameIze(str) {
 	return str.replaceAll(' ', '_').replaceAll('/', '_');
@@ -149,15 +154,22 @@ const arrCounties = [];
 const arrCountyCityKeys = [];
 
 const UNINCORPORATED = 'Unincorporated';
-
+const mapCountyToCities = new Map();
 for (const obj of countyCityJSON) {
 	arrCounties.push(obj.countyName);
+	mapCountyToCities.set(obj.countyName, obj.cityNames);
+	for (const city of [UNINCORPORATED].concat(obj.cityNames)) {
+		const k = makeKey(obj.countyName, city);
+		arrCountyCityKeys.push(k);
+	}
 }
 
 populateSelect(arrCounties, selectCounty);
 
 
-
+function getCitiesForCounty(county) {
+	return mapCountyToCities.get(county);
+}
 
 
 
@@ -222,13 +234,15 @@ function addMarkers(intersections) {
 	//removeAllMakers();
 	//const markersAtLocation = new Map();
 	// add collisions to map
-	var markerCount = 0
+	var markerCount = 0;
+	summary.innerHTML = '<br>Processing...';
 	//var skipped = 0, plotted = 0;
 
 	const primaryRoadPattern = primaryRoad.value;
 	const secondaryRoadPattern = secondaryRoad.value;
+	const cityFilter = selectCity.value;
 
-	const filtering = (primaryRoadPattern || secondaryRoadPattern);
+	const filtering = (primaryRoadPattern || secondaryRoadPattern || (cityFilter != 'Any'));
 
 	for (const intersection of intersections) {
 
@@ -265,6 +279,11 @@ function addMarkers(intersections) {
 			if (secondaryRoadPattern && !streetMsg.includes(secondaryRoadPattern)) {
 				continue;
 			}
+			if (cityFilter!= "Any") {
+				if (intersection.properties.cityName != cityFilter) {  
+					continue;
+				}
+			}
 		} 
 		marker.addTo(map)
 		
@@ -273,6 +292,8 @@ function addMarkers(intersections) {
 
 	}
 	console.log("markerCount ", markerCount)
+	const summaryMsg = '<br>Matching Intersections: ' + markerCount //;//+ '<br>' + 'Skipped: ' + skipped + '<br>';
+    summary.innerHTML = summaryMsg;
 }
 
 async function loadIntersectionsForCount( county) {
@@ -284,6 +305,9 @@ async function loadIntersectionsForCount( county) {
 async function handleSelectCountyChange(event) {
 	console.log("Select county changed to ", selectCounty.value);
 	const county = selectCounty.value;
+
+	const arrCities = ["Any", "Unincorporated"].concat(getCitiesForCounty(county));
+	populateSelect(arrCities, selectCity)
 
 	if (map) {
 		const center = mapNameToCenter.get(county);
