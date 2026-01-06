@@ -24,6 +24,7 @@ const metersPerDegree = 100000;
 
 
 // commmand line args
+// input file name is ./input/ways_<County_Name>.json
 const inputFile = process.argv[2]
 const outputFile = process.argv[3]
 
@@ -41,9 +42,20 @@ for (const obj of countyCityJson) {
 	mapCountyToCities.set(obj.countyName, obj.cityNames);
 }
 
-var countyName;
+function getCountyNameFromInputFileName(inputFile) {
+	const regex = /ways_(.*).json/;
+	const matchGroup = inputFile.match(regex)[1];
+	const countyName = matchGroup.replaceAll('_', ' ');
+
+	if (!mapCountyToCities.has(countyName)) {
+		throw 'Unxpected county name', countyName
+	}
+	return countyName;
+}
+const countyName = getCountyNameFromInputFileName(inputFile)
 var countyFeature;
-const mapNameToBoundaryFeature = new Map(); 
+const mapNameToBoundaryFeature = new Map();
+
 
 function findCityFromCoords(coords) {
 	
@@ -56,12 +68,17 @@ function findCityFromCoords(coords) {
 	}
 	return; // not in any city boundary
 }
+
 function loadBorders(wayJson) {
 	// figure out county that contains coord and return a map from city names to turf features for each border
 
-	const coordObj = wayJson.elements[0].geometry[0];
-	const testCoords = [coordObj.lon, coordObj.lat];
-	const testPoint = turf.point([coordObj.lon, coordObj.lat]);
+	//const coordObj = wayJson.elements[21].geometry[0];  
+	// first point may be out of county!
+
+	// pick the county from the first way all of whose nodes are in one county together??
+
+	//const testCoords = [coordObj.lon, coordObj.lat];
+	//const testPoint = turf.point([coordObj.lon, coordObj.lat]);
 
 	// find the county
 	for (const feature of countyCityBoundaryJson.features) {
@@ -69,22 +86,23 @@ function loadBorders(wayJson) {
 		if (mapCountyToCities.has(name)) { // is this a countyname ?
 			const testFeature = turf.feature(feature.geometry);
 			//console.log("testing ", name)
-			if (turf.booleanPointInPolygon(testPoint, testFeature)) {
-				countyName = name;
+			//if (turf.booleanPointInPolygon(testPoint, testFeature)) {
+			if (countyName == name) {
 				countyFeature = testFeature;
 				break;
-			} else {
-				if (DEBUG) {
-					console.log("point not in ", name)
-				}
 			}
-		}
-	}
-
-	if (!countyName) {
-		throw ("County not found!")
+		} //else {
+		//	if (DEBUG) {
+		///			console.log("point not in ", name)
+		//		}
+		//		}
+		//}
 	}
 	console.log("County", countyName)
+	if (!countyFeature) {
+		throw ("County feature not found!")
+	}
+
 
 	const arrExpectedCities = mapCountyToCities.get(countyName)
 	const setExpectedCities = new Set(arrExpectedCities);
@@ -95,13 +113,13 @@ function loadBorders(wayJson) {
 		if (setExpectedCities.has(name)) { // is this a countyname ?
 
 			if (mapNameToBoundaryFeature.has(name)) {
-				console.log( "Already found boudnary for ", name)  // san francisco?
+				console.log("Already found boudnary for ", name)  // san francisco?
 			}
 			const cityFeature = turf.feature(feature.geometry);
 			mapNameToBoundaryFeature.set(name, cityFeature);
 		}
 	}
-	return ;
+	return;
 }
 /* 
 Function to generate geojson
@@ -1233,12 +1251,12 @@ function makeIntersectionGeoJson(intersections) {
 		const lon = fix6(intersection.coordinates[1]);
 
 		const coords = [lon, lat]
-		
+
 		const cityName = findCityFromCoords(coords) ?? 'Unincorporated';  // double check in county??
 
 		const wayIds = intersection.wayIds;
 		const streets = intersection.streets.split(SLASH);
-		const properties = { 'streets': streets, nodeId: intersection.nodeId, wayIds: wayIds, cityName:cityName };
+		const properties = { 'streets': streets, nodeId: intersection.nodeId, wayIds: wayIds, cityName: cityName };
 		const feature = makePointFeature(coords, properties);
 		arrFeatures.push(feature);
 	}
