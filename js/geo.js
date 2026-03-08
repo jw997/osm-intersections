@@ -4,8 +4,7 @@ IMPORTS
 import * as turf from "@turf/turf";
 
 import { classGpsbins } from "./gpsBins.js";
-import { readFileSync, writeFileSync } from 'fs';
-import { features } from "process";
+import { readFileSync, write, writeFileSync } from 'fs';
 
 const DEBUG = false;
 const ALGGEOM = 'Geom';
@@ -19,8 +18,13 @@ const SEMICOLON = ';';
 const JUNCTION = 'JUNCTION';
 const MOTORWAY = 'motorway';
 const MOTORWAY_LINK = 'motorway_link';
+const UNINCORPORATED = 'Unincorporated'
 
 const metersPerDegree = 100000;
+
+function fileNameIze(str) {
+	return str.replaceAll(' ', '_').replaceAll('/', '_');
+}
 
 
 // commmand line args
@@ -1187,9 +1191,6 @@ function findintersections(ways) //  { "lat": 37.8655316, "lon": -122.3100479 },
 
 			setOfIntersections.set(intString, data);
 
-			if (intString.includes("Buchanan")) {
-				//	console.log("break ", intString)
-			}
 		}
 	}
 
@@ -1252,7 +1253,8 @@ function makeIntersectionGeoJson(intersections) {
 
 		const coords = [lon, lat]
 
-		const cityName = findCityFromCoords(coords) ?? 'Unincorporated';  // double check in county??
+		const cityName = findCityFromCoords(coords) ?? UNINCORPORATED;  // double check in county??
+		intersection.cityName = cityName;
 
 		const wayIds = intersection.wayIds;
 		const streets = intersection.streets.split(SLASH);
@@ -1297,9 +1299,53 @@ for (const inter of objGeometric.intersections) {
 	obj.intersections.push(inter)
 }
 
+
+
 const geoJson = makeIntersectionGeoJson(obj.intersections);
 
 writeFileSync(outputFile, JSON.stringify(geoJson, null, ' '));
+
+/* create map of city to streets */
+const mapCityToSetStreets = new Map();
+
+for (const city of mapCountyToCities.get(countyName)) {
+	mapCityToSetStreets.set(city, new Set());
+	mapCityToSetStreets.set("Unincorporated", new Set());
+}
+
+function getStreetsFromIntersection( inter) {
+	
+	const regex = /[\;\/]/
+	
+	const setCityStreets = mapCityToSetStreets.get(inter.cityName); // cityname stashed earlier
+
+	const arrStreets = inter.streets.split( regex)
+	const streets = new Set(arrStreets);
+	for (const s of streets) {
+		setCityStreets.add( s)
+	}
+	return Array.from (setCityStreets)
+
+	// TODO show synonyms
+}
+
+for (const inter of obj.intersections) {
+	const arrStreets = getStreetsFromIntersection(inter);
+	
+}
+
+function makeStreetJson( countyName, mapCityToSetStreets) {
+	const obj = {countyName: countyName, 
+			     cities:[]}
+	const arrCities = Array.from(mapCityToSetStreets.keys()).sort();
+	for (const c of arrCities ) {
+		const arrStreets = Array.from(mapCityToSetStreets.get(c)).sort();
+		obj.cities.push( {city:c, streets:arrStreets})
+	}
+	return obj;
+}
+const streetJson = makeStreetJson( countyName, mapCityToSetStreets);
+writeFileSync( './output/streets_'+ fileNameIze(countyName) + '.json', JSON.stringify( streetJson, null, ' '));
 
 /*
 function distGpsGeometry(gps, geom) {  // geom is array of gps points
