@@ -166,16 +166,99 @@ function findNextWay(way, wayId, nodeId) {
 
 }
 
+function gpsObjToTurf(gps) {
+	const tp = turf.point([gps.lon, gps.lat]);
+	return tp
+}
+function getBearing( gps1, gps2) {
+	const tp2 = gpsObjToTurf(gps2)
+	const tp1 = gpsObjToTurf(gps1)
 
-function getOffsetGps(wayId, nodeId, meters) {
+	const bearing = turf.bearing(tp1, tp2); // -180 to  180 
+	if (DEBUG) console.log( "bearing ", bearing)
+	return bearing
+
+}
+
+// TOOD change 90 to a tighter range?
+function isNorth( bearing ) {
+	const retval =  (bearing > -90 && bearing < 90)
+	if (DEBUG)  if (retval) console.log( 'North')
+	return retval
+}
+function isEast ( bearing ) {
+	const retval =  (bearing > 0 && bearing < 180)
+	if (DEBUG)  if (retval) console.log( 'East')
+	return retval
+}
+function isSouth ( bearing ) {
+	const retval =  (bearing > 90) || (bearing < -90)
+	if (DEBUG)  if (retval) console.log( 'South')
+	return retval
+}
+function isWest ( bearing ) {
+	const retval =  (bearing < 0 ) && (bearing > -180)
+	if (DEBUG) if (retval) console.log( 'West')
+	return retval
+}
+
+// directions N E S W
+const N = 'N', S='S', E='E', W='W';
+
+function getMeters(bearing, direction, meters) {
+	const bN = isNorth(bearing)
+	const bS = isSouth(bearing)
+	const bE = isEast(bearing)
+	const bW = isWest(bearing)
+
+	switch (direction) {
+		case N:
+			if (bN) return meters;
+			if (bS) return -meters;
+			break;
+		case S:
+			if (bN) return -meters;
+			if (bS) return meters;
+			break;
+		case E:
+			if (bE) return meters;
+			if (bW) return -meters;
+			break;
+		case W:
+				if (bE) return -meters;
+				if (bW) return meters;
+		break;			
+
+		console.log("Can't determing direction")
+		throw("Can't determing direction")
+		return null;
+	}
+}
+function getOffsetGps(wayId, nodeId, meters, direction) {
+	console.log("getOffsetGps", wayId, nodeId, meters, direction)
+
+	if (!direction) {
+		throw "unpexted direction arg for getOffsetGps"
+	}
+
 	const way = mapWayIdToWay.get(wayId);
 	const nodeIndex = arrayFindIndex(way.nodes, nodeId);
-
 
 	const geom = way.geometry;
 	const nodes = way.nodes;
 	const firstNode = nodes[0];
 	const lastNode = nodes[nodes.length - 1];
+
+	// find a bearing for this way here
+	let bearing;
+	if (nodeIndex < nodes.length - 1) {
+		bearing = getBearing( geom[nodeIndex], geom[nodeIndex+1]);
+	} else if (nodeIndex>0) {
+		bearing = getBearing( geom[nodeIndex-1], geom[nodeIndex]);
+	} else {
+		throw "no neighbor node index"
+	}
+	meters = getMeters( bearing, direction, meters);
 
 	if (geom.length != nodes.length) {
 		throw "mismatch coordindates and nodes for way ", wayId
@@ -218,7 +301,6 @@ function getOffsetGps(wayId, nodeId, meters) {
 				distSoFar += distances[i];
 			}
 		}
-
 	}
 
 	if (meters > 0) {
@@ -226,7 +308,9 @@ function getOffsetGps(wayId, nodeId, meters) {
 		if (!nextWay) {
 			return null;
 		}
-		const recurse = getOffsetGps( nextWay.id, lastNode, meters - distSoFar);
+		const recurse = getOffsetGps( nextWay.id, lastNode, meters - distSoFar, direction);
+
+		
 
 		return recurse;
 	} else {
@@ -234,21 +318,18 @@ function getOffsetGps(wayId, nodeId, meters) {
 		if (!nextWay) {
 			return null;
 		}
-		const recurse = getOffsetGps( nextWay.id, firstNode, meters + distSoFar);
+		const recurse = getOffsetGps( nextWay.id, firstNode, -(meters + distSoFar), direction);  // TODO keep going same way .....
 		return recurse;
 	}
-
 	throw "should be unreachable"
-
-	
 }
 // 	markleeville oxbow const result = getOffsetGps(375625672, 86282180, -m);
 // ca 89 wayid 269302859 nodeid 86282286  at laramie  const result = getOffsetGps(269302859, 86282286, -m);
 
 // alameda county, adeline at bowl, wayId 202317699 nodeId 53082573
-for (let m = 0; m < 500; m += 100) {
+for (let m = 200; m < 300; m += 100) {
 
-	const result = getOffsetGps(202317699, 53082573, -m);
+	const result = getOffsetGps(202317699, 53082573, m, S);
 	//const result = getOffsetGps(375625672, 86282180, m);
 	console.log(" plus ", m, ' meters ', result)
 	if (result) 	gmapUrl(result);
